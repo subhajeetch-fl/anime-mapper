@@ -57,7 +57,7 @@
     "malMembers": 413397,
     "malFavorites": 1793,
     "anilistScore": 8.2,
-    "anilistPopularity": 82389,
+    "anilistPopularity": 82420,
     "anilistFavourites": 1735,
     "kitsuRating": 8.2
   },
@@ -109,7 +109,7 @@
       "episode": "1",
       "anidbEid": "8544",
       "isFiller": false,
-      "isDubbed": false,
+      "isDubbed": true,
       "length": 115,
       "airdate": "2001-09-01",
       "title": {
@@ -122,7 +122,8 @@
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null,
-      "airDate": "2001-09-01"
+      "airDate": "2001-09-01",
+      "simklEpisodeId": "891042"
     },
     "2": {
       "episode": "2",
@@ -392,7 +393,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-23T15:41:15.117Z",
+    "lastFetched": "2026-06-23T20:05:44.414Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",

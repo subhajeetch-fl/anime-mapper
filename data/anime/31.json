@@ -56,7 +56,7 @@
     "malMembers": 281361,
     "malFavorites": 817,
     "anilistScore": 7.3,
-    "anilistPopularity": 60126,
+    "anilistPopularity": 60162,
     "anilistFavourites": 717,
     "kitsuRating": 7.26
   },
@@ -129,7 +129,7 @@
       "episode": "1",
       "anidbEid": "4001",
       "isFiller": false,
-      "isDubbed": false,
+      "isDubbed": true,
       "length": 70,
       "airdate": "1997-03-15",
       "title": {
@@ -144,13 +144,14 @@
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null,
-      "airDate": "1997-03-15"
+      "airDate": "1997-03-15",
+      "simklEpisodeId": "850936"
     },
     "2": {
       "episode": "2",
       "anidbEid": "7178",
       "isFiller": false,
-      "isDubbed": false,
+      "isDubbed": true,
       "length": 30,
       "airdate": "1997-03-15",
       "title": {
@@ -165,13 +166,14 @@
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null,
-      "airDate": "1997-03-15"
+      "airDate": "1997-03-15",
+      "simklEpisodeId": "850937"
     },
     "3": {
       "episode": "3",
       "anidbEid": "291921",
       "isFiller": false,
-      "isDubbed": false,
+      "isDubbed": true,
       "length": 67,
       "airdate": "1998-03-08",
       "title": {
@@ -184,7 +186,8 @@
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null,
-      "airDate": "1998-03-08"
+      "airDate": "1998-03-08",
+      "simklEpisodeId": "13394672"
     },
     "O1": {
       "episode": "O1",
@@ -342,7 +345,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-23T15:45:18.706Z",
+    "lastFetched": "2026-06-23T20:09:37.056Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
