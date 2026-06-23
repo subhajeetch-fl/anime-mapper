@@ -19,6 +19,7 @@ import { fetchAnime } from './fetch-anime.js';
 import { buildIndexes } from './build-indexes.js';
 import { reportErrorsToDiscord } from './lib/discord.js';
 import { loadRetryQueue, saveRetryQueue, updateRetryQueue } from './lib/state.js';
+import { closeBrowser } from './lib/browser.js';
 
 function parseRange(rangeArg) {
   const [start, end] = rangeArg.split('-').map(Number);
@@ -95,4 +96,8 @@ async function run() {
   console.log(`add-anime done: ${succeededIds.length}/${ids.length} succeeded.`);
 }
 
-await run();
+try {
+  await run();
+} finally {
+  await closeBrowser();
+}
