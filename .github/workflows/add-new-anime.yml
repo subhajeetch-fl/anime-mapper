@@ -1,0 +1,70 @@
+name: Add New Anime
+
+# Manual catalog growth - Phase 2 ("fetch 100 anime") and Phase 3 ("scale
+# to thousands") both run through this workflow with different inputs.
+# Kept separate from update-airing.yml so scheduled runs stay fast and
+# cheap, and so a big backfill can be supervised/run in chunks on purpose.
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: 'Space-separated MAL ids (optional)'
+        type: string
+        default: ''
+      range:
+        description: 'Inclusive id range, e.g. 1-100 (optional)'
+        type: string
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  add-anime:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Validate inputs
+        run: |
+          if [ -z "${{ inputs.ids }}" ] && [ -z "${{ inputs.range }}" ]; then
+            echo "::error::Provide either 'ids' or 'range' when running this workflow."
+            exit 1
+          fi
+
+      - name: Fetch new anime
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.range }}" ]; then
+            ARGS="--range=${{ inputs.range }}"
+          fi
+          node scripts/add-anime.js ${{ inputs.ids }} $ARGS
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(data): add new anime [skip ci]"
+          git push

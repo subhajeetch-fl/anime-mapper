@@ -1,0 +1,20 @@
+{
+  "name": "anime-metadata-api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "GitHub-hosted anime metadata database (JSON files + GitHub Actions pipeline). API layer built separately on Cloudflare Workers/Pages.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "fetch:one": "node scripts/fetch-anime.js",
+    "add:anime": "node scripts/add-anime.js",
+    "update:airing": "node scripts/update-airing.js",
+    "build:indexes": "node scripts/build-indexes.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "node-fetch": "^3.3.2"
+  }
+}
