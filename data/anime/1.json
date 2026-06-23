@@ -1,0 +1,988 @@
+{
+  "id": 1,
+  "idMal": 1,
+  "mappings": {
+    "mal": 1,
+    "anilist": 1,
+    "anidb": 23,
+    "kitsu": 1,
+    "simkl": 37089,
+    "tmdb": 30991,
+    "tvdb": 76885,
+    "trakt": 30857,
+    "traktType": "shows",
+    "shikimori": 1,
+    "livechart": 3418,
+    "animeplanet": "cowboy-bebop",
+    "anisearch": 1572,
+    "notify": "Tk3ccKimg"
+  },
+  "title": {
+    "romaji": "Cowboy Bebop",
+    "english": "Cowboy Bebop",
+    "native": "カウボーイビバップ",
+    "synonyms": [
+      "카우보이 비밥",
+      "קאובוי ביבופ",
+      "คาวบอย บีบ๊อป",
+      "Ковбой Бибоп",
+      "Καουμπόηδες του Διαστήματος",
+      "Kowboj Bebop"
+    ]
+  },
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 26,
+  "episodeLength": 25,
+  "aired": {
+    "from": "1998-04-03T00:00:00+00:00",
+    "to": "1999-04-24T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 1998,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "R - 17+ (violence & profanity)",
+  "score": {
+    "malScore": 8.75,
+    "malScoredBy": 1066243,
+    "malRank": 48,
+    "malPopularity": 41,
+    "malMembers": 2066477,
+    "malFavorites": 90045,
+    "anilistScore": 8.6,
+    "anilistPopularity": 453243,
+    "anilistFavourites": 32146,
+    "kitsuRating": 8.23
+  },
+  "genres": [
+    "Action",
+    "Award Winning",
+    "Sci-Fi",
+    "Adventure",
+    "Drama",
+    "Comedy",
+    "Space",
+    "Science Fiction",
+    "Space Travel",
+    "Post Apocalypse",
+    "Other Planet",
+    "Future",
+    "Shipboard",
+    "Detective",
+    "Bounty Hunter",
+    "Gunfights"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [
+    "Bandai Visual",
+    "Victor Entertainment",
+    "Audio Planning U"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1-OquNCNB6srGe.jpg",
+    "color": "#f16b50"
+  },
+  "trailer": null,
+  "synopsis": "Crime is timeless. By the year 2071, humanity has expanded across the galaxy, filling the surface of other planets with settlements like those on Earth. These new societies are plagued by murder, drug use, and theft, and intergalactic outlaws are hunted by a growing number of tough bounty hunters.\n\nSpike Spiegel and Jet Black pursue criminals throughout space to make a humble living. Beneath his goofy and aloof demeanor, Spike is haunted by the weight of his violent past. Meanwhile, Jet manages his own troubled memories while taking care of Spike and the Bebop, their ship. The duo is joined by the beautiful con artist Faye Valentine, odd child Edward Wong Hau Pepelu Tivrusky IV, and Ein, a bioengineered Welsh corgi.\n\nWhile developing bonds and working to catch a colorful cast of criminals, the Bebop crew's lives are disrupted by a menace from Spike's past. As a rival's maniacal plot continues to unravel, Spike must choose between life with his newfound family or revenge for his old wounds.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 4037,
+      "title": {
+        "romaji": "Cowboy Bebop: Yoseatsume Blues",
+        "english": null,
+        "native": "カウボーイビバップ よせあつめブルース"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4037-zpDbjycoZhNI.png",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "seasonYear": 1998,
+      "relationType": "SUMMARY"
+    },
+    {
+      "malId": 5,
+      "title": {
+        "romaji": "Cowboy Bebop: Tengoku no Tobira",
+        "english": "Cowboy Bebop: The Movie - Knockin' on Heaven's Door",
+        "native": "カウボーイビバップ天国の扉"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5-NozHwXWdNLCz.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2001,
+      "relationType": "SIDE_STORY"
+    },
+    {
+      "malId": 17205,
+      "title": {
+        "romaji": "Cowboy Bebop: Ein no Natsuyasumi",
+        "english": "Ein's Summer Vacation",
+        "native": "アインのなつやすみ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17205-Dk5nmaKD7hPM.jpg",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "seasonYear": 2012,
+      "relationType": "SIDE_STORY"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "anidbEid": "881",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1998-10-24",
+      "title": {
+        "en": "Asteroid Blues",
+        "romaji": "Asteroid Blues",
+        "ja": "アステロイド・ブルース"
+      },
+      "tvdbShowId": 76885,
+      "tvdbId": 219123,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76885/219123.jpg",
+      "airDate": "1998-11-13"
+    },
+    "2": {
+      "episode": "2",
+      "anidbEid": "879",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1998-04-03",
+      "title": {
+        "en": "Stray Dog Strut",
+        "romaji": "Norainu no Strut",
+        "ja": "野良犬のストラット"
+      },
+      "tvdbShowId": 76885,
+      "tvdbId": 219122,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76885/219122.jpg",
+      "airDate": "1998-04-10"
+    },
+    "3": {
+      "episode": "3",
+      "anidbEid": "877",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1998-04-10",
+      "title": {
+        "en": "Honky Tonk Women",
+        "romaji": "Honky Tonk Women",
+        "ja": "ホンキィ・トンク・ウィメン"
+      },
+      "tvdbShowId": 76885,
+      "tvdbId": 219126,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76885/219126.jpg",
+      "airDate": "1998-04-17"
+    },
+    "4": {
+      "episode": "4",
+      "anidbEid": "875",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1998-11-14",
+      "title": {
+        "en": "Gateway Shuffle",
+        "romaji": "Gateway Shuffle",
+        "ja": "ゲイトウェイ・シャッフル"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1998-11-14"
+    },
+    "5": {
+      "episode": "5",
+      "anidbEid": "873",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1998-11-21",
+      "title": {
+        "en": "Ballad of Fallen Angels",
+        "romaji": "Datenshi-tachi no Ballad",
+        "ja": "堕天使たちのバラッド"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1998-11-21"
+    },
+    "6": {
+      "episode": "6",
+      "anidbEid": "870",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1998-11-28",
+      "title": {
+        "en": "Sympathy for the Devil",
+        "romaji": "Akuma o Awaremu Uta",
+        "ja": "悪魔を憐れむ歌"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1998-11-28"
+    },
+    "7": {
+      "episode": "7",
+      "anidbEid": "868",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1998-04-17",
+      "title": {
+        "en": "Heavy Metal Queen",
+        "romaji": "Heavy Metal Queen",
+        "ja": "ヘヴィ・メタル・クイーン"
+      },
+      "tvdbShowId": 76885,
+      "tvdbId": 219130,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76885/219130.jpg",
+      "airDate": "1998-05-15"
+    },
+    "8": {
+      "episode": "8",
+      "anidbEid": "866",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1998-04-24",
+      "title": {
+        "en": "Waltz for Venus",
+        "romaji": "Waltz for Venus",
+        "ja": "ワルツ・フォー・ヴィーナス"
+      },
+      "tvdbShowId": 76885,
+      "tvdbId": 219131,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76885/219131.jpg",
+      "airDate": "1998-05-22"
+    },
+    "9": {
+      "episode": "9",
+      "anidbEid": "864",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1998-05-01",
+      "title": {
+        "en": "Jamming with Edward",
+        "romaji": "Jamming with Edward",
+        "ja": "ジャミング・ウィズ・エドワード"
+      },
+      "tvdbShowId": 76885,
+      "tvdbId": 219132,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76885/219132.jpg",
+      "airDate": "1998-05-29"
+    },
+    "10": {
+      "episode": "10",
+      "anidbEid": "871",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1998-05-08",
+      "title": {
+        "en": "Ganymede Elegy",
+        "romaji": "Ganymede Bojou",
+        "ja": "ガニメデ慕情"
+      },
+      "tvdbShowId": 76885,
+      "tvdbId": 300636,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76885/300636.jpg",
+      "airDate": "1998-06-05"
+    },
+    "11": {
+      "episode": "11",
+      "anidbEid": "869",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1998-05-15",
+      "title": {
+        "en": "Toys in the Attic",
+        "romaji": "Yamiyo no Heavy Rock",
+        "ja": "闇夜のヘヴィ・ロック"
+      },
+      "tvdbShowId": 76885,
+      "tvdbId": 300637,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76885/300637.jpg",
+      "airDate": "1998-06-12"
+    },
+    "12": {
+      "episode": "12",
+      "anidbEid": "867",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1998-05-22",
+      "title": {
+        "en": "Jupiter Jazz (Part I)",
+        "romaji": "Jupiter Jazz (Zenpen)",
+        "ja": "ジュピター・ジャズ (前編)"
+      },
+      "tvdbShowId": 76885,
+      "tvdbId": 300640,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76885/300640.jpg",
+      "airDate": "1998-06-19"
+    },
+    "13": {
+      "episode": "13",
+      "anidbEid": "865",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1998-05-29",
+      "title": {
+        "en": "Jupiter Jazz (Part II)",
+        "romaji": "Jupiter Jazz (Kouhen)",
+        "ja": "ジュピター・ジャズ (後編)"
+      },
+      "tvdbShowId": 76885,
+      "tvdbId": 219120,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76885/219120.jpg",
+      "airDate": "1998-04-03"
+    },
+    "14": {
+      "episode": "14",
+      "anidbEid": "863",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1998-06-05",
+      "title": {
+        "en": "Bohemian Rhapsody",
+        "romaji": "Bohemian Rhapsody",
+        "ja": "ボヘミアン・ラプソディー"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1998-06-05"
+    },
+    "15": {
+      "episode": "15",
+      "anidbEid": "862",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1998-06-12",
+      "title": {
+        "en": "My Funny Valentine",
+        "romaji": "My Funny Valentine",
+        "ja": "マイ・ファニー・ヴァレンタイン"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1998-06-12"
+    },
+    "16": {
+      "episode": "16",
+      "anidbEid": "861",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1999-02-13",
+      "title": {
+        "en": "Black Dog Serenade",
+        "romaji": "Black Dog Serenade",
+        "ja": "ブラック・ドッグ・セレナーデ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1999-02-13"
+    },
+    "17": {
+      "episode": "17",
+      "anidbEid": "860",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1999-02-20",
+      "title": {
+        "en": "Mushroom Samba",
+        "romaji": "Mushroom Samba",
+        "ja": "マッシュルーム・サンバ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1999-02-20"
+    },
+    "18": {
+      "episode": "18",
+      "anidbEid": "859",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1998-06-19",
+      "title": {
+        "en": "Speak Like a Child",
+        "romaji": "Speak Like a Child",
+        "ja": "スピーク・ライク・ア・チャイルド"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1998-06-19"
+    },
+    "19": {
+      "episode": "19",
+      "anidbEid": "858",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1999-03-06",
+      "title": {
+        "en": "Wild Horses",
+        "romaji": "Wild Horses",
+        "ja": "ワイルド・ホーセス"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1999-03-06"
+    },
+    "20": {
+      "episode": "20",
+      "anidbEid": "883",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1999-03-13",
+      "title": {
+        "en": "Pierrot Le Fou",
+        "romaji": "Doukeshi no Requiem",
+        "ja": "道化師の鎮魂歌"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1999-03-13"
+    },
+    "21": {
+      "episode": "21",
+      "anidbEid": "882",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1999-03-20",
+      "title": {
+        "en": "Boogie Woogie Feng Shui",
+        "romaji": "Boogie-Woogie Feng-Shui",
+        "ja": "ブギ・ウギ・フンシェイ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1999-03-20"
+    },
+    "22": {
+      "episode": "22",
+      "anidbEid": "880",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1999-03-27",
+      "title": {
+        "en": "Cowboy Funk",
+        "romaji": "Cowboy Funk",
+        "ja": "カウボーイ・ファンク"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1999-03-27"
+    },
+    "23": {
+      "episode": "23",
+      "anidbEid": "878",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1999-04-03",
+      "title": {
+        "en": "Brain Scratch",
+        "romaji": "Brain Scratch",
+        "ja": "ブレイン・スクラッチ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1999-04-03"
+    },
+    "24": {
+      "episode": "24",
+      "anidbEid": "876",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1999-04-10",
+      "title": {
+        "en": "Hard Luck Woman",
+        "romaji": "Hard Luck Woman",
+        "ja": "ハード・ラック・ウーマン"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1999-04-10"
+    },
+    "25": {
+      "episode": "25",
+      "anidbEid": "874",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1999-04-17",
+      "title": {
+        "en": "The Real Folk Blues (Part I)",
+        "romaji": "The Real Folk Blues (Zenpen)",
+        "ja": "ザ・リアル・フォークブルース (前編)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1999-04-17"
+    },
+    "26": {
+      "episode": "26",
+      "anidbEid": "872",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "1999-04-24",
+      "title": {
+        "en": "The Real Folk Blues (Part II)",
+        "romaji": "The Real Folk Blues (Kouhen)",
+        "ja": "ザ・リアル・フォークブルース (後編)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1999-04-24"
+    },
+    "S1": {
+      "episode": "S1",
+      "anidbEid": "7274",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 30,
+      "airdate": "1998-06-26",
+      "title": {
+        "en": "Session XX: Mish-Mash Blues",
+        "romaji": "Yoseatsume Blues",
+        "ja": "よせあつめブルース"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1998-06-26"
+    },
+    "S4": {
+      "episode": "S4",
+      "anidbEid": "23130",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 1,
+      "airdate": "",
+      "title": {
+        "en": "Kanno Youko Interview"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "S2": {
+      "episode": "S2",
+      "anidbEid": "127868",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 30,
+      "airdate": "",
+      "title": {
+        "en": "Session 0"
+      },
+      "tvdbShowId": 76885,
+      "tvdbId": 937401,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": 26,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76885/937401.jpg",
+      "airDate": "1998-08-25"
+    },
+    "S3": {
+      "episode": "S3",
+      "anidbEid": "147212",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 1,
+      "airdate": "2012-12-21",
+      "title": {
+        "en": "Ein`s Summer Vacation",
+        "romaji": "Ein no Natsu Yasumi",
+        "ja": "アインのなつやすみ"
+      },
+      "tvdbShowId": 76885,
+      "tvdbId": 4478966,
+      "seasonNumber": 0,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76885/4478966.jpg",
+      "airDate": "2012-12-21"
+    },
+    "S6": {
+      "episode": "S6",
+      "anidbEid": "155751",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 5,
+      "airdate": "",
+      "title": {
+        "en": "Tank! Bebop AV Edit"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "S5": {
+      "episode": "S5",
+      "anidbEid": "155752",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 4,
+      "airdate": "",
+      "title": {
+        "en": "Tank! Full Size Music Clip"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "S7": {
+      "episode": "S7",
+      "anidbEid": "189464",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 2,
+      "airdate": "",
+      "title": {
+        "en": "Character Intros"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "S14": {
+      "episode": "S14",
+      "anidbEid": "189465",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 2,
+      "airdate": "",
+      "title": {
+        "en": "Interview - Yoko Kanno"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "S13": {
+      "episode": "S13",
+      "anidbEid": "189466",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 2,
+      "airdate": "",
+      "title": {
+        "en": "Interview: Sunrise Staff"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "S12": {
+      "episode": "S12",
+      "anidbEid": "189467",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 1,
+      "airdate": "",
+      "title": {
+        "en": "Interview - Shoji Kawamori"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "S11": {
+      "episode": "S11",
+      "anidbEid": "189468",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 2,
+      "airdate": "",
+      "title": {
+        "en": "Interview - Shinichiro Watanabe"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "S10": {
+      "episode": "S10",
+      "anidbEid": "189469",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 1,
+      "airdate": "",
+      "title": {
+        "en": "Interview - Masahiko Minami"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "S9": {
+      "episode": "S9",
+      "anidbEid": "189470",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 1,
+      "airdate": "",
+      "title": {
+        "en": "Interview - Keiko Nobumoto"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "S8": {
+      "episode": "S8",
+      "anidbEid": "189471",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 3,
+      "airdate": "",
+      "title": {
+        "en": "Interview: Japanese Voice Cast"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "P1": {
+      "episode": "P1",
+      "anidbEid": "291752",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 1,
+      "airdate": "",
+      "title": {
+        "en": "Jolly Rancher"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-23T15:40:23.209Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "anizip",
+      "simkl"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

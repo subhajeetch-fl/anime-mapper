@@ -1,0 +1,1615 @@
+{
+  "id": 93,
+  "idMal": 93,
+  "mappings": {
+    "mal": 93,
+    "anilist": 93,
+    "anidb": 252,
+    "kitsu": 72,
+    "simkl": 38848,
+    "tmdb": 20111,
+    "tvdb": 254931,
+    "trakt": 20018,
+    "traktType": "shows",
+    "shikimori": 93,
+    "livechart": 3933,
+    "animeplanet": "mobile-suit-gundam-seed",
+    "anisearch": 1515,
+    "notify": "qwhpcKiig"
+  },
+  "title": {
+    "romaji": "Kidou Senshi Gundam SEED",
+    "english": "Mobile Suit Gundam SEED",
+    "native": "機動戦士ガンダムSEED",
+    "synonyms": [
+      "Kidou Senshi Gundam SEED"
+    ]
+  },
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 50,
+  "episodeLength": 24,
+  "aired": {
+    "from": "2002-10-05T00:00:00+00:00",
+    "to": "2003-09-27T00:00:00+00:00"
+  },
+  "season": "fall",
+  "year": 2002,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "R - 17+ (violence & profanity)",
+  "score": {
+    "malScore": 7.74,
+    "malScoredBy": 102383,
+    "malRank": 1314,
+    "malPopularity": 1502,
+    "malMembers": 186055,
+    "malFavorites": 3761,
+    "anilistScore": 7.2,
+    "anilistPopularity": 31072,
+    "anilistFavourites": 792,
+    "kitsuRating": 7.6
+  },
+  "genres": [
+    "Award Winning",
+    "Drama",
+    "Romance",
+    "Sci-Fi",
+    "Action",
+    "Mecha",
+    "Space",
+    "Military",
+    "Space Travel",
+    "Science Fiction",
+    "Piloted Robot",
+    "Human Enhancement",
+    "Shipboard",
+    "War",
+    "Future",
+    "Robot",
+    "Disaster",
+    "Plot Continuity",
+    "Violence"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [
+    "Sotsu",
+    "Asatsu DK",
+    "Mainichi Broadcasting System",
+    "Sony Music Entertainment",
+    "Atelier Musa"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1792/91081l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/93-KZlqRAri1Os5.jpg",
+    "color": "#d6931a"
+  },
+  "trailer": null,
+  "synopsis": "In the year Cosmic Era 0071, the space colony Heliopolis remains neutral in the great war raging across the galaxy between Coordinators, human beings whose biological traits have been altered before birth, and Naturals, unaltered people who remain on the planet Earth. The Naturals' deep hatred of the Coordinators drove the advanced beings into space, seeking shelter in man-made colonies.\n\nKira Yamato is a Coordinator and university student on Heliopolis, when his life is thrown into disarray as ZAFT, the military organization composed of rebellious Coordinators, attacks the colony in an effort to steal a set of five state-of-the-art military mobile suits known as Gundams.\n\nWhile ZAFT manages to make off with four of the mobile suits, Kira take control of the final Gundam, the Strike. Surviving the battle, Kira and his college friends join the crew of the Archangel, a ship run by the Earth Alliance, and the young soldiers experience the horrors of war and the loss that comes with it.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 80,
+      "title": {
+        "romaji": "Kidou Senshi Gundam",
+        "english": "Mobile Suit Gundam",
+        "native": "機動戦士ガンダム"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx80-pdYJ12vSTmad.jpg",
+      "format": "TV",
+      "episodes": 43,
+      "seasonYear": 1979,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 3288,
+      "title": {
+        "romaji": "Gundam EVOLVE",
+        "english": "Gundam Evolve",
+        "native": "ガンダムEVOLVE"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3288.jpg",
+      "format": "OVA",
+      "episodes": 15,
+      "seasonYear": 2001,
+      "relationType": "OTHER"
+    },
+    {
+      "malId": 864,
+      "title": {
+        "romaji": "Kidou Senshi Gundam SEED MSV ASTRAY",
+        "english": "Mobile Suit Gundam Seed MSV Astray",
+        "native": "機動戦士ガンダムSEED MSV ASTRAY"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx864-Y8eQpwC6JGUC.png",
+      "format": "OVA",
+      "episodes": 2,
+      "seasonYear": 2004,
+      "relationType": "SIDE_STORY"
+    },
+    {
+      "malId": 2298,
+      "title": {
+        "romaji": "Kidou Senshi Gundam SEED: Hoshi no Hazama de",
+        "english": "Mobile Suit Gundam Seed: After-Phase Between the Stars",
+        "native": "機動戦士ガンダムSEED 星のはざまで"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2298-zhSqhUyGbmBn.png",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "seasonYear": 2004,
+      "relationType": "SIDE_STORY"
+    },
+    {
+      "malId": 2269,
+      "title": {
+        "romaji": "Kidou Senshi Gundam SEED Special Edition",
+        "english": "Mobile Suit Gundam Seed Special Edition",
+        "native": "機動戦士ガンダムＳＥＥＤ　スペシャルエディション"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2269-SIy7CZiOnDSs.png",
+      "format": "SPECIAL",
+      "episodes": 3,
+      "seasonYear": 2004,
+      "relationType": "SUMMARY"
+    },
+    {
+      "malId": 94,
+      "title": {
+        "romaji": "Kidou Senshi Gundam SEED DESTINY",
+        "english": "Mobile Suit Gundam Seed Destiny",
+        "native": "機動戦士ガンダムSEED DESTINY"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx94-tng83ksiXm5E.jpg",
+      "format": "TV",
+      "episodes": 50,
+      "seasonYear": 2004,
+      "relationType": "SEQUEL"
+    },
+    {
+      "malId": 2743,
+      "title": {
+        "romaji": "Kidou Senshi Gundam SEED: Seed Supernova - Tanekyara Gekijo",
+        "english": null,
+        "native": "機動戦士ガンダムSEED たねきゃら劇場"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2743.jpg",
+      "format": "SPECIAL",
+      "episodes": 4,
+      "seasonYear": 2007,
+      "relationType": "SPIN_OFF"
+    },
+    {
+      "malId": 7113,
+      "title": {
+        "romaji": "30th GUNDAM PERFECT MISSION",
+        "english": null,
+        "native": "30th GUNDAM PERFECT MISSION"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7113-5DDjjf4fGHox.png",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "OTHER"
+    },
+    {
+      "malId": 64205,
+      "title": {
+        "romaji": "Shounen to Gundam - Kidou Senshi Gundam 50-shuunen: Road to 50 - Prologue Movie",
+        "english": "A boy with GUNDAM | Mobile Suit Gundam 50th Anniversary - Road to 50 - Prologue Movie",
+        "native": "少年とガンダム｜機動戦士ガンダム50周年 -Road to 50- プロローグムービー"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212323-Ik8905FHBSLY.jpg",
+      "format": "ONA",
+      "episodes": 1,
+      "seasonYear": 2026,
+      "relationType": "CHARACTER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "anidbEid": "2903",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2002-10-05",
+      "title": {
+        "en": "False Peace",
+        "romaji": "Itsuwari no Heiwa",
+        "ja": "偽りの平和"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4235321,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4235321/screencap/662813d9c7f72.jpg",
+      "airDate": "2002-10-05"
+    },
+    "2": {
+      "episode": "2",
+      "anidbEid": "3695",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2002-10-12",
+      "title": {
+        "en": "Its Name is Gundam",
+        "romaji": "Sono Na wa Gundam",
+        "ja": "その名はガンダム"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4235322,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4235322/screencap/66281570a0917.jpg",
+      "airDate": "2002-10-12"
+    },
+    "3": {
+      "episode": "3",
+      "anidbEid": "3749",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2002-10-19",
+      "title": {
+        "en": "Collapsing Land",
+        "romaji": "Houkai no Daichi",
+        "ja": "崩壊の大地"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4235323,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4235323/screencap/662815c72856b.jpg",
+      "airDate": "2002-10-19"
+    },
+    "4": {
+      "episode": "4",
+      "anidbEid": "3753",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2002-10-26",
+      "title": {
+        "en": "Silent Run",
+        "romaji": "Silent Run",
+        "ja": "サイレントラン"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4235324,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4235324/screencap/662a6add91e9b.jpg",
+      "airDate": "2002-10-26"
+    },
+    "5": {
+      "episode": "5",
+      "anidbEid": "3838",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2002-11-02",
+      "title": {
+        "en": "Phase Shift Down",
+        "romaji": "Phase Shift Down",
+        "ja": "フェイズシフトダウン"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4272264,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4272264/screencap/662aab23630a1.jpg",
+      "airDate": "2002-11-02"
+    },
+    "6": {
+      "episode": "6",
+      "anidbEid": "4549",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2002-11-09",
+      "title": {
+        "en": "The Vanishing Gundam",
+        "romaji": "Kieru Gundam",
+        "ja": "消えるガンダム"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4272265,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4272265/screencap/662c91153d59e.jpg",
+      "airDate": "2002-11-09"
+    },
+    "7": {
+      "episode": "7",
+      "anidbEid": "4548",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2002-11-16",
+      "title": {
+        "en": "The Scar of Space",
+        "romaji": "Sora no Kizuato",
+        "ja": "宇宙[そら]の傷跡"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4272266,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4272266/screencap/662e69e231240.jpg",
+      "airDate": "2002-11-16"
+    },
+    "8": {
+      "episode": "8",
+      "anidbEid": "4550",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2002-11-23",
+      "title": {
+        "en": "Songstress of the Enemy Forces",
+        "romaji": "Tekigun no Utahime",
+        "ja": "敵軍の歌姫"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4272267,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4272267/screencap/662e6aaecc8ab.jpg",
+      "airDate": "2002-11-23"
+    },
+    "9": {
+      "episode": "9",
+      "anidbEid": "4633",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2002-11-30",
+      "title": {
+        "en": "The Fading Light",
+        "romaji": "Kiete Iku Hikari",
+        "ja": "消えていく光"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4283741,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4283741/screencap/663086d9563db.jpg",
+      "airDate": "2002-11-30"
+    },
+    "10": {
+      "episode": "10",
+      "anidbEid": "4742",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2002-12-07",
+      "title": {
+        "en": "Separate Ways",
+        "romaji": "Wakatareta Michi",
+        "ja": "分かたれた道"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4283742,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4283742/screencap/6632461d5005e.jpg",
+      "airDate": "2002-12-07"
+    },
+    "11": {
+      "episode": "11",
+      "anidbEid": "4997",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2002-12-14",
+      "title": {
+        "en": "The Awakening Sword",
+        "romaji": "Mezameru Yaiba",
+        "ja": "目覚める刃"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343441,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343441/screencap/6632471e2922f.jpg",
+      "airDate": "2002-12-14"
+    },
+    "12": {
+      "episode": "12",
+      "anidbEid": "5079",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2002-12-21",
+      "title": {
+        "en": "Flay`s Decision",
+        "romaji": "Flay no Sentaku",
+        "ja": "フレイの選択"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343442,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343442/screencap/6633254d4efcd.jpg",
+      "airDate": "2002-12-21"
+    },
+    "13": {
+      "episode": "13",
+      "anidbEid": "5183",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2002-12-28",
+      "title": {
+        "en": "Stars Falling in Space",
+        "romaji": "Sora ni Furu Hoshi",
+        "ja": "宇宙[そら]に降る星"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343443,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343443/screencap/6635e98a21fae.jpg",
+      "airDate": "2002-12-28"
+    },
+    "14": {
+      "episode": "14",
+      "anidbEid": "5416",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-01-04",
+      "title": {
+        "en": "Within Endless Time",
+        "romaji": "Hate Shinaki Toki no Naka de",
+        "ja": "果てし無き時の中で"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 7558563,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 25,
+      "image": null,
+      "airDate": "2003-01-04"
+    },
+    "15": {
+      "episode": "15",
+      "anidbEid": "5417",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-01-11",
+      "title": {
+        "en": "Respective Solitudes",
+        "romaji": "Sorezore no Kodoku",
+        "ja": "それぞれの孤独"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343445,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343445/screencap/6635ea51edfbb.jpg",
+      "airDate": "2003-01-11"
+    },
+    "16": {
+      "episode": "16",
+      "anidbEid": "5534",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-01-18",
+      "title": {
+        "en": "Burning Sandstorm",
+        "romaji": "Moeru Sajin",
+        "ja": "燃える砂塵"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343446,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343446/screencap/6635eb968a11e.jpg",
+      "airDate": "2003-01-18"
+    },
+    "17": {
+      "episode": "17",
+      "anidbEid": "5635",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-01-25",
+      "title": {
+        "en": "Cagalli Returns",
+        "romaji": "Cagalli Futatabi",
+        "ja": "カガリ再び"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343447,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343447/screencap/6635ebe92c839.jpg",
+      "airDate": "2003-01-25"
+    },
+    "18": {
+      "episode": "18",
+      "anidbEid": "5782",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-02-01",
+      "title": {
+        "en": "Payback",
+        "romaji": "Payback",
+        "ja": "ペイバック"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343448,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343448/screencap/66386cf684854.jpg",
+      "airDate": "2003-02-01"
+    },
+    "19": {
+      "episode": "19",
+      "anidbEid": "5950",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-02-08",
+      "title": {
+        "en": "Fangs of the Enemy",
+        "romaji": "Shukuteki no Kiba",
+        "ja": "宿敵の牙"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343458,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343458/screencap/663b6bd3c2d11.jpg",
+      "airDate": "2003-02-08"
+    },
+    "20": {
+      "episode": "20",
+      "anidbEid": "6146",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-02-15",
+      "title": {
+        "en": "On a Calm Day",
+        "romaji": "Odayaka na Hi ni",
+        "ja": "おだやかな日に"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343459,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343459/screencap/663c600cb7ec3.jpg",
+      "airDate": "2003-02-15"
+    },
+    "21": {
+      "episode": "21",
+      "anidbEid": "6398",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-02-22",
+      "title": {
+        "en": "The End of the Sandstorm",
+        "romaji": "Sajin no Hate",
+        "ja": "砂塵の果て"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343462,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343462/screencap/663f056046920.jpg",
+      "airDate": "2003-02-22"
+    },
+    "22": {
+      "episode": "22",
+      "anidbEid": "6399",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-03-01",
+      "title": {
+        "en": "The Sea Dyed Red",
+        "romaji": "Kurenai ni Somaru Umi",
+        "ja": "紅に染まる海"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343468,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343468/screencap/663f06033eed0.jpg",
+      "airDate": "2003-03-01"
+    },
+    "23": {
+      "episode": "23",
+      "anidbEid": "6521",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-03-08",
+      "title": {
+        "en": "Fateful Encounter",
+        "romaji": "Unmei no Deai",
+        "ja": "運命の出会い"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343475,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343475/screencap/663fd78a9a29f.jpg",
+      "airDate": "2003-03-08"
+    },
+    "24": {
+      "episode": "24",
+      "anidbEid": "6668",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-03-15",
+      "title": {
+        "en": "War for Two",
+        "romaji": "Futari dake no Sensou",
+        "ja": "二人だけの戦争"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343477,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343477/screencap/663fd8c65b7d7.jpg",
+      "airDate": "2003-03-15"
+    },
+    "25": {
+      "episode": "25",
+      "anidbEid": "6943",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-03-22",
+      "title": {
+        "en": "Land of Peace",
+        "romaji": "Heiwa no Kuni e",
+        "ja": "平和の国"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343478,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343478/screencap/663fd935c760e.jpg",
+      "airDate": "2003-03-22"
+    },
+    "26": {
+      "episode": "26",
+      "anidbEid": "6944",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-03-29",
+      "title": {
+        "en": "Moment",
+        "romaji": "Moment",
+        "ja": "モーメント"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 7558565,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 25,
+      "image": null,
+      "airDate": "2003-03-29"
+    },
+    "27": {
+      "episode": "27",
+      "anidbEid": "7222",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-04-12",
+      "title": {
+        "en": "Endless Rondo",
+        "romaji": "Hate Naki Rondo",
+        "ja": "果てなき輪舞[ロンド]"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343480,
+      "seasonNumber": 1,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343480/screencap/663fda13db57f.jpg",
+      "airDate": "2003-04-12"
+    },
+    "28": {
+      "episode": "28",
+      "anidbEid": "7440",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-04-19",
+      "title": {
+        "en": "Kira",
+        "romaji": "Kira",
+        "ja": "キラ"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343481,
+      "seasonNumber": 1,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343481/screencap/663fdad77b7b8.jpg",
+      "airDate": "2003-04-19"
+    },
+    "29": {
+      "episode": "29",
+      "anidbEid": "7530",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-04-26",
+      "title": {
+        "en": "The Turning Point",
+        "romaji": "Sadame no Kusabi",
+        "ja": "さだめの楔"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343482,
+      "seasonNumber": 1,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343482/screencap/663fdbb856b44.jpg",
+      "airDate": "2003-04-26"
+    },
+    "30": {
+      "episode": "30",
+      "anidbEid": "7893",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-05-03",
+      "title": {
+        "en": "Flashing Blades",
+        "romaji": "Senkou no Toki",
+        "ja": "閃光の刻[とき]"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343483,
+      "seasonNumber": 1,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343483/screencap/6641a666d1825.jpg",
+      "airDate": "2003-05-03"
+    },
+    "31": {
+      "episode": "31",
+      "anidbEid": "7894",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-05-10",
+      "title": {
+        "en": "Grieving Skies",
+        "romaji": "Doukoku no Sora",
+        "ja": "慟哭の空"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343484,
+      "seasonNumber": 1,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343484/screencap/6641a6ed7693a.jpg",
+      "airDate": "2003-05-10"
+    },
+    "32": {
+      "episode": "32",
+      "anidbEid": "7897",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-05-17",
+      "title": {
+        "en": "In the Promised Land",
+        "romaji": "Yakusoku no Chi ni",
+        "ja": "約束の地に"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343485,
+      "seasonNumber": 1,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343485/screencap/6644b154b15c0.jpg",
+      "airDate": "2003-05-17"
+    },
+    "33": {
+      "episode": "33",
+      "anidbEid": "8228",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-05-24",
+      "title": {
+        "en": "Gathering Darkness",
+        "romaji": "Yami no Taidou",
+        "ja": "闇の胎動"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343486,
+      "seasonNumber": 1,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343486/screencap/6644b2081aee5.jpg",
+      "airDate": "2003-05-24"
+    },
+    "34": {
+      "episode": "34",
+      "anidbEid": "8261",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-05-31",
+      "title": {
+        "en": "Seen and Unseen",
+        "romaji": "Manazashi no Saki",
+        "ja": "まなざしの先"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343487,
+      "seasonNumber": 1,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343487/screencap/6644b2a742d66.jpg",
+      "airDate": "2003-05-31"
+    },
+    "35": {
+      "episode": "35",
+      "anidbEid": "8317",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-06-07",
+      "title": {
+        "en": "The Descending Sword",
+        "romaji": "Maioriru Tsurugi",
+        "ja": "舞い降りる剣[つるぎ]"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343488,
+      "seasonNumber": 1,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343488/screencap/6644b33738eee.jpg",
+      "airDate": "2003-06-07"
+    },
+    "36": {
+      "episode": "36",
+      "anidbEid": "8329",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-06-14",
+      "title": {
+        "en": "In the Name of Justice",
+        "romaji": "Seigi no Na no Motoni",
+        "ja": "正義の名のもとに"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343489,
+      "seasonNumber": 1,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343489/screencap/6644b3f3372f4.jpg",
+      "airDate": "2003-06-14"
+    },
+    "37": {
+      "episode": "37",
+      "anidbEid": "8466",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-06-21",
+      "title": {
+        "en": "Divine Thunder",
+        "romaji": "Kami no Ikazuchi",
+        "ja": "神のいかずち"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343490,
+      "seasonNumber": 1,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 37,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343490/screencap/664620533c9b5.jpg",
+      "airDate": "2003-06-21"
+    },
+    "38": {
+      "episode": "38",
+      "anidbEid": "8582",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-06-28",
+      "title": {
+        "en": "Decisive Fire",
+        "romaji": "Ketsui no Houka",
+        "ja": "決意の砲火"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343491,
+      "seasonNumber": 1,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 38,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343491/screencap/664621273425a.jpg",
+      "airDate": "2003-06-28"
+    },
+    "39": {
+      "episode": "39",
+      "anidbEid": "8670",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-07-05",
+      "title": {
+        "en": "Athrun",
+        "romaji": "Athrun",
+        "ja": "アスラン"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343492,
+      "seasonNumber": 1,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": 39,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343492/screencap/664621cae0c3b.jpg",
+      "airDate": "2003-07-05"
+    },
+    "40": {
+      "episode": "40",
+      "anidbEid": "8934",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-07-12",
+      "title": {
+        "en": "Into the Dawn Skies",
+        "romaji": "Akatsuki no Sora e",
+        "ja": "暁の宇宙[そら]へ"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343493,
+      "seasonNumber": 1,
+      "episodeNumber": 40,
+      "absoluteEpisodeNumber": 40,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343493/screencap/664763828d6b2.jpg",
+      "airDate": "2003-07-12"
+    },
+    "41": {
+      "episode": "41",
+      "anidbEid": "9179",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-07-19",
+      "title": {
+        "en": "Trembling World",
+        "romaji": "Yureru Sekai",
+        "ja": "ゆれる世界"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343494,
+      "seasonNumber": 1,
+      "episodeNumber": 41,
+      "absoluteEpisodeNumber": 41,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343494/screencap/664763f95bf45.jpg",
+      "airDate": "2003-07-19"
+    },
+    "42": {
+      "episode": "42",
+      "anidbEid": "9363",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-07-26",
+      "title": {
+        "en": "Lacus Strikes",
+        "romaji": "Lacus Shutsugeki",
+        "ja": "ラクス出撃"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343495,
+      "seasonNumber": 1,
+      "episodeNumber": 42,
+      "absoluteEpisodeNumber": 42,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343495/screencap/6647649a8e4d4.jpg",
+      "airDate": "2003-07-26"
+    },
+    "43": {
+      "episode": "43",
+      "anidbEid": "9577",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-08-02",
+      "title": {
+        "en": "What Stands in the Way",
+        "romaji": "Tachihadakaru Mono",
+        "ja": "立ちはだかるもの"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343496,
+      "seasonNumber": 1,
+      "episodeNumber": 43,
+      "absoluteEpisodeNumber": 43,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343496/screencap/6648c40811204.jpg",
+      "airDate": "2003-08-02"
+    },
+    "44": {
+      "episode": "44",
+      "anidbEid": "9817",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-08-09",
+      "title": {
+        "en": "Spiral of Encounters",
+        "romaji": "Rasen no Kaikou",
+        "ja": "螺旋の邂逅"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343497,
+      "seasonNumber": 1,
+      "episodeNumber": 44,
+      "absoluteEpisodeNumber": 44,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343497/screencap/6648c4b2739af.jpg",
+      "airDate": "2003-08-09"
+    },
+    "45": {
+      "episode": "45",
+      "anidbEid": "9850",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-08-16",
+      "title": {
+        "en": "The Opening Door",
+        "romaji": "Hiraku Tobira",
+        "ja": "開く扉"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343498,
+      "seasonNumber": 1,
+      "episodeNumber": 45,
+      "absoluteEpisodeNumber": 45,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343498/screencap/6648c58e5625b.jpg",
+      "airDate": "2003-08-16"
+    },
+    "46": {
+      "episode": "46",
+      "anidbEid": "10601",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-08-30",
+      "title": {
+        "en": "A Place for the Soul",
+        "romaji": "Tamashii no Basho",
+        "ja": "たましいの場所"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343499,
+      "seasonNumber": 1,
+      "episodeNumber": 46,
+      "absoluteEpisodeNumber": 46,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343499/screencap/664affd9ba4e5.jpg",
+      "airDate": "2003-08-30"
+    },
+    "47": {
+      "episode": "47",
+      "anidbEid": "10820",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-09-06",
+      "title": {
+        "en": "The Nightmare Reborn",
+        "romaji": "Akumu wa Futatabi",
+        "ja": "悪夢は再び"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343500,
+      "seasonNumber": 1,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": 47,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343500/screencap/664b0033126b6.jpg",
+      "airDate": "2003-09-06"
+    },
+    "48": {
+      "episode": "48",
+      "anidbEid": "11067",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-09-13",
+      "title": {
+        "en": "Day of Wrath",
+        "romaji": "Ikari no Hi",
+        "ja": "怒りの日"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343501,
+      "seasonNumber": 1,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": 48,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343501/screencap/664c57222e112.jpg",
+      "airDate": "2003-09-13"
+    },
+    "49": {
+      "episode": "49",
+      "anidbEid": "11284",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-09-20",
+      "title": {
+        "en": "The Final Light",
+        "romaji": "Shyuumatsu no Hikari",
+        "ja": "終末の光"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343502,
+      "seasonNumber": 1,
+      "episodeNumber": 49,
+      "absoluteEpisodeNumber": 49,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343502/screencap/664c57c7d8804.jpg",
+      "airDate": "2003-09-20"
+    },
+    "50": {
+      "episode": "50",
+      "anidbEid": "11299",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2003-09-27",
+      "title": {
+        "en": "Towards an Endless Tomorrow",
+        "romaji": "Owaranai Asu e",
+        "ja": "終わらない明日へ"
+      },
+      "tvdbShowId": 254931,
+      "tvdbId": 4343503,
+      "seasonNumber": 1,
+      "episodeNumber": 50,
+      "absoluteEpisodeNumber": 50,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4343503/screencap/664c58b9b9306.jpg",
+      "airDate": "2003-09-27"
+    },
+    "S1": {
+      "episode": "S1",
+      "anidbEid": "17499",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 5,
+      "airdate": "2004-03-26",
+      "title": {
+        "en": "Between the Stars",
+        "romaji": "Hoshi no Hazama de",
+        "ja": "星のはざまで"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2004-03-26"
+    },
+    "P38": {
+      "episode": "P38",
+      "anidbEid": "28093",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 35,
+      "airdate": "",
+      "title": {
+        "en": "Gundam Seed 38-40 Parody Special"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "S2": {
+      "episode": "S2",
+      "anidbEid": "138327",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 5,
+      "airdate": "2012-03-23",
+      "title": {
+        "en": "Special 2",
+        "romaji": "ANIME MUSIC CLIP -Director`s Concept- Anna ni Issho Datta no ni 2006",
+        "ja": "ANIME MUSIC CLIP -Director`s Concept- あんなに一緒だったのに 2006"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2012-03-23"
+    },
+    "S3": {
+      "episode": "S3",
+      "anidbEid": "140768",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 5,
+      "airdate": "2012-06-22",
+      "title": {
+        "en": "Special 3",
+        "romaji": "ANIME MUSIC CLIP -Director`s Concept- Shizuka na Yoru ni",
+        "ja": "ANIME MUSIC CLIP -Director`s Concept- 静かな夜に"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2012-06-22"
+    },
+    "S5": {
+      "episode": "S5",
+      "anidbEid": "145241",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 15,
+      "airdate": "2012-09-21",
+      "title": {
+        "en": "Special 5",
+        "romaji": "Chief Mecha Sakkan Shigeta Satoshi-shi ga Kataru Koko ga Kawatta! Kidou Senshi Gundam SEED HD Remaster",
+        "ja": "チーフメカ作監 重田 智氏が語る ここが変わった! 機動戦士ガンダムSEED HDリマスター"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2012-09-21"
+    },
+    "S4": {
+      "episode": "S4",
+      "anidbEid": "145242",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 5,
+      "airdate": "2012-09-21",
+      "title": {
+        "en": "Special 4",
+        "romaji": "ANIME MUSIC CLIP -Director`s Concept- Mizu no Akashi",
+        "ja": "ANIME MUSIC CLIP -Director`s Concept- 水の証"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2012-09-21"
+    },
+    "S14": {
+      "episode": "S14",
+      "anidbEid": "146507",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 15,
+      "airdate": "2012-12-21",
+      "title": {
+        "en": "Special 14",
+        "romaji": "Link: Kono Jidai no Naka de - Lacus Hen",
+        "ja": "LINK ~この時代の中で~ ラクス編"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2012-12-21"
+    },
+    "S13": {
+      "episode": "S13",
+      "anidbEid": "146508",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 20,
+      "airdate": "2012-12-21",
+      "title": {
+        "en": "Special 13",
+        "romaji": "Link: Kono Jidai no Naka de - Cagalli Hen",
+        "ja": "LINK ~この時代の中で~ カガリ編"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2012-12-21"
+    },
+    "S12": {
+      "episode": "S12",
+      "anidbEid": "146509",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 15,
+      "airdate": "2012-12-21",
+      "title": {
+        "en": "Special 12",
+        "romaji": "Link: Kono Jidai no Naka de - Athrun Hen",
+        "ja": "LINK ~この時代の中で~ アスラン編"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2012-12-21"
+    },
+    "S11": {
+      "episode": "S11",
+      "anidbEid": "146510",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 15,
+      "airdate": "2012-12-21",
+      "title": {
+        "en": "Special 11",
+        "romaji": "Link: Kono Jidai no Naka de - Kira Hen",
+        "ja": "LINK ~この時代の中で~ キラ編"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2012-12-21"
+    },
+    "S10": {
+      "episode": "S10",
+      "anidbEid": "146511",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 2,
+      "airdate": "2012-12-21",
+      "title": {
+        "en": "Special 10",
+        "romaji": "Link: Kono Jidai no Naka de - Avant B",
+        "ja": "LINK ~この時代の中で~ アバンB"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2012-12-21"
+    },
+    "S9": {
+      "episode": "S9",
+      "anidbEid": "146512",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 2,
+      "airdate": "2012-12-21",
+      "title": {
+        "en": "Special 9",
+        "romaji": "Link: Kono Jidai no Naka de - Avant A",
+        "ja": "LINK ~この時代の中で~ アバンA"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2012-12-21"
+    },
+    "S8": {
+      "episode": "S8",
+      "anidbEid": "146513",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 20,
+      "airdate": "2012-12-21",
+      "title": {
+        "en": "Special 8",
+        "romaji": "Chief Mecha Sakkan Shigeta Satoshi-shi ga Kataru Koko ga Kawatta! Kidou Senshi Gundam SEED HD Remaster Dai 2 Dan",
+        "ja": "チーフメカ作監 重田 智氏が語る ここが変わった! 機動戦士ガンダムSEED HDリマスター 第2弾"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2012-12-21"
+    },
+    "S7": {
+      "episode": "S7",
+      "anidbEid": "146514",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 5,
+      "airdate": "2012-12-21",
+      "title": {
+        "en": "Special 7",
+        "romaji": "ANIME MUSIC CLIP -Director`s Concept- Akatsuki no Kuruma",
+        "ja": "ANIME MUSIC CLIP -Director`s Concept- 「暁の車」"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2012-12-21"
+    },
+    "S6": {
+      "episode": "S6",
+      "anidbEid": "146515",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2012-12-21",
+      "title": {
+        "en": "Special 6",
+        "romaji": "Non-Telop Ban 38.PHASE-40",
+        "ja": "ノンテロップ版 38.PHASE-40"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2012-12-21"
+    },
+    "S15": {
+      "episode": "S15",
+      "anidbEid": "171056",
+      "isFiller": false,
+      "isDubbed": false,
+      "length": 25,
+      "airdate": "2012-04-01",
+      "title": {
+        "en": "Respective Solitudes",
+        "romaji": "Sorezore no Kodoku",
+        "ja": "それぞれの孤独"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2012-04-01"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-23T15:54:36.329Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "anizip",
+      "simkl"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}
