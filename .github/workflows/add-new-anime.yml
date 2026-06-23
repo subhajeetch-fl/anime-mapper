@@ -1,20 +1,16 @@
 name: Add New Anime
 
-# Manual catalog growth - Phase 2 ("fetch 100 anime") and Phase 3 ("scale
-# to thousands") both run through this workflow with different inputs.
-# Kept separate from update-airing.yml so scheduled runs stay fast and
-# cheap, and so a big backfill can be supervised/run in chunks on purpose.
 on:
   workflow_dispatch:
     inputs:
       ids:
-        description: 'Space-separated MAL ids (optional)'
+        description: "Space-separated MAL ids (optional)"
         type: string
-        default: ''
+        default: ""
       range:
-        description: 'Inclusive id range, e.g. 1-100 (optional)'
+        description: "Inclusive id range, e.g. 1-100 (optional)"
         type: string
-        default: ''
+        default: ""
 
 permissions:
   contents: write
@@ -23,6 +19,7 @@ jobs:
   add-anime:
     runs-on: ubuntu-latest
     timeout-minutes: 90
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -32,7 +29,16 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '22'
+          node-version: "22"
+          cache: "pnpm"
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
 
       - name: Validate inputs
         run: |
@@ -49,12 +55,14 @@ jobs:
           if [ -n "${{ inputs.range }}" ]; then
             ARGS="--range=${{ inputs.range }}"
           fi
+
           node scripts/add-anime.js ${{ inputs.ids }} $ARGS
 
       - name: Check for changes
         id: changes
         run: |
           git add -A
+
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
@@ -66,5 +74,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git commit -m "chore(data): add new anime [skip ci]"
           git push
