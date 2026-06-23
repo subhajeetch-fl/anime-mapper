@@ -15,7 +15,6 @@
  * failures should NOT block anime generation.
  */
 
-import fetch from 'node-fetch';
 import * as cheerio from 'cheerio';
 import { sleep } from './httpClient.js';
 
