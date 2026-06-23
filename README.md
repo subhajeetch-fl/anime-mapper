@@ -32,8 +32,8 @@ was added, fixed, or flagged, so nothing is a surprise:
    `streaming` (see item 7 below). `genres` alone is kept.
 3. **A real bug in the retry-queue logic**, caught by actually running it:
    when one anime failed against multiple sources in the same run (e.g.
-   Jikan *and* Kitsu *and* AniList all failed), the `attempts` counter was
-   incrementing once *per failed source* instead of once *per run*, and
+   Jikan _and_ Kitsu _and_ AniList all failed), the `attempts` counter was
+   incrementing once _per failed source_ instead of once _per run_, and
    only the last failure reason was kept. Fixed in `scripts/lib/state.js`
    — see "What I actually tested" below for the before/after.
 4. **animeapi.my.id's real response shape**, confirmed from its own docs:
@@ -70,7 +70,7 @@ was added, fixed, or flagged, so nothing is a surprise:
    last) so the array order itself shows watch/release order; (c) shaped
    exactly like you asked, with no `type` field in the output:
    `{ malId, title: { romaji, english, native }, image, format, episodes,
-   seasonYear, relationType }`. Trade-off worth knowing: since this comes
+seasonYear, relationType }`. Trade-off worth knowing: since this comes
    only from AniList now, a transient AniList failure means
    `sequence: []` for that run rather than a degraded Jikan fallback —
    but that's not silent, it's tracked in `meta.missingSources` and
@@ -154,23 +154,49 @@ example:
   "id": 21,
   "idMal": 21,
   "mappings": {
-    "mal": 21, "anilist": 21, "anidb": 69, "kitsu": null, "simkl": null,
-    "tmdb": null, "tvdb": null, "trakt": null, "traktType": null,
-    "shikimori": 21, "livechart": null, "animeplanet": "one-piece",
-    "anisearch": null, "notify": null
+    "mal": 21,
+    "anilist": 21,
+    "anidb": 69,
+    "kitsu": null,
+    "simkl": null,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 21,
+    "livechart": null,
+    "animeplanet": "one-piece",
+    "anisearch": null,
+    "notify": null
   },
-  "title": { "romaji": "...", "english": "...", "native": "...", "synonyms": [] },
-  "type": "TV", "source": "Manga", "status": "Currently Airing", "airing": true,
-  "episodeCount": 1100, "episodeLength": 24,
+  "title": {
+    "romaji": "...",
+    "english": "...",
+    "native": "...",
+    "synonyms": []
+  },
+  "type": "TV",
+  "source": "Manga",
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 1100,
+  "episodeLength": 24,
   "aired": { "from": "1999-10-20", "to": null },
-  "season": "fall", "year": 1999,
+  "season": "fall",
+  "year": 1999,
   "broadcast": { "day": "Sundays", "time": "09:30", "timezone": "Asia/Tokyo" },
   "nextAiringEpisode": { "episode": 1136, "airingAt": 1750000000 },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 8.69, "malScoredBy": 234567, "malRank": 90, "malPopularity": 22,
-    "malMembers": 2200000, "malFavorites": 220000,
-    "anilistScore": 8.7, "anilistPopularity": 567000, "anilistFavourites": 123000,
+    "malScore": 8.69,
+    "malScoredBy": 234567,
+    "malRank": 90,
+    "malPopularity": 22,
+    "malMembers": 2200000,
+    "malFavorites": 220000,
+    "anilistScore": 8.7,
+    "anilistPopularity": 567000,
+    "anilistFavourites": 123000,
     "kitsuRating": 8.69
   },
   "genres": ["Action", "Adventure", "Fantasy"],
@@ -187,16 +213,28 @@ example:
         "english": "One Piece: Defeat the Pirate Ganzack!",
         "native": "ONE PIECE 倒せ!海賊ギャンザック"
       },
-      "image": "...", "format": "OVA", "episodes": 1, "seasonYear": 1998,
+      "image": "...",
+      "format": "OVA",
+      "episodes": 1,
+      "seasonYear": 1998,
       "relationType": "SIDE_STORY"
     }
   ],
   "episodes": {
     "1": {
-      "episode": "1", "anidbEid": "286674", "isFiller": false, "isDubbed": true,
-      "length": "25m", "airdate": "2024-10-03", "title": { "en": "Chinatsu Senpai" },
-      "tvdbShowId": 429934, "tvdbId": 10152847, "seasonNumber": 1,
-      "episodeNumber": 1, "absoluteEpisodeNumber": 1, "runtime": 24,
+      "episode": "1",
+      "anidbEid": "286674",
+      "isFiller": false,
+      "isDubbed": true,
+      "length": "25m",
+      "airdate": "2024-10-03",
+      "title": { "en": "Chinatsu Senpai" },
+      "tvdbShowId": 429934,
+      "tvdbId": 10152847,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/10152847/screencap/...jpg",
       "airDate": "2024-09-27"
     }
@@ -220,13 +258,13 @@ blocking the whole pipeline — see "Error handling" below.
 
 ## Source priority (per your spec: "mostly from MAL/Jikan or Kitsu")
 
-| Source | Role | Notes |
-|---|---|---|
-| **Jikan** | Primary | synopsis, genres, studios, score, broadcast |
-| **Kitsu** | Fallback | used when Jikan is down/missing fields; also supplies `ageRating` |
-| **AniList** | Enrichment | banner image, `nextAiringEpisode`, `sequence` (anime-only, sorted) |
-| **animeapi.my.id** | ID mapping | the `mappings` block + the AniList id AniZip needs |
-| **AniZip** | Episodes | the per-episode schema you specified |
+| Source             | Role       | Notes                                                              |
+| ------------------ | ---------- | ------------------------------------------------------------------ |
+| **Jikan**          | Primary    | synopsis, genres, studios, score, broadcast                        |
+| **Kitsu**          | Fallback   | used when Jikan is down/missing fields; also supplies `ageRating`  |
+| **AniList**        | Enrichment | banner image, `nextAiringEpisode`, `sequence` (anime-only, sorted) |
+| **animeapi.my.id** | ID mapping | the `mappings` block + the AniList id AniZip needs                 |
+| **AniZip**         | Episodes   | the per-episode schema you specified                               |
 
 A title is a **hard failure** (→ retry queue + Discord alert) only if
 **both** Jikan and Kitsu fail — those are your two designated primary
@@ -391,3 +429,7 @@ node scripts/add-anime.js --range=1-3000
   dataset and not guaranteed present for every title — `mappings.tmdb`/
   `mappings.tvdb` will legitimately be `null` for a lot of anime even once
   this is working correctly.
+
+```
+
+```

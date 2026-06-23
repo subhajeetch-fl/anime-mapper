@@ -35,6 +35,15 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}
+
+      - name: Install Chromium
+        run: npx playwright install chromium
+
       - name: Validate inputs
         run: |
           if [ -z "${{ inputs.ids }}" ] && [ -z "${{ inputs.range }}" ]; then

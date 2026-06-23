@@ -17,6 +17,7 @@
 
 import * as cheerio from 'cheerio';
 import { sleep } from './httpClient.js';
+import { getContext } from './browser.js';
 
 const BASE_URL = 'https://simkl.com/anime';
 const MAX_ATTEMPTS = 3;
@@ -39,29 +40,31 @@ export async function getEpisodesBySimklId(simklId) {
 
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
     try {
-      const controller = new AbortController();
+      const context = await getContext();
 
-      const timeout = setTimeout(() => {
-        controller.abort();
-      }, REQUEST_TIMEOUT_MS);
+      const page = await context.newPage();
 
-      const response = await fetch(url, {
-        signal: controller.signal,
-        headers: {
-          'User-Agent':
-            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-        },
-      });
+      try {
+        await page.goto(url, {
+          waitUntil: 'domcontentloaded',
+          timeout: REQUEST_TIMEOUT_MS
+        });
 
-      clearTimeout(timeout);
+        await page.waitForTimeout(2000);
 
-      if (!response.ok) {
-        throw new Error(`Simkl returned HTTP ${response.status}`);
+        const html = await page.content();
+
+        if (
+          html.includes('Just a moment') ||
+          html.includes('Enable JavaScript and cookies')
+        ) {
+          throw new Error('Cloudflare challenge not solved');
+        }
+
+        return parseEpisodes(html, simklId);
+      } finally {
+        await page.close();
       }
-
-      const html = await response.text();
-
-      return parseEpisodes(html, simklId);
     } catch (error) {
       lastError =
         error instanceof Error
@@ -96,7 +99,6 @@ function parseEpisodes(html, simklId) {
   const $ = cheerio.load(html);
 
   const episodes = [];
-
   let currentSection = '';
 
   $('td > *').each((_, el) => {
@@ -120,7 +122,6 @@ function parseEpisodes(html, simklId) {
       .text()
       .trim();
 
-    // Ignore specials, OVAs, etc.
     if (!/^Ep\.\s*\d+$/i.test(epText)) {
       return;
     }
@@ -129,33 +130,20 @@ function parseEpisodes(html, simklId) {
       epText.replace(/[^\d]/g, '')
     );
 
-    const hasDub = $el.hasClass('has-dub');
-
-    const simklEpisodeId =
-      $el.attr('data-id') || null;
-
     episodes.push({
       episode: episodeNumber,
-      hasDub,
-      simklEpisodeId,
+      hasDub: $el.hasClass('has-dub'),
+      simklEpisodeId: $el.attr('data-id') || null
     });
   });
-
-  if (episodes.length === 0) {
-    throw new Error(
-      `No episodes found for Simkl anime ${simklId}`
-    );
-  }
-
- // console.log(episodes) ////
 
   return {
     simklId: String(simklId),
     totalEpisodes: episodes.length,
     dubbedEpisodes: episodes.filter(
-      (ep) => ep.hasDub
+      ep => ep.hasDub
     ).length,
-    episodes,
+    episodes
   };
 }
 
