@@ -1,0 +1,979 @@
+{
+  "id": 1138,
+  "idMal": 1138,
+  "mappings": {
+    "mal": 1138,
+    "anilist": 1138,
+    "kitsu": 1019,
+    "simkl": 36337,
+    "tmdb": 11235,
+    "tvdb": 76906,
+    "animeplanet": "medabots"
+  },
+  "title": {
+    "romaji": "Medarot",
+    "english": "Medabots",
+    "native": "メダロット",
+    "synonyms": [
+      "Medaboty"
+    ]
+  },
+  "type": "TV",
+  "source": "Game",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 52,
+  "episodeLength": 24,
+  "aired": {
+    "from": "1999-07-02T00:00:00+00:00",
+    "to": "2000-06-30T00:00:00+00:00"
+  },
+  "season": "summer",
+  "year": 1999,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 7.12,
+    "anilistScore": 6.8,
+    "kitsuRating": 6.92
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi",
+    "Action",
+    "Science Fiction",
+    "Mecha",
+    "Proxy Battles"
+  ],
+  "studios": [
+    "Bee Train"
+  ],
+  "producers": [
+    "TV Tokyo",
+    "Nihon Ad Systems",
+    "Nelvana"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1778/133514l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1138-12lSvUNY8ByS.jpg",
+    "color": "#f19328"
+  },
+  "trailer": null,
+  "synopsis": "Medabots—powerful robots granted artificial intelligence through special \"medals\"—serve at the whims of their owner. They are more commonly used in \"Robbatling,\" a popular combat sport where two medabots face off against one another. In its professional form, Medafighters use their Medabots to qualify for the World Tournament and fight amongst the elite to gain the title of champion.\n\nElementary schooler Ikki Tenryou has just gained his first Medabot: Metabee, an outdated model with no medal. Fortunately, however, Ikki manages to find a medal in the nearby river; but when Ikki places it into Metabee's head, the latter starts to exhibit strange behaviour. Short-tempered and rebellious, he refuses to obey Ikki's orders. However, to climb the ranks to the World Tournament, Ikki and Metabee must first learn to work together, no matter how difficult the prospect may seem…\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 4052,
+      "title": {
+        "romaji": "Medarot Damashii",
+        "english": "Medabots Spirits",
+        "native": "メダロット魂"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4052-TivVPJoOI4mq.jpg",
+      "format": "TV",
+      "episodes": 39,
+      "seasonYear": 2000,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airdate": "1999-07-02",
+      "title": {
+        "en": "Stung by a Metabee"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220105,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220105.jpg",
+      "airDate": "2001-09-01"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airdate": "1999-07-09",
+      "title": {
+        "en": "Return of the Screws"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220106,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220106.jpg",
+      "airDate": "2001-09-01"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airdate": "1999-07-16",
+      "title": {
+        "en": "Running Scared"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220107,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220107.jpg",
+      "airDate": "2001-09-08"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airdate": "1999-07-23",
+      "title": {
+        "en": "The Legendary Medafighter"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220108,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220108.jpg",
+      "airDate": "2001-09-15"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airdate": "1999-07-30",
+      "title": {
+        "en": "The Old Man and the Sea Monster"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220109,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220109.jpg",
+      "airDate": "2001-09-22"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airdate": "1999-08-06",
+      "title": {
+        "en": "The Gimme Ghost"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220110,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220110.jpg",
+      "airDate": "2001-09-29"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airdate": "1999-08-13",
+      "title": {
+        "en": "Cyandog Bites Back"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220111,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220111.jpg",
+      "airDate": "2001-10-06"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airdate": "1999-08-20",
+      "title": {
+        "en": "For Better, For Worse Pt 1"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220112,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220112.jpg",
+      "airDate": "2001-10-13"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airdate": "1999-08-27",
+      "title": {
+        "en": "For Better, For Worse Pt 2"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220113,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220113.jpg",
+      "airDate": "2001-10-20"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airdate": "1999-09-03",
+      "title": {
+        "en": "Mystery Medabot"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220114,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220114.jpg",
+      "airDate": "2001-10-27"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airdate": "1999-09-10",
+      "title": {
+        "en": "Phantom Renegade: Unmasked"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220115,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220115.jpg",
+      "airDate": "2001-11-10"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airdate": "1999-09-17",
+      "title": {
+        "en": "Ban All Medabots"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220116,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220116.jpg",
+      "airDate": "2001-11-17"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airdate": "1999-09-24",
+      "title": {
+        "en": "Meet Your Meda-Maker"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220117,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220117.jpg",
+      "airDate": "2001-11-24"
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airdate": "1999-10-01",
+      "title": {
+        "en": "The Spy Who Robattled Me"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220118,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220118.jpg",
+      "airDate": "2001-12-01"
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airdate": "1999-10-08",
+      "title": {
+        "en": "I Dream of Hushi"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220119,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220119.jpg",
+      "airDate": "2001-12-08"
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airdate": "1999-10-15",
+      "title": {
+        "en": "Metabee vs. Rokusho"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220120,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220120.jpg",
+      "airDate": "2002-02-09"
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airdate": "1999-10-22",
+      "title": {
+        "en": "Use the Medaforce (a.k.a. Discovery of Medaforce)"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220121,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220121.jpg",
+      "airDate": "2002-02-16"
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airdate": "1999-10-29",
+      "title": {
+        "en": "Fifteen Minutes of Shame"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220122,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220122.jpg",
+      "airDate": "2002-02-23"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airdate": "1999-11-05",
+      "title": {
+        "en": "Enter Rintaro"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220123,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220123.jpg",
+      "airDate": "2002-03-02"
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airdate": "1999-11-12",
+      "title": {
+        "en": "The Ace from Outer Space"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220124,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220124.jpg",
+      "airDate": "2002-03-09"
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airdate": "1999-11-19",
+      "title": {
+        "en": "Me and My Shadow Sword"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220125,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220125.jpg",
+      "airDate": "2002-03-30"
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airdate": "1999-11-26",
+      "title": {
+        "en": "Dude, Where`s My Ma?"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220126,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220126.jpg",
+      "airDate": "2002-04-06"
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airdate": "1999-12-03",
+      "title": {
+        "en": "X-treme Measures"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220127,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220127.jpg",
+      "airDate": "2002-04-13"
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airdate": "1999-12-10",
+      "title": {
+        "en": "The Road To Ruins (a.k.a. Raiders of the Lost Medabot)"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220128,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220128.jpg",
+      "airDate": "2002-04-20"
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airdate": "1999-12-17",
+      "title": {
+        "en": "Operatie Kever Chaos"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220129,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220129.jpg",
+      "airDate": "2002-04-27"
+    },
+    "26": {
+      "episode": "26",
+      "length": "25m",
+      "airdate": "1999-12-24",
+      "title": {
+        "en": "The Mother of All Robattles"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220130,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220130.jpg",
+      "airDate": "2002-04-27"
+    },
+    "27": {
+      "episode": "27",
+      "length": "25m",
+      "airdate": "2000-01-07",
+      "title": {
+        "en": "Spaceship Superstars"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220131,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220131.jpg",
+      "airDate": "2002-07-01"
+    },
+    "28": {
+      "episode": "28",
+      "length": "25m",
+      "airdate": "2000-01-14",
+      "title": {
+        "en": "For Love or Robattle"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220132,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220132.jpg",
+      "airDate": "2002-07-02"
+    },
+    "29": {
+      "episode": "29",
+      "length": "25m",
+      "airdate": "2000-01-21",
+      "title": {
+        "en": "Dance with the Mantis"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220133,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220133.jpg",
+      "airDate": "2002-07-03"
+    },
+    "30": {
+      "episode": "30",
+      "length": "25m",
+      "airdate": "2000-01-28",
+      "title": {
+        "en": "Once Frostbitten, Twice Shy"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220134,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220134.jpg",
+      "airDate": "2002-07-04"
+    },
+    "31": {
+      "episode": "31",
+      "length": "25m",
+      "airdate": "2000-02-04",
+      "title": {
+        "en": "Bridge Over Troubled Squidguts (a.k.a. Robattle Bridge)"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220135,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220135.jpg",
+      "airDate": "2002-07-05"
+    },
+    "32": {
+      "episode": "32",
+      "length": "25m",
+      "airdate": "2000-02-11",
+      "title": {
+        "en": "No Body Home"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220136,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220136.jpg",
+      "airDate": "2002-07-12"
+    },
+    "33": {
+      "episode": "33",
+      "length": "25m",
+      "airdate": "2000-02-18",
+      "title": {
+        "en": "Welcome to Ninja World"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220137,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220137.jpg",
+      "airDate": "2002-07-19"
+    },
+    "34": {
+      "episode": "34",
+      "length": "25m",
+      "airdate": "2000-02-25",
+      "title": {
+        "en": "Eat, Drink, Man, Medabot"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220138,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220138.jpg",
+      "airDate": "2002-07-26"
+    },
+    "35": {
+      "episode": "35",
+      "length": "25m",
+      "airdate": "2000-03-03",
+      "title": {
+        "en": "There`s Something About Miss Mimosa"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220139,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220139.jpg",
+      "airDate": "2002-08-02"
+    },
+    "36": {
+      "episode": "36",
+      "length": "25m",
+      "airdate": "2000-03-10",
+      "title": {
+        "en": "The Birds and the Metabees"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220140,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220140.jpg",
+      "airDate": "2002-08-09"
+    },
+    "37": {
+      "episode": "37",
+      "length": "25m",
+      "airdate": "2000-03-17",
+      "title": {
+        "en": "Skyward, Yo!"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220141,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 37,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220141.jpg",
+      "airDate": "2002-08-16"
+    },
+    "38": {
+      "episode": "38",
+      "length": "25m",
+      "airdate": "2000-03-24",
+      "title": {
+        "en": "Love at First Bite"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220142,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 38,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220142.jpg",
+      "airDate": "2002-08-23"
+    },
+    "39": {
+      "episode": "39",
+      "length": "25m",
+      "airdate": "2000-03-31",
+      "title": {
+        "en": "Heavy Medal"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220143,
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 39,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220143.jpg",
+      "airDate": "2002-08-30"
+    },
+    "40": {
+      "episode": "40",
+      "length": "25m",
+      "airdate": "2000-04-07",
+      "title": {
+        "en": "Let the Meda-Games Begin"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220144,
+      "seasonNumber": 2,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 40,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220144.jpg",
+      "airDate": "2002-09-14"
+    },
+    "41": {
+      "episode": "41",
+      "length": "25m",
+      "airdate": "2000-04-14",
+      "title": {
+        "en": "Pixies and Pirates!"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220145,
+      "seasonNumber": 2,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 41,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220145.jpg",
+      "airDate": "2002-09-15"
+    },
+    "42": {
+      "episode": "42",
+      "length": "25m",
+      "airdate": "2000-04-21",
+      "title": {
+        "en": "The French Deception"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220146,
+      "seasonNumber": 2,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 42,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220146.jpg",
+      "airDate": "2002-09-21"
+    },
+    "43": {
+      "episode": "43",
+      "length": "25m",
+      "airdate": "2000-04-28",
+      "title": {
+        "en": "Space Medaballerina X"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220147,
+      "seasonNumber": 2,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 43,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220147.jpg",
+      "airDate": "2002-09-22"
+    },
+    "44": {
+      "episode": "44",
+      "length": "25m",
+      "airdate": "2000-05-05",
+      "title": {
+        "en": "Swede and Sour"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220148,
+      "seasonNumber": 2,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 44,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220148.jpg",
+      "airDate": "2002-09-28"
+    },
+    "45": {
+      "episode": "45",
+      "length": "25m",
+      "airdate": "2000-05-12",
+      "title": {
+        "en": "Future`s Past"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220149,
+      "seasonNumber": 2,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 45,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220149.jpg",
+      "airDate": "2002-09-29"
+    },
+    "46": {
+      "episode": "46",
+      "length": "25m",
+      "airdate": "2000-05-19",
+      "title": {
+        "en": "The Medaforce Within"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220150,
+      "seasonNumber": 2,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 46,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220150.jpg",
+      "airDate": "2002-10-05"
+    },
+    "47": {
+      "episode": "47",
+      "length": "25m",
+      "airdate": "2000-05-26",
+      "title": {
+        "en": "A Date with Destiny"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220151,
+      "seasonNumber": 2,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 47,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220151.jpg",
+      "airDate": "2002-10-06"
+    },
+    "48": {
+      "episode": "48",
+      "length": "25m",
+      "airdate": "2000-06-02",
+      "title": {
+        "en": "Calm Before The Storm"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220152,
+      "seasonNumber": 2,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 48,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220152.jpg",
+      "airDate": "2002-10-12"
+    },
+    "49": {
+      "episode": "49",
+      "length": "25m",
+      "airdate": "2000-06-09",
+      "title": {
+        "en": "Taking the Victor Out of Victory"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220153,
+      "seasonNumber": 2,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 49,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220153.jpg",
+      "airDate": "2002-10-19"
+    },
+    "50": {
+      "episode": "50",
+      "length": "25m",
+      "airdate": "2000-06-16",
+      "title": {
+        "en": "Altered States"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220154,
+      "seasonNumber": 2,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 50,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220154.jpg",
+      "airDate": "2002-10-20"
+    },
+    "51": {
+      "episode": "51",
+      "length": "25m",
+      "airdate": "2000-06-23",
+      "title": {
+        "en": "Waking to a Dream"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220155,
+      "seasonNumber": 2,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 51,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220155.jpg",
+      "airDate": "2002-10-26"
+    },
+    "52": {
+      "episode": "52",
+      "length": "25m",
+      "airdate": "2000-06-30",
+      "title": {
+        "en": "Metabee`s Last Stand"
+      },
+      "tvdbShowId": 76906,
+      "tvdbId": 220156,
+      "seasonNumber": 2,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 52,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76906/220156.jpg",
+      "airDate": "2002-11-02"
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airdate": "1999-07-02",
+      "title": {
+        "en": "Chie to Yuuki Da! Medarot (1-52)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1999-07-02"
+    },
+    "ED1a": {
+      "episode": "ED1a",
+      "length": "2m",
+      "airdate": "1999-07-02",
+      "title": {
+        "en": "Yappari Kimi ga Suki! (1-52)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1999-07-02"
+    },
+    "ED1b": {
+      "episode": "ED1b",
+      "length": "2m",
+      "airdate": "2000-06-30",
+      "title": {
+        "en": "Yappari Kimi ga Suki! (1-52)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2000-06-30"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-24T16:14:08.454Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

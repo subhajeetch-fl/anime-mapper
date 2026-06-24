@@ -1,0 +1,455 @@
+{
+  "id": 992,
+  "idMal": 992,
+  "mappings": {
+    "mal": 992,
+    "anilist": 992,
+    "kitsu": 882,
+    "simkl": 37679,
+    "tmdb": 37537,
+    "tvdb": 79996,
+    "animeplanet": "dual-parallel-trouble-adventures"
+  },
+  "title": {
+    "romaji": "Dual! Parallel Lunlun Monogatari",
+    "english": "Dual! Parallel Trouble Adventure",
+    "native": "デュアル！ぱられルンルン物語",
+    "synonyms": [
+      "Dual! Parare Runrun Monogatari",
+      "Dual Parallel! Trouble Adventures",
+      "Dual! Parallel Lun-Lun Monogatari",
+      "Dual"
+    ]
+  },
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 13,
+  "episodeLength": 25,
+  "aired": {
+    "from": "1999-04-08T00:00:00+00:00",
+    "to": "1999-07-01T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 1999,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.06,
+    "anilistScore": 6.6,
+    "kitsuRating": 7.11
+  },
+  "genres": [
+    "Comedy",
+    "Sci-Fi",
+    "Action",
+    "Mecha",
+    "Harem",
+    "Science Fiction",
+    "Japan",
+    "Earth",
+    "Piloted Robot",
+    "Asia",
+    "War",
+    "Parallel Universe",
+    "Present"
+  ],
+  "studios": [
+    "AIC"
+  ],
+  "producers": [
+    "Pioneer LDC"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/8/31223l.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/882/original.jpg",
+    "color": "#e4a15d"
+  },
+  "trailer": null,
+  "synopsis": "Kazuki Yotsuga is your regular average nerd in high-school, except he isn't smart. He has this website which relates to his visions that only he can see. His visions are about robots who keep fighting each other battle after battle. One day he is sent to a \"parallel world\" where these visions exist and he joins a company to fight back against the devious RaRa, who want to take over the world. \n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 993,
+      "title": {
+        "romaji": "Dual! Parallel Lunlun Monogatari: Final Frontier",
+        "english": "Dual! Parallel Trouble Adventure Special",
+        "native": "デュアル！ぱられルンルン物語「ファイナル・フロンティア」"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/993.jpg",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "seasonYear": 1999,
+      "relationType": "SEQUEL"
+    },
+    {
+      "malId": 1133,
+      "title": {
+        "romaji": "Tenchi Muyou! GXP",
+        "english": "Tenchi Muyo! GXP",
+        "native": "天地無用! GXP"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1133.jpg",
+      "format": "TV",
+      "episodes": 26,
+      "seasonYear": 2002,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "30m",
+      "airdate": "1999-04-08",
+      "title": {
+        "en": "Life Sympathy"
+      },
+      "tvdbShowId": 79996,
+      "tvdbId": 328107,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79996/328107.jpg",
+      "airDate": "1999-04-08"
+    },
+    "2": {
+      "episode": "2",
+      "length": "30m",
+      "airdate": "1999-04-15",
+      "title": {
+        "en": "My Home"
+      },
+      "tvdbShowId": 79996,
+      "tvdbId": 328108,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79996/328108.jpg",
+      "airDate": "1999-04-15"
+    },
+    "3": {
+      "episode": "3",
+      "length": "30m",
+      "airdate": "1999-04-22",
+      "title": {
+        "en": "Illegal Guy"
+      },
+      "tvdbShowId": 79996,
+      "tvdbId": 328109,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79996/328109.jpg",
+      "airDate": "1999-04-22"
+    },
+    "4": {
+      "episode": "4",
+      "length": "30m",
+      "airdate": "1999-04-29",
+      "title": {
+        "en": "No Disguise"
+      },
+      "tvdbShowId": 79996,
+      "tvdbId": 328110,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79996/328110.jpg",
+      "airDate": "1999-04-29"
+    },
+    "5": {
+      "episode": "5",
+      "length": "30m",
+      "airdate": "1999-05-06",
+      "title": {
+        "en": "Campus Life"
+      },
+      "tvdbShowId": 79996,
+      "tvdbId": 328111,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79996/328111.jpg",
+      "airDate": "1999-05-06"
+    },
+    "6": {
+      "episode": "6",
+      "length": "30m",
+      "airdate": "1999-05-13",
+      "title": {
+        "en": "Intrigue"
+      },
+      "tvdbShowId": 79996,
+      "tvdbId": 328112,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79996/328112.jpg",
+      "airDate": "1999-05-13"
+    },
+    "7": {
+      "episode": "7",
+      "length": "30m",
+      "airdate": "1999-05-20",
+      "title": {
+        "en": "Hardcase"
+      },
+      "tvdbShowId": 79996,
+      "tvdbId": 328113,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79996/328113.jpg",
+      "airDate": "1999-05-20"
+    },
+    "8": {
+      "episode": "8",
+      "length": "30m",
+      "airdate": "1999-05-27",
+      "title": {
+        "en": "Mitsuki"
+      },
+      "tvdbShowId": 79996,
+      "tvdbId": 328114,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79996/328114.jpg",
+      "airDate": "1999-05-27"
+    },
+    "9": {
+      "episode": "9",
+      "length": "30m",
+      "airdate": "1999-06-03",
+      "title": {
+        "en": "Escape"
+      },
+      "tvdbShowId": 79996,
+      "tvdbId": 328115,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79996/328115.jpg",
+      "airDate": "1999-06-03"
+    },
+    "10": {
+      "episode": "10",
+      "length": "30m",
+      "airdate": "1999-06-10",
+      "title": {
+        "en": "Repatriate"
+      },
+      "tvdbShowId": 79996,
+      "tvdbId": 328116,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79996/328116.jpg",
+      "airDate": "1999-06-10"
+    },
+    "11": {
+      "episode": "11",
+      "length": "30m",
+      "airdate": "1999-06-17",
+      "title": {
+        "en": "Real"
+      },
+      "tvdbShowId": 79996,
+      "tvdbId": 328117,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79996/328117.jpg",
+      "airDate": "1999-06-17"
+    },
+    "12": {
+      "episode": "12",
+      "length": "30m",
+      "airdate": "1999-06-24",
+      "title": {
+        "en": "Ardent Desire"
+      },
+      "tvdbShowId": 79996,
+      "tvdbId": 328118,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79996/328118.jpg",
+      "airDate": "1999-06-24"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airdate": "1999-07-01",
+      "title": {
+        "en": "The World"
+      },
+      "tvdbShowId": 79996,
+      "tvdbId": 328119,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79996/328119.jpg",
+      "airDate": "1999-07-01"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "30m",
+      "airdate": "1999-12-22",
+      "title": {
+        "en": "Final Frontier"
+      },
+      "tvdbShowId": 79996,
+      "tvdbId": 328120,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79996/328120.jpg",
+      "airDate": "1999-12-22"
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Image Board"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airdate": "1999-04-15",
+      "title": {
+        "en": "Dual! (2-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1999-04-15"
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airdate": "1999-04-08",
+      "title": {
+        "en": "Real (1-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1999-04-08"
+    },
+    "ED2": {
+      "episode": "ED2",
+      "length": "3m",
+      "airdate": "1999-12-22",
+      "title": {
+        "en": "Dual! (featuring Mitsuki) (S1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1999-12-22"
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "Promo Clip 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "Promo Clip 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Special Information"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-24T16:06:18.392Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

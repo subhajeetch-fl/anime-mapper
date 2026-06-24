@@ -1,0 +1,143 @@
+{
+  "id": 1521,
+  "idMal": 1521,
+  "mappings": {
+    "mal": 1521,
+    "anilist": 1521,
+    "kitsu": 1365,
+    "simkl": 39562,
+    "tmdb": 30083,
+    "tvdb": null,
+    "animeplanet": "black-jack-the-movie"
+  },
+  "title": {
+    "romaji": "Black Jack Movie",
+    "english": "Black Jack: The Movie",
+    "native": "ブラック・ジャック 劇場版",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 93,
+  "aired": {
+    "from": "1996-11-30T00:00:00+00:00",
+    "to": "1996-11-30"
+  },
+  "season": "fall",
+  "year": 1996,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "R - 17+ (violence & profanity)",
+  "score": {
+    "malScore": 7.37,
+    "anilistScore": 7.2,
+    "kitsuRating": 7.56
+  },
+  "genres": [
+    "Award Winning",
+    "Drama",
+    "Mystery",
+    "Thriller",
+    "Medical",
+    "Earth",
+    "Detective",
+    "Future",
+    "Human Enhancement"
+  ],
+  "studios": [
+    "Tezuka Productions"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1868/134318l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1521-tYYDE7puIKYp.jpg",
+    "color": "#e4a150"
+  },
+  "trailer": null,
+  "synopsis": "Joe Carol Brane attempts to hire Dr. Black Jack on a breed of superhumans that have the strength, intellectual, athletic, and artistic skills with great excel in different fields, only to later find out that they start deteriorating after some period of time and causing an untimely death. Joe needs Dr. Black Jack's help on finding a cure. \n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 1520,
+      "title": {
+        "romaji": "Black Jack",
+        "english": "Black Jack",
+        "native": "ブラック・ジャック"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1520-4AFl8cpVoRQU.jpg",
+      "format": "OVA",
+      "episodes": 10,
+      "seasonYear": 1993,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "95m",
+      "airdate": "1996-11-30",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 72281,
+      "tvdbId": 4159388,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 50,
+      "image": "https://artworks.thetvdb.com/banners/episodes/72281/4159388.jpg",
+      "airDate": "1996-11-30"
+    },
+    "2": {
+      "episode": "2",
+      "length": "50m",
+      "airdate": "1996-11-30",
+      "title": {
+        "en": "Part 1 of 2"
+      },
+      "tvdbShowId": 72281,
+      "tvdbId": 5064934,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": null,
+      "airDate": "2000-03-22"
+    },
+    "3": {
+      "episode": "3",
+      "length": "50m",
+      "airdate": "1996-11-30",
+      "title": {
+        "en": "Part 2 of 2"
+      },
+      "tvdbShowId": 72281,
+      "tvdbId": 5064935,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 50,
+      "image": null,
+      "airDate": "2000-11-03"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-24T16:36:00.425Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}
