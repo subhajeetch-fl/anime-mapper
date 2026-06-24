@@ -4,18 +4,11 @@
   "mappings": {
     "mal": 81,
     "anilist": 81,
-    "anidb": 217,
     "kitsu": 60,
     "simkl": 38977,
     "tmdb": 43887,
     "tvdb": 80784,
-    "trakt": 43645,
-    "traktType": "shows",
-    "shikimori": 81,
-    "livechart": 4109,
-    "animeplanet": "mobile-suit-gundam-the-08th-ms-team",
-    "anisearch": 647,
-    "notify": "ugtpcKmmg"
+    "animeplanet": "mobile-suit-gundam-the-08th-ms-team"
   },
   "title": {
     "romaji": "Kidou Senshi Gundam: Dai 08 MS Shotai",
@@ -46,14 +39,7 @@
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": 8,
-    "malScoredBy": 51801,
-    "malRank": 743,
-    "malPopularity": 2493,
-    "malMembers": 94710,
-    "malFavorites": 1232,
     "anilistScore": 7.7,
-    "anilistPopularity": 23400,
-    "anilistFavourites": 727,
     "kitsuRating": 7.92
   },
   "genres": [
@@ -156,15 +142,10 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "anidbEid": "2525",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "1996-01-25",
       "title": {
-        "en": "War for Two",
-        "romaji": "Futari dake no Sensou",
-        "ja": "二人だけの戦争"
+        "en": "War for Two"
       },
       "tvdbShowId": 80784,
       "tvdbId": 340678,
@@ -177,15 +158,10 @@
     },
     "2": {
       "episode": "2",
-      "anidbEid": "2524",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "1996-01-25",
       "title": {
-        "en": "Gundams in the Jungle",
-        "romaji": "Mitsurin no Gundam",
-        "ja": "密林のガンダム"
+        "en": "Gundams in the Jungle"
       },
       "tvdbShowId": 80784,
       "tvdbId": 340679,
@@ -198,15 +174,10 @@
     },
     "3": {
       "episode": "3",
-      "anidbEid": "2523",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "1996-03-25",
       "title": {
-        "en": "The Time Limit on Trust",
-        "romaji": "Shinrai e no Time Limit",
-        "ja": "信頼への限界時間[タイムリミット]"
+        "en": "The Time Limit on Trust"
       },
       "tvdbShowId": 80784,
       "tvdbId": 340680,
@@ -219,15 +190,42 @@
     },
     "4": {
       "episode": "4",
-      "anidbEid": "2522",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "1996-10-25",
       "title": {
-        "en": "Demon Overhead",
-        "romaji": "Zujou no Akuma",
-        "ja": "頭上の悪魔"
+        "en": "Demon Overhead"
+      },
+      "tvdbShowId": 80784,
+      "tvdbId": 340681,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/80784/340681.jpg",
+      "airDate": "1996-10-25"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airdate": "1996-11-25",
+      "title": {
+        "en": "The Broken Order to Standby"
+      },
+      "tvdbShowId": 80784,
+      "tvdbId": 340682,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/80784/340682.jpg",
+      "airDate": "1996-11-25"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airdate": "1996-12-18",
+      "title": {
+        "en": "Battle Line on the Burning Sand"
       },
       "tvdbShowId": 80784,
       "tvdbId": 340683,
@@ -238,59 +236,12 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/80784/340683.jpg",
       "airDate": "1996-12-18"
     },
-    "5": {
-      "episode": "5",
-      "anidbEid": "2521",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "1996-11-25",
-      "title": {
-        "en": "The Broken Order to Standby",
-        "romaji": "Yaburareta Taiki Meirei",
-        "ja": "破られた待機命令"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "1996-11-25"
-    },
-    "6": {
-      "episode": "6",
-      "anidbEid": "2531",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "1996-12-18",
-      "title": {
-        "en": "Battle Line on the Burning Sand",
-        "romaji": "Nessa Sensen",
-        "ja": "熱砂戦線"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "1996-12-18"
-    },
     "7": {
       "episode": "7",
-      "anidbEid": "2529",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "1997-10-25",
       "title": {
-        "en": "Reunion",
-        "romaji": "Saikai",
-        "ja": "再会"
+        "en": "Reunion"
       },
       "tvdbShowId": 80784,
       "tvdbId": 340684,
@@ -303,15 +254,10 @@
     },
     "8": {
       "episode": "8",
-      "anidbEid": "2527",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "1997-12-18",
       "title": {
-        "en": "Duty and Ideals",
-        "romaji": "Gunmu to Risou",
-        "ja": "軍務と理想"
+        "en": "Duty and Ideals"
       },
       "tvdbShowId": 80784,
       "tvdbId": 340685,
@@ -324,15 +270,10 @@
     },
     "9": {
       "episode": "9",
-      "anidbEid": "2526",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-02-25",
       "title": {
-        "en": "Front Line",
-        "romaji": "Saizensen",
-        "ja": "最前線"
+        "en": "Front Line"
       },
       "tvdbShowId": 80784,
       "tvdbId": 340686,
@@ -345,15 +286,10 @@
     },
     "10": {
       "episode": "10",
-      "anidbEid": "2520",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-07-25",
       "title": {
-        "en": "The Shuddering Mountain (Part 1)",
-        "romaji": "Furueru Yama (Zenpen)",
-        "ja": "震える山 (前編)"
+        "en": "The Shuddering Mountain (Part 1)"
       },
       "tvdbShowId": 80784,
       "tvdbId": 340687,
@@ -366,15 +302,10 @@
     },
     "11": {
       "episode": "11",
-      "anidbEid": "2530",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "1999-04-25",
       "title": {
-        "en": "The Shuddering Mountain (Part 2)",
-        "romaji": "Furueru Yama (Kouhen)",
-        "ja": "震える山 (後編)"
+        "en": "The Shuddering Mountain (Part 2)"
       },
       "tvdbShowId": 80784,
       "tvdbId": 340688,
@@ -387,15 +318,10 @@
     },
     "12": {
       "episode": "12",
-      "anidbEid": "2528",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1999-07-25",
       "title": {
-        "en": "Last Resort",
-        "romaji": "Last Resort",
-        "ja": "ラスト・リゾート"
+        "en": "Last Resort"
       },
       "tvdbShowId": 80784,
       "tvdbId": 340689,
@@ -406,12 +332,169 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/80784/340689.jpg",
       "airDate": "1999-07-25"
     },
+    "S1": {
+      "episode": "S1",
+      "length": "3m",
+      "airdate": "1996-10-25",
+      "title": {
+        "en": "More About the Universal Century 01: Construction of the Colonies - (The Beginning of the Universal Century)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1996-10-25"
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "3m",
+      "airdate": "1996-11-25",
+      "title": {
+        "en": "More About the Universal Century 02: The One Year War - The Opening Shots"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1996-11-25"
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "3m",
+      "airdate": "1996-12-18",
+      "title": {
+        "en": "More About the Universal Century 03: Mobile Suit Development - The Ambitions of Zeon"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1996-12-18"
+    },
+    "S4": {
+      "episode": "S4",
+      "length": "4m",
+      "airdate": "1997-10-25",
+      "title": {
+        "en": "More About the Universal Century 04: The One Year War - Operation Odessa"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1997-10-25"
+    },
+    "S5": {
+      "episode": "S5",
+      "length": "3m",
+      "airdate": "1997-12-18",
+      "title": {
+        "en": "More About the Universal Century 05: Pilots 1 - Char Aznable"
+      },
+      "tvdbShowId": 80784,
+      "tvdbId": 4518284,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 9,
+      "image": "https://artworks.thetvdb.com/banners/episodes/80784/4518284.jpg",
+      "airDate": "2013-02-22"
+    },
+    "S6": {
+      "episode": "S6",
+      "length": "4m",
+      "airdate": "1998-02-25",
+      "title": {
+        "en": "More About the Universal Century 06: Mobile Suit Development - The V Project"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1998-02-25"
+    },
+    "S7": {
+      "episode": "S7",
+      "length": "4m",
+      "airdate": "1998-07-25",
+      "title": {
+        "en": "More About the Universal Century 07: The One Year War - Operation Star One"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1998-07-25"
+    },
+    "S8": {
+      "episode": "S8",
+      "length": "3m",
+      "airdate": "1999-04-25",
+      "title": {
+        "en": "More About the Universal Century 08: Pilots 2 - Ramba Ral and the Black Tri-Stars"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1999-04-25"
+    },
+    "S9": {
+      "episode": "S9",
+      "length": "3m",
+      "airdate": "1999-07-25",
+      "title": {
+        "en": "More About the Universal Century 09: Mobile Armor Development - The Ambitions of Zeon 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1999-07-25"
+    },
+    "S10": {
+      "episode": "S10",
+      "length": "3m",
+      "airdate": "1999-07-25",
+      "title": {
+        "en": "More About the Universal Century 10: The One Year War - The End"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1999-07-25"
+    },
     "S11": {
       "episode": "S11",
-      "anidbEid": "36597",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 2,
+      "length": "2m",
       "airdate": "",
       "title": {
         "en": "DVD Vol 1 Bonus"
@@ -427,10 +510,7 @@
     },
     "S12": {
       "episode": "S12",
-      "anidbEid": "36598",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 6,
+      "length": "6m",
       "airdate": "",
       "title": {
         "en": "DVD Vol 2 Bonus"
@@ -446,10 +526,7 @@
     },
     "S13": {
       "episode": "S13",
-      "anidbEid": "36599",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 3,
+      "length": "3m",
       "airdate": "",
       "title": {
         "en": "DVD Vol 3 Bonus 1"
@@ -465,10 +542,7 @@
     },
     "S14": {
       "episode": "S14",
-      "anidbEid": "36600",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 2,
+      "length": "2m",
       "airdate": "",
       "title": {
         "en": "DVD Vol 3 Bonus 2"
@@ -484,15 +558,10 @@
     },
     "S15": {
       "episode": "S15",
-      "anidbEid": "147907",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 9,
+      "length": "9m",
       "airdate": "2013-02-22",
       "title": {
-        "en": "Battle in Three Dimensions",
-        "romaji": "Uchuu Seiki Yowa: Sanjigen to no Tatakai",
-        "ja": "宇宙世紀余話 三次元との戦い"
+        "en": "Battle in Three Dimensions"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -503,17 +572,12 @@
       "image": null,
       "airDate": "2013-02-22"
     },
-    "S1": {
-      "episode": "S1",
-      "anidbEid": "236362",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 3,
-      "airdate": "1996-10-25",
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airdate": "",
       "title": {
-        "en": "More About the Universal Century 01: Construction of the Colonies - (The Beginning of the Universal Century)",
-        "romaji": "Uchuu Seiki Yowa: Colony Kensetsu - (Uchuu Seiki no Hajimari)",
-        "ja": "宇宙世紀余話 コロニー建設 (宇宙世紀の始まり)"
+        "en": "Arashi no Naka de Kagayaite (1-11)"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -522,19 +586,14 @@
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null,
-      "airDate": "1996-10-25"
+      "airDate": ""
     },
-    "S2": {
-      "episode": "S2",
-      "anidbEid": "236363",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 3,
-      "airdate": "1996-11-25",
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airdate": "",
       "title": {
-        "en": "More About the Universal Century 02: The One Year War - The Opening Shots",
-        "romaji": "Uchuu Seiki Yowa: Ichinen Sensou - Kaisen",
-        "ja": "宇宙世紀余話 一年戦争 開戦"
+        "en": "10 Years After (1-10)"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -543,19 +602,14 @@
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null,
-      "airDate": "1996-11-25"
+      "airDate": ""
     },
-    "S3": {
-      "episode": "S3",
-      "anidbEid": "236364",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 3,
-      "airdate": "1996-12-18",
+    "T1": {
+      "episode": "T1",
+      "length": "2m",
+      "airdate": "",
       "title": {
-        "en": "More About the Universal Century 03: Mobile Suit Development - The Ambitions of Zeon",
-        "romaji": "Uchuu Seiki Yowa: Mobile Suits Kaihatsu - Zeon no Yabou",
-        "ja": "宇宙世紀余話 モビルスーツ開発 ジオンの野望"
+        "en": "Pilot Trailer"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -564,164 +618,81 @@
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null,
-      "airDate": "1996-12-18"
+      "airDate": ""
     },
-    "S4": {
-      "episode": "S4",
-      "anidbEid": "236365",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 4,
-      "airdate": "1997-10-25",
+    "T2": {
+      "episode": "T2",
+      "length": "4m",
+      "airdate": "",
       "title": {
-        "en": "More About the Universal Century 04: The One Year War - Operation Odessa",
-        "romaji": "Uchuu Seiki Yowa: Ichinen Sensou - Odessa Sakusen",
-        "ja": "宇宙世紀余話 一年戦争 オデッサ作戦"
+        "en": "BD-BOX CM1 (3:59)"
       },
-      "tvdbShowId": 80784,
-      "tvdbId": 340684,
-      "seasonNumber": 1,
-      "episodeNumber": 7,
-      "absoluteEpisodeNumber": 7,
-      "runtime": 25,
-      "image": "https://artworks.thetvdb.com/banners/episodes/80784/340684.jpg",
-      "airDate": "1997-10-25"
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
     },
-    "S5": {
-      "episode": "S5",
-      "anidbEid": "236366",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 3,
-      "airdate": "1997-12-18",
+    "T3": {
+      "episode": "T3",
+      "length": "6m",
+      "airdate": "",
       "title": {
-        "en": "More About the Universal Century 05: Pilots 1 - Char Aznable",
-        "romaji": "Uchuu Seiki Yowa: Pilot Hen 1 - Char Aznable",
-        "ja": "宇宙世紀余話 パイロット編1 シャア・アズナブル"
+        "en": "CM1 (5:33)"
       },
-      "tvdbShowId": 80784,
-      "tvdbId": 340685,
-      "seasonNumber": 1,
-      "episodeNumber": 8,
-      "absoluteEpisodeNumber": 8,
-      "runtime": 25,
-      "image": "https://artworks.thetvdb.com/banners/episodes/80784/340685.jpg",
-      "airDate": "1997-12-28"
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
     },
-    "S6": {
-      "episode": "S6",
-      "anidbEid": "236367",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 4,
-      "airdate": "1998-02-25",
+    "T4": {
+      "episode": "T4",
+      "length": "2m",
+      "airdate": "",
       "title": {
-        "en": "More About the Universal Century 06: Mobile Suit Development - The V Project",
-        "romaji": "Uchuu Seiki Yowa: Mobile Suits Kaihatsu - V Sakusen",
-        "ja": "宇宙世紀余話 モビルスーツ開発 V作戦"
+        "en": "CM2 (2:29)"
       },
-      "tvdbShowId": 80784,
-      "tvdbId": 340686,
-      "seasonNumber": 1,
-      "episodeNumber": 9,
-      "absoluteEpisodeNumber": 9,
-      "runtime": 25,
-      "image": "https://artworks.thetvdb.com/banners/episodes/80784/340686.jpg",
-      "airDate": "1998-02-25"
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
     },
-    "S7": {
-      "episode": "S7",
-      "anidbEid": "236368",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 4,
-      "airdate": "1998-07-25",
+    "T5": {
+      "episode": "T5",
+      "length": "1m",
+      "airdate": "",
       "title": {
-        "en": "More About the Universal Century 07: The One Year War - Operation Star One",
-        "romaji": "Uchuu Seiki Yowa: Ichinen Sensou - Hoshi Ichigou Sakusen",
-        "ja": "宇宙世紀余話 一年戦争 星一号作戦"
+        "en": "R1 VHS & DVD Trailer (0:58)"
       },
-      "tvdbShowId": 80784,
-      "tvdbId": 340687,
-      "seasonNumber": 1,
-      "episodeNumber": 10,
-      "absoluteEpisodeNumber": 10,
-      "runtime": 25,
-      "image": "https://artworks.thetvdb.com/banners/episodes/80784/340687.jpg",
-      "airDate": "1998-07-25"
-    },
-    "S8": {
-      "episode": "S8",
-      "anidbEid": "236369",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 3,
-      "airdate": "1999-04-25",
-      "title": {
-        "en": "More About the Universal Century 08: Pilots 2 - Ramba Ral and the Black Tri-Stars",
-        "romaji": "Uchuu Seiki Yowa: Pilot Hen 2 - Ramba Ral & Kuroi San Rensei",
-        "ja": "宇宙世紀余話 パイロット編2 ランバ・ラル&黒い三連星"
-      },
-      "tvdbShowId": 80784,
-      "tvdbId": 340688,
-      "seasonNumber": 1,
-      "episodeNumber": 11,
-      "absoluteEpisodeNumber": 11,
-      "runtime": 24,
-      "image": "https://artworks.thetvdb.com/banners/episodes/80784/340688.jpg",
-      "airDate": "1999-04-25"
-    },
-    "S9": {
-      "episode": "S9",
-      "anidbEid": "236370",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 3,
-      "airdate": "1999-07-25",
-      "title": {
-        "en": "More About the Universal Century 09: Mobile Armor Development - The Ambitions of Zeon 2",
-        "romaji": "Uchuu Seiki Yowa: Mobile Armor Kaihatsu - Zeon no Yabou 2",
-        "ja": "宇宙世紀余話 モビルアーマー開発 ジオンの野望2"
-      },
-      "tvdbShowId": 80784,
-      "tvdbId": 340689,
-      "seasonNumber": 1,
-      "episodeNumber": 12,
-      "absoluteEpisodeNumber": 12,
-      "runtime": 27,
-      "image": "https://artworks.thetvdb.com/banners/episodes/80784/340689.jpg",
-      "airDate": "1999-07-25"
-    },
-    "S10": {
-      "episode": "S10",
-      "anidbEid": "236371",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 3,
-      "airdate": "1999-07-25",
-      "title": {
-        "en": "More About the Universal Century 10: The One Year War - The End",
-        "romaji": "Uchuu Seiki Yowa: Ichinen Sensou - Shuusen",
-        "ja": "宇宙世紀余話 一年戦争 終戦"
-      },
-      "tvdbShowId": 80784,
-      "tvdbId": 340689,
-      "seasonNumber": 1,
-      "episodeNumber": 12,
-      "absoluteEpisodeNumber": 12,
-      "runtime": 27,
-      "image": "https://artworks.thetvdb.com/banners/episodes/80784/340689.jpg",
-      "airDate": "1999-07-25"
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
     }
   },
   "meta": {
-    "lastFetched": "2026-06-23T15:53:05.396Z",
+    "lastFetched": "2026-06-24T15:03:31.260Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "anizip",
+      "zenshin",
       "simkl"
     ],
     "missingSources": [],

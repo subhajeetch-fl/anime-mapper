@@ -1,0 +1,621 @@
+{
+  "id": 101,
+  "idMal": 101,
+  "mappings": {
+    "mal": 101,
+    "anilist": 101,
+    "kitsu": 7660,
+    "simkl": 40584,
+    "tmdb": 26201,
+    "tvdb": 79101,
+    "animeplanet": "air"
+  },
+  "title": {
+    "romaji": "AIR",
+    "english": "Air",
+    "native": "AIR",
+    "synonyms": [
+      "Air TV"
+    ]
+  },
+  "type": "TV",
+  "source": "Visual novel",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
+  "episodeLength": 24,
+  "aired": {
+    "from": "2005-01-07T00:00:00+00:00",
+    "to": "2005-03-25T00:00:00+00:00"
+  },
+  "season": "winter",
+  "year": 2005,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.27,
+    "anilistScore": 6.8,
+    "kitsuRating": 7.15
+  },
+  "genres": [
+    "Drama",
+    "Romance",
+    "Supernatural",
+    "Slice of Life",
+    "Japan",
+    "Earth",
+    "Asia",
+    "Alternative Present",
+    "Present",
+    "Contemporary Fantasy"
+  ],
+  "studios": [
+    "Kyoto Animation"
+  ],
+  "producers": [
+    "Pony Canyon",
+    "TBS",
+    "Movic"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1825/146531l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101-svfB4pd7QpT5.jpg",
+    "color": "#e4e45d"
+  },
+  "trailer": null,
+  "synopsis": "Yukito Kunisaki is on a journey in search of the Winged Maiden who was bound to the sky centuries ago, after hearing an old childhood tale from his mother. As Yukito shows his puppet show to people in an attempt to make some money, he finds himself in a small town in which he did not expect to stay very long. However, when he meets an unusual girl named Misuzu, things take a drastic turn as he is invited to stay with her.\n\nBy staying in the quaint town, Yukito soon becomes friends with the locals. As he gets to know them better, he learns of their problems and decides to help, putting his search for the Winged Maiden on hold. With his search on hold, and his growing attachment to Misuzu and the small town, will Yukito ever find the Winged Maiden, or is she closer than he thought?\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 713,
+      "title": {
+        "romaji": "AIR (Movie)",
+        "english": "Air: The Motion Picture",
+        "native": "AIR (劇場版)"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx713-NMntmhlt9mV5.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2005,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 656,
+      "title": {
+        "romaji": "AIR in Summer",
+        "english": "Air in Summer",
+        "native": "AIR イン サマー"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/656.jpg",
+      "format": "SPECIAL",
+      "episodes": 2,
+      "seasonYear": 2005,
+      "relationType": "SIDE_STORY"
+    },
+    {
+      "malId": 48775,
+      "title": {
+        "romaji": "Kaginado",
+        "english": "KAGINADO",
+        "native": "かぎなど"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132528-rIUN5MRBPGy9.png",
+      "format": "TV_SHORT",
+      "episodes": 12,
+      "seasonYear": 2021,
+      "relationType": "CHARACTER"
+    },
+    {
+      "malId": 50685,
+      "title": {
+        "romaji": "Kaginado Season 2",
+        "english": "KAGINADO Season 2",
+        "native": "かぎなど シーズン２"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143150-yYb9yimEQocm.png",
+      "format": "TV_SHORT",
+      "episodes": 12,
+      "seasonYear": 2022,
+      "relationType": "CHARACTER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airdate": "2005-01-07",
+      "title": {
+        "en": "Breeze"
+      },
+      "tvdbShowId": 79101,
+      "tvdbId": 302756,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79101/302756.jpg",
+      "airDate": "2005-01-07"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airdate": "2005-01-14",
+      "title": {
+        "en": "Town"
+      },
+      "tvdbShowId": 79101,
+      "tvdbId": 302757,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79101/302757.jpg",
+      "airDate": "2005-01-14"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airdate": "2005-01-21",
+      "title": {
+        "en": "Whisper"
+      },
+      "tvdbShowId": 79101,
+      "tvdbId": 302758,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79101/302758.jpg",
+      "airDate": "2005-01-21"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airdate": "2005-01-28",
+      "title": {
+        "en": "Plume"
+      },
+      "tvdbShowId": 79101,
+      "tvdbId": 302759,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79101/302759.jpg",
+      "airDate": "2005-01-28"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airdate": "2005-02-04",
+      "title": {
+        "en": "Wing"
+      },
+      "tvdbShowId": 79101,
+      "tvdbId": 302760,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79101/302760.jpg",
+      "airDate": "2005-02-04"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airdate": "2005-02-11",
+      "title": {
+        "en": "Star"
+      },
+      "tvdbShowId": 79101,
+      "tvdbId": 302761,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79101/302761.jpg",
+      "airDate": "2005-02-11"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airdate": "2005-02-18",
+      "title": {
+        "en": "Dream"
+      },
+      "tvdbShowId": 79101,
+      "tvdbId": 305154,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79101/305154.jpg",
+      "airDate": "2005-02-18"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airdate": "2005-02-25",
+      "title": {
+        "en": "Summer"
+      },
+      "tvdbShowId": 79101,
+      "tvdbId": 305155,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79101/305155.jpg",
+      "airDate": "2005-02-25"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airdate": "2005-03-04",
+      "title": {
+        "en": "Moon"
+      },
+      "tvdbShowId": 79101,
+      "tvdbId": 305156,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79101/305156.jpg",
+      "airDate": "2005-03-04"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airdate": "2005-03-11",
+      "title": {
+        "en": "Light"
+      },
+      "tvdbShowId": 79101,
+      "tvdbId": 305157,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79101/305157.jpg",
+      "airDate": "2005-03-11"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airdate": "2005-03-18",
+      "title": {
+        "en": "Sea"
+      },
+      "tvdbShowId": 79101,
+      "tvdbId": 305158,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79101/305158.jpg",
+      "airDate": "2005-03-18"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airdate": "2005-03-25",
+      "title": {
+        "en": "Air"
+      },
+      "tvdbShowId": 79101,
+      "tvdbId": 305159,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79101/305159.jpg",
+      "airDate": "2005-03-25"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airdate": "2005-04-01",
+      "title": {
+        "en": "Memories"
+      },
+      "tvdbShowId": 79101,
+      "tvdbId": 365054,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79101/365054.jpg",
+      "airDate": "2005-04-01"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "25m",
+      "airdate": "2005-08-28",
+      "title": {
+        "en": "Air in Summer I: Mountain Path"
+      },
+      "tvdbShowId": 79101,
+      "tvdbId": 365055,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79101/365055.jpg",
+      "airDate": "2005-08-28"
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "25m",
+      "airdate": "2005-09-04",
+      "title": {
+        "en": "Air in Summer II: Universe"
+      },
+      "tvdbShowId": 79101,
+      "tvdbId": 365056,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79101/365056.jpg",
+      "airDate": "2005-09-04"
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "6m",
+      "airdate": "",
+      "title": {
+        "en": "Summerwind - AMV"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "S4": {
+      "episode": "S4",
+      "length": "6m",
+      "airdate": "",
+      "title": {
+        "en": "Aozora - AMV"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "C1": {
+      "episode": "C1",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Opening"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "C2": {
+      "episode": "C2",
+      "length": "3m",
+      "airdate": "",
+      "title": {
+        "en": "Opening A (LongVer.)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "C3": {
+      "episode": "C3",
+      "length": "3m",
+      "airdate": "",
+      "title": {
+        "en": "Opening B (LongVer.)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "C4": {
+      "episode": "C4",
+      "length": "2m",
+      "airdate": "2005-10-05",
+      "title": {
+        "en": "Opening [summer variant]"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2005-10-05"
+    },
+    "C5": {
+      "episode": "C5",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Ending"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "C6": {
+      "episode": "C6",
+      "length": "5m",
+      "airdate": "",
+      "title": {
+        "en": "Ending (LongVer.)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "C7": {
+      "episode": "C7",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Ending [summer variant]"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "5m",
+      "airdate": "",
+      "title": {
+        "en": "Prelude"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Prelude - Promotion Clip"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "Summer Special Preview"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T4": {
+      "episode": "T4",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "DVD promo"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T5": {
+      "episode": "T5",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "Geki Ten Special"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T6": {
+      "episode": "T6",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "TV spot"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-24T15:04:15.265Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

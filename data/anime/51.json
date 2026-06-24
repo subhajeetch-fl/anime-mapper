@@ -4,18 +4,11 @@
   "mappings": {
     "mal": 51,
     "anilist": 51,
-    "anidb": 29,
     "kitsu": 32,
     "simkl": 38036,
     "tmdb": 44370,
     "tvdb": null,
-    "trakt": 30080,
-    "traktType": "movies",
-    "shikimori": 51,
-    "livechart": 5027,
-    "animeplanet": "angel-sanctuary",
-    "anisearch": 3350,
-    "notify": "hUIt5Fimg"
+    "animeplanet": "angel-sanctuary"
   },
   "title": {
     "romaji": "Tenshi Kinryouku",
@@ -44,14 +37,7 @@
   "rating": "R+ - Mild Nudity",
   "score": {
     "malScore": 6.23,
-    "malScoredBy": 27828,
-    "malRank": 9513,
-    "malPopularity": 3515,
-    "malMembers": 52735,
-    "malFavorites": 187,
     "anilistScore": 5.6,
-    "anilistPopularity": 7498,
-    "anilistFavourites": 52,
     "kitsuRating": 6.15
   },
   "genres": [
@@ -89,15 +75,10 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "anidbEid": "641",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "2000-05-25",
       "title": {
-        "en": "Encounter",
-        "romaji": "Encounter",
-        "ja": "Encounter"
+        "en": "Encounter"
       },
       "tvdbShowId": 81886,
       "tvdbId": 363915,
@@ -110,15 +91,10 @@
     },
     "2": {
       "episode": "2",
-      "anidbEid": "643",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "2000-07-25",
       "title": {
-        "en": "Awakening",
-        "romaji": "Awakening",
-        "ja": "Awakening"
+        "en": "Awakening"
       },
       "tvdbShowId": 81886,
       "tvdbId": 363916,
@@ -131,15 +107,10 @@
     },
     "3": {
       "episode": "3",
-      "anidbEid": "642",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "2000-08-25",
       "title": {
-        "en": "Regeneration",
-        "romaji": "Regeneration",
-        "ja": "Regeneration"
+        "en": "Regeneration"
       },
       "tvdbShowId": 81886,
       "tvdbId": 363917,
@@ -152,13 +123,13 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-23T15:48:53.968Z",
+    "lastFetched": "2026-06-24T15:02:00.813Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "anizip",
+      "zenshin",
       "simkl"
     ],
     "missingSources": [],

@@ -4,18 +4,11 @@
   "mappings": {
     "mal": 18,
     "anilist": 18,
-    "anidb": 1724,
     "kitsu": 9,
     "simkl": 40301,
     "tmdb": 40424,
     "tvdb": 70900,
-    "trakt": 40239,
-    "traktType": "shows",
-    "shikimori": 18,
-    "livechart": 4595,
-    "animeplanet": "initial-d-fourth-stage",
-    "anisearch": 3342,
-    "notify": "woit5KmiR"
+    "animeplanet": "initial-d-fourth-stage"
   },
   "title": {
     "romaji": "Initial D FOURTH STAGE",
@@ -46,14 +39,7 @@
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": 8.18,
-    "malScoredBy": 120162,
-    "malRank": 475,
-    "malPopularity": 1303,
-    "malMembers": 216405,
-    "malFavorites": 1446,
     "anilistScore": 8,
-    "anilistPopularity": 48872,
-    "anilistFavourites": 1015,
     "kitsuRating": 8.01
   },
   "genres": [
@@ -142,15 +128,10 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "anidbEid": "18103",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2004-04-17",
       "title": {
-        "en": "Project D",
-        "romaji": "Project D",
-        "ja": "プロジェクトD"
+        "en": "Project D"
       },
       "tvdbShowId": 70900,
       "tvdbId": 27713,
@@ -159,20 +140,14 @@
       "absoluteEpisodeNumber": 44,
       "runtime": 30,
       "image": "https://artworks.thetvdb.com/banners/episodes/70900/27713.jpg",
-      "airDate": "2004-04-16",
-      "simklEpisodeId": "959473"
+      "airDate": "2004-04-16"
     },
     "2": {
       "episode": "2",
-      "anidbEid": "18104",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2004-04-17",
       "title": {
-        "en": "Full Speed! Downhill Battle",
-        "romaji": "Zenkai! Downhill Battle",
-        "ja": "全開! ダウンヒルバトル"
+        "en": "Full Speed! Downhill Battle"
       },
       "tvdbShowId": 70900,
       "tvdbId": 27714,
@@ -181,20 +156,14 @@
       "absoluteEpisodeNumber": 45,
       "runtime": 30,
       "image": "https://artworks.thetvdb.com/banners/episodes/70900/27714.jpg",
-      "airDate": "2004-04-16",
-      "simklEpisodeId": "959474"
+      "airDate": "2004-04-16"
     },
     "3": {
       "episode": "3",
-      "anidbEid": "21044",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2004-06-19",
       "title": {
-        "en": "The Most Powerful Man of the Toudou School",
-        "romaji": "Toudou Juku Saikyou no Otoko",
-        "ja": "東堂塾最強の男"
+        "en": "The Most Powerful Man of the Toudou School"
       },
       "tvdbShowId": 70900,
       "tvdbId": 27715,
@@ -203,20 +172,14 @@
       "absoluteEpisodeNumber": 46,
       "runtime": 30,
       "image": "https://artworks.thetvdb.com/banners/episodes/70900/27715.jpg",
-      "airDate": "2004-06-19",
-      "simklEpisodeId": "959475"
+      "airDate": "2004-06-19"
     },
     "4": {
       "episode": "4",
-      "anidbEid": "21045",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2004-06-19",
       "title": {
-        "en": "Two Pieces of Advice",
-        "romaji": "Futatsu no Advice",
-        "ja": "二つのアドバイス"
+        "en": "Two Pieces of Advice"
       },
       "tvdbShowId": 70900,
       "tvdbId": 27716,
@@ -225,455 +188,443 @@
       "absoluteEpisodeNumber": 47,
       "runtime": 30,
       "image": "https://artworks.thetvdb.com/banners/episodes/70900/27716.jpg",
-      "airDate": "2004-06-19",
-      "simklEpisodeId": "959476"
+      "airDate": "2004-06-19"
     },
     "5": {
       "episode": "5",
-      "anidbEid": "23204",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2004-08-21",
       "title": {
-        "en": "The Starting Line to Victory",
-        "romaji": "Shouri e no Start Line",
-        "ja": "勝利へのスタートライン"
+        "en": "The Starting Line to Victory"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 27717,
+      "seasonNumber": 4,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2004-08-21",
-      "simklEpisodeId": "959477"
+      "absoluteEpisodeNumber": 48,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/27717.jpg",
+      "airDate": "2004-08-21"
     },
     "6": {
       "episode": "6",
-      "anidbEid": "23205",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2004-08-21",
       "title": {
-        "en": "Blind Attack",
-        "romaji": "Blind Attack",
-        "ja": "ブラインド・アタック"
+        "en": "Blind Attack"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 27718,
+      "seasonNumber": 4,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2004-08-21",
-      "simklEpisodeId": "959478"
+      "absoluteEpisodeNumber": 49,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/27718.jpg",
+      "airDate": "2004-08-21"
     },
     "7": {
       "episode": "7",
-      "anidbEid": "25042",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2004-10-16",
       "title": {
-        "en": "The 85`s Raging Turbo",
-        "romaji": "Arashi no Hachi Go Turbo",
-        "ja": "嵐のハチゴーターボ"
+        "en": "The 85`s Raging Turbo"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 27719,
+      "seasonNumber": 4,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2004-10-16",
-      "simklEpisodeId": "959480"
+      "absoluteEpisodeNumber": 50,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/27719.jpg",
+      "airDate": "2004-10-15"
     },
     "8": {
       "episode": "8",
-      "anidbEid": "25041",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2004-10-16",
       "title": {
-        "en": "Fateful Battle of the FDs",
-        "romaji": "Unmei no FD Battle",
-        "ja": "運命のFDバトル"
+        "en": "Fateful Battle of the FDs"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 27720,
+      "seasonNumber": 4,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2004-10-16",
-      "simklEpisodeId": "959479"
+      "absoluteEpisodeNumber": 51,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/27720.jpg",
+      "airDate": "2004-10-15"
     },
     "9": {
       "episode": "9",
-      "anidbEid": "25570",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2004-12-18",
       "title": {
-        "en": "Kyoko`s Confession",
-        "romaji": "Kyoko no Kokuhaku",
-        "ja": "恭子の告白"
+        "en": "Kyoko`s Confession"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 27721,
+      "seasonNumber": 4,
       "episodeNumber": 9,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2004-12-18",
-      "simklEpisodeId": "959485"
+      "absoluteEpisodeNumber": 52,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/27721.jpg",
+      "airDate": "2004-12-17"
     },
     "10": {
       "episode": "10",
-      "anidbEid": "25569",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2004-12-18",
       "title": {
-        "en": "The Saitama Area`s Ultimate Weapon",
-        "romaji": "Saitama Area Saishuuheiki",
-        "ja": "埼玉エリア最終兵器"
+        "en": "The Saitama Area`s Ultimate Weapon"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 27722,
+      "seasonNumber": 4,
       "episodeNumber": 10,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2004-12-18",
-      "simklEpisodeId": "959484"
+      "absoluteEpisodeNumber": 53,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/27722.jpg",
+      "airDate": "2004-12-18"
     },
     "11": {
       "episode": "11",
-      "anidbEid": "25567",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2005-02-19",
       "title": {
-        "en": "Rainy Downhill Battle",
-        "romaji": "Ame no Downhill",
-        "ja": "雨のダウンヒルバトル"
+        "en": "Rainy Downhill Battle"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 27723,
+      "seasonNumber": 4,
       "episodeNumber": 11,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2005-02-19",
-      "simklEpisodeId": "959482"
+      "absoluteEpisodeNumber": 54,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/27723.jpg",
+      "airDate": "2005-02-18"
     },
     "12": {
       "episode": "12",
-      "anidbEid": "25566",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2005-02-19",
       "title": {
-        "en": "Straightaway of Struggles",
-        "romaji": "Kattou no Straight",
-        "ja": "葛藤のストレート"
+        "en": "Straightaway of Struggles"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 27724,
+      "seasonNumber": 4,
       "episodeNumber": 12,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2005-02-19",
-      "simklEpisodeId": "959481"
+      "absoluteEpisodeNumber": 55,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/27724.jpg",
+      "airDate": "2005-02-18"
     },
     "13": {
       "episode": "13",
-      "anidbEid": "25568",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2005-04-16",
       "title": {
-        "en": "Motivation",
-        "romaji": "Motivation",
-        "ja": "モチベーション"
+        "en": "Motivation"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 27725,
+      "seasonNumber": 4,
       "episodeNumber": 13,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2005-04-16",
-      "simklEpisodeId": "959483"
+      "absoluteEpisodeNumber": 56,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/27725.jpg",
+      "airDate": "2005-04-15"
     },
     "14": {
       "episode": "14",
-      "anidbEid": "25571",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2005-04-16",
       "title": {
-        "en": "Sad Lonely Driver",
-        "romaji": "Kanashiki Lonely Driver",
-        "ja": "悲しきロンリードライバー"
+        "en": "Sad Lonely Driver"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 27726,
+      "seasonNumber": 4,
       "episodeNumber": 14,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2005-04-16",
-      "simklEpisodeId": "959486"
+      "absoluteEpisodeNumber": 57,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/27726.jpg",
+      "airDate": "2005-04-15"
     },
     "15": {
       "episode": "15",
-      "anidbEid": "36162",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2005-06-18",
       "title": {
-        "en": "4WD Complex",
-        "romaji": "4WD Complex",
-        "ja": "4WD コンプレックス"
+        "en": "4WD Complex"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 299248,
+      "seasonNumber": 4,
       "episodeNumber": 15,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2005-06-18",
-      "simklEpisodeId": "959488"
+      "absoluteEpisodeNumber": 58,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/299248.jpg",
+      "airDate": "2005-06-17"
     },
     "16": {
       "episode": "16",
-      "anidbEid": "36163",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2005-06-18",
       "title": {
-        "en": "Hillclimb of Fury",
-        "romaji": "Ikari no Hillclimb",
-        "ja": "怒りのヒルクライム"
+        "en": "Hillclimb of Fury"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 299249,
+      "seasonNumber": 4,
       "episodeNumber": 16,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2005-06-18",
-      "simklEpisodeId": "959489"
+      "absoluteEpisodeNumber": 59,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/299249.jpg",
+      "airDate": "2005-06-17"
     },
     "17": {
       "episode": "17",
-      "anidbEid": "38849",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2005-08-20",
       "title": {
-        "en": "The Saitama Area`s Final Battle",
-        "romaji": "Saitama Area Saishuu Kessen",
-        "ja": "埼玉エリア最終決戦"
+        "en": "The Saitama Area`s Final Battle"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 300591,
+      "seasonNumber": 4,
       "episodeNumber": 17,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2005-08-20",
-      "simklEpisodeId": "959490"
+      "absoluteEpisodeNumber": 60,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/300591.jpg",
+      "airDate": "2005-08-19"
     },
     "18": {
       "episode": "18",
-      "anidbEid": "38850",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2005-08-20",
       "title": {
-        "en": "Last Drive",
-        "romaji": "Last Drive",
-        "ja": "ラスト・ドライブ"
+        "en": "Last Drive"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 300592,
+      "seasonNumber": 4,
       "episodeNumber": 18,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2005-08-20",
-      "simklEpisodeId": "959491"
+      "absoluteEpisodeNumber": 61,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/300592.jpg",
+      "airDate": "2005-08-19"
     },
     "19": {
       "episode": "19",
-      "anidbEid": "41424",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2005-10-15",
       "title": {
-        "en": "God Foot and God Arm",
-        "romaji": "God Foot to God Arm",
-        "ja": "ゴッドフットとゴッドアーム"
+        "en": "God Foot and God Arm"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 305856,
+      "seasonNumber": 4,
       "episodeNumber": 19,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2005-10-15",
-      "simklEpisodeId": "959492"
+      "absoluteEpisodeNumber": 62,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/305856.jpg",
+      "airDate": "2005-10-14"
     },
     "20": {
       "episode": "20",
-      "anidbEid": "41425",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2005-10-15",
       "title": {
-        "en": "The Unmatched GT-R!",
-        "romaji": "Chouzetsu GT-R!",
-        "ja": "超絶GT-R!"
+        "en": "The Unmatched GT-R!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 305857,
+      "seasonNumber": 4,
       "episodeNumber": 20,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2005-10-15",
-      "simklEpisodeId": "959493"
+      "absoluteEpisodeNumber": 63,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/305857.jpg",
+      "airDate": "2005-10-14"
     },
     "21": {
       "episode": "21",
-      "anidbEid": "44446",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2005-12-17",
       "title": {
-        "en": "Dogfight",
-        "romaji": "Dogfight",
-        "ja": "ドッグファイト"
+        "en": "Dogfight"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 305858,
+      "seasonNumber": 4,
       "episodeNumber": 21,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2005-12-17",
-      "simklEpisodeId": "959494"
+      "absoluteEpisodeNumber": 64,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/305858.jpg",
+      "airDate": "2005-12-16"
     },
     "22": {
       "episode": "22",
-      "anidbEid": "44447",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2005-12-17",
       "title": {
-        "en": "The Sorcerer of the Single-Handed Steer",
-        "romaji": "One Hand Steer no Majutsu",
-        "ja": "ワンハンドステアの魔術"
+        "en": "The Sorcerer of the Single-Handed Steer"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 305859,
+      "seasonNumber": 4,
       "episodeNumber": 22,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2005-12-17",
-      "simklEpisodeId": "959495"
+      "absoluteEpisodeNumber": 65,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/305859.jpg",
+      "airDate": "2005-12-16"
     },
     "23": {
       "episode": "23",
-      "anidbEid": "46089",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2006-02-18",
       "title": {
-        "en": "Endless Battle",
-        "romaji": "Endless Battle",
-        "ja": "エンドレスバトル"
+        "en": "Endless Battle"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70900,
+      "tvdbId": 305860,
+      "seasonNumber": 4,
       "episodeNumber": 23,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2006-02-18",
-      "simklEpisodeId": "959496"
+      "absoluteEpisodeNumber": 66,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/305860.jpg",
+      "airDate": "2006-02-17"
     },
     "24": {
       "episode": "24",
-      "anidbEid": "46090",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "2006-02-18",
       "title": {
-        "en": "The Never-Ending Challenge",
-        "romaji": "Owaranai Chousen",
-        "ja": "終わらない挑戦"
+        "en": "The Never-Ending Challenge"
+      },
+      "tvdbShowId": 70900,
+      "tvdbId": 305861,
+      "seasonNumber": 4,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 67,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70900/305861.jpg",
+      "airDate": "2006-02-17"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "125m",
+      "airdate": "2003-03-22",
+      "title": {
+        "en": "Project D to the Next Stage"
       },
       "tvdbShowId": null,
       "tvdbId": null,
       "seasonNumber": null,
-      "episodeNumber": 24,
+      "episodeNumber": null,
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null,
-      "airDate": "2006-02-18",
-      "simklEpisodeId": "959497"
+      "airDate": "2003-03-22"
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "9m",
+      "airdate": "2007-02-28",
+      "title": {
+        "en": "Battle Digest"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2007-02-28"
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airdate": "2014-04-17",
+      "title": {
+        "en": "Dogfight (1-10)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2014-04-17"
+    },
+    "OP2": {
+      "episode": "OP2",
+      "length": "2m",
+      "airdate": "2014-04-17",
+      "title": {
+        "en": "Noizy Tribe (11-24)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2014-04-17"
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airdate": "2005-02-19",
+      "title": {
+        "en": "Blast My Desire (1-10)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2005-02-19"
+    },
+    "ED2": {
+      "episode": "ED2",
+      "length": "2m",
+      "airdate": "2005-02-19",
+      "title": {
+        "en": "Nobody Reason: Noah no Hakobune (11-24)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2005-02-19"
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "5m",
+      "airdate": "2005-12-20",
+      "title": {
+        "en": "Move - Raimei ~Out of Kontrol"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2005-12-20"
     },
     "P1": {
       "episode": "P1",
-      "anidbEid": "18149",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "",
       "title": {
         "en": "Episode 1 Parody"
@@ -686,55 +637,16 @@
       "runtime": null,
       "image": null,
       "airDate": ""
-    },
-    "S1": {
-      "episode": "S1",
-      "anidbEid": "26528",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 125,
-      "airdate": "2003-03-22",
-      "title": {
-        "en": "Project D to the Next Stage",
-        "ja": "D to the next Stage ~プロジェクトDへ向けて~"
-      },
-      "tvdbShowId": 70900,
-      "tvdbId": 9165981,
-      "seasonNumber": 0,
-      "episodeNumber": 11,
-      "absoluteEpisodeNumber": null,
-      "runtime": 70,
-      "image": null,
-      "airDate": "2003-03-22"
-    },
-    "S2": {
-      "episode": "S2",
-      "anidbEid": "87787",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 9,
-      "airdate": "2007-02-28",
-      "title": {
-        "en": "Battle Digest"
-      },
-      "tvdbShowId": 70900,
-      "tvdbId": 8950069,
-      "seasonNumber": 0,
-      "episodeNumber": 10,
-      "absoluteEpisodeNumber": null,
-      "runtime": 47,
-      "image": null,
-      "airDate": "2022-01-07"
     }
   },
   "meta": {
-    "lastFetched": "2026-06-23T20:08:11.855Z",
+    "lastFetched": "2026-06-24T14:58:57.902Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "anizip",
+      "zenshin",
       "simkl"
     ],
     "missingSources": [],

@@ -4,18 +4,11 @@
   "mappings": {
     "mal": 47,
     "anilist": 47,
-    "anidb": 28,
     "kitsu": 29,
     "simkl": 40079,
     "tmdb": 149,
     "tvdb": null,
-    "trakt": 115,
-    "traktType": "movies",
-    "shikimori": 47,
-    "livechart": 3613,
-    "animeplanet": "akira",
-    "anisearch": 1730,
-    "notify": "CGIp5FmiR"
+    "animeplanet": "akira"
   },
   "title": {
     "romaji": "AKIRA",
@@ -46,14 +39,7 @@
   "rating": "R+ - Mild Nudity",
   "score": {
     "malScore": 8.16,
-    "malScoredBy": 566345,
-    "malRank": 500,
-    "malPopularity": 209,
-    "malMembers": 960206,
-    "malFavorites": 15050,
     "anilistScore": 7.9,
-    "anilistPopularity": 223705,
-    "anilistFavourites": 8696,
     "kitsuRating": 8.07
   },
   "genres": [
@@ -114,10 +100,7 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "anidbEid": "10063",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 125,
+      "length": "125m",
       "airdate": "1988-07-16",
       "title": {
         "en": "Complete Movie"
@@ -133,10 +116,7 @@
     },
     "2": {
       "episode": "2",
-      "anidbEid": "5083",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 65,
+      "length": "65m",
       "airdate": "1988-07-16",
       "title": {
         "en": "Part 1 of 2"
@@ -152,10 +132,7 @@
     },
     "3": {
       "episode": "3",
-      "anidbEid": "5084",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 60,
+      "length": "60m",
       "airdate": "1988-07-16",
       "title": {
         "en": "Part 2 of 2"
@@ -171,10 +148,7 @@
     },
     "4": {
       "episode": "4",
-      "anidbEid": "11439",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 40,
+      "length": "40m",
       "airdate": "1988-07-16",
       "title": {
         "en": "Part 1 of 3"
@@ -190,10 +164,7 @@
     },
     "5": {
       "episode": "5",
-      "anidbEid": "11440",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 45,
+      "length": "45m",
       "airdate": "1988-07-16",
       "title": {
         "en": "Part 2 of 3"
@@ -209,10 +180,7 @@
     },
     "6": {
       "episode": "6",
-      "anidbEid": "11531",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 40,
+      "length": "40m",
       "airdate": "1988-07-16",
       "title": {
         "en": "Part 3 of 3"
@@ -228,11 +196,8 @@
     },
     "S1": {
       "episode": "S1",
-      "anidbEid": "95657",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 50,
-      "airdate": null,
+      "length": "50m",
+      "airdate": "",
       "title": {
         "en": "Akira Making"
       },
@@ -243,15 +208,12 @@
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null,
-      "airDate": null
+      "airDate": ""
     },
     "S2": {
       "episode": "S2",
-      "anidbEid": "253727",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
-      "airdate": null,
+      "length": "30m",
+      "airdate": "",
       "title": {
         "en": "25th Anniversary Edition Katsuhiro Otomo Interview"
       },
@@ -262,15 +224,12 @@
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null,
-      "airDate": null
+      "airDate": ""
     },
     "S3": {
       "episode": "S3",
-      "anidbEid": "253728",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
-      "airdate": null,
+      "length": "30m",
+      "airdate": "",
       "title": {
         "en": "25th Anniversary Edition, Storyboard"
       },
@@ -281,15 +240,12 @@
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null,
-      "airDate": null
+      "airDate": ""
     },
     "S4": {
       "episode": "S4",
-      "anidbEid": "266515",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 20,
-      "airdate": null,
+      "length": "20m",
+      "airdate": "",
       "title": {
         "en": "Making of Music for Akira"
       },
@@ -300,17 +256,113 @@
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null,
-      "airDate": null
+      "airDate": ""
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "English Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "Japanese Trailer A"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Japanese Trailer B"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T4": {
+      "episode": "T4",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "Special Announcement A"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T5": {
+      "episode": "T5",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "Special Announcement B"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T6": {
+      "episode": "T6",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "TV Spot (00:16)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
     }
   },
   "meta": {
-    "lastFetched": "2026-06-23T15:48:23.339Z",
+    "lastFetched": "2026-06-24T15:01:51.945Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "anizip",
+      "zenshin",
       "simkl"
     ],
     "missingSources": [],

@@ -4,18 +4,11 @@
   "mappings": {
     "mal": 32,
     "anilist": 32,
-    "anidb": 202,
     "kitsu": 23,
     "simkl": 41175,
     "tmdb": 18491,
     "tvdb": null,
-    "trakt": 11325,
-    "traktType": "movies",
-    "shikimori": 32,
-    "livechart": 3633,
-    "animeplanet": "neon-genesis-evangelion-the-end-of-evangelion",
-    "anisearch": 2877,
-    "notify": "kU7p5Fmig"
+    "animeplanet": "neon-genesis-evangelion-the-end-of-evangelion"
   },
   "title": {
     "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
@@ -50,14 +43,7 @@
   "rating": "R+ - Mild Nudity",
   "score": {
     "malScore": 8.57,
-    "malScoredBy": 700612,
-    "malRank": 127,
-    "malPopularity": 178,
-    "malMembers": 1048880,
-    "malFavorites": 32745,
     "anilistScore": 8.5,
-    "anilistPopularity": 244349,
-    "anilistFavourites": 18951,
     "kitsuRating": 8.22
   },
   "genres": [
@@ -144,73 +130,58 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "anidbEid": "2394",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 90,
+      "length": "90m",
       "airdate": "1997-07-19",
       "title": {
         "en": "Complete Movie"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "1997-07-19",
-      "simklEpisodeId": "14254536"
+      "tvdbShowId": 70350,
+      "tvdbId": 357968,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 87,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70350/357968.jpg",
+      "airDate": "1997-07-19"
     },
     "2": {
       "episode": "2",
-      "anidbEid": "16184",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 50,
+      "length": "50m",
       "airdate": "1997-07-19",
       "title": {
         "en": "Part 1 of 2"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70350,
+      "tvdbId": 357968,
+      "seasonNumber": 0,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 87,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70350/357968.jpg",
       "airDate": "1997-07-19"
     },
     "3": {
       "episode": "3",
-      "anidbEid": "16185",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 45,
+      "length": "45m",
       "airdate": "1997-07-19",
       "title": {
         "en": "Part 2 of 2"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
+      "tvdbShowId": 70350,
+      "tvdbId": 357968,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 87,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70350/357968.jpg",
       "airDate": "1997-07-19"
     },
     "S1": {
       "episode": "S1",
-      "anidbEid": "35812",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 15,
+      "length": "15m",
       "airdate": "",
       "title": {
-        "en": "Gekijouban #26 Documentational Part (Special Raw Material Version)",
-        "romaji": "Gekijouban #26 Jissha Part (Tokubetsu Rush Henshuu Ban)",
-        "ja": "劇場版 #26実写パート (特別ラッシュ編集版)"
+        "en": "Gekijouban #26 Documentational Part (Special Raw Material Version)"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -223,10 +194,7 @@
     },
     "S2": {
       "episode": "S2",
-      "anidbEid": "266629",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 20,
+      "length": "20m",
       "airdate": "",
       "title": {
         "en": "Video storyboard 13"
@@ -240,12 +208,89 @@
       "image": null,
       "airDate": ""
     },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "15s spot 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "15s spot 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Live Action Trailer (1:39)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T4": {
+      "episode": "T4",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Manga Entertainment Trailer A (1:26)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T5": {
+      "episode": "T5",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Manga Entertainment Trailer B (1:37)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
     "O1": {
       "episode": "O1",
-      "anidbEid": "267719",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 150,
+      "length": "150m",
       "airdate": "",
       "title": {
         "en": "The Concurrency of the End of Evangelion"
@@ -261,13 +306,13 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-23T20:09:43.561Z",
+    "lastFetched": "2026-06-24T14:59:28.719Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "anizip",
+      "zenshin",
       "simkl"
     ],
     "missingSources": [],

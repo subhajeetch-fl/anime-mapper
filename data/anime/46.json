@@ -4,18 +4,11 @@
   "mappings": {
     "mal": 46,
     "anilist": 46,
-    "anidb": 422,
     "kitsu": 28,
     "simkl": 37868,
     "tmdb": 39977,
     "tvdb": null,
-    "trakt": 26128,
-    "traktType": "movies",
-    "shikimori": 46,
-    "livechart": 4637,
-    "animeplanet": "rurouni-kenshin-movie",
-    "anisearch": 3192,
-    "notify": "_qVtcKmmg"
+    "animeplanet": "rurouni-kenshin-movie"
   },
   "title": {
     "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem",
@@ -56,14 +49,7 @@
   "rating": "R - 17+ (violence & profanity)",
   "score": {
     "malScore": 7.55,
-    "malScoredBy": 28700,
-    "malRank": 1961,
-    "malPopularity": 3415,
-    "malMembers": 55530,
-    "malFavorites": 98,
     "anilistScore": 7.1,
-    "anilistPopularity": 8998,
-    "anilistFavourites": 65,
     "kitsuRating": 7.42
   },
   "genres": [
@@ -111,70 +97,77 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "anidbEid": "4996",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 90,
+      "length": "90m",
       "airdate": "1997-12-20",
       "title": {
         "en": "Complete Movie"
       },
       "tvdbShowId": 70863,
-      "tvdbId": 25600,
-      "seasonNumber": 3,
+      "tvdbId": 355666,
+      "seasonNumber": 0,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": 63,
-      "runtime": 25,
-      "image": "https://artworks.thetvdb.com/banners/episodes/70863/25600.jpg",
-      "airDate": "1997-10-14"
+      "absoluteEpisodeNumber": 72,
+      "runtime": 90,
+      "image": null,
+      "airDate": "1997-12-20"
     },
     "2": {
       "episode": "2",
-      "anidbEid": "9490",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 45,
+      "length": "45m",
       "airdate": "1997-12-20",
       "title": {
         "en": "Part 1 of 2"
       },
       "tvdbShowId": 70863,
-      "tvdbId": 25601,
-      "seasonNumber": 3,
-      "episodeNumber": 2,
-      "absoluteEpisodeNumber": 64,
-      "runtime": 25,
-      "image": "https://artworks.thetvdb.com/banners/episodes/70863/25601.jpg",
-      "airDate": "1997-10-28"
+      "tvdbId": 355666,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 72,
+      "runtime": 90,
+      "image": null,
+      "airDate": "1997-12-20"
     },
     "3": {
       "episode": "3",
-      "anidbEid": "9489",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 45,
+      "length": "45m",
       "airdate": "1997-12-20",
       "title": {
         "en": "Part 2 of 2"
       },
       "tvdbShowId": 70863,
-      "tvdbId": 25602,
-      "seasonNumber": 3,
-      "episodeNumber": 3,
-      "absoluteEpisodeNumber": 65,
-      "runtime": 25,
-      "image": "https://artworks.thetvdb.com/banners/episodes/70863/25602.jpg",
-      "airDate": "1997-11-04"
+      "tvdbId": 355666,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 72,
+      "runtime": 90,
+      "image": null,
+      "airDate": "1997-12-20"
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "Movie Promo"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
     }
   },
   "meta": {
-    "lastFetched": "2026-06-23T15:48:15.921Z",
+    "lastFetched": "2026-06-24T15:01:49.786Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "anizip",
+      "zenshin",
       "simkl"
     ],
     "missingSources": [],

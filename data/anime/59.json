@@ -4,18 +4,11 @@
   "mappings": {
     "mal": 59,
     "anilist": 59,
-    "anidb": 12,
     "kitsu": 40,
     "simkl": 39931,
     "tmdb": 37527,
     "tvdb": 72070,
-    "trakt": 37369,
-    "traktType": "shows",
-    "shikimori": 59,
-    "livechart": 3672,
-    "animeplanet": "chobits",
-    "anisearch": 1526,
-    "notify": "HRvt5FiiR"
+    "animeplanet": "chobits"
   },
   "title": {
     "romaji": "Chobits",
@@ -44,14 +37,7 @@
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": 7.39,
-    "malScoredBy": 265961,
-    "malRank": 2630,
-    "malPopularity": 503,
-    "malMembers": 516485,
-    "malFavorites": 4404,
     "anilistScore": 7.1,
-    "anilistPopularity": 88821,
-    "anilistFavourites": 2030,
     "kitsuRating": 7.4
   },
   "genres": [
@@ -126,15 +112,10 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "anidbEid": "34",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-04-03",
       "title": {
-        "en": "Chi Awakens",
-        "romaji": "Chii Mezameru",
-        "ja": "ちぃ 目覚める"
+        "en": "Chi Awakens"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71885,
@@ -147,15 +128,10 @@
     },
     "2": {
       "episode": "2",
-      "anidbEid": "38",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-04-10",
       "title": {
-        "en": "Chi Goes Out",
-        "romaji": "Chii Dekakeru",
-        "ja": "ちぃ 出かける"
+        "en": "Chi Goes Out"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71886,
@@ -168,15 +144,10 @@
     },
     "3": {
       "episode": "3",
-      "anidbEid": "44",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-04-17",
       "title": {
-        "en": "Chi Learns",
-        "romaji": "Chii Oboeru",
-        "ja": "ちぃ おぼえる"
+        "en": "Chi Learns"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71887,
@@ -189,15 +160,10 @@
     },
     "4": {
       "episode": "4",
-      "anidbEid": "159",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-04-24",
       "title": {
-        "en": "Chi Goes On Errands",
-        "romaji": "Chii Otsukai",
-        "ja": "ちぃ おつかい"
+        "en": "Chi Goes On Errands"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71888,
@@ -210,15 +176,10 @@
     },
     "5": {
       "episode": "5",
-      "anidbEid": "158",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-05-01",
       "title": {
-        "en": "Chi Finds",
-        "romaji": "Chii Mitsukeru",
-        "ja": "ちぃ 見つける"
+        "en": "Chi Finds"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71889,
@@ -231,15 +192,10 @@
     },
     "6": {
       "episode": "6",
-      "anidbEid": "259",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-05-08",
       "title": {
-        "en": "Chi Weakens",
-        "romaji": "Chii Yowaru",
-        "ja": "ちぃ 弱る"
+        "en": "Chi Weakens"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71890,
@@ -252,15 +208,10 @@
     },
     "7": {
       "episode": "7",
-      "anidbEid": "260",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-05-15",
       "title": {
-        "en": "Chi Works",
-        "romaji": "Chii Hataraku",
-        "ja": "ちぃ 働く"
+        "en": "Chi Works"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71891,
@@ -273,15 +224,10 @@
     },
     "8": {
       "episode": "8",
-      "anidbEid": "484",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-05-22",
       "title": {
-        "en": "Chi Bewildered",
-        "romaji": "Chii Tomadou",
-        "ja": "ちぃ とまどう"
+        "en": "Chi Bewildered"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71892,
@@ -294,15 +240,26 @@
     },
     "9": {
       "episode": "9",
-      "anidbEid": "693",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-05-29",
       "title": {
-        "en": "Shinbo and Sumomo Chat",
-        "romaji": "Shinbo, Sumomo: Kataru",
-        "ja": "新保・すもも 語る"
+        "en": "Shinbo and Sumomo Chat"
+      },
+      "tvdbShowId": 72070,
+      "tvdbId": 440261,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/72070/440261.jpg",
+      "airDate": "2002-05-28"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airdate": "2002-06-05",
+      "title": {
+        "en": "Chi Buys"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71894,
@@ -313,17 +270,12 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/72070/71894.jpg",
       "airDate": "2002-06-04"
     },
-    "10": {
-      "episode": "10",
-      "anidbEid": "685",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2002-06-05",
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airdate": "2002-06-12",
       "title": {
-        "en": "Chi Buys",
-        "romaji": "Chii Kau",
-        "ja": "ちぃ 買う"
+        "en": "Chi Meets"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71895,
@@ -334,17 +286,12 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/72070/71895.jpg",
       "airDate": "2002-06-11"
     },
-    "11": {
-      "episode": "11",
-      "anidbEid": "696",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2002-06-12",
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airdate": "2002-06-19",
       "title": {
-        "en": "Chi Meets",
-        "romaji": "Chii Deau",
-        "ja": "ちぃ 出会う"
+        "en": "Chi Confirms"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71896,
@@ -355,17 +302,12 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/72070/71896.jpg",
       "airDate": "2002-06-18"
     },
-    "12": {
-      "episode": "12",
-      "anidbEid": "695",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2002-06-19",
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airdate": "2002-06-26",
       "title": {
-        "en": "Chi Confirms",
-        "romaji": "Chii Tashikameru",
-        "ja": "ちぃ 確かめる"
+        "en": "Chi Plays"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71897,
@@ -376,17 +318,12 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/72070/71897.jpg",
       "airDate": "2002-06-25"
     },
-    "13": {
-      "episode": "13",
-      "anidbEid": "694",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2002-06-26",
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airdate": "2002-07-03",
       "title": {
-        "en": "Chi Plays",
-        "romaji": "Chii Asobu",
-        "ja": "ちぃ 遊ぶ"
+        "en": "Chi Goes to the Ocean"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71898,
@@ -397,17 +334,12 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/72070/71898.jpg",
       "airDate": "2002-07-02"
     },
-    "14": {
-      "episode": "14",
-      "anidbEid": "691",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2002-07-03",
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airdate": "2002-07-10",
       "title": {
-        "en": "Chi Goes to the Ocean",
-        "romaji": "Chii Umi Iku",
-        "ja": "ちぃ 海いく"
+        "en": "Chi Entertains"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71899,
@@ -418,17 +350,12 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/72070/71899.jpg",
       "airDate": "2002-07-09"
     },
-    "15": {
-      "episode": "15",
-      "anidbEid": "690",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2002-07-10",
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airdate": "2002-07-17",
       "title": {
-        "en": "Chi Entertains",
-        "romaji": "Chii Motenasu",
-        "ja": "ちぃ もてなす"
+        "en": "Chi Doesn`t Do Anything"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71900,
@@ -439,17 +366,12 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/72070/71900.jpg",
       "airDate": "2002-07-16"
     },
-    "16": {
-      "episode": "16",
-      "anidbEid": "689",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2002-07-17",
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airdate": "2002-07-24",
       "title": {
-        "en": "Chi Doesn`t Do Anything",
-        "romaji": "Chii Nani mo Shinai",
-        "ja": "ちぃ 何もしない"
+        "en": "Chi Provides"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71901,
@@ -460,17 +382,28 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/72070/71901.jpg",
       "airDate": "2002-07-23"
     },
-    "17": {
-      "episode": "17",
-      "anidbEid": "688",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2002-07-24",
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airdate": "2002-07-31",
       "title": {
-        "en": "Chi Provides",
-        "romaji": "Chii Makanau",
-        "ja": "ちぃ まかなう"
+        "en": "Minoru and Yuzuki Chat"
+      },
+      "tvdbShowId": 72070,
+      "tvdbId": 440262,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/72070/440262.jpg",
+      "airDate": "2002-07-30"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airdate": "2002-08-07",
+      "title": {
+        "en": "Chi Helps"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71903,
@@ -481,17 +414,12 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/72070/71903.jpg",
       "airDate": "2002-08-06"
     },
-    "18": {
-      "episode": "18",
-      "anidbEid": "687",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2002-07-31",
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airdate": "2002-08-14",
       "title": {
-        "en": "Minoru and Yuzuki Chat",
-        "romaji": "Minoru, Yuzuki: Kataru",
-        "ja": "稔・柚姫 語る"
+        "en": "Chi Disappears"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71904,
@@ -502,17 +430,12 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/72070/71904.jpg",
       "airDate": "2002-08-13"
     },
-    "19": {
-      "episode": "19",
-      "anidbEid": "686",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2002-08-07",
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airdate": "2002-08-21",
       "title": {
-        "en": "Chi Helps",
-        "romaji": "Chii Te Tsudau",
-        "ja": "ちぃ 手伝う"
+        "en": "Chi Waits"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71905,
@@ -523,17 +446,12 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/72070/71905.jpg",
       "airDate": "2002-08-20"
     },
-    "20": {
-      "episode": "20",
-      "anidbEid": "692",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2002-08-14",
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airdate": "2002-08-28",
       "title": {
-        "en": "Chi Disappears",
-        "romaji": "Chii Inaku Naru",
-        "ja": "ちぃ いなくなる"
+        "en": "Chi Wants"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71906,
@@ -544,17 +462,12 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/72070/71906.jpg",
       "airDate": "2002-08-27"
     },
-    "21": {
-      "episode": "21",
-      "anidbEid": "1676",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2002-08-21",
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airdate": "2002-09-04",
       "title": {
-        "en": "Chi Waits",
-        "romaji": "Chii Matsu",
-        "ja": "ちぃ 待つ"
+        "en": "Chi Answers"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71907,
@@ -565,17 +478,12 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/72070/71907.jpg",
       "airDate": "2002-09-03"
     },
-    "22": {
-      "episode": "22",
-      "anidbEid": "2105",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2002-08-28",
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airdate": "2002-09-11",
       "title": {
-        "en": "Chi Wants",
-        "romaji": "Chii Motomeru",
-        "ja": "ちぃ 求める"
+        "en": "Chi Wears and Takes Off"
       },
       "tvdbShowId": 72070,
       "tvdbId": 439955,
@@ -586,17 +494,12 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/72070/439955.jpg",
       "airDate": "2002-09-10"
     },
-    "23": {
-      "episode": "23",
-      "anidbEid": "2161",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2002-09-04",
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airdate": "2002-09-18",
       "title": {
-        "en": "Chi Answers",
-        "romaji": "Chii Kotaeru",
-        "ja": "ちぃ 答える"
+        "en": "Chi Decides"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71909,
@@ -607,17 +510,12 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/72070/71909.jpg",
       "airDate": "2002-09-17"
     },
-    "24": {
-      "episode": "24",
-      "anidbEid": "2168",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2002-09-11",
+    "26": {
+      "episode": "26",
+      "length": "25m",
+      "airdate": "2002-09-25",
       "title": {
-        "en": "Chi Wears and Takes Off",
-        "romaji": "Chii Kite Nugu",
-        "ja": "ちぃ 着てぬぐ"
+        "en": "The Person Only for Chi"
       },
       "tvdbShowId": 72070,
       "tvdbId": 71910,
@@ -628,59 +526,28 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/72070/71910.jpg",
       "airDate": "2002-09-24"
     },
-    "25": {
-      "episode": "25",
-      "anidbEid": "2309",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2002-09-18",
+    "S1": {
+      "episode": "S1",
+      "length": "25m",
+      "airdate": "2003-02-21",
       "title": {
-        "en": "Chi Decides",
-        "romaji": "Chii Kimeru",
-        "ja": "ちぃ 決める"
+        "en": "Hibiya and Kotoko Chat"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 25,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-09-18"
-    },
-    "26": {
-      "episode": "26",
-      "anidbEid": "2354",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2002-09-25",
-      "title": {
-        "en": "The Person Only for Chi",
-        "romaji": "Chii Dake no Hito",
-        "ja": "ちぃ だけの人"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 26,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-09-25"
+      "tvdbShowId": 72070,
+      "tvdbId": 440263,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/72070/440263.jpg",
+      "airDate": "2003-09-13"
     },
     "S2": {
       "episode": "S2",
-      "anidbEid": "8507",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 6,
+      "length": "6m",
       "airdate": "2003-01-24",
       "title": {
-        "en": "Chibits: Sumomo and Kotoko Deliver",
-        "romaji": "Chibits - Sumomo, Kotoko: Todokeru",
-        "ja": "ちびっツ すもも・琴子 届ける"
+        "en": "Chibits: Sumomo and Kotoko Deliver"
       },
       "tvdbShowId": 72070,
       "tvdbId": 440264,
@@ -691,36 +558,175 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/72070/440264.jpg",
       "airDate": "2003-09-13"
     },
-    "S1": {
-      "episode": "S1",
-      "anidbEid": "12157",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2003-02-21",
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airdate": "2002-04-03",
       "title": {
-        "en": "Hibiya and Kotoko Chat",
-        "romaji": "Hibiya, Kotoko: Kataru",
-        "ja": "日比谷・琴子 語る"
+        "en": "Let Me Be with You (1-26, S1-S2)"
       },
-      "tvdbShowId": 72070,
-      "tvdbId": 440263,
-      "seasonNumber": 0,
-      "episodeNumber": 3,
-      "absoluteEpisodeNumber": 27,
-      "runtime": 30,
-      "image": "https://artworks.thetvdb.com/banners/episodes/72070/440263.jpg",
-      "airDate": "2003-09-13"
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2002-04-03"
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airdate": "2002-04-03",
+      "title": {
+        "en": "Raison d`Etre (1-14, S1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2002-04-03"
+    },
+    "ED2": {
+      "episode": "ED2",
+      "length": "2m",
+      "airdate": "2002-07-10",
+      "title": {
+        "en": "Ningyo Hime (15-25)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2002-07-10"
+    },
+    "ED3": {
+      "episode": "ED3",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Katakoto no Koi (Duet Ver.) (26)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "ED4": {
+      "episode": "ED4",
+      "length": "0m",
+      "airdate": "",
+      "title": {
+        "en": "Book End Bossa (S2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "Chi Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "Hideki Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "Commercial"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T4": {
+      "episode": "T4",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "\"Shinbo & Sumomo Chat\" Preview"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T5": {
+      "episode": "T5",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "\"Minoru & Yuzuki Chat\" Preview"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
     }
   },
   "meta": {
-    "lastFetched": "2026-06-23T15:49:56.474Z",
+    "lastFetched": "2026-06-24T15:02:18.481Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "anizip",
+      "zenshin",
       "simkl"
     ],
     "missingSources": [],

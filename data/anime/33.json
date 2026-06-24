@@ -4,18 +4,11 @@
   "mappings": {
     "mal": 33,
     "anilist": 33,
-    "anidb": 98,
     "kitsu": 24,
     "simkl": 36853,
     "tmdb": 35935,
     "tvdb": 73752,
-    "trakt": 35780,
-    "traktType": "shows",
-    "shikimori": 33,
-    "livechart": 3627,
-    "animeplanet": "berserk",
-    "anisearch": 927,
-    "notify": "0RVtcFmmR"
+    "animeplanet": "berserk"
   },
   "title": {
     "romaji": "Kenpuu Denki Berserk",
@@ -50,14 +43,7 @@
   "rating": "R+ - Mild Nudity",
   "score": {
     "malScore": 8.61,
-    "malScoredBy": 416026,
-    "malRank": 108,
-    "malPopularity": 303,
-    "malMembers": 771922,
-    "malFavorites": 31910,
     "anilistScore": 8.4,
-    "anilistPopularity": 176186,
-    "anilistFavourites": 11244,
     "kitsuRating": 8.22
   },
   "genres": [
@@ -156,15 +142,10 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "anidbEid": "511",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1997-10-08",
       "title": {
-        "en": "The Black Swordsman",
-        "romaji": "Kuroi Kenshi",
-        "ja": "黒い剣士"
+        "en": "The Black Swordsman"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127396,
@@ -173,20 +154,14 @@
       "absoluteEpisodeNumber": 1,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127396.jpg",
-      "airDate": "1997-10-08",
-      "simklEpisodeId": "954692"
+      "airDate": "1997-10-08"
     },
     "2": {
       "episode": "2",
-      "anidbEid": "512",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1997-10-15",
       "title": {
-        "en": "The Band of the Hawk",
-        "romaji": "Taka no Dan",
-        "ja": "鷹の団"
+        "en": "The Band of the Hawk"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127397,
@@ -195,20 +170,14 @@
       "absoluteEpisodeNumber": 2,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127397.jpg",
-      "airDate": "1997-10-15",
-      "simklEpisodeId": "954693"
+      "airDate": "1997-10-15"
     },
     "3": {
       "episode": "3",
-      "anidbEid": "513",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1997-10-22",
       "title": {
-        "en": "First Battle",
-        "romaji": "Uijin",
-        "ja": "初陣"
+        "en": "First Battle"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127398,
@@ -217,20 +186,14 @@
       "absoluteEpisodeNumber": 3,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127398.jpg",
-      "airDate": "1997-10-22",
-      "simklEpisodeId": "954694"
+      "airDate": "1997-10-22"
     },
     "4": {
       "episode": "4",
-      "anidbEid": "514",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1997-10-29",
       "title": {
-        "en": "The Hand of God",
-        "romaji": "Kami no Te",
-        "ja": "神の手"
+        "en": "The Hand of God"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127399,
@@ -239,20 +202,14 @@
       "absoluteEpisodeNumber": 4,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127399.jpg",
-      "airDate": "1997-10-29",
-      "simklEpisodeId": "954695"
+      "airDate": "1997-10-29"
     },
     "5": {
       "episode": "5",
-      "anidbEid": "515",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1997-11-05",
       "title": {
-        "en": "A Wind of Swords",
-        "romaji": "Kenpuu",
-        "ja": "剣風"
+        "en": "A Wind of Swords"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127400,
@@ -261,20 +218,14 @@
       "absoluteEpisodeNumber": 5,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127400.jpg",
-      "airDate": "1997-11-05",
-      "simklEpisodeId": "954696"
+      "airDate": "1997-11-05"
     },
     "6": {
       "episode": "6",
-      "anidbEid": "516",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1997-11-12",
       "title": {
-        "en": "Zodd the Immortal",
-        "romaji": "Fushi no Zodd",
-        "ja": "不死のゾッド"
+        "en": "Zodd the Immortal"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127401,
@@ -283,20 +234,14 @@
       "absoluteEpisodeNumber": 6,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127401.jpg",
-      "airDate": "1997-11-12",
-      "simklEpisodeId": "954697"
+      "airDate": "1997-11-12"
     },
     "7": {
       "episode": "7",
-      "anidbEid": "517",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1997-11-19",
       "title": {
-        "en": "The Sword`s Owner",
-        "romaji": "Tsurugi no Aruji",
-        "ja": "剣の主"
+        "en": "The Sword`s Owner"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127402,
@@ -305,20 +250,14 @@
       "absoluteEpisodeNumber": 7,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127402.jpg",
-      "airDate": "1997-11-19",
-      "simklEpisodeId": "954698"
+      "airDate": "1997-11-19"
     },
     "8": {
       "episode": "8",
-      "anidbEid": "518",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1997-11-26",
       "title": {
-        "en": "Conspiracy",
-        "romaji": "Inbou",
-        "ja": "陰謀"
+        "en": "Conspiracy"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127403,
@@ -327,20 +266,14 @@
       "absoluteEpisodeNumber": 8,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127403.jpg",
-      "airDate": "1997-11-26",
-      "simklEpisodeId": "954699"
+      "airDate": "1997-11-26"
     },
     "9": {
       "episode": "9",
-      "anidbEid": "519",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1997-12-03",
       "title": {
-        "en": "Assassination",
-        "romaji": "Ansatsu",
-        "ja": "暗殺"
+        "en": "Assassination"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127404,
@@ -349,20 +282,14 @@
       "absoluteEpisodeNumber": 9,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127404.jpg",
-      "airDate": "1997-12-03",
-      "simklEpisodeId": "954700"
+      "airDate": "1997-12-03"
     },
     "10": {
       "episode": "10",
-      "anidbEid": "520",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1997-12-10",
       "title": {
-        "en": "Nobleman",
-        "romaji": "Toutoki Mono",
-        "ja": "貴きもの"
+        "en": "Nobleman"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127405,
@@ -371,20 +298,14 @@
       "absoluteEpisodeNumber": 10,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127405.jpg",
-      "airDate": "1997-12-10",
-      "simklEpisodeId": "954701"
+      "airDate": "1997-12-10"
     },
     "11": {
       "episode": "11",
-      "anidbEid": "521",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1997-12-17",
       "title": {
-        "en": "The Battle",
-        "romaji": "Kassen",
-        "ja": "合戦"
+        "en": "The Battle"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127406,
@@ -393,20 +314,14 @@
       "absoluteEpisodeNumber": 11,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127406.jpg",
-      "airDate": "1997-12-17",
-      "simklEpisodeId": "954702"
+      "airDate": "1997-12-17"
     },
     "12": {
       "episode": "12",
-      "anidbEid": "522",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1997-12-24",
       "title": {
-        "en": "Together",
-        "romaji": "Futari",
-        "ja": "ふたり"
+        "en": "Together"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127407,
@@ -415,20 +330,14 @@
       "absoluteEpisodeNumber": 12,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127407.jpg",
-      "airDate": "1997-12-24",
-      "simklEpisodeId": "954703"
+      "airDate": "1997-12-24"
     },
     "13": {
       "episode": "13",
-      "anidbEid": "523",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-01-07",
       "title": {
-        "en": "Prepared for Death",
-        "romaji": "Kesshikou",
-        "ja": "決死行"
+        "en": "Prepared for Death"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127408,
@@ -437,20 +346,14 @@
       "absoluteEpisodeNumber": 13,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127408.jpg",
-      "airDate": "1998-01-07",
-      "simklEpisodeId": "954704"
+      "airDate": "1998-01-07"
     },
     "14": {
       "episode": "14",
-      "anidbEid": "524",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-01-14",
       "title": {
-        "en": "Bonfire of Dreams",
-        "romaji": "Yume no Kagaribi",
-        "ja": "夢のかがり火"
+        "en": "Bonfire of Dreams"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127409,
@@ -459,20 +362,14 @@
       "absoluteEpisodeNumber": 14,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127409.jpg",
-      "airDate": "1998-01-14",
-      "simklEpisodeId": "954705"
+      "airDate": "1998-01-14"
     },
     "15": {
       "episode": "15",
-      "anidbEid": "525",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-01-21",
       "title": {
-        "en": "The Decisive Battle",
-        "romaji": "Kessen",
-        "ja": "決戦"
+        "en": "The Decisive Battle"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127410,
@@ -481,20 +378,14 @@
       "absoluteEpisodeNumber": 15,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127410.jpg",
-      "airDate": "1998-01-21",
-      "simklEpisodeId": "954706"
+      "airDate": "1998-01-21"
     },
     "16": {
       "episode": "16",
-      "anidbEid": "526",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-01-28",
       "title": {
-        "en": "The Conqueror",
-        "romaji": "Shourisha",
-        "ja": "勝利者"
+        "en": "The Conqueror"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127411,
@@ -503,20 +394,14 @@
       "absoluteEpisodeNumber": 16,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127411.jpg",
-      "airDate": "1998-01-28",
-      "simklEpisodeId": "954707"
+      "airDate": "1998-01-28"
     },
     "17": {
       "episode": "17",
-      "anidbEid": "527",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-02-04",
       "title": {
-        "en": "Moment of Glory",
-        "romaji": "Eikou no Shunkan",
-        "ja": "栄光の瞬間"
+        "en": "Moment of Glory"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127412,
@@ -525,20 +410,14 @@
       "absoluteEpisodeNumber": 17,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127412.jpg",
-      "airDate": "1998-02-04",
-      "simklEpisodeId": "954708"
+      "airDate": "1998-02-04"
     },
     "18": {
       "episode": "18",
-      "anidbEid": "528",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-02-11",
       "title": {
-        "en": "Tombstone of Flames",
-        "romaji": "Honoo no Bohyou",
-        "ja": "炎の墓標"
+        "en": "Tombstone of Flames"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127413,
@@ -547,20 +426,14 @@
       "absoluteEpisodeNumber": 18,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127413.jpg",
-      "airDate": "1998-02-11",
-      "simklEpisodeId": "954709"
+      "airDate": "1998-02-11"
     },
     "19": {
       "episode": "19",
-      "anidbEid": "529",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-02-18",
       "title": {
-        "en": "Separation",
-        "romaji": "Wakare",
-        "ja": "別れ"
+        "en": "Separation"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127414,
@@ -569,20 +442,14 @@
       "absoluteEpisodeNumber": 19,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127414.jpg",
-      "airDate": "1998-02-18",
-      "simklEpisodeId": "954710"
+      "airDate": "1998-02-18"
     },
     "20": {
       "episode": "20",
-      "anidbEid": "530",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-02-25",
       "title": {
-        "en": "Sparks",
-        "romaji": "Hibana",
-        "ja": "火花"
+        "en": "Sparks"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127415,
@@ -591,20 +458,14 @@
       "absoluteEpisodeNumber": 20,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127415.jpg",
-      "airDate": "1998-02-25",
-      "simklEpisodeId": "954711"
+      "airDate": "1998-02-25"
     },
     "21": {
       "episode": "21",
-      "anidbEid": "531",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-03-04",
       "title": {
-        "en": "Confession",
-        "romaji": "Kokuhaku",
-        "ja": "告白"
+        "en": "Confession"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127416,
@@ -613,20 +474,14 @@
       "absoluteEpisodeNumber": 21,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127416.jpg",
-      "airDate": "1998-03-04",
-      "simklEpisodeId": "954712"
+      "airDate": "1998-03-04"
     },
     "22": {
       "episode": "22",
-      "anidbEid": "532",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-03-11",
       "title": {
-        "en": "Infiltration",
-        "romaji": "Sennyuu",
-        "ja": "潜入"
+        "en": "Infiltration"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127417,
@@ -635,20 +490,14 @@
       "absoluteEpisodeNumber": 22,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127417.jpg",
-      "airDate": "1998-03-11",
-      "simklEpisodeId": "954713"
+      "airDate": "1998-03-11"
     },
     "23": {
       "episode": "23",
-      "anidbEid": "533",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-03-18",
       "title": {
-        "en": "Eve of the Feast",
-        "romaji": "Zen`yasai",
-        "ja": "前夜祭"
+        "en": "Eve of the Feast"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127418,
@@ -657,20 +506,14 @@
       "absoluteEpisodeNumber": 23,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127418.jpg",
-      "airDate": "1998-03-18",
-      "simklEpisodeId": "954714"
+      "airDate": "1998-03-18"
     },
     "24": {
       "episode": "24",
-      "anidbEid": "534",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-03-25",
       "title": {
-        "en": "The Great Eclipse",
-        "romaji": "Shoku",
-        "ja": "蝕"
+        "en": "The Great Eclipse"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127419,
@@ -679,20 +522,14 @@
       "absoluteEpisodeNumber": 24,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127419.jpg",
-      "airDate": "1998-03-25",
-      "simklEpisodeId": "954715"
+      "airDate": "1998-03-25"
     },
     "25": {
       "episode": "25",
-      "anidbEid": "535",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-04-01",
       "title": {
-        "en": "Time of Eternity",
-        "romaji": "Eien no Toki",
-        "ja": "永遠の刻"
+        "en": "Time of Eternity"
       },
       "tvdbShowId": 73752,
       "tvdbId": 127420,
@@ -701,15 +538,11 @@
       "absoluteEpisodeNumber": 25,
       "runtime": 24,
       "image": "https://artworks.thetvdb.com/banners/episodes/73752/127420.jpg",
-      "airDate": "1998-04-01",
-      "simklEpisodeId": "954716"
+      "airDate": "1998-04-01"
     },
     "S1": {
       "episode": "S1",
-      "anidbEid": "8198",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "",
       "title": {
         "en": "Episode R0"
@@ -725,10 +558,7 @@
     },
     "S2": {
       "episode": "S2",
-      "anidbEid": "24267",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 20,
+      "length": "20m",
       "airdate": "",
       "title": {
         "en": "Interview with the Artist Kentaro Miura"
@@ -744,10 +574,7 @@
     },
     "S3": {
       "episode": "S3",
-      "anidbEid": "24268",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 20,
+      "length": "20m",
       "airdate": "",
       "title": {
         "en": "Interview with the Producer Toshio Nakatani"
@@ -763,10 +590,7 @@
     },
     "S4": {
       "episode": "S4",
-      "anidbEid": "25831",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 4,
+      "length": "4m",
       "airdate": "",
       "title": {
         "en": "DVD1 Outtakes"
@@ -782,10 +606,7 @@
     },
     "S5": {
       "episode": "S5",
-      "anidbEid": "25832",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 3,
+      "length": "3m",
       "airdate": "",
       "title": {
         "en": "DVD2 Outtakes"
@@ -801,10 +622,7 @@
     },
     "S6": {
       "episode": "S6",
-      "anidbEid": "25833",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 3,
+      "length": "3m",
       "airdate": "",
       "title": {
         "en": "DVD3 Outtakes"
@@ -820,10 +638,7 @@
     },
     "S7": {
       "episode": "S7",
-      "anidbEid": "25834",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 4,
+      "length": "4m",
       "airdate": "",
       "title": {
         "en": "DVD4 Outtakes"
@@ -839,10 +654,7 @@
     },
     "S8": {
       "episode": "S8",
-      "anidbEid": "25835",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 0,
+      "length": "0m",
       "airdate": "",
       "title": {
         "en": "DVD5 Outtakes"
@@ -858,10 +670,7 @@
     },
     "S9": {
       "episode": "S9",
-      "anidbEid": "25836",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 0,
+      "length": "0m",
       "airdate": "",
       "title": {
         "en": "DVD6 Outtakes"
@@ -877,10 +686,7 @@
     },
     "S10": {
       "episode": "S10",
-      "anidbEid": "44815",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 0,
+      "length": "0m",
       "airdate": "",
       "title": {
         "en": "Special Extras"
@@ -896,10 +702,7 @@
     },
     "S11": {
       "episode": "S11",
-      "anidbEid": "44816",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 3,
+      "length": "3m",
       "airdate": "",
       "title": {
         "en": "FORCES Anime Music Video"
@@ -913,12 +716,57 @@
       "image": null,
       "airDate": ""
     },
+    "OP1a": {
+      "episode": "OP1a",
+      "length": "0m",
+      "airdate": "",
+      "title": {
+        "en": "Tell Me Why (1-25)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "OP1b": {
+      "episode": "OP1b",
+      "length": "0m",
+      "airdate": "",
+      "title": {
+        "en": "Tell Me Why (1-25)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "0m",
+      "airdate": "",
+      "title": {
+        "en": "Waiting So Long (1-25)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
     "P1": {
       "episode": "P1",
-      "anidbEid": "46297",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 01"
@@ -934,10 +782,7 @@
     },
     "P2": {
       "episode": "P2",
-      "anidbEid": "46298",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 02"
@@ -953,10 +798,7 @@
     },
     "P3": {
       "episode": "P3",
-      "anidbEid": "46299",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 03"
@@ -972,10 +814,7 @@
     },
     "P4": {
       "episode": "P4",
-      "anidbEid": "46300",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 04"
@@ -991,10 +830,7 @@
     },
     "P5": {
       "episode": "P5",
-      "anidbEid": "46301",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 05"
@@ -1010,10 +846,7 @@
     },
     "P6": {
       "episode": "P6",
-      "anidbEid": "46302",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 06"
@@ -1029,10 +862,7 @@
     },
     "P7": {
       "episode": "P7",
-      "anidbEid": "46303",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 07"
@@ -1048,10 +878,7 @@
     },
     "P8": {
       "episode": "P8",
-      "anidbEid": "46304",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 08"
@@ -1067,10 +894,7 @@
     },
     "P9": {
       "episode": "P9",
-      "anidbEid": "46305",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 09"
@@ -1086,10 +910,7 @@
     },
     "P10": {
       "episode": "P10",
-      "anidbEid": "46306",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 10"
@@ -1105,10 +926,7 @@
     },
     "P11": {
       "episode": "P11",
-      "anidbEid": "46307",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 11"
@@ -1124,10 +942,7 @@
     },
     "P12": {
       "episode": "P12",
-      "anidbEid": "46308",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 12"
@@ -1143,10 +958,7 @@
     },
     "P13": {
       "episode": "P13",
-      "anidbEid": "46309",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 13"
@@ -1162,10 +974,7 @@
     },
     "P14": {
       "episode": "P14",
-      "anidbEid": "46310",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 14"
@@ -1181,10 +990,7 @@
     },
     "P15": {
       "episode": "P15",
-      "anidbEid": "46311",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 15"
@@ -1200,10 +1006,7 @@
     },
     "P16": {
       "episode": "P16",
-      "anidbEid": "46312",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 16"
@@ -1219,10 +1022,7 @@
     },
     "P17": {
       "episode": "P17",
-      "anidbEid": "46313",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 17"
@@ -1238,10 +1038,7 @@
     },
     "P18": {
       "episode": "P18",
-      "anidbEid": "46314",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 18"
@@ -1257,10 +1054,7 @@
     },
     "P19": {
       "episode": "P19",
-      "anidbEid": "46315",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 19"
@@ -1276,10 +1070,7 @@
     },
     "P20": {
       "episode": "P20",
-      "anidbEid": "46316",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 20"
@@ -1295,10 +1086,7 @@
     },
     "P21": {
       "episode": "P21",
-      "anidbEid": "46317",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 21"
@@ -1314,10 +1102,7 @@
     },
     "P22": {
       "episode": "P22",
-      "anidbEid": "46318",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 22"
@@ -1333,10 +1118,7 @@
     },
     "P23": {
       "episode": "P23",
-      "anidbEid": "46319",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 23"
@@ -1352,10 +1134,7 @@
     },
     "P24": {
       "episode": "P24",
-      "anidbEid": "46320",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 24"
@@ -1371,10 +1150,7 @@
     },
     "P25": {
       "episode": "P25",
-      "anidbEid": "46321",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "Fandub - Episode 25"
@@ -1390,13 +1166,13 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-23T20:09:50.691Z",
+    "lastFetched": "2026-06-24T14:59:30.947Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "anizip",
+      "zenshin",
       "simkl"
     ],
     "missingSources": [],

@@ -1,0 +1,164 @@
+{
+  "id": 459,
+  "idMal": 459,
+  "mappings": {
+    "mal": 459,
+    "anilist": 459,
+    "kitsu": 421,
+    "simkl": 36580,
+    "tmdb": 19576,
+    "tvdb": null,
+    "animeplanet": "one-piece-movie-1"
+  },
+  "title": {
+    "romaji": "ONE PIECE (Movie)",
+    "english": "One Piece: The Movie",
+    "native": "ONE PIECE (Movie)",
+    "synonyms": [
+      "One Piece: The Movie",
+      "One Piece (2000)",
+      "One Piece: La Película",
+      "วันพีซ เดอะมูฟวี่ 1 เกาะสมบัติแห่งวูนัน",
+      "Vua Hải Tặc: Đảo Châu Báu",
+      "One Piece: Golden Island Adventure",
+      "One Piece - Per tutto l'oro del mondo"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 50,
+  "aired": {
+    "from": "2000-03-04T00:00:00+00:00",
+    "to": "2000-03-04"
+  },
+  "season": "winter",
+  "year": 2000,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.1,
+    "anilistScore": 6.8,
+    "kitsuRating": 7.12
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Comedy",
+    "Super Power",
+    "Friendship",
+    "Pirate",
+    "Fantasy World",
+    "Crime"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1770/97704l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/459-JqlCjcwxxFrr.jpg",
+    "color": "#e40d0d"
+  },
+  "trailer": null,
+  "synopsis": "Many years ago, Woonan, a legendary pirate, plundered one-third of the world's gold and stashed it away on his secret island shrouded in mystery. \n\nIn the present, Luffy and the rest of the Straw Hats continue on their journey to the Grand Line. They are robbed by a group of bandits. Led by their captain, El Drago, these same bandits are headed towards Woonan's famed island. Even though the Straw Hat Pirates must now recover their stolen treasure, they have gained another objective: to discover the lost island, its treasures, and learn about the legend of Woonan.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 21,
+      "title": {
+        "romaji": "ONE PIECE",
+        "english": "ONE PIECE",
+        "native": "ONE PIECE"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": 1999,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 460,
+      "title": {
+        "romaji": "ONE PIECE: Nejimaki-jima no Bouken",
+        "english": "One Piece: Clockwork Island Adventure",
+        "native": "ONE PIECE ねじまき島の冒険"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx460-p9HObfGUhWn0.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2001,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "50m",
+      "airdate": "2000-03-04",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 81797,
+      "tvdbId": 390879,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 51,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81797/390879.jpg",
+      "airDate": "2000-03-04"
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Memories (1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-24T15:19:16.617Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

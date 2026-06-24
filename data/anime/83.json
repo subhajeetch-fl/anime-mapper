@@ -4,18 +4,11 @@
   "mappings": {
     "mal": 83,
     "anilist": 83,
-    "anidb": 1425,
     "kitsu": 62,
     "simkl": 37320,
     "tmdb": 464038,
     "tvdb": null,
-    "trakt": 39980,
-    "traktType": "movies",
-    "shikimori": 83,
-    "livechart": 5269,
-    "animeplanet": "mobile-suit-gundam-the-08th-ms-team-millers-report",
-    "anisearch": 3426,
-    "notify": "WKpt5Kimg"
+    "animeplanet": "mobile-suit-gundam-the-08th-ms-team-millers-report"
   },
   "title": {
     "romaji": "Kidou Senshi Gundam: Dai 08 MS Shotai - Miller's Report",
@@ -44,14 +37,7 @@
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": 6.73,
-    "malScoredBy": 7363,
-    "malRank": 6277,
-    "malPopularity": 6171,
-    "malMembers": 15104,
-    "malFavorites": 6,
     "anilistScore": 6.3,
-    "anilistPopularity": 3900,
-    "anilistFavourites": 17,
     "kitsuRating": 6.76
   },
   "genres": [
@@ -109,32 +95,61 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "anidbEid": "15777",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 55,
+      "length": "55m",
       "airdate": "1998-08-01",
       "title": {
         "en": "Complete Movie"
       },
       "tvdbShowId": 80784,
-      "tvdbId": 340688,
-      "seasonNumber": 1,
-      "episodeNumber": 11,
-      "absoluteEpisodeNumber": 11,
-      "runtime": 24,
-      "image": "https://artworks.thetvdb.com/banners/episodes/80784/340688.jpg",
-      "airDate": "1999-04-25"
+      "tvdbId": 355307,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 51,
+      "image": "https://artworks.thetvdb.com/banners/episodes/80784/355307.jpg",
+      "airDate": "1998-08-01"
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Gundam Bigbang Project CM [Endless Waltz The Movie + Miller`s Report] (1:49)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
     }
   },
   "meta": {
-    "lastFetched": "2026-06-23T15:53:20.551Z",
+    "lastFetched": "2026-06-24T15:03:35.648Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "anizip",
+      "zenshin",
       "simkl"
     ],
     "missingSources": [],

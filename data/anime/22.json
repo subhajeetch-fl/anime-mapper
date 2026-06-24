@@ -4,18 +4,11 @@
   "mappings": {
     "mal": 22,
     "anilist": 22,
-    "anidb": 56,
     "kitsu": 13,
     "simkl": 37090,
     "tmdb": 27845,
     "tvdb": 73532,
-    "trakt": 62571,
-    "traktType": "shows",
-    "shikimori": 22,
-    "livechart": 4029,
-    "animeplanet": "the-prince-of-tennis",
-    "anisearch": 823,
-    "notify": "4LWp5FmiR"
+    "animeplanet": "the-prince-of-tennis"
   },
   "title": {
     "romaji": "Tennis no Ouji-sama",
@@ -47,14 +40,7 @@
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": 7.85,
-    "malScoredBy": 88693,
-    "malRank": 1039,
-    "malPopularity": 1423,
-    "malMembers": 198153,
-    "malFavorites": 3080,
     "anilistScore": 7.5,
-    "anilistPopularity": 35397,
-    "anilistFavourites": 766,
     "kitsuRating": 7.85
   },
   "genres": [
@@ -237,15 +223,10 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "anidbEid": "681",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2001-10-10",
       "title": {
-        "en": "The Prince Appears",
-        "romaji": "Ouji-sama Arawaru",
-        "ja": "王子様現る"
+        "en": "The Prince Appears"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117408,
@@ -254,20 +235,14 @@
       "absoluteEpisodeNumber": 1,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117408/screencap/626d7870a31af.jpg",
-      "airDate": "2001-10-10",
-      "simklEpisodeId": "866261"
+      "airDate": "2001-10-10"
     },
     "2": {
       "episode": "2",
-      "anidbEid": "682",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2001-10-17",
       "title": {
-        "en": "Samurai Jr.",
-        "romaji": "Samurai Junior",
-        "ja": "サムライ・ジュニア"
+        "en": "Samurai Jr."
       },
       "tvdbShowId": 73532,
       "tvdbId": 117409,
@@ -276,20 +251,14 @@
       "absoluteEpisodeNumber": 2,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117409/screencap/626d788b53f45.jpg",
-      "airDate": "2001-10-17",
-      "simklEpisodeId": "866262"
+      "airDate": "2001-10-17"
     },
     "3": {
       "episode": "3",
-      "anidbEid": "683",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2001-10-24",
       "title": {
-        "en": "The Seigaku Regulars Make Their Debut!",
-        "romaji": "Toujou! Seigaku Regular",
-        "ja": "登場! 青学レギュラー"
+        "en": "The Seigaku Regulars Make Their Debut!"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117410,
@@ -298,20 +267,14 @@
       "absoluteEpisodeNumber": 3,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117410/screencap/626d78aca8fc2.jpg",
-      "airDate": "2001-10-24",
-      "simklEpisodeId": "866263"
+      "airDate": "2001-10-24"
     },
     "4": {
       "episode": "4",
-      "anidbEid": "1785",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2001-10-31",
       "title": {
-        "en": "The One Named Viper",
-        "romaji": "Mamushi to Yobareru Otoko",
-        "ja": "マムシと呼ばれる男"
+        "en": "The One Named Viper"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117411,
@@ -320,20 +283,14 @@
       "absoluteEpisodeNumber": 4,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117411/screencap/626d87ed56b13.jpg",
-      "airDate": "2001-10-31",
-      "simklEpisodeId": "866267"
+      "airDate": "2001-10-31"
     },
     "5": {
       "episode": "5",
-      "anidbEid": "1783",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2001-11-07",
       "title": {
-        "en": "The Snake Shot",
-        "romaji": "Snake Shot",
-        "ja": "スネイク・ショット"
+        "en": "The Snake Shot"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117412,
@@ -342,20 +299,14 @@
       "absoluteEpisodeNumber": 5,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117412/screencap/626d88042ff2a.jpg",
-      "airDate": "2001-11-07",
-      "simklEpisodeId": "866265"
+      "airDate": "2001-11-07"
     },
     "6": {
       "episode": "6",
-      "anidbEid": "1801",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2001-11-14",
       "title": {
-        "en": "Nanjiro Echizen",
-        "romaji": "Sono Otoko, Echizen Nanjirou",
-        "ja": "その男, 越前南次郎"
+        "en": "Nanjiro Echizen"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117413,
@@ -364,20 +315,14 @@
       "absoluteEpisodeNumber": 6,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117413/screencap/626d88226907d.jpg",
-      "airDate": "2001-11-14",
-      "simklEpisodeId": "866283"
+      "airDate": "2001-11-14"
     },
     "7": {
       "episode": "7",
-      "anidbEid": "1799",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2001-11-21",
       "title": {
-        "en": "The Two Ryomas",
-        "romaji": "Futari no Ryouma",
-        "ja": "二人のリョーマ"
+        "en": "The Two Ryomas"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117414,
@@ -386,20 +331,14 @@
       "absoluteEpisodeNumber": 7,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117414/screencap/626d883eaa6f6.jpg",
-      "airDate": "2001-11-21",
-      "simklEpisodeId": "866281"
+      "airDate": "2001-11-21"
     },
     "8": {
       "episode": "8",
-      "anidbEid": "1797",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2001-11-28",
       "title": {
-        "en": "The Split Step",
-        "romaji": "Split Step",
-        "ja": "スプリットステップ"
+        "en": "The Split Step"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117415,
@@ -408,20 +347,14 @@
       "absoluteEpisodeNumber": 8,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117415/screencap/626d885482797.jpg",
-      "airDate": "2001-11-28",
-      "simklEpisodeId": "866279"
+      "airDate": "2001-11-28"
     },
     "9": {
       "episode": "9",
-      "anidbEid": "1795",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2001-12-05",
       "title": {
-        "en": "The Hard Day",
-        "romaji": "The Hard Day",
-        "ja": "ザ・ハード・デイ"
+        "en": "The Hard Day"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117416,
@@ -430,20 +363,14 @@
       "absoluteEpisodeNumber": 9,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117416/screencap/626d8869d42de.jpg",
-      "airDate": "2001-12-05",
-      "simklEpisodeId": "866277"
+      "airDate": "2001-12-05"
     },
     "10": {
       "episode": "10",
-      "anidbEid": "1782",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2001-12-12",
       "title": {
-        "en": "Counterattack! Sasabe Again?",
-        "romaji": "Gyakushuu! Sasabe Futatabi",
-        "ja": "逆襲! 佐々部再び"
+        "en": "Counterattack! Sasabe Again?"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117417,
@@ -452,20 +379,14 @@
       "absoluteEpisodeNumber": 10,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117417/screencap/626d887f70f07.jpg",
-      "airDate": "2001-12-12",
-      "simklEpisodeId": "866264"
+      "airDate": "2001-12-12"
     },
     "11": {
       "episode": "11",
-      "anidbEid": "1800",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2001-12-19",
       "title": {
-        "en": "Ryoma vs. Momoshiro",
-        "romaji": "Ryouma vs. Momoshiro!",
-        "ja": "リョーマVS桃城!"
+        "en": "Ryoma vs. Momoshiro"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117418,
@@ -474,20 +395,14 @@
       "absoluteEpisodeNumber": 11,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117418/screencap/626d8b464cdd7.jpg",
-      "airDate": "2001-12-19",
-      "simklEpisodeId": "866282"
+      "airDate": "2001-12-19"
     },
     "12": {
       "episode": "12",
-      "anidbEid": "1798",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2001-12-26",
       "title": {
-        "en": "The Perfect Match",
-        "romaji": "Ah-UN na Futari",
-        "ja": "ア・ウンな二人"
+        "en": "The Perfect Match"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117419,
@@ -496,20 +411,14 @@
       "absoluteEpisodeNumber": 12,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117419/screencap/626d8b5b9f411.jpg",
-      "airDate": "2001-12-26",
-      "simklEpisodeId": "866280"
+      "airDate": "2001-12-26"
     },
     "13": {
       "episode": "13",
-      "anidbEid": "1796",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-01-09",
       "title": {
-        "en": "Real Men Play Doubles",
-        "romaji": "Otoko wa Doubles!",
-        "ja": "男はダブルス!"
+        "en": "Real Men Play Doubles"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117420,
@@ -518,20 +427,14 @@
       "absoluteEpisodeNumber": 13,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117420/screencap/626d8b6f89185.jpg",
-      "airDate": "2002-01-02",
-      "simklEpisodeId": "866278"
+      "airDate": "2002-01-02"
     },
     "14": {
       "episode": "14",
-      "anidbEid": "1793",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-01-16",
       "title": {
-        "en": "The Triple Counter",
-        "romaji": "Tsubamegaeshi!",
-        "ja": "つばめ返し!"
+        "en": "The Triple Counter"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117421,
@@ -540,20 +443,14 @@
       "absoluteEpisodeNumber": 14,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117421/screencap/626d8b8499bcf.jpg",
-      "airDate": "2002-01-09",
-      "simklEpisodeId": "866275"
+      "airDate": "2002-01-09"
     },
     "15": {
       "episode": "15",
-      "anidbEid": "1791",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-01-23",
       "title": {
-        "en": "To Each His Own Battle",
-        "romaji": "Sorezore no Tatakai",
-        "ja": "それぞれの戦い"
+        "en": "To Each His Own Battle"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117422,
@@ -562,20 +459,14 @@
       "absoluteEpisodeNumber": 15,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117422/screencap/626d8b9b0c699.jpg",
-      "airDate": "2002-01-16",
-      "simklEpisodeId": "866273"
+      "airDate": "2002-01-16"
     },
     "16": {
       "episode": "16",
-      "anidbEid": "1789",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-01-30",
       "title": {
-        "en": "The Boomerang Snake",
-        "romaji": "Boomerang Snake",
-        "ja": "ブーメランスネイク"
+        "en": "The Boomerang Snake"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117423,
@@ -584,20 +475,14 @@
       "absoluteEpisodeNumber": 16,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117423/screencap/626d8bcab0b9e.jpg",
-      "airDate": "2002-01-23",
-      "simklEpisodeId": "866271"
+      "airDate": "2002-01-23"
     },
     "17": {
       "episode": "17",
-      "anidbEid": "1787",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-02-06",
       "title": {
-        "en": "A Little Gesture of Triumph",
-        "romaji": "Chiisana Guts Pose",
-        "ja": "小さなガッツポーズ"
+        "en": "A Little Gesture of Triumph"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117424,
@@ -606,20 +491,14 @@
       "absoluteEpisodeNumber": 17,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117424/screencap/626d8be329f67.jpg",
-      "airDate": "2002-01-30",
-      "simklEpisodeId": "866269"
+      "airDate": "2002-01-30"
     },
     "18": {
       "episode": "18",
-      "anidbEid": "1786",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-02-13",
       "title": {
-        "en": "The Love Letter",
-        "romaji": "Love Letter",
-        "ja": "ラブレター"
+        "en": "The Love Letter"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117425,
@@ -628,20 +507,14 @@
       "absoluteEpisodeNumber": 18,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117425/screencap/626d8bf7b62d8.jpg",
-      "airDate": "2002-02-06",
-      "simklEpisodeId": "866268"
+      "airDate": "2002-02-06"
     },
     "19": {
       "episode": "19",
-      "anidbEid": "1784",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-02-20",
       "title": {
-        "en": "Battle-Scarred Ryoma",
-        "romaji": "Kizudarake no Ryouma",
-        "ja": "傷だらけのリョーマ"
+        "en": "Battle-Scarred Ryoma"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117426,
@@ -650,20 +523,14 @@
       "absoluteEpisodeNumber": 19,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117426/screencap/626d8c1241262.jpg",
-      "airDate": "2002-02-13",
-      "simklEpisodeId": "866266"
+      "airDate": "2002-02-13"
     },
     "20": {
       "episode": "20",
-      "anidbEid": "1794",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-02-27",
       "title": {
-        "en": "Time Limit",
-        "romaji": "Time Limit",
-        "ja": "タイムリミット"
+        "en": "Time Limit"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117427,
@@ -672,20 +539,14 @@
       "absoluteEpisodeNumber": 20,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117427/screencap/626d8c277a1e6.jpg",
-      "airDate": "2002-02-20",
-      "simklEpisodeId": "866276"
+      "airDate": "2002-02-20"
     },
     "21": {
       "episode": "21",
-      "anidbEid": "1792",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-03-06",
       "title": {
-        "en": "Is the Tennis Court Burning Up?",
-        "romaji": "Tennis Court wa Moeteiru ka?",
-        "ja": "テニスコートは燃えているか?"
+        "en": "Is the Tennis Court Burning Up?"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117428,
@@ -694,20 +555,14 @@
       "absoluteEpisodeNumber": 21,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117428/screencap/626d96ba91ce3.jpg",
-      "airDate": "2002-02-27",
-      "simklEpisodeId": "866274"
+      "airDate": "2002-02-27"
     },
     "22": {
       "episode": "22",
-      "anidbEid": "1790",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-03-13",
       "title": {
-        "en": "Kaoru`s Troubles",
-        "romaji": "Kaoru no Sainan",
-        "ja": "薫の災難"
+        "en": "Kaoru`s Troubles"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117429,
@@ -716,20 +571,14 @@
       "absoluteEpisodeNumber": 22,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117429/screencap/626d96d2340d0.jpg",
-      "airDate": "2002-03-06",
-      "simklEpisodeId": "866272"
+      "airDate": "2002-03-06"
     },
     "23": {
       "episode": "23",
-      "anidbEid": "1788",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-03-20",
       "title": {
-        "en": "Here Comes Inui`s Deluxe Drink!",
-        "romaji": "Toujou! Inuijiru Deluxe",
-        "ja": "登場! 乾汁デラックス"
+        "en": "Here Comes Inui`s Deluxe Drink!"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117430,
@@ -738,20 +587,14 @@
       "absoluteEpisodeNumber": 23,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117430/screencap/626d96f905321.jpg",
-      "airDate": "2002-03-13",
-      "simklEpisodeId": "866270"
+      "airDate": "2002-03-13"
     },
     "24": {
       "episode": "24",
-      "anidbEid": "1817",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-03-27",
       "title": {
-        "en": "Ryoma`s Day Off",
-        "romaji": "Ryouma no Kyuujitsu",
-        "ja": "リョーマの休日"
+        "en": "Ryoma`s Day Off"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117431,
@@ -760,20 +603,14 @@
       "absoluteEpisodeNumber": 24,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117431/screencap/626d9715c2a93.jpg",
-      "airDate": "2002-03-20",
-      "simklEpisodeId": "866293"
+      "airDate": "2002-03-20"
     },
     "25": {
       "episode": "25",
-      "anidbEid": "1816",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-04-10",
       "title": {
-        "en": "Seigaku`s Strongest Man Part 1",
-        "romaji": "Seigaku Saikyou no Otoko (1)",
-        "ja": "青学最強の男 (1)"
+        "en": "Seigaku`s Strongest Man Part 1"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117432,
@@ -782,20 +619,14 @@
       "absoluteEpisodeNumber": 25,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117432/screencap/626e62702ec54.jpg",
-      "airDate": "2002-04-10",
-      "simklEpisodeId": "866292"
+      "airDate": "2002-04-10"
     },
     "26": {
       "episode": "26",
-      "anidbEid": "23717",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-04-10",
       "title": {
-        "en": "Seigaku`s Strongest Man Part 2",
-        "romaji": "Seigaku Saikyou no Otoko (2)",
-        "ja": "青学最強の男 (2)"
+        "en": "Seigaku`s Strongest Man Part 2"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117433,
@@ -804,20 +635,430 @@
       "absoluteEpisodeNumber": 26,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117433/screencap/626e628a96ca0.jpg",
-      "airDate": "2002-04-10",
-      "simklEpisodeId": "866406"
+      "airDate": "2002-04-10"
     },
     "27": {
       "episode": "27",
-      "anidbEid": "1815",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-04-17",
       "title": {
-        "en": "Kalpin`s Adventure",
-        "romaji": "Karupin no Bouken",
-        "ja": "カルピンの冒険"
+        "en": "Kalpin`s Adventure"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117434,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/73532/117434.jpg",
+      "airDate": "2002-04-17"
+    },
+    "28": {
+      "episode": "28",
+      "length": "25m",
+      "airdate": "2002-04-24",
+      "title": {
+        "en": "A New Regular Appears?!"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117435,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117435/screencap/626e5f2dbfc72.jpg",
+      "airDate": "2002-04-24"
+    },
+    "29": {
+      "episode": "29",
+      "length": "25m",
+      "airdate": "2002-05-01",
+      "title": {
+        "en": "Momo and Viper"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117436,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117436/screencap/626e5f41d43d5.jpg",
+      "airDate": "2002-05-01"
+    },
+    "30": {
+      "episode": "30",
+      "length": "25m",
+      "airdate": "2002-05-08",
+      "title": {
+        "en": "Mizuki`s Scenario"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117437,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117437/screencap/626e5f5617a66.jpg",
+      "airDate": "2002-05-08"
+    },
+    "31": {
+      "episode": "31",
+      "length": "25m",
+      "airdate": "2002-05-15",
+      "title": {
+        "en": "The Moon Volley"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117438,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117438/screencap/626e5f699bdca.jpg",
+      "airDate": "2002-05-15"
+    },
+    "32": {
+      "episode": "32",
+      "length": "25m",
+      "airdate": "2002-05-22",
+      "title": {
+        "en": "Mortal Blow: Eiji`s Feigned Sleep Attack"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117439,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117439/screencap/626fff8d7104d.jpg",
+      "airDate": "2002-05-22"
+    },
+    "33": {
+      "episode": "33",
+      "length": "25m",
+      "airdate": "2002-05-29",
+      "title": {
+        "en": "The Tiebreak"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117440,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117440/screencap/62712f254edd2.jpg",
+      "airDate": "2002-05-29"
+    },
+    "34": {
+      "episode": "34",
+      "length": "25m",
+      "airdate": "2002-06-05",
+      "title": {
+        "en": "Twist Spin Shot"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117441,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117441/screencap/6272a02374640.jpg",
+      "airDate": "2002-06-05"
+    },
+    "35": {
+      "episode": "35",
+      "length": "25m",
+      "airdate": "2002-06-12",
+      "title": {
+        "en": "Drive B"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117442,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117442/screencap/6273d8b0586df.jpg",
+      "airDate": "2002-06-12"
+    },
+    "36": {
+      "episode": "36",
+      "length": "25m",
+      "airdate": "2002-06-19",
+      "title": {
+        "en": "Big Brother, Shusuke Fuji"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117443,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117443/screencap/6273d8c4e2530.jpg",
+      "airDate": "2002-06-19"
+    },
+    "37": {
+      "episode": "37",
+      "length": "25m",
+      "airdate": "2002-06-26",
+      "title": {
+        "en": "A Tennis Ball with Ryoma`s Face"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117444,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 37,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117444/screencap/6273d8dadeb2e.jpg",
+      "airDate": "2002-06-26"
+    },
+    "38": {
+      "episode": "38",
+      "length": "25m",
+      "airdate": "2002-07-03",
+      "title": {
+        "en": "Penal-Tea"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117445,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 38,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117445/screencap/627535480eea1.jpg",
+      "airDate": "2002-07-03"
+    },
+    "39": {
+      "episode": "39",
+      "length": "25m",
+      "airdate": "2002-07-10",
+      "title": {
+        "en": "The Brown Bear"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117446,
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 39,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117446/screencap/6279499810302.jpg",
+      "airDate": "2002-07-10"
+    },
+    "40": {
+      "episode": "40",
+      "length": "25m",
+      "airdate": "2002-07-17",
+      "title": {
+        "en": "A Duel in the Rain"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117447,
+      "seasonNumber": 2,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 40,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117447/screencap/62794980d4b9e.jpg",
+      "airDate": "2002-07-17"
+    },
+    "41": {
+      "episode": "41",
+      "length": "25m",
+      "airdate": "2002-07-24",
+      "title": {
+        "en": "Trouble"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117448,
+      "seasonNumber": 2,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 41,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117448/screencap/627949ae62643.jpg",
+      "airDate": "2002-07-24"
+    },
+    "42": {
+      "episode": "42",
+      "length": "25m",
+      "airdate": "2002-07-31",
+      "title": {
+        "en": "Oishi Is Targeted"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117449,
+      "seasonNumber": 2,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 42,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117449/screencap/627bd12dd3405.jpg",
+      "airDate": "2002-07-31"
+    },
+    "43": {
+      "episode": "43",
+      "length": "25m",
+      "airdate": "2002-08-07",
+      "title": {
+        "en": "Lucky Sengoku"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117450,
+      "seasonNumber": 2,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 43,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117450/screencap/627bd142f11cc.jpg",
+      "airDate": "2002-08-07"
+    },
+    "44": {
+      "episode": "44",
+      "length": "25m",
+      "airdate": "2002-08-14",
+      "title": {
+        "en": "Jackknife"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117451,
+      "seasonNumber": 2,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 44,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117451/screencap/627bd2abf3f39.jpg",
+      "airDate": "2002-08-14"
+    },
+    "45": {
+      "episode": "45",
+      "length": "25m",
+      "airdate": "2002-08-21",
+      "title": {
+        "en": "The Devil on the Court"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117452,
+      "seasonNumber": 2,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 45,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117452/screencap/627bd2c046097.jpg",
+      "airDate": "2002-08-21"
+    },
+    "46": {
+      "episode": "46",
+      "length": "25m",
+      "airdate": "2002-08-28",
+      "title": {
+        "en": "Samurai Spirit"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117453,
+      "seasonNumber": 2,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 46,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117453/screencap/627bd2d469fa6.jpg",
+      "airDate": "2002-08-21"
+    },
+    "47": {
+      "episode": "47",
+      "length": "25m",
+      "airdate": "2002-09-04",
+      "title": {
+        "en": "I Can`t Lose"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117454,
+      "seasonNumber": 2,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 47,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117454/screencap/627bd2ea9d46d.jpg",
+      "airDate": "2002-09-04"
+    },
+    "48": {
+      "episode": "48",
+      "length": "25m",
+      "airdate": "2002-09-11",
+      "title": {
+        "en": "The Decisive Moment"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117455,
+      "seasonNumber": 2,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 48,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117455/screencap/627bd300a9f5b.jpg",
+      "airDate": "2002-09-11"
+    },
+    "49": {
+      "episode": "49",
+      "length": "25m",
+      "airdate": "2002-09-18",
+      "title": {
+        "en": "Free Style Fighting"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117456,
+      "seasonNumber": 2,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 49,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117456/screencap/627bd315d1e8e.jpg",
+      "airDate": "2002-09-18"
+    },
+    "50": {
+      "episode": "50",
+      "length": "25m",
+      "airdate": "2002-09-25",
+      "title": {
+        "en": "A Seigaku Tradition"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117457,
+      "seasonNumber": 2,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 50,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117457/screencap/627bd32938b9d.jpg",
+      "airDate": "2002-09-25"
+    },
+    "51": {
+      "episode": "51",
+      "length": "25m",
+      "airdate": "2002-10-02",
+      "title": {
+        "en": "Inui`s Challenge"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117458,
+      "seasonNumber": 2,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 51,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117458/screencap/6284f6a2dd8fa.jpg",
+      "airDate": "2002-10-02"
+    },
+    "52": {
+      "episode": "52",
+      "length": "25m",
+      "airdate": "2002-10-09",
+      "title": {
+        "en": "Seigaku`s Ultimate Crisis"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117459,
+      "seasonNumber": 2,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 52,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117459/screencap/6288cf8250418.jpg",
+      "airDate": "2002-10-09"
+    },
+    "53": {
+      "episode": "53",
+      "length": "25m",
+      "airdate": "2002-10-16",
+      "title": {
+        "en": "Momo Returns"
       },
       "tvdbShowId": 73532,
       "tvdbId": 117460,
@@ -826,3258 +1067,2011 @@
       "absoluteEpisodeNumber": 53,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/117460/screencap/629631309dda9.jpg",
-      "airDate": "2002-10-16",
-      "simklEpisodeId": "866291"
-    },
-    "28": {
-      "episode": "28",
-      "anidbEid": "1814",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-04-24",
-      "title": {
-        "en": "A New Regular Appears?!",
-        "romaji": "Shin Regular Arawaru!?",
-        "ja": "新レギュラー現る!?"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 28,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-04-24",
-      "simklEpisodeId": "866290"
-    },
-    "29": {
-      "episode": "29",
-      "anidbEid": "1813",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-05-01",
-      "title": {
-        "en": "Momo and Viper",
-        "romaji": "Momo to Mamushi",
-        "ja": "桃とマムシ"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 29,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-05-01",
-      "simklEpisodeId": "866289"
-    },
-    "30": {
-      "episode": "30",
-      "anidbEid": "1812",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-05-08",
-      "title": {
-        "en": "Mizuki`s Scenario",
-        "romaji": "Mizuki no Scenario",
-        "ja": "観月のシナリオ"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 30,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-05-08",
-      "simklEpisodeId": "866288"
-    },
-    "31": {
-      "episode": "31",
-      "anidbEid": "1811",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-05-15",
-      "title": {
-        "en": "The Moon Volley",
-        "romaji": "Moon Volley",
-        "ja": "ムーンボレー"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 31,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-05-15",
-      "simklEpisodeId": "866287"
-    },
-    "32": {
-      "episode": "32",
-      "anidbEid": "1810",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-05-22",
-      "title": {
-        "en": "Mortal Blow: Eiji`s Feigned Sleep Attack",
-        "romaji": "Hissatsu! Eiji no Neta Furi Kougeki!?",
-        "ja": "必殺! 英二の寝たフリ攻撃!?"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 32,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-05-22",
-      "simklEpisodeId": "866286"
-    },
-    "33": {
-      "episode": "33",
-      "anidbEid": "1809",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-05-29",
-      "title": {
-        "en": "The Tiebreak",
-        "romaji": "Tiebreak",
-        "ja": "タイブレーク"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 33,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-05-29",
-      "simklEpisodeId": "866285"
-    },
-    "34": {
-      "episode": "34",
-      "anidbEid": "1808",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-06-05",
-      "title": {
-        "en": "Twist Spin Shot",
-        "romaji": "Twist Spin Shot",
-        "ja": "ツイストスピンショット"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 34,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-06-05",
-      "simklEpisodeId": "866284"
-    },
-    "35": {
-      "episode": "35",
-      "anidbEid": "1819",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-06-12",
-      "title": {
-        "en": "Drive B",
-        "romaji": "Drive B",
-        "ja": "ドライブB"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 35,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-06-12",
-      "simklEpisodeId": "866295"
-    },
-    "36": {
-      "episode": "36",
-      "anidbEid": "1818",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-06-19",
-      "title": {
-        "en": "Big Brother, Shusuke Fuji",
-        "romaji": "Ani, Fuji Shuusuke",
-        "ja": "兄, 不二周助"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 36,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-06-19",
-      "simklEpisodeId": "866294"
-    },
-    "37": {
-      "episode": "37",
-      "anidbEid": "3712",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-06-26",
-      "title": {
-        "en": "A Tennis Ball with Ryoma`s Face",
-        "romaji": "Ryoumajirushi no Tennis Ball",
-        "ja": "リョーマ印のテニスボール"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 37,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-06-26",
-      "simklEpisodeId": "866296"
-    },
-    "38": {
-      "episode": "38",
-      "anidbEid": "3713",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-07-03",
-      "title": {
-        "en": "Penal-Tea",
-        "romaji": "Penal-tea",
-        "ja": "ペナル茶(ティー)!"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 38,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-07-03",
-      "simklEpisodeId": "866297"
-    },
-    "39": {
-      "episode": "39",
-      "anidbEid": "3714",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-07-10",
-      "title": {
-        "en": "The Brown Bear",
-        "romaji": "Higuma Otoshi!",
-        "ja": "ヒグマ落とし!"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 39,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-07-10",
-      "simklEpisodeId": "866298"
-    },
-    "40": {
-      "episode": "40",
-      "anidbEid": "3715",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-07-17",
-      "title": {
-        "en": "A Duel in the Rain",
-        "romaji": "Ame no Naka no Kettou",
-        "ja": "雨の中の決闘"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 40,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-07-17",
-      "simklEpisodeId": "866299"
-    },
-    "41": {
-      "episode": "41",
-      "anidbEid": "3716",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-07-24",
-      "title": {
-        "en": "Trouble",
-        "romaji": "Haran!",
-        "ja": "波乱!"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 41,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-07-24",
-      "simklEpisodeId": "866300"
-    },
-    "42": {
-      "episode": "42",
-      "anidbEid": "3717",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-07-31",
-      "title": {
-        "en": "Oishi Is Targeted",
-        "romaji": "Nerawareta Ooishi",
-        "ja": "狙われた大石"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 42,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-07-31",
-      "simklEpisodeId": "866301"
-    },
-    "43": {
-      "episode": "43",
-      "anidbEid": "4365",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-08-07",
-      "title": {
-        "en": "Lucky Sengoku",
-        "romaji": "Lucky Sengoku",
-        "ja": "ラッキー千石"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 43,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-08-07",
-      "simklEpisodeId": "866307"
-    },
-    "44": {
-      "episode": "44",
-      "anidbEid": "3718",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-08-14",
-      "title": {
-        "en": "Jackknife",
-        "romaji": "Jack Knife",
-        "ja": "ジャックナイフ"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 44,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-08-14",
-      "simklEpisodeId": "866302"
-    },
-    "45": {
-      "episode": "45",
-      "anidbEid": "3719",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-08-21",
-      "title": {
-        "en": "The Devil on the Court",
-        "romaji": "Court no Ue no Akuma",
-        "ja": "コートの上の悪魔"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 45,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-08-21",
-      "simklEpisodeId": "866303"
-    },
-    "46": {
-      "episode": "46",
-      "anidbEid": "3720",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-08-28",
-      "title": {
-        "en": "Samurai Spirit",
-        "romaji": "Samuraidamashii",
-        "ja": "サムライ魂"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 46,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-08-28",
-      "simklEpisodeId": "866304"
-    },
-    "47": {
-      "episode": "47",
-      "anidbEid": "3721",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-09-04",
-      "title": {
-        "en": "I Can`t Lose",
-        "romaji": "Makerarenai!",
-        "ja": "負けられない!"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 47,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-09-04",
-      "simklEpisodeId": "866305"
-    },
-    "48": {
-      "episode": "48",
-      "anidbEid": "3722",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-09-11",
-      "title": {
-        "en": "The Decisive Moment",
-        "romaji": "Kecchaku no Toki",
-        "ja": "決着の瞬間(とき)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 48,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-09-11",
-      "simklEpisodeId": "866306"
-    },
-    "49": {
-      "episode": "49",
-      "anidbEid": "4447",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-09-18",
-      "title": {
-        "en": "Free Style Fighting",
-        "romaji": "Ishu Kakutousen",
-        "ja": "異種格闘戦"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 49,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-09-18",
-      "simklEpisodeId": "866308"
-    },
-    "50": {
-      "episode": "50",
-      "anidbEid": "4448",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-09-25",
-      "title": {
-        "en": "A Seigaku Tradition",
-        "romaji": "Seigaku Meibutsu!",
-        "ja": "青学名物!"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 50,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-09-25",
-      "simklEpisodeId": "866309"
-    },
-    "51": {
-      "episode": "51",
-      "anidbEid": "4449",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-10-02",
-      "title": {
-        "en": "Inui`s Challenge",
-        "romaji": "Inui no Chousen",
-        "ja": "乾の挑戦"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 51,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-10-02",
-      "simklEpisodeId": "866310"
-    },
-    "52": {
-      "episode": "52",
-      "anidbEid": "4450",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-10-09",
-      "title": {
-        "en": "Seigaku`s Ultimate Crisis",
-        "romaji": "Seigaku Saidai no Kiki",
-        "ja": "青学最大の危機"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 52,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-10-09",
-      "simklEpisodeId": "866311"
-    },
-    "53": {
-      "episode": "53",
-      "anidbEid": "4587",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
-      "airdate": "2002-10-16",
-      "title": {
-        "en": "Momo Returns",
-        "romaji": "Kaette Kita Momo",
-        "ja": "帰ってきた桃"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 53,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-10-16",
-      "simklEpisodeId": "866312"
+      "airDate": "2002-10-16"
     },
     "54": {
       "episode": "54",
-      "anidbEid": "4620",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-10-23",
       "title": {
-        "en": "Kaoru`s Special Training",
-        "romaji": "Kaoru no Tokkun",
-        "ja": "薫の特訓"
+        "en": "Kaoru`s Special Training"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 54,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-10-23",
-      "simklEpisodeId": "866313"
+      "tvdbShowId": 73532,
+      "tvdbId": 117461,
+      "seasonNumber": 3,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 54,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117461/screencap/6296319ac3cc4.jpg",
+      "airDate": "2002-10-23"
     },
     "55": {
       "episode": "55",
-      "anidbEid": "5174",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-10-30",
       "title": {
-        "en": "Hyotei Approaches",
-        "romaji": "Semarikuru Hyoutei",
-        "ja": "迫り来る氷帝"
+        "en": "Hyotei Approaches"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 55,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-10-30",
-      "simklEpisodeId": "866314"
+      "tvdbShowId": 73532,
+      "tvdbId": 117462,
+      "seasonNumber": 3,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 55,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117462/screencap/629631bd537ea.jpg",
+      "airDate": "2002-10-30"
     },
     "56": {
       "episode": "56",
-      "anidbEid": "5482",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-11-06",
       "title": {
-        "en": "Three-Man Doubles",
-        "romaji": "Sannin no Doubles",
-        "ja": "3人のダブルス"
+        "en": "Three-Man Doubles"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 56,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-11-06",
-      "simklEpisodeId": "866315"
+      "tvdbShowId": 73532,
+      "tvdbId": 117463,
+      "seasonNumber": 3,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 56,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117463/screencap/629631e056e81.jpg",
+      "airDate": "2002-11-06"
     },
     "57": {
       "episode": "57",
-      "anidbEid": "5483",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-11-13",
       "title": {
-        "en": "Scud Serve",
-        "romaji": "Scud Serve",
-        "ja": "スカッドサーブ"
+        "en": "Scud Serve"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 57,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-11-13",
-      "simklEpisodeId": "866316"
+      "tvdbShowId": 73532,
+      "tvdbId": 117464,
+      "seasonNumber": 3,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 57,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117464/screencap/629633e8ef10e.jpg",
+      "airDate": "2002-11-13"
     },
     "58": {
       "episode": "58",
-      "anidbEid": "5484",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-11-20",
       "title": {
-        "en": "Totally Incompatible?!",
-        "romaji": "Saiaku no Aishou!?",
-        "ja": "最悪の相性!?"
+        "en": "Totally Incompatible?!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 58,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-11-20",
-      "simklEpisodeId": "866317"
+      "tvdbShowId": 73532,
+      "tvdbId": 117465,
+      "seasonNumber": 3,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 58,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117465/screencap/6296341168138.jpg",
+      "airDate": "2002-11-20"
     },
     "59": {
       "episode": "59",
-      "anidbEid": "5640",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-11-27",
       "title": {
-        "en": "Tireless Obsession",
-        "romaji": "Akunaki Kodawari",
-        "ja": "あくなきこだわり"
+        "en": "Tireless Obsession"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 59,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-11-27",
-      "simklEpisodeId": "866318"
+      "tvdbShowId": 73532,
+      "tvdbId": 117466,
+      "seasonNumber": 3,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 59,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117466/screencap/62963446677f3.jpg",
+      "airDate": "2002-11-27"
     },
     "60": {
       "episode": "60",
-      "anidbEid": "5749",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-12-04",
       "title": {
-        "en": "Power vs Power",
-        "romaji": "Power VS Power",
-        "ja": "パワーVSパワー"
+        "en": "Power vs Power"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 60,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-12-04",
-      "simklEpisodeId": "866319"
+      "tvdbShowId": 73532,
+      "tvdbId": 117467,
+      "seasonNumber": 3,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 60,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117467/screencap/6298e9587027e.jpg",
+      "airDate": "2002-12-05"
     },
     "61": {
       "episode": "61",
-      "anidbEid": "6063",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-12-11",
       "title": {
-        "en": "Hadokyu Battle!",
-        "romaji": "Hadoukyuu Kessen!",
-        "ja": "波動球合戦!"
+        "en": "Hadokyu Battle!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 61,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-12-11",
-      "simklEpisodeId": "866322"
+      "tvdbShowId": 73532,
+      "tvdbId": 117468,
+      "seasonNumber": 3,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 61,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117468/screencap/6298e97b92d49.jpg",
+      "airDate": "2002-12-11"
     },
     "62": {
       "episode": "62",
-      "anidbEid": "5869",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-12-18",
       "title": {
-        "en": "Vanishing Serve",
-        "romaji": "Kieru Serve",
-        "ja": "消えるサーブ"
+        "en": "Vanishing Serve"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 62,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-12-18",
-      "simklEpisodeId": "866320"
+      "tvdbShowId": 73532,
+      "tvdbId": 117469,
+      "seasonNumber": 3,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 62,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117469/screencap/62a3908e7e9c6.jpg",
+      "airDate": "2002-12-18"
     },
     "63": {
       "episode": "63",
-      "anidbEid": "6033",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2002-12-25",
       "title": {
-        "en": "The Last of the Triple Counters",
-        "romaji": "Saigo no Triple Counter",
-        "ja": "最後のトリプルカウンター"
+        "en": "The Last of the Triple Counters"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 63,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2002-12-25",
-      "simklEpisodeId": "866321"
+      "tvdbShowId": 73532,
+      "tvdbId": 117470,
+      "seasonNumber": 3,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 63,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117470/screencap/62a394f1a19c9.jpg",
+      "airDate": "2002-12-25"
     },
     "64": {
       "episode": "64",
-      "anidbEid": "6137",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-01-08",
       "title": {
-        "en": "Super Warriors Tenipuri 9 / Beware for Snow White?! / Leap Forth! Seigaku",
-        "romaji": "Chousenshi Tennipri 9 / Shirayukihime-chan ni Ki o Tsukete!? / Tobidase! Seigaku",
-        "ja": "超戦士テニプリ9 / 白雪姫ちゃんに気をつけて!? / 飛び出せ! 青学"
+        "en": "Super Warriors Tenipuri 9 / Beware for Snow White?! / Leap Forth! Seigaku"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 64,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2003-01-08",
-      "simklEpisodeId": "866323"
+      "tvdbShowId": 73532,
+      "tvdbId": 117471,
+      "seasonNumber": 3,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 64,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117471/screencap/62a398b5376ca.jpg",
+      "airDate": "2003-01-08"
     },
     "65": {
       "episode": "65",
-      "anidbEid": "6294",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-01-15",
       "title": {
-        "en": "Become Seigaku`s Pillar",
-        "romaji": "Seigaku no Hashira ni Nare",
-        "ja": "青学の柱になれ"
+        "en": "Become Seigaku`s Pillar"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 65,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2003-01-15",
-      "simklEpisodeId": "866324"
+      "tvdbShowId": 73532,
+      "tvdbId": 117472,
+      "seasonNumber": 3,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 65,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117472/screencap/62a39d0e1acca.jpg",
+      "airDate": "2003-01-15"
     },
     "66": {
       "episode": "66",
-      "anidbEid": "6387",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-01-22",
       "title": {
-        "en": "Rondo to Destruction",
-        "romaji": "Hametsu e no Rondo",
-        "ja": "破滅への輪舞曲"
+        "en": "Rondo to Destruction"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 66,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2003-01-22",
-      "simklEpisodeId": "866326"
+      "tvdbShowId": 73532,
+      "tvdbId": 117473,
+      "seasonNumber": 3,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 66,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117473/screencap/62a3a0964ad16.jpg",
+      "airDate": "2003-01-22"
     },
     "67": {
       "episode": "67",
-      "anidbEid": "6853",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-01-29",
       "title": {
-        "en": "The Final Shot",
-        "romaji": "Saigo no Ikkyuu",
-        "ja": "最後の一球"
+        "en": "The Final Shot"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 67,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2003-01-29",
-      "simklEpisodeId": "866327"
+      "tvdbShowId": 73532,
+      "tvdbId": 117474,
+      "seasonNumber": 3,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 67,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117474/screencap/62a3a2c54be79.jpg",
+      "airDate": "2003-01-29"
     },
     "68": {
       "episode": "68",
-      "anidbEid": "6892",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-02-05",
       "title": {
-        "en": "The Never Ending Tie-Break",
-        "romaji": "Owarinaki Tiebreak",
-        "ja": "終わりなきタイブレーク"
+        "en": "The Never Ending Tie-Break"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 68,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2003-02-05",
-      "simklEpisodeId": "866328"
+      "tvdbShowId": 73532,
+      "tvdbId": 117475,
+      "seasonNumber": 3,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 68,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117475/screencap/62a3a449b33c9.jpg",
+      "airDate": "2003-02-05"
     },
     "69": {
       "episode": "69",
-      "anidbEid": "6945",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-02-12",
       "title": {
-        "en": "Who Will Secure a Regular Position?",
-        "romaji": "Regular no Za wa Dare no Te ni?",
-        "ja": "レギュラーの座は誰の手に?"
+        "en": "Who Will Secure a Regular Position?"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 69,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2003-02-12",
-      "simklEpisodeId": "866329"
+      "tvdbShowId": 73532,
+      "tvdbId": 117476,
+      "seasonNumber": 3,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 69,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117476/screencap/62a3a566338e4.jpg",
+      "airDate": "2003-02-12"
     },
     "70": {
       "episode": "70",
-      "anidbEid": "6986",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-02-19",
       "title": {
-        "en": "Tennis vs Ping Pong",
-        "romaji": "Tennis VS Ping Pong",
-        "ja": "テニスVSピンポン"
+        "en": "Tennis vs Ping Pong"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 70,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2003-02-19",
-      "simklEpisodeId": "866330"
+      "tvdbShowId": 73532,
+      "tvdbId": 117477,
+      "seasonNumber": 3,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 70,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/117477/screencap/62a60ee176042.jpg",
+      "airDate": "2003-02-19"
     },
     "71": {
       "episode": "71",
-      "anidbEid": "7174",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-02-26",
       "title": {
-        "en": "It`s a Date!",
-        "romaji": "Date Da!",
-        "ja": "デートだ!"
+        "en": "It`s a Date!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 71,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117478,
+      "seasonNumber": 3,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 71,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-02-26",
-      "simklEpisodeId": "866331"
+      "airDate": "2003-02-26"
     },
     "72": {
       "episode": "72",
-      "anidbEid": "7509",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-03-05",
       "title": {
-        "en": "Kaoru Becomes Ryoma",
-        "romaji": "Kaoru, Ryouma ni Naru",
-        "ja": "薫, リョーマになる"
+        "en": "Kaoru Becomes Ryoma"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 72,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117479,
+      "seasonNumber": 3,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 72,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-03-05",
-      "simklEpisodeId": "866332"
+      "airDate": "2003-03-05"
     },
     "73": {
       "episode": "73",
-      "anidbEid": "7759",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-03-12",
       "title": {
-        "en": "Tezuka`s Resolve",
-        "romaji": "Tezuka no Ketsui",
-        "ja": "手塚の決意"
+        "en": "Tezuka`s Resolve"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 73,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117480,
+      "seasonNumber": 3,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 73,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-03-12",
-      "simklEpisodeId": "866333"
+      "airDate": "2003-03-12"
     },
     "74": {
       "episode": "74",
-      "anidbEid": "7760",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-03-19",
       "title": {
-        "en": "A Message to Echizen",
-        "romaji": "Echizen e no Message",
-        "ja": "越前へのメッセージ"
+        "en": "A Message to Echizen"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 74,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117481,
+      "seasonNumber": 3,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 74,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-03-19",
-      "simklEpisodeId": "866334"
+      "airDate": "2003-03-19"
     },
     "75": {
       "episode": "75",
-      "anidbEid": "8245",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-03-26",
       "title": {
-        "en": "Farewell, Kunimitsu Tezuka",
-        "romaji": "Saraba, Tezuka Kunimitsu",
-        "ja": "さらば, 手塚国光"
+        "en": "Farewell, Kunimitsu Tezuka"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 75,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117482,
+      "seasonNumber": 3,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 75,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-03-26",
-      "simklEpisodeId": "866335"
+      "airDate": "2003-03-26"
     },
     "76": {
       "episode": "76",
-      "anidbEid": "8777",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-04-09",
       "title": {
-        "en": "Seigaku vs. Jyousei Shounan",
-        "romaji": "Seigaku Tai Jousei Shounan",
-        "ja": "青学対城成湘南"
+        "en": "Seigaku vs. Jyousei Shounan"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 76,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117483,
+      "seasonNumber": 4,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 76,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-04-09",
-      "simklEpisodeId": "866336"
+      "airDate": "2003-04-09"
     },
     "77": {
       "episode": "77",
-      "anidbEid": "9191",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-04-16",
       "title": {
-        "en": "The Fight Between the Calm and the Passionate",
-        "romaji": "Reisei to Jounetsu no Tatakai",
-        "ja": "冷静と情熱の戦い"
+        "en": "The Fight Between the Calm and the Passionate"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 77,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117484,
+      "seasonNumber": 4,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 77,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-04-16",
-      "simklEpisodeId": "866337"
+      "airDate": "2003-04-16"
     },
     "78": {
       "episode": "78",
-      "anidbEid": "9480",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-04-23",
       "title": {
-        "en": "Thunderbolt",
-        "romaji": "Thunderbolt",
-        "ja": "サンダーボルト"
+        "en": "Thunderbolt"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 78,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117485,
+      "seasonNumber": 4,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 78,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-04-23",
-      "simklEpisodeId": "866338"
+      "airDate": "2003-04-23"
     },
     "79": {
       "episode": "79",
-      "anidbEid": "9680",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-04-30",
       "title": {
-        "en": "I Formation",
-        "romaji": "I Formation",
-        "ja": "I(アイ)フォーメーション"
+        "en": "I Formation"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 79,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117486,
+      "seasonNumber": 4,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 79,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-04-30",
-      "simklEpisodeId": "866340"
+      "airDate": "2003-04-30"
     },
     "80": {
       "episode": "80",
-      "anidbEid": "9681",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-05-07",
       "title": {
-        "en": "Style of the Pretender",
-        "romaji": "Pretender Senbou",
-        "ja": "プリテンダー戦法"
+        "en": "Style of the Pretender"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 80,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117487,
+      "seasonNumber": 4,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 80,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-05-07",
-      "simklEpisodeId": "866341"
+      "airDate": "2003-05-07"
     },
     "81": {
       "episode": "81",
-      "anidbEid": "9729",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-05-14",
       "title": {
-        "en": "Viper vs. Fake Viper",
-        "romaji": "Mamushi VS Nise Mamushi",
-        "ja": "マムシVSニセマムシ"
+        "en": "Viper vs. Fake Viper"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 81,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117488,
+      "seasonNumber": 4,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 81,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-05-14",
-      "simklEpisodeId": "866346"
+      "airDate": "2003-05-14"
     },
     "82": {
       "episode": "82",
-      "anidbEid": "9778",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-05-21",
       "title": {
-        "en": "Hanamura`s Temptation",
-        "romaji": "Hanamura no Yuuwaku",
-        "ja": "華村の誘惑"
+        "en": "Hanamura`s Temptation"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 82,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117489,
+      "seasonNumber": 4,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 82,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-05-21",
-      "simklEpisodeId": "866352"
+      "airDate": "2003-05-21"
     },
     "83": {
       "episode": "83",
-      "anidbEid": "9774",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-05-28",
       "title": {
-        "en": "The Best Masterpiece",
-        "romaji": "Saikou no Sakuhin",
-        "ja": "最高の作品"
+        "en": "The Best Masterpiece"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 83,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117490,
+      "seasonNumber": 4,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 83,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-05-28",
-      "simklEpisodeId": "866351"
+      "airDate": "2003-05-28"
     },
     "84": {
       "episode": "84",
-      "anidbEid": "9732",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-06-04",
       "title": {
-        "en": "Deep Impulse",
-        "romaji": "Deep Impulse",
-        "ja": "ディープ・インパルス"
+        "en": "Deep Impulse"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 84,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117491,
+      "seasonNumber": 4,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 84,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-06-04",
-      "simklEpisodeId": "866349"
+      "airDate": "2003-06-04"
     },
     "85": {
       "episode": "85",
-      "anidbEid": "9730",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-06-11",
       "title": {
-        "en": "The Result of the Deadly Duel",
-        "romaji": "Shitou no Hate",
-        "ja": "死闘の果て"
+        "en": "The Result of the Deadly Duel"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 85,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117492,
+      "seasonNumber": 4,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 85,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-06-11",
-      "simklEpisodeId": "866347"
+      "airDate": "2003-06-11"
     },
     "86": {
       "episode": "86",
-      "anidbEid": "9731",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-06-18",
       "title": {
-        "en": "High on Rhythm",
-        "romaji": "Rhythm ni High!",
-        "ja": "リズムにHigh!"
+        "en": "High on Rhythm"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 86,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117493,
+      "seasonNumber": 4,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 86,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-06-18",
-      "simklEpisodeId": "866348"
+      "airDate": "2003-06-18"
     },
     "87": {
       "episode": "87",
-      "anidbEid": "9733",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-06-25",
       "title": {
-        "en": "Tennis Folktale / The Prince of Bowling / Prince Detective!? (Part One)",
-        "romaji": "Tennis Mukashibanashi / Bowling no Ouji-sama / Dekapri!?",
-        "ja": "テニス昔話 / ボウリングの王子様 / 刑事[デカ]プリ!?"
+        "en": "Tennis Folktale / The Prince of Bowling / Prince Detective!? (Part One)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 87,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117494,
+      "seasonNumber": 4,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 87,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-06-25",
-      "simklEpisodeId": "866350"
+      "airDate": "2003-06-25"
     },
     "88": {
       "episode": "88",
-      "anidbEid": "23718",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-06-25",
       "title": {
-        "en": "Tennis Folktale / The Prince of Bowling / Prince Detective!? (Part Two)",
-        "romaji": "Tennis Mukashibanashi / Bowling no Ouji-sama / Dekapri!?",
-        "ja": "テニス昔話 / ボウリングの王子様 / 刑事[デカ]プリ!?"
+        "en": "Tennis Folktale / The Prince of Bowling / Prince Detective!? (Part Two)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 88,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117495,
+      "seasonNumber": 4,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 88,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-06-25",
-      "simklEpisodeId": "866407"
+      "airDate": "2003-06-25"
     },
     "89": {
       "episode": "89",
-      "anidbEid": "9861",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-07-02",
       "title": {
-        "en": "Seigaku, DaDaDaDan!",
-        "romaji": "Seigaku, DaDaDaDan",
-        "ja": "青学, ダダダ壇"
+        "en": "Seigaku, DaDaDaDan!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 89,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117496,
+      "seasonNumber": 4,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 89,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-07-02",
-      "simklEpisodeId": "866353"
+      "airDate": "2003-07-09"
     },
     "90": {
       "episode": "90",
-      "anidbEid": "9710",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-07-09",
       "title": {
-        "en": "Cheap Housing Beach Volleyball",
-        "romaji": "Bousou Beach Volley",
-        "ja": "房総ビーチバレー"
+        "en": "Cheap Housing Beach Volleyball"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 90,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117497,
+      "seasonNumber": 4,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 90,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-07-09",
-      "simklEpisodeId": "866345"
+      "airDate": "2003-07-16"
     },
     "91": {
       "episode": "91",
-      "anidbEid": "9707",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-07-16",
       "title": {
-        "en": "Rokkaku`s Freshman Captain",
-        "romaji": "Rokkaku Chuu no Ichinensei Buchou",
-        "ja": "六角中の一年生部長"
+        "en": "Rokkaku`s Freshman Captain"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 91,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117498,
+      "seasonNumber": 4,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 91,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-07-16",
-      "simklEpisodeId": "866344"
+      "airDate": "2003-07-23"
     },
     "92": {
       "episode": "92",
-      "anidbEid": "9705",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-07-23",
       "title": {
-        "en": "The Boy with the Long Racket",
-        "romaji": "Naga Racquet no Otoko",
-        "ja": "長ラケットの男"
+        "en": "The Boy with the Long Racket"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 92,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117499,
+      "seasonNumber": 4,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 92,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-07-23",
-      "simklEpisodeId": "866342"
+      "airDate": "2003-07-30"
     },
     "93": {
       "episode": "93",
-      "anidbEid": "9706",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-07-30",
       "title": {
-        "en": "Dash Hadoukyuu",
-        "romaji": "Dash Hadoukyuu",
-        "ja": "ダッシュ波動球"
+        "en": "Dash Hadoukyuu"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 93,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117500,
+      "seasonNumber": 4,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 93,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-07-30",
-      "simklEpisodeId": "866343"
+      "airDate": "2003-08-06"
     },
     "94": {
       "episode": "94",
-      "anidbEid": "10062",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-08-06",
       "title": {
-        "en": "The Secret Plan to Seal Kikumaru",
-        "romaji": "Kikumaru Fuuji no Hisaku",
-        "ja": "菊丸封じの秘策"
+        "en": "The Secret Plan to Seal Kikumaru"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 94,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117501,
+      "seasonNumber": 4,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 94,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-08-06",
-      "simklEpisodeId": "866354"
+      "airDate": "2003-08-13"
     },
     "95": {
       "episode": "95",
-      "anidbEid": "10287",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-08-13",
       "title": {
-        "en": "Tsubame Gaeshi, Broken",
-        "romaji": "Tsubamegaeshi, Yaburetari!",
-        "ja": "つばめ返し, 破れたり!"
+        "en": "Tsubame Gaeshi, Broken"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 95,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117502,
+      "seasonNumber": 4,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 95,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-08-13",
-      "simklEpisodeId": "866355"
+      "airDate": "2003-08-20"
     },
     "96": {
       "episode": "96",
-      "anidbEid": "10288",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-08-20",
       "title": {
-        "en": "Ryoma, Get Pumped!",
-        "romaji": "Moero Ryouma!",
-        "ja": "燃えろリョーマ!"
+        "en": "Ryoma, Get Pumped!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 96,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117503,
+      "seasonNumber": 4,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 96,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-08-20",
-      "simklEpisodeId": "866356"
+      "airDate": "2003-08-27"
     },
     "97": {
       "episode": "97",
-      "anidbEid": "10530",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-08-27",
       "title": {
-        "en": "Finishing Smash",
-        "romaji": "Kecchaku no Smash",
-        "ja": "決着のスマッシュ"
+        "en": "Finishing Smash"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 97,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117504,
+      "seasonNumber": 4,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 97,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-08-27",
-      "simklEpisodeId": "866357"
+      "airDate": "2003-09-03"
     },
     "98": {
       "episode": "98",
-      "anidbEid": "10630",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-09-03",
       "title": {
-        "en": "The Prince of Billiards",
-        "romaji": "Billiard no Ouji-sama",
-        "ja": "ビリヤードの王子様"
+        "en": "The Prince of Billiards"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 98,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117505,
+      "seasonNumber": 4,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 98,
+      "runtime": 25,
       "image": null,
-      "airDate": "2003-09-03",
-      "simklEpisodeId": "866358"
+      "airDate": "2003-09-10"
     },
     "99": {
       "episode": "99",
-      "anidbEid": "10865",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "2003-09-10",
       "title": {
-        "en": "The Cursed Racket",
-        "romaji": "Noroi no Racket",
-        "ja": "呪いのラケット"
+        "en": "The Cursed Racket"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 99,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2003-09-10",
-      "simklEpisodeId": "866359"
-    },
-    "100": {
-      "episode": "100",
-      "anidbEid": "14063",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2003-09-17",
-      "title": {
-        "en": "Captain Oishi",
-        "romaji": "Captain Ooishi",
-        "ja": "キャプテン大石"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 100,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117506,
+      "seasonNumber": 4,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 99,
+      "runtime": 25,
       "image": null,
       "airDate": "2003-09-17"
     },
-    "101": {
-      "episode": "101",
-      "anidbEid": "12476",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2003-09-24",
+    "100": {
+      "episode": "100",
+      "length": "25m",
+      "airdate": "2003-09-17",
       "title": {
-        "en": "Eat Rikkaidai",
-        "romaji": "Rikkaidai o Kue!",
-        "ja": "立海大を食え!"
+        "en": "Captain Oishi"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 101,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117507,
+      "seasonNumber": 4,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 100,
+      "runtime": 25,
       "image": null,
       "airDate": "2003-09-24"
     },
-    "102": {
-      "episode": "102",
-      "anidbEid": "14387",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2003-10-01",
+    "101": {
+      "episode": "101",
+      "length": "25m",
+      "airdate": "2003-09-24",
       "title": {
-        "en": "Mizuki`s Whispers",
-        "romaji": "Mizuki no Sasayaki",
-        "ja": "観月のささやき"
+        "en": "Eat Rikkaidai"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 102,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117508,
+      "seasonNumber": 4,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 101,
+      "runtime": 25,
       "image": null,
       "airDate": "2003-10-01"
     },
-    "103": {
-      "episode": "103",
-      "anidbEid": "14708",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2003-10-08",
+    "102": {
+      "episode": "102",
+      "length": "25m",
+      "airdate": "2003-10-01",
       "title": {
-        "en": "Sleepless Night",
-        "romaji": "Nemurenai Yoru",
-        "ja": "眠れない夜"
+        "en": "Mizuki`s Whispers"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 103,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117509,
+      "seasonNumber": 5,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 102,
+      "runtime": 25,
       "image": null,
       "airDate": "2003-10-08"
     },
-    "104": {
-      "episode": "104",
-      "anidbEid": "14929",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2003-10-15",
+    "103": {
+      "episode": "103",
+      "length": "25m",
+      "airdate": "2003-10-08",
       "title": {
-        "en": "Ryoma vs Sanada",
-        "romaji": "Ryouma vs Sanada",
-        "ja": "リョーマVS真田"
+        "en": "Sleepless Night"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 104,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117510,
+      "seasonNumber": 5,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 103,
+      "runtime": 25,
       "image": null,
       "airDate": "2003-10-15"
     },
-    "105": {
-      "episode": "105",
-      "anidbEid": "14928",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2003-10-22",
+    "104": {
+      "episode": "104",
+      "length": "25m",
+      "airdate": "2003-10-15",
       "title": {
-        "en": "Ryoma Utterly Beaten",
-        "romaji": "Ryouma Zanpai",
-        "ja": "リョーマ惨敗"
+        "en": "Ryoma vs Sanada"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 105,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117511,
+      "seasonNumber": 5,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 104,
+      "runtime": 25,
       "image": null,
       "airDate": "2003-10-22"
     },
-    "106": {
-      "episode": "106",
-      "anidbEid": "15171",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2003-10-29",
+    "105": {
+      "episode": "105",
+      "length": "25m",
+      "airdate": "2003-10-22",
       "title": {
-        "en": "Off to the Cottage",
-        "romaji": "Gasshuku ni Ikou!",
-        "ja": "合宿に行こう!"
+        "en": "Ryoma Utterly Beaten"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 106,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117512,
+      "seasonNumber": 5,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 105,
+      "runtime": 25,
       "image": null,
       "airDate": "2003-10-29"
     },
-    "107": {
-      "episode": "107",
-      "anidbEid": "15620",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2003-11-05",
+    "106": {
+      "episode": "106",
+      "length": "25m",
+      "airdate": "2003-10-29",
       "title": {
-        "en": "Captain Appears!?",
-        "romaji": "Buchou Arawaru!?",
-        "ja": "部長あらわる!?"
+        "en": "Off to the Cottage"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 107,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117513,
+      "seasonNumber": 5,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 106,
+      "runtime": 25,
       "image": null,
       "airDate": "2003-11-05"
     },
-    "108": {
-      "episode": "108",
-      "anidbEid": "15668",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2003-11-12",
+    "107": {
+      "episode": "107",
+      "length": "25m",
+      "airdate": "2003-11-05",
       "title": {
-        "en": "Surprise at the Camp",
-        "romaji": "Gasshuku de Dokkiri!",
-        "ja": "合宿でドッキリ!"
+        "en": "Captain Appears!?"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 108,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117514,
+      "seasonNumber": 5,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 107,
+      "runtime": 25,
       "image": null,
       "airDate": "2003-11-12"
     },
-    "109": {
-      "episode": "109",
-      "anidbEid": "15670",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2003-11-19",
+    "108": {
+      "episode": "108",
+      "length": "25m",
+      "airdate": "2003-11-12",
       "title": {
-        "en": "Tennis Biathlon",
-        "romaji": "Tennis Biathlon",
-        "ja": "テニス・バイアスロン"
+        "en": "Surprise at the Camp"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 109,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117515,
+      "seasonNumber": 5,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 108,
+      "runtime": 25,
       "image": null,
       "airDate": "2003-11-19"
     },
-    "110": {
-      "episode": "110",
-      "anidbEid": "15778",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2003-11-26",
+    "109": {
+      "episode": "109",
+      "length": "25m",
+      "airdate": "2003-11-19",
       "title": {
-        "en": "Jump, Kabaji!",
-        "romaji": "Tobe! Kabaji",
-        "ja": "翔べ! 樺地"
+        "en": "Tennis Biathlon"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 110,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117516,
+      "seasonNumber": 5,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 109,
+      "runtime": 25,
       "image": null,
       "airDate": "2003-11-26"
     },
-    "111": {
-      "episode": "111",
-      "anidbEid": "15952",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2003-12-03",
+    "110": {
+      "episode": "110",
+      "length": "25m",
+      "airdate": "2003-11-26",
       "title": {
-        "en": "Original Prodigy, Syuusuke Fuji",
-        "romaji": "Ganso Tensai, Fuji Shuusuke",
-        "ja": "元祖天才・不二周助"
+        "en": "Jump, Kabaji!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 111,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117517,
+      "seasonNumber": 5,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 110,
+      "runtime": 25,
       "image": null,
       "airDate": "2003-12-03"
     },
-    "112": {
-      "episode": "112",
-      "anidbEid": "16183",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2003-12-10",
+    "111": {
+      "episode": "111",
+      "length": "25m",
+      "airdate": "2003-12-03",
       "title": {
-        "en": "Hadoukyuu vs. Scud Serve",
-        "romaji": "Hadoukyuu VS Scud Serve",
-        "ja": "波動球VSスカッドサーブ"
+        "en": "Original Prodigy, Syuusuke Fuji"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 112,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117518,
+      "seasonNumber": 5,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 111,
+      "runtime": 25,
       "image": null,
       "airDate": "2003-12-10"
     },
-    "113": {
-      "episode": "113",
-      "anidbEid": "16218",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2003-12-17",
+    "112": {
+      "episode": "112",
+      "length": "25m",
+      "airdate": "2003-12-10",
       "title": {
-        "en": "Atobe the Beautiful",
-        "romaji": "Uruwashi no Atobe",
-        "ja": "麗しの跡部"
+        "en": "Hadoukyuu vs. Scud Serve"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 113,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117519,
+      "seasonNumber": 5,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 112,
+      "runtime": 25,
       "image": null,
       "airDate": "2003-12-17"
     },
-    "114": {
-      "episode": "114",
-      "anidbEid": "16308",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2003-12-24",
+    "113": {
+      "episode": "113",
+      "length": "25m",
+      "airdate": "2003-12-17",
       "title": {
-        "en": "Ryoma Is Going",
-        "romaji": "Ryouma ga Yuku!",
-        "ja": "リョーマがゆく!"
+        "en": "Atobe the Beautiful"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 114,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117520,
+      "seasonNumber": 5,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 113,
+      "runtime": 25,
       "image": null,
       "airDate": "2003-12-24"
     },
+    "114": {
+      "episode": "114",
+      "length": "25m",
+      "airdate": "2003-12-24",
+      "title": {
+        "en": "Ryoma Is Going"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117521,
+      "seasonNumber": 5,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 114,
+      "runtime": 25,
+      "image": null,
+      "airDate": "2003-12-31"
+    },
     "115": {
       "episode": "115",
-      "anidbEid": "16835",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-01-07",
       "title": {
-        "en": "Baseball Game Filled with Men / Prince of Wilderness",
-        "romaji": "Otokodarake no Yakyuu Taikai / Kouya no Ouji-sama",
-        "ja": "男だらけの野球大会 / 荒野の王子様"
+        "en": "Baseball Game Filled with Men / Prince of Wilderness"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 115,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117522,
+      "seasonNumber": 5,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 115,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-01-07"
     },
     "116": {
       "episode": "116",
-      "anidbEid": "16866",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-01-21",
       "title": {
-        "en": "Seigaku vs Champion Rikkaidai. I`m Going to Win!! (Part One)",
-        "romaji": "Seigaku vs Ouja Rikkaidai: Katsu no wa Ore Da!!",
-        "ja": "青学VS王者立海大 勝つのは俺だ!!"
+        "en": "Seigaku vs Champion Rikkaidai. I`m Going to Win!! (Part One)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 116,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117523,
+      "seasonNumber": 5,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 116,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-01-21"
     },
     "117": {
       "episode": "117",
-      "anidbEid": "23719",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-01-21",
       "title": {
-        "en": "Seigaku vs Champion Rikkaidai. I`m Going to Win!! (Part Two)",
-        "romaji": "Seigaku vs Ouja Rikkaidai: Katsu no wa Ore Da!!",
-        "ja": "青学VS王者立海大 勝つのは俺だ!!"
+        "en": "Seigaku vs Champion Rikkaidai. I`m Going to Win!! (Part Two)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 117,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117524,
+      "seasonNumber": 5,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 117,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-01-21"
     },
     "118": {
       "episode": "118",
-      "anidbEid": "19964",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-01-28",
       "title": {
-        "en": "Battle Ceremony",
-        "romaji": "Tatakai no Gishiki",
-        "ja": "戦いの儀式"
+        "en": "Battle Ceremony"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 118,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117525,
+      "seasonNumber": 5,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 118,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-01-28"
     },
     "119": {
       "episode": "119",
-      "anidbEid": "20087",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-02-04",
       "title": {
-        "en": "Tight-Rope Walking Doubles",
-        "romaji": "Tsunawatari no Doubles",
-        "ja": "綱渡りのダブルス"
+        "en": "Tight-Rope Walking Doubles"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 119,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117526,
+      "seasonNumber": 5,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 119,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-02-04"
     },
     "120": {
       "episode": "120",
-      "anidbEid": "21157",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-02-11",
       "title": {
-        "en": "Kikumaru Was Read by Niou",
-        "romaji": "Niou ni Minukareta Kikumaru",
-        "ja": "仁王に見抜かれた菊丸"
+        "en": "Kikumaru Was Read by Niou"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 120,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117527,
+      "seasonNumber": 5,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 120,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-02-11"
     },
     "121": {
       "episode": "121",
-      "anidbEid": "21115",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-02-18",
       "title": {
-        "en": "Yagyuu`s Decision",
-        "romaji": "Yagyuu no Ketsudan",
-        "ja": "柳生の決断"
+        "en": "Yagyuu`s Decision"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 121,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117528,
+      "seasonNumber": 5,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 121,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-02-18"
     },
     "122": {
       "episode": "122",
-      "anidbEid": "21036",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-02-25",
       "title": {
-        "en": "Inui Hollers",
-        "romaji": "Inui, Hoeru!!",
-        "ja": "乾, 吠える!!"
+        "en": "Inui Hollers"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 122,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117529,
+      "seasonNumber": 5,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 122,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-02-25"
     },
     "123": {
       "episode": "123",
-      "anidbEid": "21170",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-03-03",
       "title": {
-        "en": "Conclusion of the Remembered",
-        "romaji": "Omoide no Kecchaku",
-        "ja": "思い出の決着"
+        "en": "Conclusion of the Remembered"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 123,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117530,
+      "seasonNumber": 5,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 123,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-03-03"
     },
     "124": {
       "episode": "124",
-      "anidbEid": "21148",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-03-10",
       "title": {
-        "en": "Kirihara`s Red Trap",
-        "romaji": "Kirihara no Akai Wana",
-        "ja": "切原の赤い罠"
+        "en": "Kirihara`s Red Trap"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 124,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117531,
+      "seasonNumber": 5,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 124,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-03-10"
     },
     "125": {
       "episode": "125",
-      "anidbEid": "21169",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-03-17",
       "title": {
-        "en": "Angry Fuji",
-        "romaji": "Ikari no Fuji",
-        "ja": "怒りの不二"
+        "en": "Angry Fuji"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 125,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117532,
+      "seasonNumber": 5,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 125,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-03-17"
     },
     "126": {
       "episode": "126",
-      "anidbEid": "21046",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-03-24",
       "title": {
-        "en": "Clash! Ryoma vs Sanada",
-        "romaji": "Gekitotsu! Ryouma vs Sanada",
-        "ja": "激突! リョーマVS真田"
+        "en": "Clash! Ryoma vs Sanada"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 126,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117533,
+      "seasonNumber": 5,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 126,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-03-24"
     },
     "127": {
       "episode": "127",
-      "anidbEid": "21037",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-03-31",
       "title": {
-        "en": "Ultimate! Invisible Serve",
-        "romaji": "Ougi! Mienai Serve",
-        "ja": "奥義! 見えないサーブ"
+        "en": "Ultimate! Invisible Serve"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 127,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117534,
+      "seasonNumber": 5,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 127,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-03-31"
     },
     "128": {
       "episode": "128",
-      "anidbEid": "21024",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-04-07",
       "title": {
-        "en": "The Conclusion, Which One Will Win?",
-        "romaji": "Kecchaku! Katsu no wa Docchi Da",
-        "ja": "決着! 勝つのはどっちだ"
+        "en": "The Conclusion, Which One Will Win?"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 128,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117535,
+      "seasonNumber": 5,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 128,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-04-07"
     },
     "129": {
       "episode": "129",
-      "anidbEid": "21043",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-04-14",
       "title": {
-        "en": "The Samurai`s Ballad",
-        "romaji": "Samurai no Uta",
-        "ja": "サムライの詩(うた)"
+        "en": "The Samurai`s Ballad"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 129,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117536,
+      "seasonNumber": 6,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 129,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-04-14"
     },
     "130": {
       "episode": "130",
-      "anidbEid": "21056",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-04-21",
       "title": {
-        "en": "We Want to See Tezuka",
-        "romaji": "Tezuka ni Aitai",
-        "ja": "手塚に会いたい"
+        "en": "We Want to See Tezuka"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 130,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117537,
+      "seasonNumber": 6,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 130,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-04-21"
     },
     "131": {
       "episode": "131",
-      "anidbEid": "21041",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-04-28",
       "title": {
-        "en": "Never Give Up",
-        "romaji": "Never Give Up",
-        "ja": "ネバーギブアップ"
+        "en": "Never Give Up"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 131,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117538,
+      "seasonNumber": 6,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 131,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-04-28"
     },
     "132": {
       "episode": "132",
-      "anidbEid": "20932",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-05-05",
       "title": {
-        "en": "The Zany Teni-Puri Family",
-        "romaji": "Yukai na Tennipri Ikka / Zoku Yukai na Tennipri Ikka",
-        "ja": "ゆかいなテニプリ一家 / 続・ゆかいなテニプリ一家"
+        "en": "The Zany Teni-Puri Family"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 132,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117539,
+      "seasonNumber": 6,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 132,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-05-05"
     },
     "133": {
       "episode": "133",
-      "anidbEid": "20840",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-05-12",
       "title": {
-        "en": "The Best Sushi Chef in Japan",
-        "romaji": "Nippon`ichi no Sushiya",
-        "ja": "日本一の寿司屋"
+        "en": "The Best Sushi Chef in Japan"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 133,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117540,
+      "seasonNumber": 6,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 133,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-05-12"
     },
     "134": {
       "episode": "134",
-      "anidbEid": "20796",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-05-19",
       "title": {
-        "en": "My Prince",
-        "romaji": "Watashi no Ouji-sama",
-        "ja": "わたしの王子様"
+        "en": "My Prince"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 134,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117541,
+      "seasonNumber": 6,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 134,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-05-19"
     },
     "135": {
       "episode": "135",
-      "anidbEid": "20797",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-05-26",
       "title": {
-        "en": "Kikumaru`s Summer Vacation",
-        "romaji": "Kikumaru no Natsuyasumi",
-        "ja": "菊丸の夏休み"
+        "en": "Kikumaru`s Summer Vacation"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 135,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117542,
+      "seasonNumber": 6,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 135,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-05-26"
     },
     "136": {
       "episode": "136",
-      "anidbEid": "20795",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-06-02",
       "title": {
-        "en": "Junior Invitational, Assembles",
-        "romaji": "Junior Senpatsu, Atsumaru",
-        "ja": "ジュニア選抜, 集まる"
+        "en": "Junior Invitational, Assembles"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 136,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117543,
+      "seasonNumber": 6,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 136,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-06-02"
     },
     "137": {
       "episode": "137",
-      "anidbEid": "20798",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-06-09",
       "title": {
-        "en": "The Suspicious Member",
-        "romaji": "Utagawareta Nakama",
-        "ja": "疑われた仲間"
+        "en": "The Suspicious Member"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 137,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117544,
+      "seasonNumber": 6,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 137,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-06-09"
     },
     "138": {
       "episode": "138",
-      "anidbEid": "20799",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-06-17",
       "title": {
-        "en": "Ryoma vs Kirihara! Beyond Battle Rage",
-        "romaji": "Ryouma Tai Kirihara Gekitou o Koete",
-        "ja": "リョーマVS切原! 激闘を超えて"
+        "en": "Ryoma vs Kirihara! Beyond Battle Rage"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 138,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117545,
+      "seasonNumber": 6,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 138,
+      "runtime": 25,
       "image": null,
-      "airDate": "2004-06-17"
+      "airDate": "2004-06-16"
     },
     "139": {
       "episode": "139",
-      "anidbEid": "21194",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-06-23",
       "title": {
-        "en": "Sengoku Kiyosumi, Reborn!",
-        "romaji": "Shinsei Sengoku Kiyosumi",
-        "ja": "新生・千石清純"
+        "en": "Sengoku Kiyosumi, Reborn!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 139,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117546,
+      "seasonNumber": 6,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 139,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-06-23"
     },
     "140": {
       "episode": "140",
-      "anidbEid": "21391",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-06-30",
       "title": {
-        "en": "Welcome Back, Tezuka Kunimitsu",
-        "romaji": "Okaeri Tezuka Kunimitsu",
-        "ja": "おかえり, 手塚国光"
+        "en": "Welcome Back, Tezuka Kunimitsu"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 140,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117547,
+      "seasonNumber": 6,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 140,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-06-30"
     },
     "141": {
       "episode": "141",
-      "anidbEid": "26616",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-06-30",
       "title": {
-        "en": "Atobe vs. Sanada: The Ultimate Showdown!",
-        "romaji": "Atobe-Sanada: Choujou Taiketsu!",
-        "ja": "跡部×真田 頂上対決!"
+        "en": "Atobe vs. Sanada: The Ultimate Showdown!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 141,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2004-06-30"
-    },
-    "142": {
-      "episode": "142",
-      "anidbEid": "21729",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2004-07-07",
-      "title": {
-        "en": "The Boy Who Came from America",
-        "romaji": "America kara Kita Shounen",
-        "ja": "アメリカから来た少年"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 142,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117548,
+      "seasonNumber": 6,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 141,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-07-07"
     },
-    "143": {
-      "episode": "143",
-      "anidbEid": "22508",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2004-07-14",
+    "142": {
+      "episode": "142",
+      "length": "25m",
+      "airdate": "2004-07-07",
       "title": {
-        "en": "Tezuka`s Choice",
-        "romaji": "Tezuka no Sentaku",
-        "ja": "手塚の選択"
+        "en": "The Boy Who Came from America"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 143,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117549,
+      "seasonNumber": 6,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 142,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-07-14"
     },
-    "144": {
-      "episode": "144",
-      "anidbEid": "22507",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2004-07-21",
+    "143": {
+      "episode": "143",
+      "length": "25m",
+      "airdate": "2004-07-14",
       "title": {
-        "en": "The Dream Team Is Formed!",
-        "romaji": "Kessei! Dream Team",
-        "ja": "結成! ドリームチーム"
+        "en": "Tezuka`s Choice"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 144,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117550,
+      "seasonNumber": 6,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 143,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-07-21"
     },
-    "145": {
-      "episode": "145",
-      "anidbEid": "22807",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2004-07-28",
+    "144": {
+      "episode": "144",
+      "length": "25m",
+      "airdate": "2004-07-21",
       "title": {
-        "en": "Ryoma and Kevin",
-        "romaji": "Ryouma to Kevin",
-        "ja": "リョーマとケビン"
+        "en": "The Dream Team Is Formed!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 145,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117551,
+      "seasonNumber": 6,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 144,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-07-28"
     },
-    "146": {
-      "episode": "146",
-      "anidbEid": "24269",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
-      "airdate": "2004-08-04",
+    "145": {
+      "episode": "145",
+      "length": "25m",
+      "airdate": "2004-07-28",
       "title": {
-        "en": "The American Team`s Ambitions",
-        "romaji": "America Team no Yabou",
-        "ja": "アメリカチームの野望"
+        "en": "Ryoma and Kevin"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 146,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117552,
+      "seasonNumber": 6,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 145,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-08-04"
     },
+    "146": {
+      "episode": "146",
+      "length": "25m",
+      "airdate": "2004-08-04",
+      "title": {
+        "en": "The American Team`s Ambitions"
+      },
+      "tvdbShowId": 73532,
+      "tvdbId": 117553,
+      "seasonNumber": 6,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 146,
+      "runtime": 25,
+      "image": null,
+      "airDate": "2004-08-11"
+    },
     "147": {
       "episode": "147",
-      "anidbEid": "23542",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-08-18",
       "title": {
-        "en": "The Strongest! Atobe & Sanada",
-        "romaji": "Saikyou! Atobe & Sanada",
-        "ja": "最強! 跡部&真田"
+        "en": "The Strongest! Atobe & Sanada"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 147,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117554,
+      "seasonNumber": 6,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 147,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-08-18"
     },
     "148": {
       "episode": "148",
-      "anidbEid": "23670",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-08-25",
       "title": {
-        "en": "Baker`s Scenario",
-        "romaji": "Baker no Scenario",
-        "ja": "ベイカーのシナリオ"
+        "en": "Baker`s Scenario"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 148,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117555,
+      "seasonNumber": 6,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 148,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-08-25"
     },
     "149": {
       "episode": "149",
-      "anidbEid": "23956",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-09-01",
       "title": {
-        "en": "Tango Towards Destruction",
-        "romaji": "Hametsu e no Tango",
-        "ja": "破滅へのタンゴ"
+        "en": "Tango Towards Destruction"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 149,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117556,
+      "seasonNumber": 6,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 149,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-09-01"
     },
     "150": {
       "episode": "150",
-      "anidbEid": "24270",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-09-08",
       "title": {
-        "en": "Gorgeous Guys` Doubles",
-        "romaji": "Ikemen Doubles",
-        "ja": "イケメン・ダブルス"
+        "en": "Gorgeous Guys` Doubles"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 150,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117557,
+      "seasonNumber": 6,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 150,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-09-08"
     },
     "151": {
       "episode": "151",
-      "anidbEid": "24271",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-09-15",
       "title": {
-        "en": "Marionette of Sadness",
-        "romaji": "Kanashimi no Marionette",
-        "ja": "哀しみのマリオネット"
+        "en": "Marionette of Sadness"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 151,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117558,
+      "seasonNumber": 6,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 151,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-09-15"
     },
     "152": {
       "episode": "152",
-      "anidbEid": "24272",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-09-22",
       "title": {
-        "en": "Bobby Max the Beast",
-        "romaji": "Yajuu Bobby Max",
-        "ja": "野獣ボビーマックス"
+        "en": "Bobby Max the Beast"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 152,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117559,
+      "seasonNumber": 6,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 152,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-09-22"
     },
     "153": {
       "episode": "153",
-      "anidbEid": "26257",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-09-29",
       "title": {
-        "en": "Challenging the Limits",
-        "romaji": "Genkai e no Chousen",
-        "ja": "限界への挑戦"
+        "en": "Challenging the Limits"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 153,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117560,
+      "seasonNumber": 6,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 153,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-09-29"
     },
     "154": {
       "episode": "154",
-      "anidbEid": "26258",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-10-06",
       "title": {
-        "en": "The Prodigy vs. Tennis Machine",
-        "romaji": "Tensai VS Tennis Machine",
-        "ja": "天才VSテニスマシン"
+        "en": "The Prodigy vs. Tennis Machine"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 154,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117561,
+      "seasonNumber": 6,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 154,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-10-06"
     },
     "155": {
       "episode": "155",
-      "anidbEid": "26259",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-10-06",
       "title": {
-        "en": "The 1 mm Battle",
-        "romaji": "1mm no Koubou",
-        "ja": "1ミリの攻防"
+        "en": "The 1 mm Battle"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 155,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117562,
+      "seasonNumber": 6,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 155,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-10-06"
     },
     "156": {
       "episode": "156",
-      "anidbEid": "26260",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-10-13",
       "title": {
-        "en": "Who Will Play?",
-        "romaji": "Deru no wa Docchi Da!?",
-        "ja": "出るのはどっちだ!?"
+        "en": "Who Will Play?"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 156,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117563,
+      "seasonNumber": 6,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 156,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-10-13"
     },
     "157": {
       "episode": "157",
-      "anidbEid": "26261",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-10-20",
       "title": {
-        "en": "Delusive Phantom Ball",
-        "romaji": "Maboroshi no Phantom Ball",
-        "ja": "幻のフアントムボール"
+        "en": "Delusive Phantom Ball"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 157,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117564,
+      "seasonNumber": 6,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 157,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-10-20"
     },
     "158": {
       "episode": "158",
-      "anidbEid": "26262",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-10-27",
       "title": {
-        "en": "The Long-Awaited Game - Ryoma vs Kevin",
-        "romaji": "Nengan no Taiketsu: Ryouma vs Kevin",
-        "ja": "念願の対決 リョーマVSケビン"
+        "en": "The Long-Awaited Game - Ryoma vs Kevin"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 158,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117565,
+      "seasonNumber": 6,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 158,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-10-27"
     },
     "159": {
       "episode": "159",
-      "anidbEid": "26263",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-11-03",
       "title": {
-        "en": "Illusion",
-        "romaji": "Illusion",
-        "ja": "イリュージョン"
+        "en": "Illusion"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 159,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117566,
+      "seasonNumber": 6,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 159,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-11-03"
     },
     "160": {
       "episode": "160",
-      "anidbEid": "26264",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-11-10",
       "title": {
-        "en": "Game and Match",
-        "romaji": "Game and Match",
-        "ja": "ゲームアンドマッチ"
+        "en": "Game and Match"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 160,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117567,
+      "seasonNumber": 6,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 160,
+      "runtime": 25,
       "image": null,
-      "airDate": "2004-11-10"
+      "airDate": "2004-11-11"
     },
     "161": {
       "episode": "161",
-      "anidbEid": "26265",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-11-17",
       "title": {
-        "en": "Run, Momo!",
-        "romaji": "Hashire, Momo!",
-        "ja": "走れ, 桃!"
+        "en": "Run, Momo!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 161,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117568,
+      "seasonNumber": 6,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 161,
+      "runtime": 25,
       "image": null,
       "airDate": "2004-11-17"
     },
     "162": {
       "episode": "162",
-      "anidbEid": "35255",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-12-01",
       "title": {
-        "en": "Golden Pair`s Memories",
-        "romaji": "Golden Pair no Omoide",
-        "ja": "ゴールデンペアの思い出"
+        "en": "Golden Pair`s Memories"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 162,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117569,
+      "seasonNumber": 6,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 162,
+      "runtime": 25,
       "image": null,
-      "airDate": "2004-12-01"
+      "airDate": "2004-11-24"
     },
     "163": {
       "episode": "163",
-      "anidbEid": "35256",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-12-08",
       "title": {
-        "en": "Kaidou`s Unknown World",
-        "romaji": "Kaidou no Shiranai Sekai",
-        "ja": "海堂の知らない世界"
+        "en": "Kaidou`s Unknown World"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 163,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117570,
+      "seasonNumber": 6,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": 163,
+      "runtime": 25,
       "image": null,
-      "airDate": "2004-12-08"
+      "airDate": "2004-12-01"
     },
     "164": {
       "episode": "164",
-      "anidbEid": "35257",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-12-15",
       "title": {
-        "en": "Seigaku`s Marvelous Tactic",
-        "romaji": "Seigaku Dokkiri Maruhi Sakusen",
-        "ja": "青学ドッキリ(秘)作戦"
+        "en": "Seigaku`s Marvelous Tactic"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 164,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117571,
+      "seasonNumber": 6,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 164,
+      "runtime": 25,
       "image": null,
-      "airDate": "2004-12-15"
+      "airDate": "2004-12-08"
     },
     "165": {
       "episode": "165",
-      "anidbEid": "35258",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2004-12-22",
       "title": {
-        "en": "Tenipuri Family Goes to Hawaii!? / Tenipuri Family`s Christmas",
-        "romaji": "Tennipri Ikka Hawaii ni Iku!? / Tennipri Ikka no Christmas",
-        "ja": "テニプリ一家ハワイに行く!? / テニプリ一家のクリスマス"
+        "en": "Tenipuri Family Goes to Hawaii!? / Tenipuri Family`s Christmas"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 165,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117572,
+      "seasonNumber": 6,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 165,
+      "runtime": 25,
       "image": null,
-      "airDate": "2004-12-22"
+      "airDate": "2004-12-15"
     },
     "166": {
       "episode": "166",
-      "anidbEid": "35260",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2005-01-12",
       "title": {
-        "en": "Seigaku`s Specialty, Once More",
-        "romaji": "Seigaku Meibutsu, Futatabi",
-        "ja": "青学名物, ふたたび"
+        "en": "Seigaku`s Specialty, Once More"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 166,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117573,
+      "seasonNumber": 7,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 166,
+      "runtime": 25,
       "image": null,
       "airDate": "2005-01-12"
     },
     "167": {
       "episode": "167",
-      "anidbEid": "35261",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2005-01-19",
       "title": {
-        "en": "Eternal Rivals, Momoshiro vs Kaidou",
-        "romaji": "Eien no Rival, Momoshiro vs Kaidou",
-        "ja": "永遠のライバル, 桃城VS海堂"
+        "en": "Eternal Rivals, Momoshiro vs Kaidou"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 167,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117574,
+      "seasonNumber": 7,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 167,
+      "runtime": 25,
       "image": null,
-      "airDate": "2005-01-19"
+      "airDate": "2004-01-19"
     },
     "168": {
       "episode": "168",
-      "anidbEid": "35262",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2005-01-26",
       "title": {
-        "en": "Ryoma`s Decision",
-        "romaji": "Ryouma no Ketsudan",
-        "ja": "リョーマの決断"
+        "en": "Ryoma`s Decision"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 168,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117575,
+      "seasonNumber": 7,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 168,
+      "runtime": 25,
       "image": null,
       "airDate": "2005-01-26"
     },
     "169": {
       "episode": "169",
-      "anidbEid": "35263",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2005-01-26",
       "title": {
-        "en": "Swinging Emotions",
-        "romaji": "Yureru Omoi",
-        "ja": "ゆれる想い"
+        "en": "Swinging Emotions"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 169,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117576,
+      "seasonNumber": 7,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 169,
+      "runtime": 25,
       "image": null,
       "airDate": "2005-01-26"
     },
     "170": {
       "episode": "170",
-      "anidbEid": "35264",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2005-02-02",
       "title": {
-        "en": "Burn, Echizen!",
-        "romaji": "Moero Echizen!",
-        "ja": "燃えろ越前!"
+        "en": "Burn, Echizen!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 170,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117577,
+      "seasonNumber": 7,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 170,
+      "runtime": 25,
       "image": null,
       "airDate": "2005-02-02"
     },
     "171": {
       "episode": "171",
-      "anidbEid": "35265",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2005-02-09",
       "title": {
-        "en": "Dear Friend...",
-        "romaji": "Shin`ainaru Tomo e",
-        "ja": "親愛なる友へ"
+        "en": "Dear Friend..."
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 171,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117578,
+      "seasonNumber": 7,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 171,
+      "runtime": 25,
       "image": null,
       "airDate": "2005-02-09"
     },
     "172": {
       "episode": "172",
-      "anidbEid": "35266",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2005-02-16",
       "title": {
-        "en": "Goodbye Seigaku",
-        "romaji": "Goodbye Seigaku",
-        "ja": "グッバイ青学"
+        "en": "Goodbye Seigaku"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 172,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117579,
+      "seasonNumber": 7,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 172,
+      "runtime": 25,
       "image": null,
       "airDate": "2005-02-16"
     },
     "173": {
       "episode": "173",
-      "anidbEid": "35267",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2005-02-23",
       "title": {
-        "en": "Samurai New York",
-        "romaji": "Samurai New York",
-        "ja": "サムライニューヨーク"
+        "en": "Samurai New York"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 173,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117580,
+      "seasonNumber": 7,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 173,
+      "runtime": 25,
       "image": null,
       "airDate": "2005-02-23"
     },
     "174": {
       "episode": "174",
-      "anidbEid": "35268",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2005-03-02",
       "title": {
-        "en": "Tezuka Kunimitsu vs Fuji Syuusuke",
-        "romaji": "Tezuka Kunimitsu vs Fuji Shuusuke",
-        "ja": "手塚国光VS不二周助"
+        "en": "Tezuka Kunimitsu vs Fuji Syuusuke"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 174,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117581,
+      "seasonNumber": 7,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 174,
+      "runtime": 25,
       "image": null,
       "airDate": "2005-03-02"
     },
     "175": {
       "episode": "175",
-      "anidbEid": "35269",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2005-03-09",
       "title": {
-        "en": "The Third Years` Seriousness",
-        "romaji": "Sannenme no Honki",
-        "ja": "三年目の本気"
+        "en": "The Third Years` Seriousness"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 175,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117582,
+      "seasonNumber": 7,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 175,
+      "runtime": 25,
       "image": null,
       "airDate": "2005-03-09"
     },
     "176": {
       "episode": "176",
-      "anidbEid": "35270",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2005-03-16",
       "title": {
-        "en": "Climax",
-        "romaji": "Climax",
-        "ja": "クライマックス"
+        "en": "Climax"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 176,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117583,
+      "seasonNumber": 7,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 176,
+      "runtime": 25,
       "image": null,
       "airDate": "2005-03-16"
     },
     "177": {
       "episode": "177",
-      "anidbEid": "35272",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2005-03-30",
       "title": {
-        "en": "Never-Forgotten Promise",
-        "romaji": "Wasurerarenai Yakusoku",
-        "ja": "忘れられない約束"
+        "en": "Never-Forgotten Promise"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 177,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117584,
+      "seasonNumber": 7,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 177,
+      "runtime": 25,
       "image": null,
-      "airDate": "2005-03-30"
+      "airDate": "2005-03-23"
     },
     "178": {
       "episode": "178",
-      "anidbEid": "35271",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2005-03-30",
       "title": {
-        "en": "Good-bye, Prince",
-        "romaji": "Sayonara Ouji-sama",
-        "ja": "さよなら王子様"
+        "en": "Good-bye, Prince"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 178,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 73532,
+      "tvdbId": 117585,
+      "seasonNumber": 7,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 178,
+      "runtime": 25,
       "image": null,
       "airDate": "2005-03-30"
     },
     "S1": {
       "episode": "S1",
-      "anidbEid": "6337",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "New Year`s Special"
@@ -4093,10 +3087,7 @@
     },
     "S2": {
       "episode": "S2",
-      "anidbEid": "9532",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 35,
+      "length": "35m",
       "airdate": "",
       "title": {
         "en": "Jump Festa 2002 - A Day of the Survival Mountain"
@@ -4112,15 +3103,10 @@
     },
     "S3": {
       "episode": "S3",
-      "anidbEid": "35259",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 115,
+      "length": "115m",
       "airdate": "2005-01-04",
       "title": {
-        "en": "New Year`s Smash",
-        "romaji": "Shinshuun 2-jikan Smash",
-        "ja": "新春2時間スマッシュ"
+        "en": "New Year`s Smash"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4131,31 +3117,313 @@
       "image": null,
       "airDate": "2005-01-04"
     },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airdate": "2001-10-10",
+      "title": {
+        "en": "Future (1-26)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2001-10-10"
+    },
+    "OP2": {
+      "episode": "OP2",
+      "length": "2m",
+      "airdate": "2002-04-17",
+      "title": {
+        "en": "Driving Myself (27-53)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2002-04-17"
+    },
+    "OP3": {
+      "episode": "OP3",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Make You Free (54-75)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "OP4": {
+      "episode": "OP4",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Make You Free (54-75)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "OP5": {
+      "episode": "OP5",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Long Way (76-101)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "OP6": {
+      "episode": "OP6",
+      "length": "2m",
+      "airdate": "2003-10-01",
+      "title": {
+        "en": "Fly High (102-128)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2003-10-01"
+    },
+    "OP7": {
+      "episode": "OP7",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Shining (129-153)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "OP8": {
+      "episode": "OP8",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Paradise (154-165)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "OP9": {
+      "episode": "OP9",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Dream Believer (166-178)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airdate": "2001-10-10",
+      "title": {
+        "en": "You Got Game? (1-26)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "2001-10-10"
+    },
+    "ED2": {
+      "episode": "ED2",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Keep Your Style (27-35, 38-39, 41-47, 49-53)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "ED3": {
+      "episode": "ED3",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Walk On (36-37, 40, 48)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "ED4": {
+      "episode": "ED4",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "White Line (54-75)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "ED5": {
+      "episode": "ED5",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Kaze no Tabibito (76-101)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "ED6": {
+      "episode": "ED6",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Sakura (102-140)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "ED7": {
+      "episode": "ED7",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Wonderful Days (141-165)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "ED8": {
+      "episode": "ED8",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Little Sky (166-178)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
     "P175": {
       "episode": "P175",
-      "anidbEid": "35341",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "",
       "title": {
         "en": "The Truth Behind the Genius"
       },
-      "tvdbShowId": 73532,
-      "tvdbId": 3072371,
-      "seasonNumber": 0,
-      "episodeNumber": 4,
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
       "absoluteEpisodeNumber": null,
-      "runtime": 22,
+      "runtime": null,
       "image": null,
-      "airDate": "2005-01-29"
+      "airDate": ""
     },
     "P178": {
       "episode": "P178",
-      "anidbEid": "40855",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "2005-04-02",
       "title": {
         "en": "Final Episode"
@@ -4171,13 +3439,13 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-23T20:08:38.466Z",
+    "lastFetched": "2026-06-24T14:59:06.805Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "anizip",
+      "zenshin",
       "simkl"
     ],
     "missingSources": [],

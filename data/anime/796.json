@@ -1,0 +1,110 @@
+{
+  "id": 796,
+  "idMal": 796,
+  "mappings": {
+    "mal": 796,
+    "anilist": 796,
+    "kitsu": 710,
+    "simkl": 36737,
+    "tmdb": 36247,
+    "tvdb": null,
+    "animeplanet": "mahoujin-guru-guru-movie"
+  },
+  "title": {
+    "romaji": "Mahoujin Guru Guru Movie",
+    "english": "Magical Circle Guruguru Movie",
+    "native": "魔法陣グルグル",
+    "synonyms": [
+      "The Pickle of Happiness"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 30,
+  "aired": {
+    "from": "1996-04-20T00:00:00+00:00",
+    "to": "1996-04-20"
+  },
+  "season": "spring",
+  "year": 1996,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.76,
+    "anilistScore": 5.8,
+    "kitsuRating": 7.09
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Magic",
+    "Fantasy World",
+    "Parody"
+  ],
+  "studios": [
+    "Nippon Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/7/49583l.jpg",
+    "banner": null,
+    "color": "#f1bb00"
+  },
+  "trailer": null,
+  "synopsis": "The hero Nike and magic user Kukuri learn of the \"Pickle of Happiness\", an item that will grant a wish to the one who eats it. With the help of old friends, they must beat the monsters to the Pickle and convince its guardian dragon to give it to them. \n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 331,
+      "title": {
+        "romaji": "Mahoujin Guru Guru",
+        "english": "Magical Circle Guru Guru",
+        "native": "魔法陣グルグル"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx331-BzpIrGJZePCA.png",
+      "format": "TV",
+      "episodes": 45,
+      "seasonYear": 1994,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "30m",
+      "airdate": "1996-04-20",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 81095,
+      "tvdbId": 729581,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": null,
+      "airDate": "1996-04-19"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-24T15:42:19.869Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

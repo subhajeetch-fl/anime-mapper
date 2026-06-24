@@ -4,18 +4,11 @@
   "mappings": {
     "mal": 82,
     "anilist": 82,
-    "anidb": 716,
     "kitsu": 61,
     "simkl": 40436,
     "tmdb": 46512,
     "tvdb": 80785,
-    "trakt": 46242,
-    "traktType": "shows",
-    "shikimori": 82,
-    "livechart": 4607,
-    "animeplanet": "mobile-suit-gundam-0080-war-in-the-pocket",
-    "anisearch": 9,
-    "notify": "NVtp5KmmR"
+    "animeplanet": "mobile-suit-gundam-0080-war-in-the-pocket"
   },
   "title": {
     "romaji": "Kidou Senshi Gundam 0080: Pocket no Naka no Sensou",
@@ -44,14 +37,7 @@
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": 8.02,
-    "malScoredBy": 39055,
-    "malRank": 709,
-    "malPopularity": 2983,
-    "malMembers": 70805,
-    "malFavorites": 1239,
     "anilistScore": 8,
-    "anilistPopularity": 21842,
-    "anilistFavourites": 1295,
     "kitsuRating": 7.88
   },
   "genres": [
@@ -138,15 +124,10 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "anidbEid": "8112",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1989-03-25",
       "title": {
-        "en": "How Many Miles To The Battlefield",
-        "romaji": "Senjou made wa Nan Mile?",
-        "ja": "戦場までは何マイル?"
+        "en": "How Many Miles To The Battlefield"
       },
       "tvdbShowId": 80785,
       "tvdbId": 340690,
@@ -159,15 +140,10 @@
     },
     "2": {
       "episode": "2",
-      "anidbEid": "8113",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1989-04-25",
       "title": {
-        "en": "Reflections In A Brown Eye",
-        "romaji": "Chairo no Hitomi ni Utsurumono",
-        "ja": "茶色の瞳に映るもの"
+        "en": "Reflections In A Brown Eye"
       },
       "tvdbShowId": 80785,
       "tvdbId": 340691,
@@ -180,15 +156,10 @@
     },
     "3": {
       "episode": "3",
-      "anidbEid": "8114",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1989-05-25",
       "title": {
-        "en": "And At The End Of The Rainbow",
-        "romaji": "Niji no Hate ni wa?",
-        "ja": "虹の果てには?"
+        "en": "And At The End Of The Rainbow"
       },
       "tvdbShowId": 80785,
       "tvdbId": 340692,
@@ -201,15 +172,10 @@
     },
     "4": {
       "episode": "4",
-      "anidbEid": "8115",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1989-06-25",
       "title": {
-        "en": "Over The River And Through The Woods",
-        "romaji": "Kawa o Watatte Kodachi o Nukete",
-        "ja": "河を渡って木立を抜けて"
+        "en": "Over The River And Through The Woods"
       },
       "tvdbShowId": 80785,
       "tvdbId": 340693,
@@ -222,15 +188,10 @@
     },
     "5": {
       "episode": "5",
-      "anidbEid": "8116",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1989-07-25",
       "title": {
-        "en": "Say It Ain`t So, Bernie",
-        "romaji": "Uso Da to Itte yo, Bernie",
-        "ja": "嘘だといってよ, バーニィ"
+        "en": "Say It Ain`t So, Bernie"
       },
       "tvdbShowId": 80785,
       "tvdbId": 340694,
@@ -243,15 +204,10 @@
     },
     "6": {
       "episode": "6",
-      "anidbEid": "8117",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1989-08-25",
       "title": {
-        "en": "War In The Pocket",
-        "romaji": "Pocket no Naka no Sensou",
-        "ja": "ポケットの中の戦争"
+        "en": "War In The Pocket"
       },
       "tvdbShowId": 80785,
       "tvdbId": 340695,
@@ -264,10 +220,7 @@
     },
     "S1": {
       "episode": "S1",
-      "anidbEid": "235143",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 11,
+      "length": "11m",
       "airdate": "",
       "title": {
         "en": "Music Video (11:24)"
@@ -280,16 +233,112 @@
       "runtime": null,
       "image": null,
       "airDate": ""
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airdate": "1989-04-25",
+      "title": {
+        "en": "Itsuka Sora ni Todoite (1-6)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1989-04-25"
+    },
+    "ED1a": {
+      "episode": "ED1a",
+      "length": "2m",
+      "airdate": "1989-03-25",
+      "title": {
+        "en": "Tooi Kioku (1-6)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1989-03-25"
+    },
+    "ED1b": {
+      "episode": "ED1b",
+      "length": "2m",
+      "airdate": "1989-08-25",
+      "title": {
+        "en": "Tooi Kioku (1-6)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1989-08-25"
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "BD-BOX CM-1 (1:38)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "BD-BOX CM-2 (0:16)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "DVD-BOX CM-1 (0:17)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
     }
   },
   "meta": {
-    "lastFetched": "2026-06-23T15:53:13.297Z",
+    "lastFetched": "2026-06-24T15:03:33.497Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "anizip",
+      "zenshin",
       "simkl"
     ],
     "missingSources": [],

@@ -4,18 +4,11 @@
   "mappings": {
     "mal": 49,
     "anilist": 49,
-    "anidb": 27,
     "kitsu": 7780,
     "simkl": 690383,
     "tmdb": 912,
     "tvdb": null,
-    "trakt": null,
-    "traktType": null,
-    "shikimori": 49,
-    "livechart": 4503,
-    "animeplanet": "ah-my-goddess",
-    "anisearch": 2497,
-    "notify": "cnpptFmiR"
+    "animeplanet": "ah-my-goddess"
   },
   "title": {
     "romaji": "Aa! Megami-sama!",
@@ -47,14 +40,7 @@
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": 7.29,
-    "malScoredBy": 28266,
-    "malRank": 3124,
-    "malPopularity": 3317,
-    "malMembers": 58614,
-    "malFavorites": 265,
     "anilistScore": 6.9,
-    "anilistPopularity": 11802,
-    "anilistFavourites": 149,
     "kitsuRating": 7.32
   },
   "genres": [
@@ -123,115 +109,87 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "anidbEid": "929",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1993-02-21",
       "title": {
-        "en": "Moonlight and Cherry Blossoms",
-        "romaji": "Moonlight and Cherry Blossoms",
-        "ja": "MOONLIGHT AND CHERRY BLOSSOMS"
+        "en": "Moonlight and Cherry Blossoms"
       },
       "tvdbShowId": 78920,
       "tvdbId": 714731,
       "seasonNumber": 0,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 0,
       "runtime": 29,
       "image": "https://artworks.thetvdb.com/banners/episodes/78920/714731.jpg",
       "airDate": "1993-02-21"
     },
     "2": {
       "episode": "2",
-      "anidbEid": "933",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1993-05-21",
       "title": {
-        "en": "Midsummer Night`s Dream",
-        "romaji": "Midsummer Night`s Dream",
-        "ja": "MIDSUMMER NIGHT`S DREAM"
+        "en": "Midsummer Night`s Dream"
       },
       "tvdbShowId": 78920,
       "tvdbId": 714741,
       "seasonNumber": 0,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 0,
       "runtime": 29,
       "image": "https://artworks.thetvdb.com/banners/episodes/78920/714741.jpg",
       "airDate": "1993-05-21"
     },
     "3": {
       "episode": "3",
-      "anidbEid": "932",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1993-09-21",
       "title": {
-        "en": "Burning Hearts on the Road",
-        "romaji": "Burning Hearts on the Road",
-        "ja": "BURNING HEARTS ON THE ROAD"
+        "en": "Burning Hearts on the Road"
       },
       "tvdbShowId": 78920,
       "tvdbId": 714751,
       "seasonNumber": 0,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 0,
       "runtime": 29,
       "image": "https://artworks.thetvdb.com/banners/episodes/78920/714751.jpg",
       "airDate": "1993-09-21"
     },
     "4": {
       "episode": "4",
-      "anidbEid": "931",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1993-12-28",
       "title": {
-        "en": "Evergreen Holy Night",
-        "romaji": "Evergreen Holy Night",
-        "ja": "EVERGREEN HOLY NIGHT"
+        "en": "Evergreen Holy Night"
       },
       "tvdbShowId": 78920,
       "tvdbId": 714761,
       "seasonNumber": 0,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 0,
       "runtime": 29,
       "image": "https://artworks.thetvdb.com/banners/episodes/78920/714761.jpg",
       "airDate": "1993-12-28"
     },
     "5": {
       "episode": "5",
-      "anidbEid": "930",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 40,
+      "length": "40m",
       "airdate": "1994-05-17",
       "title": {
-        "en": "For the Love of Goddess",
-        "romaji": "For the Love of Goddess",
-        "ja": "FOR THE LOVE OF GODDESS"
+        "en": "For the Love of Goddess"
       },
       "tvdbShowId": 78920,
       "tvdbId": 714771,
       "seasonNumber": 0,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 0,
       "runtime": 39,
       "image": "https://artworks.thetvdb.com/banners/episodes/78920/714771.jpg",
       "airDate": "1994-05-17"
     },
     "S1": {
       "episode": "S1",
-      "anidbEid": "22281",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 3,
+      "length": "3m",
       "airdate": "",
       "title": {
         "en": "Extras"
@@ -244,16 +202,96 @@
       "runtime": null,
       "image": null,
       "airDate": ""
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airdate": "1993-02-21",
+      "title": {
+        "en": "My Heart Iidasenai, Your Heart Tashikametai (1-5)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1993-02-21"
+    },
+    "ED1a": {
+      "episode": "ED1a",
+      "length": "2m",
+      "airdate": "1993-02-21",
+      "title": {
+        "en": "Congratulations! (1-5)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1993-02-21"
+    },
+    "ED1b": {
+      "episode": "ED1b",
+      "length": "2m",
+      "airdate": "1993-05-21",
+      "title": {
+        "en": "Congratulations! (1-5)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1993-05-21"
+    },
+    "ED1c": {
+      "episode": "ED1c",
+      "length": "2m",
+      "airdate": "1993-09-21",
+      "title": {
+        "en": "Congratulations! (1-5)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1993-09-21"
+    },
+    "ED1d": {
+      "episode": "ED1d",
+      "length": "2m",
+      "airdate": "1993-12-28",
+      "title": {
+        "en": "Congratulations! (1-5)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1993-12-28"
     }
   },
   "meta": {
-    "lastFetched": "2026-06-23T15:48:37.891Z",
+    "lastFetched": "2026-06-24T15:01:56.637Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "anizip",
+      "zenshin",
       "simkl"
     ],
     "missingSources": [],

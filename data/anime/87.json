@@ -4,18 +4,11 @@
   "mappings": {
     "mal": 87,
     "anilist": 87,
-    "anidb": 720,
     "kitsu": 66,
     "simkl": 41278,
     "tmdb": 16157,
     "tvdb": null,
-    "trakt": 9912,
-    "traktType": "movies",
-    "shikimori": 87,
-    "livechart": 4944,
-    "animeplanet": "mobile-suit-gundam-chars-counterattack",
-    "anisearch": 394,
-    "notify": "nett5Kimg"
+    "animeplanet": "mobile-suit-gundam-chars-counterattack"
   },
   "title": {
     "romaji": "Kidou Senshi Gundam: Gyakushuu no Char",
@@ -47,14 +40,7 @@
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": 7.71,
-    "malScoredBy": 35465,
-    "malRank": 1398,
-    "malPopularity": 3277,
-    "malMembers": 59748,
-    "malFavorites": 631,
     "anilistScore": 7.6,
-    "anilistPopularity": 17898,
-    "anilistFavourites": 854,
     "kitsuRating": 7.46
   },
   "genres": [
@@ -207,70 +193,109 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "anidbEid": "18176",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 120,
+      "length": "120m",
       "airdate": "1988-03-12",
       "title": {
         "en": "Complete Movie"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
+      "tvdbShowId": 76547,
+      "tvdbId": 880381,
+      "seasonNumber": 0,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 120,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76547/634e7d672364b.jpg",
       "airDate": "1988-03-12"
     },
     "2": {
       "episode": "2",
-      "anidbEid": "8348",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 65,
+      "length": "65m",
       "airdate": "1988-03-12",
       "title": {
         "en": "Part 1 of 2"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
+      "tvdbShowId": 76547,
+      "tvdbId": 880381,
+      "seasonNumber": 0,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 120,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76547/634e7d672364b.jpg",
       "airDate": "1988-03-12"
     },
     "3": {
       "episode": "3",
-      "anidbEid": "8353",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 60,
+      "length": "60m",
       "airdate": "1988-03-12",
       "title": {
         "en": "Part 2 of 2"
       },
+      "tvdbShowId": 76547,
+      "tvdbId": 880381,
+      "seasonNumber": 0,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 120,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76547/634e7d672364b.jpg",
+      "airDate": "1988-03-12"
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "Trailer 1 (0:56): Teaser"
+      },
       "tvdbShowId": null,
       "tvdbId": null,
       "seasonNumber": null,
-      "episodeNumber": 3,
+      "episodeNumber": null,
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null,
-      "airDate": "1988-03-12"
+      "airDate": ""
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Trailer 2 (1:31)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "3m",
+      "airdate": "",
+      "title": {
+        "en": "Trailer 3 (2:44)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
     }
   },
   "meta": {
-    "lastFetched": "2026-06-23T15:53:50.764Z",
+    "lastFetched": "2026-06-24T15:03:44.458Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "anizip",
+      "zenshin",
       "simkl"
     ],
     "missingSources": [],

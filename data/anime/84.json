@@ -4,18 +4,11 @@
   "mappings": {
     "mal": 84,
     "anilist": 84,
-    "anidb": 717,
     "kitsu": 63,
     "simkl": 39983,
     "tmdb": 72677,
     "tvdb": 80783,
-    "trakt": 61454,
-    "traktType": "shows",
-    "shikimori": 84,
-    "livechart": 4773,
-    "animeplanet": "mobile-suit-gundam-0083-stardust-memory",
-    "anisearch": 2690,
-    "notify": "vTptcKmmg"
+    "animeplanet": "mobile-suit-gundam-0083-stardust-memory"
   },
   "title": {
     "romaji": "Kidou Senshi Gundam 0083: STARDUST MEMORY",
@@ -46,14 +39,7 @@
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": 7.22,
-    "malScoredBy": 29338,
-    "malRank": 3562,
-    "malPopularity": 3538,
-    "malMembers": 52352,
-    "malFavorites": 283,
     "anilistScore": 6.7,
-    "anilistPopularity": 14872,
-    "anilistFavourites": 188,
     "kitsuRating": 7.1
   },
   "genres": [
@@ -208,15 +194,10 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "anidbEid": "8043",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1991-05-23",
       "title": {
-        "en": "Stolen Gundam",
-        "romaji": "Gundam Goudatsu",
-        "ja": "ガンダム強奪"
+        "en": "Stolen Gundam"
       },
       "tvdbShowId": 80783,
       "tvdbId": 340658,
@@ -229,15 +210,26 @@
     },
     "2": {
       "episode": "2",
-      "anidbEid": "8044",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1991-06-27",
       "title": {
-        "en": "Endless Chase",
-        "romaji": "Owarinaki Tsuigeki",
-        "ja": "終わりなき追撃"
+        "en": "Endless Chase"
+      },
+      "tvdbShowId": 80783,
+      "tvdbId": 340659,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/80783/340659.jpg",
+      "airDate": "1991-05-23"
+    },
+    "3": {
+      "episode": "3",
+      "length": "30m",
+      "airdate": "1991-08-22",
+      "title": {
+        "en": "Into Battle, Albion!"
       },
       "tvdbShowId": 80783,
       "tvdbId": 340660,
@@ -248,17 +240,12 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/80783/340660.jpg",
       "airDate": "1991-06-27"
     },
-    "3": {
-      "episode": "3",
-      "anidbEid": "8052",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
-      "airdate": "1991-08-22",
+    "4": {
+      "episode": "4",
+      "length": "30m",
+      "airdate": "1991-09-26",
       "title": {
-        "en": "Into Battle, Albion!",
-        "romaji": "Shutsugeki Albion",
-        "ja": "出撃アルビオン"
+        "en": "Attack and Retreat on the Burning Sand"
       },
       "tvdbShowId": 80783,
       "tvdbId": 340661,
@@ -269,59 +256,44 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/80783/340661.jpg",
       "airDate": "1991-08-22"
     },
-    "4": {
-      "episode": "4",
-      "anidbEid": "8053",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
-      "airdate": "1991-09-26",
-      "title": {
-        "en": "Attack and Retreat on the Burning Sand",
-        "romaji": "Nessa no Koubousen",
-        "ja": "熱砂の攻防戦"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "1991-09-26"
-    },
     "5": {
       "episode": "5",
-      "anidbEid": "8054",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1991-10-24",
       "title": {
-        "en": "Gundam, to the Sea of Stars",
-        "romaji": "Gundam, Hoshi no Umi e",
-        "ja": "ガンダム, 星の海へ"
+        "en": "Gundam, to the Sea of Stars"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 80783,
+      "tvdbId": 340662,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "1991-10-24"
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/80783/340662.jpg",
+      "airDate": "1991-09-26"
     },
     "6": {
       "episode": "6",
-      "anidbEid": "8055",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1991-11-21",
       "title": {
-        "en": "The Warrior of Von Braun",
-        "romaji": "Von Braun no Senshi",
-        "ja": "フォン・ブラウンの戦士"
+        "en": "The Warrior of Von Braun"
+      },
+      "tvdbShowId": 80783,
+      "tvdbId": 340663,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/80783/340663.jpg",
+      "airDate": "1991-10-24"
+    },
+    "7": {
+      "episode": "7",
+      "length": "30m",
+      "airdate": "1992-02-20",
+      "title": {
+        "en": "With Shining Blue Fire"
       },
       "tvdbShowId": 80783,
       "tvdbId": 340664,
@@ -332,205 +304,140 @@
       "image": "https://artworks.thetvdb.com/banners/episodes/80783/340664.jpg",
       "airDate": "1991-12-01"
     },
-    "7": {
-      "episode": "7",
-      "anidbEid": "8056",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
-      "airdate": "1992-02-20",
-      "title": {
-        "en": "With Shining Blue Fire",
-        "romaji": "Aoku Kagayaku Honoo de",
-        "ja": "蒼く輝く炎で"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "1992-02-20"
-    },
     "8": {
       "episode": "8",
-      "anidbEid": "8057",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1992-04-23",
       "title": {
-        "en": "Conspiracy Sector",
-        "romaji": "Sakubou no Chuuiki",
-        "ja": "策謀の宙域"
+        "en": "Conspiracy Sector"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 80783,
+      "tvdbId": 340666,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "1992-04-23"
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/80783/340666.jpg",
+      "airDate": "1992-02-20"
     },
     "9": {
       "episode": "9",
-      "anidbEid": "8058",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1992-05-21",
       "title": {
-        "en": "The Nightmare of Solomon",
-        "romaji": "Solomon no Akumu",
-        "ja": "ソロモンの悪夢"
+        "en": "The Nightmare of Solomon"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 80783,
+      "tvdbId": 340667,
+      "seasonNumber": 1,
       "episodeNumber": 9,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "1992-05-21"
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/80783/340667.jpg",
+      "airDate": "1992-03-19"
     },
     "10": {
       "episode": "10",
-      "anidbEid": "8059",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+      "length": "25m",
       "airdate": "1992-06-21",
       "title": {
-        "en": "Colliding War Zones",
-        "romaji": "Gekitotsu Sen`iki",
-        "ja": "激突戦域"
+        "en": "Colliding War Zones"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 80783,
+      "tvdbId": 340669,
+      "seasonNumber": 1,
       "episodeNumber": 10,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "1992-06-21"
+      "absoluteEpisodeNumber": 10,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/80783/340669.jpg",
+      "airDate": "1992-05-21"
     },
     "11": {
       "episode": "11",
-      "anidbEid": "8060",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1992-08-21",
       "title": {
-        "en": "La Vie en Rose",
-        "romaji": "La Vie en Rose",
-        "ja": "ラビアンローズ"
+        "en": "La Vie en Rose"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 80783,
+      "tvdbId": 340670,
+      "seasonNumber": 1,
       "episodeNumber": 11,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "1992-08-21"
+      "absoluteEpisodeNumber": 11,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/80783/340670.jpg",
+      "airDate": "1992-06-21"
     },
     "12": {
       "episode": "12",
-      "anidbEid": "8061",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1992-09-24",
       "title": {
-        "en": "Assault on the Point of No Return",
-        "romaji": "Kyoushuu, Soshi Genkaiten",
-        "ja": "強襲, 阻止限界点"
+        "en": "Assault on the Point of No Return"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 80783,
+      "tvdbId": 340672,
+      "seasonNumber": 1,
       "episodeNumber": 12,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "1992-09-24"
+      "absoluteEpisodeNumber": 12,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/80783/340672.jpg",
+      "airDate": "1992-08-21"
     },
     "13": {
       "episode": "13",
-      "anidbEid": "8062",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "1992-09-24",
       "title": {
-        "en": "A Storm Raging Through",
-        "romaji": "Kakenukeru Arashi",
-        "ja": "駆け抜ける嵐"
+        "en": "A Storm Raging Through"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 80783,
+      "tvdbId": 340673,
+      "seasonNumber": 1,
       "episodeNumber": 13,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/80783/340673.jpg",
       "airDate": "1992-09-24"
     },
     "S1": {
       "episode": "S1",
-      "anidbEid": "61933",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 4,
+      "length": "4m",
       "airdate": "",
       "title": {
-        "en": "The Mayfly of Space",
-        "romaji": "Uchuu no Kagerou",
-        "ja": "宇宙の蜉蝣"
+        "en": "The Mayfly of Space"
       },
       "tvdbShowId": 80783,
       "tvdbId": 3505351,
       "seasonNumber": 0,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 0,
       "runtime": 4,
       "image": "https://artworks.thetvdb.com/banners/episodes/80783/3505351.jpg",
       "airDate": "1992-09-07"
     },
     "S2": {
       "episode": "S2",
-      "anidbEid": "175956",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 15,
+      "length": "15m",
       "airdate": "2016-01-29",
       "title": {
-        "en": "The Mayfly of Space 2",
-        "romaji": "Uchuu no Kagerou 2",
-        "ja": "宇宙の蜉蝣2"
+        "en": "The Mayfly of Space 2"
       },
-      "tvdbShowId": 80783,
-      "tvdbId": 5676131,
-      "seasonNumber": 0,
-      "episodeNumber": 3,
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
       "absoluteEpisodeNumber": null,
-      "runtime": 12,
-      "image": "https://artworks.thetvdb.com/banners/episodes/80783/5676131.jpg",
+      "runtime": null,
+      "image": null,
       "airDate": "2016-01-29"
     },
     "S3": {
       "episode": "S3",
-      "anidbEid": "270341",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 15,
+      "length": "15m",
       "airdate": "",
       "title": {
-        "en": "Takashi Imanishi Special Interview",
-        "ja": "今西隆志スペシャルインタビュー"
+        "en": "Rikushi Imanishi Special Interview"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -543,10 +450,7 @@
     },
     "S4": {
       "episode": "S4",
-      "anidbEid": "278239",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 20,
+      "length": "20m",
       "airdate": "",
       "title": {
         "en": "83`s Memory: Film Collections of Mobile Suit Gundam 0083"
@@ -562,10 +466,7 @@
     },
     "S5": {
       "episode": "S5",
-      "anidbEid": "278240",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 20,
+      "length": "20m",
       "airdate": "",
       "title": {
         "en": "Another 83`s Memory: Film Collections of Mobile Suit Gundam 0083"
@@ -579,16 +480,108 @@
       "image": null,
       "airDate": ""
     },
-    "S6": {
-      "episode": "S6",
-      "anidbEid": "310787",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
       "airdate": "",
       "title": {
-        "en": "Mobile Suit Gundam GxG UNIT",
-        "ja": "機動戦士ガンダム  GXG UNIT ダブルジーユニット"
+        "en": "The Winner (2-7)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "OP2": {
+      "episode": "OP2",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Men of Destiny (8-12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Magic (1-7)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "ED2": {
+      "episode": "ED2",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Evergreen (8-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "3m",
+      "airdate": "",
+      "title": {
+        "en": "BD-BOX CM1 (3:24)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "BD-BOX CM2 (0:16)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "BD-BOX CM3 (0:31)"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -601,13 +594,13 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-23T15:53:27.909Z",
+    "lastFetched": "2026-06-24T15:03:37.927Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "anizip",
+      "zenshin",
       "simkl"
     ],
     "missingSources": [],

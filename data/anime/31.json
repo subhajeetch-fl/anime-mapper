@@ -4,18 +4,11 @@
   "mappings": {
     "mal": 31,
     "anilist": 31,
-    "anidb": 326,
     "kitsu": 22,
     "simkl": 36206,
     "tmdb": 21832,
     "tvdb": null,
-    "trakt": 13347,
-    "traktType": "movies",
-    "shikimori": 31,
-    "livechart": 4039,
-    "animeplanet": "neon-genesis-evangelion-death-and-rebirth",
-    "anisearch": 1301,
-    "notify": "lb7tcKimR"
+    "animeplanet": "neon-genesis-evangelion-death-and-rebirth"
   },
   "title": {
     "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
@@ -50,14 +43,7 @@
   "rating": "R - 17+ (violence & profanity)",
   "score": {
     "malScore": 7.5,
-    "malScoredBy": 155210,
-    "malRank": 2167,
-    "malPopularity": 1004,
-    "malMembers": 281361,
-    "malFavorites": 817,
     "anilistScore": 7.3,
-    "anilistPopularity": 60162,
-    "anilistFavourites": 717,
     "kitsuRating": 7.26
   },
   "genres": [
@@ -127,77 +113,58 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "anidbEid": "4001",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 70,
+      "length": "70m",
       "airdate": "1997-03-15",
       "title": {
-        "en": "Death",
-        "romaji": "Shi",
-        "ja": "シ"
+        "en": "Death"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70350,
+      "tvdbId": 357967,
+      "seasonNumber": 0,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "1997-03-15",
-      "simklEpisodeId": "850936"
+      "absoluteEpisodeNumber": 27,
+      "runtime": 100,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70350/357967.jpg",
+      "airDate": "1997-03-15"
     },
     "2": {
       "episode": "2",
-      "anidbEid": "7178",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 30,
+      "length": "30m",
       "airdate": "1997-03-15",
       "title": {
-        "en": "Rebirth",
-        "romaji": "Shinsei",
-        "ja": "新生"
+        "en": "Rebirth"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "1997-03-15",
-      "simklEpisodeId": "850937"
+      "tvdbShowId": 70350,
+      "tvdbId": 357967,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 100,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70350/357967.jpg",
+      "airDate": "1997-03-15"
     },
     "3": {
       "episode": "3",
-      "anidbEid": "291921",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 67,
+      "length": "67m",
       "airdate": "1998-03-08",
       "title": {
         "en": "Death (True)^2"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 70350,
+      "tvdbId": 367316,
+      "seasonNumber": 0,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "1998-03-08",
-      "simklEpisodeId": "13394672"
+      "absoluteEpisodeNumber": 0,
+      "runtime": 101,
+      "image": "https://artworks.thetvdb.com/banners/episodes/70350/367316.jpg",
+      "airDate": "2007-09-01"
     },
-    "O1": {
-      "episode": "O1",
-      "anidbEid": "12819",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 0,
-      "airdate": "",
+    "S1": {
+      "episode": "S1",
+      "length": "4m",
+      "airdate": "1997-03-15",
       "title": {
-        "en": "Subtitles"
+        "en": "Intermission"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -206,52 +173,11 @@
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null,
-      "airDate": ""
-    },
-    "O4": {
-      "episode": "O4",
-      "anidbEid": "12828",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 40,
-      "airdate": "",
-      "title": {
-        "en": "Episode 1 (Part 1 of 2)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": ""
-    },
-    "O5": {
-      "episode": "O5",
-      "anidbEid": "12829",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 35,
-      "airdate": "",
-      "title": {
-        "en": "Episode 1 (Part 2 of 2)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": ""
+      "airDate": "1997-03-15"
     },
     "S2": {
       "episode": "S2",
-      "anidbEid": "35811",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 30,
+      "length": "30m",
       "airdate": "",
       "title": {
         "en": "Genesis 0:0` - THE LIGHT FROM THE DARKNESS"
@@ -265,12 +191,57 @@
       "image": null,
       "airDate": ""
     },
+    "S3": {
+      "episode": "S3",
+      "length": "25m",
+      "airdate": "",
+      "title": {
+        "en": "Video storyboard 12"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airdate": "",
+      "title": {
+        "en": "Promo"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "O1": {
+      "episode": "O1",
+      "length": "0m",
+      "airdate": "",
+      "title": {
+        "en": "Subtitles"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
     "O2": {
       "episode": "O2",
-      "anidbEid": "39568",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 55,
+      "length": "55m",
       "airdate": "",
       "title": {
         "en": "Episodes 1-3 (Part 1 of 2)"
@@ -286,10 +257,7 @@
     },
     "O3": {
       "episode": "O3",
-      "anidbEid": "39569",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 45,
+      "length": "45m",
       "airdate": "",
       "title": {
         "en": "Episodes 1-3 (Part 2 of 2)"
@@ -303,17 +271,12 @@
       "image": null,
       "airDate": ""
     },
-    "S1": {
-      "episode": "S1",
-      "anidbEid": "47088",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 4,
-      "airdate": "1997-03-15",
+    "O4": {
+      "episode": "O4",
+      "length": "40m",
+      "airdate": "",
       "title": {
-        "en": "Intermission",
-        "romaji": "Kyuukei",
-        "ja": "休憩"
+        "en": "Episode 1 (Part 1 of 2)"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -322,17 +285,14 @@
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null,
-      "airDate": "1997-03-15"
+      "airDate": ""
     },
-    "S3": {
-      "episode": "S3",
-      "anidbEid": "266628",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 25,
+    "O5": {
+      "episode": "O5",
+      "length": "35m",
       "airdate": "",
       "title": {
-        "en": "Video storyboard 12"
+        "en": "Episode 1 (Part 2 of 2)"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -345,13 +305,13 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-23T20:09:37.056Z",
+    "lastFetched": "2026-06-24T14:59:26.597Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "anizip",
+      "zenshin",
       "simkl"
     ],
     "missingSources": [],
