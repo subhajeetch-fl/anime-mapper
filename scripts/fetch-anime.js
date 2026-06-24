@@ -14,9 +14,9 @@
  *                   lets us filter to anime-only entries and sort them
  *                   chronologically).
  *   4. animeapi.my.id - the `mappings` block (also supplies the AniList id
- *                   AniZip needs and the Simkl id for dub data).
- *   5. AniZip     - per-episode data (the schema given in the spec).
- *   6. Simkl      - per-episode dub availability (has-dub), overrides AniZip's
+ *                   Zenshin needs and the Simkl id for dub data).
+ *   5. Zenshin     - per-episode data (the schema given in the spec).
+ *   6. Simkl      - per-episode dub availability (has-dub), overrides Zenshin's
  *                   isDubbed which is often inaccurate.
  *
  * NOTE: because `sequence` now comes only from AniList, a transient
@@ -28,7 +28,7 @@
  *
  * A single anime is considered a hard FAILURE (-> retry queue + Discord)
  * only if BOTH Jikan and Kitsu fail, since those are the two designated
- * primary sources. AniList/animeapi.my.id/AniZip failures are logged as
+ * primary sources. AniList/animeapi.my.id/Zenshin failures are logged as
  * soft errors - the file is still written, just missing that enrichment,
  * and `meta.missingSources` records what's absent so a later run can
  * backfill it.
@@ -44,15 +44,13 @@ import * as jikan from './lib/jikan.js';
 import * as kitsu from './lib/kitsu.js';
 import * as anilist from './lib/anilist.js';
 import * as idMapping from './lib/idMapping.js';
-import * as aniZip from './lib/aniZip.js';
-import * as simkl from './lib/simkl.js';
+import * as Zenshin from './lib/zenshin.js';
 import {
   jikanLimiter,
   kitsuLimiter,
   aniListLimiter,
   idMappingLimiter,
-  aniZipLimiter,
-  simklLimiter,
+  zenshinLimiter,
 } from './lib/rateLimiter.js';
 
 const ANIME_DIR = path.resolve('data/anime');
@@ -66,7 +64,7 @@ export async function fetchAnime(malId) {
   const errors = [];
   const missingSources = [];
 
-  // --- 1. ID mapping (also unlocks AniZip) -------------------------------
+  // --- 1. ID mapping (also unlocks Zenshin) -------------------------------
   await idMappingLimiter();
   let mappingRaw = null;
   try {
@@ -118,44 +116,20 @@ export async function fetchAnime(malId) {
     return { ok: false, malId: id, errors };
   }
 
-  // --- 3. Episodes via AniZip (needs an AniList id) -----------------------
+  // --- 3. Episodes via Zenshin (needs an AniList id) -----------------------
   const anilistIdForEpisodes = mappings.anilist ?? anilistData?.anilistId ?? null;
   let episodes = {};
   if (anilistIdForEpisodes) {
     try {
-      await aniZipLimiter();
-      const rawEpisodes = await aniZip.getEpisodesByAniListId(anilistIdForEpisodes);
-      episodes = aniZip.normalizeEpisodes(rawEpisodes);
+      await zenshinLimiter();
+      const rawEpisodes = await Zenshin.getEpisodesByAniListId(anilistIdForEpisodes);
+      episodes = Zenshin.normalizeEpisodes(rawEpisodes);
     } catch (err) {
-      errors.push({ id, source: 'AniZip', message: err.message, status: err.status ?? null });
-      missingSources.push('anizip');
+      errors.push({ id, source: 'Zenshin', message: err.message, status: err.status ?? null });
+      missingSources.push('zenshin');
     }
   } else {
-    missingSources.push('anizip (no AniList id resolved)');
-  }
-
-  // --- 3b. Dub data via Simkl (needs a Simkl id from mappings) ------------
-  let simklLookup = {};
-  if (mappings.simkl) {
-    try {
-      await simklLimiter();
-      const simklResult = await simkl.getEpisodesBySimklId(mappings.simkl);
-      simklLookup = simkl.buildSimklLookup(simklResult);
-
-      // Merge Simkl dub data into AniZip episodes
-      for (const [epKey, epData] of Object.entries(episodes)) {
-        const simklEp = simklLookup[epKey];
-        if (simklEp) {
-          epData.isDubbed = simklEp.isDubbed;
-          epData.simklEpisodeId = simklEp.simklEpisodeId;
-        }
-      }
-    } catch (err) {
-      errors.push({ id, source: 'Simkl', message: err.message, status: err.status ?? null });
-      missingSources.push('simkl');
-    }
-  } else {
-    missingSources.push('simkl (no Simkl id resolved)');
+    missingSources.push('zenshin (no AniList id resolved)');
   }
 
   // --- 4. Merge into final schema -----------------------------------------
@@ -200,14 +174,7 @@ export async function fetchAnime(malId) {
     rating: jikanData?.rating ?? kitsuData?.ageRating ?? null,
     score: {
       malScore: jikanData?.score ?? null,
-      malScoredBy: jikanData?.scoredBy ?? null,
-      malRank: jikanData?.rank ?? null,
-      malPopularity: jikanData?.popularity ?? null,
-      malMembers: jikanData?.members ?? null,
-      malFavorites: jikanData?.favorites ?? null,
       anilistScore: anilistData?.averageScore ?? null,
-      anilistPopularity: anilistData?.popularity ?? null,
-      anilistFavourites: anilistData?.favourites ?? null,
       kitsuRating: kitsuData?.averageRating ?? null,
     },
     genres,
@@ -226,7 +193,7 @@ export async function fetchAnime(malId) {
     episodes,
     meta: {
       lastFetched: new Date().toISOString(),
-      sourcesUsed: ['jikan', 'kitsu', 'anilist', 'animeapi.my.id', 'anizip', 'simkl'].filter(
+      sourcesUsed: ['jikan', 'kitsu', 'anilist', 'animeapi.my.id', 'zenshin', 'simkl'].filter(
         (s) => !missingSources.includes(s) && !missingSources.some((m) => m.startsWith(s))
       ),
       missingSources,

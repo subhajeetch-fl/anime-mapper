@@ -4,18 +4,11 @@
   "mappings": {
     "mal": 6,
     "anilist": 6,
-    "anidb": 53,
     "kitsu": 3,
     "simkl": 40856,
     "tmdb": 26453,
     "tvdb": 77680,
-    "trakt": 26336,
-    "traktType": "shows",
-    "shikimori": 6,
-    "livechart": 3634,
-    "animeplanet": "trigun",
-    "anisearch": 2295,
-    "notify": "SDkpcFmig"
+    "animeplanet": "trigun"
   },
   "title": {
     "romaji": "TRIGUN",
@@ -48,14 +41,7 @@
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": 8.22,
-    "malScoredBy": 402671,
-    "malRank": 421,
-    "malPopularity": 266,
-    "malMembers": 837946,
-    "malFavorites": 17761,
     "anilistScore": 8,
-    "anilistPopularity": 165307,
-    "anilistFavourites": 7020,
     "kitsuRating": 8.19
   },
   "genres": [
@@ -124,15 +110,10 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "anidbEid": "315",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-04-02",
       "title": {
-        "en": "The $$60,000,000,000.00 Man",
-        "romaji": "600 Oku $$ no Otoko",
-        "ja": "600億$$の男"
+        "en": "The $$60,000,000,000.00 Man"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254098,
@@ -141,20 +122,14 @@
       "absoluteEpisodeNumber": 1,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254098.jpg",
-      "airDate": "1998-04-01",
-      "simklEpisodeId": "936415"
+      "airDate": "1998-04-01"
     },
     "2": {
       "episode": "2",
-      "anidbEid": "402",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-04-09",
       "title": {
-        "en": "Truth of Mistake",
-        "romaji": "Truth of Mistake",
-        "ja": "TRUTH OF MISTAKE"
+        "en": "Truth of Mistake"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254099,
@@ -163,20 +138,14 @@
       "absoluteEpisodeNumber": 2,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254099.jpg",
-      "airDate": "1998-04-08",
-      "simklEpisodeId": "936418"
+      "airDate": "1998-04-08"
     },
     "3": {
       "episode": "3",
-      "anidbEid": "403",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-04-16",
       "title": {
-        "en": "Peace Maker",
-        "romaji": "Peace Maker",
-        "ja": "PEACE MAKER"
+        "en": "Peace Maker"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254100,
@@ -185,20 +154,14 @@
       "absoluteEpisodeNumber": 3,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254100.jpg",
-      "airDate": "1998-04-15",
-      "simklEpisodeId": "936419"
+      "airDate": "1998-04-15"
     },
     "4": {
       "episode": "4",
-      "anidbEid": "404",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-04-23",
       "title": {
-        "en": "Love & Peace",
-        "romaji": "Love & Peace",
-        "ja": "LOVE&PEACE"
+        "en": "Love & Peace"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254101,
@@ -207,20 +170,14 @@
       "absoluteEpisodeNumber": 4,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254101.jpg",
-      "airDate": "1998-04-22",
-      "simklEpisodeId": "936420"
+      "airDate": "1998-04-22"
     },
     "5": {
       "episode": "5",
-      "anidbEid": "405",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-04-30",
       "title": {
-        "en": "Hard Puncher",
-        "romaji": "Hard Puncher",
-        "ja": "HARD PUNCHER"
+        "en": "Hard Puncher"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254102,
@@ -229,20 +186,14 @@
       "absoluteEpisodeNumber": 5,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254102.jpg",
-      "airDate": "1998-04-29",
-      "simklEpisodeId": "936421"
+      "airDate": "1998-04-29"
     },
     "6": {
       "episode": "6",
-      "anidbEid": "406",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-05-07",
       "title": {
-        "en": "Lost July",
-        "romaji": "Lost July",
-        "ja": "LOST JULY"
+        "en": "Lost July"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254103,
@@ -251,20 +202,14 @@
       "absoluteEpisodeNumber": 6,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254103.jpg",
-      "airDate": "1998-05-06",
-      "simklEpisodeId": "936422"
+      "airDate": "1998-05-06"
     },
     "7": {
       "episode": "7",
-      "anidbEid": "377",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-05-14",
       "title": {
-        "en": "B.D.N.",
-        "romaji": "B.D.N.",
-        "ja": "B.D.N."
+        "en": "B.D.N."
       },
       "tvdbShowId": 77680,
       "tvdbId": 254104,
@@ -273,20 +218,14 @@
       "absoluteEpisodeNumber": 7,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254104.jpg",
-      "airDate": "1998-05-13",
-      "simklEpisodeId": "936417"
+      "airDate": "1998-05-13"
     },
     "8": {
       "episode": "8",
-      "anidbEid": "376",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-05-21",
       "title": {
-        "en": "And Between the Wasteland and Sky",
-        "romaji": "Soshite Kouya to Sora no Aida o",
-        "ja": "そして荒野と空の間を"
+        "en": "And Between the Wasteland and Sky"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254105,
@@ -295,20 +234,14 @@
       "absoluteEpisodeNumber": 8,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254105.jpg",
-      "airDate": "1998-05-20",
-      "simklEpisodeId": "936416"
+      "airDate": "1998-05-20"
     },
     "9": {
       "episode": "9",
-      "anidbEid": "1727",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-05-28",
       "title": {
-        "en": "Murder Machine",
-        "romaji": "Murder Machine",
-        "ja": "MURDER MACHINE"
+        "en": "Murder Machine"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254106,
@@ -317,20 +250,14 @@
       "absoluteEpisodeNumber": 9,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254106.jpg",
-      "airDate": "1998-05-27",
-      "simklEpisodeId": "936435"
+      "airDate": "1998-05-27"
     },
     "10": {
       "episode": "10",
-      "anidbEid": "1715",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-06-11",
       "title": {
-        "en": "Quick Draw",
-        "romaji": "Quick Draw",
-        "ja": "QUICK DRAW"
+        "en": "Quick Draw"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254107,
@@ -339,20 +266,14 @@
       "absoluteEpisodeNumber": 10,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254107.jpg",
-      "airDate": "1998-06-10",
-      "simklEpisodeId": "936423"
+      "airDate": "1998-06-10"
     },
     "11": {
       "episode": "11",
-      "anidbEid": "1730",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-06-18",
       "title": {
-        "en": "Escape from Pain",
-        "romaji": "Escape From Pain",
-        "ja": "ESCAPE FROM PAIN"
+        "en": "Escape from Pain"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254108,
@@ -361,20 +282,14 @@
       "absoluteEpisodeNumber": 11,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254108.jpg",
-      "airDate": "1998-06-17",
-      "simklEpisodeId": "936438"
+      "airDate": "1998-06-17"
     },
     "12": {
       "episode": "12",
-      "anidbEid": "1729",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-06-25",
       "title": {
-        "en": "Diablo",
-        "romaji": "Diablo",
-        "ja": "DIABLO"
+        "en": "Diablo"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254109,
@@ -383,20 +298,14 @@
       "absoluteEpisodeNumber": 12,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254109.jpg",
-      "airDate": "1998-06-24",
-      "simklEpisodeId": "936437"
+      "airDate": "1998-06-24"
     },
     "13": {
       "episode": "13",
-      "anidbEid": "1728",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-07-02",
       "title": {
-        "en": "Vash the Stampede",
-        "romaji": "Vash the Stampede",
-        "ja": "ヴァッシュ・ザ・スタンピード"
+        "en": "Vash the Stampede"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254110,
@@ -405,20 +314,14 @@
       "absoluteEpisodeNumber": 13,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254110.jpg",
-      "airDate": "1998-07-01",
-      "simklEpisodeId": "936436"
+      "airDate": "1998-07-01"
     },
     "14": {
       "episode": "14",
-      "anidbEid": "1725",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-07-09",
       "title": {
-        "en": "Little Arcadia",
-        "romaji": "Little Arcadia",
-        "ja": "LITTLE ARCADIA"
+        "en": "Little Arcadia"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254111,
@@ -427,20 +330,14 @@
       "absoluteEpisodeNumber": 14,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254111.jpg",
-      "airDate": "1998-07-08",
-      "simklEpisodeId": "936433"
+      "airDate": "1998-07-08"
     },
     "15": {
       "episode": "15",
-      "anidbEid": "1723",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-07-16",
       "title": {
-        "en": "Demon`s Eye",
-        "romaji": "Demons Eye",
-        "ja": "DEMONS EYE"
+        "en": "Demon`s Eye"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254112,
@@ -449,20 +346,14 @@
       "absoluteEpisodeNumber": 15,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254112.jpg",
-      "airDate": "1998-07-15",
-      "simklEpisodeId": "936431"
+      "airDate": "1998-07-15"
     },
     "16": {
       "episode": "16",
-      "anidbEid": "1721",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-07-23",
       "title": {
-        "en": "Fifth Moon",
-        "romaji": "Fifth Moon",
-        "ja": "FIFTH MOON"
+        "en": "Fifth Moon"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254113,
@@ -471,20 +362,14 @@
       "absoluteEpisodeNumber": 16,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254113.jpg",
-      "airDate": "1998-07-22",
-      "simklEpisodeId": "936429"
+      "airDate": "1998-07-22"
     },
     "17": {
       "episode": "17",
-      "anidbEid": "1719",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-07-30",
       "title": {
-        "en": "Rem Saverem",
-        "romaji": "Rem Saverem",
-        "ja": "レム・セイブレム"
+        "en": "Rem Saverem"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254114,
@@ -493,20 +378,14 @@
       "absoluteEpisodeNumber": 17,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254114.jpg",
-      "airDate": "1998-07-29",
-      "simklEpisodeId": "936427"
+      "airDate": "1998-07-29"
     },
     "18": {
       "episode": "18",
-      "anidbEid": "1717",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-08-06",
       "title": {
-        "en": "Goodbye for Now",
-        "romaji": "Ima wa, Sayonara",
-        "ja": "今は, さよなら"
+        "en": "Goodbye for Now"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254115,
@@ -515,20 +394,14 @@
       "absoluteEpisodeNumber": 18,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254115.jpg",
-      "airDate": "1998-08-05",
-      "simklEpisodeId": "936425"
+      "airDate": "1998-08-05"
     },
     "19": {
       "episode": "19",
-      "anidbEid": "1716",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-08-13",
       "title": {
-        "en": "Hang Fire",
-        "romaji": "Hang Fire",
-        "ja": "HANG FIRE"
+        "en": "Hang Fire"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254116,
@@ -537,20 +410,14 @@
       "absoluteEpisodeNumber": 19,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254116.jpg",
-      "airDate": "1998-08-12",
-      "simklEpisodeId": "936424"
+      "airDate": "1998-08-12"
     },
     "20": {
       "episode": "20",
-      "anidbEid": "1726",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-08-20",
       "title": {
-        "en": "Flying Ship",
-        "romaji": "Flying Ship",
-        "ja": "FLYING SHIP"
+        "en": "Flying Ship"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254117,
@@ -559,20 +426,14 @@
       "absoluteEpisodeNumber": 20,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254117.jpg",
-      "airDate": "1998-08-19",
-      "simklEpisodeId": "936434"
+      "airDate": "1998-08-19"
     },
     "21": {
       "episode": "21",
-      "anidbEid": "1724",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-08-27",
       "title": {
-        "en": "Out of Time",
-        "romaji": "Out of Time",
-        "ja": "OUT OF TIME"
+        "en": "Out of Time"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254118,
@@ -581,20 +442,14 @@
       "absoluteEpisodeNumber": 21,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254118.jpg",
-      "airDate": "1998-08-26",
-      "simklEpisodeId": "936432"
+      "airDate": "1998-08-26"
     },
     "22": {
       "episode": "22",
-      "anidbEid": "1722",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-09-03",
       "title": {
-        "en": "Alternative",
-        "romaji": "Alternative",
-        "ja": "ALTERNATIVE"
+        "en": "Alternative"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254119,
@@ -603,20 +458,14 @@
       "absoluteEpisodeNumber": 22,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254119.jpg",
-      "airDate": "1998-09-02",
-      "simklEpisodeId": "936430"
+      "airDate": "1998-09-02"
     },
     "23": {
       "episode": "23",
-      "anidbEid": "1720",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-09-10",
       "title": {
-        "en": "Paradise",
-        "romaji": "Rakuen",
-        "ja": "楽園"
+        "en": "Paradise"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254120,
@@ -625,20 +474,14 @@
       "absoluteEpisodeNumber": 23,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254120.jpg",
-      "airDate": "1998-09-09",
-      "simklEpisodeId": "936428"
+      "airDate": "1998-09-09"
     },
     "24": {
       "episode": "24",
-      "anidbEid": "1718",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-09-17",
       "title": {
-        "en": "Sin",
-        "romaji": "Tsumi",
-        "ja": "罪"
+        "en": "Sin"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254121,
@@ -647,20 +490,14 @@
       "absoluteEpisodeNumber": 24,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254121.jpg",
-      "airDate": "1998-09-16",
-      "simklEpisodeId": "936426"
+      "airDate": "1998-09-16"
     },
     "25": {
       "episode": "25",
-      "anidbEid": "2397",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-09-24",
       "title": {
-        "en": "Live Through",
-        "romaji": "Live Through",
-        "ja": "LIVE THROUGH"
+        "en": "Live Through"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254122,
@@ -669,20 +506,14 @@
       "absoluteEpisodeNumber": 25,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254122.jpg",
-      "airDate": "1998-09-23",
-      "simklEpisodeId": "936439"
+      "airDate": "1998-09-23"
     },
     "26": {
       "episode": "26",
-      "anidbEid": "2398",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 25,
+      "length": "25m",
       "airdate": "1998-10-01",
       "title": {
-        "en": "Under the Sky So Blue",
-        "romaji": "Konna ni mo Aoi Sora no Shita de",
-        "ja": "こんなにも青い空の下で"
+        "en": "Under the Sky So Blue"
       },
       "tvdbShowId": 77680,
       "tvdbId": 254123,
@@ -691,18 +522,69 @@
       "absoluteEpisodeNumber": 26,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/77680/254123.jpg",
-      "airDate": "1998-09-30",
-      "simklEpisodeId": "936440"
+      "airDate": "1998-09-30"
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airdate": "1998-04-02",
+      "title": {
+        "en": "H.T (1-26)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1998-04-02"
+    },
+    "ED1a": {
+      "episode": "ED1a",
+      "length": "2m",
+      "airdate": "1998-04-02",
+      "title": {
+        "en": "Kaze wa Mirai ni Fuku (1-26)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1998-04-02"
+    },
+    "ED1b": {
+      "episode": "ED1b",
+      "length": "2m",
+      "airdate": "1998-10-01",
+      "title": {
+        "en": "Kaze wa Mirai ni Fuku (1-26)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": "1998-10-01"
     }
   },
   "meta": {
+<<<<<<< HEAD
     "lastFetched": "2026-06-23T20:54:41.933Z",
+=======
+    "lastFetched": "2026-06-24T14:24:20.397Z",
+>>>>>>> b34d8b2 (feat: change isFiller, isDubbed option and more unnecessary options)
     "sourcesUsed": [
       "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "anizip",
+      "zenshin",
       "simkl"
     ],
     "missingSources": [],

@@ -12,9 +12,5 @@
     "add:anime": "node scripts/add-anime.js",
     "update:airing": "node scripts/update-airing.js",
     "build:indexes": "node scripts/build-indexes.js"
-  },
-  "dependencies": {
-    "cheerio": "^1.2.0",
-    "playwright": "^1.61.0"
   }
 }

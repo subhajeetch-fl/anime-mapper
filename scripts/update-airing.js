@@ -23,7 +23,6 @@
 import { fetchAnime } from './fetch-anime.js';
 import { buildIndexes } from './build-indexes.js';
 import { reportErrorsToDiscord } from './lib/discord.js';
-import { closeBrowser } from './lib/browser.js';
 import {
   loadLastUpdated,
   saveLastUpdated,
@@ -111,8 +110,6 @@ async function run() {
   );
 }
 
-try {
+
   await run();
-} finally {
-  await closeBrowser();
-}
+

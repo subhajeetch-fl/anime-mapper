@@ -19,7 +19,7 @@
  */
 import { fetchJson } from './httpClient.js';
 
-const BASE_URL = 'https://api.ani.zip/mappings';
+const BASE_URL = 'https://zenshin-supabase-api.onrender.com/mappings';
 
 /**
  * @param {number|string} anilistId
@@ -28,7 +28,7 @@ const BASE_URL = 'https://api.ani.zip/mappings';
 export async function getEpisodesByAniListId(anilistId) {
   if (!anilistId) return null;
   return fetchJson(`${BASE_URL}?anilist_id=${anilistId}`, {
-    label: 'AniZip',
+    label: 'Zenshin',
     retries: 3,
     baseDelayMs: 1500,
   });
@@ -53,9 +53,6 @@ export function normalizeEpisodes(rawAniZip) {
   for (const [key, ep] of Object.entries(episodes)) {
     result[key] = {
       episode: String(ep.episode ?? key),
-      anidbEid: ep.anidbEid != null ? String(ep.anidbEid) : null,
-      isFiller: Boolean(ep.isFiller),
-      isDubbed: Boolean(ep.isDubbed ?? ep.dub),
       length: ep.length ?? (ep.runtime ? `${ep.runtime}m` : null),
       airdate: ep.airdate ?? ep.airDate ?? null,
       title: {

@@ -4,18 +4,11 @@
   "mappings": {
     "mal": 5,
     "anilist": 5,
-    "anidb": 219,
     "kitsu": 2,
     "simkl": 38382,
     "tmdb": 11299,
     "tvdb": null,
-    "trakt": 6398,
-    "traktType": "movies",
-    "shikimori": 5,
-    "livechart": 3419,
-    "animeplanet": "cowboy-bebop-the-movie",
-    "anisearch": 261,
-    "notify": "emzt5FmiR"
+    "animeplanet": "cowboy-bebop-the-movie"
   },
   "title": {
     "romaji": "Cowboy Bebop: Tengoku no Tobira",
@@ -51,14 +44,7 @@
   "rating": "R - 17+ (violence & profanity)",
   "score": {
     "malScore": 8.38,
-    "malScoredBy": 232799,
-    "malRank": 243,
-    "malPopularity": 659,
-    "malMembers": 413397,
-    "malFavorites": 1793,
     "anilistScore": 8.2,
-    "anilistPopularity": 82420,
-    "anilistFavourites": 1735,
     "kitsuRating": 8.2
   },
   "genres": [
@@ -107,30 +93,23 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "anidbEid": "8544",
-      "isFiller": false,
-      "isDubbed": true,
-      "length": 115,
+      "length": "115m",
       "airdate": "2001-09-01",
       "title": {
         "en": "Complete Movie"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null,
-      "airDate": "2001-09-01",
-      "simklEpisodeId": "891042"
+      "tvdbShowId": 76885,
+      "tvdbId": 360926,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 115,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76885/360926.jpg",
+      "airDate": "2001-09-01"
     },
     "2": {
       "episode": "2",
-      "anidbEid": "2549",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 60,
+      "length": "60m",
       "airdate": "2001-09-01",
       "title": {
         "en": "Part 1 of 2"
@@ -146,10 +125,7 @@
     },
     "3": {
       "episode": "3",
-      "anidbEid": "2550",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 60,
+      "length": "60m",
       "airdate": "2001-09-01",
       "title": {
         "en": "Part 2 of 2"
@@ -165,10 +141,7 @@
     },
     "4": {
       "episode": "4",
-      "anidbEid": "13276",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 0,
+      "length": "0m",
       "airdate": "2001-09-01",
       "title": {
         "en": "Part 1 of 3"
@@ -184,10 +157,7 @@
     },
     "5": {
       "episode": "5",
-      "anidbEid": "13275",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 0,
+      "length": "0m",
       "airdate": "2001-09-01",
       "title": {
         "en": "Part 2 of 3"
@@ -203,10 +173,7 @@
     },
     "6": {
       "episode": "6",
-      "anidbEid": "7183",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 0,
+      "length": "0m",
       "airdate": "2001-09-01",
       "title": {
         "en": "Part 3 of 3"
@@ -222,10 +189,7 @@
     },
     "S1": {
       "episode": "S1",
-      "anidbEid": "26502",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 6,
+      "length": "6m",
       "airdate": "",
       "title": {
         "en": "Movie Commentary"
@@ -241,10 +205,7 @@
     },
     "S2": {
       "episode": "S2",
-      "anidbEid": "26503",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 7,
+      "length": "7m",
       "airdate": "",
       "title": {
         "en": "Soundtrack Commentary"
@@ -260,10 +221,7 @@
     },
     "S3": {
       "episode": "S3",
-      "anidbEid": "26504",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 7,
+      "length": "7m",
       "airdate": "",
       "title": {
         "en": "Character Profile - Spike"
@@ -279,10 +237,7 @@
     },
     "S4": {
       "episode": "S4",
-      "anidbEid": "26505",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 7,
+      "length": "7m",
       "airdate": "",
       "title": {
         "en": "Character Profile - Faye"
@@ -298,10 +253,7 @@
     },
     "S5": {
       "episode": "S5",
-      "anidbEid": "26506",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 7,
+      "length": "7m",
       "airdate": "",
       "title": {
         "en": "Character Profile - Ed"
@@ -317,10 +269,7 @@
     },
     "S6": {
       "episode": "S6",
-      "anidbEid": "26507",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 5,
+      "length": "5m",
       "airdate": "",
       "title": {
         "en": "Character Profile - Jet"
@@ -336,10 +285,7 @@
     },
     "S7": {
       "episode": "S7",
-      "anidbEid": "26508",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 15,
+      "length": "15m",
       "airdate": "",
       "title": {
         "en": "Storyboard Comparison"
@@ -355,10 +301,7 @@
     },
     "S8": {
       "episode": "S8",
-      "anidbEid": "26509",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 4,
+      "length": "4m",
       "airdate": "",
       "title": {
         "en": "AMV - Into the Darkness"
@@ -374,10 +317,7 @@
     },
     "S9": {
       "episode": "S9",
-      "anidbEid": "271202",
-      "isFiller": false,
-      "isDubbed": false,
-      "length": 15,
+      "length": "15m",
       "airdate": "",
       "title": {
         "en": "Cowboy Bebop the Movie - English Voice Cast Reunion"
@@ -390,16 +330,100 @@
       "runtime": null,
       "image": null,
       "airDate": ""
+    },
+    "C1": {
+      "episode": "C1",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Opening"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "C2": {
+      "episode": "C2",
+      "length": "4m",
+      "airdate": "",
+      "title": {
+        "en": "Ending"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "2m",
+      "airdate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null,
+      "airDate": ""
     }
   },
   "meta": {
+<<<<<<< HEAD
     "lastFetched": "2026-06-23T20:54:37.019Z",
+=======
+    "lastFetched": "2026-06-24T14:24:17.717Z",
+>>>>>>> b34d8b2 (feat: change isFiller, isDubbed option and more unnecessary options)
     "sourcesUsed": [
       "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "anizip",
+      "zenshin",
       "simkl"
     ],
     "missingSources": [],

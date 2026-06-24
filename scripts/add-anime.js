@@ -19,7 +19,6 @@ import { fetchAnime } from './fetch-anime.js';
 import { buildIndexes } from './build-indexes.js';
 import { reportErrorsToDiscord } from './lib/discord.js';
 import { loadRetryQueue, saveRetryQueue, updateRetryQueue } from './lib/state.js';
-import { closeBrowser } from './lib/browser.js';
 
 function parseRange(rangeArg) {
   const [start, end] = rangeArg.split('-').map(Number);
@@ -79,13 +78,35 @@ async function run() {
     allErrors.push(...result.errors);
   }
 
-  const failedIds = ids.filter((id) => !succeededIds.includes(id));
-  const retryQueue = await loadRetryQueue();
-  const newQueue = updateRetryQueue(retryQueue, {
-    failed: allErrors.filter((e) => failedIds.includes(e.id)),
-    succeededIds,
-  });
-  await saveRetryQueue(newQueue);
+    const failedIds = ids.filter((id) => !succeededIds.includes(id));
+
+    const retryableErrors = allErrors.filter((e) => {
+      if (!failedIds.includes(e.id)) return false;
+
+      const msg = String(e.message || '').toLowerCase();
+
+      // Permanent failures -> never retry
+      if (
+        msg.includes('404') ||
+        msg.includes('not found') ||
+        msg.includes('mal not found') ||
+        msg.includes('AniList returned 404') ||
+        msg.includes('Anilist')
+      ) {
+        return false;
+      }
+
+      return true;
+    });
+
+    const retryQueue = await loadRetryQueue();
+
+    const newQueue = updateRetryQueue(retryQueue, {
+      failed: retryableErrors,
+      succeededIds,
+    });
+
+    await saveRetryQueue(newQueue);
 
   await buildIndexes();
 
@@ -96,8 +117,6 @@ async function run() {
   console.log(`add-anime done: ${succeededIds.length}/${ids.length} succeeded.`);
 }
 
-try {
+
   await run();
-} finally {
-  await closeBrowser();
-}
+

@@ -64,17 +64,10 @@ export function normalizeMappings(raw, malId) {
   return {
     mal: Number(malId),
     anilist: raw.anilist ?? null,
-    anidb: raw.anidb ?? null,
     kitsu: raw.kitsu ?? null,
     simkl: raw.simkl ?? null,
     tmdb: raw.themoviedb ?? raw.tmdb ?? null,
     tvdb: raw.thetvdb ?? raw.tvdb ?? null,
-    trakt: raw.trakt ?? null,
-    traktType: raw.trakt_type ?? null,
-    shikimori: raw.shikimori ?? null,
-    livechart: raw.livechart ?? null,
     animeplanet: raw.animeplanet ?? null,
-    anisearch: raw.anisearch ?? null,
-    notify: raw.notify ?? null,
   };
 }

@@ -7,7 +7,7 @@
  *   AniList          ~30 req/min (degraded)    -> 2200ms between calls
  *   Kitsu            no published hard limit   -> 600ms (be polite)
  *   animeapi.my.id   no published hard limit   -> 300ms (be polite)
- *   AniZip           no published hard limit   -> 500ms (be polite)
+ *   Zenshin           no published hard limit   -> 500ms (be polite)
  *   Simkl            HTML scrape, be polite    -> 1500ms between calls
  *
  * This is intentionally simple (sequential pacing, not a token bucket)
@@ -34,5 +34,4 @@ export const jikanLimiter = createRateLimiter(450);
 export const aniListLimiter = createRateLimiter(2200);
 export const kitsuLimiter = createRateLimiter(600);
 export const idMappingLimiter = createRateLimiter(300);
-export const aniZipLimiter = createRateLimiter(500);
-export const simklLimiter = createRateLimiter(1500);
+export const zenshinLimiter = createRateLimiter(500);
