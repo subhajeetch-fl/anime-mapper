@@ -10,6 +10,9 @@
   "scripts": {
     "fetch:one": "node scripts/fetch-anime.js",
     "add:anime": "node scripts/add-anime.js",
+    "discover:ids": "node scripts/discover-ids.js",
+    "auto:add": "node scripts/auto-add.js",
+    "update:smart": "node scripts/smart-update.js",
     "update:airing": "node scripts/update-airing.js",
     "build:indexes": "node scripts/build-indexes.js"
   }

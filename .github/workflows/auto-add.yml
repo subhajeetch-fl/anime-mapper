@@ -1,0 +1,58 @@
+name: Auto Add Anime
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: "How many discovered ids to add this run (max 2000)"
+        type: string
+        default: "2000"
+
+concurrency:
+  group: anime-data-pipeline
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  auto-add:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Add discovered anime
+        env:
+          DISCORD_WEBHOOK_URL: "${{ secrets.DISCORD_WEBHOOK_URL }}"
+          BATCH_SIZE_INPUT: "${{ inputs.batch_size || '2000' }}"
+        run: |
+          set -euo pipefail
+
+          BATCH_SIZE="$BATCH_SIZE_INPUT"
+
+          if ! [[ "$BATCH_SIZE" =~ ^[0-9]+$ ]] || [ "$BATCH_SIZE" -lt 1 ] || [ "$BATCH_SIZE" -gt 2000 ]; then
+            echo "::error::batch_size must be an integer from 1 to 2000."
+            exit 1
+          fi
+
+          node scripts/auto-add.js --batch-size="$BATCH_SIZE" --max-runtime-minutes=330
+
+      - name: Commit and push safely
+        run: |
+          bash .github/scripts/commit-and-push.sh "chore(data): auto add anime [skip ci]" rebuild-indexes

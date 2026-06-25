@@ -20,6 +20,7 @@
  */
 import { readFile, readdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
+import { pathToFileURL } from 'node:url';
 
 const ANIME_DIR = path.resolve('data/anime');
 const DATA_DIR = path.resolve('data');
@@ -143,7 +144,8 @@ export async function buildIndexes() {
   };
 }
 
-const isMainModule = import.meta.url === `file://${process.argv[1]}`;
+const isMainModule =
+  process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;
 if (isMainModule) {
   const stats = await buildIndexes();
   console.log(`Indexed ${stats.total} anime -> trending: ${stats.trending}, popular: ${stats.popular}, top-rated: ${stats.topRated}, genres: ${stats.genres}`);

@@ -78,26 +78,21 @@ async function run() {
     allErrors.push(...result.errors);
   }
 
-    const failedIds = ids.filter((id) => !succeededIds.includes(id));
+    const permanentFailureIds = new Set(
+      allErrors
+        .filter((e) => {
+          const source = String(e.source || '').toLowerCase();
+          const msg = String(e.message || '').toLowerCase();
+          return (
+            !succeededIds.includes(e.id) &&
+            (source === 'primary' || source === 'jikan' || source === 'kitsu') &&
+            (e.status === 404 || msg.includes('not found') || msg.includes('no jikan or kitsu'))
+          );
+        })
+        .map((e) => String(e.id))
+    );
 
-    const retryableErrors = allErrors.filter((e) => {
-      if (!failedIds.includes(e.id)) return false;
-
-      const msg = String(e.message || '').toLowerCase();
-
-      // Permanent failures -> never retry
-      if (
-        msg.includes('404') ||
-        msg.includes('not found') ||
-        msg.includes('mal not found') ||
-        msg.includes('AniList returned 404') ||
-        msg.includes('Anilist')
-      ) {
-        return false;
-      }
-
-      return true;
-    });
+    const retryableErrors = allErrors.filter((e) => !permanentFailureIds.has(String(e.id)));
 
     const retryQueue = await loadRetryQueue();
 
@@ -119,4 +114,3 @@ async function run() {
 
 
   await run();
-

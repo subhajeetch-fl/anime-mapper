@@ -37,8 +37,9 @@
  *   node scripts/fetch-anime.js 21
  *   node scripts/fetch-anime.js 21 813 16498   (multiple ids)
  */
-import { writeFile, mkdir } from 'node:fs/promises';
+import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import path from 'node:path';
+import { pathToFileURL } from 'node:url';
 
 import * as jikan from './lib/jikan.js';
 import * as kitsu from './lib/kitsu.js';
@@ -57,10 +58,14 @@ const ANIME_DIR = path.resolve('data/anime');
 
 /**
  * @param {number|string} malId
- * @returns {Promise<{ ok: boolean, malId: number, errors: Array, filePath?: string }>}
+ * @param {object} options
+ * @param {boolean} [options.skipUnchanged=false] Do not rewrite the JSON file if meaningful data is identical.
+ * @param {boolean} [options.skipWriteOnSoftError=false] Preserve the old file if enrichment sources failed.
+ * @returns {Promise<{ ok: boolean, malId: number, errors: Array, filePath?: string, changed?: boolean, skippedWrite?: boolean }>}
  */
-export async function fetchAnime(malId) {
+export async function fetchAnime(malId, options = {}) {
   const id = Number(malId);
+  const { skipUnchanged = false, skipWriteOnSoftError = false } = options;
   const errors = [];
   const missingSources = [];
 
@@ -113,6 +118,14 @@ export async function fetchAnime(malId) {
 
   // Hard failure: both designated primary sources are unavailable for this title.
   if (!jikanData && !kitsuData) {
+    if (!errors.some((error) => error.source === 'Jikan' || error.source === 'Kitsu')) {
+      errors.push({
+        id,
+        source: 'primary',
+        message: 'No Jikan or Kitsu record found for this MAL id',
+        status: 404,
+      });
+    }
     return { ok: false, malId: id, errors };
   }
 
@@ -174,7 +187,15 @@ export async function fetchAnime(malId) {
     rating: jikanData?.rating ?? kitsuData?.ageRating ?? null,
     score: {
       malScore: jikanData?.score ?? null,
+      malScoredBy: jikanData?.scoredBy ?? null,
+      malRank: jikanData?.rank ?? null,
+      malPopularity: jikanData?.popularity ?? null,
+      malMembers: jikanData?.members ?? null,
+      malFavorites: jikanData?.favorites ?? null,
       anilistScore: anilistData?.averageScore ?? null,
+      anilistPopularity: anilistData?.popularity ?? null,
+      anilistFavourites: anilistData?.favourites ?? null,
+      anilistTrending: anilistData?.trending ?? null,
       kitsuRating: kitsuData?.averageRating ?? null,
     },
     genres,
@@ -203,9 +224,39 @@ export async function fetchAnime(malId) {
 
   await mkdir(ANIME_DIR, { recursive: true });
   const filePath = path.join(ANIME_DIR, `${id}.json`);
+
+  if (skipWriteOnSoftError && errors.length > 0 && (await fileExists(filePath))) {
+    return {
+      ok: true,
+      malId: id,
+      errors,
+      filePath,
+      record,
+      changed: false,
+      skippedWrite: true,
+      skippedReason: 'soft-errors',
+    };
+  }
+
+  if (skipUnchanged) {
+    const existing = await readExistingJson(filePath);
+    if (existing && recordsEqualIgnoringLastFetched(existing, record)) {
+      return {
+        ok: true,
+        malId: id,
+        errors,
+        filePath,
+        record: existing,
+        changed: false,
+        skippedWrite: true,
+        skippedReason: 'unchanged',
+      };
+    }
+  }
+
   await writeFile(filePath, `${JSON.stringify(record, null, 2)}\n`, 'utf-8');
 
-  return { ok: true, malId: id, errors, filePath, record };
+  return { ok: true, malId: id, errors, filePath, record, changed: true, skippedWrite: false };
 }
 
 function dedupeCaseInsensitive(arr) {
@@ -218,8 +269,56 @@ function dedupeCaseInsensitive(arr) {
   return [...seen.values()];
 }
 
+async function fileExists(filePath) {
+  try {
+    await readFile(filePath, 'utf-8');
+    return true;
+  } catch (err) {
+    if (err.code === 'ENOENT') return false;
+    throw err;
+  }
+}
+
+async function readExistingJson(filePath) {
+  try {
+    return JSON.parse(await readFile(filePath, 'utf-8'));
+  } catch (err) {
+    if (err.code === 'ENOENT') return null;
+    console.warn(`[fetch-anime] existing file ${filePath} could not be compared: ${err.message}`);
+    return null;
+  }
+}
+
+function recordsEqualIgnoringLastFetched(a, b) {
+  return stableStringify(withoutLastFetched(a)) === stableStringify(withoutLastFetched(b));
+}
+
+function withoutLastFetched(record) {
+  return {
+    ...record,
+    meta: {
+      ...(record.meta ?? {}),
+      lastFetched: null,
+    },
+  };
+}
+
+function stableStringify(value) {
+  if (Array.isArray(value)) {
+    return `[${value.map((item) => stableStringify(item)).join(',')}]`;
+  }
+  if (value && typeof value === 'object') {
+    return `{${Object.keys(value)
+      .sort()
+      .map((key) => `${JSON.stringify(key)}:${stableStringify(value[key])}`)
+      .join(',')}}`;
+  }
+  return JSON.stringify(value);
+}
+
 // --- CLI entrypoint ---------------------------------------------------------
-const isMainModule = import.meta.url === `file://${process.argv[1]}`;
+const isMainModule =
+  process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;
 if (isMainModule) {
   const ids = process.argv.slice(2);
   if (ids.length === 0) {

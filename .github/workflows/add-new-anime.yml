@@ -12,6 +12,10 @@ on:
         type: string
         default: ""
 
+concurrency:
+  group: anime-data-pipeline
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -24,7 +28,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -35,41 +39,41 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Validate inputs
+      - name: Fetch new anime
+        env:
+          DISCORD_WEBHOOK_URL: "${{ secrets.DISCORD_WEBHOOK_URL }}"
+          IDS_INPUT: "${{ inputs.ids || '' }}"
+          RANGE_INPUT: "${{ inputs.range || '' }}"
         run: |
-          if [ -z "${{ inputs.ids }}" ] && [ -z "${{ inputs.range }}" ]; then
-            echo "::error::Provide either 'ids' or 'range' when running this workflow."
+          set -euo pipefail
+          set -f
+
+          if [ -z "$IDS_INPUT" ] && [ -z "$RANGE_INPUT" ]; then
+            echo "::error::Provide either ids or range when running this workflow."
             exit 1
           fi
 
-      - name: Fetch new anime
-        env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-        run: |
-          ARGS=""
+          ARGS=()
 
-          if [ -n "${{ inputs.range }}" ]; then
-            ARGS="--range=${{ inputs.range }}"
+          if [ -n "$RANGE_INPUT" ]; then
+            if ! [[ "$RANGE_INPUT" =~ ^[0-9]+-[0-9]+$ ]]; then
+              echo "::error::range must look like 1-100."
+              exit 1
+            fi
+            ARGS+=("--range=$RANGE_INPUT")
           fi
 
-          node scripts/add-anime.js ${{ inputs.ids }} $ARGS
-
-      - name: Check for changes
-        id: changes
-        run: |
-          git add -A
-
-          if git diff --cached --quiet; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
+          if [ -n "$IDS_INPUT" ]; then
+            if ! [[ "$IDS_INPUT" =~ ^[0-9]+([[:space:]]+[0-9]+)*$ ]]; then
+              echo "::error::ids must be space-separated positive integers."
+              exit 1
+            fi
+            read -r -a IDS <<< "$IDS_INPUT"
+            ARGS+=("${IDS[@]}")
           fi
 
-      - name: Commit and push
-        if: steps.changes.outputs.changed == 'true'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          node scripts/add-anime.js "${ARGS[@]}"
 
-          git commit -m "chore(data): add new anime [skip ci]"
-          git push
+      - name: Commit and push safely
+        run: |
+          bash .github/scripts/commit-and-push.sh "chore(data): add new anime [skip ci]" rebuild-indexes

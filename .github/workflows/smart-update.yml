@@ -1,0 +1,68 @@
+name: Smart Update Anime
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Include completed anime too"
+        type: boolean
+        default: false
+      limit:
+        description: "Maximum anime to check this run (max 2000)"
+        type: string
+        default: "500"
+
+concurrency:
+  group: anime-data-pipeline
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 190
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run smart update
+        env:
+          DISCORD_WEBHOOK_URL: "${{ secrets.DISCORD_WEBHOOK_URL }}"
+          FORCE_INPUT: "${{ inputs.force || false }}"
+          LIMIT_INPUT: "${{ inputs.limit || '500' }}"
+        run: |
+          set -euo pipefail
+
+          LIMIT="$LIMIT_INPUT"
+          ARGS=("--limit=$LIMIT" "--max-runtime-minutes=170")
+
+          if ! [[ "$LIMIT" =~ ^[0-9]+$ ]] || [ "$LIMIT" -lt 1 ] || [ "$LIMIT" -gt 2000 ]; then
+            echo "::error::limit must be an integer from 1 to 2000."
+            exit 1
+          fi
+
+          if [ "$FORCE_INPUT" = "true" ]; then
+            ARGS+=("--force")
+          fi
+
+          node scripts/smart-update.js "${ARGS[@]}"
+
+      - name: Commit and push safely
+        run: |
+          bash .github/scripts/commit-and-push.sh "chore(data): smart update anime [skip ci]" rebuild-indexes
