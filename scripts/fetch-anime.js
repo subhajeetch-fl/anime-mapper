@@ -20,10 +20,8 @@
  *                   lets us filter to anime-only entries and sort them
  *                   chronologically).
  *   4. animeapi.my.id - the `mappings` block (also supplies the AniList id
- *                   Zenshin needs and the Simkl id for dub data).
+ *                   Zenshin needs).
  *   5. Zenshin     - per-episode data (the schema given in the spec).
- *   6. Simkl      - per-episode dub availability (has-dub), overrides Zenshin's
- *                   isDubbed which is often inaccurate.
  *
  * NOTE: because `sequence` now comes only from AniList, a transient
  * AniList failure means `sequence: []` for that run, not a Jikan-based
@@ -125,6 +123,13 @@ export { getBucketName, getAnimeFilePath };
  */
 export async function fetchAnime(malId, options = {}) {
   const id = Number(malId);
+  if (!Number.isInteger(id) || id <= 0) {
+    return {
+      ok: false,
+      malId: id,
+      errors: [{ id, source: 'input', message: `Invalid MAL id: ${malId}`, status: 400 }],
+    };
+  }
   const { skipUnchanged = false, skipWriteOnSoftError = false } = options;
   const errors = [];
   const missingSources = [];
@@ -141,19 +146,17 @@ export async function fetchAnime(malId, options = {}) {
   const mappings = idMapping.normalizeMappings(mappingRaw, id);
 
   // --- 2. Primary + fallback metadata, fetched concurrently --------------
+  await jikanLimiter();
+  const jikanPromise = jikan.getAnimeFull(id);
+
+  await kitsuLimiter();
+  const kitsuPromise = kitsu.getAnimeByMalId(id);
+
+  await aniListLimiter();
+  const anilistPromise = anilist.getAnimeByMalId(id);
+
   const [jikanResult, kitsuResult, anilistResult] = await Promise.allSettled([
-    (async () => {
-      await jikanLimiter();
-      return jikan.getAnimeFull(id);
-    })(),
-    (async () => {
-      await kitsuLimiter();
-      return kitsu.getAnimeByMalId(id);
-    })(),
-    (async () => {
-      await aniListLimiter();
-      return anilist.getAnimeByMalId(id);
-    })(),
+    jikanPromise, kitsuPromise, anilistPromise
   ]);
 
   const jikanData =
@@ -274,7 +277,7 @@ export async function fetchAnime(malId, options = {}) {
     episodes,
     meta: {
       lastFetched: new Date().toISOString(),
-      sourcesUsed: ['jikan', 'kitsu', 'anilist', 'animeapi.my.id', 'zenshin', 'simkl'].filter(
+      sourcesUsed: ['jikan', 'kitsu', 'anilist', 'animeapi.my.id', 'zenshin'].filter(
         (s) => !missingSources.includes(s) && !missingSources.some((m) => m.startsWith(s))
       ),
       missingSources,

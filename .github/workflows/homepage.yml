@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: homepage-pipeline
+  group: anime-data-pipeline
   cancel-in-progress: false
 
 permissions:

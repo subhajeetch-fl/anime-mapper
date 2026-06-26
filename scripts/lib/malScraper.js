@@ -5,7 +5,8 @@
  * in pages, which avoids thousands of wasted requests against deleted or
  * never-created MAL ids.
  */
-import { fetchJson, sleep } from './httpClient.js';
+import { fetchJson } from './httpClient.js';
+import { jikanLimiter } from './rateLimiter.js';
 
 const BASE_URL = 'https://api.jikan.moe/v4';
 const PAGE_INTERVAL_MS = 500;
@@ -68,7 +69,7 @@ export async function discoverAllMalIds({
   let failedPage = null;
 
   while (pagesScanned < pageLimit) {
-    if (pagesScanned > 0) await sleep(intervalMs);
+    if (pagesScanned > 0) await jikanLimiter();
 
     let result;
     try {

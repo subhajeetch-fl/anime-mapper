@@ -97,6 +97,8 @@ function toSearchEntry(anime) {
     searchTitle: [anime.title?.english, anime.title?.romaji, anime.title?.native]
       .filter(Boolean)
       .join(' ')
+      .normalize('NFD')
+      .replace(/[̀-ͯ]/g, '')
       .toLowerCase(),
   };
 }

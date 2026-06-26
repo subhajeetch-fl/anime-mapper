@@ -18,15 +18,15 @@
 import { sleep } from './httpClient.js';
 
 export function createRateLimiter(minIntervalMs) {
-  let lastCallAt = 0;
+  let nextAllowedAt = 0;
 
   return async function throttle() {
     const now = Date.now();
-    const elapsed = now - lastCallAt;
-    if (elapsed < minIntervalMs) {
-      await sleep(minIntervalMs - elapsed);
+    const wait = Math.max(0, nextAllowedAt - now);
+    if (wait > 0) {
+      await sleep(wait);
     }
-    lastCallAt = Date.now();
+    nextAllowedAt = Date.now() + minIntervalMs;
   };
 }
 

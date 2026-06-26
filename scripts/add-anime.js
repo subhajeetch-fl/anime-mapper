@@ -18,7 +18,14 @@ import { readFile } from 'node:fs/promises';
 import { fetchAnime } from './fetch-anime.js';
 import { buildIndexes } from './build-indexes.js';
 import { reportErrorsToDiscord } from './lib/discord.js';
-import { loadRetryQueue, saveRetryQueue, updateRetryQueue } from './lib/state.js';
+import {
+  loadRetryQueue,
+  saveRetryQueue,
+  updateRetryQueue,
+  loadPermanentlyFailed,
+  mergePermanentlyFailed,
+  savePermanentlyFailed,
+} from './lib/state.js';
 
 function parseRange(rangeArg) {
   const [start, end] = rangeArg.split('-').map(Number);
@@ -78,30 +85,41 @@ async function run() {
     allErrors.push(...result.errors);
   }
 
-    const permanentFailureIds = new Set(
-      allErrors
-        .filter((e) => {
-          const source = String(e.source || '').toLowerCase();
-          const msg = String(e.message || '').toLowerCase();
-          return (
-            !succeededIds.includes(e.id) &&
-            (source === 'primary' || source === 'jikan' || source === 'kitsu') &&
-            (e.status === 404 || msg.includes('not found') || msg.includes('no jikan or kitsu'))
-          );
-        })
-        .map((e) => String(e.id))
+  const permanentFailureIds = new Set(
+    allErrors
+      .filter((e) => {
+        const source = String(e.source || '').toLowerCase();
+        const msg = String(e.message || '').toLowerCase();
+        return (
+          !succeededIds.includes(e.id) &&
+          (source === 'primary' || source === 'jikan' || source === 'kitsu') &&
+          (e.status === 404 || msg.includes('not found') || msg.includes('no jikan or kitsu'))
+        );
+      })
+      .map((e) => String(e.id))
+  );
+
+  const retryableErrors = allErrors.filter((e) => !permanentFailureIds.has(String(e.id)));
+
+  const retryQueue = await loadRetryQueue();
+
+  const newQueue = updateRetryQueue(retryQueue, {
+    failed: retryableErrors,
+    succeededIds,
+  });
+
+  await saveRetryQueue(newQueue);
+
+  // Save permanent failures so they don't keep being retried
+  if (permanentFailureIds.size > 0) {
+    const existingPermanent = await loadPermanentlyFailed();
+    await savePermanentlyFailed(
+      mergePermanentlyFailed(
+        existingPermanent,
+        [...permanentFailureIds].map((id) => ({ id: Number(id), reason: 'No primary source record found' }))
+      )
     );
-
-    const retryableErrors = allErrors.filter((e) => !permanentFailureIds.has(String(e.id)));
-
-    const retryQueue = await loadRetryQueue();
-
-    const newQueue = updateRetryQueue(retryQueue, {
-      failed: retryableErrors,
-      succeededIds,
-    });
-
-    await saveRetryQueue(newQueue);
+  }
 
   await buildIndexes();
 
@@ -113,4 +131,9 @@ async function run() {
 }
 
 
-  await run();
+try {
+    await run();
+  } catch (err) {
+    console.error(`add-anime: ${err.message}`);
+    process.exit(1);
+  }

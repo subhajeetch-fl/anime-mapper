@@ -11,6 +11,13 @@ import { fetchJson } from './httpClient.js';
 
 const BASE_URL = 'https://kitsu.io/api/edge';
 
+const KITSU_STATUS_MAP = {
+  current: 'Currently Airing',
+  finished: 'Finished Airing',
+  upcoming: 'Not yet aired',
+  tba: 'Not yet aired',
+};
+
 /**
  * @param {number|string} malId
  * @returns {Promise<string|null>} Kitsu anime id, or null if unmapped
@@ -69,7 +76,7 @@ export function normalizeKitsu(raw) {
     averageRating: a.averageRating ? Number((a.averageRating / 10).toFixed(2)) : null,
     ageRating: a.ageRating ?? null,
     ageRatingGuide: a.ageRatingGuide ?? null,
-    status: a.status ?? null, // current | finished | upcoming | tba
+    status: KITSU_STATUS_MAP[a.status] ?? a.status ?? null,
     startDate: a.startDate ?? null,
     endDate: a.endDate ?? null,
     posterImage: a.posterImage?.original ?? a.posterImage?.large ?? null,

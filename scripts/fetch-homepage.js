@@ -256,22 +256,45 @@ function anilistDateToISO(date) {
  * Strip HTML/markdown that AniList includes in description fields so the
  * synopsis matches the plain-text format Jikan provides.
  */
+/**
+ * Decode common named and numeric HTML entities in text.
+ */
+function decodeHtmlEntities(text) {
+  const namedEntities = {
+    nbsp: ' ',
+    mdash: '—',
+    ndash: '–',
+    rsquo: '’',
+    lsquo: '‘',
+    ldquo: '“',
+    rdquo: '”',
+    laquo: '«',
+    raquo: '»',
+    hellip: '…',
+    bull: '•',
+    trade: '™',
+    copy: '©',
+    reg: '®',
+  };
+  return text.replace(/&(#?\w+);/g, (match, entity) => {
+    if (entity.startsWith('#')) {
+      const code = Number(entity.slice(1));
+      return Number.isFinite(code) ? String.fromCodePoint(code) : match;
+    }
+    return namedEntities[entity] ?? match;
+  });
+}
+
 function cleanAniListDescription(raw) {
   if (!raw) return null;
-  return (
-    raw
-      .replace(/<br\s*\/?>/gi, '\n')
-      .replace(/<\/?(i|em|b|strong|u|s|span|a)[^>]*>/gi, '')
-      // AniList spoiler tags: ~! ... !~
-      .replace(/~![\s\S]*?!~/g, '')
-      .replace(/&nbsp;/g, ' ')
-      .replace(/&/g, '&')
-      .replace(/</g, '<')
-      .replace(/>/g, '>')
-      .replace(/"/g, '"')
-      .replace(/&#39;/g, "'")
-      .trim() || null
-  );
+  let cleaned = raw
+    .replace(/<br\s*\/?>/gi, '\n')
+    .replace(/<\/?(i|em|b|strong|u|s|span|a)[^>]*>/gi, '')
+    // AniList spoiler tags: ~! ... !~
+    .replace(/~![\s\S]*?!~/g, '')
+    .trim();
+  cleaned = decodeHtmlEntities(cleaned);
+  return cleaned || null;
 }
 
 /**
@@ -294,10 +317,10 @@ function getCurrentSeason() {
  * Returns null for entries that can't be identified (no id).
  */
 function toCard(media) {
-  if (!media || typeof media.id !== 'number') return null;
+  if (!media || typeof media.id !== 'number' || media.idMal == null) return null;
 
   return {
-    id: media.idMal ?? media.id,
+    id: media.idMal,
     idMal: media.idMal ?? null,
     mappings: {
       mal: media.idMal ?? null,

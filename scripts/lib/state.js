@@ -232,17 +232,15 @@ export function pickNextAddBatch(discovered, cursor, skipIds = [], batchSize = 2
   const limit = Math.max(0, Math.floor(Number(batchSize) || 0));
 
   const items = [];
-  let index = normalizeCursorIndex(cursor?.nextIndex, ids.length);
-
-  while (index < ids.length && items.length < limit) {
+  for (let index = 0; index < ids.length; index++) {
+    if (items.length >= limit) break;
     const id = ids[index];
     if (!blocked.has(String(id))) {
       items.push({ id, index });
     }
-    index += 1;
   }
 
-  return { items, nextIndex: index };
+  return { items, nextIndex: 0 };
 }
 
 export function pickNextBatch(discovered, cursor, permanentlyFailed, batchSize) {

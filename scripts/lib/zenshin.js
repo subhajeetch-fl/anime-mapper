@@ -63,7 +63,7 @@ export function normalizeEpisodes(rawAniZip) {
       tvdbShowId: ep.tvdbShowId ?? null,
       tvdbId: ep.tvdbId ?? null,
       seasonNumber: ep.seasonNumber ?? null,
-      episodeNumber: ep.episodeNumber ?? Number(key) ?? null,
+      episodeNumber: ep.episodeNumber ?? (Number.isInteger(Number(key)) ? Number(key) : null) ?? null,
       absoluteEpisodeNumber: ep.absoluteEpisodeNumber ?? null,
       runtime: ep.runtime ?? null,
       image: ep.image ?? null,

@@ -4,7 +4,7 @@
  *
  * Responsibilities:
  *  - Retries with exponential backoff
- *  - Honors `Retry-After` on 429s (rate limiting)
+ *  - Honors Retry-After on 429s (rate limiting)
  *  - Distinguishes "not found" (404 -> null, not an error) from real failures
  *  - Times out hung requests
  *  - Throws a structured FetchError so callers/Discord reporting can log
@@ -24,16 +24,6 @@ export class FetchError extends Error {
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-/**
- * @param {string} url
- * @param {object} options
- * @param {object} [options.fetchOptions] - passed straight to fetch()
- * @param {number} [options.retries=3] - retry attempts after the first try
- * @param {number} [options.baseDelayMs=1000] - base backoff delay
- * @param {number} [options.timeoutMs=15000]
- * @param {boolean} [options.treat404AsNull=true]
- * @param {string} [options.label] - human readable name for error messages, e.g. "Jikan"
- */
 export async function fetchJson(url, options = {}) {
   const {
     fetchOptions = {},
@@ -60,9 +50,20 @@ export async function fetchJson(url, options = {}) {
 
       if (res.status === 429) {
         const retryAfterHeader = res.headers.get('retry-after');
-        const retryAfterMs = retryAfterHeader
-          ? Number(retryAfterHeader) * 1000
-          : baseDelayMs * 2 ** attempt;
+        let retryAfterMs;
+        if (retryAfterHeader) {
+          const asNumber = Number(retryAfterHeader);
+          if (Number.isFinite(asNumber)) {
+            retryAfterMs = asNumber * 1000;
+          } else {
+            const targetDate = new Date(retryAfterHeader).getTime();
+            retryAfterMs = Number.isFinite(targetDate)
+              ? Math.max(0, targetDate - Date.now())
+              : baseDelayMs * 2 ** attempt;
+          }
+        } else {
+          retryAfterMs = baseDelayMs * 2 ** attempt;
+        }
         lastError = new FetchError(`${label} rate limited (429)`, {
           url,
           status: 429,
@@ -89,7 +90,6 @@ export async function fetchJson(url, options = {}) {
       }
 
       if (!res.ok) {
-        // 4xx other than 404/429 - not worth retrying, fail fast
         const body = await res.text().catch(() => '');
         throw new FetchError(`${label} returned ${res.status}`, {
           url,
@@ -99,11 +99,23 @@ export async function fetchJson(url, options = {}) {
         });
       }
 
-      return await res.json();
+      try {
+        return await res.json();
+      } catch (jsonErr) {
+        throw new FetchError(`${label} returned invalid JSON (${jsonErr.message})`, {
+          url,
+          status: res.status,
+          attempts: attempt + 1,
+          cause: jsonErr,
+        });
+      }
     } catch (err) {
       clearTimeout(timeout);
 
-      if (err instanceof FetchError) {
+      if (err.message && err.message.includes('invalid JSON')) {
+        lastError = err;
+        lastError.isInvalidJson = true;
+      } else if (err instanceof FetchError) {
         lastError = err;
       } else if (err.name === 'AbortError') {
         lastError = new FetchError(`${label} timed out after ${timeoutMs}ms`, {
@@ -117,6 +129,10 @@ export async function fetchJson(url, options = {}) {
           attempts: attempt + 1,
           cause: err,
         });
+      }
+
+      if (lastError && lastError.isInvalidJson) {
+        throw lastError;
       }
 
       if (attempt < retries) {

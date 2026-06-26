@@ -154,6 +154,11 @@ export async function runSmartUpdate(cliArgs = process.argv.slice(2)) {
     return;
   }
 
+  // Advance cursor by at least 1 position when retry IDs fill the entire limit,
+  // so the round-robin cursor does not stall on subsequent runs.
+  const cursorNeedsAdvance =
+    normalSlots === 0 && retryIds.length >= limit && activeIds.length > 0;
+
   const normalItemById = new Map(normalItems.map((item) => [String(item.id), item]));
   const processedNormalItems = [];
   const allErrors = [];
@@ -219,9 +224,11 @@ export async function runSmartUpdate(cliArgs = process.argv.slice(2)) {
   const lastNormalItem = processedNormalItems.at(-1);
   const completedNormalBatch = processedNormalItems.length === normalItems.length;
   const nextIndex =
-    completedNormalBatch
-      ? plannedNextIndex
-      : nextRoundRobinIndex(lastNormalItem, activeIds.length) ?? updateCursor.nextIndex;
+    cursorNeedsAdvance
+      ? nextRoundRobinIndex({ index: updateCursor.nextIndex }, activeIds.length) ?? updateCursor.nextIndex
+      : completedNormalBatch
+        ? plannedNextIndex
+        : nextRoundRobinIndex(lastNormalItem, activeIds.length) ?? updateCursor.nextIndex;
 
   await saveUpdateCursor({
     nextIndex,

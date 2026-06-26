@@ -8,14 +8,9 @@
  */
 import { readdir, mkdir, rename } from 'node:fs/promises';
 import path from 'node:path';
+import { getBucketName } from './fetch-anime.js';
 
 const ANIME_DIR = path.resolve('data/anime');
-
-function getBucketName(id) {
-  if (id >= 1000000) return 'other';
-  const bucket = Math.floor(id / 1000);
-  return String(bucket).padStart(3, '0');
-}
 
 async function migrate(dryRun = false) {
   const entries = await readdir(ANIME_DIR, { withFileTypes: true });
