@@ -1,0 +1,151 @@
+{
+  "id": 2398,
+  "idMal": 2398,
+  "mappings": {
+    "mal": 2398,
+    "anilist": 2398,
+    "anidb": 1151,
+    "kitsu": 2175,
+    "simkl": 38888,
+    "tmdb": 36201,
+    "tvdb": null,
+    "trakt": 22975,
+    "traktType": "movies",
+    "shikimori": 2398,
+    "livechart": 4643,
+    "animeplanet": "digimon-adventure-02-movie-diaboromon-strikes-back",
+    "anisearch": 1678,
+    "notify": "YoLE5Fimg"
+  },
+  "title": {
+    "romaji": "Digimon Adventure 02: Diablomon no Gyakushuu",
+    "english": "Digimon Adventure 02: Revenge of Diaboromon",
+    "native": "デジモンアドベンチャー02 ディアボロモンの逆襲",
+    "synonyms": [
+      "Digimon Adventure 02: Return of Diablomon",
+      "Digimon Adventure 02: Diablomon Strikes Back"
+    ]
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 30,
+  "aired": {
+    "from": "2001-03-03T00:00:00+00:00",
+    "to": "2001-03-03"
+  },
+  "season": "spring",
+  "year": 2001,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 7.27,
+    "anilistScore": 7,
+    "kitsuRating": 6.99
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Sci-Fi",
+    "Action",
+    "Kids",
+    "Friendship",
+    "Science Fiction",
+    "Present",
+    "Fantasy",
+    "Proxy Battles"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [
+    "Bandai"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/2/82620l.jpg",
+    "banner": null,
+    "color": "#e4e45d"
+  },
+  "trailer": null,
+  "synopsis": "After the events of 02, everything is finally getting back to normal. That is, until a strangely familiar icon starts showing up on computer systems around the Japan. And not just computer systems... TVs, mobile phones, video games; anything with a screen with online capabilities. And this icon seems to be looking for somone... Yagami Taichi, and Ishida Yamato, who defeated it several years before. Yes, it turns out that this jellyfish digimon is in fact Diablomon, the Virus-type Digimon that was defeated in the second movie. But this time, he's learned to make himself physical, and is sending thousands of copies of himself into the real world.\n\nKoushiro and Ken devise a plan to rid the world of the virus once and for all, but it'll take the help of all the Destined, past and present. Once again, it's a race against time to put a stop to Diablomon's plot... but even that is cloaked in shadow.\n\nWill the revival of Omegamon be enough to stop Diablomon a second time, or will the millions of copies prove enough of a power boost to shrug off the \"Digimon Champion of Justice\"? Of course, he hasn't seen the new breed of Chosen, nor the new techniques. It's a fight to the finish, with the destruction of Tokyo resting on the line. \n\n(Source: AniDB)",
+  "sequence": [
+    {
+      "malId": 1313,
+      "title": {
+        "romaji": "Digimon Adventure 02",
+        "english": "Digimon: Digital Monsters 02",
+        "native": "デジモンアドベンチャー０２"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1313-oCvzzU6fiCZB.png",
+      "format": "TV",
+      "episodes": 50,
+      "seasonYear": 2000,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 25687,
+      "title": {
+        "romaji": "Digimon Adventure tri. 1: Saikai",
+        "english": "Digimon Adventure tri. Chapter 1: Reunion",
+        "native": "デジモンアドベンチャー tri. 第1章「再会」"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20802-4fra401ry8FT.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2015,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "30m",
+      "airDate": "2000-07-20",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 72241,
+      "tvdbId": 5222815,
+      "seasonNumber": 0,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 7,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T21:43:56.413Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

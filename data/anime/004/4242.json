@@ -1,0 +1,744 @@
+{
+  "id": 4242,
+  "idMal": 4242,
+  "mappings": {
+    "mal": 4242,
+    "anilist": 4242,
+    "anidb": 3116,
+    "kitsu": 3535,
+    "simkl": 38771,
+    "tmdb": 19414,
+    "tvdb": 251594,
+    "trakt": 78307,
+    "traktType": "shows",
+    "shikimori": 4242,
+    "livechart": 7887,
+    "animeplanet": "galactic-gale-baxinger",
+    "anisearch": 1692,
+    "notify": "Y7JucKiiR"
+  },
+  "title": {
+    "romaji": "Ginga Reppuu Baxingar",
+    "english": "Galactic Gale Baxingar",
+    "native": "銀河烈風バクシンガー",
+    "synonyms": [
+      "Ginga Reppu Baxinger",
+      "Cosmo Ranger"
+    ]
+  },
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 39,
+  "episodeLength": 25,
+  "aired": {
+    "from": "1982-07-06T00:00:00+00:00",
+    "to": "1983-03-29T00:00:00+00:00"
+  },
+  "season": "summer",
+  "year": 1982,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.67,
+    "anilistScore": 6.5,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Adventure",
+    "Mecha",
+    "Action",
+    "Science Fiction",
+    "Super Robot",
+    "Robot"
+  ],
+  "studios": [
+    "Kokusai Eigasha"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/8/56417l.jpg",
+    "banner": null,
+    "color": "#e4865d"
+  },
+  "trailer": null,
+  "synopsis": "600 years after Ginga Senpuu Braiger, Jupiter has been destroyed, and many planets have come from it, bringing about more colonization. To combat the increasing lawless activity, Don Diego Condor gathers Billy the Shot, Samanosuke Dodi, Layla Minesato, and Shuteken Radcliffe, a.k.a. J9-II. They pilot Cosmo Bikes, which combine into the robot Baxingar. \n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 4240,
+      "title": {
+        "romaji": "Ginga Senpuu Braiger",
+        "english": "Galaxy Cyclone Braiger",
+        "native": "銀河旋風ブライガー"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4240.jpg",
+      "format": "TV",
+      "episodes": 39,
+      "seasonYear": 1981,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 4244,
+      "title": {
+        "romaji": "Ginga Shippuu Sasuraiger",
+        "english": "Galactic Whirlwind Sasuraiger",
+        "native": "銀河疾風サスライガー"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4244.jpg",
+      "format": "TV",
+      "episodes": 43,
+      "seasonYear": 1983,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "1982-07-06",
+      "title": {
+        "en": "They Came to the Planets Ocean"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162416,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "1982-07-13",
+      "title": {
+        "en": "Under the Flag of the Gale"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162417,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "1982-07-20",
+      "title": {
+        "en": "Threat from Outer Space"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162418,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "1982-07-27",
+      "title": {
+        "en": "Hired Guns"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162419,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "1982-08-03",
+      "title": {
+        "en": "Rewards of Betrayal"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162420,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "1982-08-10",
+      "title": {
+        "en": "The Battle of Shell Gate"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162421,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "1982-08-17",
+      "title": {
+        "en": "Storm Attack"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162422,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "1982-08-24",
+      "title": {
+        "en": "Cruel Laws"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162423,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "1982-08-31",
+      "title": {
+        "en": "Beyond Revenge"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162424,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "1982-09-07",
+      "title": {
+        "en": "Conspiracy in Rana"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162425,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "1982-09-14",
+      "title": {
+        "en": "Angry Wolf"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162426,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "1982-09-21",
+      "title": {
+        "en": "Eve of Panic"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162427,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "1982-09-28",
+      "title": {
+        "en": "Incident at Cherry Gate"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162428,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "1982-10-05",
+      "title": {
+        "en": "The Fierce Flower of Battle"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162429,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "1982-10-12",
+      "title": {
+        "en": "SOS in the Sea of Ofus"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162430,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "1982-10-19",
+      "title": {
+        "en": "The Battle of Gowahand"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162431,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "1982-10-26",
+      "title": {
+        "en": "The Wilderness Ran to Me"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162432,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "1982-11-02",
+      "title": {
+        "en": "Farewell Star Encounter Star"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162433,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "1982-11-09",
+      "title": {
+        "en": "Someday Stop Time"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162434,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "1982-11-16",
+      "title": {
+        "en": "Longoo`s Tiger"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162435,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "1982-11-23",
+      "title": {
+        "en": "Lion Children of Gunzou"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162436,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "1982-11-30",
+      "title": {
+        "en": "The Swaying Planet Sea"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162437,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "1982-12-07",
+      "title": {
+        "en": "Gosho City on Fire"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162438,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "1982-12-14",
+      "title": {
+        "en": "Destiny`s Storm"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162439,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "1982-12-21",
+      "title": {
+        "en": "Come on Immortal Butterfly"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162440,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "26": {
+      "episode": "26",
+      "length": "25m",
+      "airDate": "1982-12-28",
+      "title": {
+        "en": "Burning Sword"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162441,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "27": {
+      "episode": "27",
+      "length": "25m",
+      "airDate": "1983-01-04",
+      "title": {
+        "en": "Ozuma Assassination"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162442,
+      "seasonNumber": 1,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "28": {
+      "episode": "28",
+      "length": "25m",
+      "airDate": "1983-01-11",
+      "title": {
+        "en": "Final Battle Part 1"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162443,
+      "seasonNumber": 1,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "29": {
+      "episode": "29",
+      "length": "25m",
+      "airDate": "1983-01-18",
+      "title": {
+        "en": "Final Battle Part 2"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162444,
+      "seasonNumber": 1,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "30": {
+      "episode": "30",
+      "length": "25m",
+      "airDate": "1983-01-25",
+      "title": {
+        "en": "Final Battle Part 3"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162445,
+      "seasonNumber": 1,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "31": {
+      "episode": "31",
+      "length": "25m",
+      "airDate": "1983-02-01",
+      "title": {
+        "en": "Planet Doe Again"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162446,
+      "seasonNumber": 1,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "32": {
+      "episode": "32",
+      "length": "25m",
+      "airDate": "1983-02-08",
+      "title": {
+        "en": "To Scare Gaoka"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162447,
+      "seasonNumber": 1,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "33": {
+      "episode": "33",
+      "length": "25m",
+      "airDate": "1983-02-15",
+      "title": {
+        "en": "Intense Eyes Soul"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162448,
+      "seasonNumber": 1,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "34": {
+      "episode": "34",
+      "length": "25m",
+      "airDate": "1983-02-22",
+      "title": {
+        "en": "A New Dream"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162449,
+      "seasonNumber": 1,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "35": {
+      "episode": "35",
+      "length": "25m",
+      "airDate": "1983-03-01",
+      "title": {
+        "en": "Pray for Asteroids"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162450,
+      "seasonNumber": 1,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "36": {
+      "episode": "36",
+      "length": "25m",
+      "airDate": "1983-03-08",
+      "title": {
+        "en": "Nubian`s Frenzy (Part 1)"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162451,
+      "seasonNumber": 1,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "37": {
+      "episode": "37",
+      "length": "25m",
+      "airDate": "1983-03-15",
+      "title": {
+        "en": "Great Burning (Part 2)"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162452,
+      "seasonNumber": 1,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "38": {
+      "episode": "38",
+      "length": "25m",
+      "airDate": "1989-03-22",
+      "title": {
+        "en": "Heaven Bets in the Dark"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162453,
+      "seasonNumber": 1,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "39": {
+      "episode": "39",
+      "length": "25m",
+      "airDate": "1983-03-29",
+      "title": {
+        "en": "The Gale Scatters Flowers"
+      },
+      "tvdbShowId": 251594,
+      "tvdbId": 4162454,
+      "seasonNumber": 1,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "1982-07-06",
+      "title": {
+        "en": "Ginga Reppuu Baxinger"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "1982-07-06",
+      "title": {
+        "en": "Asteroid Blues"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Preview"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:35:13.027Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

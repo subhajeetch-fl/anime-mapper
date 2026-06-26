@@ -1,0 +1,151 @@
+{
+  "id": 2847,
+  "idMal": 2847,
+  "mappings": {
+    "mal": 2847,
+    "anilist": 2847,
+    "anidb": 5048,
+    "kitsu": 2597,
+    "simkl": 38822,
+    "tmdb": 25961,
+    "tvdb": null,
+    "trakt": 15749,
+    "traktType": "movies",
+    "shikimori": 2847,
+    "livechart": 4440,
+    "animeplanet": "pokemon-movie-10-the-rise-of-darkrai",
+    "anisearch": 2136,
+    "notify": "H1vUcFiiR"
+  },
+  "title": {
+    "romaji": "Pocket Monsters Diamond & Pearl: Dialga VS Palkia VS Darkrai",
+    "english": "Pokémon: The Rise Of Darkrai",
+    "native": "ポケットモンスター ダイヤモンド＆パール ディアルガVSパルキアVSダークライ",
+    "synonyms": [
+      "Gekijouban Pocket Monsters Diamond and Pearl: Dialga vs. Palkia vs. Darkrai",
+      "Pokemon Diamond & Pearl: Dialga vs. Palkia vs. Darkrai",
+      "Pokemon Movie 10",
+      "Pokémon - Darkrai sin oppstand",
+      "Pokémon - Darkrai Slår Till"
+    ]
+  },
+  "type": "Movie",
+  "source": "Game",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 90,
+  "aired": {
+    "from": "2007-07-15T00:00:00+00:00",
+    "to": "2007-07-15"
+  },
+  "season": "summer",
+  "year": 2007,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 7.33,
+    "anilistScore": 7.1,
+    "kitsuRating": 7
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Kids",
+    "Fantasy World",
+    "Proxy Battles"
+  ],
+  "studios": [
+    "OLM"
+  ],
+  "producers": [
+    "Shogakukan Productions"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1119/94419l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2847-ECBicyDxMRYa.jpg",
+    "color": "#35aee4"
+  },
+  "trailer": null,
+  "synopsis": "The beautiful Alamos Town is home to a pair of century-old structures known as the Space-Time Towers, built by the architect Godey to play orchestral music in the area. The towers are also home to the Alamos Town Contest Hall, which is the next destination for Hikari, Satoshi, and Takeshi in their journey through the Sinnoh region. A woman named Alice and her partner Chimchar are happy to guide Satoshi and his friends through the town and its hallmarks.\n\nBut the tour is suddenly interrupted when Alice's friend Tonio notices a wave of dimensional disturbances throughout the town—all of which is blamed on an ominous Pokémon named Darkrai. The space-time disturbances continue to intensify as two legendary Pokémon, the Temporal Pokémon Dialga and the Spatial Pokémon Palkia, appear to duel each other, isolating the town and everyone present in it from the world into another dimension!\n\nAs he learns that this event was foreseen long ago, Tonio finds that his great-grandfather left behind a way to stop the dueling Pokémon. Will Satoshi and his friends be able to use this last resort to save Alamos Town from vaporizing between the dimensions?\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 1565,
+      "title": {
+        "romaji": "Pocket Monsters Diamond & Pearl",
+        "english": "Pokémon the Series: Diamond and Pearl",
+        "native": "ポケットモンスター ダイヤモンド&パール"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1565-aJC0XivLqQXY.png",
+      "format": "TV",
+      "episodes": 191,
+      "seasonYear": 2006,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 4026,
+      "title": {
+        "romaji": "Pocket Monsters Diamond & Pearl: Giratina to Sora no Hanataba Sheimi",
+        "english": "Pokémon: Giratina and the Sky Warrior",
+        "native": "ポケットモンスター ダイヤモンド&パール ギラティナと氷空の花束 シェイミ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4026-HO7477AL7ym5.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2008,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "90m",
+      "airDate": "2007-07-14",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 394461,
+      "seasonNumber": 0,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 90,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76703/394461.jpg"
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Promo"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T21:59:18.278Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": 2696,
+  "idMal": 2696,
+  "mappings": {
+    "mal": 2696,
+    "anilist": 2696,
+    "anidb": 2057,
+    "kitsu": 2458,
+    "simkl": 37461,
+    "tmdb": 111271,
+    "tvdb": 82965,
+    "trakt": 65456,
+    "traktType": "shows",
+    "shikimori": 2696,
+    "livechart": 11401,
+    "animeplanet": "crusher-joe",
+    "anisearch": 408,
+    "notify": "BAsy5FmiR"
+  },
+  "title": {
+    "romaji": "Crusher Joe OVAs",
+    "english": "Crusher Joe: The OVAs",
+    "native": "クラッシャージョウ OVAs",
+    "synonyms": []
+  },
+  "type": "OVA",
+  "source": "Light novel",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 2,
+  "episodeLength": 57,
+  "aired": {
+    "from": "1989-02-05T00:00:00+00:00",
+    "to": "1989-06-05T00:00:00+00:00"
+  },
+  "season": "winter",
+  "year": 1989,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "R - 17+ (violence & profanity)",
+  "score": {
+    "malScore": 6.73,
+    "anilistScore": 6.6,
+    "kitsuRating": 6.88
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi",
+    "Science Fiction",
+    "Other Planet",
+    "Space"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [
+    "Studio Nue"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/3/18788l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2696-uR1WhPrXh5NY.jpg",
+    "color": "#e46b5d"
+  },
+  "trailer": null,
+  "synopsis": "The galaxy is a strange and dangerous place, and there are times when even the United Space Force can`t help. That`s where the Crushers come in - skilled troubleshooters who will deal with any problem, large or small, for a fee (large only!) And there is no better Crusher than Crusher Joe!\n\n(Source: AniDB)",
+  "sequence": [
+    {
+      "malId": 2722,
+      "title": {
+        "romaji": "Crusher Joe",
+        "english": "Crusher Joe: The Movie",
+        "native": "クラッシャージョウ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2722-z9zqg2mEfGW4.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1983,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "60m",
+      "airDate": "1989-02-05",
+      "title": {
+        "en": "The Ice Prison"
+      },
+      "tvdbShowId": 82965,
+      "tvdbId": 4288329,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 59,
+      "image": "https://artworks.thetvdb.com/banners/episodes/82965/4288329.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "55m",
+      "airDate": "1989-06-05",
+      "title": {
+        "en": "The Ultimate Weapon: Ash"
+      },
+      "tvdbShowId": 82965,
+      "tvdbId": 4288330,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 55,
+      "image": "https://artworks.thetvdb.com/banners/episodes/82965/4288330.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T21:54:12.470Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

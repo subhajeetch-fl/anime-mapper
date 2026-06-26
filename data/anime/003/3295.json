@@ -1,0 +1,1311 @@
+{
+  "id": 3295,
+  "idMal": 3295,
+  "mappings": {
+    "mal": 3295,
+    "anilist": 3295,
+    "anidb": 5522,
+    "kitsu": 2915,
+    "simkl": 37718,
+    "tmdb": 89323,
+    "tvdb": 250266,
+    "trakt": 65745,
+    "traktType": "shows",
+    "shikimori": 3295,
+    "livechart": 8182,
+    "animeplanet": "yatterman-2008",
+    "anisearch": 4559,
+    "notify": "Ml5w5KiiR"
+  },
+  "title": {
+    "romaji": "Yatterman",
+    "english": null,
+    "native": "ヤッターマン",
+    "synonyms": [
+      "Yattaman New Series",
+      "Yattaman Remake",
+      "Yattaaman 2",
+      "Yatterman (2008)"
+    ]
+  },
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 60,
+  "episodeLength": 25,
+  "aired": {
+    "from": "2008-01-14T00:00:00+00:00",
+    "to": "2009-09-27T00:00:00+00:00"
+  },
+  "season": "winter",
+  "year": 2008,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.54,
+    "anilistScore": 5.7,
+    "kitsuRating": 6.8
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Parody"
+  ],
+  "studios": [
+    "Tatsunoko Production"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/9/44217l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3295-xgB0Vv01egaq.jpg",
+    "color": "#e4bb43"
+  },
+  "trailer": null,
+  "synopsis": "Remake of the Yatterman series.",
+  "sequence": [
+    {
+      "malId": 3008,
+      "title": {
+        "romaji": "Time Bokan Series: Yatterman",
+        "english": null,
+        "native": "タイムボカンシリーズ ヤッターマン"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3008-J4Jig7p2VfiD.png",
+      "format": "TV",
+      "episodes": 108,
+      "seasonYear": 1977,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 25749,
+      "title": {
+        "romaji": "Yatterman Specials",
+        "english": null,
+        "native": "ヤッターマンSpecials"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185887-w2aFKiT9cbUu.png",
+      "format": "SPECIAL",
+      "episodes": 2,
+      "seasonYear": 2008,
+      "relationType": "SIDE_STORY"
+    },
+    {
+      "malId": 6693,
+      "title": {
+        "romaji": "Yatterman: Shin Yattermecha Daishuugou! Omocha no Kuni de Daikessen da Koron!",
+        "english": null,
+        "native": "劇場版 ヤッターマン 新ヤッターメカ大集合！ オモチャの国で大決断だコロン！"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6693-iIlqOzhMBI55.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2009,
+      "relationType": "SIDE_STORY"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2008-01-14",
+      "title": {
+        "en": "The Birth of Yatterman!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 4133763,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2008-01-21",
+      "title": {
+        "en": "Who`s the Takoyaki King?"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 4133764,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2008-01-29",
+      "title": {
+        "en": "Win the Stupidemy Awards!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 4133765,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2008-02-04",
+      "title": {
+        "en": "Snow Country Character 2008!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 4133766,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2008-02-11",
+      "title": {
+        "en": "The Prince and the Chocolate Castle!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 4133767,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2008-02-18",
+      "title": {
+        "en": "Fashion in the Flower City!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 4133768,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2008-02-25",
+      "title": {
+        "en": "It`s Tough Being Famous Sisters!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 4133769,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2008-03-03",
+      "title": {
+        "en": "Sneak into Odaiba TV!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 4133770,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2008-03-10",
+      "title": {
+        "en": "The Curse of Otankahmen!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 4133771,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2008-03-17",
+      "title": {
+        "en": "Historical Drama Atsuhime!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 4133772,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 25,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2008-04-14",
+      "title": {
+        "en": "Miss Doronjo Is at That Age!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116077,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 25,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2008-04-28",
+      "title": {
+        "en": "Omotchama Is in Trouble!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116078,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 25,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2008-05-12",
+      "title": {
+        "en": "The Hero on the Sugamo Train!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116080,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 25,
+      "image": null
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "2008-05-19",
+      "title": {
+        "en": "The Arrival of Yatter-Pelican!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116083,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 25,
+      "image": null
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "2008-06-16",
+      "title": {
+        "en": "The Yattermechs Can`t Get Along!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116084,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 25,
+      "image": null
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "2008-06-23",
+      "title": {
+        "en": "Good Luck Looking For Son Goku!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116085,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 25,
+      "image": null
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "2008-06-30",
+      "title": {
+        "en": "This Treasure Is Priceless!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116086,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 25,
+      "image": null
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "2008-07-07",
+      "title": {
+        "en": "In the Good Old Days"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116087,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 25,
+      "image": null
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "2008-07-14",
+      "title": {
+        "en": "Fitness Freak"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116088,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 25,
+      "image": null
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "2008-07-28",
+      "title": {
+        "en": "Beauty and the Beach"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116089,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 25,
+      "image": null
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "2008-08-04",
+      "title": {
+        "en": "The Way Cool School"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116090,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 25,
+      "image": null
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "2008-08-11",
+      "title": {
+        "en": "Have No Fear, Yatterman is Here"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116091,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 25,
+      "image": null
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "2008-09-01",
+      "title": {
+        "en": "The Search for the Crystal Skull"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116092,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 25,
+      "image": null
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "2008-09-08",
+      "title": {
+        "en": "Hail to the Chief"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116093,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 25,
+      "image": null
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "2008-11-10",
+      "title": {
+        "en": "20,000 Yatter-Leagues Under the Sea"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116094,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 25,
+      "image": null
+    },
+    "26": {
+      "episode": "26",
+      "length": "25m",
+      "airDate": "2008-12-01",
+      "title": {
+        "en": "1, 2, 3 Yatter-Strikes, You`re Out"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116095,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 25,
+      "image": null
+    },
+    "27": {
+      "episode": "27",
+      "length": "25m",
+      "airDate": "2008-12-08",
+      "title": {
+        "en": "Big Trouble in Grand Old Edo"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116097,
+      "seasonNumber": 1,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 25,
+      "image": null
+    },
+    "28": {
+      "episode": "28",
+      "length": "25m",
+      "airDate": "2008-12-15",
+      "title": {
+        "en": "Would You Like to Sing on a Star/A Yatter New Year"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116098,
+      "seasonNumber": 1,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 25,
+      "image": null
+    },
+    "29": {
+      "episode": "29",
+      "length": "25m",
+      "airDate": "2009-02-02",
+      "title": {
+        "en": "A Skating We Will Go"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116099,
+      "seasonNumber": 1,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 25,
+      "image": null
+    },
+    "30": {
+      "episode": "30",
+      "length": "25m",
+      "airDate": "2009-02-09",
+      "title": {
+        "en": "A Very Piggy Day"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116100,
+      "seasonNumber": 1,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 25,
+      "image": null
+    },
+    "31": {
+      "episode": "31",
+      "length": "25m",
+      "airDate": "2009-02-16",
+      "title": {
+        "en": "Yatter-Bull Appearance"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116101,
+      "seasonNumber": 1,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 25,
+      "image": null
+    },
+    "32": {
+      "episode": "32",
+      "length": "25m",
+      "airDate": "2009-02-23",
+      "title": {
+        "en": "Yatterman TV"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116102,
+      "seasonNumber": 1,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 25,
+      "image": null
+    },
+    "33": {
+      "episode": "33",
+      "length": "25m",
+      "airDate": "2009-03-02",
+      "title": {
+        "en": "There`s No Business like Shogun Business"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116103,
+      "seasonNumber": 1,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 25,
+      "image": null
+    },
+    "34": {
+      "episode": "34",
+      "length": "25m",
+      "airDate": "2009-03-09",
+      "title": {
+        "en": "Hassle in the Castle"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116104,
+      "seasonNumber": 1,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 25,
+      "image": null
+    },
+    "35": {
+      "episode": "35",
+      "length": "25m",
+      "airDate": "2009-03-16",
+      "title": {
+        "en": "The Fifth Skull Ring Rumble"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116105,
+      "seasonNumber": 1,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 25,
+      "image": null
+    },
+    "36": {
+      "episode": "36",
+      "length": "25m",
+      "airDate": "2009-04-05",
+      "title": {
+        "en": "New Mecha, New Adventure"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116106,
+      "seasonNumber": 1,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 25,
+      "image": null
+    },
+    "37": {
+      "episode": "37",
+      "length": "25m",
+      "airDate": "2009-04-12",
+      "title": {
+        "en": "Ain`t Seen Nothing Yeti"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116107,
+      "seasonNumber": 1,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 37,
+      "runtime": 25,
+      "image": null
+    },
+    "38": {
+      "episode": "38",
+      "length": "25m",
+      "airDate": "2009-04-12",
+      "title": {
+        "en": "A Menace in Venice"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116108,
+      "seasonNumber": 1,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 38,
+      "runtime": 25,
+      "image": null
+    },
+    "39": {
+      "episode": "39",
+      "length": "25m",
+      "airDate": "2009-04-26",
+      "title": {
+        "en": "Peril in Peru / Tomb with a View"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116109,
+      "seasonNumber": 1,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": 39,
+      "runtime": 25,
+      "image": null
+    },
+    "40": {
+      "episode": "40",
+      "length": "25m",
+      "airDate": "2009-05-03",
+      "title": {
+        "en": "Episode 40"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116110,
+      "seasonNumber": 1,
+      "episodeNumber": 40,
+      "absoluteEpisodeNumber": 40,
+      "runtime": 25,
+      "image": null
+    },
+    "41": {
+      "episode": "41",
+      "length": "25m",
+      "airDate": "2009-05-10",
+      "title": {
+        "en": "Maui Owie!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116111,
+      "seasonNumber": 1,
+      "episodeNumber": 41,
+      "absoluteEpisodeNumber": 41,
+      "runtime": 25,
+      "image": null
+    },
+    "42": {
+      "episode": "42",
+      "length": "25m",
+      "airDate": "2009-05-17",
+      "title": {
+        "en": "Supermarket Showdown"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116112,
+      "seasonNumber": 1,
+      "episodeNumber": 42,
+      "absoluteEpisodeNumber": 42,
+      "runtime": 25,
+      "image": null
+    },
+    "43": {
+      "episode": "43",
+      "length": "25m",
+      "airDate": "2009-05-24",
+      "title": {
+        "en": "To Win or Not to Win"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116113,
+      "seasonNumber": 1,
+      "episodeNumber": 43,
+      "absoluteEpisodeNumber": 43,
+      "runtime": 25,
+      "image": null
+    },
+    "44": {
+      "episode": "44",
+      "length": "25m",
+      "airDate": "2009-05-31",
+      "title": {
+        "en": "Ninja Nightmare"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116114,
+      "seasonNumber": 1,
+      "episodeNumber": 44,
+      "absoluteEpisodeNumber": 44,
+      "runtime": 25,
+      "image": null
+    },
+    "45": {
+      "episode": "45",
+      "length": "25m",
+      "airDate": "2009-06-07",
+      "title": {
+        "en": "The Big Apple Grapple / Hot Time at the Big Apple"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116115,
+      "seasonNumber": 1,
+      "episodeNumber": 45,
+      "absoluteEpisodeNumber": 45,
+      "runtime": 25,
+      "image": null
+    },
+    "46": {
+      "episode": "46",
+      "length": "25m",
+      "airDate": "2009-06-14",
+      "title": {
+        "en": "Getting Ready to Rumble"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116116,
+      "seasonNumber": 1,
+      "episodeNumber": 46,
+      "absoluteEpisodeNumber": 46,
+      "runtime": 25,
+      "image": null
+    },
+    "47": {
+      "episode": "47",
+      "length": "25m",
+      "airDate": "2009-06-21",
+      "title": {
+        "en": "In the Land Down Under"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116117,
+      "seasonNumber": 1,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": 47,
+      "runtime": 25,
+      "image": null
+    },
+    "48": {
+      "episode": "48",
+      "length": "25m",
+      "airDate": "2009-06-28",
+      "title": {
+        "en": "Yatta-Mecha Daizukan, Da Koron"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116118,
+      "seasonNumber": 1,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": 48,
+      "runtime": 25,
+      "image": null
+    },
+    "49": {
+      "episode": "49",
+      "length": "25m",
+      "airDate": "2009-07-05",
+      "title": {
+        "en": "A Little Tanabata Wish"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116119,
+      "seasonNumber": 1,
+      "episodeNumber": 49,
+      "absoluteEpisodeNumber": 49,
+      "runtime": 25,
+      "image": null
+    },
+    "50": {
+      "episode": "50",
+      "length": "25m",
+      "airDate": "2009-07-12",
+      "title": {
+        "en": "Enter YatterDragon!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116120,
+      "seasonNumber": 1,
+      "episodeNumber": 50,
+      "absoluteEpisodeNumber": 50,
+      "runtime": 25,
+      "image": null
+    },
+    "51": {
+      "episode": "51",
+      "length": "25m",
+      "airDate": "2009-07-19",
+      "title": {
+        "en": "By the Eclipse of the Sun"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116121,
+      "seasonNumber": 1,
+      "episodeNumber": 51,
+      "absoluteEpisodeNumber": 51,
+      "runtime": 25,
+      "image": null
+    },
+    "52": {
+      "episode": "52",
+      "length": "25m",
+      "airDate": "2009-07-26",
+      "title": {
+        "en": "Bull Fight"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116122,
+      "seasonNumber": 1,
+      "episodeNumber": 52,
+      "absoluteEpisodeNumber": 52,
+      "runtime": 25,
+      "image": null
+    },
+    "53": {
+      "episode": "53",
+      "length": "25m",
+      "airDate": "2009-08-02",
+      "title": {
+        "en": "Pearls of Wisdom"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116123,
+      "seasonNumber": 1,
+      "episodeNumber": 53,
+      "absoluteEpisodeNumber": 53,
+      "runtime": 25,
+      "image": null
+    },
+    "54": {
+      "episode": "54",
+      "length": "25m",
+      "airDate": "2009-08-09",
+      "title": {
+        "en": "Ghost of a Chance"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116124,
+      "seasonNumber": 1,
+      "episodeNumber": 54,
+      "absoluteEpisodeNumber": 54,
+      "runtime": 25,
+      "image": null
+    },
+    "55": {
+      "episode": "55",
+      "length": "25m",
+      "airDate": "2009-08-16",
+      "title": {
+        "en": "Here Comes the Bride"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116125,
+      "seasonNumber": 1,
+      "episodeNumber": 55,
+      "absoluteEpisodeNumber": 55,
+      "runtime": 25,
+      "image": null
+    },
+    "56": {
+      "episode": "56",
+      "length": "25m",
+      "airDate": "2009-08-23",
+      "title": {
+        "en": "I`ve Been Fighting on the Railroad"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116126,
+      "seasonNumber": 1,
+      "episodeNumber": 56,
+      "absoluteEpisodeNumber": 56,
+      "runtime": 25,
+      "image": null
+    },
+    "57": {
+      "episode": "57",
+      "length": "25m",
+      "airDate": "2009-09-06",
+      "title": {
+        "en": "Rumble in the Jungle"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116127,
+      "seasonNumber": 1,
+      "episodeNumber": 57,
+      "absoluteEpisodeNumber": 57,
+      "runtime": 25,
+      "image": null
+    },
+    "58": {
+      "episode": "58",
+      "length": "25m",
+      "airDate": "2009-09-13",
+      "title": {
+        "en": "For Whom the Final Ring Tolls"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116128,
+      "seasonNumber": 1,
+      "episodeNumber": 58,
+      "absoluteEpisodeNumber": 58,
+      "runtime": 25,
+      "image": null
+    },
+    "59": {
+      "episode": "59",
+      "length": "25m",
+      "airDate": "2009-09-20",
+      "title": {
+        "en": "Love Live, YatterKing"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116129,
+      "seasonNumber": 1,
+      "episodeNumber": 59,
+      "absoluteEpisodeNumber": 59,
+      "runtime": 25,
+      "image": null
+    },
+    "60": {
+      "episode": "60",
+      "length": "25m",
+      "airDate": "2009-09-26",
+      "title": {
+        "en": "The Final YatterBattle!"
+      },
+      "tvdbShowId": 250266,
+      "tvdbId": 5116131,
+      "seasonNumber": 1,
+      "episodeNumber": 60,
+      "absoluteEpisodeNumber": 60,
+      "runtime": 25,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "50m",
+      "airDate": "2008-05-05",
+      "title": {
+        "en": "Yatterman Special! One Night Only: Doronbo vs Minomonta! Test Your Smarts, Too! Gatchaman and the Mach Five Will Be There, Too!"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "50m",
+      "airDate": "2008-11-24",
+      "title": {
+        "en": "25.5 Special"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C1": {
+      "episode": "C1",
+      "length": "1m",
+      "airDate": "2008-01-14",
+      "title": {
+        "en": "Opening 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C2": {
+      "episode": "C2",
+      "length": "1m",
+      "airDate": "2008-04-14",
+      "title": {
+        "en": "Opening 2a"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C3": {
+      "episode": "C3",
+      "length": "1m",
+      "airDate": "2008-07-07",
+      "title": {
+        "en": "Opening 2b"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C4": {
+      "episode": "C4",
+      "length": "1m",
+      "airDate": "2009-02-02",
+      "title": {
+        "en": "Opening 2c"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C5": {
+      "episode": "C5",
+      "length": "1m",
+      "airDate": "2009-09-27",
+      "title": {
+        "en": "Opening 2d"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C6": {
+      "episode": "C6",
+      "length": "1m",
+      "airDate": "2009-04-05",
+      "title": {
+        "en": "Opening 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C7": {
+      "episode": "C7",
+      "length": "1m",
+      "airDate": "2008-01-14",
+      "title": {
+        "en": "Ending 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C8": {
+      "episode": "C8",
+      "length": "1m",
+      "airDate": "2008-04-14",
+      "title": {
+        "en": "Ending 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C9": {
+      "episode": "C9",
+      "length": "1m",
+      "airDate": "2008-07-07",
+      "title": {
+        "en": "Ending 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C10": {
+      "episode": "C10",
+      "length": "1m",
+      "airDate": "2008-11-10",
+      "title": {
+        "en": "Ending 4"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C11": {
+      "episode": "C11",
+      "length": "1m",
+      "airDate": "2009-02-02",
+      "title": {
+        "en": "Ending 5"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C12": {
+      "episode": "C12",
+      "length": "1m",
+      "airDate": "2009-04-05",
+      "title": {
+        "en": "Ending 6"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C13": {
+      "episode": "C13",
+      "length": "1m",
+      "airDate": "2009-07-05",
+      "title": {
+        "en": "Ending 7"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "CM 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "CM 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "CM 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T4": {
+      "episode": "T4",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "CM 4"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:11:28.369Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

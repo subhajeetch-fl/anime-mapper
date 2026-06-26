@@ -1,0 +1,131 @@
+{
+  "id": 3153,
+  "idMal": 3153,
+  "mappings": {
+    "mal": 3153,
+    "anilist": 3153,
+    "anidb": 5434,
+    "kitsu": 2826,
+    "simkl": 36948,
+    "tmdb": 13549,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 3153,
+    "livechart": 8943,
+    "animeplanet": "gatchaman-the-movie",
+    "anisearch": 4464,
+    "notify": "Qfzw5KiiR"
+  },
+  "title": {
+    "romaji": "Kagaku Ninja-Tai Gatchaman (Movie)",
+    "english": "Gatchaman: The Movie",
+    "native": "科学忍者隊 ガッチャマン",
+    "synonyms": [
+      "Science Ninja Team Gatchaman (movie)"
+    ]
+  },
+  "type": "Movie",
+  "source": "Unknown",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 110,
+  "aired": {
+    "from": "1978-07-15T00:00:00+00:00",
+    "to": "1978-07-15"
+  },
+  "season": "summer",
+  "year": 1978,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.1,
+    "anilistScore": 5.5,
+    "kitsuRating": 6.79
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi",
+    "Science Fiction"
+  ],
+  "studios": [
+    "Tatsunoko Production"
+  ],
+  "producers": [
+    "Imagi",
+    "Toshiba Entertainment"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/4/4830l.jpg",
+    "banner": null,
+    "color": "#f1a143"
+  },
+  "trailer": null,
+  "synopsis": "This is the condensed theatrical adaptation of the original TV series' first season.",
+  "sequence": [
+    {
+      "malId": 2389,
+      "title": {
+        "romaji": "Kagaku Ninja-Tai Gatchaman",
+        "english": "Gatchaman",
+        "native": "科学忍者隊ガッチャマン"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2389-wSCjApiCQQiH.png",
+      "format": "TV",
+      "episodes": 105,
+      "seasonYear": 1972,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "115m",
+      "airDate": "1978-07-15",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 6018773,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 101,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer for italian DVD edition"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:07:47.812Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

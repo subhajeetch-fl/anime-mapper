@@ -1,0 +1,124 @@
+{
+  "id": 3821,
+  "idMal": 3821,
+  "mappings": {
+    "mal": 3821,
+    "anilist": 3821,
+    "anidb": 3958,
+    "kitsu": 3275,
+    "simkl": 36296,
+    "tmdb": 465582,
+    "tvdb": null,
+    "trakt": 312702,
+    "traktType": "movies",
+    "shikimori": 3821,
+    "livechart": null,
+    "animeplanet": "portable-kuukou",
+    "anisearch": 2048,
+    "notify": "l1a_5KmiR"
+  },
+  "title": {
+    "romaji": "Portable Kuukou",
+    "english": "Portable Airport",
+    "native": "ポータブル空港",
+    "synonyms": []
+  },
+  "type": "Music",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 3,
+  "aired": {
+    "from": "2004-05-29T00:00:00+00:00",
+    "to": "2004-05-29"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 5.54,
+    "anilistScore": 5,
+    "kitsuRating": 5.88
+  },
+  "genres": [
+    "Sci-Fi",
+    "Space",
+    "Music",
+    "Science Fiction"
+  ],
+  "studios": [
+    "Studio Kajino"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/3/6818l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3821-5yxoPFiIqmMa.jpg",
+    "color": "#bbe45d"
+  },
+  "trailer": null,
+  "synopsis": "A 3 minutes long animated film produced by Studio Kajino, a small studio related to Studio Ghibli, was shown in a double feature prior to the Cutie Honey Live-Action movie. Supervision was done by Yoshiyuki Momose, director of the Ghiblies.\n\nTo be released 16th November 2004 on the \"Ghibli ga Ippai Special Short Short\" DVD, together with other Ghibli-Shorts like Sorairo no Tane, On Your Mark, Space Station No.9, Nandaro and Various Commercials.",
+  "sequence": [
+    {
+      "malId": 3820,
+      "title": {
+        "romaji": "space station No.9",
+        "english": null,
+        "native": "space station No.9"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3820.jpg",
+      "format": "MUSIC",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 3818,
+      "title": {
+        "romaji": "Soratobu Toshi Keikaku",
+        "english": "Project `City Flying in the Sky`",
+        "native": "空飛ぶ都市計画"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3818.jpg",
+      "format": "MUSIC",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "3m",
+      "airDate": "2004-05-29",
+      "title": {
+        "en": "Music Video"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:25:26.507Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

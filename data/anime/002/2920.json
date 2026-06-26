@@ -1,0 +1,143 @@
+{
+  "id": 2920,
+  "idMal": 2920,
+  "mappings": {
+    "mal": 2920,
+    "anilist": 2920,
+    "anidb": 1631,
+    "kitsu": 2645,
+    "simkl": 38812,
+    "tmdb": 25117,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 2920,
+    "livechart": 6716,
+    "animeplanet": "ashita-no-joe-movie",
+    "anisearch": 2995,
+    "notify": "BYpUcKimg"
+  },
+  "title": {
+    "romaji": "Ashita no Joe (Movie)",
+    "english": "Tomorrow's Joe The Movie",
+    "native": "あしたのジョー (1980)",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 153,
+  "aired": {
+    "from": "1980-03-08T00:00:00+00:00",
+    "to": "1980-03-08"
+  },
+  "season": "winter",
+  "year": 1980,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.07,
+    "anilistScore": 6.7,
+    "kitsuRating": 7.1
+  },
+  "genres": [
+    "Drama",
+    "Sports",
+    "Action",
+    "Slice of Life",
+    "Boxing",
+    "Combat"
+  ],
+  "studios": [
+    "Mushi Production"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/7/51837l.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/2645/original.jpg",
+    "color": "#f16b35"
+  },
+  "trailer": null,
+  "synopsis": "An abridged remake of the first Ashita no Joe TV series, released in 1980 to provide back-story for the second TV series to new fans who were not familiar with the first TV series or the manga.\n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 2402,
+      "title": {
+        "romaji": "Ashita no Joe",
+        "english": "Tomorrow's Joe",
+        "native": "あしたのジョー"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2402-hbo1SbfcM5hm.jpg",
+      "format": "TV",
+      "episodes": 79,
+      "seasonYear": 1970,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "155m",
+      "airDate": "1980-03-08",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 81232,
+      "tvdbId": 2653411,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 82,
+      "runtime": 77,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "80m",
+      "airDate": "1980-03-08",
+      "title": {
+        "en": "Part 1 of 2"
+      },
+      "tvdbShowId": 81232,
+      "tvdbId": 2653411,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 82,
+      "runtime": 77,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "75m",
+      "airDate": "1980-03-08",
+      "title": {
+        "en": "Part 2 of 2"
+      },
+      "tvdbShowId": 81232,
+      "tvdbId": 2653411,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 82,
+      "runtime": 77,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:01:03.880Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

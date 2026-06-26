@@ -1,0 +1,190 @@
+{
+  "id": 2492,
+  "idMal": 2492,
+  "mappings": {
+    "mal": 2492,
+    "anilist": 2492,
+    "anidb": 2557,
+    "kitsu": 2262,
+    "simkl": 41597,
+    "tmdb": 444936,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 2492,
+    "livechart": 11618,
+    "animeplanet": "touch-sayonara-no-okurimono",
+    "anisearch": 2827,
+    "notify": "WFqEcKiiR"
+  },
+  "title": {
+    "romaji": "Touch 2: Sayonara no Okurimono",
+    "english": "Touch 2: The Farewell Gift",
+    "native": "タッチ2 さよならの贈り物",
+    "synonyms": [
+      "Touch 2: The Farewell Gift"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 80,
+  "aired": {
+    "from": "1986-12-13T00:00:00+00:00",
+    "to": "1986-12-13"
+  },
+  "season": "fall",
+  "year": 1986,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.62,
+    "anilistScore": 5.9,
+    "kitsuRating": 6.81
+  },
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sports",
+    "Action",
+    "Baseball"
+  ],
+  "studios": [
+    "Group TAC"
+  ],
+  "producers": [
+    "OB Planning",
+    "Asatsu DK",
+    "Fuji TV",
+    "TOHO"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/8/3046l.jpg",
+    "banner": null,
+    "color": "#e46b35"
+  },
+  "trailer": null,
+  "synopsis": "Compilation movie of the second year of the Touch timeline. Plotwise, the movie doesn't have much to do with the series second year.\n\n(Source: AniDB)",
+  "sequence": [
+    {
+      "malId": 1065,
+      "title": {
+        "romaji": "Touch",
+        "english": null,
+        "native": "タッチ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1065-kwtHZDN5cAOG.jpg",
+      "format": "TV",
+      "episodes": 101,
+      "seasonYear": 1985,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 2491,
+      "title": {
+        "romaji": "Touch: Sebangou no Nai Ace",
+        "english": null,
+        "native": "タッチ 背番号のないエース"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2491.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1986,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 2493,
+      "title": {
+        "romaji": "Touch 3: Kimi ga Toorisugita Ato ni - DON'T PASS ME BY",
+        "english": null,
+        "native": "タッチ３ 君が通り過ぎたあとに -DON`T PASS ME BY-"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2493.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1987,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "80m",
+      "airDate": "1986-12-13",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 83105,
+      "tvdbId": 559501,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/559501/screencap/65fcd3b8f0b13.jpg"
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "PV 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "PV 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T21:47:11.016Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

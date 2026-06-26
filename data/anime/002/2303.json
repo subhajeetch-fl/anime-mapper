@@ -1,0 +1,160 @@
+{
+  "id": 2303,
+  "idMal": 2303,
+  "mappings": {
+    "mal": 2303,
+    "anilist": 2303,
+    "anidb": 1037,
+    "kitsu": 2085,
+    "simkl": 40620,
+    "tmdb": 9157,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 2303,
+    "livechart": 6987,
+    "animeplanet": "mobile-suit-sd-gundam-mk-ii",
+    "anisearch": 389,
+    "notify": "b1hPcFiig"
+  },
+  "title": {
+    "romaji": "Kidou Senshi SD Gundam Mk-II",
+    "english": "Mobile Suit SD Gundam Mk-II",
+    "native": "機動戦士SDガンダム Mk-II",
+    "synonyms": [
+      "Kidou Senshi SD Gundam Mk-II",
+      "Mobile Suit SD Gundam Mk. II"
+    ]
+  },
+  "type": "OVA",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 3,
+  "episodeLength": 10,
+  "aired": {
+    "from": "1989-06-25T00:00:00+00:00",
+    "to": "1989-06-25"
+  },
+  "season": "summer",
+  "year": 1989,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.12,
+    "anilistScore": 5.6,
+    "kitsuRating": 6.28
+  },
+  "genres": [
+    "Comedy",
+    "Sci-Fi",
+    "Mecha",
+    "Parody",
+    "Robot",
+    "Super Deformed",
+    "Science Fiction"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/3/55903l.jpg",
+    "banner": null,
+    "color": "#f1c935"
+  },
+  "trailer": null,
+  "synopsis": "Mobile Suit SD Gundam Mk II delivers with more tongue-in-cheek humor than the first series. In \"The Rolling Colony Affair,\" a colony is hosting a cabaret show featuring the girls of Gundam. But the show turns disastrous when men and mobile suits go crazy over the girls, sending the colony rolling out of control. A parody of the videogame RPG genre, \"Gundam Legend\" has Amuro, Kamille and Judau sent on a perilous quest to rescue the princess of the Zeta Kingdom from Char Aznable and his vicious Zeon MS forces. \n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 2302,
+      "title": {
+        "romaji": "Kidou Senshi SD Gundam",
+        "english": null,
+        "native": "機動戦士SDガンダム"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2302.jpg",
+      "format": "SPECIAL",
+      "episodes": 3,
+      "seasonYear": 1988,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 2305,
+      "title": {
+        "romaji": "Kidou Senshi SD Gundam Mk-III",
+        "english": null,
+        "native": "機動戦士SDガンダム Mk-III"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2305.jpg",
+      "format": "OVA",
+      "episodes": 6,
+      "seasonYear": 1990,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "15m",
+      "airDate": "1989-06-23",
+      "title": {
+        "en": "The Rolling Colony Affair"
+      },
+      "tvdbShowId": 157211,
+      "tvdbId": 4918485,
+      "seasonNumber": 0,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "3m",
+      "airDate": "1989-06-23",
+      "title": {
+        "en": "Founder Gundam: The Lost Story"
+      },
+      "tvdbShowId": 157211,
+      "tvdbId": 4918486,
+      "seasonNumber": 0,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "15m",
+      "airDate": "1989-06-23",
+      "title": {
+        "en": "Gundam Legend"
+      },
+      "tvdbShowId": 157211,
+      "tvdbId": 4918487,
+      "seasonNumber": 0,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T21:40:26.148Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

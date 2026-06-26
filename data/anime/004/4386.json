@@ -1,0 +1,160 @@
+{
+  "id": 4386,
+  "idMal": 4386,
+  "mappings": {
+    "mal": 4386,
+    "anilist": 4386,
+    "anidb": 2223,
+    "kitsu": 3582,
+    "simkl": 1571569,
+    "tmdb": 45485,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 4386,
+    "livechart": null,
+    "animeplanet": "great-mazinger-vs-getter-robo-g-the-great-space-encounter",
+    "anisearch": 176,
+    "notify": "z5Lu5Kiig"
+  },
+  "title": {
+    "romaji": "Great Mazinger vs. Getter Robo G: Kuuchuu Dai-Gekitotsu",
+    "english": null,
+    "native": "グレートマジンガー対ゲッターロボＧ 空中大激突",
+    "synonyms": [
+      "Great Mazinger tai Getter Robo G: Kuuchuu Dai-Gekitotsu",
+      "Great Mazinger vs. Getter Robo G: Kuuchuu Dai-Gekitotsu",
+      "Great Mazinger Vs. Getter Robo G: The Great Space Encounter"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 25,
+  "aired": {
+    "from": "1975-07-26T00:00:00+00:00",
+    "to": "1975-07-26"
+  },
+  "season": "summer",
+  "year": 1975,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.17,
+    "anilistScore": 5.4,
+    "kitsuRating": 6.31
+  },
+  "genres": [
+    "Sci-Fi",
+    "Action",
+    "Mecha",
+    "Science Fiction",
+    "Super Robot",
+    "Robot"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [
+    "Dynamic Planning"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1736/99759l.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/3582/original.jpg",
+    "color": "#e49335"
+  },
+  "trailer": null,
+  "synopsis": "Go Nagai crossover movie.",
+  "sequence": [
+    {
+      "malId": 5658,
+      "title": {
+        "romaji": "Great Mazinger",
+        "english": "Great Mazinger",
+        "native": "グレートマジンガー"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5658-Bm8Dw0Mcd5Aj.jpg",
+      "format": "TV",
+      "episodes": 56,
+      "seasonYear": 1974,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 4385,
+      "title": {
+        "romaji": "Great Mazinger tai Getter Robo",
+        "english": null,
+        "native": "グレートマジンガー対ゲッターロボ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4385.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1975,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 4486,
+      "title": {
+        "romaji": "Getter Robo G",
+        "english": "Getter Robo G",
+        "native": "ゲッターロボG"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4486-KWPJIXTe8p19.jpg",
+      "format": "TV",
+      "episodes": 39,
+      "seasonYear": 1975,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "1975-07-26",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:36:58.578Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

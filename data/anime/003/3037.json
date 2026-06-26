@@ -1,0 +1,132 @@
+{
+  "id": 3037,
+  "idMal": 3037,
+  "mappings": {
+    "mal": 3037,
+    "anilist": 3037,
+    "anidb": 1506,
+    "kitsu": 2743,
+    "simkl": 39611,
+    "tmdb": 46390,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 3037,
+    "livechart": 7071,
+    "animeplanet": "ghost-sweeper-mikami-movie",
+    "anisearch": 474,
+    "notify": "MJQUcFimR"
+  },
+  "title": {
+    "romaji": "Ghost Sweeper Mikami: Gokuraku Daisakusen!!",
+    "english": "Ghost Sweeper Mikami Movie",
+    "native": "GS美神 極楽大作戦!!",
+    "synonyms": [
+      "GS Mikami Movie"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 59,
+  "aired": {
+    "from": "1994-08-20T00:00:00+00:00",
+    "to": "1994-08-20"
+  },
+  "season": "summer",
+  "year": 1994,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.69,
+    "anilistScore": 6.4,
+    "kitsuRating": 6.81
+  },
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Adventure",
+    "Japan",
+    "Action",
+    "Vampire",
+    "Present",
+    "Super Power"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/11/49257l.jpg",
+    "banner": null,
+    "color": "#e49343"
+  },
+  "trailer": null,
+  "synopsis": "Her name is Mikami and she is a Ghost Sweeper by profession. She's also the sexiest exorcist/bounty hunter you will ever meet! When an evil vampire sorcerer returns to Tokyo after a 100-year absence, Mikami is hired to track him and his menacing assistant down before they take over the city.",
+  "sequence": [
+    {
+      "malId": 2400,
+      "title": {
+        "romaji": "Ghost Sweeper Mikami",
+        "english": "Ghost Sweeper Mikami",
+        "native": "GS美神"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2400-qtL4ZLOVQeWH.jpg",
+      "format": "TV",
+      "episodes": 45,
+      "seasonYear": 1993,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "60m",
+      "airDate": "1994-08-20",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 74731,
+      "tvdbId": 5690715,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 61,
+      "image": "https://artworks.thetvdb.com/banners/episodes/74731/5690715.jpg"
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "0m",
+      "airDate": "",
+      "title": {
+        "en": "45s Commercial"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:04:43.875Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

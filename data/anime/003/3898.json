@@ -1,0 +1,149 @@
+{
+  "id": 3898,
+  "idMal": 3898,
+  "mappings": {
+    "mal": 3898,
+    "anilist": 3898,
+    "anidb": 951,
+    "kitsu": 3332,
+    "simkl": 37201,
+    "tmdb": 19253,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 3898,
+    "livechart": 6627,
+    "animeplanet": "mazinger-z-vs-devilman",
+    "anisearch": 1532,
+    "notify": "fg_l5Kiig"
+  },
+  "title": {
+    "romaji": "Mazinger Z vs. Devilman",
+    "english": "Mazinger Z vs. Devilman",
+    "native": "マジンガーＺ対デビルマン",
+    "synonyms": [
+      "Mazinger Z vs. Devilman",
+      "Mazinger Z versus Devilman",
+      "Mazinger Z tai Devilman"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 43,
+  "aired": {
+    "from": "1973-07-18T00:00:00+00:00",
+    "to": "1973-07-18"
+  },
+  "season": "summer",
+  "year": 1973,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.17,
+    "anilistScore": 5.7,
+    "kitsuRating": 6.47
+  },
+  "genres": [
+    "Adventure",
+    "Sci-Fi",
+    "Supernatural",
+    "Mecha",
+    "Demons",
+    "Science Fiction",
+    "Action",
+    "Demon"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [
+    "Dynamic Planning"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1446/122745l.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/3332/original.jpg",
+    "color": "#f15d35"
+  },
+  "trailer": null,
+  "synopsis": "The heroes of the series Mazinger Z and Devilman fighting against the evil Demon Clan.",
+  "sequence": [
+    {
+      "malId": 2252,
+      "title": {
+        "romaji": "Devilman",
+        "english": "Devilman",
+        "native": "デビルマン"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2252-j7TwAtCwqYuY.png",
+      "format": "TV",
+      "episodes": 39,
+      "seasonYear": 1972,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 2253,
+      "title": {
+        "romaji": "Mazinger Z",
+        "english": "Mazinger Z",
+        "native": "マジンガーＺ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2253-nS4Os86CPB5a.png",
+      "format": "TV",
+      "episodes": 92,
+      "seasonYear": 1972,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "45m",
+      "airDate": "1973-07-18",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 83609,
+      "tvdbId": 2792051,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 45,
+      "image": "https://artworks.thetvdb.com/banners/episodes/83609/2792051.jpg"
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:27:46.376Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

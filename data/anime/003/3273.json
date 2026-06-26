@@ -1,0 +1,162 @@
+{
+  "id": 3273,
+  "idMal": 3273,
+  "mappings": {
+    "mal": 3273,
+    "anilist": 3273,
+    "anidb": 2133,
+    "kitsu": 2899,
+    "simkl": 36799,
+    "tmdb": 43231,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 3273,
+    "livechart": 11863,
+    "animeplanet": "kinnikuman-movie",
+    "anisearch": 373,
+    "notify": "teOQ5Fmig"
+  },
+  "title": {
+    "romaji": "Kinnikuman (1984)",
+    "english": null,
+    "native": "キン肉マン 奪われたチャンピオンベルト",
+    "synonyms": [
+      "Kinnikuman (1984)",
+      "Kinnikuman: Stolen Championship Belt",
+      "Kinnikuman: Ubawareta Championship Belt",
+      "Kinnikuman (Movie)",
+      "Kinnikuman Movie 1",
+      "Kinnikuman: The Stolen Championship Belt"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 48,
+  "aired": {
+    "from": "1984-07-14T00:00:00+00:00",
+    "to": "1984-07-14"
+  },
+  "season": "summer",
+  "year": 1984,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.45,
+    "anilistScore": 6,
+    "kitsuRating": 7.01
+  },
+  "genres": [
+    "Comedy",
+    "Sports",
+    "Action",
+    "Science Fiction",
+    "Martial Arts"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1457/98817l.jpg",
+    "banner": null,
+    "color": "#f1f150"
+  },
+  "trailer": null,
+  "synopsis": "Mari and Kinnikuman's Championship Belt are stolen by the Octopus Dragon and his minions. Now Kinnikuman and the other Justice Choujins must travel to Planet Metro and compete in a tournament in order to win them back.",
+  "sequence": [
+    {
+      "malId": 3272,
+      "title": {
+        "romaji": "Kinnikuman",
+        "english": null,
+        "native": "キン肉マン"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3272.jpg",
+      "format": "TV",
+      "episodes": 137,
+      "seasonYear": 1983,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 3274,
+      "title": {
+        "romaji": "Kinnikuman: Daiabare! Segi Choujin",
+        "english": null,
+        "native": "キン肉マン 大暴れ！正義超人"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3274-hBwHXHQPRgbF.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1984,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "50m",
+      "airDate": "1984-07-14",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 250848,
+      "tvdbId": 4149553,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 20,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "0m",
+      "airDate": "1984-07-14",
+      "title": {
+        "en": "Part 1 of 2"
+      },
+      "tvdbShowId": 250848,
+      "tvdbId": 4149553,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 20,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "0m",
+      "airDate": "1984-07-14",
+      "title": {
+        "en": "Part 2 of 2"
+      },
+      "tvdbShowId": 250848,
+      "tvdbId": 4149553,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 20,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:10:53.109Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

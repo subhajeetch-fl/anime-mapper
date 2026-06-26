@@ -1,0 +1,150 @@
+{
+  "id": 3964,
+  "idMal": 3964,
+  "mappings": {
+    "mal": 3964,
+    "anilist": 3964,
+    "anidb": 2812,
+    "kitsu": 3382,
+    "simkl": 38198,
+    "tmdb": 75177,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 3964,
+    "livechart": 7180,
+    "animeplanet": "turn-a-gundam-ii-moonlight-butterfly",
+    "anisearch": 2714,
+    "notify": "7iqlcFmig"
+  },
+  "title": {
+    "romaji": "Turn A Gundam II: Moonlight Butterfly",
+    "english": "∀ Gundam II: Moonlight Butterfly",
+    "native": "劇場版∀ガンダムII 月光蝶",
+    "synonyms": [
+      "Turn A Gundam II Movie: Moonlight Butterfly",
+      "∀ Gundam II: Gekkou Chou"
+    ]
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 128,
+  "aired": {
+    "from": "2002-02-10T00:00:00+00:00",
+    "to": "2002-02-10"
+  },
+  "season": "winter",
+  "year": 2002,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.57,
+    "anilistScore": 5.9,
+    "kitsuRating": 6.91
+  },
+  "genres": [
+    "Drama",
+    "Sci-Fi",
+    "Action",
+    "Mecha",
+    "Space",
+    "Military",
+    "Science Fiction",
+    "Earth",
+    "Piloted Robot"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [
+    "Sotsu",
+    "Atelier Musa"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/12/7122l.jpg",
+    "banner": null,
+    "color": "#f1bb50"
+  },
+  "trailer": null,
+  "synopsis": "The movie retelling of the final half of the Turn A Gundam series.",
+  "sequence": [
+    {
+      "malId": 95,
+      "title": {
+        "romaji": "∀ Gundam",
+        "english": "Turn A Gundam",
+        "native": "∀ガンダム"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx95-5okHk1B0VKro.jpg",
+      "format": "TV",
+      "episodes": 50,
+      "seasonYear": 1999,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 3963,
+      "title": {
+        "romaji": "Turn A Gundam I: Earth Light",
+        "english": "∀ Gundam I: Earth Light",
+        "native": "劇場版∀ガンダムI 地球光"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3963.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2002,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "130m",
+      "airDate": "2002-02-10",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 71585,
+      "tvdbId": 3510991,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 128,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer (1:14)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:29:34.174Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,547 @@
+{
+  "id": 2717,
+  "idMal": 2717,
+  "mappings": {
+    "mal": 2717,
+    "anilist": 2717,
+    "anidb": 4692,
+    "kitsu": 2478,
+    "simkl": 889927,
+    "tmdb": 8915,
+    "tvdb": 82883,
+    "trakt": 8869,
+    "traktType": "shows",
+    "shikimori": 2717,
+    "livechart": 8108,
+    "animeplanet": "the-galaxy-railways-ii",
+    "anisearch": 3389,
+    "notify": "0W_ycKmmR"
+  },
+  "title": {
+    "romaji": "Ginga Tetsudou Monogatari: Eien he no Bunkiten",
+    "english": "The Galaxy Railways II",
+    "native": "銀河鉄道物語 ～永遠への分岐点～",
+    "synonyms": [
+      "The Galaxy Railways 2",
+      "Ginga Tetsudou Monogatari II",
+      "The Galaxy Railways: Eternal Divergence"
+    ]
+  },
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 24,
+  "episodeLength": 24,
+  "aired": {
+    "from": "2006-10-05T00:00:00+00:00",
+    "to": "2007-03-29T00:00:00+00:00"
+  },
+  "season": "fall",
+  "year": 2006,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:45",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.81,
+    "anilistScore": 6.1,
+    "kitsuRating": 7.03
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Sci-Fi",
+    "Space",
+    "Space Travel",
+    "Science Fiction",
+    "Steampunk",
+    "Space Opera",
+    "Special Squads",
+    "Other Planet",
+    "Shipboard",
+    "Future",
+    "Law And Order",
+    "Plot Continuity"
+  ],
+  "studios": [
+    "Planet"
+  ],
+  "producers": [
+    "CBC Television",
+    "Omnibus Promotion"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/3/77281l.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/2478/original.jpg",
+    "color": "#d6bb6b"
+  },
+  "trailer": null,
+  "synopsis": "Second season.",
+  "sequence": [
+    {
+      "malId": 1490,
+      "title": {
+        "romaji": "Ginga Tetsudou Monogatari",
+        "english": "The Galaxy Railways",
+        "native": "銀河鉄道物語"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1490.jpg",
+      "format": "TV",
+      "episodes": 26,
+      "seasonYear": 2003,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 3854,
+      "title": {
+        "romaji": "Ginga Tetsudou Monogatari: Wasurerareta Toki no Wakusei",
+        "english": "The Galaxy Railways: A Letter from the Abandoned Planet",
+        "native": "銀河鉄道物語 ～忘れられた時の惑星～"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3854-2gkEGVIlKSne.png",
+      "format": "OVA",
+      "episodes": 4,
+      "seasonYear": 2006,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2006-10-04",
+      "title": {
+        "en": "A New Departure"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874651,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/82883/874651.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2006-10-11",
+      "title": {
+        "en": "The Gap Between Calmness and Insanity"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874661,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/82883/874661.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2006-10-18",
+      "title": {
+        "en": "The Flower Blooming in Space"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874671,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/82883/874671.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2006-10-25",
+      "title": {
+        "en": "Stardust Blues"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874681,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/82883/874681.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2006-11-01",
+      "title": {
+        "en": "On the Edge of the Abyss"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874691,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 25,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2006-11-08",
+      "title": {
+        "en": "The Graduation"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874701,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 25,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2006-11-15",
+      "title": {
+        "en": "The Blue Roses"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874711,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 25,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2006-11-22",
+      "title": {
+        "en": "A Mission for two"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874721,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 25,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2006-11-29",
+      "title": {
+        "en": "The Road to Tomorrow"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874731,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/82883/874731.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2006-12-06",
+      "title": {
+        "en": "The Abandoned Future"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874741,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/82883/874741.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2006-12-13",
+      "title": {
+        "en": "For Whose Pride?"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874751,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 37,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/82883/874751.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2006-12-20",
+      "title": {
+        "en": "The Wings of the Soul"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874761,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 38,
+      "runtime": 25,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2007-01-10",
+      "title": {
+        "en": "SDF, in a Dire Pinch"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874771,
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 39,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/82883/874771.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "2007-01-17",
+      "title": {
+        "en": "SDF, in a Dire Pinch (Part Two)"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874781,
+      "seasonNumber": 2,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 40,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/82883/874781.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "2007-01-24",
+      "title": {
+        "en": "A Momentary Happiness"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874791,
+      "seasonNumber": 2,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 41,
+      "runtime": 25,
+      "image": null
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "2007-01-31",
+      "title": {
+        "en": "An Uninvited Castaway"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874801,
+      "seasonNumber": 2,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 42,
+      "runtime": 25,
+      "image": null
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "2007-02-07",
+      "title": {
+        "en": "Departure Towards the Unknown"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874811,
+      "seasonNumber": 2,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 43,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/82883/874811.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "2007-02-14",
+      "title": {
+        "en": "The Successor of the Spear"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874821,
+      "seasonNumber": 2,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 44,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/82883/874821.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "2007-02-21",
+      "title": {
+        "en": "The Mist Calls"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874831,
+      "seasonNumber": 2,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 45,
+      "runtime": 25,
+      "image": null
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "2007-02-28",
+      "title": {
+        "en": "At the end of the Journey"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874841,
+      "seasonNumber": 2,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 46,
+      "runtime": 25,
+      "image": null
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "2007-03-07",
+      "title": {
+        "en": "Reunion"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874851,
+      "seasonNumber": 2,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 47,
+      "runtime": 25,
+      "image": null
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "2007-03-14",
+      "title": {
+        "en": "A Labyrinth Named Destiny"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874861,
+      "seasonNumber": 2,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 48,
+      "runtime": 25,
+      "image": null
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "2007-03-21",
+      "title": {
+        "en": "Through the Storm"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874871,
+      "seasonNumber": 2,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 49,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/82883/874871.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "2007-03-28",
+      "title": {
+        "en": "The Eternal Vow"
+      },
+      "tvdbShowId": 82883,
+      "tvdbId": 874881,
+      "seasonNumber": 2,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 50,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/82883/874881.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "0m",
+      "airDate": "",
+      "title": {
+        "en": "Episode S1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "0m",
+      "airDate": "",
+      "title": {
+        "en": "Episode S2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "2006-10-05",
+      "title": {
+        "en": "Carry the Light (1-24)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "2006-10-05",
+      "title": {
+        "en": "All of Us (1-24)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T21:54:56.459Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,1725 @@
+{
+  "id": 2390,
+  "idMal": 2390,
+  "mappings": {
+    "mal": 2390,
+    "anilist": 2390,
+    "anidb": 2448,
+    "kitsu": 2167,
+    "simkl": 36237,
+    "tmdb": 14891,
+    "tvdb": 71014,
+    "trakt": 14827,
+    "traktType": "shows",
+    "shikimori": 2390,
+    "livechart": 5402,
+    "animeplanet": "kirby-right-back-at-ya",
+    "anisearch": 2212,
+    "notify": "k8BE5Kiig"
+  },
+  "title": {
+    "romaji": "Hoshi no Kirby",
+    "english": "Kirby: Right Back at Ya!",
+    "native": "星のカービィ",
+    "synonyms": [
+      "Hoshi no Kirby",
+      "Kirby of the Stars",
+      "Kirby das Estrelas"
+    ]
+  },
+  "type": "TV",
+  "source": "Game",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 100,
+  "episodeLength": 24,
+  "aired": {
+    "from": "2001-10-06T00:00:00+00:00",
+    "to": "2003-09-27T00:00:00+00:00"
+  },
+  "season": "fall",
+  "year": 2001,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "19:30",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 6.96,
+    "anilistScore": 6.7,
+    "kitsuRating": 6.73
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Slice of Life",
+    "Parody",
+    "Alien"
+  ],
+  "studios": [
+    "Studio Sign",
+    "Studio Comet"
+  ],
+  "producers": [
+    "CBC Television",
+    "Nintendo"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/9/22184l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2390-uw84eARLc5AX.jpg",
+    "color": "#e4c950"
+  },
+  "trailer": null,
+  "synopsis": "A diminutive pink creature orbiting in space called \"Kirby\" crash lands into Dream Land. Once getting acquainted with the citizens who live there in Cappy Town, he begins to defend the town from the monsters that King Dedede, the self-proclaimed ruler of Cappy Town, orders from the evil Nightmare Enterprises.\n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 11717,
+      "title": {
+        "romaji": "Hoshi no Kirby Pilot",
+        "english": null,
+        "native": "星のカービィ パイロット版"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11717.jpg",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 30155,
+      "title": {
+        "romaji": "Hoshi no Kirby: Taose!! Koukaku Majuu Ebizou",
+        "english": "Kirby 3D",
+        "native": "星のカービィ～特別編～ 倒せ!!甲殻魔獣エビゾウ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101094-ZB5EvX5s7t7x.jpg",
+      "format": "ONA",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "SIDE_STORY"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2001-10-06",
+      "title": {
+        "en": "Kirby Comes To Cappy Town"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30294,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30294.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2001-10-13",
+      "title": {
+        "en": "A Blockbuster Battle"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30295,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30295.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2001-10-20",
+      "title": {
+        "en": "Kirby`s Duel Role"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30296,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30296.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2001-10-27",
+      "title": {
+        "en": "Dark and Stormy Knight"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30297,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30297.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2001-11-03",
+      "title": {
+        "en": "Beware: Whispy Woods!"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30298,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30298.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2001-11-10",
+      "title": {
+        "en": "Un-Reality TV"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30299,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30299.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2001-11-17",
+      "title": {
+        "en": "Kirby`s Egg-Cellent Adventure"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30300,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30300.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2001-11-24",
+      "title": {
+        "en": "Curio`s Curious Discovery"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30301,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30301.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2001-12-01",
+      "title": {
+        "en": "The Fofa Factor"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30302,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30302.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2001-12-08",
+      "title": {
+        "en": "Hail to the Chief"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30303,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30303.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2001-12-15",
+      "title": {
+        "en": "The Big Taste Test"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30304,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30304.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2001-12-29",
+      "title": {
+        "en": "Escargoon Squad"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30322,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30322.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2001-12-29",
+      "title": {
+        "en": "Cappy New Year"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "2002-01-05",
+      "title": {
+        "en": "The Pillow Case"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30306,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30306.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "2001-12-22",
+      "title": {
+        "en": "Kirby`s Pet Peeve"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30307,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30307.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "2002-01-12",
+      "title": {
+        "en": "A Fish Called Kine"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30305,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30305.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "2002-01-26",
+      "title": {
+        "en": "The Thing About the Ring"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6336004,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/6336004.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "2002-01-19",
+      "title": {
+        "en": "Flower Power"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30308,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30308.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "2002-01-26",
+      "title": {
+        "en": "Here Comes the Son"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6336004,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/6336004.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "2002-02-02",
+      "title": {
+        "en": "Dedede`s Snow Job"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30309,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30309.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "2002-02-09",
+      "title": {
+        "en": "A Princess in Dis-Dress"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30310,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30310.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "2002-02-16",
+      "title": {
+        "en": "Island of the Lost Warrior"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30311,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30311.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "2002-02-23",
+      "title": {
+        "en": "The Empty Nest Mess"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30312,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30312.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "2002-03-02",
+      "title": {
+        "en": "Ninja Binge"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30313,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30313.jpg"
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "2002-03-09",
+      "title": {
+        "en": "Like Mother, Like Snail / Escargoon Rules"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30314,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30314.jpg"
+    },
+    "26": {
+      "episode": "26",
+      "length": "25m",
+      "airDate": "2002-03-16",
+      "title": {
+        "en": "Sword and Blade, Loyal and True / Hour of the WolfWrath"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30315,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30315.jpg"
+    },
+    "27": {
+      "episode": "27",
+      "length": "25m",
+      "airDate": "2002-03-23",
+      "title": {
+        "en": "The Flower Plot"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30316,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30316.jpg"
+    },
+    "28": {
+      "episode": "28",
+      "length": "25m",
+      "airDate": "2002-03-30",
+      "title": {
+        "en": "Labor Daze"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30317,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30317.jpg"
+    },
+    "29": {
+      "episode": "29",
+      "length": "25m",
+      "airDate": "2002-04-27",
+      "title": {
+        "en": "The Hot Shot Chef / A Spice Odyssey"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "30": {
+      "episode": "30",
+      "length": "25m",
+      "airDate": "2002-05-04",
+      "title": {
+        "en": "Hatch Me if You Can"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "31": {
+      "episode": "31",
+      "length": "25m",
+      "airDate": "2002-05-11",
+      "title": {
+        "en": "Abusement Park"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "32": {
+      "episode": "32",
+      "length": "25m",
+      "airDate": "2002-05-18",
+      "title": {
+        "en": "A Dental Dilemma"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "33": {
+      "episode": "33",
+      "length": "25m",
+      "airDate": "2002-05-25",
+      "title": {
+        "en": "Junk Jam"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "34": {
+      "episode": "34",
+      "length": "25m",
+      "airDate": "2002-06-01",
+      "title": {
+        "en": "A Recipe for Disaster"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "35": {
+      "episode": "35",
+      "length": "25m",
+      "airDate": "2002-06-08",
+      "title": {
+        "en": "The Kirby Derby - Part I"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "36": {
+      "episode": "36",
+      "length": "25m",
+      "airDate": "2002-06-15",
+      "title": {
+        "en": "The Kirby Derby - Part II"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "37": {
+      "episode": "37",
+      "length": "25m",
+      "airDate": "2002-06-22",
+      "title": {
+        "en": "Watermelon Felon"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "38": {
+      "episode": "38",
+      "length": "25m",
+      "airDate": "2002-06-29",
+      "title": {
+        "en": "A Novel Approach"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "39": {
+      "episode": "39",
+      "length": "25m",
+      "airDate": "2002-07-06",
+      "title": {
+        "en": "Escar-Gone"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "40": {
+      "episode": "40",
+      "length": "25m",
+      "airDate": "2002-07-13",
+      "title": {
+        "en": "Monster Management"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 40,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "41": {
+      "episode": "41",
+      "length": "25m",
+      "airDate": "2002-07-20",
+      "title": {
+        "en": "Prediction Predicament - Part I"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 41,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "42": {
+      "episode": "42",
+      "length": "25m",
+      "airDate": "2002-07-27",
+      "title": {
+        "en": "Prediction Predicament - Part II"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 42,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "43": {
+      "episode": "43",
+      "length": "25m",
+      "airDate": "2002-08-03",
+      "title": {
+        "en": "Sheepwrecked"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 43,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "44": {
+      "episode": "44",
+      "length": "25m",
+      "airDate": "2002-08-10",
+      "title": {
+        "en": "War of the Woods"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 44,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "45": {
+      "episode": "45",
+      "length": "25m",
+      "airDate": "2002-06-01",
+      "title": {
+        "en": "Scare Tactics - Part I"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30327,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30327.jpg"
+    },
+    "46": {
+      "episode": "46",
+      "length": "25m",
+      "airDate": "2002-06-08",
+      "title": {
+        "en": "Scare Tactics - Part II"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30325,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30325.jpg"
+    },
+    "47": {
+      "episode": "47",
+      "length": "25m",
+      "airDate": "2002-08-31",
+      "title": {
+        "en": "Pink-Collar Blues"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "48": {
+      "episode": "48",
+      "length": "25m",
+      "airDate": "2002-09-14",
+      "title": {
+        "en": "Tourist Trap"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "49": {
+      "episode": "49",
+      "length": "25m",
+      "airDate": "2002-04-27",
+      "title": {
+        "en": "Cartoon Buffoon"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30320,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30320.jpg"
+    },
+    "50": {
+      "episode": "50",
+      "length": "25m",
+      "airDate": "2002-05-04",
+      "title": {
+        "en": "Don`t Bank on It"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30321,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/30321/screencap/641d91a090d78.jpg"
+    },
+    "51": {
+      "episode": "51",
+      "length": "25m",
+      "airDate": "2002-05-11",
+      "title": {
+        "en": "Kirby Takes the Cake"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30323,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30323.jpg"
+    },
+    "52": {
+      "episode": "52",
+      "length": "25m",
+      "airDate": "2002-04-06",
+      "title": {
+        "en": "Snack Attack - Part I"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30318,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30318.jpg"
+    },
+    "53": {
+      "episode": "53",
+      "length": "25m",
+      "airDate": "2002-04-20",
+      "title": {
+        "en": "Snack Attack - Part II"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30319,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30319.jpg"
+    },
+    "54": {
+      "episode": "54",
+      "length": "25m",
+      "airDate": "2002-06-15",
+      "title": {
+        "en": "One Crazy Knight"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30326,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30326.jpg"
+    },
+    "55": {
+      "episode": "55",
+      "length": "25m",
+      "airDate": "2002-06-22",
+      "title": {
+        "en": "Sweet & Sour Puss"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30328,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 37,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/30328/screencap/61e2e2faf17bd.jpg"
+    },
+    "56": {
+      "episode": "56",
+      "length": "25m",
+      "airDate": "2002-06-29",
+      "title": {
+        "en": "Dedede`s Pet Threat"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30337,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 38,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30337.jpg"
+    },
+    "57": {
+      "episode": "57",
+      "length": "25m",
+      "airDate": "2002-07-06",
+      "title": {
+        "en": "A Half-Baked Battle"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30329,
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 39,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/30329/screencap/61e2e33b32977.jpg"
+    },
+    "58": {
+      "episode": "58",
+      "length": "25m",
+      "airDate": "2002-07-13",
+      "title": {
+        "en": "eNeMeE Elementary"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30330,
+      "seasonNumber": 2,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 40,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30330.jpg"
+    },
+    "59": {
+      "episode": "59",
+      "length": "25m",
+      "airDate": "2002-07-20",
+      "title": {
+        "en": "The Meal Moocher"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30331,
+      "seasonNumber": 2,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 41,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/30331/screencap/61e2e36fd0806.jpg"
+    },
+    "60": {
+      "episode": "60",
+      "length": "25m",
+      "airDate": "2002-08-03",
+      "title": {
+        "en": "Crusade for the Blade"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30333,
+      "seasonNumber": 2,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 43,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/30333/screencap/61e2e390e8ec9.jpg"
+    },
+    "61": {
+      "episode": "61",
+      "length": "25m",
+      "airDate": "2002-08-10",
+      "title": {
+        "en": "Fitness Fiend"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30334,
+      "seasonNumber": 2,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 44,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30334.jpg"
+    },
+    "62": {
+      "episode": "62",
+      "length": "25m",
+      "airDate": "2002-08-17",
+      "title": {
+        "en": "Mabel Turns the Tables"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6336022,
+      "seasonNumber": 2,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 45,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/6336022.jpg"
+    },
+    "63": {
+      "episode": "63",
+      "length": "25m",
+      "airDate": "2002-08-24",
+      "title": {
+        "en": "Something to Sneeze At"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6336023,
+      "seasonNumber": 2,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 46,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/6336023.jpg"
+    },
+    "64": {
+      "episode": "64",
+      "length": "25m",
+      "airDate": "2002-08-31",
+      "title": {
+        "en": "The Kirby Quiz"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30335,
+      "seasonNumber": 2,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 47,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30335.jpg"
+    },
+    "65": {
+      "episode": "65",
+      "length": "25m",
+      "airDate": "2002-09-14",
+      "title": {
+        "en": "Masher 2.0"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30336,
+      "seasonNumber": 2,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 48,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/30336/screencap/61e2e3d2adae6.jpg"
+    },
+    "66": {
+      "episode": "66",
+      "length": "25m",
+      "airDate": "2002-09-21",
+      "title": {
+        "en": "The Chill Factor"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6336024,
+      "seasonNumber": 2,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 49,
+      "runtime": 25,
+      "image": null
+    },
+    "67": {
+      "episode": "67",
+      "length": "25m",
+      "airDate": "2002-09-28",
+      "title": {
+        "en": "The School Scam"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6336025,
+      "seasonNumber": 2,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 50,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6336025/screencap/61e2e43298121.jpg"
+    },
+    "68": {
+      "episode": "68",
+      "length": "25m",
+      "airDate": "2002-10-05",
+      "title": {
+        "en": "Delivery Dilemma"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6336026,
+      "seasonNumber": 2,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 51,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6336026/screencap/61e2e43009853.jpg"
+    },
+    "69": {
+      "episode": "69",
+      "length": "25m",
+      "airDate": "2003-02-08",
+      "title": {
+        "en": "Trick or Trek"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 69,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "70": {
+      "episode": "70",
+      "length": "25m",
+      "airDate": "2003-02-15",
+      "title": {
+        "en": "Buccaneer Birdy"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 70,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "71": {
+      "episode": "71",
+      "length": "25m",
+      "airDate": "2003-02-23",
+      "title": {
+        "en": "A Whale of a Tale"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 71,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "72": {
+      "episode": "72",
+      "length": "25m",
+      "airDate": "2002-10-12",
+      "title": {
+        "en": "Waddle While You Work"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6336864,
+      "seasonNumber": 3,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 52,
+      "runtime": 25,
+      "image": null
+    },
+    "73": {
+      "episode": "73",
+      "length": "25m",
+      "airDate": "2002-10-19",
+      "title": {
+        "en": "Dedede`s Raw Deal"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6336867,
+      "seasonNumber": 3,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 53,
+      "runtime": 25,
+      "image": null
+    },
+    "74": {
+      "episode": "74",
+      "length": "25m",
+      "airDate": "2002-10-26",
+      "title": {
+        "en": "Caterpillar Thriller"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6336868,
+      "seasonNumber": 3,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 54,
+      "runtime": 25,
+      "image": null
+    },
+    "75": {
+      "episode": "75",
+      "length": "25m",
+      "airDate": "2002-11-02",
+      "title": {
+        "en": "Fossil Fools - Part I"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6336889,
+      "seasonNumber": 3,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 55,
+      "runtime": 25,
+      "image": null
+    },
+    "76": {
+      "episode": "76",
+      "length": "25m",
+      "airDate": "2002-11-09",
+      "title": {
+        "en": "Fossil Fools - Part II"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6336890,
+      "seasonNumber": 3,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 56,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6336890/screencap/66ef840956368.jpg"
+    },
+    "77": {
+      "episode": "77",
+      "length": "25m",
+      "airDate": "2002-11-16",
+      "title": {
+        "en": "Dedede`s Monsterpiece"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6336919,
+      "seasonNumber": 3,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 57,
+      "runtime": 25,
+      "image": null
+    },
+    "78": {
+      "episode": "78",
+      "length": "25m",
+      "airDate": "2002-11-23",
+      "title": {
+        "en": "Right Hand Robot"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6336920,
+      "seasonNumber": 3,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 58,
+      "runtime": 25,
+      "image": null
+    },
+    "79": {
+      "episode": "79",
+      "length": "25m",
+      "airDate": "2002-11-30",
+      "title": {
+        "en": "Goin` Bonkers"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6336921,
+      "seasonNumber": 3,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 59,
+      "runtime": 25,
+      "image": null
+    },
+    "80": {
+      "episode": "80",
+      "length": "25m",
+      "airDate": "2002-12-07",
+      "title": {
+        "en": "Power Ploy"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6336922,
+      "seasonNumber": 3,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 60,
+      "runtime": 25,
+      "image": null
+    },
+    "81": {
+      "episode": "81",
+      "length": "25m",
+      "airDate": "2002-12-14",
+      "title": {
+        "en": "A Trashy Tale"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6336935,
+      "seasonNumber": 3,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 61,
+      "runtime": 25,
+      "image": null
+    },
+    "82": {
+      "episode": "82",
+      "length": "25m",
+      "airDate": "2002-12-21",
+      "title": {
+        "en": "Cooking Up Trouble"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6337283,
+      "seasonNumber": 3,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 62,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/6337283.jpg"
+    },
+    "83": {
+      "episode": "83",
+      "length": "25m",
+      "airDate": "2002-12-28",
+      "title": {
+        "en": "Teacher`s Threat"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6337284,
+      "seasonNumber": 3,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 63,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/6337284.jpg"
+    },
+    "84": {
+      "episode": "84",
+      "length": "25m",
+      "airDate": "2003-01-04",
+      "title": {
+        "en": "Mumbies Madness"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6337288,
+      "seasonNumber": 3,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 64,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/6337288.jpg"
+    },
+    "85": {
+      "episode": "85",
+      "length": "25m",
+      "airDate": "2003-01-11",
+      "title": {
+        "en": "A Sunsational Surprise / A Sunsational Puzzle"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6337289,
+      "seasonNumber": 3,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 65,
+      "runtime": 25,
+      "image": null
+    },
+    "86": {
+      "episode": "86",
+      "length": "25m",
+      "airDate": "2003-01-18",
+      "title": {
+        "en": "A Chow Challenge"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6337291,
+      "seasonNumber": 3,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 66,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/6337291.jpg"
+    },
+    "87": {
+      "episode": "87",
+      "length": "25m",
+      "airDate": "2003-01-25",
+      "title": {
+        "en": "Waste Management"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6337293,
+      "seasonNumber": 3,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 67,
+      "runtime": 25,
+      "image": null
+    },
+    "88": {
+      "episode": "88",
+      "length": "25m",
+      "airDate": "2003-06-28",
+      "title": {
+        "en": "Shell-Shocked"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 88,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "89": {
+      "episode": "89",
+      "length": "25m",
+      "airDate": "2003-07-05",
+      "title": {
+        "en": "Tooned Out"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 89,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "90": {
+      "episode": "90",
+      "length": "25m",
+      "airDate": "2003-07-12",
+      "title": {
+        "en": "Born to Be Mild - Part I"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 90,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "91": {
+      "episode": "91",
+      "length": "25m",
+      "airDate": "2003-07-19",
+      "title": {
+        "en": "Born to Be Mild - Part II"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 91,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "92": {
+      "episode": "92",
+      "length": "25m",
+      "airDate": "2003-07-26",
+      "title": {
+        "en": "Hunger Struck"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 92,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "93": {
+      "episode": "93",
+      "length": "25m",
+      "airDate": "2003-08-02",
+      "title": {
+        "en": "D`Preciation Day"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 93,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "94": {
+      "episode": "94",
+      "length": "25m",
+      "airDate": "2003-08-09",
+      "title": {
+        "en": "Cowardly Creature"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 94,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "95": {
+      "episode": "95",
+      "length": "25m",
+      "airDate": "2003-08-16",
+      "title": {
+        "en": "Frog Wild"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 95,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "96": {
+      "episode": "96",
+      "length": "25m",
+      "airDate": "2002-05-18",
+      "title": {
+        "en": "Air-Ride-in-Style - Part I"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 6336009,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/6336009.jpg"
+    },
+    "97": {
+      "episode": "97",
+      "length": "25m",
+      "airDate": "2002-05-25",
+      "title": {
+        "en": "Air-Ride-in-Style - Part II"
+      },
+      "tvdbShowId": 71014,
+      "tvdbId": 30324,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71014/30324.jpg"
+    },
+    "98": {
+      "episode": "98",
+      "length": "25m",
+      "airDate": "2003-09-13",
+      "title": {
+        "en": "Cappy Town Down"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 98,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "99": {
+      "episode": "99",
+      "length": "25m",
+      "airDate": "2003-09-20",
+      "title": {
+        "en": "Combat Kirby"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 99,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "100": {
+      "episode": "100",
+      "length": "25m",
+      "airDate": "2003-09-27",
+      "title": {
+        "en": "Fright to the Finish / Fight to the Finish"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 100,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "9m",
+      "airDate": "2009-08-09",
+      "title": {
+        "en": "Kirby of the Stars Special Episode: Take it Down! The Crustacean Monster Lobzilla"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "5m",
+      "airDate": "",
+      "title": {
+        "en": "New Ability Contest"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "2001-10-06",
+      "title": {
+        "en": "Kirby March (1-71)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP2": {
+      "episode": "OP2",
+      "length": "2m",
+      "airDate": "2003-03-01",
+      "title": {
+        "en": "Kirby! (72-100)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "2001-10-06",
+      "title": {
+        "en": "Kihon wa Maru (1-71)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2": {
+      "episode": "ED2",
+      "length": "2m",
+      "airDate": "2003-03-01",
+      "title": {
+        "en": "Kirby Step! (72-100)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T21:43:38.988Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

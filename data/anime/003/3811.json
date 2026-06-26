@@ -1,0 +1,719 @@
+{
+  "id": 3811,
+  "idMal": 3811,
+  "mappings": {
+    "mal": 3811,
+    "anilist": 3811,
+    "anidb": 3647,
+    "kitsu": 3267,
+    "simkl": 40668,
+    "tmdb": 27436,
+    "tvdb": 200971,
+    "trakt": 27317,
+    "traktType": "shows",
+    "shikimori": 3811,
+    "livechart": 9447,
+    "animeplanet": "the-adventures-of-the-little-prince",
+    "anisearch": 2119,
+    "notify": "O0b_cFmmg"
+  },
+  "title": {
+    "romaji": "Hoshi no Ouji-sama: Petit Prince",
+    "english": "The Adventures of the Little Prince",
+    "native": "星の王子さま プチ・プランス",
+    "synonyms": [
+      "Hoshi no Ojisama Petit Prince",
+      "The Little Prince",
+      "Le Petit Prince",
+      "The Prince of the Stars: Le Petit Prince",
+      "Mały Książę"
+    ]
+  },
+  "type": "TV",
+  "source": "Novel",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 35,
+  "episodeLength": 24,
+  "aired": {
+    "from": "1978-07-04T00:00:00+00:00",
+    "to": "1979-03-27T00:00:00+00:00"
+  },
+  "season": "summer",
+  "year": 1978,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.94,
+    "anilistScore": 5.7,
+    "kitsuRating": 7.16
+  },
+  "genres": [
+    "Adventure",
+    "Space Travel",
+    "Fantasy",
+    "Other Planet"
+  ],
+  "studios": [
+    "Knack Productions"
+  ],
+  "producers": [
+    "TV Asahi"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/2/36539l.jpg",
+    "banner": null,
+    "color": "#e4a150"
+  },
+  "trailer": null,
+  "synopsis": "The Little Prince lives on Asteroid B612, a tiny rock floating in space. He spends his days cleaning out the three small volcanoes on the asteroid (which he also uses to cook his breakfast) weeding out the baobob trees that threaten to take over, and caring for his friend the Rose Girl. When he gets lonely for company he catches a comet in his butterfly net and flies off to Earth for all sorts of adventures.\n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 34014,
+      "title": {
+        "romaji": "Hoshi no Oujisama Petit Prince Specials",
+        "english": null,
+        "native": "星の王子さま プチ プランス"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126318-LZq6bprDUjh5.jpg",
+      "format": "SPECIAL",
+      "episodes": 4,
+      "seasonYear": 2006,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "1978-07-04",
+      "title": {
+        "en": "My Home, a Tiny Planet"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3040451,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3040451/screencap/6639073518a8d.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "1978-07-11",
+      "title": {
+        "en": "Friendship in the Desert"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3040461,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3040461/screencap/6639074221b61.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "1978-07-18",
+      "title": {
+        "en": "Earth, the Green Planet"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3040471,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3040471/screencap/663907509213d.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "1978-07-25",
+      "title": {
+        "en": "Morning Shining with Life"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3040481,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3040481/screencap/663907607f127.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "1978-08-01",
+      "title": {
+        "en": "Light of the Heart"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3040491,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3040491/screencap/6639076ec0e2e.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "1978-08-08",
+      "title": {
+        "en": "Even So, Stars Twinkle"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3040501,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3040501/screencap/6639077d3f5f8.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "1978-08-15",
+      "title": {
+        "en": "The Castle Floating on the Sea"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3040511,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3040511/screencap/6639078cb33a5.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "1978-08-22",
+      "title": {
+        "en": "On the Bank of the Lake"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3040521,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3040521/screencap/6639079c59acf.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "1978-08-29",
+      "title": {
+        "en": "Small Promise"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3040531,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3040531/screencap/663907b5439d9.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "1978-09-05",
+      "title": {
+        "en": "Sound of the Flute Across the Lake"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3040541,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3040541/screencap/663907c1998ac.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "1978-09-12",
+      "title": {
+        "en": "Dandelions and the Girl"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3040551,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3040551/screencap/663907cf5fbe7.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "1978-09-25",
+      "title": {
+        "en": "Hero from the Mountain"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3040561,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3040561/screencap/663907dd49cfa.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "1978-10-03",
+      "title": {
+        "en": "Red Roses Tie Together Two Hearts"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3040571,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3040571/screencap/663907ee2c25a.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "1978-10-10",
+      "title": {
+        "en": "The Rose Captain"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3141421,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3141421/screencap/6639081030399.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "1978-10-17",
+      "title": {
+        "en": "The Rainbow, the Boy and the Bandits"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3141431,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3141431/screencap/66390821bbd66.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "1978-10-24",
+      "title": {
+        "en": "Sea of Flying Gulls"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3141441,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3141441/screencap/6639082f859d9.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "1978-10-31",
+      "title": {
+        "en": "Nature`s Friendship"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3141451,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3141451/screencap/6639083e36da2.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "1978-11-07",
+      "title": {
+        "en": "Violets in the Attic"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3141461,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3141461/screencap/6639084c1e964.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "1978-11-14",
+      "title": {
+        "en": "Nostalgic Telescope"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3141471,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3141471/screencap/6639085c20c34.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "1978-11-21",
+      "title": {
+        "en": "Star in the Palm of My Hand"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3141481,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3141481/screencap/66390869c1388.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "1978-11-28",
+      "title": {
+        "en": "The Exhilarating Wooden Horse Race"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3141491,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3141491/screencap/663908791354c.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "1978-12-05",
+      "title": {
+        "en": "Father and Son in the Storm"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3141501,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3141501/screencap/6639088a7c1c9.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "1978-12-19",
+      "title": {
+        "en": "Grandfather Simon`s Presents"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3141511,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3141511/screencap/6639089c35b3f.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "1979-01-09",
+      "title": {
+        "en": "The Man Who Digs for a Dream"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3141521,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3141521/screencap/663908aba785c.jpg"
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "1979-01-16",
+      "title": {
+        "en": "Fly Over the Mountain Range in a Balloon!"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3141531,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3141531/screencap/663908bab4a8f.jpg"
+    },
+    "26": {
+      "episode": "26",
+      "length": "25m",
+      "airDate": "1979-01-23",
+      "title": {
+        "en": "Little Flowers on Mount Rowen"
+      },
+      "tvdbShowId": 200971,
+      "tvdbId": 3141541,
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/3141541/screencap/663908c928c18.jpg"
+    },
+    "27": {
+      "episode": "27",
+      "length": "25m",
+      "airDate": "1979-01-30",
+      "title": {
+        "en": "Run, Steam Locomotive!"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "28": {
+      "episode": "28",
+      "length": "25m",
+      "airDate": "1979-02-06",
+      "title": {
+        "en": "Lullaby Plant of Love"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "29": {
+      "episode": "29",
+      "length": "25m",
+      "airDate": "1979-02-13",
+      "title": {
+        "en": "When the Aurora Glows"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "30": {
+      "episode": "30",
+      "length": "25m",
+      "airDate": "1979-02-20",
+      "title": {
+        "en": "The Adventure of the SS Dream, Part One"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "31": {
+      "episode": "31",
+      "length": "25m",
+      "airDate": "1979-02-27",
+      "title": {
+        "en": "The Adventure of the SS Dream, Part Two"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "32": {
+      "episode": "32",
+      "length": "25m",
+      "airDate": "1979-03-06",
+      "title": {
+        "en": "I Want to Go Back to My Planet"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "33": {
+      "episode": "33",
+      "length": "25m",
+      "airDate": "1979-03-13",
+      "title": {
+        "en": "Fly, SS Shooting Star!"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "34": {
+      "episode": "34",
+      "length": "25m",
+      "airDate": "1979-03-20",
+      "title": {
+        "en": "The Vanished Village at the Bottom of the Lake"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "35": {
+      "episode": "35",
+      "length": "25m",
+      "airDate": "1979-03-27",
+      "title": {
+        "en": "Bridge of Friendship"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "25m",
+      "airDate": "",
+      "title": {
+        "en": "Sculptor of the Forest"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "25m",
+      "airDate": "",
+      "title": {
+        "en": "Hero`s Hill"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "25m",
+      "airDate": "",
+      "title": {
+        "en": "Violin Singing to the Heart"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S4": {
+      "episode": "S4",
+      "length": "25m",
+      "airDate": "",
+      "title": {
+        "en": "Good Night, Prince"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "1978-07-04",
+      "title": {
+        "en": "Hoshi no Ouji-sama Petit Prince"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "1978-07-04",
+      "title": {
+        "en": "Samba Star"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:25:08.944Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

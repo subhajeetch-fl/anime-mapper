@@ -1,0 +1,178 @@
+{
+  "id": 4166,
+  "idMal": 4166,
+  "mappings": {
+    "mal": 4166,
+    "anilist": 4166,
+    "anidb": 5592,
+    "kitsu": 3500,
+    "simkl": 37500,
+    "tmdb": 27438,
+    "tvdb": 81768,
+    "trakt": 63720,
+    "traktType": "shows",
+    "shikimori": 4166,
+    "livechart": 6011,
+    "animeplanet": "to-heart-2-ad-ova",
+    "anisearch": 4676,
+    "notify": "NLFu5KmiR"
+  },
+  "title": {
+    "romaji": "ToHeart2ad",
+    "english": "ToHeart 2 AD",
+    "native": "ToHeart2ad",
+    "synonyms": [
+      "ToHeart 2: Another Days",
+      "To Heart 2: Another Days",
+      "ToHeart2ad",
+      "トゥハート2 ad"
+    ]
+  },
+  "type": "OVA",
+  "source": "Visual novel",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 2,
+  "episodeLength": 29,
+  "aired": {
+    "from": "2008-03-26T00:00:00+00:00",
+    "to": "2008-08-08T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 2008,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.89,
+    "anilistScore": 6.4,
+    "kitsuRating": 7.12
+  },
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Ecchi",
+    "Japan",
+    "School Life",
+    "Female Student",
+    "Present",
+    "Harem"
+  ],
+  "studios": [
+    "Chaos Project"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/3/75476l.jpg",
+    "banner": null,
+    "color": "#6b1a50"
+  },
+  "trailer": null,
+  "synopsis": "Based on the Visual Novel ToHeart 2 AD (Another Days), the sequel to ToHeart 2.",
+  "sequence": [
+    {
+      "malId": 1720,
+      "title": {
+        "romaji": "ToHeart2 OVA",
+        "english": null,
+        "native": "ToHeart2 OVA"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1720-SVwKg5zEfOWw.png",
+      "format": "OVA",
+      "episodes": 3,
+      "seasonYear": 2007,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 4804,
+      "title": {
+        "romaji": "ToHeart2 adplus",
+        "english": null,
+        "native": "ToHeart2 adplus"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4804-n2lNkuD9CAAU.jpg",
+      "format": "OVA",
+      "episodes": 2,
+      "seasonYear": 2009,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "30m",
+      "airDate": "2008-03-26",
+      "title": {
+        "en": "Scars of Memories"
+      },
+      "tvdbShowId": 81768,
+      "tvdbId": 746431,
+      "seasonNumber": 3,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81768/746431.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "30m",
+      "airDate": "2008-08-08",
+      "title": {
+        "en": "Happy New Year"
+      },
+      "tvdbShowId": 81768,
+      "tvdbId": 746441,
+      "seasonNumber": 3,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81768/746441.jpg"
+    },
+    "C1": {
+      "episode": "C1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Opening"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C2": {
+      "episode": "C2",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Ending"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:33:55.982Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

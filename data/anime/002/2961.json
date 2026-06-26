@@ -1,0 +1,166 @@
+{
+  "id": 2961,
+  "idMal": 2961,
+  "mappings": {
+    "mal": 2961,
+    "anilist": 2961,
+    "anidb": 1148,
+    "kitsu": 7826,
+    "simkl": 39556,
+    "tmdb": 97787,
+    "tvdb": null,
+    "trakt": 70970,
+    "traktType": "movies",
+    "shikimori": 2961,
+    "livechart": 4251,
+    "animeplanet": "digimon-adventure-movie-1",
+    "anisearch": 770,
+    "notify": "44-ptKmmg"
+  },
+  "title": {
+    "romaji": "Digimon Adventure (Movie)",
+    "english": "Digimon: The Movie",
+    "native": "デジモンアドベンチャー (Movie)",
+    "synonyms": [
+      "Digimon Adventure Movie",
+      "Digimon: The Movie"
+    ]
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 20,
+  "aired": {
+    "from": "1999-03-06T00:00:00+00:00",
+    "to": "1999-03-06"
+  },
+  "season": "spring",
+  "year": 1999,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 7.62,
+    "anilistScore": 7.4,
+    "kitsuRating": 7.4
+  },
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Sci-Fi",
+    "Kids",
+    "Friendship",
+    "Adventure",
+    "Japan",
+    "Science Fiction",
+    "Present",
+    "Proxy Battles",
+    "Isekai"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/3/72452l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2961-JrRvhM8R9WCg.jpg",
+    "color": "#e48643"
+  },
+  "trailer": null,
+  "synopsis": "A brother and sister discover the digital world is more than 1s and 0s when a living creature arrives out of the family computer. The adventures of a group of children start with the appearance of a Digital Monster in the real world.\n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 552,
+      "title": {
+        "romaji": "Digimon Adventure",
+        "english": "Digimon: Digital Monsters",
+        "native": "デジモンアドベンチャー"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx552-zad0ts5hylQJ.jpg",
+      "format": "TV",
+      "episodes": 54,
+      "seasonYear": 1999,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "20m",
+      "airDate": "1999-03-06",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 72241,
+      "tvdbId": 1322131,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/1322131/screencap/6976025aa20c5.jpg"
+    },
+    "O1": {
+      "episode": "O1",
+      "length": "90m",
+      "airDate": "2000-03-04",
+      "title": {
+        "en": "US Chopjob"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "O2": {
+      "episode": "O2",
+      "length": "45m",
+      "airDate": "2000-03-04",
+      "title": {
+        "en": "US Chopjob Part 1 of 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "O3": {
+      "episode": "O3",
+      "length": "45m",
+      "airDate": "2000-03-04",
+      "title": {
+        "en": "US Chopjob Part 2 of 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:02:23.087Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

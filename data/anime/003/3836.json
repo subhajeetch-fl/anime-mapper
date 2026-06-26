@@ -1,0 +1,913 @@
+{
+  "id": 3836,
+  "idMal": 3836,
+  "mappings": {
+    "mal": 3836,
+    "anilist": 3836,
+    "anidb": 3305,
+    "kitsu": 3288,
+    "simkl": 38414,
+    "tmdb": 10108,
+    "tvdb": 78614,
+    "trakt": 65401,
+    "traktType": "shows",
+    "shikimori": 3836,
+    "livechart": 7551,
+    "animeplanet": "belle-and-sebastian",
+    "anisearch": 2804,
+    "notify": "vrBlcFmiR"
+  },
+  "title": {
+    "romaji": "Meiken Jolie",
+    "english": "Belle and Sebastian",
+    "native": "名犬ジョリィ",
+    "synonyms": [
+      "Jolie the Great Dog",
+      "Belle et Sebastien",
+      "Bell og Sebastian",
+      "Bell och Sebastian",
+      "Belle ja Sebastian"
+    ]
+  },
+  "type": "TV",
+  "source": "Novel",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 52,
+  "episodeLength": 22,
+  "aired": {
+    "from": "1981-04-07T00:00:00+00:00",
+    "to": "1982-06-22T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 1981,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "19:30",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.88,
+    "anilistScore": 6.6,
+    "kitsuRating": 7.27
+  },
+  "genres": [
+    "Adventure",
+    "Historical"
+  ],
+  "studios": [
+    "Visual 80"
+  ],
+  "producers": [
+    "NHK",
+    "TOHO"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/8/22959l.jpg",
+    "banner": null,
+    "color": "#2886ae"
+  },
+  "trailer": null,
+  "synopsis": "After befriending a white Pyrenees dog he names Belle, Sebastian sets out on a journey to find the mother he knows is still alive. \n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 57007,
+      "title": {
+        "romaji": "Futari de Hanbunko",
+        "english": null,
+        "native": "ふたりで半分こ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b169458-rlGHWNenvfxc.png",
+      "format": "MUSIC",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "CHARACTER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "1981-04-07",
+      "title": {
+        "en": "The Monster of the Pyrenees"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290050,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78614/290050.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "1981-04-14",
+      "title": {
+        "en": "A Child Was Born"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290051,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78614/290051.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "1981-04-21",
+      "title": {
+        "en": "One Night in the Mountain"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290052,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78614/290052.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "1981-04-28",
+      "title": {
+        "en": "The Border"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290053,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78614/290053.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "1981-05-05",
+      "title": {
+        "en": "Continuation"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290054,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78614/290054.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "1981-05-12",
+      "title": {
+        "en": "The Helping Hand"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290055,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78614/290055.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "1981-05-19",
+      "title": {
+        "en": "The Moment of Truth"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290056,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78614/290056.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "1981-06-02",
+      "title": {
+        "en": "The Promise"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290057,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78614/290057.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "1981-06-09",
+      "title": {
+        "en": "Goodbyes"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290058,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78614/290058.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "1981-06-16",
+      "title": {
+        "en": "The Cattle Thief"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290059,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78614/290059.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "1981-06-23",
+      "title": {
+        "en": "Bad Love"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290060,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78614/290060.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "1981-06-30",
+      "title": {
+        "en": "Champions of the World"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290061,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78614/290061.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "1981-07-07",
+      "title": {
+        "en": "A Step Towards the Sky"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290062,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78614/290062.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "1981-07-14",
+      "title": {
+        "en": "An Act of Bravery"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290063,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78614/290063.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "1981-07-21",
+      "title": {
+        "en": "A Way Out"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290064,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78614/290064.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "1981-08-04",
+      "title": {
+        "en": "A Wave of Memories"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290065,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78614/290065.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "1981-08-11",
+      "title": {
+        "en": "Phantoms on Board"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290066,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f674703627ee.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "1981-08-18",
+      "title": {
+        "en": "Hello Boat!"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290067,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f674b11a2907.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "1981-08-25",
+      "title": {
+        "en": "Haunted Castle"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290068,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f674b35a3343.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "1981-09-01",
+      "title": {
+        "en": "Revenge of the Specturm"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290069,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f674b567e200.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "1981-09-08",
+      "title": {
+        "en": "Hell-Hound"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290070,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f674b737532b.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "1981-09-15",
+      "title": {
+        "en": "Only Against All"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290071,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f674b8bc69ea.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "1981-09-22",
+      "title": {
+        "en": "The Judge"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290072,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f674ba98283b.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "1981-09-29",
+      "title": {
+        "en": "The Magician"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290073,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f674bc385b40.jpg"
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "1981-10-06",
+      "title": {
+        "en": "One Last Step"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290074,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f674befe4c27.jpg"
+    },
+    "26": {
+      "episode": "26",
+      "length": "25m",
+      "airDate": "1981-10-13",
+      "title": {
+        "en": "The Union"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290075,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bab18c55f2.jpg"
+    },
+    "27": {
+      "episode": "27",
+      "length": "25m",
+      "airDate": "1981-10-20",
+      "title": {
+        "en": "The Hearth"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290076,
+      "seasonNumber": 1,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bab45bf927.jpg"
+    },
+    "28": {
+      "episode": "28",
+      "length": "25m",
+      "airDate": "1981-10-27",
+      "title": {
+        "en": "Builders"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290077,
+      "seasonNumber": 1,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bab5d046ac.jpg"
+    },
+    "29": {
+      "episode": "29",
+      "length": "25m",
+      "airDate": "1981-11-03",
+      "title": {
+        "en": "Last Coach"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290078,
+      "seasonNumber": 1,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bab80e3fca.jpg"
+    },
+    "30": {
+      "episode": "30",
+      "length": "25m",
+      "airDate": "1981-11-10",
+      "title": {
+        "en": "The Necklace"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290079,
+      "seasonNumber": 1,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bab9cf14e6.jpg"
+    },
+    "31": {
+      "episode": "31",
+      "length": "25m",
+      "airDate": "1981-11-17",
+      "title": {
+        "en": "Crossing the Bridge"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290080,
+      "seasonNumber": 1,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6babb993f61.jpg"
+    },
+    "32": {
+      "episode": "32",
+      "length": "25m",
+      "airDate": "1981-11-24",
+      "title": {
+        "en": "The Photograph"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290081,
+      "seasonNumber": 1,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6babd7e68f9.jpg"
+    },
+    "33": {
+      "episode": "33",
+      "length": "25m",
+      "airDate": "1981-12-01",
+      "title": {
+        "en": "Belle the Traitor (1)"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290082,
+      "seasonNumber": 1,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bac1d970fe.jpg"
+    },
+    "34": {
+      "episode": "34",
+      "length": "25m",
+      "airDate": "1981-12-08",
+      "title": {
+        "en": "Belle the Traitor (2)"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290083,
+      "seasonNumber": 1,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bacc2c605e.jpg"
+    },
+    "35": {
+      "episode": "35",
+      "length": "25m",
+      "airDate": "1981-12-15",
+      "title": {
+        "en": "Maruka (1)"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290084,
+      "seasonNumber": 1,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bada1a85d9.jpg"
+    },
+    "36": {
+      "episode": "36",
+      "length": "25m",
+      "airDate": "1981-12-22",
+      "title": {
+        "en": "Maruka (2)"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290085,
+      "seasonNumber": 1,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6badeccf855.jpg"
+    },
+    "37": {
+      "episode": "37",
+      "length": "25m",
+      "airDate": "1981-12-29",
+      "title": {
+        "en": "Maruka (3)"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290086,
+      "seasonNumber": 1,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bae05ba101.jpg"
+    },
+    "38": {
+      "episode": "38",
+      "length": "25m",
+      "airDate": "1982-01-05",
+      "title": {
+        "en": "A Bad Hotel"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290087,
+      "seasonNumber": 1,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bae1bbcd57.jpg"
+    },
+    "39": {
+      "episode": "39",
+      "length": "25m",
+      "airDate": "1982-01-12",
+      "title": {
+        "en": "The Gitans"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290088,
+      "seasonNumber": 1,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bae3495d81.jpg"
+    },
+    "40": {
+      "episode": "40",
+      "length": "25m",
+      "airDate": "1982-01-19",
+      "title": {
+        "en": "Belle in Chains"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290089,
+      "seasonNumber": 1,
+      "episodeNumber": 40,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bae4d05244.jpg"
+    },
+    "41": {
+      "episode": "41",
+      "length": "25m",
+      "airDate": "1982-01-26",
+      "title": {
+        "en": "A Rescue Operation"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290090,
+      "seasonNumber": 1,
+      "episodeNumber": 41,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bae7bcadba.jpg"
+    },
+    "42": {
+      "episode": "42",
+      "length": "25m",
+      "airDate": "1982-02-02",
+      "title": {
+        "en": "Finding Friends"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290091,
+      "seasonNumber": 1,
+      "episodeNumber": 42,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6baea982df3.jpg"
+    },
+    "43": {
+      "episode": "43",
+      "length": "25m",
+      "airDate": "1982-02-09",
+      "title": {
+        "en": "Train to the Pyrenees"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290092,
+      "seasonNumber": 1,
+      "episodeNumber": 43,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6baf3c82ecf.jpg"
+    },
+    "44": {
+      "episode": "44",
+      "length": "25m",
+      "airDate": "1982-02-16",
+      "title": {
+        "en": "Trials on the Train"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290093,
+      "seasonNumber": 1,
+      "episodeNumber": 44,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6baf5da1a65.jpg"
+    },
+    "45": {
+      "episode": "45",
+      "length": "25m",
+      "airDate": "1982-02-23",
+      "title": {
+        "en": "The Gentleman"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290094,
+      "seasonNumber": 1,
+      "episodeNumber": 45,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6baf84839f5.jpg"
+    },
+    "46": {
+      "episode": "46",
+      "length": "25m",
+      "airDate": "1982-03-02",
+      "title": {
+        "en": "The Wall"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290095,
+      "seasonNumber": 1,
+      "episodeNumber": 46,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bafa4cf6d6.jpg"
+    },
+    "47": {
+      "episode": "47",
+      "length": "25m",
+      "airDate": "1982-03-09",
+      "title": {
+        "en": "A Cold Wind Blows"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290096,
+      "seasonNumber": 1,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bafc6d0031.jpg"
+    },
+    "48": {
+      "episode": "48",
+      "length": "25m",
+      "airDate": "1982-03-16",
+      "title": {
+        "en": "Together in the Rain"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290097,
+      "seasonNumber": 1,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bafea57ac4.jpg"
+    },
+    "49": {
+      "episode": "49",
+      "length": "25m",
+      "airDate": "1982-03-23",
+      "title": {
+        "en": "The Reunion"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290098,
+      "seasonNumber": 1,
+      "episodeNumber": 49,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bb02008486.jpg"
+    },
+    "50": {
+      "episode": "50",
+      "length": "25m",
+      "airDate": "1982-03-30",
+      "title": {
+        "en": "The Blue Scarf"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290099,
+      "seasonNumber": 1,
+      "episodeNumber": 50,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bb04d5fa28.jpg"
+    },
+    "51": {
+      "episode": "51",
+      "length": "25m",
+      "airDate": "1982-04-06",
+      "title": {
+        "en": "The Decision"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290100,
+      "seasonNumber": 1,
+      "episodeNumber": 51,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/78614/episodes/5f6bb174c6e5f.jpg"
+    },
+    "52": {
+      "episode": "52",
+      "length": "25m",
+      "airDate": "1982-04-13",
+      "title": {
+        "en": "Union"
+      },
+      "tvdbShowId": 78614,
+      "tvdbId": 290101,
+      "seasonNumber": 1,
+      "episodeNumber": 52,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": null
+    },
+    "C1": {
+      "episode": "C1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "French Opening"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C2": {
+      "episode": "C2",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "French Ending"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:25:55.117Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

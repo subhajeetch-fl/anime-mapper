@@ -1,0 +1,145 @@
+{
+  "id": 4874,
+  "idMal": 4874,
+  "mappings": {
+    "mal": 4874,
+    "anilist": 4874,
+    "anidb": 3491,
+    "kitsu": 3833,
+    "simkl": 39595,
+    "tmdb": 60572,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 4874,
+    "livechart": 5217,
+    "animeplanet": "pokemon-pikachus-winter-vacation",
+    "anisearch": 2914,
+    "notify": "M_595KmmR"
+  },
+  "title": {
+    "romaji": "Pikachu no Fuyuyasumi",
+    "english": "Pokémon: Pikachu's Winter Vacation",
+    "native": "ピカチュウのふゆやすみ",
+    "synonyms": [
+      "Pocket Monsters: Pikachu no Fuyuyasumi",
+      "Let's Play on Christmas!",
+      "Christmas Night",
+      "Let's Play in the Snow!",
+      "Kanga Games"
+    ]
+  },
+  "type": "OVA",
+  "source": "Game",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 2,
+  "episodeLength": 9,
+  "aired": {
+    "from": "1998-12-22T00:00:00+00:00",
+    "to": "1998-12-22"
+  },
+  "season": "winter",
+  "year": 1999,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 6.52,
+    "anilistScore": 6.1,
+    "kitsuRating": 6.53
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Kids"
+  ],
+  "studios": [
+    "OLM"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1052/97380l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4874-XwyIy49ugffW.jpg",
+    "color": "#e4bb50"
+  },
+  "trailer": null,
+  "synopsis": "Pikachu's Winter Vacations are three series of videos, each composed of several Pikachu shorts. All shorts deal with winter and Christmas. This is the first series and contains Christmas Night &amp; Kanga Games.",
+  "sequence": [
+    {
+      "malId": 527,
+      "title": {
+        "romaji": "Pocket Monsters",
+        "english": "Pokémon",
+        "native": "ポケットモンスター"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b527-t6dBVJ5OVcXK.png",
+      "format": "TV",
+      "episodes": 276,
+      "seasonYear": 1997,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 10916,
+      "title": {
+        "romaji": "Pikachu no Fuyuyasumi 2000",
+        "english": "Pokémon: Pikachu's Winter Vacation 2",
+        "native": "ピカチュウのふゆやすみ2000"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx10916-Q0dYdu9lqllD.jpg",
+      "format": "OVA",
+      "episodes": 2,
+      "seasonYear": 1999,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "10m",
+      "airDate": "1998-12-22",
+      "title": {
+        "en": "Christmas Night"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 4231613,
+      "seasonNumber": 0,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76703/4231613.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "8m",
+      "airDate": "1998-12-22",
+      "title": {
+        "en": "Kanga Games"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 4231613,
+      "seasonNumber": 0,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76703/4231613.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:47:15.723Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": 5051,
+  "idMal": 5051,
+  "mappings": {
+    "mal": 5051,
+    "anilist": 5051,
+    "anidb": 8539,
+    "kitsu": 3905,
+    "simkl": 37416,
+    "tmdb": 21734,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 5051,
+    "livechart": 7343,
+    "animeplanet": "macross-xx",
+    "anisearch": 7369,
+    "notify": "Nay95FmmR"
+  },
+  "title": {
+    "romaji": "Macross XX",
+    "english": null,
+    "native": "マクロスXX",
+    "synonyms": []
+  },
+  "type": "Special",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 2,
+  "aired": {
+    "from": "2002-08-25T00:00:00+00:00",
+    "to": "2002-08-25"
+  },
+  "season": "summer",
+  "year": 2002,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 5.31,
+    "anilistScore": 4.5,
+    "kitsuRating": 5.95
+  },
+  "genres": [
+    "Action",
+    "Mecha",
+    "Piloted Robot",
+    "Music",
+    "Military",
+    "Science Fiction"
+  ],
+  "studios": [
+    "Gonzo"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/4/9862l.jpg",
+    "banner": null,
+    "color": "#ffbb00"
+  },
+  "trailer": null,
+  "synopsis": "A showcase of Macross variable fighters in action, from the VF-1 Valkyrie to the YF-19 and YF-21 - as animated in 3D by Gonzo.",
+  "sequence": [
+    {
+      "malId": 1088,
+      "title": {
+        "romaji": "Choujikuu Yousai Macross",
+        "english": "Macross",
+        "native": "超時空要塞マクロス"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1088-b2eAPvA5zmmi.png",
+      "format": "TV",
+      "episodes": 36,
+      "seasonYear": 1982,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "2m",
+      "airDate": "2002-08-25",
+      "title": {
+        "en": "OVA"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "2m",
+      "airDate": "2002-08-25",
+      "title": {
+        "en": "Mini-Chara Macross"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:50:10.692Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

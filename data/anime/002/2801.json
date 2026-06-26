@@ -1,0 +1,128 @@
+{
+  "id": 2801,
+  "idMal": 2801,
+  "mappings": {
+    "mal": 2801,
+    "anilist": 2801,
+    "anidb": 2193,
+    "kitsu": 2557,
+    "simkl": 36697,
+    "tmdb": 9160,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 2801,
+    "livechart": 7440,
+    "animeplanet": "candy-candy-the-call-of-spring",
+    "anisearch": 2843,
+    "notify": "w2MUcFmmR"
+  },
+  "title": {
+    "romaji": "Candy Candy: Haru no Yobigoe",
+    "english": "Candy Candy: The Call of Spring",
+    "native": "キャンディ・キャンディ 春の呼び声",
+    "synonyms": [
+      "Candy Candy: The Call of Spring",
+      "Candy Candy Spesial"
+    ]
+  },
+  "type": "Movie",
+  "source": "Unknown",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 25,
+  "aired": {
+    "from": "1978-03-18T00:00:00+00:00",
+    "to": "1978-03-18"
+  },
+  "season": "spring",
+  "year": 1978,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.66,
+    "anilistScore": 6,
+    "kitsuRating": 7.29
+  },
+  "genres": [
+    "Drama",
+    "Romance",
+    "Slice of Life",
+    "Coming Of Age",
+    "Past"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1967/94757l.jpg",
+    "banner": null,
+    "color": "#feae0d"
+  },
+  "trailer": null,
+  "synopsis": "Candy returns to Pony's Home and she meets a girl who has lost her parents and doesn't associate with the other kids. In order to cheer her up she decides to tell her about herself from the moment she was found by Miss Pony and sister Lane to her decision to leave the boarding school in England and walk her own path.\n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 2800,
+      "title": {
+        "romaji": "Candy Candy",
+        "english": "Candy Candy",
+        "native": "キャンディ・キャンディ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2800-YbzQOTWszvst.png",
+      "format": "TV",
+      "episodes": 115,
+      "seasonYear": 1976,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 2802,
+      "title": {
+        "romaji": "Candy Candy: Candy no Natsuyasumi",
+        "english": null,
+        "native": "キャンディ・キャンディ キャンディの夏休み"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2802-FmMzQsWuPjZM.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1978,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "1978-03-18",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 79884,
+      "tvdbId": 4938999,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79884/4938999.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T21:57:50.252Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": 2682,
+  "idMal": 2682,
+  "mappings": {
+    "mal": 2682,
+    "anilist": 2682,
+    "anidb": 2097,
+    "kitsu": 1184,
+    "simkl": 39690,
+    "tmdb": 34173,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 2682,
+    "livechart": null,
+    "animeplanet": "aoki-densetsu-shoot-movie",
+    "anisearch": 2643,
+    "notify": "p-Ub5KmiR"
+  },
+  "title": {
+    "romaji": "Aoki Densetsu Shoot! (Movie)",
+    "english": "Blue Legend Shoot!",
+    "native": "蒼き伝説 シュート! (Movie)",
+    "synonyms": [
+      "Aoki Densetsu Shoot! (1994)",
+      "Blue Legend Shoot! (1994)",
+      "Blue Legend Shoot! (Movie)"
+    ]
+  },
+  "type": "Movie",
+  "source": "Unknown",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 25,
+  "aired": {
+    "from": "1994-12-04T00:00:00+00:00",
+    "to": "1994-12-04"
+  },
+  "season": "fall",
+  "year": 1994,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 6.68,
+    "anilistScore": 6,
+    "kitsuRating": 7.09
+  },
+  "genres": [
+    "Sports",
+    "Action",
+    "Soccer"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1453/96649l.jpg",
+    "banner": null,
+    "color": "#f1351a"
+  },
+  "trailer": null,
+  "synopsis": "Frankfurt Youth team (Kubo's team while he was in Germany) comes to Japan to play a series of friendly matches. Frankfurt Captain Rudy wanted to see why Kubo left Germany to form a team in Japan so he challenges Kakegawa High to a match.",
+  "sequence": [
+    {
+      "malId": 1327,
+      "title": {
+        "romaji": "Aoki Densetsu Shoot!",
+        "english": null,
+        "native": "蒼き伝説 シュート!"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1327-B3BUwfGKCQIB.png",
+      "format": "TV",
+      "episodes": 58,
+      "seasonYear": 1993,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 50379,
+      "title": {
+        "romaji": "Shoot! Goal to the Future",
+        "english": "Shoot! Goal to the Future",
+        "native": "シュート！Goal to the Future"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141775-2ixoFSe09cxA.jpg",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2022,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "30m",
+      "airDate": "1994-12-04",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 79439,
+      "tvdbId": 3303331,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "0m",
+      "airDate": "1994-12-04",
+      "title": {
+        "en": "Part 1 of 2"
+      },
+      "tvdbShowId": 79439,
+      "tvdbId": 5526447,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "0m",
+      "airDate": "1994-12-04",
+      "title": {
+        "en": "Part 2 of 2"
+      },
+      "tvdbShowId": 79439,
+      "tvdbId": 5526448,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T21:53:43.862Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

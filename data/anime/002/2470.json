@@ -1,0 +1,132 @@
+{
+  "id": 2470,
+  "idMal": 2470,
+  "mappings": {
+    "mal": 2470,
+    "anilist": 2470,
+    "anidb": 727,
+    "kitsu": 2244,
+    "simkl": 38011,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 2470,
+    "livechart": 7922,
+    "animeplanet": "captain-harlock-mystery-of-the-arcadia",
+    "anisearch": 1126,
+    "notify": "tCuPcFiiR"
+  },
+  "title": {
+    "romaji": "Uchuu Kaizoku Captain Harlock: Arcadia-gou no Nazo",
+    "english": "Space Pirate Captain Harlock: Riddle of the Arcadia Episode",
+    "native": "宇宙海賊キャプテン・ハーロック　アルカディア号の謎",
+    "synonyms": [
+      "Space Pirate Captain Harlock: The Mystery of Arcadia",
+      "Harlock Movie 1"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 35,
+  "aired": {
+    "from": "1978-07-22T00:00:00+00:00",
+    "to": "1978-07-22"
+  },
+  "season": "summer",
+  "year": 1978,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.93,
+    "anilistScore": 6.5,
+    "kitsuRating": 7.11
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Sci-Fi",
+    "Space",
+    "Science Fiction",
+    "Space Opera"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/5/56071l.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/2244/original.jpg",
+    "color": "#934328"
+  },
+  "trailer": null,
+  "synopsis": "The story on Arcadia's mystery, on which the 13th television episode was based.",
+  "sequence": [
+    {
+      "malId": 1000,
+      "title": {
+        "romaji": "Uchuu Kaizoku Captain Harlock",
+        "english": "Captain Harlock Space Pirate",
+        "native": "宇宙海賊キャプテンハーロック"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1000-Xpeob9jND2tg.jpg",
+      "format": "TV",
+      "episodes": 42,
+      "seasonYear": 1978,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "35m",
+      "airDate": "1978-07-22",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "0m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T21:46:29.231Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

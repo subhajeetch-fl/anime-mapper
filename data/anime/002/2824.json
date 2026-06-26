@@ -1,0 +1,862 @@
+{
+  "id": 2824,
+  "idMal": 2824,
+  "mappings": {
+    "mal": 2824,
+    "anilist": 2824,
+    "anidb": 4044,
+    "kitsu": 2578,
+    "simkl": 38943,
+    "tmdb": 54552,
+    "tvdb": 120231,
+    "trakt": 54208,
+    "traktType": "shows",
+    "shikimori": 2824,
+    "livechart": null,
+    "animeplanet": "barbapapa-sekai-wo-mawaru",
+    "anisearch": 762,
+    "notify": "GnSU5KimR"
+  },
+  "title": {
+    "romaji": "Barbapapa Sekai wo Mawaru",
+    "english": "Barbapapa Around the World",
+    "native": "バーバパパ　世界をまわる",
+    "synonyms": [
+      "Barbapapa: Jorden rundt",
+      "Barbapapa - Jorden runt"
+    ]
+  },
+  "type": "TV",
+  "source": "Picture book",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 50,
+  "episodeLength": 5,
+  "aired": {
+    "from": "1999-07-05T00:00:00+00:00",
+    "to": "1999-10-08T00:00:00+00:00"
+  },
+  "season": "summer",
+  "year": 1999,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "16:50",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 5.84,
+    "anilistScore": 5.4,
+    "kitsuRating": 6.84
+  },
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "studios": [
+    "Studio Pierrot"
+  ],
+  "producers": [
+    "Kodansha"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1885/114869l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2824-7tinVzRZQKgN.jpg",
+    "color": "#e4e428"
+  },
+  "trailer": null,
+  "synopsis": "\"Barbapapa around the world\", is a fun-filled collection of 5-minute animated cartoons for preschool children. Barbapapa and his family return to TV for the first time in 25 years with 50 completely new and original episodes.\n\nEach episode travels to far-off lands where the Barbapapa family learns about plants, birds, reptiles or mammals in their natural Habitat. The Barbapapa family not only has fun playing with and imitating rare animals but it also helps the creatures when they fall into life-threatening situations. Join the Barbapapa Family as it travels to New Guinea, The Amazon, Patagonia and all over the world discovering the humor, danger and excitement of life.\n\n(Source: barbapapa.fr)",
+  "sequence": [
+    {
+      "malId": 2823,
+      "title": {
+        "romaji": "Barbapapa",
+        "english": "Barbapapa",
+        "native": "バーバパパ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2823.jpg",
+      "format": "TV_SHORT",
+      "episodes": 45,
+      "seasonYear": 1974,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 19959,
+      "title": {
+        "romaji": "Barbapapa (1977)",
+        "english": null,
+        "native": "バーバパパ (1977)"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19959.jpg",
+      "format": "TV_SHORT",
+      "episodes": 48,
+      "seasonYear": 1977,
+      "relationType": "ALTERNATIVE"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "5m",
+      "airDate": "1999-07-05",
+      "title": {
+        "en": "Farm"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207211,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207211.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "5m",
+      "airDate": "1999-07-06",
+      "title": {
+        "en": "Forest"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207221,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207221.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "5m",
+      "airDate": "1999-07-07",
+      "title": {
+        "en": "Departure"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207231,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207231.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "5m",
+      "airDate": "1999-07-08",
+      "title": {
+        "en": "Birds of Paradise"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1206951,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1206951.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "5m",
+      "airDate": "1999-07-09",
+      "title": {
+        "en": "Turtles"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1206961,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1206961.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "5m",
+      "airDate": "1999-07-12",
+      "title": {
+        "en": "Cactus"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1206881,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1206881.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "5m",
+      "airDate": "1999-07-13",
+      "title": {
+        "en": "Llama"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1206891,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1206891.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "5m",
+      "airDate": "1999-07-14",
+      "title": {
+        "en": "Bear"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1206901,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1206901.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "5m",
+      "airDate": "1999-07-15",
+      "title": {
+        "en": "Rhino"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1206981,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1206981.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "5m",
+      "airDate": "1999-07-16",
+      "title": {
+        "en": "Orangutan"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207001,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207001.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "5m",
+      "airDate": "1999-07-19",
+      "title": {
+        "en": "Kangaroo"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1206911,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1206911.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "5m",
+      "airDate": "1999-07-20",
+      "title": {
+        "en": "Koala"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1206921,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1206921.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "5m",
+      "airDate": "1999-07-21",
+      "title": {
+        "en": "Forest Fire"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207031,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207031.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "5m",
+      "airDate": "1999-07-22",
+      "title": {
+        "en": "Glacier"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207061,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207061.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "5m",
+      "airDate": "1999-07-23",
+      "title": {
+        "en": "Avalanche"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207071,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207071.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": "5m",
+      "airDate": "1999-07-26",
+      "title": {
+        "en": "Proboscis Monkey"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207011,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207011.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": "5m",
+      "airDate": "1999-07-27",
+      "title": {
+        "en": "Mangrove"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207021,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207021.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "5m",
+      "airDate": "1999-07-28",
+      "title": {
+        "en": "Python"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207081,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207081.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "5m",
+      "airDate": "1999-07-29",
+      "title": {
+        "en": "Tiger"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207041,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207041.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": "5m",
+      "airDate": "1999-07-30",
+      "title": {
+        "en": "Monsoon"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207051,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207051.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": "5m",
+      "airDate": "1999-08-09",
+      "title": {
+        "en": "Jaguar"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207131,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207131.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": "5m",
+      "airDate": "1999-08-10",
+      "title": {
+        "en": "Spider Monkey"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207091,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207091.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": "5m",
+      "airDate": "1999-08-11",
+      "title": {
+        "en": "Amazon River"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207101,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207101.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "5m",
+      "airDate": "1999-08-12",
+      "title": {
+        "en": "Panda"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207111,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207111.jpg"
+    },
+    "25": {
+      "episode": "25",
+      "length": "5m",
+      "airDate": "1999-08-13",
+      "title": {
+        "en": "Golden Fleece"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207121,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207121.jpg"
+    },
+    "26": {
+      "episode": "26",
+      "length": "5m",
+      "airDate": "1999-08-30",
+      "title": {
+        "en": "Moose"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1206931,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1206931.jpg"
+    },
+    "27": {
+      "episode": "27",
+      "length": "5m",
+      "airDate": "1999-08-31",
+      "title": {
+        "en": "Beavers"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207141,
+      "seasonNumber": 1,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207141.jpg"
+    },
+    "28": {
+      "episode": "28",
+      "length": "5m",
+      "airDate": "1999-09-01",
+      "title": {
+        "en": "Halloween"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207151,
+      "seasonNumber": 1,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207151.jpg"
+    },
+    "29": {
+      "episode": "29",
+      "length": "5m",
+      "airDate": "1999-09-02",
+      "title": {
+        "en": "Polar Bear"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207191,
+      "seasonNumber": 1,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207191.jpg"
+    },
+    "30": {
+      "episode": "30",
+      "length": "5m",
+      "airDate": "1999-09-03",
+      "title": {
+        "en": "Walrus"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207201,
+      "seasonNumber": 1,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207201.jpg"
+    },
+    "31": {
+      "episode": "31",
+      "length": "5m",
+      "airDate": "1999-09-06",
+      "title": {
+        "en": "Lion & Zebra"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207161,
+      "seasonNumber": 1,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207161.jpg"
+    },
+    "32": {
+      "episode": "32",
+      "length": "5m",
+      "airDate": "1999-09-07",
+      "title": {
+        "en": "Gnu"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207171,
+      "seasonNumber": 1,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207171.jpg"
+    },
+    "33": {
+      "episode": "33",
+      "length": "5m",
+      "airDate": "1999-09-08",
+      "title": {
+        "en": "Giraffe"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207181,
+      "seasonNumber": 1,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207181.jpg"
+    },
+    "34": {
+      "episode": "34",
+      "length": "5m",
+      "airDate": "1999-09-09",
+      "title": {
+        "en": "Tornado"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207241,
+      "seasonNumber": 1,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207241.jpg"
+    },
+    "35": {
+      "episode": "35",
+      "length": "5m",
+      "airDate": "1999-09-10",
+      "title": {
+        "en": "Bison"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207251,
+      "seasonNumber": 1,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207251.jpg"
+    },
+    "36": {
+      "episode": "36",
+      "length": "5m",
+      "airDate": "1999-09-13",
+      "title": {
+        "en": "Pioneer"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207261,
+      "seasonNumber": 1,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207261.jpg"
+    },
+    "37": {
+      "episode": "37",
+      "length": "5m",
+      "airDate": "1999-09-14",
+      "title": {
+        "en": "Grizzly"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207271,
+      "seasonNumber": 1,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207271.jpg"
+    },
+    "38": {
+      "episode": "38",
+      "length": "5m",
+      "airDate": "1999-09-15",
+      "title": {
+        "en": "Sea Otter"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207281,
+      "seasonNumber": 1,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207281.jpg"
+    },
+    "39": {
+      "episode": "39",
+      "length": "5m",
+      "airDate": "1999-09-16",
+      "title": {
+        "en": "Coral Reef"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207321,
+      "seasonNumber": 1,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207321.jpg"
+    },
+    "40": {
+      "episode": "40",
+      "length": "5m",
+      "airDate": "1999-09-17",
+      "title": {
+        "en": "Scorpion Fish"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207331,
+      "seasonNumber": 1,
+      "episodeNumber": 40,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207331.jpg"
+    },
+    "41": {
+      "episode": "41",
+      "length": "5m",
+      "airDate": "1999-09-20",
+      "title": {
+        "en": "Elephant"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207291,
+      "seasonNumber": 1,
+      "episodeNumber": 41,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207291.jpg"
+    },
+    "42": {
+      "episode": "42",
+      "length": "5m",
+      "airDate": "1999-09-21",
+      "title": {
+        "en": "Hippo"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207301,
+      "seasonNumber": 1,
+      "episodeNumber": 42,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207301.jpg"
+    },
+    "43": {
+      "episode": "43",
+      "length": "5m",
+      "airDate": "1999-09-22",
+      "title": {
+        "en": "Mosquito"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207311,
+      "seasonNumber": 1,
+      "episodeNumber": 43,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207311.jpg"
+    },
+    "44": {
+      "episode": "44",
+      "length": "5m",
+      "airDate": "1999-07-23",
+      "title": {
+        "en": "Baobab"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207391,
+      "seasonNumber": 1,
+      "episodeNumber": 44,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207391.jpg"
+    },
+    "45": {
+      "episode": "45",
+      "length": "5m",
+      "airDate": "1999-09-24",
+      "title": {
+        "en": "Aye-Aye"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207401,
+      "seasonNumber": 1,
+      "episodeNumber": 45,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207401.jpg"
+    },
+    "46": {
+      "episode": "46",
+      "length": "5m",
+      "airDate": "1999-09-27",
+      "title": {
+        "en": "Marine Iguana"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207361,
+      "seasonNumber": 1,
+      "episodeNumber": 46,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207361.jpg"
+    },
+    "47": {
+      "episode": "47",
+      "length": "5m",
+      "airDate": "1999-09-28",
+      "title": {
+        "en": "Whales"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207371,
+      "seasonNumber": 1,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207371.jpg"
+    },
+    "48": {
+      "episode": "48",
+      "length": "5m",
+      "airDate": "1999-09-29",
+      "title": {
+        "en": "Giant Turtles"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207381,
+      "seasonNumber": 1,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207381.jpg"
+    },
+    "49": {
+      "episode": "49",
+      "length": "5m",
+      "airDate": "1999-09-30",
+      "title": {
+        "en": "Penguins"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207341,
+      "seasonNumber": 1,
+      "episodeNumber": 49,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207341.jpg"
+    },
+    "50": {
+      "episode": "50",
+      "length": "5m",
+      "airDate": "1999-10-01",
+      "title": {
+        "en": "Giant Squid"
+      },
+      "tvdbShowId": 120231,
+      "tvdbId": 1207351,
+      "seasonNumber": 1,
+      "episodeNumber": 50,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/120231/1207351.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T21:58:36.539Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

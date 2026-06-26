@@ -1,0 +1,130 @@
+{
+  "id": 5002,
+  "idMal": 5002,
+  "mappings": {
+    "mal": 5002,
+    "anilist": 5002,
+    "anidb": 4779,
+    "kitsu": 3877,
+    "simkl": 41503,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 5002,
+    "livechart": null,
+    "animeplanet": "baribari-densetsu-1986",
+    "anisearch": 3923,
+    "notify": "8xarcFmig"
+  },
+  "title": {
+    "romaji": "Bari Bari Densetsu",
+    "english": null,
+    "native": "バリバリ伝説",
+    "synonyms": [
+      "Baribari Densetsu",
+      "Bari-Den",
+      "Motorcycle Legend",
+      "Legend of Rolling Wheels"
+    ]
+  },
+  "type": "OVA",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 2,
+  "episodeLength": 50,
+  "aired": {
+    "from": "1986-05-10T00:00:00+00:00",
+    "to": "1986-12-16T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 1986,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.64,
+    "anilistScore": 6,
+    "kitsuRating": 7.15
+  },
+  "genres": [
+    "Action",
+    "Drama",
+    "Sports"
+  ],
+  "studios": [
+    "Studio Pierrot"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1083/156759l.jpg",
+    "banner": null,
+    "color": "#e45078"
+  },
+  "trailer": null,
+  "synopsis": "The main character, Gun, rides a customized Honda CB750F cafe racer and eventually evolves into a pro road racer.",
+  "sequence": [
+    {
+      "malId": 12745,
+      "title": {
+        "romaji": "Bari Bari Densetsu (1987)",
+        "english": null,
+        "native": "バリバリ伝説"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12745.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1987,
+      "relationType": "SUMMARY"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "50m",
+      "airDate": "1986-05-10",
+      "title": {
+        "en": "Tsukuba Chapter"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "50m",
+      "airDate": "1986-12-16",
+      "title": {
+        "en": "Suzuka Chapter"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:49:06.915Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

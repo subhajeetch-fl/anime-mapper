@@ -1,0 +1,141 @@
+{
+  "id": 2962,
+  "idMal": 2962,
+  "mappings": {
+    "mal": 2962,
+    "anilist": 2962,
+    "anidb": 1150,
+    "kitsu": 2174,
+    "simkl": 40365,
+    "tmdb": 98299,
+    "tvdb": null,
+    "trakt": 71247,
+    "traktType": "movies",
+    "shikimori": 2962,
+    "livechart": 4864,
+    "animeplanet": "digimon-adventure-02-movie-the-golden-digimentals",
+    "anisearch": 1903,
+    "notify": "NOLPcKiiR"
+  },
+  "title": {
+    "romaji": "Digimon Adventure 02: Digimon Hurricane Jouriku!! / Chouzetsu Shinka!! Ougon no Digimental",
+    "english": "Digimon Movie 02 - Digimon Hurricane Touchdown! Supreme Evolution! The Golden Digimentals.",
+    "native": "デジモンアドベンチャー０２ 前篇 デジモンハリケーン上陸！！ 後篇 超絶進化！！黄金のデジメンタル",
+    "synonyms": [
+      "Digimon Adventure 02: Digimon Hurricane Jouriku!! / Kouhen Chouzetsu Shinka!! Ougon no Digimental",
+      "Digimon Adventure 02: Zenpen Digimon Hurricane Jouriku!! - Kouhen Chouzetsu Shinka!! Ougon no Digimental",
+      "Digimon Movie 02 - Digimon Hurricane Touchdown! Supreme Evolution! The Golden Digimentals.",
+      "Digimon: The Movie"
+    ]
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 2,
+  "episodeLength": 32,
+  "aired": {
+    "from": "2000-07-08T00:00:00+00:00",
+    "to": "2000-07-08"
+  },
+  "season": "summer",
+  "year": 2000,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 7.1,
+    "anilistScore": 6.8,
+    "kitsuRating": 6.82
+  },
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi",
+    "Action",
+    "Kids",
+    "Friendship",
+    "Americas",
+    "Present",
+    "Proxy Battles",
+    "Science Fiction",
+    "Comedy",
+    "Isekai"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [
+    "Bandai Visual"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1042/143225l.jpg",
+    "banner": null,
+    "color": "#d6e435"
+  },
+  "trailer": null,
+  "synopsis": "Years after a young boy in America loses one of his Digimon friends, an evil viral Digimon successfully kidnaps the original Chosen Children. Their younger friends must race against time with their Digimon partners to discover the source of this new menace, and perhaps solve a years-old mystery.\n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 1313,
+      "title": {
+        "romaji": "Digimon Adventure 02",
+        "english": "Digimon: Digital Monsters 02",
+        "native": "デジモンアドベンチャー０２"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1313-oCvzzU6fiCZB.png",
+      "format": "TV",
+      "episodes": 50,
+      "seasonYear": 2000,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "30m",
+      "airDate": "2000-07-08",
+      "title": {
+        "en": "Digimon Hurricane Touchdown!"
+      },
+      "tvdbShowId": 72241,
+      "tvdbId": 1322151,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "35m",
+      "airDate": "2000-07-08",
+      "title": {
+        "en": "Supreme Evolution! The Golden Digimentals"
+      },
+      "tvdbShowId": 72241,
+      "tvdbId": 1322151,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:02:25.290Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

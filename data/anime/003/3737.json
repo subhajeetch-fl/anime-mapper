@@ -1,0 +1,109 @@
+{
+  "id": 3737,
+  "idMal": 3737,
+  "mappings": {
+    "mal": 3737,
+    "anilist": 3737,
+    "anidb": 5917,
+    "kitsu": 3222,
+    "simkl": 38380,
+    "tmdb": 13961,
+    "tvdb": 137951,
+    "trakt": 13900,
+    "traktType": "shows",
+    "shikimori": 3737,
+    "livechart": 8543,
+    "animeplanet": "usavich",
+    "anisearch": 5255,
+    "notify": "EB5l5Fimg"
+  },
+  "title": {
+    "romaji": "Usavich",
+    "english": "Usavich",
+    "native": "ウサビッチ",
+    "synonyms": []
+  },
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 13,
+  "episodeLength": null,
+  "aired": {
+    "from": "2006-01-01T00:00:00+00:00",
+    "to": "2007-01-01T00:00:00+00:00"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.85,
+    "anilistScore": 5.9,
+    "kitsuRating": 6.71
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Russia",
+    "Anthropomorphism",
+    "Past"
+  ],
+  "studios": [
+    "Kanaban Graphics"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/4/15660l.jpg",
+    "banner": null,
+    "color": "#e4861a"
+  },
+  "trailer": null,
+  "synopsis": "Collection of animated shorts from MTV Japan and produced by Studio Kanaban that follows the misadventures of Kirenenko and Putin, two rabbits stuck in a Russian prison.",
+  "sequence": [
+    {
+      "malId": 3738,
+      "title": {
+        "romaji": "Usavich II",
+        "english": "Usavich II",
+        "native": "ウサビッチ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3738.jpg",
+      "format": "TV_SHORT",
+      "episodes": 13,
+      "seasonYear": 2007,
+      "relationType": "SEQUEL"
+    },
+    {
+      "malId": 30751,
+      "title": {
+        "romaji": "Usavich ZERO",
+        "english": null,
+        "native": "ウサビッチZERO"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102103-Qv9oyzizokgc.jpg",
+      "format": "TV_SHORT",
+      "episodes": 13,
+      "seasonYear": 2015,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-06-26T22:23:29.883Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

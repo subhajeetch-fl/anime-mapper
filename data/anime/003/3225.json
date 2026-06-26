@@ -1,0 +1,453 @@
+{
+  "id": 3225,
+  "idMal": 3225,
+  "mappings": {
+    "mal": 3225,
+    "anilist": 3225,
+    "anidb": 5510,
+    "kitsu": 2868,
+    "simkl": 40326,
+    "tmdb": 56354,
+    "tvdb": 81463,
+    "trakt": 55999,
+    "traktType": "shows",
+    "shikimori": 3225,
+    "livechart": 3972,
+    "animeplanet": "minami-ke-okawari",
+    "anisearch": 4537,
+    "notify": "8Q4QcFiig"
+  },
+  "title": {
+    "romaji": "Minami-ke: Okawari",
+    "english": null,
+    "native": "みなみけ～おかわり～",
+    "synonyms": [
+      "Minamike: Okawari",
+      "みなみけ 第2期",
+      "Minami-ke 2nd Season"
+    ]
+  },
+  "type": "TV",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 13,
+  "episodeLength": 24,
+  "aired": {
+    "from": "2008-01-07T00:00:00+00:00",
+    "to": "2008-03-31T00:00:00+00:00"
+  },
+  "season": "winter",
+  "year": 2008,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.33,
+    "anilistScore": 7,
+    "kitsuRating": 7.16
+  },
+  "genres": [
+    "Comedy",
+    "Slice of Life",
+    "School",
+    "Earth",
+    "Japan",
+    "Asia",
+    "Coming Of Age",
+    "Present",
+    "School Life"
+  ],
+  "studios": [
+    "asread.",
+    "Asread"
+  ],
+  "producers": [
+    "Starchild Records",
+    "Magic Capsule",
+    "TV Tokyo Music"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/10/73556l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3225-RA6ojx4GBLMD.jpg",
+    "color": "#e4c9a1"
+  },
+  "trailer": null,
+  "synopsis": "A new year has started, and the three Minami sisters—Haruka, Kana, and Chiaki—are still living together without adult supervision. As the seasons pass, the girls continue to make friends and find new interests. No matter where they are or who they hang out with, the sisters' time remains ever vibrant.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 2963,
+      "title": {
+        "romaji": "Minami-ke",
+        "english": null,
+        "native": "みなみけ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2963-JxvWsnzcs4IP.png",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2007,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 5162,
+      "title": {
+        "romaji": "Minami-ke: Okaeri",
+        "english": null,
+        "native": "みなみけ おかえり"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5162-5UFIak1E0jvL.png",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2009,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2008-01-06",
+      "title": {
+        "en": "Hot Springs, Here We Come!"
+      },
+      "tvdbShowId": 81463,
+      "tvdbId": 396601,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81463/396601.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2008-01-13",
+      "title": {
+        "en": "Taste is Inherited Over Generations"
+      },
+      "tvdbShowId": 81463,
+      "tvdbId": 396602,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81463/396602.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2008-01-20",
+      "title": {
+        "en": "Evening Hospitality, Secretly an Excuse"
+      },
+      "tvdbShowId": 81463,
+      "tvdbId": 396603,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81463/396603.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2008-01-27",
+      "title": {
+        "en": "Is It Alright to Tidy Up?"
+      },
+      "tvdbShowId": 81463,
+      "tvdbId": 396604,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81463/396604.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2008-02-03",
+      "title": {
+        "en": "Can`t Take Back a Served Tea Cup"
+      },
+      "tvdbShowId": 81463,
+      "tvdbId": 396605,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81463/396605.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2008-02-10",
+      "title": {
+        "en": "Has My Rice Already Cooled Down?"
+      },
+      "tvdbShowId": 81463,
+      "tvdbId": 396606,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81463/396606.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2008-02-17",
+      "title": {
+        "en": "The More You Chew It, The Sweeter It Becomes"
+      },
+      "tvdbShowId": 81463,
+      "tvdbId": 396607,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81463/396607.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2008-02-24",
+      "title": {
+        "en": "There`s Always Time for the Pool"
+      },
+      "tvdbShowId": 81463,
+      "tvdbId": 396608,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81463/396608.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2008-03-02",
+      "title": {
+        "en": "Starting to be Painful? The Secret of Mako-chan"
+      },
+      "tvdbShowId": 81463,
+      "tvdbId": 396609,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81463/396609.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2008-03-09",
+      "title": {
+        "en": "`Dumplings Rather Than Flowers` Age"
+      },
+      "tvdbShowId": 81463,
+      "tvdbId": 396610,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81463/396610.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2008-03-16",
+      "title": {
+        "en": "It became bad as expected"
+      },
+      "tvdbShowId": 81463,
+      "tvdbId": 396611,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81463/396611.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2008-03-23",
+      "title": {
+        "en": "One More Mouthful is Painful"
+      },
+      "tvdbShowId": 81463,
+      "tvdbId": 396612,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81463/396612.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2008-03-30",
+      "title": {
+        "en": "Everyone Gather, Thanks for the Meal"
+      },
+      "tvdbShowId": 81463,
+      "tvdbId": 396613,
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81463/396613.jpg"
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "1m",
+      "airDate": "2008-01-07",
+      "title": {
+        "en": "Kokoro no Tsubasa (1-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1a": {
+      "episode": "ED1a",
+      "length": "1m",
+      "airDate": "2008-01-07",
+      "title": {
+        "en": "Sono Koe ga Kikitakute (1-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1b": {
+      "episode": "ED1b",
+      "length": "1m",
+      "airDate": "2008-01-28",
+      "title": {
+        "en": "Sono Koe ga Kikitakute (1-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1c": {
+      "episode": "ED1c",
+      "length": "1m",
+      "airDate": "2008-02-18",
+      "title": {
+        "en": "Sono Koe ga Kikitakute (1-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1d": {
+      "episode": "ED1d",
+      "length": "1m",
+      "airDate": "2008-03-10",
+      "title": {
+        "en": "Sono Koe ga Kikitakute (1-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1e": {
+      "episode": "ED1e",
+      "length": "1m",
+      "airDate": "2008-03-31",
+      "title": {
+        "en": "Sono Koe ga Kikitakute (1-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "CD Promo"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "DVD CM Collection"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "TV CM Collection"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:09:20.235Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

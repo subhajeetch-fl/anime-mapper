@@ -1,0 +1,125 @@
+{
+  "id": 4395,
+  "idMal": 4395,
+  "mappings": {
+    "mal": 4395,
+    "anilist": 4395,
+    "anidb": 5927,
+    "kitsu": 3591,
+    "simkl": 38379,
+    "tmdb": 319161,
+    "tvdb": null,
+    "trakt": 199875,
+    "traktType": "movies",
+    "shikimori": 4395,
+    "livechart": null,
+    "animeplanet": "norakuro-nitouhei-enshuu-no-maki",
+    "anisearch": 4888,
+    "notify": "y0EucKimg"
+  },
+  "title": {
+    "romaji": "Norakuro Nitouhei: Enshuu no Maki",
+    "english": "Private 2nd Class Norakuro: The Drill",
+    "native": "のらくろ二等兵 演習の巻",
+    "synonyms": [
+      "Private 2nd Class Norakuro: The Training",
+      "Norakuro Nitouhei Part 2",
+      "Private Norakuro in Training",
+      "Private 2nd Class Norakuro"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 5,
+  "aired": {
+    "from": "1933-06-14T00:00:00+00:00",
+    "to": "1933-06-14"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 5.03,
+    "anilistScore": 4.1,
+    "kitsuRating": 6
+  },
+  "genres": [
+    "Adventure",
+    "Anthropomorphism"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/6/52275l.jpg",
+    "banner": null,
+    "color": null
+  },
+  "trailer": null,
+  "synopsis": "Norakuro keeps getting his allies and enemies mixed up while on training maneuvers. What he had thought to be a successfully eliminated enemy tank turns out to be the tank carrying the Regimental Commander.\n\n(Source: AniDB)",
+  "sequence": [
+    {
+      "malId": 5871,
+      "title": {
+        "romaji": "Norakuro Nitouhei: Kyouren no Maki",
+        "english": "Private Norakuro in Boot Camp",
+        "native": "のらくろ二等兵 教練の巻"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5871.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 30018,
+      "title": {
+        "romaji": "Norakuro Nitouhei",
+        "english": null,
+        "native": "のらくろ二等兵"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118119-cF9iQG44My3Z.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "5m",
+      "airDate": "",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:37:16.178Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

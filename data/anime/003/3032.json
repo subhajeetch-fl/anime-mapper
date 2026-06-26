@@ -1,0 +1,133 @@
+{
+  "id": 3032,
+  "idMal": 3032,
+  "mappings": {
+    "mal": 3032,
+    "anilist": 3032,
+    "anidb": 1227,
+    "kitsu": 2738,
+    "simkl": 37013,
+    "tmdb": 36200,
+    "tvdb": null,
+    "trakt": 22974,
+    "traktType": "movies",
+    "shikimori": 3032,
+    "livechart": 5520,
+    "animeplanet": "digimon-tamers-movie-the-adventurers-battle",
+    "anisearch": 247,
+    "notify": "o38UcFimg"
+  },
+  "title": {
+    "romaji": "Digimon Tamers: Boukensha-tachi no Tatakai",
+    "english": "Digimon Tamers: Battle of Adventurers",
+    "native": "デジモンテイマーズ 冒険者たちの戦い",
+    "synonyms": [
+      "Digimon Tamers: The Adventurers' Battle"
+    ]
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 50,
+  "aired": {
+    "from": "2001-07-14T00:00:00+00:00",
+    "to": "2001-07-14"
+  },
+  "season": "summer",
+  "year": 2001,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 6.95,
+    "anilistScore": 6.5,
+    "kitsuRating": 6.74
+  },
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi",
+    "Action",
+    "Friendship",
+    "Fantasy",
+    "Proxy Battles",
+    "Science Fiction",
+    "Present"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1886/151065l.jpg",
+    "banner": null,
+    "color": "#5da1e4"
+  },
+  "trailer": null,
+  "synopsis": "Takato and Guilmon go on vacation to Okinawa and meet a fellow tamer, Minami. Back in Japan, a popular computer pet suddenly becomes a virus, infecting all of the computers who have it. As the virus spreads, Takato tries to figure out why digimon are all attacking his new friend, and what her connection is to the virus.\n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 874,
+      "title": {
+        "romaji": "Digimon Tamers",
+        "english": null,
+        "native": "デジモンテイマーズ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx874-3uug3PiSeyf7.jpg",
+      "format": "TV",
+      "episodes": 51,
+      "seasonYear": 2001,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "50m",
+      "airDate": "2001-07-14",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 277575,
+      "tvdbId": 4936824,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 50,
+      "image": "https://artworks.thetvdb.com/banners/episodes/277575/4936824.jpg"
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:04:32.889Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

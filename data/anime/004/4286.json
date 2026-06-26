@@ -1,0 +1,970 @@
+{
+  "id": 4286,
+  "idMal": 4286,
+  "mappings": {
+    "mal": 4286,
+    "anilist": 4286,
+    "anidb": 3548,
+    "kitsu": 8967,
+    "simkl": 36690,
+    "tmdb": 66569,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 4286,
+    "livechart": 12393,
+    "animeplanet": "bonobono",
+    "anisearch": 2172,
+    "notify": "rUEbpFimR"
+  },
+  "title": {
+    "romaji": "BONOBONO",
+    "english": "Bonobono",
+    "native": "ぼのぼの",
+    "synonyms": []
+  },
+  "type": "TV",
+  "source": "4-koma manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 48,
+  "episodeLength": 15,
+  "aired": {
+    "from": "1995-04-20T00:00:00+00:00",
+    "to": "1996-03-28T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 1995,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 7.02,
+    "anilistScore": 6.5,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "studios": [
+    "Group TAC"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/3/65867l.jpg",
+    "banner": null,
+    "color": "#e4a15d"
+  },
+  "trailer": null,
+  "synopsis": "A sea otter and his friends, a raccoon and squirrel, live and play together in the forest.",
+  "sequence": [
+    {
+      "malId": 8416,
+      "title": {
+        "romaji": "Bonobono (Movie)",
+        "english": "Bonobono",
+        "native": "ぼのぼの"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8416.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1993,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 9812,
+      "title": {
+        "romaji": "Bit the Cupid",
+        "english": null,
+        "native": "ビット・ザ・キューピッド"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9812.jpg",
+      "format": "TV_SHORT",
+      "episodes": 48,
+      "seasonYear": 1995,
+      "relationType": "OTHER"
+    },
+    {
+      "malId": 8417,
+      "title": {
+        "romaji": "BONOBONO Soushuuhen",
+        "english": null,
+        "native": "ぼのぼの 総集編"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8417.jpg",
+      "format": "SPECIAL",
+      "episodes": 9,
+      "seasonYear": 1997,
+      "relationType": "SIDE_STORY"
+    },
+    {
+      "malId": 8403,
+      "title": {
+        "romaji": "BONOBONO: Kumomo no Ki no Koto",
+        "english": null,
+        "native": "ぼのぼの クモモの木のこと"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8403.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2002,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 32353,
+      "title": {
+        "romaji": "BONOBONO (2016)",
+        "english": "Bono Bono (2016)",
+        "native": "ぼのぼの (2016)"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21552-MKlX4WRvlfjp.png",
+      "format": "TV_SHORT",
+      "episodes": null,
+      "seasonYear": 2016,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "15m",
+      "airDate": "1995-04-20",
+      "title": {
+        "en": "Let`s play with Bono Bono"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6059348,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6059348.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "15m",
+      "airDate": "1995-04-27",
+      "title": {
+        "en": "Episode 2"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6440745,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6440745.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "15m",
+      "airDate": "1995-05-04",
+      "title": {
+        "en": "Episode 3"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6440746,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6440746.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "15m",
+      "airDate": "1995-05-11",
+      "title": {
+        "en": "Episode 4"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6452691,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6452691.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "15m",
+      "airDate": "1995-05-18",
+      "title": {
+        "en": "Episode 5"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6452692,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6452692.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "15m",
+      "airDate": "1995-05-25",
+      "title": {
+        "en": "Episode 6"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6452693,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6452693.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "15m",
+      "airDate": "1995-06-01",
+      "title": {
+        "en": "Episode 7"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6455823,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6455823.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "15m",
+      "airDate": "1995-06-08",
+      "title": {
+        "en": "Episode 8"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6462803,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6462803.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "15m",
+      "airDate": "1995-06-15",
+      "title": {
+        "en": "Episode 9"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6477084,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6477084.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "15m",
+      "airDate": "1995-06-22",
+      "title": {
+        "en": "Episode 10"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6477085,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6477085.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "15m",
+      "airDate": "1995-06-29",
+      "title": {
+        "en": "Episode 11"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6534462,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6534462.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "15m",
+      "airDate": "1995-07-06",
+      "title": {
+        "en": "Episode 12"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6534463,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6534463.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "15m",
+      "airDate": "1995-07-13",
+      "title": {
+        "en": "Episode 13"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6534464,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6534464.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "15m",
+      "airDate": "1995-07-20",
+      "title": {
+        "en": "Episode 14"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6534465,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6534465.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "15m",
+      "airDate": "1995-08-03",
+      "title": {
+        "en": "Episode 15"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6534466,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6534466.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": "15m",
+      "airDate": "1995-08-10",
+      "title": {
+        "en": "Episode 16"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6534467,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6534467.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": "15m",
+      "airDate": "1995-08-17",
+      "title": {
+        "en": "Episode 17"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6534468,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6534468.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "15m",
+      "airDate": "1995-08-24",
+      "title": {
+        "en": "Episode 18"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6534469,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6534469.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "15m",
+      "airDate": "1995-08-31",
+      "title": {
+        "en": "Episode 19"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6534470,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6534470.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": "15m",
+      "airDate": "1995-09-07",
+      "title": {
+        "en": "Episode 20"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6534471,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6534471.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": "15m",
+      "airDate": "1995-09-14",
+      "title": {
+        "en": "Episode 21"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594250,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6594250.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": "15m",
+      "airDate": "1995-09-21",
+      "title": {
+        "en": "Episode 22"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594251,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6594251.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": "15m",
+      "airDate": "1995-09-28",
+      "title": {
+        "en": "Episode 23"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594252,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6594252.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "15m",
+      "airDate": "1995-10-05",
+      "title": {
+        "en": "Episode 24"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594253,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6594253.jpg"
+    },
+    "25": {
+      "episode": "25",
+      "length": "15m",
+      "airDate": "1995-10-19",
+      "title": {
+        "en": "Episode 25"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594254,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6594254.jpg"
+    },
+    "26": {
+      "episode": "26",
+      "length": "15m",
+      "airDate": "1995-10-26",
+      "title": {
+        "en": "Episode 26"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594255,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6594255.jpg"
+    },
+    "27": {
+      "episode": "27",
+      "length": "15m",
+      "airDate": "1995-11-02",
+      "title": {
+        "en": "Episode 27"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594256,
+      "seasonNumber": 1,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6594256.jpg"
+    },
+    "28": {
+      "episode": "28",
+      "length": "15m",
+      "airDate": "1995-11-09",
+      "title": {
+        "en": "Episode 28"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594258,
+      "seasonNumber": 1,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6594258.jpg"
+    },
+    "29": {
+      "episode": "29",
+      "length": "15m",
+      "airDate": "1995-11-16",
+      "title": {
+        "en": "Episode 29"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594261,
+      "seasonNumber": 1,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6594261.jpg"
+    },
+    "30": {
+      "episode": "30",
+      "length": "15m",
+      "airDate": "1995-11-23",
+      "title": {
+        "en": "Episode 30"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594263,
+      "seasonNumber": 1,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6594263.jpg"
+    },
+    "31": {
+      "episode": "31",
+      "length": "15m",
+      "airDate": "1995-11-30",
+      "title": {
+        "en": "Episode 31"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594266,
+      "seasonNumber": 1,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6594266.jpg"
+    },
+    "32": {
+      "episode": "32",
+      "length": "15m",
+      "airDate": "1995-12-07",
+      "title": {
+        "en": "Episode 32"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594268,
+      "seasonNumber": 1,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6594268.jpg"
+    },
+    "33": {
+      "episode": "33",
+      "length": "15m",
+      "airDate": "1995-12-14",
+      "title": {
+        "en": "Episode 33"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594270,
+      "seasonNumber": 1,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6594270.jpg"
+    },
+    "34": {
+      "episode": "34",
+      "length": "15m",
+      "airDate": "1995-12-30",
+      "title": {
+        "en": "Episode 34"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594275,
+      "seasonNumber": 1,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6594275.jpg"
+    },
+    "35": {
+      "episode": "35",
+      "length": "15m",
+      "airDate": "1995-12-30",
+      "title": {
+        "en": "Episode 35"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594276,
+      "seasonNumber": 1,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/312723/6594276.jpg"
+    },
+    "36": {
+      "episode": "36",
+      "length": "15m",
+      "airDate": "1996-01-04",
+      "title": {
+        "en": "Episode 36"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594281,
+      "seasonNumber": 1,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": null
+    },
+    "37": {
+      "episode": "37",
+      "length": "15m",
+      "airDate": "1996-01-11",
+      "title": {
+        "en": "Episode 37"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594284,
+      "seasonNumber": 1,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": null
+    },
+    "38": {
+      "episode": "38",
+      "length": "15m",
+      "airDate": "1996-01-18",
+      "title": {
+        "en": "Episode 38"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594286,
+      "seasonNumber": 1,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": null
+    },
+    "39": {
+      "episode": "39",
+      "length": "15m",
+      "airDate": "1996-01-25",
+      "title": {
+        "en": "Episode 39"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594288,
+      "seasonNumber": 1,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": null
+    },
+    "40": {
+      "episode": "40",
+      "length": "15m",
+      "airDate": "1996-02-01",
+      "title": {
+        "en": "Episode 40"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594291,
+      "seasonNumber": 1,
+      "episodeNumber": 40,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": null
+    },
+    "41": {
+      "episode": "41",
+      "length": "15m",
+      "airDate": "1996-02-08",
+      "title": {
+        "en": "Episode 41"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594293,
+      "seasonNumber": 1,
+      "episodeNumber": 41,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": null
+    },
+    "42": {
+      "episode": "42",
+      "length": "15m",
+      "airDate": "1996-02-15",
+      "title": {
+        "en": "Episode 42"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594295,
+      "seasonNumber": 1,
+      "episodeNumber": 42,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": null
+    },
+    "43": {
+      "episode": "43",
+      "length": "15m",
+      "airDate": "1996-02-22",
+      "title": {
+        "en": "Episode 43"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594297,
+      "seasonNumber": 1,
+      "episodeNumber": 43,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": null
+    },
+    "44": {
+      "episode": "44",
+      "length": "15m",
+      "airDate": "1996-02-29",
+      "title": {
+        "en": "Episode 44"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594299,
+      "seasonNumber": 1,
+      "episodeNumber": 44,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": null
+    },
+    "45": {
+      "episode": "45",
+      "length": "15m",
+      "airDate": "1996-03-07",
+      "title": {
+        "en": "Episode 45"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594300,
+      "seasonNumber": 1,
+      "episodeNumber": 45,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": null
+    },
+    "46": {
+      "episode": "46",
+      "length": "15m",
+      "airDate": "1996-03-14",
+      "title": {
+        "en": "Episode 46"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594301,
+      "seasonNumber": 1,
+      "episodeNumber": 46,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": null
+    },
+    "47": {
+      "episode": "47",
+      "length": "15m",
+      "airDate": "1996-03-21",
+      "title": {
+        "en": "Episode 47"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594302,
+      "seasonNumber": 1,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": null
+    },
+    "48": {
+      "episode": "48",
+      "length": "15m",
+      "airDate": "1996-03-28",
+      "title": {
+        "en": "Episode 48"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 6594303,
+      "seasonNumber": 1,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": null
+    },
+    "ED1a": {
+      "episode": "ED1a",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Chikamichi Shitai (1-23, 48)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1b": {
+      "episode": "ED1b",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Chikamichi Shitai (1-23, 48)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1c": {
+      "episode": "ED1c",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Chikamichi Shitai (1-23, 48)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2a": {
+      "episode": "ED2a",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Love, Two Love (24-47)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2b": {
+      "episode": "ED2b",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Love, Two Love (24-47)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2c": {
+      "episode": "ED2c",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Love, Two Love (24-47)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2d": {
+      "episode": "ED2d",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Love, Two Love (24-47)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T22:35:39.447Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}
