@@ -26,22 +26,26 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 4,
   "episodeLength": 30,
   "aired": {
-    "from": "1995-06-25",
-    "to": "1996-02-25"
+    "from": "1995-06-25T00:00:00+00:00",
+    "to": "1996-02-25T00:00:00+00:00"
   },
   "season": "summer",
   "year": 1995,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
+    "malScore": 6.74,
     "anilistScore": 6.6,
     "kitsuRating": 6.92
   },
@@ -56,16 +60,22 @@
     "Super Deformed"
   ],
   "studios": [
-    "Animate Film"
+    "animate Film"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Visual",
+    "Ajia-do",
+    "Movic",
+    "Nippon Columbia",
+    "Arts Pro"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1061/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1775/92278l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1181-Aqqpe5eqL7zw.jpg",
     "color": "#e4c950"
   },
   "trailer": null,
-  "synopsis": "Fam and Ihrie are willing to do almost anything to make a buck. So when these debt-driven damsels discover the potential profits to be hand in recovering a particularly dangerous mystical object, it means mortal peril for an entire civilization.\nThere's no guarantee that they'll live long enough to squander the fabulous wealth they've been promised, and danger lurks around every turn as they cross dark seas in pursuit of legendary evil. Haunted by an unspeakable curse, plagued by doomsday prophecies, plotted against by untrustworthy traveling companions and looked in desperate race to gain the Ultimate Power, Fam and Ihrie are the Ruin Explorers!\n(Source: AniDB)",
+  "synopsis": "Magic is believed to be the foundation of all that exists in this world. Kingdoms rose and fell in battle over the spirits who governed it. Today, only remnants of those grand civilizations remain. In search of lingering sources of magic and buried fortunes, brave souls scour these ruins from a bygone era. \n\nFam and Ihrie, two such explorers, are on a quest for the fabled \"Ultimate Power\"—magic said to grant any wish. However, the prize is highly coveted by many other hunters willing to stake their lives, few of whom are pure of heart. Strength of mind and body alone will not be enough, but camaraderie among an unlikely party just might!\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
@@ -205,17 +215,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:12:29.675Z",
+    "lastFetched": "2026-06-26T21:28:04.447Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

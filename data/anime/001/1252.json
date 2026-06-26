@@ -27,23 +27,27 @@
       "Nadia från de mystiska haven"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 26,
   "aired": {
-    "from": "1991-06-29",
+    "from": "1991-06-29T00:00:00+00:00",
     "to": "1991-06-29"
   },
   "season": "summer",
   "year": 1991,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 5.27,
     "anilistScore": 5,
     "kitsuRating": 5.56
   },
@@ -59,16 +63,20 @@
   ],
   "studios": [
     "Gainax",
-    "Group TAC"
+    "Group TAC",
+    "Dongwoo A&E"
   ],
-  "producers": [],
+  "producers": [
+    "Sogo Vision",
+    "TOHO"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1127/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1354/94841l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1252-hBBb9g4HB97B.jpg",
     "color": "#e47843"
   },
   "trailer": null,
-  "synopsis": "Three years after the defeat of Gargoyle and Neo-Atlantis, a new threat has surfaced bent on bringing the world under his control. Geiger, using advanced robot technology, is attempting to begin a world war, and take control of the devistated world after the destruction has stopped. Once again, Nadia and Jean must fight to save the world, only this time from itself. \n(Source: ANN)",
+  "synopsis": "Three years after the defeat of Gargoyle and Neo-Atlantis, a new threat has surfaced bent on bringing the world under his control. Geiger, using advanced robot technology, is attempting to begin a world war, and take control of the devistated world after the destruction has stopped. Once again, Nadia and Jean must fight to save the world, only this time from itself. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1251,
@@ -177,17 +185,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:17:46.578Z",
+    "lastFetched": "2026-06-26T21:28:44.036Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

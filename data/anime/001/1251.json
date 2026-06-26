@@ -29,22 +29,26 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 39,
   "episodeLength": 25,
   "aired": {
-    "from": "1990-04-13",
-    "to": "1991-04-12"
+    "from": "1990-04-13T00:00:00+00:00",
+    "to": "1991-04-12T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1990,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "19:30",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 7.52,
     "anilistScore": 7.3,
     "kitsuRating": 7.46
   },
@@ -64,16 +68,23 @@
     "Plot Continuity"
   ],
   "studios": [
-    "Gainax"
+    "Gainax",
+    "Group TAC",
+    "Dongwoo A&E"
   ],
-  "producers": [],
+  "producers": [
+    "NHK",
+    "Sogo Vision",
+    "TOHO",
+    "NHK Enterprises"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1126/original.png",
+    "poster": "https://cdn.myanimelist.net/images/anime/1750/118570l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1251-2oEwIJlFWpe3.jpg",
     "color": "#e4785d"
   },
   "trailer": null,
-  "synopsis": "In 1889, the world is on the pinnacle of great discoveries in technology. In mankind's grasp for the future, a sinister foe known only as Gargoyle, obsessed with restoring the former Atlantean empire to the glory it once held, begins his plans to take over the world. Nadia, with the help of a young inventor, Jean Raltique, and the mysterious captain Nemo of the submarine Nautilus, must fight to save the world from Gargoyle and Neo-Atlantis. Based on the Novel '20,000 Leagues Under the Sea' by Jules Verne.\n\n(Source: Anime News Network)",
+  "synopsis": "In 1889, the world is on the pinnacle of great discoveries in technology. In mankind's grasp for the future, a sinister foe known only as Gargoyle, obsessed with restoring the former Atlantean empire to the glory it once held, begins his plans to take over the world. Nadia, with the help of a young inventor, Jean Roque Lartigue, and Captain Nemo of the submarine Nautilus, must fight to save the world from Gargoyle and Neo-Atlantis. Based on the Novel '20,000 Leagues Under the Sea' by Jules Verne.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": null,
@@ -1333,17 +1344,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:17:35.148Z",
+    "lastFetched": "2026-06-26T21:28:41.846Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

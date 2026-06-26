@@ -24,33 +24,37 @@
     "synonyms": []
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Light novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": 23,
   "aired": {
-    "from": "1997-04-04",
-    "to": "1997-09-26"
+    "from": "1997-04-04T00:00:00+00:00",
+    "to": "1997-09-26T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1997,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 7.81,
     "anilistScore": 7.5,
     "kitsuRating": 7.83
   },
   "genres": [
+    "Action",
     "Adventure",
     "Comedy",
     "Fantasy",
     "Magic",
     "Demons",
     "Fantasy World",
-    "Action",
     "Dragon",
     "Swordplay",
     "Stereotypes",
@@ -61,14 +65,16 @@
   "studios": [
     "E&G Films"
   ],
-  "producers": [],
+  "producers": [
+    "SoftX"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1053/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1262/139054l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1172-IGUBci9bALF8.jpg",
     "color": "#f1935d"
   },
   "trailer": null,
-  "synopsis": "Several months have passed (after the end of Slayers Next). The barrier put in place by the mazoku sublords has been broken, and as a result, Lina Inverse and her friends are allowed access to the outside world. There they become wrapped up in a prophecy stating that a dark lord from another dimension, Dark Star Dugradigdo, will enter their world and spread chaos. \n(Source: ANN)",
+  "synopsis": "For nearly a millennium, demons have imposed a magical barrier that has impeded the people trapped within it from reaching the outside world. Now that it is broken, several kingdoms seek to explore the lands that were once beyond their grasp. To this end, they establish a peace delegation to make contact with the inhabitants of the new world.\n\nMeanwhile, the young sorceress Lina Inverse receives a message from a mysterious woman named Filia ul Copt. When they meet, Filia expresses interest in hiring Lina and her friends, having heard of their great deeds, for a certain task that will take them to the outside realm. Despite that, Filia feels the need to put their strength to the test and pits them against a dragon in the middle of the city! After proving themselves, the sorceress and her fellow adventurers set off for the unexplored lands, where many adventures and a worrying prophecy await them.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 535,
@@ -533,17 +539,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:11:39.718Z",
+    "lastFetched": "2026-06-26T21:27:58.590Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

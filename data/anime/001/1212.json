@@ -27,29 +27,33 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": 25,
   "aired": {
-    "from": "2006-04-12",
-    "to": "2006-12-06"
+    "from": "2006-09-23T00:00:00+00:00",
+    "to": "2007-03-25T00:00:00+00:00"
   },
-  "season": "spring",
+  "season": "fall",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "08:06",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG - Children",
   "score": {
-    "malScore": null,
+    "malScore": 7.51,
     "anilistScore": 7.2,
     "kitsuRating": 7.36
   },
   "genres": [
     "Adventure",
-    "Mecha",
     "Sci-Fi",
+    "Mecha",
     "Racing",
     "Science Fiction",
     "Other Planet",
@@ -59,11 +63,13 @@
     "Motorsport"
   ],
   "studios": [
-    "Hal Film Maker"
+    "HAL Film Maker"
   ],
-  "producers": [],
+  "producers": [
+    "Sav! The World Productions"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1090/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/12/3702l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1212-TpKyX1cca1TZ.jpg",
     "color": "#f1ae5d"
   },
@@ -567,17 +573,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:14:31.483Z",
+    "lastFetched": "2026-06-26T21:28:17.659Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

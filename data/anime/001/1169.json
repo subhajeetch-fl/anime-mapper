@@ -24,22 +24,26 @@
     "synonyms": []
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
   "episodeLength": 45,
   "aired": {
-    "from": "1992-11-25",
-    "to": "1993-03-25"
+    "from": "1992-11-25T00:00:00+00:00",
+    "to": "1993-03-25T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1992,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
+    "malScore": 6.62,
     "anilistScore": 6.2,
     "kitsuRating": 6.76
   },
@@ -58,14 +62,17 @@
   "studios": [
     "AIC"
   ],
-  "producers": [],
+  "producers": [
+    "Pioneer LDC",
+    "Arts Pro"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1050/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1882/96360l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/1050/original.png",
     "color": "#f17835"
   },
   "trailer": null,
-  "synopsis": "A story of future Earth - A warning for mankind: In the future, our planet will be transformed into a strange new world where human life struggles on an Earth without rain or oceans - only vast, parched deserts.\nTwo youths fight for survival on our hostile planet and find hope. The sea, the sky and the land had been completely polluted by mankind when mysterious objects fall from the heavens. These titanic vessels smash into the planet and suck up the air, water, and most living creatures into their womb, stealing away the very essence of Earth`s nature.\nThe few remaining inhabitants struggle for survival against a hostile environment and an oppressive ruling race known as the Rodo. One young, hot-blooded human named Ran, fights against the Rodo and a world in which rain is only a legend. He strives to join an Anti-Rodo group known as the Hazzard, not only to defeat the Rodo, but also to hunt down the man who killed his mother.\n(Source: AniDB)",
+  "synopsis": "A story of future Earth - A warning for mankind: In the future, our planet will be transformed into a strange new world where human life struggles on an Earth without rain or oceans - only vast, parched deserts.\n\nTwo youths fight for survival on our hostile planet and find hope. The sea, the sky and the land had been completely polluted by mankind when mysterious objects fall from the heavens. These titanic vessels smash into the planet and suck up the air, water, and most living creatures into their womb, stealing away the very essence of Earth`s nature.\n\nThe few remaining inhabitants struggle for survival against a hostile environment and an oppressive ruling race known as the Rodo. One young, hot-blooded human named Ran, fights against the Rodo and a world in which rain is only a legend. He strives to join an Anti-Rodo group known as the Hazzard, not only to defeat the Rodo, but also to hunt down the man who killed his mother.\n\n(Source: AniDB)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -145,17 +152,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:11:16.259Z",
+    "lastFetched": "2026-06-26T21:27:54.010Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

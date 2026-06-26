@@ -19,52 +19,59 @@
   },
   "title": {
     "romaji": "Odin: Koushi Hansen Starlight",
-    "english": "Odin: Photon Space Sailer Starlight",
+    "english": "Odin: Starlight Mutiny",
     "native": "オーディーン・光子帆船スターライト",
     "synonyms": [
+      "Odin: Photon Space Sailer Starlight",
       "Odin: Starlight Mutiny"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 139,
   "aired": {
-    "from": "1985-08-10",
+    "from": "1985-08-10T00:00:00+00:00",
     "to": "1985-08-10"
   },
   "season": "summer",
   "year": 1985,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 5.36,
     "anilistScore": 4.8,
     "kitsuRating": 5.58
   },
   "genres": [
+    "Action",
     "Adventure",
     "Drama",
     "Sci-Fi",
     "Space",
-    "Action",
     "Science Fiction",
     "Shipboard"
   ],
   "studios": [
     "Toei Animation"
   ],
-  "producers": [],
+  "producers": [
+    "Gakken"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1161/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1562/142317l.jpg",
     "banner": null,
     "color": "#f1861a"
   },
   "trailer": null,
-  "synopsis": "In the year 2099, mankind has colonized parts of the Solar System thanks to the evolution of space travel. To venture further beyond what man has accomplished, the space vessel Starlight is launched. After rescuing a mysterious girl from a wreckage near the asteroid fields, the crew of the Starlight plot a perilous journey towards the Canopus system in search of the planet known only as \"Odin\" - the possible key to all forms of life. \n(Source: ANN)",
+  "synopsis": "In the year 2099, mankind has colonized parts of the Solar System thanks to the evolution of space travel. To venture further beyond what man has accomplished, the space vessel Starlight is launched. After rescuing a mysterious girl from a wreckage near the asteroid fields, the crew of the Starlight plot a perilous journey towards the Canopus system in search of the planet known only as \"Odin\" - the possible key to all forms of life. \n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -174,17 +181,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:20:29.195Z",
+    "lastFetched": "2026-06-26T21:29:08.258Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -26,22 +26,26 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Visual novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
   "episodeLength": 30,
   "aired": {
-    "from": "1996-10-25",
-    "to": "1997-03-07"
+    "from": "1996-10-25T00:00:00+00:00",
+    "to": "1997-03-07T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1996,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 6.18,
     "anilistScore": 6,
     "kitsuRating": 6.66
   },
@@ -61,9 +65,12 @@
   "studios": [
     "Ashi Productions"
   ],
-  "producers": [],
+  "producers": [
+    "TBS",
+    "Asmik Ace"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1158/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1936/93963l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1284-cCT3wKSgqaQu.jpg",
     "color": "#e4bb35"
   },
@@ -148,17 +155,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:20:05.671Z",
+    "lastFetched": "2026-06-26T21:29:03.868Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

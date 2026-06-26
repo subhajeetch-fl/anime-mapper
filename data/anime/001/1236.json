@@ -28,29 +28,33 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 73,
   "episodeLength": 25,
   "aired": {
-    "from": "1978-04-02",
-    "to": "1979-08-26"
+    "from": "1978-04-02T00:00:00+00:00",
+    "to": "1979-08-26T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1978,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "G",
+  "rating": "G - All Ages",
   "score": {
-    "malScore": null,
+    "malScore": 7.07,
     "anilistScore": 6.1,
     "kitsuRating": 7.12
   },
   "genres": [
     "Adventure",
-    "Mecha",
     "Sci-Fi",
+    "Mecha",
     "Space",
     "Romance",
     "Space Travel",
@@ -59,15 +63,17 @@
     "Drama",
     "Future"
   ],
-  "studios": [],
+  "studios": [
+    "Toei Animation"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1112/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/8/45698l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1236-etxlDqFPaKSn.jpg",
     "color": "#f1d635"
   },
   "trailer": null,
-  "synopsis": "The Great Planet is dying, since its Queen is old and powerless... and the universe will perish along with it. Princess Aurora of the Moon volunteers to become the new Queen, so she must set out in a dangerous travel... along with her friends and escorts: the powerful Cyborgs Jan Kogo, Sa Jogo and Don Hakka. \n(Source: ANN)",
+  "synopsis": "The Great Planet is dying, since its Queen is old and powerless... and the universe will perish along with it. Princess Aurora of the Moon volunteers to become the new Queen, so she must set out in a dangerous travel... along with her friends and escorts: the powerful Cyborgs Jan Kogo, Sa Jogo and Don Hakka. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 17165,
@@ -85,17 +91,15 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-26T13:16:32.692Z",
+    "lastFetched": "2026-06-26T21:28:33.101Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -24,34 +24,39 @@
     "synonyms": [
       "Bishoujo Senshi Sailor Moon SuperS: The Movie",
       "Bishoujo Senshi Sailor Moon Super S - Sailor 9 Senshi Shuuketsu! Black-Dream-Hole no Kiseki",
+      "Sailor Moon Super S: Journey to the Land of Dreams",
       "Sailor Moon - Movie 3 : Reise ins Land der Träume",
       "Sailor Moon SS The Movie - Il Mistero Dei Sogni",
       "Sailor Moon Super S: Czarodziejka z Księżyca – Film kinowy"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 60,
   "aired": {
-    "from": "1995-12-23",
+    "from": "1995-12-23T00:00:00+00:00",
     "to": "1995-12-23"
   },
   "season": "fall",
   "year": 1995,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 7.54,
     "anilistScore": 7.2,
     "kitsuRating": 7.49
   },
   "genres": [
-    "Action",
     "Drama",
+    "Action",
     "Fantasy",
     "Mahou Shoujo",
     "Romance",
@@ -64,14 +69,17 @@
   "studios": [
     "Toei Animation"
   ],
-  "producers": [],
+  "producers": [
+    "TV Asahi",
+    "Kodansha"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1116/original.jpeg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1952/117493l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1240-N72UZD3iVk9R.jpg",
     "color": "#e4356b"
   },
   "trailer": null,
-  "synopsis": "Everywhere around the world, the children sleep. Unaware of danger lurking in the shadows. But tonight, a strange darkness floats in the wind. And the children, one by one, begin to disappear. It seems to be a supernatural force that feeds on their dreams. The evil queen, Badiyanu, and her loyal fairies assist in using the \"Black Dream Hole\" to swallow the earth. It is up to Sailor Moon and the Sailor Soldiers to prevent the approaching Darkness. \n(Source: ANN)",
+  "synopsis": "Everywhere around the world, the children sleep. Unaware of danger lurking in the shadows. But tonight, a strange darkness floats in the wind. And the children, one by one, begin to disappear. It seems to be a supernatural force that feeds on their dreams. The evil queen, Badiyanu, and her loyal fairies assist in using the \"Black Dream Hole\" to swallow the earth. It is up to Sailor Moon and the Sailor Soldiers to prevent the approaching Darkness. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 997,
@@ -343,17 +351,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:16:48.964Z",
+    "lastFetched": "2026-06-26T21:28:35.299Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

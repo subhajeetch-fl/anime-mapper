@@ -19,29 +19,33 @@
   },
   "title": {
     "romaji": "Yoroiden Samurai Troopers MESSAGE",
-    "english": "Ronin Warriors: Message",
+    "english": "Ronin Warriors Message",
     "native": "鎧伝サムライトルーパーMESSAGE",
     "synonyms": [
       "Samurai Troopers OVA 3"
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 5,
   "episodeLength": 30,
   "aired": {
-    "from": "1991-03-21",
-    "to": "1991-08-23"
+    "from": "1991-03-21T00:00:00+00:00",
+    "to": "1991-08-23T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1991,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 6.04,
     "anilistScore": 5.5,
     "kitsuRating": 6.33
   },
@@ -61,12 +65,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1142/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1754/94191l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1267-MQ7LvRk7KDFq.jpg",
     "color": "#e47828"
   },
   "trailer": null,
-  "synopsis": "A 300-year-old book is discovered which chronicles the adventures of the legendary Samurai Troopers… centuries before they happen! But what does this mean? Are the Troopers merely puppets in some cosmic play, acting out parts? \nWho is this mysterious Suzunagi, a mysterious girl who entices each of the warriors with their hearts’ desire - salvation, new armors, freedom from a life of fighting. Why is she so interested in the troopers and their armors?\n(Source: AniDB)",
+  "synopsis": "A 300-year-old book is discovered which chronicles the adventures of the legendary Samurai Troopers… centuries before they happen! But what does this mean? Are the Troopers merely puppets in some cosmic play, acting out parts? \n\nWho is this mysterious Suzunagi, a mysterious girl who entices each of the warriors with their hearts’ desire - salvation, new armors, freedom from a life of fighting. Why is she so interested in the troopers and their armors?\n\n(Source: AniDB)",
   "sequence": [
     {
       "malId": 1266,
@@ -175,17 +179,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:18:42.716Z",
+    "lastFetched": "2026-06-26T21:28:50.664Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

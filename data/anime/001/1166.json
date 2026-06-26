@@ -19,37 +19,43 @@
   },
   "title": {
     "romaji": "Sakura Taisen: Gouka Kenran",
-    "english": "Sakura Wars: The Radiant Gorgeous Blooming Cherry Blossoms",
+    "english": "Sakura Wars 2: Return of the Spirit Warriors",
     "native": "サクラ大戦 轟華絢爛",
     "synonyms": [
+      "Sakura Wars: The Radiant Gorgeous Blooming Cherry Blossoms",
       "Sakura Wars OVA 2"
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Game",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 6,
   "episodeLength": 30,
   "aired": {
-    "from": "1999-12-18",
-    "to": "2000-12-21"
+    "from": "1999-12-18T00:00:00+00:00",
+    "to": "2000-12-21T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1999,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 6.89,
     "anilistScore": 6.5,
     "kitsuRating": 7.46
   },
   "genres": [
     "Adventure",
+    "Sci-Fi",
+    "Slice of Life",
     "Mecha",
     "Romance",
-    "Sci-Fi",
     "Piloted Robot",
     "Performance",
     "Alternative Past",
@@ -68,14 +74,22 @@
   "studios": [
     "Radix"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Visual",
+    "animate Film",
+    "d-rights",
+    "Sega",
+    "animate",
+    "Imagine",
+    "Omnibus Promotion"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1047/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1468/148762l.jpg",
     "banner": null,
     "color": "#f1ae50"
   },
   "trailer": null,
-  "synopsis": "The end of the demon wars has ended and now the Flower Division has been able to rest up after their fighting. The second Sakura Wars developes studies on every Flower Division Combatee in every episode while they go on their miscellanious adventures around Japan.\n(Source: ANN)",
+  "synopsis": "The end of the demon wars has ended and now the Flower Division has been able to rest up after their fighting. The second Sakura Wars developes studies on every Flower Division Combatee in every episode while they go on their miscellanious adventures around Japan.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1165,
@@ -223,17 +237,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:10:41.441Z",
+    "lastFetched": "2026-06-26T21:27:52.527Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

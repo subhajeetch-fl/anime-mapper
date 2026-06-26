@@ -26,22 +26,26 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Light novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 13,
   "episodeLength": 24,
   "aired": {
-    "from": "2005-10-02",
-    "to": "2005-12-25"
+    "from": "2005-10-03T00:00:00+00:00",
+    "to": "2005-12-26T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2005,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG - Children",
   "score": {
-    "malScore": null,
+    "malScore": 6.3,
     "anilistScore": 5.7,
     "kitsuRating": 6.73
   },
@@ -59,15 +63,20 @@
     "Present",
     "Super Power"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Studio Hibari"
+  ],
+  "producers": [
+    "Trinet Entertainment",
+    "Three Fat Samurai"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1073/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/12/5509l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1193-j38q5g1Krx7T.jpg",
     "color": "#e45d50"
   },
   "trailer": null,
-  "synopsis": "Amano Sakogami is a girl who has an unnatural amount of bad luck. One day, she stumbles into the clubroom of the Better Fortune Research Organization, which consists of a boy and seven other girls who secretly use the power of the luck deities to fight against the Magatsugami, monsters who can affect a person's luck &amp; well-being. Amano soon becomes the club's manager, and joins the club in their fight against the Magatsugami and their controller, Kukitomoe.\n(Source: ANN) ",
+  "synopsis": "Amano Sakogami is a girl who has an unnatural amount of bad luck. One day, she stumbles into the clubroom of the Better Fortune Research Organization, which consists of a boy and seven other girls who secretly use the power of the luck deities to fight against the Magatsugami, monsters who can affect a person's luck &amp; well-being. Amano soon becomes the club's manager, and joins the club in their fight against the Magatsugami and their controller, Kukitomoe.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 35297,
@@ -281,17 +290,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:13:38.878Z",
+    "lastFetched": "2026-06-26T21:28:13.243Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

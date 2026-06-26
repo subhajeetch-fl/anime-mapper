@@ -19,39 +19,45 @@
   },
   "title": {
     "romaji": "Soukihei MD Geist 2: DEATH FORCE",
-    "english": "M.D. Geist 2 - Death Force",
+    "english": "M.D. Geist: Death Force",
     "native": "装鬼兵MDガイスト2 DEATH FORCE",
     "synonyms": [
       "MD Geist 2",
       "Most Dangerous Geist 2",
       "Most Dangerous Geist 2: Death Force",
-      "Most Dangerous Geist II"
+      "Most Dangerous Geist II",
+      "Most Dangerous Geist II: Death Force",
+      "Soukihei MD Geist 2"
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 48,
   "aired": {
-    "from": "1996-03-01",
+    "from": "1996-03-01T00:00:00+00:00",
     "to": "1996-03-01"
   },
   "season": "spring",
   "year": 1996,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
+    "malScore": 5.08,
     "anilistScore": 4.8,
     "kitsuRating": 4.89
   },
   "genres": [
+    "Sci-Fi",
     "Action",
     "Mecha",
-    "Sci-Fi",
     "Military",
     "Power Suit",
     "Post Apocalypse",
@@ -61,16 +67,19 @@
     "Violence"
   ],
   "studios": [
+    "Zero-G Room",
     "Zero G Room"
   ],
-  "producers": [],
+  "producers": [
+    "Nippon Columbia"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1160/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1351/96371l.jpg",
     "banner": null,
     "color": "#f17835"
   },
   "trailer": null,
-  "synopsis": "After unleashing the Death Force machines all over the planet Jerra, Geist has kept himself busy by dismantling them one by one. But now he faces a formidable opponent in the form of Krauser, another M.D.S. (Most Dangerous Soldier) who has aligned himself as the only savior of mankind.\n(Source: ANN)",
+  "synopsis": "After unleashing the Death Force machines all over the planet Jerra, Geist has kept himself busy by dismantling them one by one. But now he faces a formidable opponent in the form of Krauser, another M.D.S. (Most Dangerous Soldier) who has aligned himself as the only savior of mankind.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1285,
@@ -104,17 +113,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:20:17.758Z",
+    "lastFetched": "2026-06-26T21:29:06.044Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

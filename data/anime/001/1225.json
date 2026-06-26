@@ -27,31 +27,36 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
   "episodeLength": 45,
   "aired": {
-    "from": "1995-07-25",
-    "to": "1996-06-25"
+    "from": "1995-07-25T00:00:00+00:00",
+    "to": "1996-06-25T00:00:00+00:00"
   },
   "season": "summer",
   "year": 1995,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
+    "malScore": 6.91,
     "anilistScore": 6.5,
     "kitsuRating": 7
   },
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy",
     "Horror",
     "Romance",
+    "Supernatural",
+    "Fantasy",
     "Demons",
     "Contemporary Fantasy",
     "Japan",
@@ -65,14 +70,18 @@
   "studios": [
     "Studio Junio"
   ],
-  "producers": [],
+  "producers": [
+    "Toei Animation",
+    "Bandai Visual",
+    "Kodansha"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1102/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1288/120666l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/1102/original.jpg",
     "color": "#e4e45d"
   },
   "trailer": null,
-  "synopsis": "Yakumo has trained and searched for 4 years, following Pai's mysterious dissapearance. However, when he finally finds her, not all is well as her memory seems to be gone. They attempt to return her memory by going to the Holy Land, birthplace of the immortal race of Sanjiyans. ",
+  "synopsis": "Yakumo has trained and searched for 4 years, following Pai's mysterious disappearance. However, when he finally finds her, not all is well as her memory seems to be gone. They attempt to return her memory by going to the Holy Land, birthplace of the immortal race of Sanjiyans.",
   "sequence": [
     {
       "malId": 300,
@@ -136,17 +145,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:15:29.854Z",
+    "lastFetched": "2026-06-26T21:28:24.261Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

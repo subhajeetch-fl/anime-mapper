@@ -26,23 +26,27 @@
       "Os Cavaleiros do Zodíaco: A Grande Batalha dos Deuses"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 45,
   "aired": {
-    "from": "1988-03-12",
+    "from": "1988-03-12T00:00:00+00:00",
     "to": "1988-03-12"
   },
   "season": "spring",
   "year": 1988,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 6.88,
     "anilistScore": 6.5,
     "kitsuRating": 6.83
   },
@@ -63,12 +67,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1133/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1680/97668l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1258-8xeNAF4u9g4p.jpg",
     "color": "#d6ae1a"
   },
   "trailer": null,
-  "synopsis": "In northern Europe, the reincarnation of Odin, Dolbar, rules supreme. One day, Hyoga rescues a man in Siberia so warns him about trouble in the Asgard. Athena goes out to investigate and sends Hyoga in advance but when she and the others arrive at the Asgard, Hyoga is nowhere to be found. When Dolbar captures Athena to take control of the sanctuary, the bronze saints try to help her but are attacked by the God Warriors.\n(Source: ANN)",
+  "synopsis": "In northern Europe, the reincarnation of Odin, Dolbar, rules supreme. One day, Hyoga rescues a man in Siberia so warns him about trouble in the Asgard. Athena goes out to investigate and sends Hyoga in advance but when she and the others arrive at the Asgard, Hyoga is nowhere to be found. When Dolbar captures Athena to take control of the sanctuary, the bronze saints try to help her but are attacked by the God Warriors.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1254,
@@ -117,17 +121,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:18:07.434Z",
+    "lastFetched": "2026-06-26T21:28:46.241Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

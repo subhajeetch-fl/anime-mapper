@@ -28,30 +28,34 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Unknown",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": 25,
   "aired": {
-    "from": "1998-10-06",
-    "to": "1999-03-30"
+    "from": "1998-10-06T00:00:00+00:00",
+    "to": "1999-03-30T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1998,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 7.28,
     "anilistScore": 6.9,
     "kitsuRating": 7.21
   },
   "genres": [
-    "Action",
     "Adventure",
     "Comedy",
     "Sci-Fi",
+    "Action",
     "Mecha",
     "Harem",
     "Post Apocalypse",
@@ -65,16 +69,19 @@
     "Space"
   ],
   "studios": [
-    "Hal Film Maker"
+    "HAL Film Maker"
   ],
-  "producers": [],
+  "producers": [
+    "TV Tokyo",
+    "Sotsu"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1107/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1773/94167l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1231-uR5Gh8Id1jwT.jpg",
     "color": "#e47850"
   },
   "trailer": null,
-  "synopsis": "Taking place mere months after the Saber Marionette J OVA series, this newest installment in the Saber Marionette line follows the continuing adventures of Otaru and his clan of selfless, obsessive marionette girls. This time, the evil Faust is back, and again toying with Marionette technology that was never meant to be explored. The Saber Dolls are back, and torn between their newfound love for Otaru and their undying loyalty to Faust; Will Otaru, Lime, Cherry and Bloodberry be able to stop Faust again, or are they all headed for the scrap heap?\n(Source: AniDB)",
+  "synopsis": "Taking place mere months after the Saber Marionette J OVA series, this newest installment in the Saber Marionette line follows the continuing adventures of Otaru and his clan of selfless, obsessive marionette girls. This time, the evil Faust is back, and again toying with Marionette technology that was never meant to be explored. The Saber Dolls are back, and torn between their newfound love for Otaru and their undying loyalty to Faust; Will Otaru, Lime, Cherry and Bloodberry be able to stop Faust again, or are they all headed for the scrap heap?\n\n(Source: AniDB)",
   "sequence": [
     {
       "malId": 1232,
@@ -496,17 +503,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:15:55.945Z",
+    "lastFetched": "2026-06-26T21:28:28.662Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

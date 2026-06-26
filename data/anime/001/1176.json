@@ -27,22 +27,26 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 2,
   "episodeLength": 36,
   "aired": {
-    "from": "1993-03-21",
-    "to": "1993-05-21"
+    "from": "1993-03-21T00:00:00+00:00",
+    "to": "1993-05-21T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1993,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
+    "malScore": 5.85,
     "anilistScore": 5.5,
     "kitsuRating": 6.41
   },
@@ -63,12 +67,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1056/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/2/6215l.jpg",
     "banner": null,
     "color": "#e49350"
   },
   "trailer": null,
-  "synopsis": "Mysterious warriors appear to blast Miki into another dimension! She flees her captors only to find herself trapped in a world of monsters and madmen who plot the downfall of Earth. \nThe only power that can possible save her (and the world) is that of the mysterious Mask of Zeguy. Miki must embark on a life-or-death quest for this talisman, with the villains who kidnapped in hot pursuit! \n(Source: AniDB)",
+  "synopsis": "Mysterious warriors appear to blast Miki into another dimension! She flees her captors only to find herself trapped in a world of monsters and madmen who plot the downfall of Earth. \nThe only power that can possible save her (and the world) is that of the mysterious Mask of Zeguy. Miki must embark on a life-or-death quest for this talisman, with the villains who kidnapped in hot pursuit! \n\n(Source: AniDB)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -103,17 +107,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:12:03.713Z",
+    "lastFetched": "2026-06-26T21:28:00.077Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

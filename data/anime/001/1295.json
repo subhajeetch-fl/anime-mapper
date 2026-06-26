@@ -22,38 +22,42 @@
     "english": "Project A-ko: Uncivil Wars",
     "native": "A-Ko The VS",
     "synonyms": [
+      "Project A-Ko: Vs",
       "Project A-ko: Grey Side/Blue Side",
-      "A-Ko The Versus",
-      "Project A-Ko: Vs"
+      "A-Ko The Versus"
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 2,
   "episodeLength": 51,
   "aired": {
-    "from": "1990-07-21",
-    "to": "1990-08-21"
+    "from": "1990-07-21T00:00:00+00:00",
+    "to": "1990-08-21T00:00:00+00:00"
   },
   "season": "summer",
   "year": 1990,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
+    "malScore": 6.27,
     "anilistScore": 6,
     "kitsuRating": 6.43
   },
   "genres": [
+    "Action",
     "Adventure",
     "Comedy",
+    "Romance",
     "Sci-Fi",
     "Super Power",
-    "Romance",
-    "Action",
     "Desert",
     "Space Travel",
     "Science Fiction",
@@ -67,11 +71,12 @@
     "Space"
   ],
   "studios": [
-    "Studio Fantasia"
+    "Studio Fantasia",
+    "Studio Signal"
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1167/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/2/41427l.jpg",
     "banner": null,
     "color": "#f1935d"
   },
@@ -125,17 +130,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:20:50.281Z",
+    "lastFetched": "2026-06-26T21:29:10.446Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

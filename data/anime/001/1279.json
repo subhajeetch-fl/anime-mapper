@@ -22,29 +22,34 @@
     "english": "The Mysterious Cities of Gold",
     "native": "太陽の子エステバン",
     "synonyms": [
-      "Les Mystérieuses Cités d’Or",
+      "Esteban",
       "Child of the Sun",
+      "Les Mystérieuses Cités d’Or",
       "Tajemnicze Złote Miasta",
       "De Mystiska Guldstäderna"
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 39,
   "episodeLength": 27,
   "aired": {
-    "from": "1982-06-29",
-    "to": "1983-06-07"
+    "from": "1982-05-01T00:00:00+00:00",
+    "to": "1983-02-05T00:00:00+00:00"
   },
-  "season": "summer",
+  "season": "spring",
   "year": 1982,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "19:30",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 7.76,
     "anilistScore": 7.5,
     "kitsuRating": 7.69
   },
@@ -58,14 +63,16 @@
   "studios": [
     "Studio Pierrot"
   ],
-  "producers": [],
+  "producers": [
+    "DiC Entertainment"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1154/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1936/134369l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1279-hgTJF1oO4MP3.jpg",
     "color": "#f1bb00"
   },
   "trailer": null,
-  "synopsis": "1532. Esteban, age 12 is a foundling from Barcelona, with a mysterious power of ordering the Sun to appear, for which he is called \"Child of the Sun.\" Upon the death of his adoptive father, Esteban learns he was rescued as a baby from a sinking ship in the ocean. The mysterious medallion that Esteban wears since ever has a trace somewhere in the New World, probably coming from the Mysterious Cities of Gold. Esteban leaves Spain to find his parents and find out who he is. On the way he meets Zia, an Inca girl who was kidnapped from her people years back and has exactly the same medallion as him. Later on, they are joined by Tao, a young Galapagos robinson, the last descendant of the Empire of Heva, an Empire said to have built the Cities of Gold. Following Coyolite, the shining star represented on their medallions, the three children travel through the unexplored New World, searching for the Cities of Gold, believing that this way is leading them to their lost parents.\n(Source: ANN)",
+  "synopsis": "1532. Esteban, age 12 is a foundling from Barcelona, with a mysterious power of ordering the Sun to appear, for which he is called \"Child of the Sun.\" Upon the death of his adoptive father, Esteban learns he was rescued as a baby from a sinking ship in the ocean. The mysterious medallion that Esteban wears since ever has a trace somewhere in the New World, probably coming from the Mysterious Cities of Gold. Esteban leaves Spain to find his parents and find out who he is. On the way he meets Zia, an Inca girl who was kidnapped from her people years back and has exactly the same medallion as him. Later on, they are joined by Tao, a young Galapagos robinson, the last descendant of the Empire of Heva, an Empire said to have built the Cities of Gold. Following Coyolite, the shining star represented on their medallions, the three children travel through the unexplored New World, searching for the Cities of Gold, believing that this way is leading them to their lost parents.\n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -1600,17 +1607,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:19:40.309Z",
+    "lastFetched": "2026-06-26T21:28:59.500Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

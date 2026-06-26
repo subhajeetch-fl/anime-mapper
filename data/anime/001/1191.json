@@ -26,30 +26,34 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 6,
   "episodeLength": 27,
   "aired": {
-    "from": "1997-11-25",
-    "to": "1998-06-25"
+    "from": "1997-11-25T00:00:00+00:00",
+    "to": "1998-06-25T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1997,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 7.22,
     "anilistScore": 6.8,
     "kitsuRating": 6.99
   },
   "genres": [
-    "Action",
     "Comedy",
     "Romance",
     "Sci-Fi",
+    "Action",
     "Mecha",
     "Harem",
     "Ecchi",
@@ -64,17 +68,19 @@
     "Space"
   ],
   "studios": [
-    "Hal Film Maker",
+    "HAL Film Maker",
     "Satelight"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Visual"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1071/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/9/61135l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1191-7ZSRI2YshcQe.jpg",
     "color": "#e4d650"
   },
   "trailer": null,
-  "synopsis": "Lime, Cherry, and Bloodberry, female-like androids called marionettes, have returned to Otaru`s side. The somewhat reformed marionettes of Faust (Tiger, Luchs, and Panther) are sent to stay with Otaru and friends to learn more about being human. Enter a seventh marionette named Marine, who has a mysterious power -- and they all possess the special maiden circuit that allows a marionette to feel emotions!\n(Source: AniDB)",
+  "synopsis": "Lime, Cherry, and Bloodberry, female-like androids called marionettes, have returned to Otaru`s side. The somewhat reformed marionettes of Faust (Tiger, Luchs, and Panther) are sent to stay with Otaru and friends to learn more about being human. Enter a seventh marionette named Marine, who has a mysterious power -- and they all possess the special maiden circuit that allows a marionette to feel emotions!\n\n(Source: AniDB)",
   "sequence": [
     {
       "malId": 573,
@@ -376,17 +382,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:13:15.958Z",
+    "lastFetched": "2026-06-26T21:28:08.851Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -26,27 +26,32 @@
       "El océano glaciar"
     ]
   },
-  "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 22,
   "aired": {
-    "from": "1998-11-14",
+    "from": "1998-11-14T00:00:00+00:00",
     "to": "1998-11-14"
   },
   "season": "fall",
   "year": 1998,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "G",
+  "rating": "G - All Ages",
   "score": {
-    "malScore": null,
+    "malScore": 6.59,
     "anilistScore": 6.3,
     "kitsuRating": 6.67
   },
   "genres": [
+    "Award Winning",
     "Drama",
     "Fantasy",
     "Kids",
@@ -56,16 +61,21 @@
     "Present"
   ],
   "studios": [
+    "Project Team Sarah",
     "Ai ga areba Daijobu"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Visual",
+    "Ai ga areba Daijobu",
+    "Tamura Shigeru Studio"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1082/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1022/112889l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1204-tM8pKnr0ZVYG.jpg",
     "color": "#86bb28"
   },
   "trailer": null,
-  "synopsis": "Time has come to a standstill. A whale appears from a glassy ocean and spends half a day soaring gracefully across the skies. What makes this works extraordinary is the artist's decision to use the transparency and visual bulk of 3D computer graphics only for the un-moving ocean and glaciers. The people, whale, and ships are all hand-drawn, and with this contrast, he invites the viewer into a different world. This is a poem written in animation, the creation of a true fantasy. This project was a considerable under taking, and the results are marvelous.\n(Source: ANN)",
+  "synopsis": "Time has come to a standstill. A whale appears from a glassy ocean and spends half a day soaring gracefully across the skies. What makes this works extraordinary is the artist's decision to use the transparency and visual bulk of 3D computer graphics only for the un-moving ocean and glaciers. The people, whale, and ships are all hand-drawn, and with this contrast, he invites the viewer into a different world. This is a poem written in animation, the creation of a true fantasy. This project was a considerable under taking, and the results are marvelous.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 6094,
@@ -99,17 +109,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:14:06.320Z",
+    "lastFetched": "2026-06-26T21:28:15.433Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

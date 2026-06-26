@@ -26,22 +26,26 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Game",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
   "episodeLength": 30,
   "aired": {
-    "from": "1996-11-29",
-    "to": "1997-06-27"
+    "from": "1996-11-29T00:00:00+00:00",
+    "to": "1997-06-27T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1996,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
+    "malScore": 5.64,
     "anilistScore": 5.4,
     "kitsuRating": 5.92
   },
@@ -55,14 +59,16 @@
   "studios": [
     "Chaos Project"
   ],
-  "producers": [],
+  "producers": [
+    "KSS"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1063/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/6/20912l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1183-sQTOQBd39tK7.jpg",
     "color": "#ae5d28"
   },
   "trailer": null,
-  "synopsis": "The special of the day is Variable Geo-a brutal battle between waitresses who serve up generous portions of energy blasts and vicious side orders of murderous martial artistry.\nFor buffed beauties who make below-minimum wages, VG is the perfect way to make some fast cash. The victorious walk away with millions, and the defeated lose everything (namely, all their clothes).\nBut this high-stakes sport has dark forces and dubious practices behind the fun and games. Lethal injections make steroids seem like vitamins. Instead of team prayer, there's demonic possession. Athletic sponsors are malevolent corporations with a more frightening agenda than increased market share. It's all just part of the game.\n(Source: AniDB)",
+  "synopsis": "The special of the day is Variable Geo-a brutal battle between waitresses who serve up generous portions of energy blasts and vicious side orders of murderous martial artistry.\n\nFor buffed beauties who make below-minimum wages, VG is the perfect way to make some fast cash. The victorious walk away with millions, and the defeated lose everything (namely, all their clothes).\n\nBut this high-stakes sport has dark forces and dubious practices behind the fun and games. Lethal injections make steroids seem like vitamins. Instead of team prayer, there's demonic possession. Athletic sponsors are malevolent corporations with a more frightening agenda than increased market share. It's all just part of the game.\n\n(Source: AniDB)",
   "sequence": [
     {
       "malId": 2209,
@@ -126,17 +132,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:12:41.646Z",
+    "lastFetched": "2026-06-26T21:28:06.661Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

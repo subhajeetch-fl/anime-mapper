@@ -19,36 +19,40 @@
   },
   "title": {
     "romaji": "PROJECT A-KO 2: Daitokuji Zaibatsu no Inbou",
-    "english": "Project A-Ko 2: The Plot of the Daitokuji Financial Group",
+    "english": "Project A-Ko 2: Plot of the Daitokuji Financial Group",
     "native": "PROJECT A-KO 2 大徳寺財閥の陰謀",
     "synonyms": [
       "Project A-Ko 2: Plot of the Daitokuji Financial Group"
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 48,
   "aired": {
-    "from": "1987-05-21",
+    "from": "1987-05-21T00:00:00+00:00",
     "to": "1987-05-21"
   },
   "season": "spring",
   "year": 1987,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 6.53,
     "anilistScore": 6.2,
     "kitsuRating": 6.51
   },
   "genres": [
     "Comedy",
-    "Mecha",
     "Sci-Fi",
+    "Mecha",
     "Super Power",
     "Action",
     "Earth",
@@ -66,14 +70,17 @@
   "studios": [
     "APPP"
   ],
-  "producers": [],
+  "producers": [
+    "Pony Canyon",
+    "Arts Pro"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1168/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1387/114803l.jpg",
     "banner": null,
     "color": "#e4ae5d"
   },
   "trailer": null,
-  "synopsis": "Three weeks after the incident that left Captain Napolipolita's ship balancing on top of Graviton City, A-Ko and the gang go on summer vacation. While A-Ko ponders losing some weight and B-Ko devises another plan to defeat her redheaded rival to win C-Ko, Napolipolita and Spy-D experience severe homesickness - begging for a way to return to their home planet. Meanwhile, Hikari Daitokuji - B-Ko's father and the CEO of the Daitokuji Financial Group - arms the local military with new mecha to attack Napolipolita's ship and obtain its advanced technology. \n(Source: ANN)",
+  "synopsis": "Three weeks after the incident that left Captain Napolipolita's ship balancing on top of Graviton City, A-Ko and the gang go on summer vacation. While A-Ko ponders losing some weight and B-Ko devises another plan to defeat her redheaded rival to win C-Ko, Napolipolita and Spy-D experience severe homesickness - begging for a way to return to their home planet. Meanwhile, Hikari Daitokuji - B-Ko's father and the CEO of the Daitokuji Financial Group - arms the local military with new mecha to attack Napolipolita's ship and obtain its advanced technology. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 212,
@@ -120,17 +127,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:21:01.809Z",
+    "lastFetched": "2026-06-26T21:29:12.655Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

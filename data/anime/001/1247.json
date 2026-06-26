@@ -23,23 +23,27 @@
     "native": "Project BLUE 地球SOS",
     "synonyms": []
   },
-  "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "type": "TV",
+  "source": "Other",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 6,
   "episodeLength": 45,
   "aired": {
-    "from": "2006-07-02",
-    "to": "2006-12-03"
+    "from": "2006-07-02T00:00:00+00:00",
+    "to": "2006-12-03T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 6.58,
     "anilistScore": 5.7,
     "kitsuRating": 6.77
   },
@@ -56,15 +60,17 @@
     "Military",
     "Science Fiction"
   ],
-  "studios": [],
+  "studios": [
+    "A.C.G.T."
+  ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1122/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/2/34565l.jpg",
     "banner": "https://media.kitsu.app/anime/1122/cover_image/bad4f7675d99841ac26509e5675608a2.jpe",
     "color": "#e48650"
   },
   "trailer": null,
-  "synopsis": "In this exhilarating series paying homage to classic 50s era science fiction, the disappearance of revolutionary G-Reaction engines is but the beginning of the ghastly end for mankind. \nWhile deranged alien forces prepare a fleet of flying saucers to the invasion of all invasions, teenage geniuses Penny Carter and  Billy Kimura join forces with a clandestine secret alliance to save humanity from the extra-terrestrial helmet worms and their tentacles of doom! \nAvoiding alien attacks and dodging disintegration rays won't be easy, but these courageous kids will have help from above as Ace pilot James and his mentor Cpt. Clayton enter the fray to stave off a threat incomprehensible to mere mortals! \n(Source: DVD)",
+  "synopsis": "In this exhilarating series paying homage to classic 50s era science fiction, the disappearance of revolutionary G-Reaction engines is but the beginning of the ghastly end for mankind. \n\nWhile deranged alien forces prepare a fleet of flying saucers to the invasion of all invasions, teenage geniuses Penny Carter and  Billy Kimura join forces with a clandestine secret alliance to save humanity from the extra-terrestrial helmet worms and their tentacles of doom! \n\nAvoiding alien attacks and dodging disintegration rays won't be easy, but these courageous kids will have help from above as Ace pilot James and his mentor Cpt. Clayton enter the fray to stave off a threat incomprehensible to mere mortals! \n\n(Source: DVD)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -159,17 +165,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:17:18.905Z",
+    "lastFetched": "2026-06-26T21:28:39.663Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

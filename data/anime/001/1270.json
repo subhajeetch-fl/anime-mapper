@@ -22,34 +22,39 @@
     "english": "Black Magic M-66",
     "native": "ブラックマジックＭ（マリオ）－６６",
     "synonyms": [
-      "Black Magic M66"
+      "Black Magic M66",
+      "Black Magic Mario 66"
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 48,
   "aired": {
-    "from": "1987-06-28",
+    "from": "1987-06-28T00:00:00+00:00",
     "to": "1987-06-28"
   },
   "season": "summer",
   "year": 1987,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
+    "malScore": 6.46,
     "anilistScore": 6.2,
     "kitsuRating": 6.82
   },
   "genres": [
+    "Sci-Fi",
     "Action",
     "Adventure",
     "Mecha",
-    "Sci-Fi",
     "Military",
     "Science Fiction",
     "Japan",
@@ -60,16 +65,20 @@
   ],
   "studios": [
     "AIC",
-    "Animate Film"
+    "animate Film"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Visual",
+    "Network",
+    "Arts Pro"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1145/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1645/94523l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1270-nbKtS6R7xHYg.jpg",
     "color": "#f1d6ae"
   },
   "trailer": null,
-  "synopsis": "When two malfunctioning combat androids are accidentally unleashed on a \"Terminate at All Costs\" mission against the unsuspecting granddaughter of their creator, an entire city becomes the battleground and not even the military may be able to stop them! The girl's only hope: Sybil, a freelance journalist who's out to get the scoop of her life, if she can somehow keep both herself and her subject alive long enough to file a report. But first, she has to remember to put her clothes on! Co-directed by legendary manga master Masamune Shirow (GHOST IN THE SHELL, APPLESEED) and visionary director Hiroyuki Kitakubo (JO JO's BIZZARRE ADVENTURE, GOLDENBOY,), it's a tour de force of violence and mayhem on an epic scale as two damsels in distress and two deranged battle robots face off, girl vs. mecha style, in the all-time anime classic: BLACK MAGIC M-66!\n(Source: Maiden Japan)",
+  "synopsis": "When Sybel, a freelance reporter, discovers a military plane crash, she is thrilled by the prospect of getting her hands on the latest inside scoop. However, she is unaware that the plane was carrying two top-secret prototype android assassins who will stop at nothing to destroy their target. As the military frantically tries to clean up its mess, Sybel races against time to find and protect the robots' targeted victim—all while documenting the military's misconduct—before it is too late.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
@@ -89,17 +98,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:18:56.619Z",
+    "lastFetched": "2026-06-26T21:28:52.874Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

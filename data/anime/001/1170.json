@@ -21,25 +21,31 @@
     "romaji": "Slayers Special",
     "english": "Slayers: The Book of Spells",
     "native": "スレイヤーズすぺしゃる",
-    "synonyms": []
+    "synonyms": [
+      "Slayers Special OVA"
+    ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Light novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
   "episodeLength": 29,
   "aired": {
-    "from": "1996-07-25",
-    "to": "1997-05-25"
+    "from": "1996-07-25T00:00:00+00:00",
+    "to": "1997-05-25T00:00:00+00:00"
   },
   "season": "summer",
   "year": 1996,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 7.33,
     "anilistScore": 7,
     "kitsuRating": 7.36
   },
@@ -53,16 +59,19 @@
     "Action"
   ],
   "studios": [
-    "J.C.STAFF"
+    "J.C.Staff"
   ],
-  "producers": [],
+  "producers": [
+    "Kadokawa Shoten",
+    "Marubeni"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1051/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1372/92532l.jpg",
     "banner": null,
     "color": "#e42835"
   },
   "trailer": null,
-  "synopsis": "In these three self-contained half-hour stories, Lina Inverse and her partner, Naga The Serpent, take on a variety of jobs for quick cash, food, and/or their own skins. The first episode, \"The Scary Chimera Plan,\" pits them against a lunatic magician who intends to use Lina to create a fearsome, spell-slinging monster. Then, in \"Jeffry's Knighthood,\" they're hired by an overprotective mother to see that her son - a young man barely capable of holding a sword - becomes a respected knight, by \"helping\" him fight off the marauding soldiers terrorizing the area. Finally, \"Mirror, Mirror\" puts the two in a race to hunt down and capture (for bounty, of course) a rogue sorceror who's found an ancient artifact that can create loyal duplicates of anything or anyone, including his enemies. \n(Source: ANN)",
+  "synopsis": "In these three self-contained half-hour stories, Lina Inverse and her partner, Naga The Serpent, take on a variety of jobs for quick cash, food, and/or their own skins. The first episode, \"The Scary Chimera Plan,\" pits them against a lunatic magician who intends to use Lina to create a fearsome, spell-slinging monster. Then, in \"Jeffry's Knighthood,\" they're hired by an overprotective mother to see that her son - a young man barely capable of holding a sword - becomes a respected knight, by \"helping\" him fight off the marauding soldiers terrorizing the area. Finally, \"Mirror, Mirror\" puts the two in a race to hunt down and capture (for bounty, of course) a rogue sorceror who's found an ancient artifact that can create loyal duplicates of anything or anyone, including his enemies. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 534,
@@ -182,17 +191,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:11:27.686Z",
+    "lastFetched": "2026-06-26T21:27:55.644Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

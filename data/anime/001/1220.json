@@ -24,22 +24,26 @@
     "synonyms": []
   },
   "type": "ONA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 28,
   "aired": {
-    "from": "2006-07-21",
+    "from": "2006-07-10T00:00:00+00:00",
     "to": "2006-07-21"
   },
   "season": "summer",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 5.7,
     "anilistScore": 5.2,
     "kitsuRating": 6.05
   },
@@ -53,16 +57,17 @@
     "Present"
   ],
   "studios": [
+    "CoMix Wave Films",
     "CoMix Wave"
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1097/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1167/116430l.jpg",
     "banner": null,
     "color": "#2886a1"
   },
   "trailer": null,
-  "synopsis": "Kozue is a girl who loves astronomy, particularly the stars. One night, on an excursion to witness a meteorite, she meets Ginga, a boy who is able to help scientists discover more information about the stars through a mysterious ability of his. However, he is forced to stay in a protective suit in order to carry out his mission. Because of this, Kozue decides to convince Ginga to make his own decisions &amp; to take off the suit using his own will. \n(Source: ANN)",
+  "synopsis": "Kozue is a girl who loves astronomy, particularly the stars. One night, on an excursion to witness a meteorite, she meets Ginga, a boy who is able to help scientists discover more information about the stars through a mysterious ability of his. However, he is forced to stay in a protective suit in order to carry out his mission. Because of this, Kozue decides to convince Ginga to make his own decisions &amp; to take off the suit using his own will. \n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -97,17 +102,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:15:11.555Z",
+    "lastFetched": "2026-06-26T21:28:22.063Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -26,29 +26,33 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 2,
   "episodeLength": 39,
   "aired": {
-    "from": "1998-04-21",
-    "to": "1998-05-21"
+    "from": "1998-04-21T00:00:00+00:00",
+    "to": "1998-05-21T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1998,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
+    "malScore": 5.4,
     "anilistScore": 4.6,
     "kitsuRating": 5.9
   },
   "genres": [
     "Comedy",
-    "Ecchi",
     "Romance",
+    "Ecchi",
     "School",
     "Earth",
     "Delinquent",
@@ -60,14 +64,16 @@
   "studios": [
     "AIC"
   ],
-  "producers": [],
+  "producers": [
+    "Toei Video"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1146/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1159/100238l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1271-PB8h45OBvm4K.jpg",
     "color": "#ae5035"
   },
   "trailer": null,
-  "synopsis": "Oraku is a lucky man. He has a comfortable job teaching at a local High School. He has Satsuki, a fellow teacher whom he hopes to marry someday. He has Aya, a beautiful student who has fallen in love with him. He has Aya's father, a wealthy man who wants so much for his little girl to be happy that he has sent her to live with Oraku. Oraku is a very lucky man.\nOf course Aya loves nothing more than to come on to Oraku by lounging around his apartment half naked. Unfortunately for Oraku, Aya's father happens to be wealthy because he is a major crime boss, and he will have Oraku slowly murdered if Aya doesn't remain absolutely pure.\nNow Oraku must not only restrain himself, but also protect Aya from the hordes of men and woman at school who'd love to get their hands on her body. And of course, if Satsuki or any of the other teachers find out that Oraku is living with one of his students, he will be permanently dismissed from the teaching profession! Oh yes Oraku is lucky...\n(Source: AniDB)",
+  "synopsis": "Oraku is a lucky man. He has a comfortable job teaching at a local High School. He has Satsuki, a fellow teacher whom he hopes to marry someday. He has Aya, a beautiful student who has fallen in love with him. He has Aya's father, a wealthy man who wants so much for his little girl to be happy that he has sent her to live with Oraku. Oraku is a very lucky man.\n\nOf course Aya loves nothing more than to come on to Oraku by lounging around his apartment half naked. Unfortunately for Oraku, Aya's father happens to be wealthy because he is a major crime boss, and he will have Oraku slowly murdered if Aya doesn't remain absolutely pure.\n\nNow Oraku must not only restrain himself, but also protect Aya from the hordes of men and woman at school who'd love to get their hands on her body. And of course, if Satsuki or any of the other teachers find out that Oraku is living with one of his students, he will be permanently dismissed from the teaching profession! Oh yes Oraku is lucky...\n\n(Source: AniDB)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -102,17 +108,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:19:08.055Z",
+    "lastFetched": "2026-06-26T21:28:55.048Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

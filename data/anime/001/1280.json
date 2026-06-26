@@ -27,30 +27,34 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
-  "episodeCount": 6,
+  "episodeCount": 5,
   "episodeLength": 36,
   "aired": {
-    "from": "1990-12-01",
-    "to": "1995-07-01"
+    "from": "1990-12-01T00:00:00+00:00",
+    "to": "1995-07-01T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1990,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
+    "malScore": 6.29,
     "anilistScore": 5.8,
     "kitsuRating": 6.35
   },
   "genres": [
     "Comedy",
-    "Fantasy",
     "Horror",
     "Supernatural",
+    "Fantasy",
     "Magic",
     "Ecchi",
     "Action",
@@ -62,16 +66,18 @@
     "Super Power"
   ],
   "studios": [
-    "MADHOUSE"
+    "Madhouse"
   ],
-  "producers": [],
+  "producers": [
+    "TOHO"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/1155/poster_image/94b54a7840870e2cd436a1bf2e7b7e7b.png",
+    "poster": "https://cdn.myanimelist.net/images/anime/1276/97039l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1280-Si2TcPPEUZ9t.jpg",
     "color": "#e48650"
   },
   "trailer": null,
-  "synopsis": "Yohko Mono is a regular girl making her way through high school--until she learns that she is the 108th successor to a line of warriors charged with defending the earth against demons. Eventually she must fight her ultimate battle against the demon who started it all.\n\n(Source: Anime News Network)",
+  "synopsis": "Yohko Mono is a regular girl making her way through high school--until she learns that she is the 108th successor to a line of warriors charged with defending the earth against demons. Eventually she must fight her ultimate battle against the demon who started it all. \n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -331,17 +337,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:19:51.773Z",
+    "lastFetched": "2026-06-26T21:29:01.665Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }
