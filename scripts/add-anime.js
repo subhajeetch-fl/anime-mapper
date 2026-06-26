@@ -131,9 +131,11 @@ async function run() {
 }
 
 
-try {
-    await run();
-  } catch (err) {
-    console.error(`add-anime: ${err.message}`);
-    process.exit(1);
-  }
+(async () => {
+    try {
+      await run();
+    } catch (err) {
+      console.error(`add-anime: ${err.message}`);
+      process.exit(1);
+    }
+  })();

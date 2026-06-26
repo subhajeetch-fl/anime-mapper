@@ -30,8 +30,10 @@
  * multiple embeds (up to 10 per message) and send as many messages as needed.
  */
 
-const COLOR_ERROR = 0xed4245; // Discord "red"
-const COLOR_WARN  = 0xfaa61a; // Discord "orange"
+const COLOR_ERROR    = 0xed4245; // Discord "red"
+const COLOR_WARN     = 0xfaa61a; // Discord "orange"
+const COLOR_SUCCESS  = 0x57f287; // Discord "green"
+const COLOR_INFO     = 0x5865f2; // Discord "blue"
 
 // Hard Discord limits
 const EMBED_DESCRIPTION_LIMIT = 4096;
@@ -346,5 +348,133 @@ export async function reportErrorsToDiscord(errors, context = {}) {
   } catch (err) {
     // Never let a Discord delivery failure break the pipeline run.
     console.error(`[discord] failed to deliver report: ${err.message}`);
+  }
+}
+
+// =============================================================================
+// Smart Update Summary Embeds
+// =============================================================================
+
+/**
+ * Format a duration in ms to a human-readable string.
+ * E.g. 125000 → "2m 5s"
+ * @param {number} ms
+ * @returns {string}
+ */
+function formatDuration(ms) {
+  if (ms < 1000) return `${ms}ms`;
+  const totalSeconds = Math.floor(ms / 1000);
+  const seconds = totalSeconds % 60;
+  const minutes = Math.floor(totalSeconds / 60) % 60;
+  const hours = Math.floor(totalSeconds / 3600);
+  if (hours > 0) return `${hours}h ${minutes}m ${seconds}s`;
+  if (minutes > 0) return `${minutes}m ${seconds}s`;
+  return `${seconds}s`;
+}
+
+/**
+ * Send a rich Discord embed summarising a smart-update run.
+ *
+ * @param {object}  context
+ * @param {number}  context.totalIndexed     – total anime JSON files on disk
+ * @param {number}  context.totalDiscovered   – total MAL ids discovered
+ * @param {number}  context.processed          – how many were processed this run
+ * @param {number}  context.changed            – files with actual data changes
+ * @param {number}  context.unchanged          – files skipped (identical data)
+ * @param {number}  context.deferred           – files with soft source errors
+ * @param {number}  context.hardFailed         – files that could not be updated
+ * @param {number}  context.retryQueueSize       – current retry queue size
+ * @param {number}  context.durationMs           – run duration in ms
+ * @returns {Promise<void>}
+ */
+export async function sendSmartUpdateSummary(context) {
+  const webhookUrl = process.env.DISCORD_WEBHOOK_URL;
+  if (!webhookUrl) {
+    console.warn('[discord] DISCORD_WEBHOOK_URL not set — skipping summary embed.'
+    );
+    return;
+  }
+
+  const runUrl =
+    process.env.GITHUB_SERVER_URL &&
+    process.env.GITHUB_REPOSITORY &&
+    process.env.GITHUB_RUN_ID
+      ? `${process.env.GITHUB_SERVER_URL}/${process.env.GITHUB_REPOSITORY}/actions/runs/${process.env.GITHUB_RUN_ID}`
+      : null;
+
+  const {
+    totalIndexed,
+    totalDiscovered,
+    processed,
+    changed,
+    unchanged,
+    deferred,
+    hardFailed,
+    retryQueueSize,
+    durationMs,
+  } = context;
+
+  // Determine overall status colour
+  let colour = COLOR_SUCCESS;
+  if (hardFailed > 0) {
+    colour = COLOR_ERROR;
+  } else if (deferred > 0) {
+    colour = COLOR_WARN;
+  }
+
+  const fields = [];
+
+  // ── Catalogue stats ──────────────────────────────────────────────────────
+  fields.push({
+    name: '📊 Catalogue Stats',
+    value: [
+      `**Indexed:** ${totalIndexed.toLocaleString()} anime`,
+      `**Discovered:** ${totalDiscovered.toLocaleString()} IDs`,
+    ].join('\n'),
+  });
+
+  // ── This run ─────────────────────────────────────────────────────────────
+  fields.push({
+    name: '🔄 This Run',
+    value: [
+      `**Processed:** ${processed.toLocaleString()}`,
+      `**Changed:** ${changed.toLocaleString()}`,
+      `**Unchanged:** ${unchanged.toLocaleString()}`,
+      deferred > 0 ? `**Deferred:** ${deferred.toLocaleString()}` : null,
+      hardFailed > 0 ? `**Hard Failed:** ${hardFailed.toLocaleString()}` : null,
+    ]
+      .filter(Boolean)
+      .join('\n'),
+  });
+
+  // ── Queue status ─────────────────────────────────────────────────────────
+  fields.push({
+    name: '⏳ Retry Queue',
+    value:
+      retryQueueSize > 0
+        ? `${retryQueueSize.toLocaleString()} anime queued for next run`
+        : 'Queue is empty',
+  });
+
+  // ── Performance ──────────────────────────────────────────────────────────
+  fields.push({
+    name: '⏱️ Duration',
+    value: formatDuration(durationMs),
+  });
+
+  const embed = {
+    title: '🗂️ Smart Update Report',
+    description: runUrl
+      ? `[View Action Run](${runUrl})`
+      : 'Local run summary',
+    color: colour,
+    fields,
+    timestamp: new Date().toISOString(),
+  };
+
+  try {
+    await sendWebhookMessage(webhookUrl, [embed]);
+  } catch (err) {
+    console.error(`[discord] failed to deliver summary embed: ${err.message}`);
   }
 }

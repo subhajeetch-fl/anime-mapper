@@ -30,10 +30,6 @@ const QUERY = /* GraphQL */ `
       duration
       genres
       averageScore
-      meanScore
-      popularity
-      favourites
-      trending
       coverImage {
         extraLarge
         color
@@ -124,9 +120,6 @@ export function normalizeAniList(raw) {
     duration: raw.duration ?? null,
     genres: raw.genres ?? [],
     averageScore: raw.averageScore != null ? Number((raw.averageScore / 10).toFixed(2)) : null,
-    popularity: raw.popularity ?? null,
-    favourites: raw.favourites ?? null,
-    trending: raw.trending ?? null,
     coverImage: raw.coverImage?.extraLarge ?? null,
     coverColor: raw.coverImage?.color ?? null,
     bannerImage: raw.bannerImage ?? null,

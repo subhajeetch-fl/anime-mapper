@@ -15,10 +15,10 @@ was added, fixed, or flagged, so nothing is a surprise:
    `isFiller`, `tvdbShowId`, `tvdbId`, and the `artworks.thetvdb.com`
    screencap URL are **not produced by Jikan, AniList, Kitsu, or
    animeapi.my.id** — none of those four expose AniDB filler flags or TVDB
-   episode ids. That exact shape comes from **AniZip** (`api.ani.zip`), a
+   episode ids. That exact shape comes from **Zenshin** (`api.ani.zip`), a
    free aggregator that merges AniDB + TVDB + dub-availability data per
-   episode. I added it as a fifth source (`scripts/lib/aniZip.js`). I
-   verified this against AniZip's public usage (it's used by several
+   episode. I added it as a fifth source (`scripts/lib/zenshin.js`). I
+   verified this against zenshin's public usage (it's used by several
    self-hosted anime apps specifically "to provision episode data"), but I
    couldn't hit the live endpoint from this sandbox (network is firewalled
    here), so **test it for real before relying on it** — see "Testing
@@ -103,7 +103,7 @@ scripts/
 │   ├── kitsu.js                # FALLBACK metadata source
 │   ├── anilist.js              # enrichment (banner art, sequence, next airing ep)
 │   ├── idMapping.js            # animeapi.my.id - cross-platform id mapping
-│   ├── aniZip.js               # episode data (the schema you specified)
+│   ├── zenshin.js               # episode data (the schema you specified)
 │   ├── discord.js              # webhook error reporting
 │   └── state.js                # last-updated cache + retry queue
 ├── fetch-anime.js              # fetch + merge ONE anime -> data/anime/{id}.json
@@ -186,14 +186,7 @@ example:
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": 8.69,
-    "malScoredBy": 234567,
-    "malRank": 90,
-    "malPopularity": 22,
-    "malMembers": 2200000,
-    "malFavorites": 220000,
     "anilistScore": 8.7,
-    "anilistPopularity": 567000,
-    "anilistFavourites": 123000,
     "kitsuRating": 8.69
   },
   "genres": ["Action", "Adventure", "Fantasy"],
@@ -238,7 +231,7 @@ example:
   },
   "meta": {
     "lastFetched": "2026-06-21T14:00:00.000Z",
-    "sourcesUsed": ["jikan", "kitsu", "anilist", "animeapi.my.id", "anizip"],
+    "sourcesUsed": ["jikan", "kitsu", "anilist", "animeapi.my.id", "zenshin"],
     "missingSources": [],
     "dataVersion": 1
   }
@@ -260,12 +253,12 @@ blocking the whole pipeline — see "Error handling" below.
 | **Jikan**          | Primary    | synopsis, genres, studios, score, broadcast                        |
 | **Kitsu**          | Fallback   | used when Jikan is down/missing fields; also supplies `ageRating`  |
 | **AniList**        | Enrichment | banner image, `nextAiringEpisode`, `sequence` (anime-only, sorted) |
-| **animeapi.my.id** | ID mapping | the `mappings` block + the AniList id AniZip needs                 |
-| **AniZip**         | Episodes   | the per-episode schema you specified                               |
+| **animeapi.my.id** | ID mapping | the `mappings` block + the AniList id zenshin needs                |
+| **Zenshin**        | Episodes   | the per-episode schema you specified                               |
 
 A title is a **hard failure** (→ retry queue + Discord alert) only if
 **both** Jikan and Kitsu fail — those are your two designated primary
-sources. If AniList, animeapi.my.id, or AniZip fail, the file is still
+sources. If AniList, animeapi.my.id, or Zenshin fail, the file is still
 written with whatever it has; the gap is recorded in `meta.missingSources`
 so a later retry can backfill it without you having to notice manually.
 
@@ -375,7 +368,7 @@ verify for real:
   results.
 
 What I could **not** test here: an actual live HTTP round-trip to Jikan/
-Kitsu/AniList/animeapi.my.id/AniZip. Before turning on the scheduled
+Kitsu/AniList/animeapi.my.id/Zenshin. Before turning on the scheduled
 workflow, run this locally (or in a GitHub Actions test run) where the
 network isn't restricted:
 
@@ -418,7 +411,7 @@ node scripts/add-anime.js --range=1-3000
 - `top-rated.json` uses a minimum vote-count threshold (1000) so a title
   with three 10/10 ratings can't outrank One Piece — tune
   `TOP_RATED_MIN_VOTES` in `build-indexes.js` as the catalog grows.
-- AniZip's exact rate limit and uptime guarantees aren't published
+- Zenshin's exact rate limit and uptime guarantees aren't published
   anywhere I could find — it's a free community service, treat it as
   best-effort and lean on the retry queue rather than assuming it's always
   reachable.
@@ -434,4 +427,3 @@ node scripts/add-anime.js --range=1-3000
 ## Homepage data
 
 The pipeline now generates `data/homepage.json` (via `scripts/fetch-homepage.js`). This file contains all homepage sections in a single JSON payload, using the same card format as individual anime files. Sections include `spotlight`, `trending`, `topByTime` (byDay/byWeek/byMonth), `mostWatched`, `mostPopular`, `latestEpisodes`, `topRated`, and `thisSeasonPopular`. It is refreshed every 12 hours by the `homepage.yml` workflow.
-

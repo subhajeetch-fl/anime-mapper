@@ -15,6 +15,7 @@
     "update:smart": "node scripts/smart-update.js",
     "update:airing": "node scripts/update-airing.js",
     "build:indexes": "node scripts/build-indexes.js",
-    "fetch:homepage": "node scripts/fetch-homepage.js"
+    "fetch:homepage": "node scripts/fetch-homepage.js",
+    "clean:score": "node scripts/clean-score-fields.js"
   }
 }

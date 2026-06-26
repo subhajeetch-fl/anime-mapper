@@ -41,7 +41,7 @@
  *   node scripts/fetch-anime.js 21
  *   node scripts/fetch-anime.js 21 813 16498   (multiple ids)
  */
-import { readFile, writeFile, mkdir } from 'node:fs/promises';
+import { readFile, writeFile, mkdir, access } from 'node:fs/promises';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 
@@ -250,15 +250,7 @@ export async function fetchAnime(malId, options = {}) {
     rating: jikanData?.rating ?? kitsuData?.ageRating ?? null,
     score: {
       malScore: jikanData?.score ?? null,
-      malScoredBy: jikanData?.scoredBy ?? null,
-      malRank: jikanData?.rank ?? null,
-      malPopularity: jikanData?.popularity ?? null,
-      malMembers: jikanData?.members ?? null,
-      malFavorites: jikanData?.favorites ?? null,
       anilistScore: anilistData?.averageScore ?? null,
-      anilistPopularity: anilistData?.popularity ?? null,
-      anilistFavourites: anilistData?.favourites ?? null,
-      anilistTrending: anilistData?.trending ?? null,
       kitsuRating: kitsuData?.averageRating ?? null,
     },
     genres,
@@ -333,13 +325,14 @@ function dedupeCaseInsensitive(arr) {
   return [...seen.values()];
 }
 
+// Uses fs/promises `access` instead of readFile to check existence.
+// This avoids reading the entire file into memory just to discard it.
 async function fileExists(filePath) {
   try {
-    await readFile(filePath, 'utf-8');
+    await access(filePath);
     return true;
-  } catch (err) {
-    if (err.code === 'ENOENT') return false;
-    throw err;
+  } catch {
+    return false;
   }
 }
 
@@ -387,7 +380,7 @@ if (isMainModule) {
   const args = process.argv.slice(2);
   // Special test mode to verify bucket calculation without hitting APIs.
   if (args.includes('--test-buckets')) {
-    const testIds = [0, 1, 2, 999, 1000, 1001, 1999, 2000, 2999, 3000, 5000, 9999, 10000, 10999, 11000, 20000, 20999, 50000, 50999, 99000, 99999, 100000, 100999, 200000, 500000, 999000, 999999, 1000000, 1000001, 2000000];
+    const testIds = [0, 1, 2, 999, 1000, 1001, 1999,2000, 2999, 3000, 5000, 9999, 10000, 10999, 11000, 20000, 20999, 50000, 50999, 99000, 99999, 100000, 100999, 200000, 500000, 999000, 999999, 1000000, 1000001, 2000000];
     console.log('Bucket mapping test:');
     for (const id of testIds) {
       console.log(`  ID ${String(id).padStart(7)} => bucket "${getBucketName(id)}"`);

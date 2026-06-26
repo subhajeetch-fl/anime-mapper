@@ -12,7 +12,7 @@ import { pathToFileURL } from 'node:url';
 
 import { fetchAnime } from './fetch-anime.js';
 import { buildIndexes } from './build-indexes.js';
-import { reportErrorsToDiscord } from './lib/discord.js';
+import { reportErrorsToDiscord, sendSmartUpdateSummary } from './lib/discord.js';
 import {
   loadLastUpdated,
   saveLastUpdated,
@@ -23,6 +23,7 @@ import {
   loadUpdateCursor,
   saveUpdateCursor,
   pickRoundRobinBatch,
+  loadDiscoveredIds,
 } from './lib/state.js';
 
 const ANIME_DIR = path.resolve('data/anime');
@@ -150,6 +151,18 @@ export async function runSmartUpdate(cliArgs = process.argv.slice(2)) {
       nextIndex: activeIds.length ? plannedNextIndex : 0,
       lastRunAt: new Date().toISOString(),
     });
+    const emptyDiscovered = await loadDiscoveredIds();
+    await sendSmartUpdateSummary({
+      totalIndexed:    catalogRecords.length,
+      totalDiscovered: emptyDiscovered.ids.length,
+      processed:       0,
+      changed:         0,
+      unchanged:       0,
+      deferred:        0,
+      hardFailed:      0,
+      retryQueueSize:  retryIds.length,
+      durationMs:      Date.now() - startedAt,
+    });
     console.log('smart-update: nothing to update.');
     return;
   }
@@ -252,6 +265,21 @@ export async function runSmartUpdate(cliArgs = process.argv.slice(2)) {
       totalProcessed: processedIds.length,
     });
   }
+
+  // --- Send summary embed (always, even on success) ------------------------
+  const discoveredState = await loadDiscoveredIds();
+
+  await sendSmartUpdateSummary({
+    totalIndexed: catalogRecords.length,
+    totalDiscovered: discoveredState.ids.length,
+    processed: processedIds.length,
+    changed: changedIds.length,
+    unchanged: unchangedIds.length,
+    deferred: deferredIds.length,
+    hardFailed: processedIds.length - succeededIds.length,
+    retryQueueSize: updatedRetryQueue.length,
+    durationMs: Date.now() - startedAt,
+  });
 
   console.log(
     `smart-update done: processed=${processedIds.length}/${idsToProcess.length} ` +

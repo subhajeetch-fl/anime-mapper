@@ -240,7 +240,9 @@ export function pickNextAddBatch(discovered, cursor, skipIds = [], batchSize = 2
     }
   }
 
-  return { items, nextIndex: 0 };
+  const lastItem = items[items.length - 1];
+  const nextIndex = lastItem ? lastItem.index + 1 : 0;
+  return { items, nextIndex };
 }
 
 export function pickNextBatch(discovered, cursor, permanentlyFailed, batchSize) {
