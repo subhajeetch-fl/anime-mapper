@@ -51,9 +51,24 @@ function parseArgs(args) {
 }
 
 async function loadCatalogedIdSet() {
-  let files;
+  // Recursively collect all JSON files in bucket subfolders
+  async function collectFiles(dir) {
+    const entries = await readdir(dir, { withFileTypes: true });
+    const result = [];
+    for (const entry of entries) {
+      const full = path.join(dir, entry.name);
+      if (entry.isDirectory()) {
+        result.push(...await collectFiles(full));
+      } else if (entry.isFile() && entry.name.endsWith('.json')) {
+        result.push(full);
+      }
+    }
+    return result;
+  }
+
+  let files = [];
   try {
-    files = await readdir(ANIME_DIR);
+    files = await collectFiles(ANIME_DIR);
   } catch (err) {
     if (err.code === 'ENOENT') return new Set();
     throw err;
@@ -61,8 +76,7 @@ async function loadCatalogedIdSet() {
 
   return new Set(
     files
-      .filter((file) => file.endsWith('.json'))
-      .map((file) => Number(file.replace(/\.json$/, '')))
+      .map((filePath) => Number(path.basename(filePath).replace(/\.json$/, '')))
       .filter((id) => Number.isInteger(id) && id > 0)
       .map(String)
   );

@@ -1,0 +1,40 @@
+name: Fetch Homepage Data
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: homepage-pipeline
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-homepage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch homepage data
+        run: node scripts/fetch-homepage.js
+
+      - name: Commit and push safely
+        run: |
+          bash .github/scripts/commit-and-push.sh "chore(data): update homepage [skip ci]"

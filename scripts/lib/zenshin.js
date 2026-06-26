@@ -54,7 +54,7 @@ export function normalizeEpisodes(rawAniZip) {
     result[key] = {
       episode: String(ep.episode ?? key),
       length: ep.length ?? (ep.runtime ? `${ep.runtime}m` : null),
-      airdate: ep.airdate ?? ep.airDate ?? null,
+      airDate: ep.airDate ?? ep.airdate ?? null,
       title: {
         en: ep.title?.en ?? null,
         ...(ep.title?.['x-jat'] ? { romaji: ep.title['x-jat'] } : {}),
@@ -67,7 +67,6 @@ export function normalizeEpisodes(rawAniZip) {
       absoluteEpisodeNumber: ep.absoluteEpisodeNumber ?? null,
       runtime: ep.runtime ?? null,
       image: ep.image ?? null,
-      airDate: ep.airDate ?? ep.airdate ?? null,
     };
   }
 

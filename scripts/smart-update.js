@@ -51,25 +51,39 @@ function parseArgs(args) {
 }
 
 async function loadCatalogRecords() {
-  let files;
+  // Recursively collect JSON files from bucket subfolders.
+  async function collectFiles(dir) {
+    const entries = await readdir(dir, { withFileTypes: true });
+    const result = [];
+    for (const entry of entries) {
+      const full = path.join(dir, entry.name);
+      if (entry.isDirectory()) {
+        result.push(...await collectFiles(full));
+      } else if (entry.isFile() && entry.name.endsWith('.json')) {
+        result.push(full);
+      }
+    }
+    return result;
+  }
+
+  let files = [];
   try {
-    files = await readdir(ANIME_DIR);
+    files = await collectFiles(ANIME_DIR);
   } catch (err) {
     if (err.code === 'ENOENT') return [];
     throw err;
   }
 
   const records = [];
-  for (const file of files.filter((name) => name.endsWith('.json'))) {
-    const filePath = path.join(ANIME_DIR, file);
+  for (const filePath of files) {
     try {
       const record = JSON.parse(await readFile(filePath, 'utf-8'));
-      const id = Number(record.id ?? record.idMal ?? file.replace(/\.json$/, ''));
+      const id = Number(record.id ?? record.idMal ?? path.basename(filePath).replace(/\.json$/, ''));
       if (Number.isInteger(id) && id > 0) {
         records.push({ id, record, filePath });
       }
     } catch (err) {
-      console.error(`[smart-update] skipping unreadable anime file ${file}: ${err.message}`);
+      console.error(`[smart-update] skipping unreadable anime file ${filePath}: ${err.message}`);
     }
   }
 

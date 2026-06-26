@@ -14,6 +14,7 @@
     "auto:add": "node scripts/auto-add.js",
     "update:smart": "node scripts/smart-update.js",
     "update:airing": "node scripts/update-airing.js",
-    "build:indexes": "node scripts/build-indexes.js"
+    "build:indexes": "node scripts/build-indexes.js",
+    "fetch:homepage": "node scripts/fetch-homepage.js"
   }
 }

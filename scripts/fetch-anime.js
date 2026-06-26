@@ -1,6 +1,12 @@
 /**
  * Fetches a single anime from every source, merges them into the schema
- * documented in README.md, and writes data/anime/{malId}.json.
+ * documented in README.md, and writes data/anime/{bucket}/{malId}.json.
+ *
+ * Bucket structure (1000 IDs per folder):
+ *   000/  → IDs 0‑999       001/  → IDs 1000‑1999
+ *   010/  → IDs 10000‑10999 050/  → IDs 50000‑50999
+ *   099/  → IDs 99000‑99999 100/  → IDs 100000‑100999
+ *   999/  → IDs 999000‑999999  other/  → IDs ≥ 1000000
  *
  * Source priority (per spec - "save anime detail mostly from MAL/Jikan or
  * Kitsu"):
@@ -54,7 +60,61 @@ import {
   zenshinLimiter,
 } from './lib/rateLimiter.js';
 
-const ANIME_DIR = path.resolve('data/anime');
+/**
+ * Base directory for anime JSON files. Individual files are stored in sub‑folders
+ * that group 1000 MAL IDs together. The folder name is a three‑digit zero‑padded
+ * bucket calculated as `Math.floor(id / 1000)`. For example:
+ *
+ *   IDs 1‑999      → folder "000"
+ *   IDs 1000‑1999  → folder "001"
+ *   IDs 5000‑5999  → folder "005"
+ *   IDs 10000‑10999 → folder "010"
+ *   IDs 99000‑99999 → folder "099"
+ *   IDs 100000‑100999 → folder "100"
+ *   IDs 999000‑999999 → folder "999"
+ *   IDs ≥ 1000000  → folder "other" (seven‑digit IDs per spec)
+ *
+ * This keeps the file system tidy and avoids having tens of thousands of files
+ * in a single directory.
+ */
+
+const ANIME_BASE_DIR = path.resolve('data/anime');
+/**
+ * Return the bucket directory name for a given MAL id.
+ *
+ * IDs 1‑999999 are partitioned into folders of 1000 each, zero‑padded to
+ * three digits. IDs ≥ 1000000 (seven digits) land in the special "other"
+ * bucket.
+ *
+ * @param {number} id – MAL anime id (positive integer)
+ * @returns {string} e.g. "000", "001", "050", "100", "999", or "other"
+ */
+function getBucketName(id) {
+  if (id >= 1000000) return 'other';
+  const bucket = Math.floor(id / 1000);
+  return String(bucket).padStart(3, '0');
+}
+
+/**
+ * Resolve the full path where a particular anime record should be written.
+ * @param {number} id
+ * @returns {string} absolute path to the JSON file
+ */
+ 
+function getAnimeFilePath(id) {
+  const bucket = getBucketName(id);
+  const dir = path.join(ANIME_BASE_DIR, bucket);
+  return path.join(dir, `${id}.json`);
+}
+
+
+async function ensureBucketDir(id) {
+  const bucket = getBucketName(id);
+  const dir = path.join(ANIME_BASE_DIR, bucket);
+  await mkdir(dir, { recursive: true });
+}
+
+export { getBucketName, getAnimeFilePath };
 
 /**
  * @param {number|string} malId
@@ -222,8 +282,9 @@ export async function fetchAnime(malId, options = {}) {
     },
   };
 
-  await mkdir(ANIME_DIR, { recursive: true });
-  const filePath = path.join(ANIME_DIR, `${id}.json`);
+  // Ensure the bucket directory exists for this ID
+  await ensureBucketDir(id);
+  const filePath = getAnimeFilePath(id);
 
   if (skipWriteOnSoftError && errors.length > 0 && (await fileExists(filePath))) {
     return {
@@ -320,7 +381,18 @@ function stableStringify(value) {
 const isMainModule =
   process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;
 if (isMainModule) {
-  const ids = process.argv.slice(2);
+  const args = process.argv.slice(2);
+  // Special test mode to verify bucket calculation without hitting APIs.
+  if (args.includes('--test-buckets')) {
+    const testIds = [0, 1, 2, 999, 1000, 1001, 1999, 2000, 2999, 3000, 5000, 9999, 10000, 10999, 11000, 20000, 20999, 50000, 50999, 99000, 99999, 100000, 100999, 200000, 500000, 999000, 999999, 1000000, 1000001, 2000000];
+    console.log('Bucket mapping test:');
+    for (const id of testIds) {
+      console.log(`  ID ${String(id).padStart(7)} => bucket "${getBucketName(id)}"`);
+    }
+    process.exit(0);
+  }
+
+  const ids = args.filter((a) => !a.startsWith('--'));
   if (ids.length === 0) {
     console.error('Usage: node scripts/fetch-anime.js <malId> [malId...]');
     process.exit(1);
