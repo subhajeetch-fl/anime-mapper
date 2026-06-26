@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Game",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 2,
   "episodeLength": 30,
   "aired": {
-    "from": "1998-05-25",
+    "from": "1998-05-25T00:00:00+00:00",
     "to": "1998-05-25"
   },
   "season": "spring",
   "year": 1998,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 5.42,
+    "malScoredBy": 1217,
+    "malRank": 13486,
+    "malPopularity": 11314,
+    "malMembers": 2995,
+    "malFavorites": 3,
     "anilistScore": 5.4,
     "anilistPopularity": 972,
     "anilistFavourites": 6,
@@ -53,22 +57,24 @@
   },
   "genres": [
     "Action",
-    "Adventure",
     "Sci-Fi",
+    "Adventure",
     "Super Power",
     "Science Fiction"
   ],
   "studios": [
     "Triangle Staff"
   ],
-  "producers": [],
+  "producers": [
+    "Broccoli"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/917/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1091/94164l.jpg",
     "banner": null,
     "color": "#f17828"
   },
   "trailer": null,
-  "synopsis": "There are two kinds of people in the world, normal and psychics. Psychics are rare, powerful and feared. Burn Griffith met and befriended one of them, Keith Evans, two years ago. Now he has been looking for his friend, but when he finally succeeds, something's not right. The world has changed, and so has Keith.\n(Source: ANN)",
+  "synopsis": "When James \"Burn\" Griffith collides with a young man on his motorcycle, he enters a world of turmoil. He takes the injured party, Keith Evans, to his home to recuperate—but soon armed men in suits arrive in pursuit of Keith. Unable to comprehend Keith's relationship with these thugs, Burn protects him for as long as he can.\n\nThree years later, the world is a shadow of what it once was. An all-out war between regular humans and superpowered psychics leaves cities in ruins and causes families to turn on each other. When the psychic forces reveal their leader to be the same Keith that Burn collided with before, Burn works to uncover what events led the once kind young man down such a violent path.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
@@ -103,17 +109,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:56:22.597Z",
+    "lastFetched": "2026-06-26T17:46:02.246Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -27,27 +27,31 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 2,
   "episodeLength": 40,
   "aired": {
-    "from": "1998-02-27",
-    "to": "1998-03-27"
+    "from": "1998-02-27T00:00:00+00:00",
+    "to": "1998-03-27T00:00:00+00:00"
   },
   "season": "winter",
   "year": 1998,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 5.28,
+    "malScoredBy": 3799,
+    "malRank": 13864,
+    "malPopularity": 7885,
+    "malMembers": 8247,
+    "malFavorites": 14,
     "anilistScore": 4.9,
     "anilistPopularity": 1929,
     "anilistFavourites": 19,
@@ -68,12 +72,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1305/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1285/94142l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1455-98KHPhNBLEcD.jpg",
     "color": "#e4bbae"
   },
   "trailer": null,
-  "synopsis": "Get ready for a nightmarish journey through faith and betrayal as the infamous Jubei Yagyu wields his deadly blades against the forces of good and evil alike. In an orgy of unbelievable savagery, the armies of the Shogun give no quarter as they ruthlessly slaughter their enemies. Trapped on the rocky isthmus of Amakusa, the faithful await divine aid as the demon stirs in their midst. Desperate for vengeance, a Child of Heaven becomes the emissary of Hell.\nTortured by visions of Amakusa's final hour, legendary swordsman Jubei Yagyu returns to his ancestral home seeking respite from the bloody duties of a feudal retainer. Life in the village of Yagyu possesses a serenity ill-befitting days of armed rebellion and unholy alliance. For Jubei the tranquility is far too transparent, and soon, chilling rumors reach him. Four dead heroes renew their claim to life, feeding on the fear and violence of the age. Forced to take up the sword once more, Jubei returns to the path of vengeance and damnation in Ninja Resurrection!\n(Source: DVD cover)",
+  "synopsis": "Get ready for a nightmarish journey through faith and betrayal as the infamous Jubei Yagyu wields his deadly blades against the forces of good and evil alike. In an orgy of unbelievable savagery, the armies of the Shogun give no quarter as they ruthlessly slaughter their enemies. Trapped on the rocky isthmus of Amakusa, the faithful await divine aid as the demon stirs in their midst. Desperate for vengeance, a Child of Heaven becomes the emissary of Hell.\n\nTortured by visions of Amakusa's final hour, legendary swordsman Jubei Yagyu returns to his ancestral home seeking respite from the bloody duties of a feudal retainer. Life in the village of Yagyu possesses a serenity ill-befitting days of armed rebellion and unholy alliance. For Jubei the tranquility is far too transparent, and soon, chilling rumors reach him. Four dead heroes renew their claim to life, feeding on the fear and violence of the age. Forced to take up the sword once more, Jubei returns to the path of vengeance and damnation in Ninja Resurrection!\n\n(Source: DVD cover)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -123,17 +127,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:39:00.696Z",
+    "lastFetched": "2026-06-26T17:59:44.605Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

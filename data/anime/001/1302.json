@@ -29,28 +29,32 @@
       "Прощай, галактический экспресс 999: Терминал Андромеды"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 130,
   "aired": {
-    "from": "1981-01-08",
+    "from": "1981-01-08T00:00:00+00:00",
     "to": "1981-01-08"
   },
   "season": "summer",
   "year": 1981,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.25,
+    "malScoredBy": 4246,
+    "malRank": 3410,
+    "malPopularity": 6996,
+    "malMembers": 11088,
+    "malFavorites": 26,
     "anilistScore": 7.1,
     "anilistPopularity": 3732,
     "anilistFavourites": 59,
@@ -58,10 +62,10 @@
     "kitsuRating": 7.15
   },
   "genres": [
+    "Adventure",
     "Drama",
     "Sci-Fi",
     "Space",
-    "Adventure",
     "Space Travel",
     "Science Fiction",
     "Space Opera",
@@ -74,12 +78,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1174/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1774/93957l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1302-palEc3EhS7bI.jpg",
     "color": "#f1ae43"
   },
   "trailer": null,
-  "synopsis": "Two years after the events in Galaxy Express 999, Earth has become a battleground. Tetsuro, older and fighting the Machine People, rejoins Maetel aboard the GE999. ",
+  "synopsis": "Despite the destruction of the mechanization home world Andromeda, the machine empire is still swept across the galaxy and Earth has become a battleground. Having returned from his journey aboard the train Galaxy Express 999, Tetsurou Hoshino joins the resistance and fights alongside others who have retained their humanity.\n\nWhen the 999 returns to Earth, Tetsurou receives an enigmatic recorded message from his former traveling companion Maetel, telling him to board the train once more. Fighting his way to Megalopolis station, he makes it onto the train just as it departs. This time, however, Tetsurou is met with several mysteries: Maetel is nowhere to be seen, an ominous \"Ghost Train\" has appeared, and the ultimate destination of the 999 is unknown. Amid all this, Tetsurou finds himself confronted by the mysterious black knight Faust and soon discovers the machine empire's darkest secret.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 1000,
@@ -227,17 +231,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:22:11.070Z",
+    "lastFetched": "2026-06-26T17:56:43.482Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

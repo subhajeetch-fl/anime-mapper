@@ -24,34 +24,39 @@
     "synonyms": [
       "Yu Yu Hakusho Movie 1",
       "Yuu Yuu Hakusho (1993)",
+      "YuYu Hakusho: The Golden Seal",
       "YYH Movie 1",
       "YYH: The Movie",
       "YYH: The Golden Seal",
       "Yu Yu Hakusho - Il sigillo d'oro"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 24,
   "aired": {
-    "from": "1993-07-10",
+    "from": "1993-07-10T00:00:00+00:00",
     "to": "1993-07-10"
   },
   "season": "summer",
   "year": 1993,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.8,
+    "malScoredBy": 16754,
+    "malRank": 5908,
+    "malPopularity": 4340,
+    "malMembers": 35809,
+    "malFavorites": 75,
     "anilistScore": 6.4,
     "anilistPopularity": 8412,
     "anilistFavourites": 67,
@@ -60,6 +65,7 @@
   },
   "genres": [
     "Action",
+    "Supernatural",
     "Adventure",
     "Comedy",
     "Super Power",
@@ -71,12 +77,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/782/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1807/125752l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/782/original.jpg",
     "color": "#e49350"
   },
   "trailer": null,
-  "synopsis": "Yusuke Urameshi is not exactly what you'd call an angel. In fact, some might call him down right devilish. But when he dies in an accident trying to save a child, he finds himself in the Spirit World. Unfortunately for Yusuke, his name is not listed in the Book of Enma, which means it was one big mistake! So he should return from the Spirit World, but must pass a few tests first, and become a detective of the spiritual world.\nSo now Yusuke works in the Spirit World as a half-dead, half-alive agent for Koenma, son of the ruler of the Spirit World. This position does have its disadvantages, especially when you're trying to enjoy your summer vacation and Koenma gets kidnapped! So now Yusuke must interrupt his summer fun to find Koenma and trade the Golden Seal of King Enma for his life. But if someone other then King Enma has the Golden Seal there will be chaos in the Spirit World! What's a half-dead spirit detective to do?\nWith the aide of his closest allies, Yusuke sets off for Magma Valley, to save the life of the one who saved his, and find out who's at the bottom of this evil conspiracy.\n(Source: AnimeNfo)",
+  "synopsis": "Yusuke Urameshi is not exactly what you'd call an angel. In fact, some might call him down right devilish. But when he dies in an accident trying to save a child, he finds himself in the Spirit World. Unfortunately for Yusuke, his name is not listed in the Book of Enma, which means it was one big mistake! So he should return from the Spirit World, but must pass a few tests first, and become a detective of the spiritual world.\n\nSo now Yusuke works in the Spirit World as a half-dead, half-alive agent for Koenma, son of the ruler of the Spirit World. This position does have its disadvantages, especially when you're trying to enjoy your summer vacation and Koenma gets kidnapped! So now Yusuke must interrupt his summer fun to find Koenma and trade the Golden Seal of King Enma for his life. But if someone other then King Enma has the Golden Seal there will be chaos in the Spirit World! What's a half-dead spirit detective to do?\n\nWith the aide of his closest allies, Yusuke sets off for Magma Valley, to save the life of the one who saved his, and find out who's at the bottom of this evil conspiracy.\n\n(Source: AnimeNfo)",
   "sequence": [
     {
       "malId": 392,
@@ -125,17 +131,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:42:51.156Z",
+    "lastFetched": "2026-06-26T17:43:29.687Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

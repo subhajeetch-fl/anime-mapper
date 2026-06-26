@@ -26,41 +26,46 @@
       "Dan Petory Kyoushu no Yuutsu",
       "Professor Dan Petry's Blues",
       "End of the World",
-      "Tanpetori Kyouju no Yuuutsu",
-      "タンペトリー教授の憂鬱",
       "Kigeki",
-      "喜劇",
       "Comedy",
       "Higan",
+      "Beyond",
+      "Garakuta no Machi",
+      "Junk Town",
+      "Tanpetori Kyouju no Yuuutsu",
+      "タンペトリー教授の憂鬱",
+      "喜劇",
       "彼岸",
       "Enlightenment",
-      "Garakuta no Machi",
-      "ガラクタの町",
-      "Junk Town"
+      "ガラクタの町"
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 5,
   "episodeLength": 11,
   "aired": {
-    "from": "2002-03-02",
-    "to": "2006-07-01"
+    "from": "2002-03-02T00:00:00+00:00",
+    "to": "2006-07-01T00:00:00+00:00"
   },
   "season": "winter",
   "year": 2002,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.25,
+    "malScoredBy": 16645,
+    "malRank": 3415,
+    "malPopularity": 4075,
+    "malMembers": 40617,
+    "malFavorites": 193,
     "anilistScore": 6.3,
     "anilistPopularity": 7188,
     "anilistFavourites": 23,
@@ -68,8 +73,8 @@
     "kitsuRating": 6.97
   },
   "genres": [
-    "Action",
     "Fantasy",
+    "Action",
     "Horror",
     "Mecha",
     "Music",
@@ -81,9 +86,12 @@
   "studios": [
     "Studio 4°C"
   ],
-  "producers": [],
+  "producers": [
+    "Grasshoppa!",
+    "Beyond C."
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/959/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/5/10292l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/959/original.jpg",
     "color": null
   },
@@ -108,17 +116,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:00:47.805Z",
+    "lastFetched": "2026-06-26T17:46:46.267Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -26,27 +26,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Game",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 52,
   "episodeLength": 24,
   "aired": {
-    "from": "1999-07-02",
-    "to": "2000-06-30"
+    "from": "1999-07-02T00:00:00+00:00",
+    "to": "2000-06-30T00:00:00+00:00"
   },
   "season": "summer",
   "year": 1999,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG - Children",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.12,
+    "malScoredBy": 34815,
+    "malRank": 4169,
+    "malPopularity": 3169,
+    "malMembers": 63711,
+    "malFavorites": 324,
     "anilistScore": 6.8,
     "anilistPopularity": 13037,
     "anilistFavourites": 303,
@@ -54,10 +58,10 @@
     "kitsuRating": 6.92
   },
   "genres": [
-    "Action",
     "Adventure",
     "Comedy",
     "Sci-Fi",
+    "Action",
     "Science Fiction",
     "Mecha",
     "Proxy Battles"
@@ -65,14 +69,18 @@
   "studios": [
     "Bee Train"
   ],
-  "producers": [],
+  "producers": [
+    "TV Tokyo",
+    "Nihon Ad Systems",
+    "Nelvana"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1019/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1778/133514l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1138-12lSvUNY8ByS.jpg",
     "color": "#f19328"
   },
   "trailer": null,
-  "synopsis": "In the 22nd century, Medarots—intelligent robots powered by medals that act as their minds—are commonplace all over the world. They serve their human partners and settle disputes through a combat sporting event known as Robattling. Combatants that take part in robattling for the sake of improving their ranking are known as Meda-fighters, and they aim to climb the ranks to enter the World Tournament and represent their country.Medarot tells the story of ten-year-old Ikki Tenryou stumbling across a rare Beetle medal and gaining his first Medarot, dubbed Metabee. He’s expecting a submissive and loyal robot that would follow his every command, but Metabee does what he wants and doesn’t take kindly to being insulted. Now Ikki is stuck with him, and they must work together to give their competition a Metabee-boppin’ as they robattle their way to the top!",
+  "synopsis": "Medabots—powerful robots granted artificial intelligence through special \"medals\"—serve at the whims of their owner. They are more commonly used in \"Robbatling,\" a popular combat sport where two medabots face off against one another. In its professional form, Medafighters use their Medabots to qualify for the World Tournament and fight amongst the elite to gain the title of champion.\n\nElementary schooler Ikki Tenryou has just gained his first Medabot: Metabee, an outdated model with no medal. Fortunately, however, Ikki manages to find a medal in the nearby river; but when Ikki places it into Metabee's head, the latter starts to exhibit strange behaviour. Short-tempered and rebellious, he refuses to obey Ikki's orders. However, to climb the ranks to the World Tournament, Ikki and Metabee must first learn to work together, no matter how difficult the prospect may seem…\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 4052,
@@ -916,17 +924,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:07:45.916Z",
+    "lastFetched": "2026-06-26T17:48:04.754Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

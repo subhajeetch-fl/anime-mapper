@@ -26,28 +26,32 @@
       "Black Jack: The 4 Miracles of Life"
     ]
   },
-  "type": "TV",
-  "source": null,
-  "status": "finished",
+  "type": "TV Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 4,
   "episodeLength": 23,
   "aired": {
-    "from": "2003-12-22",
-    "to": "2004-10-13"
+    "from": "2003-12-22T00:00:00+00:00",
+    "to": "2004-10-13T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2003,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.24,
+    "malScoredBy": 2549,
+    "malRank": 3428,
+    "malPopularity": 8629,
+    "malMembers": 6600,
+    "malFavorites": 5,
     "anilistScore": 6.8,
     "anilistPopularity": 1780,
     "anilistFavourites": 11,
@@ -58,10 +62,12 @@
     "Drama",
     "Medical"
   ],
-  "studios": [],
+  "studios": [
+    "Tezuka Productions"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1227/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1879/120375l.jpg",
     "banner": null,
     "color": "#931a0d"
   },
@@ -158,17 +164,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:28:40.892Z",
+    "lastFetched": "2026-06-26T17:57:59.915Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -19,7 +19,7 @@
   },
   "title": {
     "romaji": "Meitantei Conan: Ginyoku no Magician",
-    "english": "Case Closed: Magician of the Silver Sky",
+    "english": "Detective Conan Movie 08: Magician of the Silver Sky",
     "native": "名探偵コナン 銀翼の奇術師[マジシャン]",
     "synonyms": [
       "Detective Conan: Ginyoku no Magician",
@@ -28,28 +28,32 @@
       "Detective Conan Movie 08: Il mago del cielo d’argento"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 108,
   "aired": {
-    "from": "2004-04-17",
+    "from": "2004-04-17T00:00:00+00:00",
     "to": "2004-04-17"
   },
   "season": "spring",
   "year": 2004,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 8.05,
+    "malScoredBy": 36152,
+    "malRank": 663,
+    "malPopularity": 3203,
+    "malMembers": 62868,
+    "malFavorites": 53,
     "anilistScore": 7.8,
     "anilistPopularity": 12628,
     "anilistFavourites": 127,
@@ -58,8 +62,8 @@
   },
   "genres": [
     "Adventure",
-    "Mystery",
     "Comedy",
+    "Mystery",
     "Police",
     "Japan",
     "Earth",
@@ -74,14 +78,21 @@
   "studios": [
     "TMS Entertainment"
   ],
-  "producers": [],
+  "producers": [
+    "Yomiuri Telecasting",
+    "TOHO",
+    "Nippon Television Network",
+    "Shogakukan",
+    "Audio Planning U",
+    "Shogakukan Productions"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1221/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/2/20982l.jpg",
     "banner": null,
     "color": "#f18635"
   },
   "trailer": null,
-  "synopsis": "Kaito Kid strikes again in this new annual installment of the Detective Conan movies. An actress asked for Mouri Kogoro to protect a precious jewel of hers which Kid has vowed to steal. On the day of the theft, Kaito Kid dressed up as Shinichi and matched wits with Conan, and fled in the end. To thank them, the actress invited Kogoro and family and friends to Sapporo, but a bigger scheme, and a great emergency is just about to unravel high above the clouds in the plane that they're taking...\n(Source: ANN)",
+  "synopsis": "After receiving a letter from the thief Kaitou Kid, famous actress Juri Maki seeks the help of private detective Kogorou Mouri to protect the Star Sapphire—the \"Jewel of Destiny,\" said to represent faith, fate, and hope. Thinking he has deciphered Kid's riddle, Kogorou personally shows up to the newly constructed space theater where Juri is acting in the play \"Josephine\" in order to catch Kid in the act.\n \nThe next day, Conan and the gang are invited by Juri to her holiday home, to celebrate the thwarting of Kid's plan and the success of the play. However, their triumph crumbles when a murder occurs during the flight there. Although unintentional, this sets off a series of events that escalate to catastrophic results. Conan and Kid, unlikely allies that they are, must work together to save both their friends and every other passenger aboard the plane.\n \n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 235,
@@ -175,17 +186,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:27:52.984Z",
+    "lastFetched": "2026-06-26T17:57:51.133Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -19,7 +19,7 @@
   },
   "title": {
     "romaji": "Lupin III: Walther P-38",
-    "english": "Lupin the Third: Island of Assassins",
+    "english": "Lupin III: Island of Assassins",
     "native": "ルパン三世ワルサーP38",
     "synonyms": [
       "Rupan Sansei: Walusa P38 - In Gedenken an die Walther P38",
@@ -28,28 +28,32 @@
       "Lupin III - Nome in codice Tarantola"
     ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "TV Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 93,
   "aired": {
-    "from": "1997-08-01",
+    "from": "1997-08-01T00:00:00+00:00",
     "to": "1997-08-01"
   },
   "season": "summer",
   "year": 1997,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.36,
+    "malScoredBy": 4451,
+    "malRank": 2777,
+    "malPopularity": 7313,
+    "malMembers": 9997,
+    "malFavorites": 20,
     "anilistScore": 7.1,
     "anilistPopularity": 3316,
     "anilistFavourites": 23,
@@ -70,14 +74,16 @@
   "studios": [
     "Tokyo Movie Shinsha"
   ],
-  "producers": [],
+  "producers": [
+    "VAP"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/1292/poster_image/624ff46a8b5fafd90150f6b14141d3e3.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/6/72201l.jpg",
     "banner": null,
     "color": "#e45d78"
   },
   "trailer": null,
-  "synopsis": "Lupin is framed for the murder of Inspector Zenigata by a mysterious assailant holding a silver-colored Walther P38 pistol Lupin himself once owned. Tracking the true killer leads Lupin to the island of the bloodthirsty Tarantula assassins inside the Devil’s Triangle. After joining the spider-tattooed army against their will, Lupin and his gang make both new friends and enemies as they not only plan to take home the Tarantulas’ massive gold repository for themselves but hunt down the shooter from Lupin’s past. Can Lupin put to rest this demon who haunts his memories with the Walther P38?\n\n(Source: Discotek Media)",
+  "synopsis": "Zenigata arrives at the birthday party of an important politician to investigate a fake Lupin calling card. Lupin shows up as well. Suddenly, masked assassins break in and begin to shoot everything that moves. Zenigata goes after Lupin amidst all the gunfire and corners him in the courtyard of the house. Suddenly, a hand holding a Walther P-38 pops out of a window and shoots Zenigata in the chest. Lupin recognizes the Walther as his own and decides to investigate. The assassins that attacked the party are from a hidden island called the Island of Assassins. The island is kept secret by the help of top government officials from around the world who use the assassins on the island for their own personal gains. There are lots of hidden secrets on the island, however, and Lupin, Goemon, Jigen, and Fujiko find themselves involved in a plot that tears the residents of the island in half. The movie also delves into Lupin's past in his pre-Jigen days. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1412,
@@ -156,17 +162,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:38:09.371Z",
+    "lastFetched": "2026-06-26T17:59:38.001Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

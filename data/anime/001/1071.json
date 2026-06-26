@@ -28,27 +28,31 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Visual novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 26,
   "aired": {
-    "from": "2006-03-29",
+    "from": "2006-03-29T00:00:00+00:00",
     "to": "2006-03-29"
   },
   "season": "spring",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.06,
+    "malScoredBy": 1380,
+    "malRank": 10497,
+    "malPopularity": 10678,
+    "malMembers": 3559,
+    "malFavorites": 2,
     "anilistScore": 5.2,
     "anilistPopularity": 1053,
     "anilistFavourites": 5,
@@ -65,15 +69,17 @@
     "School Life",
     "Present"
   ],
-  "studios": [],
+  "studios": [
+    "Doga Kobo"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/958/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/8/4682l.jpg",
     "banner": null,
     "color": "#93d6f1"
   },
   "trailer": null,
-  "synopsis": "Kawai Haruto belongs to a cinema club to realize his dream to make his own movie. But he is losing his passion of the movie because Hina Yusuke, his best friend as well as a good rival, died suddenly last year. One day, he meets Sendo Mahiro. She asks him to make a movie with her. Also she says that she was at the place where Yusuke died, and that he died because of her. On the other hand, Yusuke’s little sister Hina Asuka blames him for killing her brother. \n(Source: ANN)",
+  "synopsis": "Kawai Haruto belongs to a cinema club to realize his dream to make his own movie. But he is losing his passion of the movie because Hina Yusuke, his best friend as well as a good rival, died suddenly last year. One day, he meets Sendo Mahiro. She asks him to make a movie with her. Also she says that she was at the place where Yusuke died, and that he died because of her. On the other hand, Yusuke’s little sister Hina Asuka blames him for killing her brother. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 363,
@@ -257,17 +263,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:00:36.385Z",
+    "lastFetched": "2026-06-26T17:46:44.065Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

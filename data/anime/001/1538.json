@@ -26,31 +26,35 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 24,
   "episodeLength": 23,
   "aired": {
-    "from": "2006-10-03",
-    "to": "2007-03-18"
+    "from": "2006-10-03T00:00:00+00:00",
+    "to": "2007-03-18T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "02:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.17,
+    "malScoredBy": 18334,
+    "malRank": 3863,
+    "malPopularity": 3759,
+    "malMembers": 47215,
+    "malFavorites": 148,
     "anilistScore": 6.9,
     "anilistPopularity": 8623,
     "anilistFavourites": 96,
-    "anilistTrending": 0,
+    "anilistTrending": 1,
     "kitsuRating": 7.18
   },
   "genres": [
@@ -67,16 +71,20 @@
     "Violence"
   ],
   "studios": [
-    "GONZO"
+    "Gonzo",
+    "AIC"
   ],
-  "producers": [],
+  "producers": [
+    "GDH",
+    "Sotsu Music Publishing"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1379/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/8/75181l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1538-SWBgaU80YPXK.jpg",
     "color": "#1a5de4"
   },
   "trailer": null,
-  "synopsis": "A ceasefire put an end to the long war between the Royal Empire and the Republic of Frost. Three years later, the Empire is still plagued by starvation, pestilence, and soldiers turning into bandits. To aid in the war relief effort, the Empire created the Intelligence Army State Section III, also known as the Pumpkin Scissors.\n\nConsidered a waste of resources by some, and just an instrument of propaganda by others, the Pumpkin Scissors still takes their role in the country's reconstruction seriously. One day their life starts to change when a certain corporal with a mysterious past joins the team.\n\n(Source: Wikipedia)",
+  "synopsis": "Three years ago, the long war between the Royal Empire and the Republic of Frost came to an end. With both nations a long way from recovery, a passionate young woman named Alice L. Malvin leads the Pumpkin Scissors, a unit of the imperial army specializing in war relief.\n\nDuring a mission to assist a village occupied by renegade soldiers, Alice meets Randal Oland, a scarred former soldier with a sordid past and kind heart. Encouraged by the efforts of the Pumpkin Scissors, he joins the team on their mission. During the assault, however, Randal enters a trance-like state prompted by a mysterious blue lantern. As a result, he acquires monstrous strength and decimates the enemy forces.\n\nDespite having witnessed Randal's disturbing transformation, Alice invites him to join her squandrant, confident that his gentle nature will prevail and make him a perfect fit for the Pumpkin Scissors.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
@@ -486,17 +494,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:47:05.639Z",
+    "lastFetched": "2026-06-26T18:01:03.853Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

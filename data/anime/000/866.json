@@ -25,28 +25,32 @@
       "Slayers Movie 5"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Light novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 33,
   "aired": {
-    "from": "2001-12-22",
+    "from": "2001-12-22T00:00:00+00:00",
     "to": "2001-12-22"
   },
   "season": "fall",
   "year": 2001,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.15,
+    "malScoredBy": 10207,
+    "malRank": 4001,
+    "malPopularity": 5417,
+    "malMembers": 21342,
+    "malFavorites": 8,
     "anilistScore": 6.7,
     "anilistPopularity": 4452,
     "anilistFavourites": 26,
@@ -54,6 +58,7 @@
     "kitsuRating": 7.17
   },
   "genres": [
+    "Action",
     "Adventure",
     "Comedy",
     "Fantasy",
@@ -62,16 +67,20 @@
     "Demon"
   ],
   "studios": [
-    "Hal Film Maker"
+    "HAL Film Maker"
   ],
-  "producers": [],
+  "producers": [
+    "Starchild Records",
+    "chara-ani.com",
+    "GANSIS"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/767/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/2/20969l.jpg",
     "banner": null,
     "color": null
   },
   "trailer": null,
-  "synopsis": "Lina and Gourry travel to a seaside town named Acassi, where octopus tentacle is a delicacy. However, the octopus meat carries a curse that dooms the eater to only speak Takogo (octopus language). Amelia, Zelgadiss, and Xelloss all show up, and the main four characters (Lina, Gourry, Ameria, Zelgadiss) get cursed. The octopi enlist the power of a mazoku to get rid of the humans once and for all. The white sorceress Ruma must learn the cure to the curse from her long-lost master in order to save the town. \n(Source: ANN)",
+  "synopsis": "Lina and Gourry travel to a seaside town named Acassi, where octopus tentacle is a delicacy. However, the octopus meat carries a curse that dooms the eater to only speak Takogo (octopus language). Amelia, Zelgadiss, and Xelloss all show up, and the main four characters (Lina, Gourry, Ameria, Zelgadiss) get cursed. The octopi enlist the power of a mazoku to get rid of the humans once and for all. The white sorceress Ruma must learn the cure to the curse from her long-lost master in order to save the town. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 535,
@@ -163,17 +172,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:41:38.586Z",
+    "lastFetched": "2026-06-26T17:43:18.691Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

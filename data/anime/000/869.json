@@ -19,38 +19,42 @@
   },
   "title": {
     "romaji": "Slayers RETURN",
-    "english": null,
+    "english": "Slayers Return",
     "native": "スレイヤーズRETURN",
     "synonyms": [
       "Slayers Movie 2"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Light novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 60,
   "aired": {
-    "from": "1996-08-03",
+    "from": "1996-08-03T00:00:00+00:00",
     "to": "1996-08-03"
   },
   "season": "summer",
   "year": 1996,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.3,
+    "malScoredBy": 11030,
+    "malRank": 3115,
+    "malPopularity": 5232,
+    "malMembers": 23100,
+    "malFavorites": 29,
     "anilistScore": 7,
     "anilistPopularity": 4738,
     "anilistFavourites": 24,
-    "anilistTrending": 1,
+    "anilistTrending": 0,
     "kitsuRating": 7.36
   },
   "genres": [
@@ -62,16 +66,19 @@
     "Action"
   ],
   "studios": [
-    "J.C.STAFF"
+    "J.C.Staff"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Visual",
+    "Kadokawa Shoten"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/770/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/9/34997l.jpg",
     "banner": null,
     "color": "#e47850"
   },
   "trailer": null,
-  "synopsis": "The inhabitants of the village of Biaz, forced to labor in the serivce of the world-domination-happy Zein organization, hires Lina Inverse and Naga The Serpent to drive off the invaders. Lina and Naga agree, lured by stories of Elfin treasure sleeping below Biaz, only to get considerably more trouble -from the Zein and from the treasure - than they ever expected. \n(Source: ANN)",
+  "synopsis": "The inhabitants of the village of Biaz, forced to labor in the serivce of the world-domination-happy Zein organization, hires Lina Inverse and Naga The Serpent to drive off the invaders. Lina and Naga agree, lured by stories of Elfin treasure sleeping below Biaz, only to get considerably more trouble -from the Zein and from the treasure - than they ever expected. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 536,
@@ -178,17 +185,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:42:02.383Z",
+    "lastFetched": "2026-06-26T17:43:23.087Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

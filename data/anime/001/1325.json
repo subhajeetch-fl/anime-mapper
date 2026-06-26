@@ -19,34 +19,39 @@
   },
   "title": {
     "romaji": "Hamelin no Violin Hiki",
-    "english": null,
+    "english": "Violinist of Hamelin",
     "native": "ハーメルンのバイオリン弾き",
     "synonyms": [
-      "Violinist of Hameln (1997)"
+      "Violinist of Hameln (1997)",
+      "Hamelin no Violin Hiki (1997)"
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 25,
   "episodeLength": 23,
   "aired": {
-    "from": "1996-10-02",
-    "to": "1997-03-26"
+    "from": "1996-10-02T00:00:00+00:00",
+    "to": "1997-03-26T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1996,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "17:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.56,
+    "malScoredBy": 1998,
+    "malRank": 7438,
+    "malPopularity": 8153,
+    "malMembers": 7595,
+    "malFavorites": 25,
     "anilistScore": 6.1,
     "anilistPopularity": 2027,
     "anilistFavourites": 16,
@@ -64,15 +69,19 @@
     "Violence",
     "Demon"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Studio Deen"
+  ],
+  "producers": [
+    "Pony Canyon"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1183/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/7/20972l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1325-NljqSsSBPsZg.jpg",
     "color": "#f1c950"
   },
   "trailer": null,
-  "synopsis": "Trouble arises in Staccato one day. Demons show up and start to wreak havoc on the townspeople. The entire country seems to be suffering. The source of the problem is that the \"barrier\" which until now has kept the demons from crossing over to the human world, is weakening. The person who sustains it is losing her strength after holding it up for so many years. That person is Queen Horn of Sforzando. Hell King Bass is trying to break through the barrier and release their \"supreme leader,\" Kestra (Orchestra). One whose power is unparalleled yet is trapped somewhere in the world of the humans.\n(Source: AniDB)",
+  "synopsis": "Trouble arises in Staccato one day. Demons show up and start to wreak havoc on the townspeople. The entire country seems to be suffering. The source of the problem is that the \"barrier\" which until now has kept the demons from crossing over to the human world, is weakening. The person who sustains it is losing her strength after holding it up for so many years. That person is Queen Horn of Sforzando. Hell King Bass is trying to break through the barrier and release their \"supreme leader,\" Kestra (Orchestra). One whose power is unparalleled yet is trapped somewhere in the world of the humans.\n\n(Source: AniDB)",
   "sequence": [
     {
       "malId": 2207,
@@ -526,17 +535,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:23:33.784Z",
+    "lastFetched": "2026-06-26T17:57:04.833Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

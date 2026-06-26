@@ -22,31 +22,36 @@
     "english": null,
     "native": "うる星やつら 春だ、とびだせ！",
     "synonyms": [
+      "Urusei Yatsura Special: It's Spring! Take Off!",
       "Urusei Yatsura: It's Spring! Take Off!"
     ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
-  "episodeCount": 2,
+  "episodeCount": 1,
   "episodeLength": 25,
   "aired": {
-    "from": "1982-03-31",
+    "from": "1982-03-31T00:00:00+00:00",
     "to": "1982-03-31"
   },
   "season": "spring",
   "year": 1982,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.66,
+    "malScoredBy": 2595,
+    "malRank": 6824,
+    "malPopularity": 8626,
+    "malMembers": 6604,
+    "malFavorites": 4,
     "anilistScore": 6.3,
     "anilistPopularity": 2434,
     "anilistFavourites": 16,
@@ -67,12 +72,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1327/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/10/88001l.jpg",
     "banner": null,
     "color": "#f1bb35"
   },
   "trailer": null,
-  "synopsis": "Broadcast between episodes 21 and 22, the Spring special was a 1-hr show with 2 parts. The first part, \"Urusei Yatsura All-Star All-Out Attack!\", was a series of outtakes from the preceding episodes and recaps of the first 21 episodes. The second part, \"The School Excursion! Run, Kunoichi!\", was an original episode, but not part of the ongoing series.",
+  "synopsis": "Urusei Yatsura All-Star Daishingeki!\nAs Ataru Moroboshi's mother recalls, her relatively peaceful middle-class lifestyle ended about six months ago, when alien invaders known as the Oni appeared on Earth. Their leader, Mr. Invader, offered to spare the planet if a randomly selected human could defeat his daughter Lum in a game of tag. As luck would have it, the fate of the planet rested on the shoulders of the housewife's troublesome son. In a turn of events, the challenge ended with young Ataru's victory—and with his royal opponent becoming an inadvertent addition to the Moroboshi household.\n\nAtaru's mother reflects on all the characters her son has been involved with—friends and foes, both human and extraterrestrial—and the stress their antics have caused her. Unsure whether to admire her son's fortitude or consider him pathetic, Mother Morobashi can only muse if her family will ever experience peace and quiet again.\n\nShuugaku Ryokou!: Kunoichi yo Hashire\nKaede is a young ninja, or kunoichi, who doubts her current line of work. Her elderly and irate master, Yatsude, is intent on her remaining a ninja; and to make matters worse, Kaede has further infuriated her master by losing a confidential scroll in the woods.\n\nMeanwhile, Ataru finds his school excursion to the ancient capital of Nara tedious. However, stumbling upon the scroll and gaining Kaede's attention makes his field trip a little more interesting.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 1293,
@@ -90,17 +95,15 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-26T13:41:24.088Z",
+    "lastFetched": "2026-06-26T18:00:08.820Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

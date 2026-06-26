@@ -19,37 +19,42 @@
   },
   "title": {
     "romaji": "Lupin III: Lupin Ansatsu Shirei",
-    "english": "Lupin the 3rd: Voyage to Danger",
+    "english": "Lupin III: Voyage to Danger",
     "native": "ルパン三世ルパン暗殺指令",
     "synonyms": [
       "Rupan Sansei: Rupan Ansatsu Shirei",
+      "Lupin III: Orders To Assassinate Lupin",
       "Lupin III: Voyage to Danger",
       "Lupin III - Viaggio nel pericolo",
       "Lupin III - Il pericolo è il mio mestiere"
     ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "TV Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 90,
   "aired": {
-    "from": "1993-07-23",
+    "from": "1993-07-23T00:00:00+00:00",
     "to": "1993-07-23"
   },
   "season": "summer",
   "year": 1993,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.96,
+    "malScoredBy": 4083,
+    "malRank": 4963,
+    "malPopularity": 7480,
+    "malMembers": 9440,
+    "malFavorites": 6,
     "anilistScore": 6.7,
     "anilistPopularity": 3188,
     "anilistFavourites": 16,
@@ -57,22 +62,24 @@
     "kitsuRating": 7.02
   },
   "genres": [
+    "Action",
     "Adventure",
     "Comedy",
     "Mystery",
-    "Action",
     "Crime",
     "Thievery"
   ],
-  "studios": [],
+  "studios": [
+    "Tokyo Movie Shinsha"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/1291/poster_image/ba91382553250835a1b26bb65c654ee0.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1940/146707l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1438-dyFthkvzRqVf.jpg",
     "color": "#e43535"
   },
   "trailer": null,
-  "synopsis": "Someone sent orders to assassinate Lupin! Will he survive or die trying!?\n\nAfter the intrepid Inspector Zenigata is reassigned from the Lupin case to destroying the international weapon smugglers Shot Shell, master thief Lupin the Third decides to help the old man get his old job back. To infiltrate Shot Shell, the gang \"borrows\" a nuclear Russian submarine and enlists the help of a nuclear physicist named Karen, who keeps suspiciously eyeing Lupin's partner Jigen. If that weren't enough, Zenigata's Interpol successor is an assassin with orders to take out the entire Lupin Gang!\n\n(Source: Discotek Media)",
+  "synopsis": "Inspector Zenigata has been removed from the Lupin case which leaves him despondent, and he ends up drinking with Lupin &amp; Jigen. Lupin decides that he and his gang should work with Zenigata to solve his new case, investigating a group of arms dealers known as Shot Shell. Lupin gathers his partners together (Jigen, Goemon, &amp; Fujiko), and with Zenegata they steal a Russian submarine. They kidnap a scientist named Karen Korinsky to help them operate the sub, and also to protect her from Shot Shell. Meanwhile the ICPO assigns a man named Keith Hayden to the Lupin case, and unlike Zenigata he wants Lupin and his group dead. Where ever Lupin and friends go, Keith follows, as the officer attempts to pick them off one by one. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1412,
@@ -211,17 +218,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:37:57.705Z",
+    "lastFetched": "2026-06-26T17:59:35.832Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

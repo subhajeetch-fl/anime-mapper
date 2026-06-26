@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": 24,
   "aired": {
-    "from": "1999-04-02",
-    "to": "1999-10-01"
+    "from": "1999-04-02T00:00:00+00:00",
+    "to": "1999-10-01T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1999,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:15",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.64,
+    "malScoredBy": 4964,
+    "malRank": 6896,
+    "malPopularity": 5829,
+    "malMembers": 17621,
+    "malFavorites": 87,
     "anilistScore": 6.4,
     "anilistPopularity": 5343,
     "anilistFavourites": 84,
@@ -52,14 +56,14 @@
     "kitsuRating": 6.53
   },
   "genres": [
-    "Action",
     "Adventure",
-    "Comedy",
     "Drama",
     "Horror",
-    "Mecha",
     "Mystery",
     "Sci-Fi",
+    "Action",
+    "Comedy",
+    "Mecha",
     "Psychological",
     "Science Fiction",
     "Earth",
@@ -74,14 +78,16 @@
   "studios": [
     "Sunrise"
   ],
-  "producers": [],
+  "producers": [
+    "Victor Entertainment"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1017/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1157/91069l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1136-X1Qbphy3wRjV.jpg",
     "color": "#3593e4"
   },
   "trailer": null,
-  "synopsis": "A deadly virus known as \"Algernon\" has attacked humanity with vicious meaning. At the forefront of the battle is the mystifying Akamatsu Industries - disguised as a heavy machine factory in Tokyo, this undercover organization uses neural enhanced weapons known as NeuroNoids to battle Algernon. Also helping with their secret efforts is the mysterious mutant who is only known as \"Betterman\".\n(Source: ANN)",
+  "synopsis": "Keita Aono is an ordinary high school student who loves to chat with his friends about military technology and the girls in their class. One day, Keita is surprised and delighted by a new transfer student in his class, his childhood friend Hinoki Sai. But when Keita tries to catch up with Hinoki after school, he accidentally wanders into Bottom World—an underground amusement park whose opening was canceled due to an unexplained tragedy.\n\nAs Keita explores the area, he eventually finds Hinoki in the cockpit of a strange robot. She is here on behalf of Akamatsu Industries, a company contracted with the secretive international organization Mode Warp to investigate strange cases of violence worldwide. After joining Hinoki in the robot, the pair attempt to defend themselves against the various attractions of Bottom World, which have come to life and become violent. However, they are unable to escape until a man with transforming powers—dubbed \"Betterman\"—joins their struggle. Faced with an enemy he does not understand and a slew of mysterious new technology, Keita joins Akamatsu Industries in a fight against a force they call \"Algernon.\"\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 52384,
@@ -550,17 +556,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:07:02.937Z",
+    "lastFetched": "2026-06-26T17:48:00.253Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -27,27 +27,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Light novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 23,
   "episodeLength": 25,
   "aired": {
-    "from": "1999-10-02",
-    "to": "2000-03-26"
+    "from": "1999-10-02T00:00:00+00:00",
+    "to": "2000-03-25T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1999,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.78,
+    "malScoredBy": 7870,
+    "malRank": 5991,
+    "malPopularity": 5508,
+    "malMembers": 20332,
+    "malFavorites": 24,
     "anilistScore": 6.5,
     "anilistPopularity": 3944,
     "anilistFavourites": 34,
@@ -62,15 +66,20 @@
     "Fantasy World",
     "Action"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "J.C.Staff"
+  ],
+  "producers": [
+    "Kadokawa Shoten",
+    "TBS"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/908/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/8/61841l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1018-p2R38KMAnOYM.jpg",
     "color": "#e4bb5d"
   },
   "trailer": null,
-  "synopsis": "Orphen and his gang has set out on an all new adventure with many monsters to battle and no peace and quiet. But a new friend has joined the group. Her name Lycorus who was sent to find Orphen. Many mysterious shadows are overhanging over head. \n(Source: ANN)",
+  "synopsis": "Orphen and his gang has set out on an all new adventure with many monsters to battle and no peace and quiet. But a new friend has joined the group. Her name Lycorus who was sent to find Orphen. Many mysterious shadows are overhanging over head. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1017,
@@ -554,17 +563,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:55:28.334Z",
+    "lastFetched": "2026-06-26T17:45:54.175Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

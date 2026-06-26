@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 28,
   "aired": {
-    "from": "2006-08-25",
+    "from": "2006-08-25T00:00:00+00:00",
     "to": "2006-08-25"
   },
   "season": "summer",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.58,
+    "malScoredBy": 3791,
+    "malRank": 7338,
+    "malPopularity": 8042,
+    "malMembers": 7851,
+    "malFavorites": 3,
     "anilistScore": 6,
     "anilistPopularity": 1861,
     "anilistFavourites": 9,
@@ -52,8 +56,8 @@
     "kitsuRating": 6.88
   },
   "genres": [
-    "Mecha",
     "Sci-Fi",
+    "Mecha",
     "Military",
     "Post Apocalypse",
     "Power Suit",
@@ -65,15 +69,19 @@
     "Alien",
     "Future"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "J.C.Staff"
+  ],
+  "producers": [
+    "Konami"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1326/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/2/78405l.jpg",
     "banner": null,
     "color": "#1a93d6"
   },
   "trailer": null,
-  "synopsis": "In the near future, Earth is at war with aliens called Worms. The war leaves the population of Earth decimated, with young men the main casualties. The Worms were beaten back but their re-emergence heralds the creation of a mecha unit called the Sonic Divers, piloted by 3 young girls to counter this threat.\n(Source: ANN)",
+  "synopsis": "After the first war between humanity and the alien species known as Worms, the Earth is a shadow of its former self, with many landmasses submerged and countless human lives lost. When the Worms return, nearly every able body is drafted to join the desperate fight. Otoha Sakurano, Eika Ichijou, and Karen Sonomiya are three young girls tasked with forming an elite unit of \"Sonic Divers\": soldiers using innovative new exoskeleton technology to enhance their combat. When their covert carrier is viciously ambushed, the girls must suit up and prove that their unit has what it takes to protect humanity.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 2604,
@@ -152,17 +160,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:41:12.628Z",
+    "lastFetched": "2026-06-26T18:00:06.665Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

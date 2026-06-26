@@ -27,31 +27,35 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 51,
   "episodeLength": 25,
   "aired": {
-    "from": "1987-04-06",
-    "to": "1988-03-28"
+    "from": "1987-04-06T00:00:00+00:00",
+    "to": "1988-03-28T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1987,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.91,
+    "malScoredBy": 26420,
+    "malRank": 884,
+    "malPopularity": 2550,
+    "malMembers": 92028,
+    "malFavorites": 1118,
     "anilistScore": 7.6,
     "anilistPopularity": 26082,
     "anilistFavourites": 629,
-    "anilistTrending": 0,
+    "anilistTrending": 1,
     "kitsuRating": 7.78
   },
   "genres": [
@@ -71,14 +75,16 @@
   "studios": [
     "Sunrise"
   ],
-  "producers": [],
+  "producers": [
+    "Yomiuri Telecasting"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1316/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/8/20587l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1470-fURymWaaBt33.jpg",
     "color": "#e45d93"
   },
   "trailer": null,
-  "synopsis": " Ryo Saeba works the streets of Tokyo as the City Hunter. He's a \"sweeper\" and with his sidekick Kaori Makimura, he keeps the city clean. People hire the City Hunter to solve their dangerous problems, which he does with a Colt Python. When Ryo's not working on a case, he's working on getting the ladies, and Kaori must keep him in check with her trusty 10 kg hammer. \n(Source: ANN)",
+  "synopsis": "\"City Hunter\" is a notorious contractor group with the call sign \"XYZ.\" No matter the job, they will take it, cleaning up the scum on the streets of Tokyo. The key member of City Hunter is Ryou Saeba; armed with his trusty Colt Python and pinpoint accuracy, he works alongside willful tomboy Kaori Makimura.\n\nTogether they solve tough cases and tackle the numerous dangers that accompany their trade head-on. However, when he's not out hunting crooks and villains, Ryou finds pleasure in chasing beautiful ladies with only Kaori and her one hundred-ton hammer to keep him in check. From pickpockets and arms dealers to crime syndicates, nothing can stand in the way of Ryou Saeba when he takes aim at his next mission.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 1471,
@@ -993,17 +999,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:40:06.599Z",
+    "lastFetched": "2026-06-26T17:59:55.674Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

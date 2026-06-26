@@ -29,28 +29,32 @@
       "Ostatni strażnik magii"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 85,
   "aired": {
-    "from": "2004-12-04",
+    "from": "2004-12-04T00:00:00+00:00",
     "to": "2004-12-04"
   },
   "season": "fall",
   "year": 2004,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.81,
+    "malScoredBy": 9622,
+    "malRank": 5850,
+    "malPopularity": 5486,
+    "malMembers": 20573,
+    "malFavorites": 22,
     "anilistScore": 6.2,
     "anilistPopularity": 3980,
     "anilistFavourites": 30,
@@ -71,14 +75,17 @@
     "OLM",
     "Character Plan"
   ],
-  "producers": [],
+  "producers": [
+    "Shogakukan Productions",
+    "Character Plan"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/784/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/6/23992l.jpg",
     "banner": null,
     "color": "#43bbe4"
   },
   "trailer": null,
-  "synopsis": "Blade of the Phantom Master takes place in the fictional land of Jushin, modeled after feudal Korea. In Jushin, there once lived secret government agents called the amheng osa (or angyō onshi in the Japanese version), who traveled the countryside in disguise. They were charged by the king with finding and punishing corrupt government officials, and bringing justice to the country's citizens.\n \nAt the start of the series, Jushin has been destroyed, fractured into numerous fiefdoms and kingdoms, many of which are ruled by corrupt and tyrannical warlords. Blade of the Phantom Master follows the adventures of one of the remaining amheng osa, Munsu, as he continues to wander the countryside and deals with the chaos caused by Jushin's fall.\n\n(Source: Wikipedia)",
+  "synopsis": "After wandering through the desert for days, a bitter warrior named Munsu is lost and unable to continue. His life is unexpectedly saved by Mon-ryon, a young man who dreams of becoming a secret agent for Jushin, a once-great country that was recently destroyed. Mon-ryon's goal is to save his girlfriend, Chunhyan, a born fighter who is held captive by the evil Lord Byonand. Then, from out of nowhere, blood begins trickling from his chest. He has been fatally wounded by the Sarinjas, a cannibalistic breed of desert goblin. The quick-thinking Munsu convinces these beasts to spare his life, in exchange for the peaceful handover of Mon-ryon's appetizing corpse. Although skeptical of Mon-ryon's motives, Munsu sets out to continue the mission that the young idealist described. Accompanied by an army of ghost troops, unleashed using the powers of Angyo Onshi, Munsu liberates Chunhyan. After visiting her boyfriend's final resting place, she declares herself Munsu's bodyguard and, together, they set out on a mission to punish those who stripped Jushin of its original glory. \n\n(Source: AniDB)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -128,17 +135,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:43:14.433Z",
+    "lastFetched": "2026-06-26T17:43:34.103Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

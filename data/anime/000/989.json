@@ -27,28 +27,32 @@
       "Shinshaku Sanada Juuyuushi"
     ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "TV Special",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 51,
   "aired": {
-    "from": "2005-01-29",
+    "from": "2005-01-29T00:00:00+00:00",
     "to": "2005-01-29"
   },
   "season": "winter",
   "year": 2005,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 5.95,
+    "malScoredBy": 284,
+    "malRank": 11093,
+    "malPopularity": 14612,
+    "malMembers": 1200,
+    "malFavorites": 2,
     "anilistScore": 4.7,
     "anilistPopularity": 355,
     "anilistFavourites": 1,
@@ -68,15 +72,19 @@
     "Past",
     "Samurai"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "T.P.O"
+  ],
+  "producers": [
+    "Magic Capsule"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/879/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/3/9393l.jpg",
     "banner": null,
     "color": "#e43593"
   },
   "trailer": null,
-  "synopsis": "In the Fifth Year of the Keicho era, the Tokugawa clan sought to solidify their control of Japan. Hidetada Tokugawa has come to the doorsteps of Ueda Castle with the intentions of having the Sanada clan open its doors to him. But the Sanada and their retainers have other plans... \n(Source: ANN)",
+  "synopsis": "In the Fifth Year of the Keicho era, the Tokugawa clan sought to solidify their control of Japan. Hidetada Tokugawa has come to the doorsteps of Ueda Castle with the intentions of having the Sanada clan open its doors to him. But the Sanada and their retainers have other plans... \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 988,
@@ -125,17 +133,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:52:01.098Z",
+    "lastFetched": "2026-06-26T17:45:04.845Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

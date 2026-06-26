@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 13,
   "episodeLength": null,
   "aired": {
-    "from": "2001-04-05",
-    "to": "2001-06-28"
+    "from": "2001-04-05T00:00:00+00:00",
+    "to": "2001-06-28T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2001,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.32,
+    "malScoredBy": 5923,
+    "malRank": 8946,
+    "malPopularity": 5978,
+    "malMembers": 16424,
+    "malFavorites": 18,
     "anilistScore": 5.8,
     "anilistPopularity": 3648,
     "anilistFavourites": 22,
@@ -53,8 +57,8 @@
   },
   "genres": [
     "Adventure",
-    "Mecha",
     "Sci-Fi",
+    "Mecha",
     "Space",
     "Science Fiction",
     "Genetic Modification",
@@ -71,16 +75,20 @@
     "Disaster"
   ],
   "studios": [
-    "Satelight"
+    "Satelight",
+    "Studio Gazelle"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Visual",
+    "Dentsu"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/809/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/8/76287l.jpg",
     "banner": null,
     "color": null
   },
   "trailer": null,
-  "synopsis": "In the 21st century mankind was on the brink of destruction. Through genetic engineering however they eradicated such feelings as love and the desire for power. Since women are naturally less agressive than men, women to man ratio was set to 9:1. Now people are engineered to have skills that others view as being necessary. There is a giant ring that now orbits the earth, that sits there and relays information back to an alien race that sent it. Now a team of five women will try to eradicate the alien threat. \n(Source: ANN)",
+  "synopsis": "In the 21st century mankind was on the brink of destruction. Through genetic engineering however they eradicated such feelings as love and the desire for power. Since women are naturally less agressive than men, women to man ratio was set to 9:1. Now people are engineered to have skills that others view as being necessary. There is a giant ring that now orbits the earth, that sits there and relays information back to an alien race that sent it. Now a team of five women will try to eradicate the alien threat. \n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -325,17 +333,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:46:01.343Z",
+    "lastFetched": "2026-06-26T17:44:02.734Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

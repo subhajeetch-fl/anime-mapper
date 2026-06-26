@@ -23,28 +23,32 @@
     "native": "魔法少女プリティサミー(1996)",
     "synonyms": []
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "Special",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 7,
   "episodeLength": 3,
   "aired": {
-    "from": "1997-01-01",
+    "from": "1997-01-01T00:00:00+00:00",
     "to": "1997-01-01"
   },
   "season": null,
   "year": null,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG - Children",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.26,
+    "malScoredBy": 606,
+    "malRank": 9347,
+    "malPopularity": 12490,
+    "malMembers": 2152,
+    "malFavorites": 1,
     "anilistScore": 5.4,
     "anilistPopularity": 684,
     "anilistFavourites": 6,
@@ -60,10 +64,16 @@
     "Parody",
     "Magical Girl"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "AIC"
+  ],
+  "producers": [
+    "APPP",
+    "Pioneer LDC",
+    "Studio Tulip"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1349/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/4/14618l.jpg",
     "banner": null,
     "color": "#f1d650"
   },
@@ -86,17 +96,15 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-26T13:43:46.486Z",
+    "lastFetched": "2026-06-26T18:00:30.830Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

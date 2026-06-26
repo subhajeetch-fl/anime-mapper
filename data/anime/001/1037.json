@@ -26,27 +26,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Mixed media",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 6,
   "episodeLength": null,
   "aired": {
-    "from": "2003-05-08",
-    "to": "2003-06-13"
+    "from": "2003-05-09T00:00:00+00:00",
+    "to": "2003-06-13T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2003,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.02,
+    "malScoredBy": 3011,
+    "malRank": 10720,
+    "malPopularity": 7239,
+    "malMembers": 10267,
+    "malFavorites": 19,
     "anilistScore": 5.5,
     "anilistPopularity": 1757,
     "anilistFavourites": 16,
@@ -66,14 +70,18 @@
   "studios": [
     "Tokyo Kids"
   ],
-  "producers": [],
+  "producers": [
+    "Lantis",
+    "Kids Station",
+    "Arts Pro"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/927/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/11/23705l.jpg",
     "banner": null,
     "color": "#50bbe4"
   },
   "trailer": null,
-  "synopsis": "The seal which was imprisoning the fallen angels, Kirin no Yuda and Houou no Ruka, is broken and the two decide to get revenge on the God who had cast them to Hell by getting rid of the Heavens that had once been their home. Soon the guardian angels on Earth begin disappearing, and no one in Heaven can explain the happenings. But there is a sense of a vengeful animal spirit at work, and so the four Saint Beasts are called upon to investigate.\nThe 4 Gods of Beasts attempt to rescue the guardian angels, as well as to find out what this evil animal spirit is...\n(Source: Wikipedia)",
+  "synopsis": "The seal which was imprisoning the fallen angels, Kirin no Yuda and Houou no Ruka, is broken and the two decide to get revenge on the God who had cast them to Hell by getting rid of the Heavens that had once been their home. Soon the guardian angels on Earth begin disappearing, and no one in Heaven can explain the happenings. But there is a sense of a vengeful animal spirit at work, and so the four Saint Beasts are called upon to investigate.\n\nThe 4 Gods of Beasts attempt to rescue the guardian angels, as well as to find out what this evil animal spirit is...\n\n(Source: Wikipedia)",
   "sequence": [
     {
       "malId": 682,
@@ -208,17 +216,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:57:27.500Z",
+    "lastFetched": "2026-06-26T17:46:13.239Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

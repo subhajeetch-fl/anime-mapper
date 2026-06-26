@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 32,
   "episodeLength": 23,
   "aired": {
-    "from": "2000-02-05",
-    "to": "2000-09-23"
+    "from": "2000-02-05T00:00:00+00:00",
+    "to": "2000-09-23T00:00:00+00:00"
   },
   "season": "winter",
   "year": 2000,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "18:28",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG - Children",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.96,
+    "malScoredBy": 8674,
+    "malRank": 4969,
+    "malPopularity": 5779,
+    "malMembers": 17927,
+    "malFavorites": 90,
     "anilistScore": 6.5,
     "anilistPopularity": 3408,
     "anilistFavourites": 52,
@@ -59,15 +63,20 @@
     "Science Fiction",
     "Angst"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [
+    "TV Asahi",
+    "Toei Advertising"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1018/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/4/87702l.jpg",
     "banner": null,
     "color": "#e4865d"
   },
   "trailer": null,
-  "synopsis": "In the world of Mushrambo, human life has all but come to an end. After a deadly virus threatened the extinction of mankind, a new race called the Enterrans was created to preserve life on Earth. However, relations between the Enterrans and their creators did not remain peaceful. Soon a war broke out with the Enterrans fighting against the humans and their robots. Ultimately the Enterrans were the victors of this conflict, renaming Earth as Enterra in honor of their victory.\nBefore the last vestiges of humanity fell, one of the few remaining scientists put his daughter, Yakumo Shindou, into a sleep chamber. His hope was that his daughter would one day reawaken and find the human sanctuary known as Shinzo, reviving humanity and restoring peace between humans and Enterrans. Centuries have passed since the war; Yakumo now awakens and meets an Enterran named Mashura who pledges to assist in her quest. Also joined by the Enterrans Sago and Kutal, the group must now work to locate Yakumo's missing memories and locate Shinzo. But not every Enterran is as kind as Yakumo's new friends and some are prepared to commit any atrocity to prevent the return of humanity.",
+  "synopsis": "In the world of Mushrambo, human life has all but come to an end. After a deadly virus threatened the extinction of mankind, a new race called the Enterrans was created to preserve life on Earth. However, relations between the Enterrans and their creators did not remain peaceful. Soon a war broke out with the Enterrans fighting against the humans and their robots. Ultimately the Enterrans were the victors of this conflict, renaming Earth as Enterra in honor of their victory.\n\nBefore the last vestiges of humanity fell, one of the few remaining scientists put his daughter, Yakumo Shindou, into a sleep chamber. His hope was that his daughter would one day reawaken and find the human sanctuary known as Shinzo, reviving humanity and restoring peace between humans and Enterrans. Centuries have passed since the war; Yakumo now awakens and meets an Enterran named Mashura who pledges to assist in her quest. Also joined by the Enterrans Sago and Kutal, the group must now work to locate Yakumo's missing memories and locate Shinzo. But not every Enterran is as kind as Yakumo's new friends and some are prepared to commit any atrocity to prevent the return of humanity.",
   "sequence": [
     {
       "malId": 4961,
@@ -596,17 +605,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:07:29.818Z",
+    "lastFetched": "2026-06-26T17:48:02.433Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -27,27 +27,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 12,
   "episodeLength": 26,
   "aired": {
-    "from": "2005-05-07",
-    "to": "2005-07-23"
+    "from": "2005-05-07T00:00:00+00:00",
+    "to": "2005-07-23T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2005,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.04,
+    "malScoredBy": 312,
+    "malRank": 10621,
+    "malPopularity": 12578,
+    "malMembers": 2103,
+    "malFavorites": 2,
     "anilistScore": 4.8,
     "anilistPopularity": 562,
     "anilistFavourites": 4,
@@ -68,15 +72,21 @@
     "Swordplay",
     "Past"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Group TAC",
+    "G&G Direction"
+  ],
+  "producers": [
+    "G&G Entertainment",
+    "T.P.O"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/878/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/13/78564l.jpg",
     "banner": null,
     "color": "#e4785d"
   },
   "trailer": null,
-  "synopsis": "In the Fifth Year of the Keicho era, the Tokugawa clan sought to solidify their control of Japan. Hidetada Tokugawa has come to the doorsteps of Ueda Castle with the intentions of having the Sanada clan open its doors to him. But the Sanada and their retainers have other plans...\n(Source: ANN)",
+  "synopsis": "In the Fifth Year of the Keicho era, the Tokugawa clan sought to solidify their control of Japan. Hidetada Tokugawa has come to the doorsteps of Ueda Castle with the intentions of having the Sanada clan open its doors to him. But the Sanada and their retainers have other plans...\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 989,
@@ -305,17 +315,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:51:49.355Z",
+    "lastFetched": "2026-06-26T17:45:02.649Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

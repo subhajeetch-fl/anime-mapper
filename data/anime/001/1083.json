@@ -26,27 +26,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 13,
   "episodeLength": 24,
   "aired": {
-    "from": "2003-04-05",
-    "to": "2003-06-28"
+    "from": "2003-04-06T00:00:00+00:00",
+    "to": "2003-06-29T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2003,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:55",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.31,
+    "malScoredBy": 1000,
+    "malRank": 9039,
+    "malPopularity": 9689,
+    "malMembers": 4838,
+    "malFavorites": 4,
     "anilistScore": 5.9,
     "anilistPopularity": 1704,
     "anilistFavourites": 15,
@@ -66,14 +70,18 @@
   "studios": [
     "A.C.G.T."
   ],
-  "producers": [],
+  "producers": [
+    "TV Tokyo",
+    "OB Planning",
+    "Shogakukan Productions"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/968/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1887/136211l.jpg",
     "banner": null,
     "color": "#e47828"
   },
   "trailer": null,
-  "synopsis": "Though seemingly unconnected, the characters in HUMAN CROSSING all have something in common. They are dealing with the sometimes joyous, but often horrific realities of everyday life. Set in modern day Japan, this compilation of short stories explores the lives of people from all walks of life. The animation used here is subtle, with realistic renderings that fully express the range of emotions experienced by the film`s characters. HUMAN CROSSING taps into the dramatic potential of reality, focusing on the isolated, sometimes lonely nature of urban life. Ultimately, however, the film suggests that perhaps there is an inter-connectedness between people that binds even the most disparate strangers together.\n(Source: AniDB)",
+  "synopsis": "Families, husbands and wives, lovers and ordinary people. Dramas that emerge from life's human crossroads... Ordinary people muddling through life and intersect with one another in random ways. Like people walking along road crossings in different directions with no apparent destination in sight.\n\nHuman Crossing is a realistic portrayal of everyday people in modern Japan with all its beauty and ugliness. Human Crossing examines the lives of a boxer whose dark past is rekindled by his estranged mother in \"The Wound\", an idealistic lawyer who fights for an underprivileged young mother in \"The 25th Hour\", a workaholic businessman who rediscovers what's most important in life in \"A Promise\", and an independent woman who reunites with her deadbeat father in \"Direction.\"\n\nHuman Crossing is a collection of vignettes about hope, a reminder of the small victories one can achieve amid the vicissitudes of life. \n\n(Source: Geneon, edited)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -273,17 +281,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:01:59.240Z",
+    "lastFetched": "2026-06-26T17:46:59.445Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -19,36 +19,41 @@
   },
   "title": {
     "romaji": "Meitantei Conan: Baker Street no Bourei",
-    "english": "Case Closed: The Phantom of Baker Street",
+    "english": "Case Closed Movie 06: The Phantom of Baker Street",
     "native": "名探偵コナン　ベイカー街(ストリート)の亡霊",
     "synonyms": [
+      "Detective Conan Movie 06: The Phantom of Baker Street",
       "Meitantei Conan Movie 06: Baker Street no Bourei",
       "Detektiv Conan: Das Phantom der Baker Street",
       "Detective Conan Movie 06: Il fantasma di Baker Street"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 100,
   "aired": {
-    "from": "2002-04-20",
+    "from": "2002-04-20T00:00:00+00:00",
     "to": "2002-04-20"
   },
   "season": "spring",
   "year": 2002,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 8.3,
+    "malScoredBy": 50925,
+    "malRank": 325,
+    "malPopularity": 2668,
+    "malMembers": 85896,
+    "malFavorites": 299,
     "anilistScore": 8,
     "anilistPopularity": 15414,
     "anilistFavourites": 297,
@@ -69,14 +74,21 @@
   "studios": [
     "TMS Entertainment"
   ],
-  "producers": [],
+  "producers": [
+    "Yomiuri Telecasting",
+    "TOHO",
+    "Nippon Television Network",
+    "Shogakukan",
+    "Audio Planning U",
+    "Shogakukan Productions"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1219/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1400/94320l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1365-o7WI3BxstabV.jpg",
     "color": "#e48628"
   },
   "trailer": null,
-  "synopsis": "Conan was invited to a party with many other guests. They were there to test a new virtual game system, when a murder mystery occured. Now Conan must go into the game system to figure out who the murderer is with the help of the famous book character Sherlock Holmes. The lives of 49 kids testing the game are in his hands.\n(Source: ANN)",
+  "synopsis": "The latest innovation in virtual reality gaming is set for a private showcase, with the children of Japan's elite given the opportunity to playtest it. Unfortunately, their carefree fun is cut short when a company employee is found murdered, his dying message pointing to a clue hidden within the game's historical setting.\n\nAlong with the Detective Boys and Ran Mouri, Conan Edogawa enters the game to solve this mystery and ensure the perpetrator is caught. But once they load in, an artificial intelligence named Noah's Ark imprisons them and the other children within. To escape and bring the murderer to justice, Conan and company must navigate a simulated 19th-century London and track down the infamous Jack the Ripper—with the lives of 50 innocent children depending on them.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 235,
@@ -155,17 +167,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:27:36.057Z",
+    "lastFetched": "2026-06-26T17:57:48.955Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

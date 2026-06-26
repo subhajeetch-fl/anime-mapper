@@ -24,39 +24,43 @@
     "synonyms": []
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": 24,
   "aired": {
-    "from": "2003-10-04",
-    "to": "2004-04-04"
+    "from": "2003-10-05T00:00:00+00:00",
+    "to": "2004-04-11T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2003,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.1,
+    "malScoredBy": 3719,
+    "malRank": 4251,
+    "malPopularity": 6279,
+    "malMembers": 14406,
+    "malFavorites": 53,
     "anilistScore": 6.6,
     "anilistPopularity": 3420,
     "anilistFavourites": 36,
-    "anilistTrending": 1,
+    "anilistTrending": 0,
     "kitsuRating": 7.14
   },
   "genres": [
     "Action",
+    "Adventure",
     "Drama",
     "Sci-Fi",
     "Space",
-    "Adventure",
     "Future",
     "Space Travel",
     "Other Planet",
@@ -67,16 +71,21 @@
     "Space Opera"
   ],
   "studios": [
+    "Planet",
     "Studio Kyuuma"
   ],
-  "producers": [],
+  "producers": [
+    "Ginga Ya",
+    "Studio Kyuuma",
+    "Trilogy Future Studio"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1336/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/6/39821l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1490-7x3Q1f4axkSb.jpg",
     "color": null
   },
   "trailer": null,
-  "synopsis": "The story begins on planet Destiny, which claimed to be where the center of the Universe is, where all the terminals of \"The Galaxy Railways\" are gathered. The main character, Yuuki Manabu (20 years old), carrying on his dead Father and Brother's will, joined SDF (Space Defense Force) to protect the safety of the Galaxy Railways. SDF, in order to uphold the reputation of maintaining the best transportation schedules within the Universe, deals with accidents, natural disasters, rescue operations, space pirates along all lines of the railway. Layla Destiny Shura is a mysterious beauty unifying SDF and all lines on The Galaxy Railways.\n\nShe possesses the ability to see the destiny of planets, human beings and living things. Even though possessing such powers, she, being a \"Guardian of Destiny\", is unable to tell passengers leaving this station what difficulties lies ahead of them. However, appearances of those who uses evil powers to change the destinies of these travelers triggers another of her hidden ability. \"Destiny is changed by the individual's oneself. Tomorrow's happiness is grabbed by the individual's own hands.\" In what manner will Yuuki's destiny be seen by Layla? And, how will Yuuki deal with his destiny amidst the greatest crisis approaching The Galaxy Railways?\n\n(Source: AniDB)",
+  "synopsis": "In the distant future, trains are no longer bound by their physical tracks. Instead, they take to the skies and travel across the universe on the Galaxy Railways, transporting mankind from planet to planet. However, the Galaxy Railways are no safer than traditional trains: criminals, terrorists, and vile aliens always find a way to stir up trouble. \n\nManabu Yuuki, a rash and hot-headed man, is the latest addition to the Galaxy Railways' elite Space Defence Force (SDF). These brave men and women are responsible for protecting the railways and responding to any unprecedented danger, risking their lives to protect the innocent from evil. But as this drama unfolds and the SDF's greatest crisis draws nearer, Manabu must truly learn what it means to be a member of the SDF before it is too late.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 2717,
@@ -498,17 +507,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:42:08.383Z",
+    "lastFetched": "2026-06-26T18:00:15.453Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

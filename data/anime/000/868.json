@@ -19,34 +19,38 @@
   },
   "title": {
     "romaji": "Slayers Great",
-    "english": null,
+    "english": "Slayers Great",
     "native": "スレーヤーズぐれえと",
     "synonyms": [
       "Slayers Movie 3"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Light novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 59,
   "aired": {
-    "from": "1997-08-02",
+    "from": "1997-08-02T00:00:00+00:00",
     "to": "1997-08-02"
   },
   "season": "summer",
   "year": 1997,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.32,
+    "malScoredBy": 10665,
+    "malRank": 2999,
+    "malPopularity": 5303,
+    "malMembers": 22430,
+    "malFavorites": 19,
     "anilistScore": 7,
     "anilistPopularity": 4531,
     "anilistFavourites": 28,
@@ -62,16 +66,19 @@
     "Action"
   ],
   "studios": [
-    "J.C.STAFF"
+    "J.C.Staff"
   ],
-  "producers": [],
+  "producers": [
+    "TV Tokyo",
+    "SoftX"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/769/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/4/13097l.jpg",
     "banner": null,
     "color": "#d61a1a"
   },
   "trailer": null,
-  "synopsis": "Laia Einburg wants for her father Galia, who is a talented golom maker, and her equally ambitious brother Huey to end a long running feud. But her luck changes for the worse when Lina Inverse and Naga the Serpent save Laia from a rampaging golem. \n(Source: ANN)",
+  "synopsis": "Laia Einburg wants for her father Galia, who is a talented golem maker, and her equally ambitious brother Huey to end a long running feud. But her luck changes for the worse when Lina Inverse and Naga the Serpent save Laia from a rampaging golem. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 869,
@@ -178,17 +185,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:41:50.809Z",
+    "lastFetched": "2026-06-26T17:43:20.898Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -19,32 +19,41 @@
   },
   "title": {
     "romaji": "Seikai no Danshou: Tanjou",
-    "english": "Passage of the Stars: Birth",
+    "english": "Crest of the Stars: Birth",
     "native": "星界の断章 “誕生”",
-    "synonyms": []
+    "synonyms": [
+      "Seikai no Danshou: Birth",
+      "Passage of the Stars: Birth",
+      "Seikai no Danshou: Tanjyou",
+      "Lost Chapter of the Stars: Birth"
+    ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "TV Special",
+  "source": "Light novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 25,
   "aired": {
-    "from": "2000-08-25",
+    "from": "2000-08-25T00:00:00+00:00",
     "to": "2000-08-25"
   },
   "season": "spring",
   "year": 2000,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.03,
+    "malScoredBy": 4441,
+    "malRank": 4646,
+    "malPopularity": 7424,
+    "malMembers": 9614,
+    "malFavorites": 11,
     "anilistScore": 6.5,
     "anilistPopularity": 2468,
     "anilistFavourites": 5,
@@ -66,14 +75,17 @@
   "studios": [
     "Sunrise"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Visual",
+    "WOWOW"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1008/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/12/61103l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/1008/original.jpg",
     "color": "#e486a1"
   },
   "trailer": null,
-  "synopsis": "This is the story about how Dubus, Lafiel's father, and Plakia after an adventure on a mysterious, abandoned spaceship decided to have a daughter together and why Dubus gave her the name Lafiel. \n(Source: ANN)",
+  "synopsis": "This is the story about how Dubus, Lafiel's father, and Plakia after an adventure on a mysterious, abandoned spaceship decided to have a daughter together and why Dubus gave her the name Lafiel. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 290,
@@ -107,17 +119,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:05:59.856Z",
+    "lastFetched": "2026-06-26T17:47:49.208Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

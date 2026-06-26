@@ -28,38 +28,43 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 12,
   "episodeLength": 50,
   "aired": {
-    "from": "1993-12-21",
-    "to": "2011-12-16"
+    "from": "1993-12-21T00:00:00+00:00",
+    "to": "2011-12-16T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1993,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.75,
+    "malScoredBy": 13535,
+    "malRank": 1276,
+    "malPopularity": 3786,
+    "malMembers": 46634,
+    "malFavorites": 411,
     "anilistScore": 7.6,
     "anilistPopularity": 13919,
     "anilistFavourites": 332,
-    "anilistTrending": 2,
+    "anilistTrending": 0,
     "kitsuRating": 7.79
   },
   "genres": [
-    "Action",
-    "Adventure",
     "Drama",
     "Mystery",
+    "Suspense",
+    "Action",
+    "Adventure",
     "Supernatural",
     "Medical",
     "Earth",
@@ -71,14 +76,17 @@
   "studios": [
     "Tezuka Productions"
   ],
-  "producers": [],
+  "producers": [
+    "Animax",
+    "Akita Shoten"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1364/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/5/12978l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1520-oPXf4wHTanw2.jpg",
     "color": "#e4aea1"
   },
   "trailer": null,
-  "synopsis": "Kuroo Hazama, also known as \"Black Jack,\" is a legend in the medical world. Famous for being one of the best, as well as not having a license, Hazama and his assistant Pinoko save countless lives that other doctors cannot... for a price; an exorbitant price, in fact, which causes many to view the genius as greedy and heartless. Despite these claims, however, none can deny his skill and the lengths that he will go to treat his patients. This dark medical drama tells the story of the ominous and mysterious world of underground medicine as Black Jack risks his life to cure some of the most bizarre diseases imaginable, even if it means breaking every law in the process.\n[Written by MAL Rewrite]",
+  "synopsis": "Kuroo Hazama, also known as \"Black Jack,\" is a legend in the medical world. Famous for being one of the best, as well as not having a license, Hazama and his assistant Pinoko save countless lives that other doctors cannot... for a price; an exorbitant price, in fact, which causes many to view the genius as greedy and heartless. Despite these claims, however, none can deny his skill and the lengths that he will go to treat his patients. This dark medical drama tells the story of the ominous and mysterious world of underground medicine as Black Jack risks his life to cure some of the most bizarre diseases imaginable, even if it means breaking every law in the process.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 9991,
@@ -679,17 +687,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:45:38.543Z",
+    "lastFetched": "2026-06-26T18:00:50.660Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

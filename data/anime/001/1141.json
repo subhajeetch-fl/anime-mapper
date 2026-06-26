@@ -25,28 +25,32 @@
       "Arbre de Palmem"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 136,
   "aired": {
-    "from": "2003-03-16",
+    "from": "2002-03-16T00:00:00+00:00",
     "to": "2003-03-16"
   },
   "season": "spring",
   "year": 2002,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.6,
+    "malScoredBy": 3269,
+    "malRank": 7196,
+    "malPopularity": 7271,
+    "malMembers": 10134,
+    "malFavorites": 37,
     "anilistScore": 6.3,
     "anilistPopularity": 3865,
     "anilistFavourites": 57,
@@ -63,14 +67,17 @@
   "studios": [
     "Palm Studio"
   ],
-  "producers": [],
+  "producers": [
+    "Genco",
+    "Kadokawa Shoten"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1022/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1637/144014l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1141-9GurG41PPu8y.jpg",
     "color": "#e4ae43"
   },
   "trailer": null,
-  "synopsis": "Palme is a puppet created by a man to care for his sickly wife. After her death Palme becomes paralyzed with sorrow, that is, until a woman being pursed happens to cross paths with Palme and his creator and ask them to deliver something precious to a sacred place called Tama. Palme, mistaking her for his masters late wife, accepts the request. This becomes his first step to becoming more human in order to understand his own feelings. \n(Source: ANN)",
+  "synopsis": "In a remote corner of the planet Arcana, Palme, a sentient android crafted from a mystical wood that is said to absorb the memories of the civilizations it roots in, is awakened by Koram, a wounded warrior from the Sol tribe. Entrusting him with the mystical \"Egg of the Roof,\" she implores Palme to take it to the legendary realm of Tamas.\n\nGalvanized with purpose for his existence, he accepts Koram's quest to deliver the relic to its source: the center of the planet, which is threatened by a malevolent and destructive force.\n\n(Source: ADV Films)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -120,17 +127,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:08:22.582Z",
+    "lastFetched": "2026-06-26T17:48:11.227Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

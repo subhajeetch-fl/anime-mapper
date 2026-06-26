@@ -26,27 +26,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Visual novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 12,
   "episodeLength": 24,
   "aired": {
-    "from": "2004-01-20",
-    "to": "2004-04-05"
+    "from": "2004-01-20T00:00:00+00:00",
+    "to": "2004-04-05T00:00:00+00:00"
   },
   "season": "winter",
   "year": 2004,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.62,
+    "malScoredBy": 3047,
+    "malRank": 7054,
+    "malPopularity": 7171,
+    "malMembers": 10494,
+    "malFavorites": 11,
     "anilistScore": 6.2,
     "anilistPopularity": 2503,
     "anilistFavourites": 11,
@@ -64,16 +68,16 @@
     "Present"
   ],
   "studios": [
-    "Studio DEEN"
+    "Studio Deen"
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/126/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1488/132892l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/148-rbLETgEhcChi.jpg",
     "color": "#e46b35"
   },
   "trailer": null,
-  "synopsis": "If a couple sees the diamond dust together, then they will certainly find eternal happiness. Or so it is said. This is a drama about the romances, friendships and conflicts of six girls from Hokkaido and how the diamond dust affects them and eventually links them together in the search for happiness. \n(Source: ANN)",
+  "synopsis": "If a couple sees the diamond dust together, then they will certainly find eternal happiness. Or so it is said. This is a drama about the romances, friendships and conflicts of six girls from Hokkaido and how the diamond dust affects them and eventually links them together in the search for happiness. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 18643,
@@ -315,17 +319,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:14:40.055Z",
+    "lastFetched": "2026-06-26T17:42:35.544Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

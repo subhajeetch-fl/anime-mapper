@@ -22,31 +22,36 @@
     "english": null,
     "native": "NINKU -忍空-",
     "synonyms": [
+      "Ninku",
       "Ninkuu"
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 55,
   "episodeLength": null,
   "aired": {
-    "from": "1995-01-14",
-    "to": "1996-02-24"
+    "from": "1995-01-14T00:00:00+00:00",
+    "to": "1996-02-24T00:00:00+00:00"
   },
   "season": "winter",
   "year": 1995,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.02,
+    "malScoredBy": 1912,
+    "malRank": 4696,
+    "malPopularity": 7874,
+    "malMembers": 8283,
+    "malFavorites": 31,
     "anilistScore": 6.5,
     "anilistPopularity": 2547,
     "anilistFavourites": 21,
@@ -66,14 +71,17 @@
   "studios": [
     "Studio Pierrot"
   ],
-  "producers": [],
+  "producers": [
+    "Yomiko Advertising",
+    "Fuji TV"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/812/poster_image/b6904cfc3fc1a7ef935613357c8d3f39.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1933/98140l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/912-piEFgeREYztk.jpg",
     "color": "#f1935d"
   },
   "trailer": null,
-  "synopsis": "In the war, a group of warriors called Ninku fought against the Imperial Army and almost annihilated it. But in the end, the Ninku lost and got shattered. After the war, the imperial army established themselves as the defender of the people with the help of propaganda. They also managed to get the people to think the Ninku were the villains and had started the war. Fusuke looks like a child but he is the former captain of the first Ninku division. His mother was taken during the war and after the Ninku were defeated, he goes on a journey to find her. On his journey he meets Aicho and Touji, both also former Ninku captains, and together they fight against the imperial army that tries to kill the last remaining Ninkus.\nThe ninku is a clan of extinct ninjas who command esoteric and powerful techniques, hence a lot of other groups are constantly trying to steal their techniques to take over the country. Their primary target is Fusuke, a weird looking kid but one of the most powerful Ninku ninja. Fusuke, together with other Ninku ninja with different specialties must fight those threat that caused the downfall of the Ninku clan.\n\n(Source: ANN)",
+  "synopsis": "In the war, a group of warriors called Ninku fought against the Imperial Army and almost annihilated it. But in the end, the Ninku lost and got shattered. After the war, the imperial army established themselves as the defender of the people with the help of propaganda. They also managed to get the people to think the Ninku were the villains and had started the war. Fusuke looks like a child but he is the former captain of the first Ninku division. His mother was taken during the war and after the Ninku were defeated, he goes on a journey to find her. On his journey he meets Aicho and Touji, both also former Ninku captains, and together they fight against the imperial army that tries to kill the last remaining Ninkus.\n\nThe ninku is a clan of extinct ninjas who command esoteric and powerful techniques, hence a lot of other groups are constantly trying to steal their techniques to take over the country. Their primary target is Fusuke, a weird looking kid but one of the most powerful Ninku ninja. Fusuke, together with other Ninku ninja with different specialties must fight those threat that caused the downfall of the Ninku clan.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 16345,
@@ -990,17 +998,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:46:24.765Z",
+    "lastFetched": "2026-06-26T17:44:07.301Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

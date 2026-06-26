@@ -19,7 +19,7 @@
   },
   "title": {
     "romaji": "Choujikuu Yousai Macross: FLASH BACK 2012",
-    "english": "The Super Dimension Fortress Macross: Flash Back 2012",
+    "english": "Super Dimension Fortress Macross Flash Back 2012",
     "native": "超時空要塞マクロス FLASH BACK 2012",
     "synonyms": [
       "Choujikuu Yousai Macross - Flash Back 2012",
@@ -27,38 +27,42 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 30,
   "aired": {
-    "from": "1987-06-21",
+    "from": "1987-06-21T00:00:00+00:00",
     "to": "1987-06-21"
   },
   "season": "summer",
   "year": 1987,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.86,
+    "malScoredBy": 5189,
+    "malRank": 5523,
+    "malPopularity": 7073,
+    "malMembers": 10790,
+    "malFavorites": 8,
     "anilistScore": 6.5,
     "anilistPopularity": 3453,
     "anilistFavourites": 17,
-    "anilistTrending": 0,
+    "anilistTrending": 1,
     "kitsuRating": 7.01
   },
   "genres": [
     "Drama",
+    "Sci-Fi",
     "Mecha",
     "Music",
-    "Sci-Fi",
     "Military",
     "Transforming Craft",
     "Science Fiction",
@@ -68,17 +72,19 @@
     "Idol"
   ],
   "studios": [
-    "Artland",
-    "Tatsunoko Production"
+    "Tatsunoko Production",
+    "Artland"
   ],
-  "producers": [],
+  "producers": [
+    "Big West"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1350/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/5/11073l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1504-d4KIgbPrxndU.jpg",
     "color": "#e4d65d"
   },
   "trailer": null,
-  "synopsis": "Flash Back 2012 is Minmei's farewell concert. Featuring some of her best songs, the music is performed over various scenes and events taken from Macross TV as well as Macross \"Do You Remember Love\". Also included is a newly animated closing sequence showing the launch of Misa's colony vessel, the Megaroad-01, into space.\n(Source: ANN)",
+  "synopsis": "Flash Back 2012 is Minmei's farewell concert. Featuring some of her best songs, the music is performed over various scenes and events taken from Macross TV as well as Macross \"Do You Remember Love\". Also included is a newly animated closing sequence showing the launch of Misa's colony vessel, the Megaroad-01, into space.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1088,
@@ -125,17 +131,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:43:57.909Z",
+    "lastFetched": "2026-06-26T18:00:33.027Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

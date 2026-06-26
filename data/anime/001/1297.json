@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 45,
   "aired": {
-    "from": "1988-06-20",
+    "from": "1988-06-20T00:00:00+00:00",
     "to": "1988-06-20"
   },
   "season": "summer",
   "year": 1988,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.4,
+    "malScoredBy": 3587,
+    "malRank": 8503,
+    "malPopularity": 8230,
+    "malMembers": 7389,
+    "malFavorites": 5,
     "anilistScore": 6.1,
     "anilistPopularity": 2274,
     "anilistFavourites": 18,
@@ -53,8 +57,8 @@
   },
   "genres": [
     "Comedy",
-    "Mecha",
     "Sci-Fi",
+    "Mecha",
     "Super Power",
     "Action",
     "Earth",
@@ -70,14 +74,16 @@
   "studios": [
     "Studio Fantasia"
   ],
-  "producers": [],
+  "producers": [
+    "Pony Canyon"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1169/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1688/116943l.jpg",
     "banner": null,
     "color": "#f1ae1a"
   },
   "trailer": null,
-  "synopsis": "In the middle of another break from school, A-Ko dreams of finding the perfect boyfriend. Because of this, she and C-Ko get into an argument that leads to C-Ko running away and nearly getting hit by a motorcyclist named Kei. While working part-time at a fast-food restaurant to raise money for a party dress, A-Ko meets Kei and immediately falls in love with him. B-Ko happens to like him as well; however, both A-Ko and B-Ko are unaware that C-Ko is the apple of Kei's eyes. \n(Source: ANN)",
+  "synopsis": "In the middle of another break from school, A-Ko dreams of finding the perfect boyfriend. Because of this, she and C-Ko get into an argument that leads to C-Ko running away and nearly getting hit by a motorcyclist named Kei. While working part-time at a fast-food restaurant to raise money for a party dress, A-Ko meets Kei and immediately falls in love with him. B-Ko happens to like him as well; however, both A-Ko and B-Ko are unaware that C-Ko is the apple of Kei's eyes. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1296,
@@ -124,17 +130,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:21:13.477Z",
+    "lastFetched": "2026-06-26T17:56:29.053Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -19,7 +19,7 @@
   },
   "title": {
     "romaji": "Meitantei Conan: Suihei Senjou no Sutoratejii",
-    "english": "Case Closed: Strategy Above the Depths",
+    "english": "Detective Conan Movie 09: Strategy Above the Depths",
     "native": "名探偵コナン　水平線上の陰謀",
     "synonyms": [
       "Detective Conan: Strategy Above the Depths",
@@ -28,28 +28,32 @@
       "Detective Conan Movie 09: La strategia degli Abissi"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 110,
   "aired": {
-    "from": "2005-04-09",
+    "from": "2005-04-09T00:00:00+00:00",
     "to": "2005-04-09"
   },
   "season": "spring",
   "year": 2005,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.79,
+    "malScoredBy": 31621,
+    "malRank": 1182,
+    "malPopularity": 3429,
+    "malMembers": 55238,
+    "malFavorites": 21,
     "anilistScore": 7.5,
     "anilistPopularity": 11387,
     "anilistFavourites": 92,
@@ -69,14 +73,20 @@
   "studios": [
     "TMS Entertainment"
   ],
-  "producers": [],
+  "producers": [
+    "Yomiuri Telecasting",
+    "TOHO",
+    "Nippon Television Network",
+    "Shogakukan",
+    "Shogakukan Productions"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1351/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/8/20983l.jpg",
     "banner": null,
     "color": "#e49350"
   },
   "trailer": null,
-  "synopsis": "Fifteen years ago, Daiichi Yachiyo Maru, a cargo ship, crashed into a large iceberg in northern Pacific Ocean, and sank, along with the captain and crew.\nNow, in Nishitama, a ship designer of Yatsushiro Shipbuilder, which belonged to Yatsushiro Financial Combine, suffered from a sudden heart attack while he was driving, and died in a traffic accident.\nSix months have passed since then. Conan, Ran, and Kogoro are enjoying their trip in the Aphrodite. The Aphrodite is a luxury liner, which is sailing for the Pacific Ocean as its maiden voyage. However, there is a suspicious person, and finally a murder occurs.\nIt's the beginning of a horrible plot occurring in the ocean, where there is no place to escape.\n(Source: AnimeNfo) ",
+  "synopsis": "Fifteen years ago in a barren stretch of the Pacific, a cruise ship collided with an iceberg and was lost at sea. More than a decade later, Hideto Yashiro—a ship engineer—died in a fatal car accident. The unlikely connection between these events only comes to light on the luxury liner St. Aphrodite during her maiden voyage.\n\nAboard it on a much needed vacation, Kogorou Mouri, his daughter Ran, Conan Edogawa, and the Detective Boys enjoy a trip provided by Sonoko Suzuki's family. But their fun is soon cut short when a game of hide-and-seek leads to Sonoko's disappearance. Some time later, the CEO of the Yashiro group, who built the St. Aphrodite, is found stabbed to death and her father missing. While the police's investigation turns to a dead end, Conan closes in on the culprit. Unwilling to be apprehended, the culprit threatens to blow up the St. Aphrodite and sink all her passengers.\n\nAs the ship's hull rapidly fills with water, the truth behind the vengeful murders is finally revealed. With no place to escape, Conan and Kogorou must wrestle with the elusive culprit before everyone on board is dragged to the ocean floor.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 235,
@@ -215,17 +225,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:44:09.432Z",
+    "lastFetched": "2026-06-26T18:00:35.225Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -22,6 +22,7 @@
     "english": "Pokémon Heroes",
     "native": "劇場版ポケットモンスター 水の都の護神 ラティアスとラティオス",
     "synonyms": [
+      "Gekijouban Pocket Monsters: Mizu no Miyako Mamorigami Latias to Latios",
       "Pokemon Movie 5",
       "Pokémon Heroes: Latios and Latias",
       "Pokémon Helter: Latios og Latias",
@@ -29,54 +30,60 @@
       "Pokémon 5: Bohaterowie"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Game",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 74,
   "aired": {
-    "from": "2002-07-13",
+    "from": "2002-07-13T00:00:00+00:00",
     "to": "2002-07-13"
   },
   "season": "summer",
   "year": 2002,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG - Children",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.18,
+    "malScoredBy": 80650,
+    "malRank": 3810,
+    "malPopularity": 2005,
+    "malMembers": 129703,
+    "malFavorites": 147,
     "anilistScore": 7,
     "anilistPopularity": 32538,
     "anilistFavourites": 343,
-    "anilistTrending": 1,
+    "anilistTrending": 0,
     "kitsuRating": 7.03
   },
   "genres": [
-    "Action",
     "Adventure",
     "Comedy",
     "Drama",
     "Fantasy",
+    "Action",
     "Kids"
   ],
   "studios": [
     "OLM",
     "Shogakukan-Shueisha Productions"
   ],
-  "producers": [],
+  "producers": [
+    "Shogakukan Productions"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1004/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/2/21317l.jpg",
     "banner": null,
     "color": "#d6c91a"
   },
   "trailer": null,
-  "synopsis": "Long ago, on an island called Altomare, there lived an old man and woman. One day, the couple found two small children lying on the shore, badly wounded. The couple took them in and took care of them, and the children quickly recovered. But then, the island was attacked by monsters. Within moments the island fell into the monsters' wrath. Next, before the old man and lady's eyes, the children who they had taken care of transformed into the Eon Pokemon, Latios and Latias. They called their family from the sky. They came, and carried a stone with them containing the power to force the monsters away. This gem was known as the \"Soul Dew.\" Peace returned to the island; however, later in the present, a criminal duo—Zannâ and Rion—us seeking Latios and Latias in order to take control of the Soul Dew. Taking a short break in Altomare, Satoshi befriends Latias and is now dragged into the situation helping to save Altomare from becoming swallowed up by destruction again.\n(Source: ANN)",
+  "synopsis": "As they continue their journey through the Johto region, Satoshi and his friends visit Altomare, an island city that hosts an annual racing event called the Pokémon Water Race. While Takeshi and Kasumi are enjoying themselves, strange things seem to be happening to Satoshi—he somehow loses the water race, sees some women attack a girl with their Pokémon, and despite them saving her, the girl later denies ever seeing Satoshi and Pikachu before!\n\nFortunately for Satoshi, his confusion clears up as he learns that the girl he and Pikachu saved earlier was actually a Pokémon named Latias, who likes to disguise herself as her human friend, Kanon. Latias and another Pokémon, Latios, are known as the Eon Pokémon, as they inhabit and guard Altomare along with a mystical blue sphere called the Soul Dew. An ancient legend of Altomare is highly connected to the Eon Pokémon and the Soul Dew, and is well known among the locals—as well as among Latias' earlier assailants, the thief sisters Zanner and Lyon. As the thieves attempt to capture both the Eon Pokémon and the Soul Dew, Satoshi is forced to act in order to stop them from bringing disaster to Altomare.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 527,
@@ -243,17 +250,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:05:33.894Z",
+    "lastFetched": "2026-06-26T17:47:44.762Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

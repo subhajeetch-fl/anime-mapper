@@ -29,27 +29,31 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 50,
   "aired": {
-    "from": "2002-04-03",
+    "from": "2002-04-03T00:00:00+00:00",
     "to": "2002-04-03"
   },
   "season": "spring",
   "year": 2002,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 5.85,
+    "malScoredBy": 2835,
+    "malRank": 11603,
+    "malPopularity": 8440,
+    "malMembers": 6976,
+    "malFavorites": 2,
     "anilistScore": 5.3,
     "anilistPopularity": 2302,
     "anilistFavourites": 8,
@@ -57,26 +61,30 @@
     "kitsuRating": 6.02
   },
   "genres": [
+    "Action",
     "Adventure",
     "Comedy",
-    "Music",
     "Mystery",
-    "Action",
+    "Music",
     "Crime",
     "Thievery",
     "The Arts"
   ],
   "studios": [
+    "TMS Entertainment",
     "Tokyo Movie"
   ],
-  "producers": [],
+  "producers": [
+    "VAP",
+    "Tohokushinsha Film Corporation"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1280/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/13/27617l.jpg",
     "banner": null,
     "color": "#e4356b"
   },
   "trailer": null,
-  "synopsis": "Lupin steals an extraordinary gem from a Mediterranean party, only to be interrupted by Pycal, the trickster \"magician\" who had apparently died fighting Lupin early in his career. Pycal, now armed with real magical abilities, is determined to take revenge. \n(Source: ANN)",
+  "synopsis": "Lupin steals an extraordinary gem from a Mediterranean party, only to be interrupted by Pycal, the trickster \"magician\" who had apparently died fighting Lupin early in his career. Pycal, now armed with real magical abilities, is determined to take revenge. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1412,
@@ -170,17 +178,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:36:32.837Z",
+    "lastFetched": "2026-06-26T17:59:10.358Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

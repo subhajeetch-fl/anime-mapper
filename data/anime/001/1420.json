@@ -19,7 +19,7 @@
   },
   "title": {
     "romaji": "Lupin III: Russia yori Ai wo Komete",
-    "english": "Lupin the 3rd: From Siberia with Love",
+    "english": "Lupin III: From Siberia With Love",
     "native": "ルパン三世『ロシアより愛をこめて』",
     "synonyms": [
       "Lupin Sansei: Russia Yori Ai o Komete",
@@ -27,28 +27,32 @@
       "Lupin III- Il tesoro degli zar"
     ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "TV Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 90,
   "aired": {
-    "from": "1992-07-24",
+    "from": "1992-07-24T00:00:00+00:00",
     "to": "1992-07-24"
   },
   "season": "summer",
   "year": 1992,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.7,
+    "malScoredBy": 3395,
+    "malRank": 6519,
+    "malPopularity": 7975,
+    "malMembers": 8003,
+    "malFavorites": 3,
     "anilistScore": 6.3,
     "anilistPopularity": 2563,
     "anilistFavourites": 4,
@@ -57,10 +61,10 @@
   },
   "genres": [
     "Action",
+    "Adventure",
     "Comedy",
     "Mystery",
     "Crime",
-    "Adventure",
     "Russia",
     "Thievery"
   ],
@@ -69,12 +73,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1273/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/4/61697l.jpg",
     "banner": null,
     "color": "#d61a28"
   },
   "trailer": null,
-  "synopsis": "This time Lupin is after 500 tons of gold bullion that used to belong to the House of Romanov, the last rulers of the Russian Empire. His only clue is a code in an old book that a cipher machine has broken down to the words \"Bank of Liberty.\" As always, whenever Lupin's involved, the situation gets complicated. This adventure takes him through the USA and Russia, with loads of action and classic Lupin-style escapades along the way.\n(Source: AniDB)",
+  "synopsis": "This time Lupin is after 500 tons of gold bullion that used to belong to the House of Romanov, the last rulers of the Russian Empire. His only clue is a code in an old book that a cipher machine has broken down to the words \"Bank of Liberty.\" As always, whenever Lupin's involved, the situation gets complicated. This adventure takes him through the USA and Russia, with loads of action and classic Lupin-style escapades along the way.\n\n(Source: AniDB)",
   "sequence": [
     {
       "malId": 1412,
@@ -153,17 +157,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:35:20.657Z",
+    "lastFetched": "2026-06-26T17:58:57.150Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

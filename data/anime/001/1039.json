@@ -26,27 +26,31 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Visual novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 2,
   "episodeLength": 30,
   "aired": {
-    "from": "2003-04-25",
-    "to": "2003-10-10"
+    "from": "2003-04-25T00:00:00+00:00",
+    "to": "2003-10-10T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2003,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.54,
+    "malScoredBy": 2014,
+    "malRank": 7580,
+    "malPopularity": 9726,
+    "malMembers": 4794,
+    "malFavorites": 5,
     "anilistScore": 5.6,
     "anilistPopularity": 1450,
     "anilistFavourites": 6,
@@ -62,15 +66,19 @@
     "Asia",
     "Present"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "OLM"
+  ],
+  "producers": [
+    "NEC Avenue"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/929/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/13/49473l.jpg",
     "banner": null,
     "color": "#50bbf1"
   },
   "trailer": null,
-  "synopsis": "Brother and younger sister-in-law live in the house which parents are often away from. Yuki who is the younger sister is secretly yearning for Kenji who is the elder brother. However, one girl came to show up from the closet in Kenji's room after a certain night. Moreover, her body is transparent, and she looks like the ghost. Her name is Hiyori. She is a friend in their childhood. They are pleased with reunion though Kenji and Yuki are perplexed with the way of Hiyori's strange appearance. However, Yuki gets the mind shaken as Kenji and Hiyori become intimate, and the pain in her mind in the childhood is recalled. \nAt the childhood, Yuki was going to pass the light blue toy ring which Kenji had had to Hiyori in exchange for Hiyori's yoyo. However, because Hiyori became sick, and had moved, the promise was not an accomplishment. Their events in the childhood seem to be related to Hiyori's showing up in front of them. \nA painful love story of Kenji and two girls progresses. \n(Source: AniDB)",
+  "synopsis": "Brother and younger sister-in-law live in the house which parents are often away from. Yuki who is the younger sister is secretly yearning for Kenji who is the elder brother. However, one girl came to show up from the closet in Kenji's room after a certain night. Moreover, her body is transparent, and she looks like the ghost. Her name is Hiyori. She is a friend in their childhood. They are pleased with reunion though Kenji and Yuki are perplexed with the way of Hiyori's strange appearance. However, Yuki gets the mind shaken as Kenji and Hiyori become intimate, and the pain in her mind in the childhood is recalled. \n\nAt the childhood, Yuki was going to pass the light blue toy ring which Kenji had had to Hiyori in exchange for Hiyori's yoyo. However, because Hiyori became sick, and had moved, the promise was not an accomplishment. Their events in the childhood seem to be related to Hiyori's showing up in front of them. \nA painful love story of Kenji and two girls progresses. \n\n(Source: AniDB)",
   "sequence": [
     {
       "malId": 1038,
@@ -164,17 +172,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:57:50.485Z",
+    "lastFetched": "2026-06-26T17:46:17.919Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

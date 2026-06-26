@@ -22,32 +22,38 @@
     "english": "Demonbane",
     "native": "機神咆吼デモンベイン",
     "synonyms": [
+      "Roar of the Machine God Demonbane",
+      "Kishin Houkou Demonbane (2006)",
       "Kinshin Hoko Demonbane",
       "Roar of the Machine God Demonbane (2006)"
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Visual novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 12,
   "episodeLength": 25,
   "aired": {
-    "from": "2006-05-19",
-    "to": "2006-08-18"
+    "from": "2006-05-19T00:00:00+00:00",
+    "to": "2006-08-18T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.53,
+    "malScoredBy": 13780,
+    "malRank": 7642,
+    "malPopularity": 4187,
+    "malMembers": 38557,
+    "malFavorites": 41,
     "anilistScore": 5.9,
     "anilistPopularity": 6150,
     "anilistFavourites": 32,
@@ -55,15 +61,17 @@
     "kitsuRating": 6.48
   },
   "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance",
+    "Sci-Fi",
     "Action",
     "Ecchi",
     "Mecha",
-    "Romance",
     "Magic",
     "Harem",
     "Science Fiction",
     "Earth",
-    "Fantasy",
     "Piloted Robot",
     "Slice of Life",
     "Comedy",
@@ -74,22 +82,26 @@
     "Americas",
     "Dark Fantasy",
     "Humanoid Alien",
-    "Drama",
     "Alternative Present",
     "Magical Girl",
     "Plot Continuity",
     "Violence",
     "Super Power"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Viewworks"
+  ],
+  "producers": [
+    "WOWOW",
+    "Kadokawa Shoten"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/954/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1/1067l.jpg",
     "banner": null,
     "color": "#e4ae43"
   },
   "trailer": null,
-  "synopsis": "Kurou Daijuuji is a poor detective living in Arkham City. One day, he was requested by Ruri Hado of Hado Financial Group, to search for a magic book. While he initially refused, Ruri offered him a large sum of money upon completion of her request, in which bribed Kuro to accept. As Kurou searches for the book, he unexpectedly runs into Al, a pretty girl that is actually a powerful grimoire. \nThey forge a contract with each other, bestowing Kuro with powerful magic. Soon afterwards, Al also activates Demonbane, a deus machina owned by the Hado Financial Group, to combat the mechanical menace from the Black Lodge. With this, the war between the Hado Financial Group and the Black Lodge begins.... \n(Source: ANN)",
+  "synopsis": "Kurou Daijuuji is a poor detective living in Arkham City. One day, he was requested by Ruri Hado of Hado Financial Group, to search for a magic book. While he initially refused, Ruri offered him a large sum of money upon completion of her request, in which bribed Kuro to accept. As Kurou searches for the book, he unexpectedly runs into Al, a pretty girl that is actually a powerful grimoire. \n\nThey forge a contract with each other, bestowing Kuro with powerful magic. Soon afterwards, Al also activates Demonbane, a deus machina owned by the Hado Financial Group, to combat the mechanical menace from the Black Lodge. With this, the war between the Hado Financial Group and the Black Lodge begins.... \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 766,
@@ -423,17 +435,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:00:10.460Z",
+    "lastFetched": "2026-06-26T17:46:39.684Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

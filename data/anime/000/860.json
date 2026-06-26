@@ -19,34 +19,39 @@
   },
   "title": {
     "romaji": "Makai Senki Disgaea",
-    "english": "Netherworld Battle Chronicle: Disgaea",
+    "english": "Disgaea",
     "native": "魔界戦記ディスガイア",
     "synonyms": [
+      "Netherworld Battle Chronicle: Disgaea",
       "Disgaea"
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Game",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 12,
   "episodeLength": null,
   "aired": {
-    "from": "2006-04-05",
-    "to": "2006-06-21"
+    "from": "2006-04-05T00:00:00+00:00",
+    "to": "2006-06-21T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "00:15",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.72,
+    "malScoredBy": 21291,
+    "malRank": 6382,
+    "malPopularity": 3785,
+    "malMembers": 46690,
+    "malFavorites": 148,
     "anilistScore": 6.3,
     "anilistPopularity": 7959,
     "anilistFavourites": 46,
@@ -70,14 +75,17 @@
   "studios": [
     "OLM"
   ],
-  "producers": [],
+  "producers": [
+    "Nippon Ichi Software",
+    "Geneon Entertainment"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/762/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/11/20439l.jpg",
     "banner": null,
     "color": "#d6a178"
   },
   "trailer": null,
-  "synopsis": "An angel arrives in Hell! A demon lord is awakened! There are penguins everywhere! What’s going on here?\nAngel assassin-in-training Flonne is on a quest to destroy the demon Overlord. Instead of accomplishing her mission, the ditzy Flonne manages to wake Laharl, the demon lord and heir to the throne, from his two year slumber. Now the pair, along with Laharl’s not-so-faithful vassal Etna and her army of explosive souls in penguin costumes, must restore order to the crumbling Netherworld.\nBased on the events of the game Disgaea: Hour of Darkness, Makai Senki Disgaea follows Laharl’s journey to squash the demon rebellion, reclaim the throne, and destroy anyone who stands in his path. Or, you know, let them join him on his travels if they really want. Just remember: Laharl is a demon lord. There’s no way he’ll ever show kindness, compassion, or love... right?",
+  "synopsis": "An angel arrives in Hell! A demon lord is awakened! There are penguins everywhere! What’s going on here?\n\nAngel assassin-in-training Flonne is on a quest to destroy the demon Overlord. Instead of accomplishing her mission, the ditzy Flonne manages to wake Laharl, the demon lord and heir to the throne, from his two year slumber. Now the pair, along with Laharl’s not-so-faithful vassal Etna and her army of explosive souls in penguin costumes, must restore order to the crumbling Netherworld.\n\nBased on the events of the game Disgaea: Hour of Darkness, Makai Senki Disgaea follows Laharl’s journey to squash the demon rebellion, reclaim the throne, and destroy anyone who stands in his path. Or, you know, let them join him on his travels if they really want. Just remember: Laharl is a demon lord. There’s no way he’ll ever show kindness, compassion, or love... right?",
   "sequence": [
     {
       "malId": 6741,
@@ -336,17 +344,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:41:12.279Z",
+    "lastFetched": "2026-06-26T17:43:14.302Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

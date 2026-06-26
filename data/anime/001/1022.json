@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 12,
   "episodeLength": 24,
   "aired": {
-    "from": "1998-10-07",
-    "to": "1998-12-23"
+    "from": "1998-10-07T00:00:00+00:00",
+    "to": "1998-12-23T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1998,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "02:55",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.91,
+    "malScoredBy": 3911,
+    "malRank": 5219,
+    "malPopularity": 7010,
+    "malMembers": 11056,
+    "malFavorites": 33,
     "anilistScore": 6.4,
     "anilistPopularity": 2666,
     "anilistFavourites": 21,
@@ -70,12 +74,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/912/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/2/19006l.jpg",
     "banner": null,
     "color": "#e4865d"
   },
   "trailer": null,
-  "synopsis": "Ryo, Gawl and Koji are 3 young boys who travel back into the past with only 1 objective: change history. In their time they discover that their country, Kubere, uses genetically enhanced persons called generators as a military tool. These generators are the cause for the Third War which kills most of the human population. Now Koji, Ryo and Gawl are there to change all the events. \n(Source: ANN) ",
+  "synopsis": "Ryo, Gawl and Koji are 3 young boys who travel back into the past with only 1 objective: change history. In their time they discover that their country, Kubere, uses genetically enhanced persons called generators as a military tool. These generators are the cause for the Third War which kills most of the human population. Now Koji, Ryo and Gawl are there to change all the events. \n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -290,17 +294,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:55:44.641Z",
+    "lastFetched": "2026-06-26T17:45:55.640Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

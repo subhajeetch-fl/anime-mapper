@@ -21,30 +21,36 @@
     "romaji": "Omishi Mahou Gekijou: Risky★Safety",
     "english": "Omishi Magical Theater Risky Safety",
     "native": "臣士魔法劇場 リスキー★セフティ",
-    "synonyms": []
+    "synonyms": [
+      "Omishi Magical Theater Risky Safety"
+    ]
   },
-  "type": "TV_SHORT",
-  "source": null,
-  "status": "finished",
+  "type": "TV",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 24,
   "episodeLength": 10,
   "aired": {
-    "from": "1999-10-05",
-    "to": "2000-04-04"
+    "from": "1999-10-05T00:00:00+00:00",
+    "to": "2000-04-04T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1999,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG - Children",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.7,
+    "malScoredBy": 1493,
+    "malRank": 6527,
+    "malPopularity": 9481,
+    "malMembers": 5182,
+    "malFavorites": 6,
     "anilistScore": 6.3,
     "anilistPopularity": 1655,
     "anilistFavourites": 17,
@@ -68,14 +74,17 @@
   "studios": [
     "APPP"
   ],
-  "producers": [],
+  "producers": [
+    "Pony Canyon",
+    "Arts Pro"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1172/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/13/14714l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/1172/original.jpeg",
     "color": "#e4a150"
   },
   "trailer": null,
-  "synopsis": "An apprentice shinigami (Japanese Death God), Risky, is determined to take Moe's life. However, Risky is magically joined with an apprentice angel, Safety, so Risky turns into Safety whenever someone says something nice. As an apprentice shinigami can only take someone's life when that person is really depressed, Risky has quite a problem taking Moe's soul, while dealing with Safety, who often cheers Moe up.\n(Source: ANN)",
+  "synopsis": "An apprentice shinigami (Japanese Death God), Risky, is determined to take Moe's life. However, Risky is magically joined with an apprentice angel, Safety, so Risky turns into Safety whenever someone says something nice. As an apprentice shinigami can only take someone's life when that person is really depressed, Risky has quite a problem taking Moe's soul, while dealing with Safety, who often cheers Moe up.\n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -545,17 +554,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:21:36.099Z",
+    "lastFetched": "2026-06-26T17:56:30.713Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

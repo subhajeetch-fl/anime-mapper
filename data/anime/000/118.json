@@ -27,27 +27,31 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 4,
   "episodeLength": 30,
   "aired": {
-    "from": "1997-03-21",
-    "to": "1997-10-25"
+    "from": "1997-03-21T00:00:00+00:00",
+    "to": "1997-10-25T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1997,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.8,
+    "malScoredBy": 4838,
+    "malRank": 5894,
+    "malPopularity": 7175,
+    "malMembers": 10487,
+    "malFavorites": 6,
     "anilistScore": 6.4,
     "anilistPopularity": 2193,
     "anilistFavourites": 17,
@@ -70,14 +74,17 @@
   "studios": [
     "AIC"
   ],
-  "producers": [],
+  "producers": [
+    "Pioneer LDC",
+    "Arts Pro"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/97/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1928/154391l.jpg",
     "banner": null,
     "color": "#f1ae35"
   },
   "trailer": null,
-  "synopsis": "Continuing the from OVAs; When Fujisawa, suffering from cold feet, leaves Miz at the altar, an enraged Priestess drafts Makoto and friends to go find him. In the couse of locating the hapless (and gutless) teacher, they find another Ifurita. Meanwhile Jinnai and Diva searching for a new Bugrom homeland stumble upon another yet another Demon God, the impish Kalia. However, unlike Ifurita she has a mind, and a mission, of her own... \n(Source: ANN)",
+  "synopsis": "Continuing the from OVAs; When Fujisawa, suffering from cold feet, leaves Miz at the altar, an enraged Priestess drafts Makoto and friends to go find him. In the couse of locating the hapless (and gutless) teacher, they find another Ifurita. Meanwhile Jinnai and Diva searching for a new Bugrom homeland stumble upon another yet another Demon God, the impish Kalia. However, unlike Ifurita she has a mind, and a mission, of her own... \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 117,
@@ -244,17 +251,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:12:39.416Z",
+    "lastFetched": "2026-06-26T17:42:20.166Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

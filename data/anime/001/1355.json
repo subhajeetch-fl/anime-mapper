@@ -21,30 +21,36 @@
     "romaji": "Makyuu Senjou",
     "english": "Dark Warrior",
     "native": "魔宮戦場",
-    "synonyms": []
+    "synonyms": [
+      "Makyu Senjo"
+    ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Unknown",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 2,
   "episodeLength": 50,
   "aired": {
-    "from": "1991-03-22",
-    "to": "1991-05-25"
+    "from": "1991-03-22T00:00:00+00:00",
+    "to": "1991-05-25T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1991,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 4.84,
+    "malScoredBy": 433,
+    "malRank": 14549,
+    "malPopularity": 13723,
+    "malMembers": 1488,
+    "malFavorites": 0,
     "anilistScore": 4.2,
     "anilistPopularity": 526,
     "anilistFavourites": 6,
@@ -53,8 +59,8 @@
   },
   "genres": [
     "Action",
-    "Adventure",
     "Sci-Fi",
+    "Adventure",
     "Science Fiction",
     "Genetic Modification",
     "Gunfights",
@@ -67,14 +73,16 @@
   "studios": [
     "Daiei"
   ],
-  "producers": [],
+  "producers": [
+    "Daiei"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1209/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/8/61777l.jpg",
     "banner": null,
     "color": "#f1a150"
   },
   "trailer": null,
-  "synopsis": "When computer genius Joe Takami hacks into a top secret computer system in search of information on a mysterious girl, he gets much more than he bargained for. Now, after uncovering evidence of a secret government experiment, he's running for his life, and everyone, including his best friend and his personal computer, has turned against him. As a ruthless team of high-tech ninja follows his trail, Joe must depend upon the unpredictable powers that lie within him in order to survive. Can he find a way to evade the government assassins before they terminate the human genetic experiment named Joe Takami. \n(Source: ANN)",
+  "synopsis": "When computer genius Joe Takami hacks into a top secret computer system in search of information on a mysterious girl, he gets much more than he bargained for. Now, after uncovering evidence of a secret government experiment, he's running for his life, and everyone, including his best friend and his personal computer, has turned against him. As a ruthless team of high-tech ninja follows his trail, Joe must depend upon the unpredictable powers that lie within him in order to survive. Can he find a way to evade the government assassins before they terminate the human genetic experiment named Joe Takami. \n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -109,17 +117,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:26:18.660Z",
+    "lastFetched": "2026-06-26T17:57:37.914Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

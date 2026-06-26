@@ -23,28 +23,32 @@
     "native": "MOTHER 最後の少女イヴ",
     "synonyms": []
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Unknown",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 80,
   "aired": {
-    "from": "1993-12-26",
+    "from": "1993-12-26T00:00:00+00:00",
     "to": "1993-12-26"
   },
   "season": "fall",
   "year": 1993,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 5.47,
+    "malScoredBy": 625,
+    "malRank": 13301,
+    "malPopularity": 13000,
+    "malMembers": 1842,
+    "malFavorites": 3,
     "anilistScore": 4.4,
     "anilistPopularity": 500,
     "anilistFavourites": 7,
@@ -65,15 +69,17 @@
     "Disaster",
     "Super Power"
   ],
-  "studios": [],
+  "studios": [
+    "Toei Animation"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1035/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/12/68115l.jpg",
     "banner": null,
     "color": "#e4bb5d"
   },
   "trailer": null,
-  "synopsis": "The future is bleak and urbanized. A government super-power holds the keys to all the doors. Hope lies in a secret organization who kidnaps \"gifted\" children and teaches them to wield their ability to view the life energy of all living things. A young girl befriends a sempai, a street rat comes to rescue her, and two parents wait helplessly to see their daughter one last time...\n(Source: AniDB)",
+  "synopsis": "The future is bleak and urbanized. A government super-power holds the keys to all the doors. Hope lies in a secret organization who kidnaps \"gifted\" children and teaches them to wield their ability to view the life energy of all living things. A young girl befriends a sempai, a street rat comes to rescue her, and two parents wait helplessly to see their daughter one last time...\n\n(Source: AniDB)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -123,17 +129,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:09:17.481Z",
+    "lastFetched": "2026-06-26T17:48:18.049Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

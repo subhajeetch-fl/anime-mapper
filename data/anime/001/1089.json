@@ -19,52 +19,57 @@
   },
   "title": {
     "romaji": "Choujikuu Yousai Macross: Ai Oboete Imasu ka",
-    "english": "Macross: Do You Remember Love?",
+    "english": "Super Dimension Fortress Macross: Do You Remember Love?",
     "native": "超時空要塞マクロス -愛・おぼえていますか-",
     "synonyms": [
       "Clash of the Bionoids",
+      "Gekijouban Choujikuu Yousai Macross: Ai Oboete Imasu ka",
+      "Macross in Clash Of The Bionoids",
       "Gekijouban Choujikuu Yousai Macross: Ai",
       "Oboete Imasu ka",
-      "Macross in Clash Of The Bionoids",
       "Macross - Il film",
       "Macross, Le Film",
       "Macross: Långfilmen om Robotech"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 115,
   "aired": {
-    "from": "1984-07-07",
+    "from": "1984-07-07T00:00:00+00:00",
     "to": "1984-07-07"
   },
   "season": "summer",
   "year": 1984,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.94,
+    "malScoredBy": 25201,
+    "malRank": 838,
+    "malPopularity": 3469,
+    "malMembers": 54347,
+    "malFavorites": 821,
     "anilistScore": 7.7,
     "anilistPopularity": 16224,
     "anilistFavourites": 710,
-    "anilistTrending": 1,
+    "anilistTrending": 0,
     "kitsuRating": 7.82
   },
   "genres": [
+    "Romance",
+    "Sci-Fi",
     "Action",
     "Mecha",
     "Music",
-    "Romance",
-    "Sci-Fi",
     "Space",
     "Military",
     "Violence",
@@ -86,14 +91,21 @@
     "Tatsunoko Production",
     "Artland"
   ],
-  "producers": [],
+  "producers": [
+    "Artland",
+    "Mainichi Broadcasting System",
+    "Studio Nue",
+    "Big West",
+    "Shogakukan",
+    "Arts Pro"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/974/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1080/107017l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1089-QrL6y85OKpa5.jpg",
     "color": "#e45d86"
   },
   "trailer": null,
-  "synopsis": "A.D. 2009. The human race is in the middle of a three-way war with a race of giant humanoid aliens called the Zentraedi (male) and Meltrandi (female). After executing a space fold that sent it and part of South Atalia Island to the edge of the Solar System, the space fortress Macross is on its way back to Earth. During a small skirmish with Zentraedi forces, young pilot Hikaru Ichijo rescues idol singer Lynn Minmay and their relationship develops as they're stranded somewhere within the ship. But shortly after returning to Macross City, Minmay is captured by the Zentraedi, and Hikaru and female officer Misa Hayase end up back on Earth—only to view the aftermath of the destruction of their civilization. Only a song discovered eons ago—along with Minmay's voice—can determine the outcome of the war.\n(Source: ANN)",
+  "synopsis": "After warping light-years away from Earth, the spacecraft Macross carries a city of civilians and soldiers back home. They continuously fight off the threat of the Zentradi and Meltrandi, giant alien races with whom humanity wages war. \n\nDuring a battle, the Macross transforms into a mecha operated by fighter pilot Hikaru Ichijou. Thrust into a number of hardships, Hikaru grows close to the city's idol Minmay Lynn. As their relationship develops, however, it is viewed unfavorably by others due to Minmay's status and popularity.\n\nWith war raging on and the state of Earth unknown, Hikaru and his fellow soldiers fight on against their mysterious enemies. Throughout the bloodshed, Hikaru and Minmay attempt to keep hold of their feelings for one another. Minmay pours her heart into her music, which may just turn out to be the key to finding peace.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 1088,
@@ -318,17 +330,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:02:32.675Z",
+    "lastFetched": "2026-06-26T17:47:03.851Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

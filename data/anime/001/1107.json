@@ -30,28 +30,32 @@
       "요수도시"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 82,
   "aired": {
-    "from": "1987-04-25",
+    "from": "1987-04-25T00:00:00+00:00",
     "to": "1987-04-25"
   },
   "season": "spring",
   "year": 1987,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.46,
+    "malScoredBy": 26044,
+    "malRank": 8144,
+    "malPopularity": 3083,
+    "malMembers": 67055,
+    "malFavorites": 276,
     "anilistScore": 6.1,
     "anilistPopularity": 19443,
     "anilistFavourites": 275,
@@ -62,9 +66,9 @@
     "Action",
     "Adventure",
     "Drama",
-    "Ecchi",
     "Horror",
     "Supernatural",
+    "Ecchi",
     "Super Power",
     "Demons",
     "Alternative Present",
@@ -78,16 +82,18 @@
     "Contemporary Fantasy"
   ],
   "studios": [
-    "MADHOUSE"
+    "Madhouse"
   ],
-  "producers": [],
+  "producers": [
+    "Japan Home Video"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/992/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/2/50021l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1107-UBCtRLTeFSdp.jpg",
     "color": "#1a93d6"
   },
   "trailer": null,
-  "synopsis": "There is Earth, our familiar world, and then there is the Black World, a parallel dimension that very few people are aware of. For centuries, a pact between the two worlds has been observed to maintain peace, and terms must be negotiated and renewed soon to continue relative harmony.\nThis time around, there is a militant faction that will stop at nothing to prevent the signing of a new treaty for inter-dimensional peace. Two agents of the elite organization known as the Black guards—defenders of the balance between the two worlds—are charged with insuring the success of the treaty.\nDirector Yoshiaki Kawajiri (Ninja Scroll) blends stylish eroticism, graphic horror and pulse-pounding action as these two race to consummate the peace treaty in time.\n\n(Source: AniDB)",
+  "synopsis": "Renzaburou Taki appears to be a regular salaryman, but in reality, he is a member of the Black Guards—a secret organization that maintains the fragile harmony between the human and demon realms. As the time to renew the peace treaty approaches, Taki is tasked with guarding the important human mystic Giuseppe Mayart, with the help of a demon woman named Makie. However, this is easier said than done; while a dangerous faction of demons has turned to terrorism in hopes of destroying the unity between the two realms, Giuseppe wants nothing more than to sneak off and fool around with women.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
@@ -497,17 +503,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:04:21.750Z",
+    "lastFetched": "2026-06-26T17:47:21.464Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -22,34 +22,39 @@
     "english": "Origin: Spirits of the Past",
     "native": "銀色の髪のアギト",
     "synonyms": [
+      "Gin-iro no Kami no Agito",
+      "Silver-Haired Agito",
       "Gin'iro no Kami no Agito",
-      "Gin-iro no kami no Agito",
       "Silver Haired Agito",
       "Agito with Silver Hair"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 94,
   "aired": {
-    "from": "2006-01-07",
+    "from": "2006-01-07T00:00:00+00:00",
     "to": "2006-01-07"
   },
   "season": "winter",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.04,
+    "malScoredBy": 37177,
+    "malRank": 4587,
+    "malPopularity": 2824,
+    "malMembers": 78060,
+    "malFavorites": 208,
     "anilistScore": 6.5,
     "anilistPopularity": 15547,
     "anilistFavourites": 148,
@@ -71,16 +76,25 @@
     "Super Power"
   ],
   "studios": [
-    "GONZO"
+    "Gonzo"
   ],
-  "producers": [],
+  "producers": [
+    "GDH",
+    "Dentsu",
+    "Media Factory",
+    "Shochiku",
+    "Victor Entertainment",
+    "Yahoo! Japan",
+    "Asahi Broadcasting",
+    "Fonishia"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/1021/poster_image/3d94828dee3a4921b1123a40b62816a8.png",
+    "poster": "https://cdn.myanimelist.net/images/anime/9/83824l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1140-pBWtFaQbzIUp.jpg",
     "color": "#e46b28"
   },
   "trailer": null,
-  "synopsis": "Long ago, the Forest was awakened and the Moon unleashed a ravenous Beast upon the Earth. Centuries later, as humanity struggle to coexist with the Forest, Agito revives slumbering Toola, who calls forth ancient technology to reshape the future from the ashes of the past. With the blessing of the Forest, Agito must save Toola from herself in order to rescue them all.\n\n(Source: Crunchyroll)",
+  "synopsis": "Three hundred years ago, a genetic experiment gone wrong caused the mutation of all forests on Earth. Armed with consciousness, the vegetation sought to destroy all of humankind, and the war that ensued turned the planet into a hellish dystopia.\n\nIn the present day, Agito, a young boy, lives with his father in Neutral City—a village maintaining an uneasy truce with the neighboring forest. One day, Agito, on his way to collect water, becomes separated from his friend and stumbles upon a relic of the past: a girl sleeping in a mysterious machine.\n\nAgito awakens the girl, Toola Cm Sacl, and introduces her to the village. But outside forces have ulterior motives for the girl, who holds the key to restore the Earth. Misguided by Shunack, a soldier from the old world hellbent on destroying the forest, Toola follows him despite Agito's warning. Determined to save Toola and unify humankind with the forest, Agito borrows the power of the forest and pursues her.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
@@ -295,17 +309,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:08:10.831Z",
+    "lastFetched": "2026-06-26T17:48:09.009Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

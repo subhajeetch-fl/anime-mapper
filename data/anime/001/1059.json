@@ -22,32 +22,38 @@
     "english": null,
     "native": "ミュータント タートルズ 超人伝説編",
     "synonyms": [
+      "Mutant Turtles: Superman Legend",
       "Teenage Mutant Ninja Turtles: Legend of the Supermutants",
+      "TMNT",
       "Mutant Ninja Turtles: Superman Legend"
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Other",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 2,
   "episodeLength": 28,
   "aired": {
-    "from": "1996-05-21",
+    "from": "1996-05-21T00:00:00+00:00",
     "to": "1996-05-21"
   },
   "season": "spring",
   "year": 1996,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "G - All Ages",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 5.24,
+    "malScoredBy": 1721,
+    "malRank": 13949,
+    "malPopularity": 10623,
+    "malMembers": 3625,
+    "malFavorites": 12,
     "anilistScore": 4.5,
     "anilistPopularity": 1125,
     "anilistFavourites": 6,
@@ -55,11 +61,11 @@
     "kitsuRating": 5.52
   },
   "genres": [
+    "Action",
     "Adventure",
     "Comedy",
     "Sci-Fi",
     "Super Power",
-    "Action",
     "Earth",
     "Ninja",
     "New York",
@@ -75,15 +81,20 @@
     "Present",
     "Science Fiction"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Bee Media",
+    "Tsuburaya Productions"
+  ],
+  "producers": [
+    "Nippon Columbia"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/948/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/12/44255l.jpg",
     "banner": null,
     "color": "#e4ae5d"
   },
   "trailer": null,
-  "synopsis": "When the Teenage Mutant Ninja Turtles acquire Mutastones from Crys-Mu, the spirit of light, they acquire the ability to enhance themselves into Super Turtles for a duration of three minutes. Meanwhile, the evil Shredder and his minions Bebop and Rocksteady stumble upon the Dark Mutastone, which transforms them into Devil Shredder, Supermutant Bebop and Supermutant Rocksteady, respectively. But the Turtles have one more trick up their shells: all four of them can combine into their ultimate form—Turtle Saint.\n(Source: ANN)",
+  "synopsis": "When the Teenage Mutant Ninja Turtles acquire Mutastones from Crys-Mu, the spirit of light, they acquire the ability to enhance themselves into Super Turtles for a duration of three minutes. Meanwhile, the evil Shredder and his minions Bebop and Rocksteady stumble upon the Dark Mutastone, which transforms them into Devil Shredder, Supermutant Bebop and Supermutant Rocksteady, respectively. But the Turtles have one more trick up their shells: all four of them can combine into their ultimate form—Turtle Saint.\n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -148,17 +159,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:59:40.328Z",
+    "lastFetched": "2026-06-26T17:46:35.582Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

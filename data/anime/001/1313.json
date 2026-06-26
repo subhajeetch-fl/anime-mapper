@@ -19,46 +19,52 @@
   },
   "title": {
     "romaji": "Digimon Adventure 02",
-    "english": "Digimon: Digital Monsters 02",
+    "english": "Digimon Adventure 02",
     "native": "デジモンアドベンチャー０２",
     "synonyms": [
+      "Digimon Adventure Zero Two",
+      "Digimon: Digital Monsters 02",
       "Digimon Zero Two"
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 50,
   "episodeLength": 25,
   "aired": {
-    "from": "2000-04-02",
-    "to": "2001-03-25"
+    "from": "2000-04-02T00:00:00+00:00",
+    "to": "2001-03-25T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2000,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "09:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG - Children",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.24,
+    "malScoredBy": 149608,
+    "malRank": 3433,
+    "malPopularity": 1220,
+    "malMembers": 233859,
+    "malFavorites": 811,
     "anilistScore": 6.9,
     "anilistPopularity": 38522,
     "anilistFavourites": 607,
-    "anilistTrending": 1,
+    "anilistTrending": 0,
     "kitsuRating": 7.1
   },
   "genres": [
     "Action",
     "Adventure",
     "Comedy",
-    "Drama",
     "Fantasy",
+    "Drama",
     "Sci-Fi",
     "Kids",
     "Friendship",
@@ -67,14 +73,17 @@
   "studios": [
     "Toei Animation"
   ],
-  "producers": [],
+  "producers": [
+    "Yomiko Advertising",
+    "Fuji TV"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1178/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/8/20360l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1313-wiSJWvPXTwGF.jpg",
     "color": "#e4a135"
   },
   "trailer": null,
-  "synopsis": "A few years after the adventures of the Chosen Children in the Digital World, a new batch of Chosen Children are summoned to save the Digital World. An evil ruler known as the Digimon Kaiser, or Digimon Emperor, is forcing the Digital World's Digimon into enslavement. The new group of Chosen Children, with the help of their Digimon, then begin a journey to stop the evil Digimon Emperor.",
+  "synopsis": "Taichi Yagami and his friends have moved on to junior high, but by that time, they have lost contact with their Digimon partners. Taichi is therefore surprised to suddenly receive a distress call summoning him to the Digital World. Once there, he learns that Digimon are living in fear of the mysterious Digimon Emperor, who is somehow suppressing their ability to Digivolve!\n\nIn the real world, Hikari Yagami and Takeru Takaishi reunite in the same fifth grade class. They share three schoolmates: Daisuke Motomiya, who reminds them both of Taichi; Miyako Inoue, a technical wizard; and Iori Hida, Miyako's neighbor. When these three children receive \"D-3\" Digivices, they—along with Hikari and Takeru, who still possess their own original Digivices—comprise the new generation of \"Chosen Children\" who must save the world once again. With the power of the Armored Digi-Eggs, they must thwart the Digimon Emperor's plans to spread his influence over the entire Digital World.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 2397,
@@ -970,17 +979,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:22:57.920Z",
+    "lastFetched": "2026-06-26T17:56:58.909Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Game",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": 20,
   "aired": {
-    "from": "1999-04-03",
-    "to": "1999-09-25"
+    "from": "1999-04-03T00:00:00+00:00",
+    "to": "1999-09-25T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1999,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG - Children",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.54,
+    "malScoredBy": 4114,
+    "malRank": 7589,
+    "malPopularity": 7579,
+    "malMembers": 9126,
+    "malFavorites": 21,
     "anilistScore": 6.1,
     "anilistPopularity": 2264,
     "anilistFavourites": 31,
@@ -63,14 +67,16 @@
   "studios": [
     "Studio Pierrot"
   ],
-  "producers": [],
+  "producers": [
+    "Avex Entertainment"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/141/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1110/98247l.jpg",
     "banner": null,
     "color": "#e4ae50"
   },
   "trailer": null,
-  "synopsis": "An ancient legend tells of a magical Powerstone that granted its owner any wish desired. Adventurers from all over the globe clash as they seek this mystical gem. \nBased upon the Dreamcast game, POWERSTONE tries to entertain us with the story behind the game's premise. The plot begins with our hero, Fokker, training to be a fighter like his idol, Vargas. \n(Source: AniDB)",
+  "synopsis": "An ancient legend tells of a magical Powerstone that granted its owner any wish desired. Adventurers from all over the globe clash as they seek this mystical gem. \n\nBased upon the Dreamcast game, POWERSTONE tries to entertain us with the story behind the game's premise. The plot begins with our hero, Fokker, training to be a fighter like his idol, Vargas. \n\n(Source: AniDB)",
   "sequence": [
     {
       "malId": 293,
@@ -539,17 +545,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:15:28.728Z",
+    "lastFetched": "2026-06-26T17:42:39.947Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

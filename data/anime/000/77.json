@@ -21,34 +21,41 @@
     "romaji": "Mahou Shoujo Lyrical Nanoha A's",
     "english": "Magical Girl Lyrical Nanoha A's",
     "native": "魔法少女リリカルなのはＡ’ｓ",
-    "synonyms": []
+    "synonyms": [
+      "Mahou Shoujo Lyrical Nanoha A's",
+      "Nanoha Season 2"
+    ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 13,
   "episodeLength": 25,
   "aired": {
-    "from": "2005-10-02",
-    "to": "2005-12-25"
+    "from": "2005-10-02T00:00:00+00:00",
+    "to": "2005-12-25T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2005,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.96,
+    "malScoredBy": 35478,
+    "malRank": 806,
+    "malPopularity": 3017,
+    "malMembers": 69657,
+    "malFavorites": 1025,
     "anilistScore": 7.8,
     "anilistPopularity": 15599,
     "anilistFavourites": 390,
-    "anilistTrending": 1,
+    "anilistTrending": 0,
     "kitsuRating": 7.91
   },
   "genres": [
@@ -75,14 +82,17 @@
   "studios": [
     "Seven Arcs"
   ],
-  "producers": [],
+  "producers": [
+    "Starchild Records",
+    "Omnibus Promotion"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/57/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/4/6767l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/77-T4VUflM5o47a.jpg",
     "color": "#e450c9"
   },
   "trailer": null,
-  "synopsis": "After the events of the Lost Logia case, Nanoha waits patiently for the day she can reunite with her newfound friend, Fate. Although being an exceptionally powerful mage, Nanoha spends her days normally with her friends on Earth. But peace is once again suddenly shattered, as Nanoha is without warning attacked by a powerful mage. A group of violent mages have been attacking anything with magic power for their own goals. Nanoha and Fate, along with their friends Yuuno, Arf, Chrono and the Space/Time Administration Bureau must once more band together to stop these renegade mages from hurting anyone or anything else. Takes place after the first season of Lyrical Nanoha.",
+  "synopsis": "After solving the incident of the scattered Jewel Seeds, Nanoha Takamachi happily returns to her everyday life, though now with added magic practice in the morning. Exchanging video messages with Fate Testarossa and the crew of the Arthra, Nanoha eagerly awaits the chance to speak with them in person again. But while studying in her room one day, Raising Heart suddenly calls out to Nanoha and warns her of an incoming attack!\n\nThe attacker is a young girl named Vita, who calls herself a Belka Knight. She proves her strength by using an intelligent device with a mysterious cartridge system to quickly overwhelm Nanoha. Luckily, the Space-Time Administration Bureau is able to step in before she is completely crushed. Vita and her fellow knights Shamal, Signum, and Zafila are on a mission to steal magical power from mages in order to complete the Book of Darkness, one of the Lost Logia. For what sinister purpose are the knights after this Book of Darkness?\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 76,
@@ -575,17 +585,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:10:48.461Z",
+    "lastFetched": "2026-06-26T17:42:13.546Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

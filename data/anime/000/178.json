@@ -19,40 +19,45 @@
   },
   "title": {
     "romaji": "Ultra Maniac",
-    "english": "Ultramaniac - Magical Girl",
+    "english": "Ultra Maniac",
     "native": "ウルトラマニアック",
     "synonyms": []
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": 24,
   "aired": {
-    "from": "2003-05-20",
-    "to": "2003-11-11"
+    "from": "2003-05-20T00:00:00+00:00",
+    "to": "2003-11-11T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2003,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "G",
+  "rating": "G - All Ages",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.18,
+    "malScoredBy": 14638,
+    "malRank": 3823,
+    "malPopularity": 4288,
+    "malMembers": 36744,
+    "malFavorites": 150,
     "anilistScore": 6.9,
     "anilistPopularity": 6431,
     "anilistFavourites": 90,
-    "anilistTrending": 0,
+    "anilistTrending": 1,
     "kitsuRating": 7.54
   },
   "genres": [
     "Comedy",
+    "Fantasy",
     "Romance",
     "Supernatural",
     "Magic",
@@ -69,14 +74,16 @@
   "studios": [
     "Ashi Productions"
   ],
-  "producers": [],
+  "producers": [
+    "WAO World"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/155/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/8/53571l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178-TPk1fvP9ntW3.jpg",
     "color": "#e44328"
   },
   "trailer": null,
-  "synopsis": "Hideo Middle School eighth-grader Ayu Tateishi, as a member of the tennis club, is of course a cool girl who is popular among the girls in the school. Actually, she's an ordinary girl pretending to be cool, because Kaji-kun of the baseball team likes her.\nShe is adored by the transfer student Nina Sakura. Nina actually has a huge secret?! Because she is a young witch who transferred from the magic kingdom. She's a real witch which a magic computer and a magical treasure box. But this magic always causes big problems!!\nNow back to the boys. Of course there's Tetsushi Kaji, the up-and-coming ace of the baseball team, who is very popular among the girls, and his best friend, the calm and quiet member of the tennis club, Hiroki Tsujiai, and many others.\nThis story is a school love comedy set at Hideo Middle School, starring the cool beauty Ayu, the young witch Nina, the baseball team's Kaji-kun, and the tennis team's Tsujiai-kun. Also, there are original characters that Yoshizumi-sensei designed specifically for the anime, so please look forward to it!\n(Source: AnimeNfo)",
+  "synopsis": "Fantasies and miracles never interested Ayu Tateishi, a popular second-year student at her middle school. She was content with preserving her image of being cool, calm, and collected—all to catch the eye of her crush, Tetsushi Kaji. Ayu's carefree youthful days are interrupted by the appearance of Nina Sakura, a new transfer student who turns out to be a witch. As the only person who knows about Nina's ability to cast spells using a mini-computer, Ayu is forced to help Nina with her mission to find the five Holy Stones, qualifying her to marry the prince of the Magic Kingdom.\n\nUnfortunately, Nina's ineptitude with magic and her habit of meddling in Ayu's personal life cause nothing but trouble for the two of them as Ayu toils to maintain her good reputation and Nina struggles to hide her secret from the discerning eye of Hiroki Tsujiai, Tetsushi's best friend and an avid fan of manga. And when Nina's search for the five Holy Stones brings allies and challengers from the Magic Kingdom, Ayu is dragged into a world she never even dreamed was possible.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 179,
@@ -530,17 +537,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:16:23.041Z",
+    "lastFetched": "2026-06-26T17:42:46.610Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -26,27 +26,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 25,
   "episodeLength": null,
   "aired": {
-    "from": "2005-10-10",
-    "to": "2006-03-26"
+    "from": "2005-10-10T00:00:00+00:00",
+    "to": "2006-03-26T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2005,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.61,
+    "malScoredBy": 1741,
+    "malRank": 7121,
+    "malPopularity": 8318,
+    "malMembers": 7187,
+    "malFavorites": 7,
     "anilistScore": 5.9,
     "anilistPopularity": 1606,
     "anilistFavourites": 14,
@@ -66,14 +70,16 @@
   "studios": [
     "TMS Entertainment"
   ],
-  "producers": [],
+  "producers": [
+    "Zet"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/813/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/7/2768l.jpg",
     "banner": null,
     "color": "#e4ae50"
   },
   "trailer": null,
-  "synopsis": "At first glance, Mao Ran is a normal cute girl, but she is a master of a martial arts handed down by Mao family. One day, she is tricked by her grandfather, and forced to take part in the fighting match, \"Prime Mat\". First, she is reluctant to fight, but fighting against the rivals, she is gradually fascinated by the \"fighting\".\n(Source: AnimeNfo)",
+  "synopsis": "At first glance, Mao Ran is a normal cute girl, but she is a master of a martial arts handed down by Mao family. One day, she is tricked by her grandfather, and forced to take part in the fighting match, \"Prime Mat\". First, she is reluctant to fight, but fighting against the rivals, she is gradually fascinated by the \"fighting\".\n\n(Source: AnimeNfo)",
   "sequence": [
     {
       "malId": 968,
@@ -527,17 +533,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:46:36.472Z",
+    "lastFetched": "2026-06-26T17:44:09.313Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

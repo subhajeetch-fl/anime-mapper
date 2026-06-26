@@ -22,42 +22,47 @@
     "english": "Astro Boy (2003)",
     "native": "アストロボーイ・鉄腕アトム",
     "synonyms": [
-      "Astroboy"
+      "Astroboy",
+      "Astro Boy (2003)"
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 50,
   "episodeLength": 24,
   "aired": {
-    "from": "2003-04-06",
-    "to": "2004-03-28"
+    "from": "2003-04-06T00:00:00+00:00",
+    "to": "2004-03-28T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2003,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "G",
+  "rating": "G - All Ages",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.15,
+    "malScoredBy": 12498,
+    "malRank": 3958,
+    "malPopularity": 4799,
+    "malMembers": 28501,
+    "malFavorites": 201,
     "anilistScore": 7,
     "anilistPopularity": 7682,
     "anilistFavourites": 192,
-    "anilistTrending": 0,
+    "anilistTrending": 1,
     "kitsuRating": 6.64
   },
   "genres": [
     "Action",
     "Adventure",
-    "Mecha",
     "Sci-Fi",
+    "Mecha",
     "Super Power",
     "Kids",
     "Science Fiction"
@@ -65,14 +70,18 @@
   "studios": [
     "Tezuka Productions"
   ],
-  "producers": [],
+  "producers": [
+    "Sony Pictures Entertainment",
+    "Dentsu",
+    "Mill Creek Entertainment"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/861/poster_image/b9b3d80ebc1c91b7a5fb41d15e27f167.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1611/94026l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/971-WjQ8lXLMGiRs.jpg",
     "color": "#e4351a"
   },
   "trailer": null,
-  "synopsis": "Astro is a robotic boy that posses super human powers and an artificial intelligence system that is unparalleled to any robot. His creator, Dr. Tenma, created him to replace his late son, Tovio. Dr. Tenma soon destroys his laboratory, after the creation of Astro, and shuts down Astro. Soon after, Dr. O'Shay, the head of the Ministry of Science revives Astro, and tries to give him a normal life as a 6th grade student that helps the police agency keep renegade robots and bigot humans from causing harm. Astro faces extreme racism for being a robot, and he must discover the truth about his creator Dr. Tenma. \n(Source: ANN)",
+  "synopsis": "At the Ministry of Science, fervent Professor Ochanomizu alongside his coworkers strive to reactivate Atom—the first robot with a human heart. Atom is the masterpiece of enigmatic Professor Umatarou Tenma, who built the android to replace his deceased son Tobio. However, while Tenma inexplicably shut down his brainchild and disappeared, Ochanomizu refuses to let such a major breakthrough in science go to waste.\n\nDespite having the appearance of a nine-year-old, Atom not only possesses incredible strength and intelligence, but he is also endowed with a remarkable conscience and compassion that rivals humans. Sadly, the mechanical boy soon faces rejection and learns that not everyone is as welcoming as Ochanomizu. Although automatons have integrated into society, they are accepted only as tools and even seen as an upcoming threat to mankind's dominion.\n\nDreaming of a world where people and robots can prosper together, Atom dedicates his existence to protecting the lives of both and inspiring them to form genuine bonds.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 2747,
@@ -1367,17 +1376,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:50:25.611Z",
+    "lastFetched": "2026-06-26T17:44:50.569Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -27,27 +27,31 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
   "episodeLength": 30,
   "aired": {
-    "from": "1996-03-06",
-    "to": "1996-06-05"
+    "from": "1996-03-06T00:00:00+00:00",
+    "to": "1996-06-05T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1996,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.08,
+    "malScoredBy": 1642,
+    "malRank": 10399,
+    "malPopularity": 8386,
+    "malMembers": 7082,
+    "malFavorites": 2,
     "anilistScore": 5.8,
     "anilistPopularity": 2961,
     "anilistFavourites": 18,
@@ -62,17 +66,19 @@
     "Action"
   ],
   "studios": [
-    "J.C.STAFF",
+    "J.C.Staff",
     "T-UP"
   ],
-  "producers": [],
+  "producers": [
+    "Kadokawa Shoten"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/985/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1728/133610l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1100-Ih5fWAwTlTxQ.jpg",
     "color": "#d61a28"
   },
   "trailer": null,
-  "synopsis": "Meet Yohko Yamamoto - a cat-eyed, 15-year-old girl in the late 20th century with a love for videogames and Pocky. Because of her exceptional talent with arcade shooters, she's been recruited by Lawson to travel a thousand years into the future to pilot the prototype ship TA-29. Together with Ayano Elizabeth Hakuhoin, Madoka Midoh and Momiji Kagariya, Yohko leads the Terran team against Rouge and Ness' infamous Red Snappers in this epic space adventure. \n(Source: ANN)",
+  "synopsis": "Meet Yohko Yamamoto - a cat-eyed, 15-year-old girl in the late 20th century with a love for videogames and Pocky. Because of her exceptional talent with arcade shooters, she's been recruited by Lawson to travel a thousand years into the future to pilot the prototype ship TA-29. Together with Ayano Elizabeth Hakuhoin, Madoka Midoh and Momiji Kagariya, Yohko leads the Terran team against Rouge and Ness' infamous Red Snappers in this epic space adventure. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1671,
@@ -149,17 +155,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:03:32.521Z",
+    "lastFetched": "2026-06-26T17:47:12.657Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

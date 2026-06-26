@@ -21,30 +21,37 @@
     "romaji": "Kidou Senshi Gundam I",
     "english": "Mobile Suit Gundam I",
     "native": "機動戦士ガンダムⅠ",
-    "synonyms": []
+    "synonyms": [
+      "Kidou Senshi Gundam I Gekijouban",
+      "Mobile Suit Gundam Movie 1"
+    ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 140,
   "aired": {
-    "from": "1981-03-14",
+    "from": "1981-03-14T00:00:00+00:00",
     "to": "1981-03-14"
   },
   "season": "spring",
   "year": 1981,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.26,
+    "malScoredBy": 31424,
+    "malRank": 3324,
+    "malPopularity": 3494,
+    "malMembers": 53633,
+    "malFavorites": 141,
     "anilistScore": 7.1,
     "anilistPopularity": 18137,
     "anilistFavourites": 209,
@@ -52,11 +59,11 @@
     "kitsuRating": 7.17
   },
   "genres": [
-    "Action",
     "Adventure",
     "Drama",
-    "Mecha",
     "Sci-Fi",
+    "Action",
+    "Mecha",
     "Space",
     "Military",
     "Science Fiction",
@@ -66,14 +73,16 @@
   "studios": [
     "Sunrise"
   ],
-  "producers": [],
+  "producers": [
+    "Sotsu"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/975/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1915/128896l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1090-IuQ15ERz31Mb.jpg",
     "color": "#e49350"
   },
   "trailer": null,
-  "synopsis": "It is the year Universal Century 0079. Over 90 million people now populate the Earth and have been forced to live in space. People now live in large cylinder like colony clusters called Sides, all ruled over the Earth Federation Space Force (E.F.S.F.). Then, a group of colonies near the dark side of the moon, called Side 3, proclaimed themselves independent from the Earth Federation and called themselves the Principality of Zeon.\nNow the war has passed on for eight months through and the war doesn't seem to end. They are both at a stalemate. The Federation tries with its last attempt to create a new powerful force to fight against the Zeonic forces. They create the White Base and a new and powerful Mobile Suit called the Gundam. The problem is, they are used by youths...\n(Source: Otakufreakmk2)",
+  "synopsis": "In the future, with Earth's population rapidly increasing, humanity has developed giant orbiting space colonies gathered in clusters known as \"Sides.\" As the elites on Earth force most of the populace into space, rebellion begins to brew. In the year Universal Century 0079, one of the colony clusters known as Side 3 declares itself the Principality of Zeon and launches a war of independence against the Earth Federation.\n\nDespite having only a fraction of the resources of the Federation, Zeon quickly gains the upper hand in the conflict through the use of giant humanoid robots called mobile suits. Chief among Zeon's mobile suit ace pilots is Char Aznable, a mysterious masked man known as the \"Red Comet.\" When Char's squadron comes across the Federation developing its own prototype mobile suit called Gundam in the colony Side 7, his men launch a brutal attack. Amuro Ray, the son of the prototype's developer, gets in the Gundam and is able to fend off the Zeon attack. As Amuro soon finds himself directly in conflict with Char, he is forced to flee the colony on a Federation ship.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 80,
@@ -251,17 +260,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:02:44.345Z",
+    "lastFetched": "2026-06-26T17:47:06.054Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

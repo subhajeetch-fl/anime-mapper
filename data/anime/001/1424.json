@@ -19,7 +19,7 @@
   },
   "title": {
     "romaji": "Lupin III: Otakara Henkyaku Daisakusen!!",
-    "english": "Lupin the 3rd: Operation Return the Treasure",
+    "english": "Lupin III: Operation Return the Treasure",
     "native": "ルパン三世: お宝返却大作戦！！",
     "synonyms": [
       "Rupan Sansei",
@@ -29,28 +29,32 @@
       "Lupin III : Opération Diamant"
     ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "TV Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 90,
   "aired": {
-    "from": "2003-08-01",
+    "from": "2003-08-01T00:00:00+00:00",
     "to": "2003-08-01"
   },
   "season": "summer",
   "year": 2003,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.32,
+    "malScoredBy": 3224,
+    "malRank": 2988,
+    "malPopularity": 7957,
+    "malMembers": 8052,
+    "malFavorites": 4,
     "anilistScore": 7.1,
     "anilistPopularity": 2525,
     "anilistFavourites": 15,
@@ -58,10 +62,10 @@
     "kitsuRating": 7.36
   },
   "genres": [
+    "Action",
     "Adventure",
     "Comedy",
     "Mystery",
-    "Action",
     "Crime",
     "Earth",
     "Thievery",
@@ -72,16 +76,17 @@
     "Present"
   ],
   "studios": [
+    "TMS Entertainment",
     "Tokyo Movie"
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1277/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1688/146710l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1424-WShjWtFS4B4R.jpg",
     "color": "#1a28d6"
   },
   "trailer": null,
-  "synopsis": "After robbing a Moscow casino right under Zenigata's nose, Lupin sets his sights on stealing the Trick Diamond. He and Jigen head to the estate of the recently deceased Mark Williams, another master thief who's had the diamond, as well as other treasures, in his possession for years. However, instead of finding the diamond, Lupin &amp; Jigen find Fujiko, who tells them about Mark's dying wish - Lupin must return all the treasures the old thief stole to their rightful place. If this is done in time, the location of the diamond will be revealed, and Lupin can use it to get the real treasure, hidden in Gaudí's Sagrada Familia. Returning the stolen goods isn't easy though, as Zenigata and the casino boss' ruthless gang are on Lupin and friends' tail. \n(Source: ANN)",
+  "synopsis": "After robbing a Moscow casino right under Zenigata's nose, Lupin sets his sights on stealing the Trick Diamond. He and Jigen head to the estate of the recently deceased Mark Williams, another master thief who's had the diamond, as well as other treasures, in his possession for years. However, instead of finding the diamond, Lupin &amp; Jigen find Fujiko, who tells them about Mark's dying wish - Lupin must return all the treasures the old thief stole to their rightful place. If this is done in time, the location of the diamond will be revealed, and Lupin can use it to get the real treasure, hidden in Gaudí's Sagrada Familia. Returning the stolen goods isn't easy though, as Zenigata and the casino boss' ruthless gang are on Lupin and friends' tail. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1412,
@@ -130,17 +135,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:36:07.132Z",
+    "lastFetched": "2026-06-26T17:59:05.950Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

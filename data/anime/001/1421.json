@@ -19,36 +19,41 @@
   },
   "title": {
     "romaji": "Lupin III: Hemingway Paper no Nazo",
-    "english": "Lupin the 3rd: The Hemingway Papers",
+    "english": "Lupin III: The Hemingway Papers",
     "native": "ルパン三世ヘミングウェイペーパーの謎",
     "synonyms": [
+      "Lupin III: The Hemingway Paper Mystery",
       "Rupan Sansei: Hemmingway Paper no Nazo",
       "Lupin III: Mystery of the Hemingway Papers",
       "Lupin III - Il mistero delle carte di Hemingway"
     ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "TV Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 92,
   "aired": {
-    "from": "1990-07-20",
+    "from": "1990-07-20T00:00:00+00:00",
     "to": "1990-07-20"
   },
   "season": "summer",
   "year": 1990,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.9,
+    "malScoredBy": 3447,
+    "malRank": 5277,
+    "malPopularity": 7966,
+    "malMembers": 8026,
+    "malFavorites": 5,
     "anilistScore": 6.6,
     "anilistPopularity": 2796,
     "anilistFavourites": 12,
@@ -56,10 +61,10 @@
     "kitsuRating": 6.96
   },
   "genres": [
+    "Action",
     "Adventure",
     "Comedy",
     "Mystery",
-    "Action",
     "Crime",
     "Thievery",
     "Present",
@@ -68,14 +73,16 @@
   "studios": [
     "Tokyo Movie Shinsha"
   ],
-  "producers": [],
+  "producers": [
+    "VAP"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/1274/poster_image/c987fade47637b035002888c60721432.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/3/60641l.jpg",
     "banner": null,
     "color": "#d6501a"
   },
   "trailer": null,
-  "synopsis": "A draft of Ernest Hemingway's final novel might hold the secret to an immense hidden treasure, and master thief Lupin the Third is on the hunt! He’ll have the help of his partners and the beautiful bartender Maria, but he'll have to contend with a local civil war, the mercenary Crazy Mash, and his super-wealthy boss Marces to get it.\n\n(Source: Discotek Media)",
+  "synopsis": "Word is out that the \"Hemingway Papers\", the newly discovered last novel by the great author, tells the hiding place of a buried treasure on a desolate Mediterranean island. Lupin sneaks onto the island where, instead of treasure-hunting, he finds himself embroiled in a violent struggle for power. To Lupin's surprise, his old buddies Jigen and Goemon are also in the fight for their own reasons. Marcus the Merchant of Death also lands on the island accompanied by Fujiko, Lupin's greatest weakness, and followed by the police inspector, who is forever on Lupin's tail. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1412,
@@ -169,17 +176,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:35:32.458Z",
+    "lastFetched": "2026-06-26T17:58:59.348Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

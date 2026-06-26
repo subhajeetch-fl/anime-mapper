@@ -23,33 +23,40 @@
     "native": "おるちゅばんエビちゅ",
     "synonyms": [
       "Ebichu Minds the House",
+      "Anime Ai no Awa Awa Hour",
+      "Anime Lovers' Awa Awa Hour",
+      "Anime Lovers' Bubble Bubble Hour",
+      "Modern Love's Silliness",
       "アニメ愛のあわあわアワー",
-      "Anime no Ai Awa Awa Hour",
-      "Modern Love's Silliness"
+      "Anime no Ai Awa Awa Hour"
     ]
   },
-  "type": "TV_SHORT",
-  "source": null,
-  "status": "finished",
+  "type": "TV",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 24,
   "episodeLength": 8,
   "aired": {
-    "from": "1999-08-01",
-    "to": "1999-10-01"
+    "from": "1999-08-01T00:00:00+00:00",
+    "to": "1999-10-01T00:00:00+00:00"
   },
   "season": "summer",
   "year": 1999,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.36,
+    "malScoredBy": 21575,
+    "malRank": 2787,
+    "malPopularity": 3317,
+    "malMembers": 58786,
+    "malFavorites": 393,
     "anilistScore": 6.8,
     "anilistPopularity": 12318,
     "anilistFavourites": 174,
@@ -68,16 +75,19 @@
     "Present"
   ],
   "studios": [
+    "Gainax",
     "Group TAC"
   ],
-  "producers": [],
+  "producers": [
+    "Pioneer LDC"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/949/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/4/79591l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1060-RGrtSPm6amMJ.jpg",
     "color": "#28aee4"
   },
   "trailer": null,
-  "synopsis": "Ebichu the hamster seems like the perfect house pet: she cleans, shops, cooks, does laundry, and anything to please her master, known only as \"Office Lady\" (OL). Unfortunately, OL and her unfaithful boyfriend, combined with Ebichu's uncontrollable exuberance and love for ice cream, often earn her severe and bloody punishment. However, Ebichu doesn't seem to mind the abuse if she achieves her goal of making her beloved master a little bit happier.\n(Source: IMDB)",
+  "synopsis": "Ebichu the hamster seems like the perfect house pet: she cleans, shops, cooks, does laundry, and anything to please her master, known only as \"Office Lady\" (OL). Unfortunately, OL and her unfaithful boyfriend, combined with Ebichu's uncontrollable exuberance and love for ice cream, often earn her severe and bloody punishment. However, Ebichu doesn't seem to mind the abuse if she achieves her goal of making her beloved master a little bit happier.\n\n(Source: IMDB)",
   "sequence": [
     {
       "malId": 6075,
@@ -108,17 +118,15 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-26T12:59:51.957Z",
+    "lastFetched": "2026-06-26T17:46:37.446Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

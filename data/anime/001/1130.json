@@ -19,36 +19,40 @@
   },
   "title": {
     "romaji": "Windaria",
-    "english": "Once Upon A Time",
+    "english": "Once Upon a Time",
     "native": "ウインダリア",
     "synonyms": [
       "Tales of Windaria",
       "Windaria: Legend of Fabulous Battle",
-      "Douwa meita senshi Windaria"
+      "Douwa Meita Senshi Windaria"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 100,
   "aired": {
-    "from": "1986-07-19",
+    "from": "1986-07-19T00:00:00+00:00",
     "to": "1986-07-19"
   },
   "season": "summer",
   "year": 1986,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.51,
+    "malScoredBy": 4536,
+    "malRank": 7804,
+    "malPopularity": 6933,
+    "malMembers": 11348,
+    "malFavorites": 34,
     "anilistScore": 6.1,
     "anilistPopularity": 3473,
     "anilistFavourites": 26,
@@ -68,16 +72,20 @@
     "Science Fiction"
   ],
   "studios": [
+    "Kaname Productions",
+    "Idol",
     "Studio Gallop"
   ],
-  "producers": [],
+  "producers": [
+    "Gallop"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1013/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/12/25497l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1130-2vesEgiAIlmV.jpg",
     "color": "#e46b43"
   },
   "trailer": null,
-  "synopsis": "Two pairs of young lovers become embroiled in a war between two rival kingdoms, the primitive but resplendent Isa and the militaristic but undisciplined Paro. Izu and his young wife, Marin , are simple farmers who live in the unassuming village of Saki, which lies directly between Isa and Paro. While Saki does not have the beauty of Isa nor the war machines of Paro, they do possess a magnificent tree known as \"Windaria,\" to which the villagers give their prayers in return for \"good memories.\" \nWhen the war erupts, Izu decides to join Paro's army, enthralled by the fantastic motorbike \"given\" to him as a bribe. Before he departs, they each take a vow: He will definitely return to her, and until he does, she will wait for him. The other two lovers are Jill, the prince of Paro, and Ahanas, Princess of Isa. They initially want nothing to do with the rapidly escalating conflict, but after Jill's father, Paro's king, dies by his son's hand in an altercation over the war, Jill has little choice but to realize his father's final wish: the taking of Isa. \nThe only problem is that he had promised his beloved, Ahanas, that he would not become involved. Windaria is a war parable set in a fantasy land of unicorns and ghost ships.\n(Source: AnimeNfo)",
+  "synopsis": "The non-aggression pact between the flourishing maritime city of Itha and the barren military state of Paro comes to an end when the latter's greedy monarch attempts to sabotage Itha and target its riches. Following this dreadful incident, the escalating animosity on each side disturbs the happiness of Itha's princess Ahnas and Paro's prince Jill, both of whom are deeply in love.\n\nThe peaceful farmers from the village of Saki are worried as well. With their land separating Itha and Paro, they risk getting caught in the crossfire of an upcoming battle. Yet there is one among them that does not share such fear. Izu—an ambitious, energetic young man—sees this war as an opportunity to gain fame and wealth. Enticed by Paro's promise of a generous reward, he readily answers the kingdom's call for help, vowing to his beloved wife Marin that they will soon reunite.\n\nFeeling heartbroken, Marin becomes engrossed in prayer for her husband's safe return. Meanwhile, Ahnas and Jill are determined to not let their positions or their families' hostilities come between them. But will these young people's genuine love prevail over human foolishness and vices, or will it be sacrificed to petty ambitions?\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
@@ -127,17 +135,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:06:37.150Z",
+    "lastFetched": "2026-06-26T17:47:55.824Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

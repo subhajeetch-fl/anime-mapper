@@ -22,43 +22,47 @@
     "english": "Galaxy Express 999",
     "native": "銀河鉄道９９９",
     "synonyms": [
-      "GE999",
-      "Ginga Tetsudo 999"
+      "Ginga Tetsudo 999",
+      "GE999"
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 113,
   "episodeLength": 25,
   "aired": {
-    "from": "1978-09-14",
-    "to": "1981-04-09"
+    "from": "1978-09-14T00:00:00+00:00",
+    "to": "1981-03-26T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1978,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "G",
+  "rating": "G - All Ages",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.79,
+    "malScoredBy": 8153,
+    "malRank": 1173,
+    "malPopularity": 3795,
+    "malMembers": 46453,
+    "malFavorites": 516,
     "anilistScore": 7.5,
     "anilistPopularity": 16007,
     "anilistFavourites": 392,
-    "anilistTrending": 0,
+    "anilistTrending": 1,
     "kitsuRating": 7.71
   },
   "genres": [
     "Adventure",
     "Drama",
-    "Mecha",
     "Sci-Fi",
+    "Mecha",
     "Space",
     "Space Travel",
     "Science Fiction",
@@ -75,14 +79,16 @@
   "studios": [
     "Toei Animation"
   ],
-  "producers": [],
+  "producers": [
+    "Fuji TV"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1337/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1685/104554l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1491-Y0zzsr3VsxgN.jpg",
     "color": "#e4780d"
   },
   "trailer": null,
-  "synopsis": "In the distant future, humanity has found a way to live forever by purchasing mechanical bodies, but this way to immortality is extraordinarily expensive. An impoverished boy, Tetsurou Hoshino, desires to purchase a pass on the Galaxy Express 999—a train that travels throughout the universe—because it is said that at the end of the line, those aboard can obtain a mechanical body for free. When Tetsurou's mother is gunned down by the villainous machine-man hybrid Count Mecha, however, all seems lost.\nTetsurou is then saved from certain death by the mysterious Maetel, a tall woman with blonde hair and a striking resemblance to his mother. She gives him a pass to the Galaxy Express under one condition: that they travel together. Thus, Tetsurou begins his journey across the universe to many unique planets and thrilling adventures, in hopes of being able to attain that which he most desires.\n[Written by MAL Rewrite]",
+  "synopsis": "In the distant future, humanity has found a way to live forever by purchasing mechanical bodies, but this way to immortality is extraordinarily expensive. An impoverished boy, Tetsurou Hoshino, desires to purchase a pass on the Galaxy Express 999—a train that travels throughout the universe—because it is said that at the end of the line, those aboard can obtain a mechanical body for free. When Tetsurou's mother is gunned down by the villainous machine-man hybrid Count Mecha, however, all seems lost.\n \nTetsurou is then saved from certain death by the mysterious Maetel, a tall woman with blonde hair and a striking resemblance to his mother. She gives him a pass to the Galaxy Express under one condition: that they travel together. Thus, Tetsurou begins his journey across the universe to many unique planets and thrilling adventures, in hopes of being able to attain that which he most desires.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 1000,
@@ -2064,17 +2070,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:42:20.260Z",
+    "lastFetched": "2026-06-26T18:00:17.782Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

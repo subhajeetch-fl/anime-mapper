@@ -19,32 +19,38 @@
   },
   "title": {
     "romaji": "Sci-fi Harry",
-    "english": "Sci-fi Harry",
+    "english": "Sci-Fi Harry",
     "native": "サイファイハリー",
-    "synonyms": []
+    "synonyms": [
+      "Neo Psychic Experiment: Sci-Fi Harry"
+    ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 20,
   "episodeLength": 25,
   "aired": {
-    "from": "2000-10-06",
-    "to": "2001-03-23"
+    "from": "2000-10-06T00:00:00+00:00",
+    "to": "2001-03-23T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2000,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "02:09",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.22,
+    "malScoredBy": 2762,
+    "malRank": 9586,
+    "malPopularity": 7078,
+    "malMembers": 10771,
+    "malFavorites": 20,
     "anilistScore": 5.6,
     "anilistPopularity": 3308,
     "anilistFavourites": 33,
@@ -55,6 +61,7 @@
     "Drama",
     "Horror",
     "Sci-Fi",
+    "Suspense",
     "Earth",
     "Contemporary Fantasy",
     "Fantasy",
@@ -75,14 +82,18 @@
   "studios": [
     "APPP"
   ],
-  "producers": [],
+  "producers": [
+    "TV Asahi",
+    "Nagoya Broadcasting Network",
+    "Arts Pro"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1353/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/9/57605l.jpg",
     "banner": null,
     "color": "#5093e4"
   },
   "trailer": null,
-  "synopsis": "Harry is definitely not your average American teenager. Instead, he is the epitome of an \"alienated youth\" - friendless at school, extremely weird and nervous to the point of paranoia. But a chance occurrence causes Harry to start to demonstrate what appear to be psychic powers - yet he neither believes in them nor consciously controls them.\nBut there are other ominous forces at work who do believe in Harry, and attempt to make use of him in ways that are threatening and frightful.\n(Source: AniDB)",
+  "synopsis": "Harry is definitely not your average American teenager. Instead, he is the epitome of an \"alienated youth\"—friendless at school, extremely weird, and nervous to the point of paranoia. But a chance occurrence causes Harry to start to demonstrate what appear to be psychic powers—yet he neither believes in them nor consciously controls them.\n\nHowever, there are other ominous forces at work who do believe in Harry and attempt to make use of him in ways that are threatening and frightful.\n\n(Source: AniDB, edited)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -417,17 +428,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:44:21.374Z",
+    "lastFetched": "2026-06-26T18:00:37.420Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
   "episodeLength": 30,
   "aired": {
-    "from": "2004-01-21",
-    "to": "2004-04-28"
+    "from": "2004-01-21T00:00:00+00:00",
+    "to": "2004-04-28T00:00:00+00:00"
   },
   "season": "winter",
   "year": 2004,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.22,
+    "malScoredBy": 5750,
+    "malRank": 3571,
+    "malPopularity": 6407,
+    "malMembers": 13751,
+    "malFavorites": 26,
     "anilistScore": 6.5,
     "anilistPopularity": 2456,
     "anilistFavourites": 19,
@@ -62,16 +66,18 @@
     "Present"
   ],
   "studios": [
-    "Studio DEEN"
+    "Studio Deen"
   ],
-  "producers": [],
+  "producers": [
+    "Aniplex"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/87/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1304/140180l.jpg",
     "banner": null,
     "color": null
   },
   "trailer": null,
-  "synopsis": "Jing, the infamous King of Bandits, finds himself and his feathered partner Kir behind bars in Seventh Heaven, the most notorious prison complex in the world. There, they seek to steal the Dream Orb from the convict Campari. But before doing so, they must escape from the prison of dreams that Campari has conjured for them. ",
+  "synopsis": "Jing, the infamous King of Bandits, finds himself and his feathered partner Kir behind bars in Seventh Heaven, the most notorious prison complex in the world. There, they seek to steal the Dream Orb from the convict Campari. But before doing so, they must escape from the prison of dreams that Campari has conjured for them.",
   "sequence": [
     {
       "malId": 107,
@@ -135,17 +141,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:12:02.424Z",
+    "lastFetched": "2026-06-26T17:42:15.761Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

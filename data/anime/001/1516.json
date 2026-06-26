@@ -27,27 +27,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 153,
   "episodeLength": 22,
   "aired": {
-    "from": "2006-04-07",
-    "to": "2009-03-27"
+    "from": "2006-04-07T00:00:00+00:00",
+    "to": "2009-03-27T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.14,
+    "malScoredBy": 14766,
+    "malRank": 4042,
+    "malPopularity": 4329,
+    "malMembers": 36011,
+    "malFavorites": 291,
     "anilistScore": 6.8,
     "anilistPopularity": 7356,
     "anilistFavourites": 170,
@@ -57,8 +61,8 @@
   "genres": [
     "Comedy",
     "Drama",
-    "Music",
     "Romance",
+    "Music",
     "Love Polygon",
     "Idol"
   ],
@@ -66,14 +70,18 @@
     "SynergySP",
     "G&G Entertainment"
   ],
-  "producers": [],
+  "producers": [
+    "MediaNet",
+    "Sony Music Entertainment",
+    "Shogakukan Productions"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1361/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1089/116598l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1516-xBV6FIRXoAJt.jpg",
     "color": "#9328fe"
   },
   "trailer": null,
-  "synopsis": "Kirari Tsukishima, a gluttonous 14-year-old beauty, is a girl who does not care about idols and the entertainment world because her mind is occupied by food. Her obsession with food only causes her to be clueless about love.\nOne day, after saving a turtle that is stranded in a tree, Kirari meets with a handsome and gentle boy named Seiji, who gives her ticket to a SHIPS (a popular idol group) concert to show his gratitude for her saving his pet. Kirari then storms off to the concert and runs into another boy, who tears up her ticket and warns her to stay away from Seiji because she and Seiji live in different worlds. The outraged Kirari then sneaks into the concert, only to discover that Seiji and the boy who tore her ticket, named Hiroto, are actually members of SHIPS.\nFinally understanding the meaning of \"different worlds\" (Seiji is a popular idol while she is an average middle school student), Kirari refuses to give up. Filled with determination to be with Seiji, she declares that she will also become an idol.\n(Source: Wikipedia)",
+  "synopsis": "Kirari Tsukishima, a gluttonous 14-year-old beauty, is a girl who does not care about idols and the entertainment world because her mind is occupied by food. Her obsession with food only causes her to be clueless about love.\n\nOne day, after saving a turtle that is stranded in a tree, Kirari meets with a handsome and gentle boy named Seiji, who gives her ticket to a SHIPS (a popular idol group) concert to show his gratitude for her saving his pet. Kirari then storms off to the concert and runs into another boy, who tears up her ticket and warns her to stay away from Seiji because she and Seiji live in different worlds. The outraged Kirari then sneaks into the concert, only to discover that Seiji and the boy who tore her ticket, named Hiroto, are actually members of SHIPS.\n\nFinally understanding the meaning of \"different worlds\" (Seiji is a popular idol while she is an average middle school student), Kirari refuses to give up. Filled with determination to be with Seiji, she declares that she will also become an idol.\n\n(Source: Wikipedia)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -2388,17 +2396,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:45:03.251Z",
+    "lastFetched": "2026-06-26T18:00:44.484Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

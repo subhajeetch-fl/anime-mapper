@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 12,
   "episodeLength": 24,
   "aired": {
-    "from": "2004-10-04",
-    "to": "2004-12-14"
+    "from": "2004-10-04T00:00:00+00:00",
+    "to": "2004-12-14T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2004,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "03:12",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 5.99,
+    "malScoredBy": 3136,
+    "malRank": 10874,
+    "malPopularity": 7187,
+    "malMembers": 10447,
+    "malFavorites": 10,
     "anilistScore": 5.5,
     "anilistPopularity": 2135,
     "anilistFavourites": 21,
@@ -62,14 +66,18 @@
   "studios": [
     "Studio Egg"
   ],
-  "producers": [],
+  "producers": [
+    "Avex Entertainment",
+    "TV Asahi",
+    "Avex Mode"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1048/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/11/3796l.jpg",
     "banner": null,
     "color": "#e4aea1"
   },
   "trailer": null,
-  "synopsis": "It is the beginning of the industrial revolution, and feudal Japan is in turmoil. The ruling Shogun are wielding their abusive powers to instill fear and dominance over their oppressed subjects. Beatings, imprisonment, rape and even murder are the adopted tactics chosen to maintain their reign. The bloodshed must end. A group of Samurai have banded together, and, with the development of new weapons and new technology, they have both the will and the hardware to stand up and fight. Ichimatsu is one of these fighters. By day, he works incognito at a local tavern, in the evenings he frequents the brothels, and by the dark of night, he doles out some big-time, gun-barrel justice. He is here to help. He is Samurai Gun. \n(Source: ANN)",
+  "synopsis": "It is the beginning of the industrial revolution, and feudal Japan is in turmoil. The ruling Shogun are wielding their abusive powers to instill fear and dominance over their oppressed subjects. Beatings, imprisonment, rape and even murder are the adopted tactics chosen to maintain their reign. The bloodshed must end. A group of Samurai have banded together, and, with the development of new weapons and new technology, they have both the will and the hardware to stand up and fight. Ichimatsu is one of these fighters. By day, he works incognito at a local tavern, in the evenings he frequents the brothels, and by the dark of night, he doles out some big-time, gun-barrel justice. He is here to help. He is Samurai Gun. \n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -299,17 +307,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:10:52.892Z",
+    "lastFetched": "2026-06-26T17:48:44.885Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

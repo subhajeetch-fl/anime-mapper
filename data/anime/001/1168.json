@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Light novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 10,
   "episodeLength": 48,
   "aired": {
-    "from": "1994-10-01",
-    "to": "1996-08-01"
+    "from": "1994-10-01T00:00:00+00:00",
+    "to": "1996-08-01T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1994,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.23,
+    "malScoredBy": 4744,
+    "malRank": 3518,
+    "malPopularity": 7001,
+    "malMembers": 11072,
+    "malFavorites": 12,
     "anilistScore": 6.9,
     "anilistPopularity": 2801,
     "anilistFavourites": 22,
@@ -64,16 +68,20 @@
     "Future"
   ],
   "studios": [
-    "Studio DEEN"
+    "Studio Deen",
+    "Daume"
   ],
-  "producers": [],
+  "producers": [
+    "d-rights",
+    "Omnibus Promotion"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1049/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/5/30471l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1168-ODnL985hKBMj.jpg",
     "color": "#0d5086"
   },
   "trailer": null,
-  "synopsis": "Six long months have passed. The Raalgon Empire has developed a horrible new type of weapon, and Tylor has been charged with the duty of intercepting it as it is being transported. But when all that could go wrong does go wrong, the crew members of the Soyokaze find themselves at the mercy of their enemies. As the hours tick down toward their execution, the crew wonders: has their irresponsible captain misled them? Or is this all a part of some greater strategy?\n(Source: RightStuf)",
+  "synopsis": "Six long months have passed. The Raalgon Empire has developed a horrible new type of weapon, and Tylor has been charged with the duty of intercepting it as it is being transported. But when all that could go wrong does go wrong, the crew members of the Soyokaze find themselves at the mercy of their enemies. As the hours tick down toward their execution, the crew wonders: has their irresponsible captain misled them? Or is this all a part of some greater strategy?\n\n(Source: RightStuf)",
   "sequence": [
     {
       "malId": 569,
@@ -117,17 +125,15 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-26T13:11:04.750Z",
+    "lastFetched": "2026-06-26T17:48:51.845Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

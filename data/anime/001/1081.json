@@ -26,27 +26,31 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 13,
   "episodeLength": 25,
   "aired": {
-    "from": "2002-12-21",
-    "to": "2003-12-21"
+    "from": "2002-12-21T00:00:00+00:00",
+    "to": "2003-12-21T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2002,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.33,
+    "malScoredBy": 3117,
+    "malRank": 2957,
+    "malPopularity": 7163,
+    "malMembers": 10522,
+    "malFavorites": 43,
     "anilistScore": 6.9,
     "anilistPopularity": 2580,
     "anilistFavourites": 25,
@@ -55,26 +59,29 @@
   },
   "genres": [
     "Action",
+    "Adventure",
+    "Drama",
     "Sci-Fi",
     "Space",
-    "Drama",
-    "Adventure",
     "Science Fiction",
     "Fantasy",
     "Space Opera",
     "Pirate"
   ],
   "studios": [
-    "MADHOUSE"
+    "Madhouse"
   ],
-  "producers": [],
+  "producers": [
+    "VAP",
+    "Pioneer LDC"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/966/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1543/106174l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/966/original.jpg",
     "color": "#f1c9bb"
   },
   "trailer": null,
-  "synopsis": "On an archaelogical mission to the end of the known universe, Professor Daiba unwitting unleashes an ancient horror from its confines. Five years later the malevolent alien force sets in motion a plan which reunites the various crewmembers of the Arcadia to sail the stars once more as well as bring Tadashi Daiba to meet Harlock for the first time (again). \n(Source: ANN) ",
+  "synopsis": "On an archaelogical mission to the end of the known universe, Professor Daiba unwitting unleashes an ancient horror from its confines. Five years later the malevolent alien force sets in motion a plan which reunites the various crewmembers of the Arcadia to sail the stars once more as well as bring Tadashi Daiba to meet Harlock for the first time (again). \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1000,
@@ -498,17 +505,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:01:46.898Z",
+    "lastFetched": "2026-06-26T17:46:57.291Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -26,28 +26,32 @@
       "Lupin III: Fuga da Alcatraz"
     ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "TV Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 90,
   "aired": {
-    "from": "2001-08-03",
+    "from": "2001-08-03T00:00:00+00:00",
     "to": "2001-08-03"
   },
   "season": "summer",
   "year": 2001,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.06,
+    "malScoredBy": 3698,
+    "malRank": 4493,
+    "malPopularity": 7651,
+    "malMembers": 8927,
+    "malFavorites": 9,
     "anilistScore": 6.7,
     "anilistPopularity": 2942,
     "anilistFavourites": 13,
@@ -55,24 +59,28 @@
     "kitsuRating": 7.02
   },
   "genres": [
+    "Action",
     "Adventure",
     "Comedy",
-    "Action",
     "Crime",
     "Thievery",
     "Slapstick"
   ],
   "studios": [
+    "TMS Entertainment",
     "Tokyo Movie"
   ],
-  "producers": [],
+  "producers": [
+    "VAP",
+    "Nippon Television Network"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/1266/poster_image/63daada17575cb739b21199a28969de2.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1899/134187l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1413-ZA2ENIHksr7J.jpg",
     "color": "#e48643"
   },
   "trailer": null,
-  "synopsis": "Secretly operating his cruiser as a casino at sea isn’t enough for California mafia don Lukino Marcano. He’s also looking for the gold-laden boat wreckage worth the budget of a small country! Lupin sniffs out the plan to recover this long-lost treasure and brings along his partners Jigen, Goemon, and Fujiko for the ride to crash Lukino’s party. But Inspector Zenigata is always on Lupin’s tail, and this time he’s got an unusually aggressive local cop for a partner! Watch as Lupin uncovers the true mystery behind the Alcatraz island prison and the sinister syndicate, the Secret Seven!\n\n(Source: Discotek Media)",
+  "synopsis": "Zenigata arrives on the ship \"Machine Gun Kelly\", a casino on the water owned by the mafia, because Lupin plans on stealing the casino's money. Lupin and his gang manages to break into the ship's vault but was unable to escape with the money due to Zenigata's shooting. However, there was another purpose the ship had, one that Lupin was aware of; to search for a sunken ship filled with gold. Lupin managed to steal this data while he was on the ship, however, now they have to contend with Zenigata, the mafia, and a secret organization whose base is under Alcatraz, as they attempt to uncover the secret behind the organization and the sunken treasure.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1412,
@@ -121,17 +129,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:34:21.665Z",
+    "lastFetched": "2026-06-26T17:58:46.117Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

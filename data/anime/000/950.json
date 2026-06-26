@@ -22,31 +22,35 @@
     "english": "Street Fighter Alpha: Generations",
     "native": "ストリートファイターZERO: ジェネレーションズ",
     "synonyms": [
-      "Street Fighter ZERO 2"
+      "Street Fighter Zero 2"
     ]
   },
-  "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Game",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 42,
   "aired": {
-    "from": "2005-10-25",
+    "from": "2005-10-25T00:00:00+00:00",
     "to": "2005-10-25"
   },
   "season": "fall",
   "year": 2005,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.46,
+    "malScoredBy": 8989,
+    "malRank": 8138,
+    "malPopularity": 6075,
+    "malMembers": 15784,
+    "malFavorites": 19,
     "anilistScore": 6,
     "anilistPopularity": 2846,
     "anilistFavourites": 32,
@@ -64,12 +68,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/842/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/2/3455l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/950-QerAIxhF18Br.jpg",
     "color": "#e4d635"
   },
   "trailer": null,
-  "synopsis": "When Ryu returns to pay homage to his deceased mentor, Gouken, he is tormented by disturbing memories of his master's killer. In a quest to become a true martial arts master, Ryu sets out to hone his street fighting skills and to deliver himself from the haunting legacy of the Dark Hadou. But the ultimate test of his new power can only be accomplished through one last fateful confrontation with his arch-nemesis, Gouki (Akuma). \n(Source: AniDB)",
+  "synopsis": "When Ryu returns to pay homage to his deceased mentor, Gouken, he is tormented by disturbing memories of his master's killer. In a quest to become a true martial arts master, Ryu sets out to hone his street fighting skills and to deliver himself from the haunting legacy of the Dark Hadou. But the ultimate test of his new power can only be accomplished through one last fateful confrontation with his arch-nemesis, Gouki (Akuma). \n\n(Source: AniDB)",
   "sequence": [
     {
       "malId": 979,
@@ -103,17 +107,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:48:38.412Z",
+    "lastFetched": "2026-06-26T17:44:24.709Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

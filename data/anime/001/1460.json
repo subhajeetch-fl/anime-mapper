@@ -29,27 +29,31 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 6,
   "episodeLength": 30,
   "aired": {
-    "from": "1994-07-21",
-    "to": "1995-04-21"
+    "from": "1994-07-21T00:00:00+00:00",
+    "to": "1995-04-21T00:00:00+00:00"
   },
   "season": "summer",
   "year": 1994,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.36,
+    "malScoredBy": 2121,
+    "malRank": 8764,
+    "malPopularity": 9370,
+    "malMembers": 5327,
+    "malFavorites": 9,
     "anilistScore": 6,
     "anilistPopularity": 1513,
     "anilistFavourites": 24,
@@ -57,11 +61,11 @@
     "kitsuRating": 6.63
   },
   "genres": [
-    "Action",
     "Adventure",
     "Drama",
-    "Mecha",
     "Sci-Fi",
+    "Action",
+    "Mecha",
     "Space",
     "Military",
     "Power Suit",
@@ -80,14 +84,16 @@
   "studios": [
     "Tatsunoko Production"
   ],
-  "producers": [],
+  "producers": [
+    "Starchild Records"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1310/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1338/99226l.jpg",
     "banner": null,
     "color": "#e4ae35"
   },
   "trailer": null,
-  "synopsis": "10 years have passed since the end of the last war against the radam. A new team of Space Knights has been assembled under the lead of Aki and D-boy. The first mission of the new tekkaman is to defeat the radam but then, they have to fight against a remnent from the past.\n(Source: ANN)",
+  "synopsis": "10 years have passed since the end of the last war against the radam. A new team of Space Knights has been assembled under the lead of Aki and D-boy. The first mission of the new tekkaman is to defeat the radam but then, they have to fight against a remnent from the past.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1459,
@@ -196,17 +202,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:39:28.760Z",
+    "lastFetched": "2026-06-26T17:59:49.032Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

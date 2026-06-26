@@ -22,6 +22,7 @@
     "english": "Dragon Ball Z: The Tree of Might",
     "native": "ドラゴンボールＺ 地球まるごと超決戦",
     "synonyms": [
+      "Dragon Ball Z: The Decisive Battle for the Entire Earth",
       "Dragon Ball Z: La super batalla",
       "ดราก้อนบอล Z เดอะมูฟวี่ 3 ศึกสะท้านพิภพ ",
       "Bảy Viên Ngọc Rồng Z: Mầm Cây Sinh Lực ",
@@ -31,28 +32,32 @@
       "Драконий жемчуг Зет: Решающая битва за Землю"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 61,
   "aired": {
-    "from": "1990-07-07",
+    "from": "1990-07-07T00:00:00+00:00",
     "to": "1990-07-07"
   },
   "season": "summer",
   "year": 1990,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.7,
+    "malScoredBy": 92972,
+    "malRank": 6497,
+    "malPopularity": 1780,
+    "malMembers": 150983,
+    "malFavorites": 66,
     "anilistScore": 6.3,
     "anilistPopularity": 32108,
     "anilistFavourites": 235,
@@ -62,9 +67,9 @@
   "genres": [
     "Action",
     "Adventure",
-    "Sci-Fi",
     "Comedy",
     "Fantasy",
+    "Sci-Fi",
     "Science Fiction",
     "Martial Arts",
     "Super Power"
@@ -72,14 +77,17 @@
   "studios": [
     "Toei Animation"
   ],
-  "producers": [],
+  "producers": [
+    "Fuji TV",
+    "Shueisha"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/796/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1956/90345l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/896-WMwj6ze1rcqE.jpg",
     "color": "#6b351a"
   },
   "trailer": null,
-  "synopsis": "The Saiyajin named Turlus has come to Earth in order to plant a tree that will both destroy the planet and give him infinite strength. Son Goku and the Z Warriors cannot let this happen and duke it out with the invaders for the sake of the planet.\n(Source: ANN)",
+  "synopsis": "A mysterious device crashes on planet Earth, causing a wildfire near where Gohan Son, Kuririn, Bulma, and Oolong are camping. Unable to fully save the forest, they decide to use the Dragon Balls to restore it to its previous condition. A few days later, a group of unknown warriors plant a seed where the mysterious device had crashed, sprouting a colossal tree that destroys the forest and neighboring cities in the process.\n\nNorth Kaio contacts Gokuu Son and tells him that this tree is the \"Shinseiju\"—a tree that absorbs all the nutrients in the planet and leaves it a barren wasteland, all the while growing a mighty fruit capable of providing incredible power to anyone who eats it. After learning of this, Gokuu and his friends try destroying the tree before it is too late, but that may prove to be more difficult than they had previously imagined.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 813,
@@ -139,17 +147,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:44:23.253Z",
+    "lastFetched": "2026-06-26T17:43:45.100Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

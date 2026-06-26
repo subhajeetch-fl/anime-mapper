@@ -22,31 +22,36 @@
     "english": "El Hazard: The Alternative World",
     "native": "異次元の世界エルハザード",
     "synonyms": [
+      "Ijigen no Sekai El Hazard",
       "Ijigen no Sekai El-Hazard"
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 13,
   "episodeLength": 25,
   "aired": {
-    "from": "1998-01-08",
-    "to": "1998-03-26"
+    "from": "1998-01-08T00:00:00+00:00",
+    "to": "1998-03-26T00:00:00+00:00"
   },
   "season": "winter",
   "year": 1998,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:15",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.8,
+    "malScoredBy": 5496,
+    "malRank": 5886,
+    "malPopularity": 6493,
+    "malMembers": 13277,
+    "malFavorites": 10,
     "anilistScore": 6.4,
     "anilistPopularity": 2383,
     "anilistFavourites": 18,
@@ -64,14 +69,16 @@
   "studios": [
     "AIC"
   ],
-  "producers": [],
+  "producers": [
+    "Pioneer LDC"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/94/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1843/139490l.jpg",
     "banner": null,
     "color": "#28bbf1"
   },
   "trailer": null,
-  "synopsis": "Miz plans to retire as a Great Priestess of Water to married life with her darling Fujisawa and as replacement the young Qawoor Towles arrives to Floristica. Jinnai sees Qawoor's initiation ceremony as a chance to infiltrate Makoto's laboratory but accidentally activates a mysterious thingy that sends them all through the dimensions to a grey industrial city protected by a huge castle in an alternative world.\n(Source: ANN)",
+  "synopsis": "Miz plans to retire as a Great Priestess of Water to married life with her darling Fujisawa and as replacement the young Qawoor Towles arrives to Floristica. Jinnai sees Qawoor's initiation ceremony as a chance to infiltrate Makoto's laboratory but accidentally activates a mysterious thingy that sends them all through the dimensions to a grey industrial city protected by a huge castle in an alternative world.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 118,
@@ -330,17 +337,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:12:25.412Z",
+    "lastFetched": "2026-06-26T17:42:17.966Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

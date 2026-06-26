@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 2,
   "episodeLength": 24,
   "aired": {
-    "from": "2004-09-10",
-    "to": "2005-09-22"
+    "from": "2004-09-10T00:00:00+00:00",
+    "to": "2005-09-22T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2004,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.67,
+    "malScoredBy": 3146,
+    "malRank": 6735,
+    "malPopularity": 8125,
+    "malMembers": 7664,
+    "malFavorites": 11,
     "anilistScore": 6.4,
     "anilistPopularity": 2475,
     "anilistFavourites": 12,
@@ -63,10 +67,14 @@
     "Magical Girl",
     "Present"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Tatsunoko Production"
+  ],
+  "producers": [
+    "Geneon Entertainment"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/821/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/13/46145l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/921-gOBzVEq5p4vh.jpg",
     "color": "#e4ae43"
   },
@@ -238,17 +246,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:47:20.660Z",
+    "lastFetched": "2026-06-26T17:44:15.922Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

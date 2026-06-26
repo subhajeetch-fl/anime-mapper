@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 6,
   "episodeLength": 30,
   "aired": {
-    "from": "1989-09-01",
-    "to": "1994-05-20"
+    "from": "1989-09-01T00:00:00+00:00",
+    "to": "1994-05-20T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1989,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.07,
+    "malScoredBy": 9434,
+    "malRank": 10413,
+    "malPopularity": 4765,
+    "malMembers": 28950,
+    "malFavorites": 132,
     "anilistScore": 5.5,
     "anilistPopularity": 9071,
     "anilistFavourites": 114,
@@ -53,8 +57,8 @@
   },
   "genres": [
     "Action",
-    "Adventure",
     "Sci-Fi",
+    "Adventure",
     "Police",
     "Power Suit",
     "Science Fiction",
@@ -76,17 +80,20 @@
     "Cyberpunk"
   ],
   "studios": [
+    "D.A.S.T Corporation",
     "D.A.S.T. Corporation",
     "Studio 88"
   ],
-  "producers": [],
+  "producers": [
+    "Soeishinsha"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1206/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1377/110296l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1351-RbjaIGG4BXOj.jpg",
     "color": "#1a93d6"
   },
   "trailer": null,
-  "synopsis": "Sometime in the future, terrorism in Japan has become commonplace, and the police have become almost as brutal as criminals. A member of the Special Security Force known as Angel, is the best of the best, stopping at nothing in her fight for justice.\nThings get interesting for Angel and her partner, Raiden, when they begin investigating a series of murders in which the victims were known criminals, killed in very unpleasant ways. This trio of killers known as Hunters, is a group of psychics that have banded together to hunt down the lowest scum in the city and bring them to justice.\nAfter a couple of encounters between the cops and the psychics, two of the psychics begin to think that maybe they're not the good guys after all; but the third prefers killing to morality. Augmented by cybernetics from a mysterious source, this third hunter heads out on a killing spree, with the Special Security Force as the first target. \nEven with help from the other two psychics and her newly cyborged partner (after an unfortunate accident), Angel is going to have her work cut out trying to find the rogue psychic and the organization behind the Hunters.",
+  "synopsis": "Sometime in the future, terrorism in Japan has become commonplace, and the police have become almost as brutal as criminals. A member of the Special Security Force known as Angel, is the best of the best, stopping at nothing in her fight for justice.\n\nThings get interesting for Angel and her partner, Raiden, when they begin investigating a series of murders in which the victims were known criminals, killed in very unpleasant ways. This trio of killers known as Hunters, is a group of psychics that have banded together to hunt down the lowest scum in the city and bring them to justice.\n\nAfter a couple of encounters between the cops and the psychics, two of the psychics begin to think that maybe they're not the good guys after all; but the third prefers killing to morality. Augmented by cybernetics from a mysterious source, this third hunter heads out on a killing spree, with the Special Security Force as the first target. \n\nEven with help from the other two psychics and her newly cyborged partner (after an unfortunate accident), Angel is going to have her work cut out trying to find the rogue psychic and the organization behind the Hunters.",
   "sequence": [],
   "episodes": {
     "1": {
@@ -241,17 +248,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:25:55.417Z",
+    "lastFetched": "2026-06-26T17:57:35.739Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

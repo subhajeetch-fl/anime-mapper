@@ -19,35 +19,40 @@
   },
   "title": {
     "romaji": "Tenchi Muyou! Manatsu no Eve",
-    "english": "Tenchi the Movie 2: The Daughter of Darkness",
+    "english": "Tenchi the Movie 2: Daughter of Darkness",
     "native": "天地無用！真夏のイヴ",
     "synonyms": [
       "Tenchi Muyou! Midsummer's Eve",
+      "Tenchi Muyo! Manatsu no Eve",
       "Tenchi The Movie 2 - The Daughter of Darkness"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 59,
   "aired": {
-    "from": "1997-08-02",
+    "from": "1997-08-02T00:00:00+00:00",
     "to": "1997-08-02"
   },
   "season": "summer",
   "year": 1997,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.1,
+    "malScoredBy": 8402,
+    "malRank": 4291,
+    "malPopularity": 5931,
+    "malMembers": 16796,
+    "malFavorites": 17,
     "anilistScore": 6.7,
     "anilistPopularity": 3122,
     "anilistFavourites": 34,
@@ -71,14 +76,19 @@
   "studios": [
     "AIC"
   ],
-  "producers": [],
+  "producers": [
+    "Genco",
+    "Pioneer LDC",
+    "Nippon Cultural Broadcasting",
+    "Arts Pro"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/986/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1289/151613l.jpg",
     "banner": null,
     "color": "#e4ae5d"
   },
   "trailer": null,
-  "synopsis": "A girl, Mayuka, appears one day claiming to be Tenchi's daughter, much to the shock of the Masaki household. Chaos ensues as Washu attempts to discover Mayuka's background, and the girls adjust to the new presence at their home. The result of her appearance reaches back into the past, and puts Tenchi in danger. Tenchi and Ryoko must travel into the realm of a demon called Yuzuha in order to try and set things right, but their task is not an easy one. \n(Source: ANN)",
+  "synopsis": "Tenchi Masaki gets the surprise of his life when a teenage girl approaches him and calls him \"Daddy.\" Believing that the girl is mistaking him for someone else, Tenchi brings her home to figure out what is going on, which turns out to be a big mistake. When the girl introduces herself as Mayuka Masaki, Tenchi's daughter, the Masaki household is thrown into yet another frenzy. \n\nThinking that Mayuka is just taking advantage of Tenchi, the girls refuse to believe that she is really his child. However, when DNA testing reveals that Tenchi is indeed her father, Washuu comes to the conclusion that Mayuka is his daughter from the future, the result of a recent time distortion. With this new revelation, everyone tries to welcome Mayuka into their lives with the sole exception being Ryouko Hakubi, who senses something sinister lurking beneath Mayuka's charm.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 696,
@@ -112,17 +122,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:03:44.037Z",
+    "lastFetched": "2026-06-26T17:47:14.865Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

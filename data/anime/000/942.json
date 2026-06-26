@@ -26,27 +26,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Light novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 13,
   "episodeLength": 24,
   "aired": {
-    "from": "2006-04-08",
-    "to": "2006-07-01"
+    "from": "2006-04-08T00:00:00+00:00",
+    "to": "2006-07-01T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:45",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.67,
+    "malScoredBy": 6562,
+    "malRank": 6750,
+    "malPopularity": 5425,
+    "malMembers": 21288,
+    "malFavorites": 51,
     "anilistScore": 6.1,
     "anilistPopularity": 3886,
     "anilistFavourites": 31,
@@ -67,16 +71,23 @@
     "Plot Continuity"
   ],
   "studios": [
-    "Hal Film Maker"
+    "HAL Film Maker"
   ],
-  "producers": [],
+  "producers": [
+    "Mellow Head",
+    "Imagica",
+    "Mag Garden",
+    "Tablier Communications",
+    "On The Run",
+    "Geneon Entertainment"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/838/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/9/75549l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/838/original.jpg",
     "color": "#e4785d"
   },
   "trailer": null,
-  "synopsis": "On Filiel's 15th birthday, she received her mother's necklace as a memento from her obstinate astronomer father. Her common and tedious life was turned into a life of conspiracies. With her new life, many adventures await.\n(Source: ANN)",
+  "synopsis": "On Filiel's 15th birthday, she received her mother's necklace as a memento from her obstinate astronomer father. Her common and tedious life was turned into a life of conspiracies. With her new life, many adventures await.\n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -366,17 +377,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:48:13.430Z",
+    "lastFetched": "2026-06-26T17:44:20.295Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

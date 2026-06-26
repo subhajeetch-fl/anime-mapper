@@ -23,28 +23,32 @@
     "native": "タッチ Miss Lonely Yesterday あれから",
     "synonyms": []
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "TV Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 90,
   "aired": {
-    "from": "1998-12-22",
+    "from": "1998-12-22T00:00:00+00:00",
     "to": "1998-12-22"
   },
   "season": "fall",
   "year": 1998,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.59,
+    "malScoredBy": 1947,
+    "malRank": 7277,
+    "malPopularity": 9989,
+    "malMembers": 4413,
+    "malFavorites": 3,
     "anilistScore": 6.1,
     "anilistPopularity": 1495,
     "anilistFavourites": 7,
@@ -61,10 +65,18 @@
     "School Life",
     "Present"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Group TAC"
+  ],
+  "producers": [
+    "VAP",
+    "TOHO",
+    "Nippon Television Network",
+    "Shogakukan",
+    "Toho Music"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1381/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1300/96421l.jpg",
     "banner": null,
     "color": "#f1a128"
   },
@@ -116,17 +128,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:47:29.351Z",
+    "lastFetched": "2026-06-26T18:01:08.269Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -23,31 +23,37 @@
     "native": "好きなものは好きだからしょうがない！！",
     "synonyms": [
       "Sukisyo",
+      "I like what I like",
+      "so there!",
       "I like what I like, so there!"
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Visual novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 12,
   "episodeLength": 24,
   "aired": {
-    "from": "2005-01-09",
-    "to": "2005-03-27"
+    "from": "2005-01-09T00:00:00+00:00",
+    "to": "2005-03-27T00:00:00+00:00"
   },
   "season": "winter",
   "year": 2005,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.63,
+    "malScoredBy": 24230,
+    "malRank": 7017,
+    "malPopularity": 3532,
+    "malMembers": 52537,
+    "malFavorites": 237,
     "anilistScore": 5.9,
     "anilistPopularity": 6616,
     "anilistFavourites": 60,
@@ -55,6 +61,7 @@
     "kitsuRating": 6.46
   },
   "genres": [
+    "Boys Love",
     "Comedy",
     "Drama",
     "Romance",
@@ -67,11 +74,15 @@
     "Present"
   ],
   "studios": [
-    "ZEXCS"
+    "Zexcs"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Visual",
+    "Lantis",
+    "Movic"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1373/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/7/85449l.jpg",
     "banner": null,
     "color": "#f1e4c9"
   },
@@ -380,17 +391,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:46:44.798Z",
+    "lastFetched": "2026-06-26T18:01:01.657Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

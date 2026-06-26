@@ -19,34 +19,39 @@
   },
   "title": {
     "romaji": "Handsome na Kanojo",
-    "english": null,
+    "english": "Handsome Girl",
     "native": "ハンサムな彼女",
     "synonyms": [
+      "Handsome na Kanojo",
       "Handsome Girl"
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 37,
   "aired": {
-    "from": "1992-01-21",
+    "from": "1992-01-21T00:00:00+00:00",
     "to": "1992-01-21"
   },
   "season": "winter",
   "year": 1992,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 5.69,
+    "malScoredBy": 2211,
+    "malRank": 12399,
+    "malPopularity": 9440,
+    "malMembers": 5241,
+    "malFavorites": 3,
     "anilistScore": 5.2,
     "anilistPopularity": 1978,
     "anilistFavourites": 10,
@@ -61,16 +66,18 @@
     "Present"
   ],
   "studios": [
-    "J.C.STAFF"
+    "J.C.Staff"
   ],
-  "producers": [],
+  "producers": [
+    "Shueisha"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/999/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/10/34835l.jpg",
     "banner": null,
     "color": "#d6e450"
   },
   "trailer": null,
-  "synopsis": "Hagiwara Mio is a 14-year-old TV actress who has gotten popular. One day on a set, she meets Kumagai Ichiya, who tells her that her acting \"stinks\". Mio is hurt by his comments, but she finds that she can't get Ichiya out of her mind. It turns out that Ichiya is a promising director, who directed a music video for Mio's friend Sawaki Aya, an idol singer. After the success of this music video, Ichiya is asked to direct a movie, and he wants Mio to be the heroine, because he feels that she is a \"handsome\" girl like the actresses of old. How will Mio cope with her feelings toward Ichiya? \n(Source: T.H.E.M. Anime Review)",
+  "synopsis": "Hagiwara Mio is a 14-year-old TV actress who has gotten popular. One day on a set, she meets Kumagai Ichiya, who tells her that her acting \"stinks.\" Mio is hurt by his comments, but she finds that she can't get Ichiya out of her mind. It turns out that Ichiya is a promising director, who directed a music video for Mio's friend Sawaki Aya, an idol singer. After the success of this music video, Ichiya is asked to direct a movie, and he wants Mio to be the heroine, because he feels that she is a \"handsome\" girl like the actresses of old. How will Mio cope with her feelings toward Ichiya?\n\n(Source: T.H.E.M. Anime Review, edited)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -90,17 +97,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:05:15.492Z",
+    "lastFetched": "2026-06-26T17:47:42.871Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

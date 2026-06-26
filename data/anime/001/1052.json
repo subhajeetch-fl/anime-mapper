@@ -28,27 +28,31 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Unknown",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
   "episodeLength": 26,
   "aired": {
-    "from": "1999-07-23",
-    "to": "2000-01-21"
+    "from": "1999-07-23T00:00:00+00:00",
+    "to": "2000-01-21T00:00:00+00:00"
   },
   "season": "summer",
   "year": 1999,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 5.45,
+    "malScoredBy": 864,
+    "malRank": 13370,
+    "malPopularity": 11672,
+    "malMembers": 2730,
+    "malFavorites": 1,
     "anilistScore": 4.3,
     "anilistPopularity": 906,
     "anilistFavourites": 3,
@@ -65,16 +69,19 @@
     "Super Power"
   ],
   "studios": [
-    "ZEXCS"
+    "Zexcs"
   ],
-  "producers": [],
+  "producers": [
+    "KSS",
+    "Kitty Films"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/942/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1534/100531l.jpg",
     "banner": null,
     "color": "#d6351a"
   },
   "trailer": null,
-  "synopsis": "Long ago, in feudal Japan, there was a fierce warrior named the Demon King. He controlled a band of demons, known as the Kyouma. Only the powers of ten warriors sealed the Demon King away and kept the Kyouma under control. But now, Lord Shindigan, a powerful Kyouma is planning to free the Demon King, and the reincarnations of the ten warriors must band together and save the earth. \n(Source: ANN)",
+  "synopsis": "Long ago, in feudal Japan, there was a fierce warrior named the Demon King. He controlled a band of demons, known as the Kyouma. Only the powers of ten warriors sealed the Demon King away and kept the Kyouma under control. But now, Lord Shindigan, a powerful Kyouma is planning to free the Demon King, and the reincarnations of the ten warriors must band together and save the earth. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 25591,
@@ -138,17 +145,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:58:51.347Z",
+    "lastFetched": "2026-06-26T17:46:26.455Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

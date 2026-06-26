@@ -19,36 +19,42 @@
   },
   "title": {
     "romaji": "Lupin III: Bye Bye Liberty - Kiki Ippatsu!",
-    "english": "Lupin the 3rd: Bye Bye, Lady Liberty",
+    "english": "Lupin III: Goodbye Lady Liberty",
     "native": "ルパン三世 バイバイ・リバティー・危機一発!",
     "synonyms": [
+      "Rupan Sansei: Bye Bye Liberty - Kiki Ippatsu!",
+      "Lupin III: Bye Bye Liberty Crisis",
       "Lupin III: Bye Bye, Lady Liberty",
       "Lupin III - Bye Bye Liberty: Scoppia la crisi!",
       "Lupin e il mago dei computers"
     ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "TV Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 97,
   "aired": {
-    "from": "1989-04-01",
+    "from": "1989-04-01T00:00:00+00:00",
     "to": "1989-04-01"
   },
   "season": "spring",
   "year": 1989,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.85,
+    "malScoredBy": 4621,
+    "malRank": 5578,
+    "malPopularity": 7303,
+    "malMembers": 10034,
+    "malFavorites": 6,
     "anilistScore": 6.6,
     "anilistPopularity": 3272,
     "anilistFavourites": 25,
@@ -56,24 +62,26 @@
     "kitsuRating": 6.97
   },
   "genres": [
+    "Action",
     "Adventure",
     "Comedy",
     "Mystery",
-    "Action",
     "Crime",
     "Thievery"
   ],
   "studios": [
     "Tokyo Movie Shinsha"
   ],
-  "producers": [],
+  "producers": [
+    "VAP"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/1268/poster_image/2e2579637857bef4291a602e370b5af9.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/13/61691l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1415-2793S0TJTEzW.jpg",
     "color": "#feae50"
   },
   "trailer": null,
-  "synopsis": "Foiled repeatedly by the predictions of Interpol's supercomputer, professional looter Lupin the Third has settled down. His partner Jigen asks him to pull on last job: recover the Super Egg, a massive diamond hidden somewhere inside the Statue of Liberty. Suddenly a sinister secret organization and a young computer genius are thrown into the mix. And whose side is the buxom Fujiko on this time?\n\n(Source: Discotek Media)",
+  "synopsis": "In this adventure, Lupin III tries to erase the files about him in the world police network. He finds out about the Ultravirus, a computer virus that controls all others and its location is only known by a little kid. Meanwhile, he steals the Statue of Liberty to look for a diamond the size of a football that is said to be hidden somewhere in it. Apparently, the diamond and the ultravirus are somehow related... \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1412,
@@ -167,17 +175,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:34:33.683Z",
+    "lastFetched": "2026-06-26T17:58:48.360Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

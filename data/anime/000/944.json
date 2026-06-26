@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Light novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 24,
   "episodeLength": 23,
   "aired": {
-    "from": "2006-04-14",
-    "to": "2006-10-27"
+    "from": "2006-04-14T00:00:00+00:00",
+    "to": "2006-10-27T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.34,
+    "malScoredBy": 8391,
+    "malRank": 2910,
+    "malPopularity": 5173,
+    "malMembers": 23775,
+    "malFavorites": 97,
     "anilistScore": 7,
     "anilistPopularity": 4499,
     "anilistFavourites": 28,
@@ -68,14 +72,16 @@
   "studios": [
     "Xebec"
   ],
-  "producers": [],
+  "producers": [
+    "Kadokawa Shoten"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/840/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/12/75545l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/944-tF2EOd6ZzBEv.jpg",
     "color": "#93430d"
   },
   "trailer": null,
-  "synopsis": "In a devastated world overrun by monstrous bugs and ravaged by outlaws, there’s only one person to call when you really need a job done right: Honoka. With a sixth sense for danger, sword skills second to none, and a smart-aleck A.I. tank by the name of Bogie, she’s ready to tackle any job and solve any problem for her clients. But while crossing the desert one night, she finds a young man alone in the wasteland. It’s the first step of a journey that will challenge even Honoka’s amazing skills to their very limit!\n\n(Source: Nozomi Entertainment)",
+  "synopsis": "In the distant future, because of an interplanetary war that had continued on for centuries, civilizations were ruined. Human beings have lost everything, and only 1/5th of the population survived. A strange breed of humans, ''The Third'' is said to have appeared just after the war. They possess a third eye, as their name suggests, that appear as oval-shaped red pupils called \"space eyes'' over their conventional two eyes. Using them, they can control computer systems and so on, and as such, rule the world by their superior power over technology.\n\nIn this world, there is a young woman named Honoka; she is a \"jack-of-all-trades\" sellsword, and she accepts any job except murder. One day, she happens to find and rescue a young man named Ikus in the desert. Entering his world, and accepting a job from him, the adventure begins for Honoka and Ikus.\n\n(Source: BestAnime, modified)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -605,17 +611,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:48:25.977Z",
+    "lastFetched": "2026-06-26T17:44:22.524Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -27,27 +27,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 12,
   "episodeLength": 23,
   "aired": {
-    "from": "2003-10-04",
-    "to": "2003-12-20"
+    "from": "2003-10-04T00:00:00+00:00",
+    "to": "2003-12-20T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2003,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:15",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.96,
+    "malScoredBy": 4709,
+    "malRank": 4994,
+    "malPopularity": 7054,
+    "malMembers": 10870,
+    "malFavorites": 15,
     "anilistScore": 6.5,
     "anilistPopularity": 2150,
     "anilistFavourites": 20,
@@ -66,15 +70,22 @@
     "Science Fiction",
     "Earth"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "TNK"
+  ],
+  "producers": [
+    "Media Factory",
+    "KlockWorx",
+    "Toshiba Entertainment",
+    "Omnibus Promotion"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1011/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/8/22374l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1128-X4WqTIypO5R8.jpg",
     "color": "#e4c935"
   },
   "trailer": null,
-  "synopsis": "Valkyrie, Kazuto, Akina, Hydra, and friends are back for more when the Key of time suddenly appears along with many other mysterious happenings. All seemed to be linked to a person named \"Valkyrie Ghost\" whose only goal is stealing Kazuto for herself. As they team up against this seeming unbeatable foe they dig deeper into the mysterious past of Valkyrie's home planet, Valhalla.\n(Source: ANN)",
+  "synopsis": "Valkyrie, Kazuto, Akina, Hydra, and friends are back for more when the Key of time suddenly appears along with many other mysterious happenings. All seemed to be linked to a person named \"Valkyrie Ghost\" whose only goal is stealing Kazuto for herself. As they team up against this seeming unbeatable foe they dig deeper into the mysterious past of Valkyrie's home planet, Valhalla.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1127,
@@ -346,17 +357,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:06:13.879Z",
+    "lastFetched": "2026-06-26T17:47:51.419Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

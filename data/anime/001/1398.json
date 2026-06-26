@@ -26,27 +26,31 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 4,
   "episodeLength": 30,
   "aired": {
-    "from": "1997-12-18",
-    "to": "1998-08-25"
+    "from": "1997-12-18T00:00:00+00:00",
+    "to": "1998-08-25T00:00:00+00:00"
   },
   "season": "winter",
   "year": 1997,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.83,
+    "malScoredBy": 6465,
+    "malRank": 5691,
+    "malPopularity": 6084,
+    "malMembers": 15711,
+    "malFavorites": 20,
     "anilistScore": 6.7,
     "anilistPopularity": 5113,
     "anilistFavourites": 42,
@@ -56,9 +60,9 @@
   "genres": [
     "Adventure",
     "Comedy",
+    "Sci-Fi",
     "Mecha",
     "Music",
-    "Sci-Fi",
     "Science Fiction",
     "Action",
     "Space Opera"
@@ -66,9 +70,14 @@
   "studios": [
     "Ashi Productions"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Visual",
+    "Mainichi Broadcasting System",
+    "Studio Nue",
+    "Big West"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1251/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1412/138778l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1398-6frQ1HEiuyAa.jpg",
     "color": "#c96b28"
   },
@@ -240,17 +249,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:31:50.651Z",
+    "lastFetched": "2026-06-26T17:58:28.540Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

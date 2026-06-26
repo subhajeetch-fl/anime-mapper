@@ -27,27 +27,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": 24,
   "aired": {
-    "from": "1998-01-29",
-    "to": "1998-04-07"
+    "from": "1998-04-07T00:00:00+00:00",
+    "to": "1998-09-29T00:00:00+00:00"
   },
-  "season": "winter",
+  "season": "spring",
   "year": 1998,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.83,
+    "malScoredBy": 5317,
+    "malRank": 5701,
+    "malPopularity": 5680,
+    "malMembers": 18729,
+    "malFavorites": 56,
     "anilistScore": 6.4,
     "anilistPopularity": 4792,
     "anilistFavourites": 47,
@@ -60,9 +64,9 @@
     "Drama",
     "Fantasy",
     "Horror",
+    "Romance",
     "Sci-Fi",
     "Magic",
-    "Romance",
     "Post Apocalypse",
     "Contemporary Fantasy",
     "Earth",
@@ -79,14 +83,18 @@
   "studios": [
     "Radix"
   ],
-  "producers": [],
+  "producers": [
+    "Shaft",
+    "Sotsu",
+    "Omnibus Promotion"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1362/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1768/100631l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1517-uZi00ydI1vNA.jpg",
     "color": "#d6c91a"
   },
   "trailer": null,
-  "synopsis": "The year is 2023 and Alien Beings known as \"Lucifer Hawks\" have begun invading earth from another dimension. All that stands between them and the enslavement of the human race is the Attacked Mystification Police Department - a special division of the Tokyo Police staffed by women with amazing paranormal abilities.\n(Source: ANN)",
+  "synopsis": "The year is 2023 and Alien Beings known as \"Lucifer Hawks\" have begun invading earth from another dimension. All that stands between them and the enslavement of the human race is the Attacked Mystification Police Department - a special division of the Tokyo Police staffed by women with amazing paranormal abilities.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 2099,
@@ -553,17 +561,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:45:15.077Z",
+    "lastFetched": "2026-06-26T18:00:46.322Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

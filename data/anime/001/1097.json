@@ -23,31 +23,37 @@
     "native": "らいむいろ戦奇譚",
     "synonyms": [
       "Raimuiro Senkitan",
-      "Lime-Colored History of War"
+      "Lime-Colored History of War",
+      "Lime-iro Senkitan: Meiji Nippon",
+      "Otome Sakimorisu."
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Visual novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 13,
   "episodeLength": 25,
   "aired": {
-    "from": "2003-01-04",
-    "to": "2003-03-29"
+    "from": "2003-01-04T00:00:00+00:00",
+    "to": "2003-03-29T00:00:00+00:00"
   },
   "season": "winter",
   "year": 2003,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 5.89,
+    "malScoredBy": 3672,
+    "malRank": 11405,
+    "malPopularity": 6686,
+    "malMembers": 12363,
+    "malFavorites": 12,
     "anilistScore": 5.4,
     "anilistPopularity": 2811,
     "anilistFavourites": 23,
@@ -55,24 +61,29 @@
     "kitsuRating": 6.42
   },
   "genres": [
-    "Comedy",
-    "Ecchi",
-    "Mecha",
+    "Drama",
     "Supernatural",
+    "Ecchi",
+    "Comedy",
+    "Mecha",
     "Historical",
     "Harem",
-    "Drama",
     "Action"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Studio Hibari"
+  ],
+  "producers": [
+    "KSS",
+    "Soft Garage"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/982/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/6/75503l.jpg",
     "banner": null,
     "color": "#50aee4"
   },
   "trailer": null,
-  "synopsis": "Around the the 37th year of the Meiji Era (1904), in the midst of the Russo-Japanese war, the small Japanese army, in need of assistance, uses its special flying (thanks to a benevolent demon) ship, the Amanohara, to attack Russia's major base at Port Arthur (Lushun).\nUmakai Shintaro, a Russian diplomat originally from Japan, defects and goes to Sapporo to teach at a girls academy. However, that girls academy is not typical—it is on board the Amanohara, and the five girls Shintaro teaches are known as the Raimu Unit—girls with the ability to summon powerful beings to fight for them. Shintaro eventually becomes their teacher and general in battle, and so the six embark on a weird and excessively erotic journey, as Shintaro helps the girls overcome their weaknesses, become stronger for the final stand at Lushun, and also understand the motives of the \"Russian Spiritual Corps\" that assist the opponent, which, unfortunately, has one member whom Shintaro knew well...\n(Source: ANN)",
+  "synopsis": "Around the the 37th year of the Meiji Era (1904), in the midst of the Russo-Japanese war, the small Japanese army, in need of assistance, uses its special flying (thanks to a benevolent demon) ship, the Amanohara, to attack Russia's major base at Port Arthur (Lushun).\n\nUmakai Shintaro, a Russian diplomat originally from Japan, defects and goes to Sapporo to teach at a girls academy. However, that girls academy is not typical—it is on board the Amanohara, and the five girls Shintaro teaches are known as the Raimu Unit—girls with the ability to summon powerful beings to fight for them. Shintaro eventually becomes their teacher and general in battle, and so the six embark on a weird and excessively erotic journey, as Shintaro helps the girls overcome their weaknesses, become stronger for the final stand at Lushun, and also understand the motives of the \"Russian Spiritual Corps\" that assist the opponent, which, unfortunately, has one member whom Shintaro knew well...\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 2307,
@@ -329,17 +340,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:03:08.569Z",
+    "lastFetched": "2026-06-26T17:47:08.262Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

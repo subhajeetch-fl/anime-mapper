@@ -27,28 +27,32 @@
       "Yotoden Movie"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Unknown",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 86,
   "aired": {
-    "from": "1989-05-27",
+    "from": "1989-05-27T00:00:00+00:00",
     "to": "1989-05-27"
   },
   "season": "spring",
   "year": 1989,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.01,
+    "malScoredBy": 2605,
+    "malRank": 10774,
+    "malPopularity": 8978,
+    "malMembers": 5996,
+    "malFavorites": 7,
     "anilistScore": 5.6,
     "anilistPopularity": 1284,
     "anilistFavourites": 16,
@@ -71,16 +75,18 @@
     "Demon"
   ],
   "studios": [
-    "J.C.STAFF"
+    "J.C.Staff"
   ],
-  "producers": [],
+  "producers": [
+    "Arts Pro"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1232/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1358/97131l.jpg",
     "banner": null,
     "color": "#ff7843"
   },
   "trailer": null,
-  "synopsis": "The year a comet races across the sky, splitting the heavens, from the depths of the Earth the dark god shall arise once again. Then, the dark evil lurking in the shadows shall come out of the depths of Hell and show itself in the present world. The emotions of the blade of the wind shall collect at the source of the blue light. And the three blades shall become one, vanquishing evil.\nThe year is 1580, and the unholy armies of Lord Nobunaga Oda steadily spread across Japan. Narrowly escaping the slaughter of her clan, a young ninja steals into the shadows. She is Ayame, the last of the Kasumi clan, and the dagger she wields is one of three, mystical blades. She is joined by Sakon and Ryoma, renegade ninja and the possessors of the sacred sword and spear. Now, these shadow warriors must unite their weapons and skills to fulfill `The Prophesy of the Enchanted Swords` or die trying...\nThis is a cut version of the earlier OVA.\n(Source: AniDB)",
+  "synopsis": "The year a comet races across the sky, splitting the heavens, from the depths of the Earth the dark god shall arise once again. Then, the dark evil lurking in the shadows shall come out of the depths of Hell and show itself in the present world. The emotions of the blade of the wind shall collect at the source of the blue light. And the three blades shall become one, vanquishing evil.\n\nThe year is 1580, and the unholy armies of Lord Nobunaga Oda steadily spread across Japan. Narrowly escaping the slaughter of her clan, a young ninja steals into the shadows. She is Ayame, the last of the Kasumi clan, and the dagger she wields is one of three, mystical blades. She is joined by Sakon and Ryoma, renegade ninja and the possessors of the sacred sword and spear. Now, these shadow warriors must unite their weapons and skills to fulfill `The Prophesy of the Enchanted Swords` or die trying..\n\n(Source: AniDB)",
   "sequence": [
     {
       "malId": 3600,
@@ -159,17 +165,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:29:16.921Z",
+    "lastFetched": "2026-06-26T17:58:06.555Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

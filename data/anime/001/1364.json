@@ -19,37 +19,42 @@
   },
   "title": {
     "romaji": "Meitantei Conan: Tengoku e no Count Down",
-    "english": "Case Closed: Countdown to Heaven",
+    "english": "Case Closed Movie 05: Countdown to Heaven",
     "native": "名探偵コナン 天国へのカウントダウン",
     "synonyms": [
+      "Detective Conan Movie 05: Countdown to Heaven",
       "Meitantei Conan Movie 05: Tengoku e no Count Down",
       "Detektiv Conan: Countdown zum Himmel",
       "Detective Conan Movie 05: Trappola di cristallo",
       "Détective Conan : Décompte aux cieux"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 100,
   "aired": {
-    "from": "2001-04-21",
+    "from": "2001-04-21T00:00:00+00:00",
     "to": "2001-04-21"
   },
   "season": "spring",
   "year": 2001,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 8.12,
+    "malScoredBy": 41366,
+    "malRank": 562,
+    "malPopularity": 2997,
+    "malMembers": 70507,
+    "malFavorites": 73,
     "anilistScore": 7.9,
     "anilistPopularity": 13950,
     "anilistFavourites": 155,
@@ -57,10 +62,10 @@
     "kitsuRating": 7.94
   },
   "genres": [
-    "Mystery",
-    "Comedy",
-    "Police",
     "Adventure",
+    "Comedy",
+    "Mystery",
+    "Police",
     "Detective",
     "Present",
     "Earth",
@@ -72,16 +77,24 @@
     "Cops"
   ],
   "studios": [
+    "TMS Entertainment",
     "Tokyo Movie"
   ],
-  "producers": [],
+  "producers": [
+    "Yomiuri Telecasting",
+    "TOHO",
+    "Universal Music Japan",
+    "Shogakukan",
+    "Audio Planning U",
+    "Shogakukan Productions"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1218/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1144/92654l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/1218/original.jpg",
     "color": "#e48643"
   },
   "trailer": null,
-  "synopsis": " As a pair of towers in Tokyo are being prepared for their grand opening, there is a series of murders of people connected to the towers. Conan suspects that the mysterious Syndicate may also be involved.\n(Source: ANN)",
+  "synopsis": "Conan Edogawa, the Detective Boys, and Professor Hiroshi Agasa decide to visit the Nishitamashi Twin Towers. There they run into Ran Mouri; her closest friend, Sonoko Suzuki; and Ran's father, the famous Kogorou. Learning the trio are attending the towers' grand opening, Conan and company tag along for a private tour of its floors.\n\nHowever, as preparations are finalized for the opening ceremony, their visit takes an unexpected turn—three brutal murders occur, seemingly linked to a mysterious Porsche 356A. Soon after, as Conan and the detectives dive deeper into the case, the towers are rocked by an explosion. With fire rapidly spreading and lives in danger, police desperately seek to evacuate everyone. But when the elevator, their only means to escape goes down, Conan and company are left behind. With help on its way, they frantically try to keep everyone safe, but time is running out if they want to bring the perpetrators to justice.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 235,
@@ -175,17 +188,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:27:21.558Z",
+    "lastFetched": "2026-06-26T17:57:46.766Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

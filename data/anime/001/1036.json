@@ -22,33 +22,38 @@
     "english": null,
     "native": "火宵の月～秋狂言～",
     "synonyms": [
-      "Kasho no Tsuki",
+      "Kashou no Tsuki",
       "Hiyoi no Tsuki",
-      "Moon of The Fiery Night"
+      "Moon of The Fiery Night",
+      "Kasho no Tsuki"
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 2,
   "episodeLength": 30,
   "aired": {
-    "from": "1998-12-19",
-    "to": "1999-01-21"
+    "from": "1998-12-19T00:00:00+00:00",
+    "to": "1999-01-21T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1998,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 5.91,
+    "malScoredBy": 2192,
+    "malRank": 11278,
+    "malPopularity": 9254,
+    "malMembers": 5527,
+    "malFavorites": 4,
     "anilistScore": 5,
     "anilistPopularity": 934,
     "anilistFavourites": 5,
@@ -56,9 +61,9 @@
     "kitsuRating": 6.22
   },
   "genres": [
-    "Fantasy",
     "Romance",
     "Supernatural",
+    "Fantasy",
     "Historical",
     "Heian Period",
     "Earth",
@@ -74,14 +79,17 @@
     "Four Some",
     "SPE Visual Works"
   ],
-  "producers": [],
+  "producers": [
+    "Tokyo Kids",
+    "SME Visual Works"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/926/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/7/77669l.jpg",
     "banner": null,
     "color": "#505de4"
   },
   "trailer": null,
-  "synopsis": "Kagetsu, a member of the Kouga tribe, is in the period of his life when he has to decide which sex he wants to be. His feelings for his sensei causes him to think seriously about it. Kohryu, another member of the tribe, wants to convince Kagetsu of going back to live with the tribe, leaving his sensei behind. During that time, evil spirits are starting to threaten the village and both Kagetsu and his sensei. ",
+  "synopsis": "When he was young, Arimasa Tsuchimikado rescued an injured cat and wished for it to become human. The cat, Kagetsu, is actually a member of the shape-shifting Kouga tribe and comes to live with Arimasa.\n\nYears later, Arimasa is an uneasy presence in his village. The villagers despise him for being half-fox, but he is also the only one able to protect the village against supernatural invasion. Meanwhile, Kagetsu is going through a difficult period where he must choose which sex he will live the rest of his life as, a process he can only complete through sexual intercourse.\n\nAs pressure from other members of the Kouga clan opposes the wishes in Kagetsu’s heart, Arimasa's village is struck by a large-scale supernatural attack. With his peaceful life threatened, Arimasa will be forced to make undesirable decisions.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
@@ -116,17 +124,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:57:16.045Z",
+    "lastFetched": "2026-06-26T17:46:11.039Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

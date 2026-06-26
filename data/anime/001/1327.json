@@ -19,7 +19,7 @@
   },
   "title": {
     "romaji": "Aoki Densetsu Shoot!",
-    "english": null,
+    "english": "Blue Legend Shoot!",
     "native": "蒼き伝説 シュート!",
     "synonyms": [
       "Blue Legend Shoot!",
@@ -30,27 +30,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 58,
   "episodeLength": 25,
   "aired": {
-    "from": "1993-11-07",
-    "to": "1994-12-25"
+    "from": "1993-11-07T00:00:00+00:00",
+    "to": "1994-12-25T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1993,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "09:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.42,
+    "malScoredBy": 6924,
+    "malRank": 2498,
+    "malPopularity": 5960,
+    "malMembers": 16570,
+    "malFavorites": 75,
     "anilistScore": 7,
     "anilistPopularity": 3248,
     "anilistFavourites": 28,
@@ -58,11 +62,11 @@
     "kitsuRating": 7.34
   },
   "genres": [
+    "Romance",
+    "Sports",
     "Action",
     "Comedy",
     "Drama",
-    "Romance",
-    "Sports",
     "School",
     "Soccer",
     "School Life"
@@ -72,12 +76,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/7887/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/3/75214l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1327-9U7RzxW4CJIW.jpg",
     "color": "#f1c950"
   },
   "trailer": null,
-  "synopsis": "Aoki Densetsu Shoot! (Legendary Blue Shot!) or also known as just \"Shoot!\", is the story of Toshihiko Tanaka, Kenji Shiraishi, and Kazuhiro Hiramatsu. Three high school freshmen who have become best friends during their junior high years while playing soccer together. There they were known as the Kakenishi golden trio for their role in making Kakenishi Junior High's soccer team into a force to be reckoned with. After junior high, all of them decided to go to the same high school, Kakegawa High, a school only founded a year before, because of their star soccer player, Yoshiharu Kubo, whom they had idolized.\nThis young man led Kakegawa High Soccer Club to the best 8 of their prefecture in their first ever appearance with a freshmen only team almost single-handedly. He refuses offers from a number of foreign professional soccer clubs so he can stay at Kake-High to lead them to the All-Japan High School Championship. As the three of them start playing soccer for Kake-High, they experience hardships, romance, and losses on their road to becoming the best Japanese high school soccer team—a team of legends.\n(Source: AniDB)",
+  "synopsis": "Inspired by Yoshiharu Kubo's phenomenal performance that led Kakegawa High School to a miraculous victory in a soccer tournament, Toshihiko Tanaka decides to enter the same school as his idol and join the soccer club, hoping to become as successful as Kubo.\n\nNow a high school freshman, Tanaka is devastated as his expectations suddenly start falling apart. Kubo—the captain of the club—is absent due to illness. To make matters worse, the freshmen are not allowed to practice alongside the sophomores or become regulars on the team. The final nail in the coffin is the reluctance of Tanaka's friends, Kenji Shiraishi and Kazuhiro Hiramatsu, to join him in the club. Although Tanaka and his friends were once known as a deadly soccer trio in their junior high school days, Kenji and Kazuhiro have both quit soccer for personal reasons.\n\nWhen Tanaka starts to lose hope, an encounter with Kazumi Endo—a girl from his childhood—becomes the unexpected key to his freedom from despair. The disappointed Kazumi wants to see the trio reunite, so she takes matters into her own hands in her mischievous way. Thus, Tanaka's high school soccer career prepares for the kickoff.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 2682,
@@ -1011,17 +1015,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:23:45.186Z",
+    "lastFetched": "2026-06-26T17:57:07.093Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

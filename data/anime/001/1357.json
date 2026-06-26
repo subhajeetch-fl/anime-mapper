@@ -26,27 +26,31 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Light novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
   "episodeLength": 58,
   "aired": {
-    "from": "2003-07-24",
-    "to": "2004-05-28"
+    "from": "2003-07-24T00:00:00+00:00",
+    "to": "2004-05-28T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2003,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.93,
+    "malScoredBy": 6634,
+    "malRank": 5140,
+    "malPopularity": 5964,
+    "malMembers": 16537,
+    "malFavorites": 23,
     "anilistScore": 6.5,
     "anilistPopularity": 3769,
     "anilistFavourites": 39,
@@ -55,6 +59,7 @@
   },
   "genres": [
     "Action",
+    "Drama",
     "Sci-Fi",
     "Martial Arts",
     "Violence",
@@ -66,14 +71,18 @@
   "studios": [
     "A.C.G.T."
   ],
-  "producers": [],
+  "producers": [
+    "OB Planning",
+    "Kitty Films",
+    "Sega"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1211/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/6/2901l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/1211/original.jpg",
     "color": "#bbd66b"
   },
   "trailer": null,
-  "synopsis": "In a post-apocalyptic Earth, the water has become entirely toxic, except for some kept safe in a reservoir. A fortified zone has been created by a man named Sanga, he calls it The Lastland. A group of villagers have discovered safe water, and Sanga wants it. He and his band of killers go to kill everyone and steal it. As they do a mysterious man appears out of nowhere, instantly killing some of Sanga's men. His name is Kenshiro, and he can beat any man with his martial art, Hokuto Shin Ken. Sanga will do anything for the water, and Kenshiro will do anything to try and stop him.\n(Source: ANN)",
+  "synopsis": "In a post-apocalyptic Earth, the water has become entirely toxic, except for some kept safe in a reservoir. A fortified zone has been created by a man named Sanga, he calls it The Lastland. A group of villagers have discovered safe water, and Sanga wants it. He and his band of killers go to kill everyone and steal it. As they do a mysterious man appears out of nowhere, instantly killing some of Sanga's men. His name is Kenshiro, and he can beat any man with his martial art, Hokuto Shin Ken. Sanga will do anything for the water, and Kenshiro will do anything to try and stop him.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1356,
@@ -137,17 +146,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:26:41.873Z",
+    "lastFetched": "2026-06-26T17:57:42.333Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

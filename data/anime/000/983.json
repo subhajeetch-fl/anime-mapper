@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 5,
   "aired": {
-    "from": "2004-07-03",
+    "from": "2004-07-03T00:00:00+00:00",
     "to": "2004-07-03"
   },
   "season": "summer",
   "year": 2004,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "G",
+  "rating": "G - All Ages",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 5.66,
+    "malScoredBy": 1400,
+    "malRank": 12564,
+    "malPopularity": 10802,
+    "malMembers": 3454,
+    "malFavorites": 1,
     "anilistScore": 5,
     "anilistPopularity": 723,
     "anilistFavourites": 2,
@@ -54,10 +58,14 @@
   "genres": [
     "Comedy"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "TNK"
+  ],
+  "producers": [
+    "Lantis"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/873/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/11/59969l.jpg",
     "banner": null,
     "color": "#e48628"
   },
@@ -80,17 +88,15 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-26T12:51:22.991Z",
+    "lastFetched": "2026-06-26T17:45:00.023Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

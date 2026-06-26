@@ -22,33 +22,37 @@
     "english": "Zatch Bell! Attack of Mechavulcan",
     "native": "劇場版　金色のガッシュベル!!　メカバルカンの来襲",
     "synonyms": [
-      "Konjiki no Gashbell!! Mecabarukan no raishuu",
       "Konjiki no Gash Bell!!: Attack of the Mechavulcan",
-      "Gash Bell Movie 2"
+      "Gash Bell Movie 2",
+      "Konjiki no Gashbell!! Mecabarukan no raishuu"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 84,
   "aired": {
-    "from": "2005-08-06",
+    "from": "2005-08-06T00:00:00+00:00",
     "to": "2005-08-06"
   },
   "season": "summer",
   "year": 2005,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.09,
+    "malScoredBy": 3283,
+    "malRank": 4324,
+    "malPopularity": 7998,
+    "malMembers": 7941,
+    "malFavorites": 7,
     "anilistScore": 6.5,
     "anilistPopularity": 1915,
     "anilistFavourites": 21,
@@ -57,21 +61,23 @@
   },
   "genres": [
     "Adventure",
-    "Mecha",
     "Supernatural",
+    "Mecha",
     "Friendship",
     "Action",
     "Magic"
   ],
-  "studios": [],
+  "studios": [
+    "Toei Animation"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/811/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1459/95423l.jpg",
     "banner": null,
     "color": "#e4bb35"
   },
   "trailer": null,
-  "synopsis": "With only Coast School in mind, Takamine Kiyomaro leaves Gash bewildered that he’ll make a new Volcan 300 for him to play with. The genius tries to catch up with the bus that would take him there, but a giant Volcan 300 kidnaps him. Meanwhile Gash befriends the same Vulcan that kidnapped Kiyomaro later named: Volcan 300 Generation 4. The genius wakes up to see that he isn’t in Coast School, but that a doctor by the name M2 wants him to be his partner in the future. However, Gash and the other demons interfere with M2's plan in taking Kiyomaro to the future by the help of Generation 4 who agreed to take Gash there by a glitch in its system. Still the doctor tries to get Kiyomaro to come back with him, but with the help of everyone, he is defeated. Though a new situation is at hand, the time warp that M2 came from is out of control. It’s up to Gash and the others to save the city or be sucked into it. \n(Source: ANN)",
+  "synopsis": "With only Coast School in mind, Takamine Kiyomaro leaves Gash bewildered that he’ll make a new Volcan 300 for him to play with. The genius tries to catch up with the bus that would take him there, but a giant Volcan 300 kidnaps him. Meanwhile Gash befriends the same Vulcan that kidnapped Kiyomaro later named: Volcan 300 Generation 4. The genius wakes up to see that he isn’t in Coast School, but that a doctor by the name M2 wants him to be his partner in the future. However, Gash and the other demons interfere with M2's plan in taking Kiyomaro to the future by the help of Generation 4 who agreed to take Gash there by a glitch in its system. Still the doctor tries to get Kiyomaro to come back with him, but with the help of everyone, he is defeated. Though a new situation is at hand, the time warp that M2 came from is out of control. It’s up to Gash and the others to save the city or be sucked into it. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 250,
@@ -105,17 +111,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:46:13.273Z",
+    "lastFetched": "2026-06-26T17:44:04.912Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

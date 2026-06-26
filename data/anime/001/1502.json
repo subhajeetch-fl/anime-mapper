@@ -27,27 +27,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": 23,
   "aired": {
-    "from": "1996-10-04",
-    "to": "1997-03-28"
+    "from": "1996-10-04T00:00:00+00:00",
+    "to": "1997-03-28T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1996,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG - Children",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.87,
+    "malScoredBy": 2787,
+    "malRank": 5464,
+    "malPopularity": 7456,
+    "malMembers": 9498,
+    "malFavorites": 21,
     "anilistScore": 6.5,
     "anilistPopularity": 2527,
     "anilistFavourites": 41,
@@ -69,14 +73,18 @@
   "studios": [
     "AIC"
   ],
-  "producers": [],
+  "producers": [
+    "SoftX",
+    "Pioneer LDC",
+    "Arts Pro"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1348/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/11/19979l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1502-St9dLMReRaQG.jpg",
     "color": "#f1d643"
   },
   "trailer": null,
-  "synopsis": "In the magical kingdom Juraihelm, Tsunami is in line to be crowed queen but must complete a test first. She must choose someone to make the world a better place. Sasami is given the task of delivering a CD from her mother's store to a spooky mansion. When she gets there she is met by Tsunami who tells her she will become a magical girl. She endows Sasami with magical powers and sends Ryo-Okhi with her as a guide. Matters are not easy, however, as Tsunami's rival, Ramia, wants the crown and will do anything she can, including creating her own magical girl, Pixy Misa, to stop Tsunami from being crowned.",
+  "synopsis": "The carefree Tsunami is next in line to rule over the Magical Kingdom of Juraihelm. But before she is officially crowned as queen, she must restore balance to the universe that has come to favor darkness. To accomplish her goal, Tsunami gives the ordinary Sasami Kawai a magical baton that can transform her into a magical girl. She also appoints the rabbit-like creature Ryou-Ouki to aid Sasami in the battle against evil.\n\nHowever, Sasami refuses to become a magical girl—not because she is scared, but because she finds it too embarrassing! Meanwhile, the arrogant Ramia is plotting to overthrow Tsunami by enlisting her own magical girl—the eccentric Pixy Misa—to cause chaos and ensure that balance is never restored. As Pixy Misa terrorizes the planet with her Love-Love monsters, Sasami must learn to swallow her pride and accept her role as the universe's champion of justice, Pretty Sammy.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 1918,
@@ -676,17 +684,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:43:34.849Z",
+    "lastFetched": "2026-06-26T18:00:28.649Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

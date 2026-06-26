@@ -27,27 +27,31 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 78,
   "aired": {
-    "from": "2001-01-21",
+    "from": "2001-01-21T00:00:00+00:00",
     "to": "2001-01-21"
   },
   "season": "winter",
   "year": 2001,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.79,
+    "malScoredBy": 3191,
+    "malRank": 5954,
+    "malPopularity": 7818,
+    "malMembers": 8455,
+    "malFavorites": 5,
     "anilistScore": 6.1,
     "anilistPopularity": 1757,
     "anilistFavourites": 17,
@@ -55,12 +59,12 @@
     "kitsuRating": 6.74
   },
   "genres": [
-    "Action",
     "Adventure",
     "Comedy",
-    "Ecchi",
-    "Mecha",
     "Sci-Fi",
+    "Ecchi",
+    "Action",
+    "Mecha",
     "Space",
     "Transforming Craft",
     "Science Fiction",
@@ -70,15 +74,19 @@
     "Alien",
     "Future"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Gonzo"
+  ],
+  "producers": [
+    "Imagine"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/997/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/10/75448l.jpg",
     "banner": null,
     "color": "#e4e443"
   },
   "trailer": null,
-  "synopsis": "Vandread The First Stage (season one) was immediately followed up by this TV special. This TV special, also known as Vandread Taidouhen Stage (The Movement Stage) was a recap of the first 13 episodes with additional footage. So, Vandread Taidouhen is not really a bridge between Vandread The First Stage and Vandread The Second Stage (season two). It was made to bring new viewers up to date as to what happened during the first season\n(Source: AniDB)",
+  "synopsis": "Vandread The First Stage (season one) was immediately followed up by this OVA. This OVA, also known as Vandread Taidouhen Stage (The Movement Stage) was a recap of the first 13 episodes with additional footage. So, Vandread Taidouhen is not really a bridge between Vandread The First Stage and Vandread The Second Stage (season two). It was made to bring new viewers up to date as to what happened during the first season\n\n(Source: AniDB)",
   "sequence": [
     {
       "malId": 180,
@@ -112,17 +120,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:04:52.393Z",
+    "lastFetched": "2026-06-26T17:47:38.983Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

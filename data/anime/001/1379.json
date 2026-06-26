@@ -19,37 +19,41 @@
   },
   "title": {
     "romaji": "Kino no Tabi: Nanika wo Suru Tame ni -life goes on.-",
-    "english": null,
+    "english": "Kino's Journey: In Order to Do Something - Life Goes On",
     "native": "キノの旅 何かをするために -life goes on.-",
     "synonyms": [
-      "Kino no Tabi: the Beautiful World - Life Goes On",
       "Kino's Journey Movie",
+      "Kino no Tabi: the Beautiful World - Life Goes On",
       "Kino no Tabi: In order to do something - Life Goes On.",
       "Kino's Journey: Life Goes On"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Light novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 29,
   "aired": {
-    "from": "2005-02-19",
+    "from": "2005-02-19T00:00:00+00:00",
     "to": "2005-02-19"
   },
   "season": "winter",
   "year": 2005,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.73,
+    "malScoredBy": 27107,
+    "malRank": 1342,
+    "malPopularity": 3196,
+    "malMembers": 63097,
+    "malFavorites": 51,
     "anilistScore": 7.5,
     "anilistPopularity": 17645,
     "anilistFavourites": 97,
@@ -69,12 +73,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1233/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/5/73888l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/1233/original.jpg",
     "color": "#e4ae5d"
   },
   "trailer": null,
-  "synopsis": "A prequel to the Kino no Tabi series, Kino is being trained by their teacher. they learn how to ride Hermes and becomes gifted with excellent marksmanship. However, their guilt revolving the real Kino is with them when she decides to set off on a journey. Shizou even directs her to Kino's real mother. All the while, Kino is becoming confused with their real identity. \n\n(Source: ANN)",
+  "synopsis": "After running away from the grim future that awaited her back in her home country, a young girl takes upon a new name and identity—inspired by the man who sacrificed his life to help her escape. Alongside her newfound companion, a talking motorcycle, the two find themselves a new home in the forest—where lives an elderly woman with an expertise in guns. Under the woman's care, the girl is trained in marksmanship and motorcycle handling among other various skills needed to survive.\n\nAlthough the girl is happy with her current life, her guilt regarding her savior's death continues to build within herself. She still feels responsible for her savior's death, and considers the consequences of using his name as her own. In doing so, she is denying her own identity and existence by trying to replicate another person's life, instead of living her own.\n\nKino no Tabi: The Beautiful World - Nanika wo Suru Tame ni - Life Goes On. follows the journey of a young girl as she begins to come to terms with her new identity.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 486,
@@ -123,17 +127,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:29:28.495Z",
+    "lastFetched": "2026-06-26T17:58:08.720Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

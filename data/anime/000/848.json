@@ -19,36 +19,41 @@
   },
   "title": {
     "romaji": "Jinki:Extend - Sorekara",
-    "english": "Jinki:Extend - And Then...",
+    "english": "Jinki: Extend",
     "native": "ジンキ・エクステンド それから",
     "synonyms": [
-      "Jinki : Extend OVA",
       "Jinki:Extend Episode 13",
+      "Jinki:Extend OVA",
+      "Jinki : Extend OVA",
       "ジンキ・エクステンド OVA"
     ]
   },
-  "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "type": "Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 30,
   "aired": {
-    "from": "2006-02-22",
+    "from": "2006-02-22T00:00:00+00:00",
     "to": "2006-02-22"
   },
   "season": "winter",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.05,
+    "malScoredBy": 1282,
+    "malRank": 10541,
+    "malPopularity": 10840,
+    "malMembers": 3412,
+    "malFavorites": 2,
     "anilistScore": 5.2,
     "anilistPopularity": 771,
     "anilistFavourites": 3,
@@ -56,14 +61,19 @@
     "kitsuRating": 6.46
   },
   "genres": [
-    "Mecha",
     "Sci-Fi",
+    "Mecha",
     "Science Fiction"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "feel."
+  ],
+  "producers": [
+    "TV Asahi",
+    "GANSIS"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/119/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/9/8506l.jpg",
     "banner": null,
     "color": "#93c9f1"
   },
@@ -86,17 +96,15 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-26T12:40:29.768Z",
+    "lastFetched": "2026-06-26T17:43:09.914Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

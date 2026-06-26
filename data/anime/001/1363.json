@@ -19,7 +19,7 @@
   },
   "title": {
     "romaji": "Meitantei Conan: Hitomi no Naka no Ansatsusha",
-    "english": "Case Closed: Captured In Her Eyes",
+    "english": "Case Closed Movie 04: Captured In Her Eyes",
     "native": "名探偵コナン　瞳の中の暗殺者",
     "synonyms": [
       "Detective Conan Movie 04: Captured in Her Eyes",
@@ -28,39 +28,43 @@
       "Detective Conan Movie 04: Solo nei suoi occhi"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 100,
   "aired": {
-    "from": "2000-04-22",
+    "from": "2000-04-22T00:00:00+00:00",
     "to": "2000-04-22"
   },
   "season": "spring",
   "year": 2000,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 8.03,
+    "malScoredBy": 40722,
+    "malRank": 699,
+    "malPopularity": 3024,
+    "malMembers": 69275,
+    "malFavorites": 109,
     "anilistScore": 7.8,
     "anilistPopularity": 14136,
     "anilistFavourites": 185,
-    "anilistTrending": 0,
+    "anilistTrending": 1,
     "kitsuRating": 7.91
   },
   "genres": [
     "Adventure",
-    "Drama",
-    "Mystery",
     "Comedy",
+    "Mystery",
+    "Drama",
     "Police",
     "Earth",
     "Japan",
@@ -72,16 +76,25 @@
     "Cops"
   ],
   "studios": [
+    "TMS Entertainment",
     "Tokyo Movie Shinsha"
   ],
-  "producers": [],
+  "producers": [
+    "Yomiuri Telecasting",
+    "Polygram Japan",
+    "TOHO",
+    "Shogakukan",
+    "Audio Planning U",
+    "Polydor Records",
+    "Shogakukan Productions"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1217/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1196/94319l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1363-rP3Ks2HcfzEJ.jpg",
     "color": "#d61a28"
   },
   "trailer": null,
-  "synopsis": "A series of murders have occurred with police officers as victims. One of the officers is shot right in front of Ran's eyes, and the shock of the incident causes Ran to lose her memory of everyone and everything around her. Now Conan must help Ran regain her lost memories, while also protecting her from the murderer, who is targeting Ran for witnessing the crime.\n(Source: ANN)",
+  "synopsis": "On a rainy afternoon, the Detective Boys witness a murder across the street. Barred by traffic, the culprit slips away and Conan Edogawa is left a single clue by a dying detective. Days later, another detective is found murdered in a parking lot, leaving the police rattled. Suspicious that the culprit is one of their own, everyone in the police department without an alibi is suspect. But despite being on high alert, they are outmaneuvered and suffer yet another attack—this time with Ran Mouri finding herself in the crossfire.\n\nTraumatized, Ran wakes in the hospital with retrograde amnesia, remembering nothing about her life. Soon released, she struggles to remember her past and grows fearful of not regaining her memories before being targeted by the killer for what she witnessed. As she is guarded by friends and family, it is up to Conan to piece together the clues and find who the murderer is before they strike again.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 235,
@@ -145,17 +158,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:27:09.811Z",
+    "lastFetched": "2026-06-26T17:57:44.531Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

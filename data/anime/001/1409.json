@@ -25,28 +25,32 @@
       "igpx"
     ]
   },
-  "type": "TV_SHORT",
-  "source": null,
-  "status": "finished",
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 5,
   "episodeLength": null,
   "aired": {
-    "from": "2003-09-15",
-    "to": "2003-09-19"
+    "from": "2003-09-15T00:00:00+00:00",
+    "to": "2003-09-19T00:00:00+00:00"
   },
-  "season": "fall",
+  "season": "summer",
   "year": 2003,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.5,
+    "malScoredBy": 1692,
+    "malRank": 7823,
+    "malPopularity": 9536,
+    "malMembers": 5088,
+    "malFavorites": 6,
     "anilistScore": 5.7,
     "anilistPopularity": 1126,
     "anilistFavourites": 6,
@@ -54,22 +58,25 @@
     "kitsuRating": 6.79
   },
   "genres": [
-    "Mecha",
     "Sci-Fi",
     "Sports",
+    "Mecha",
     "Racing",
     "Science Fiction",
     "Motorsport"
   ],
-  "studios": [],
+  "studios": [
+    "Bee Train",
+    "Production I.G"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1262/original.png",
+    "poster": "https://cdn.myanimelist.net/images/anime/4/71648l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/1262/original.jpg",
     "color": null
   },
   "trailer": null,
-  "synopsis": "In the year 2035, Team Suzaku and Team Sledge Mamma are preparing to meet in the final round of the 12th Immortal Grand-1 Prix (IG1 or IGPX). Takeshi leads Team Suzaku, which is made up of a group of young amateur pilots who must make the most of their limited funds and weaponry in order to prepare for the competition designed for professionals.\nThis series served as the pilot to the full IGPX: Immortal Grand Prix, each episode is only 5 minutes long or less. A key difference between the two is that this series featured combat mecha competition rather than racing mecha.",
+  "synopsis": "In the year 2035, Team Suzaku and Team Sledge Mamma are preparing to meet in the final round of the 12th Immortal Grand-1 Prix (IG1 or IGPX). Takeshi leads Team Suzaku, which is made up of a group of young amateur pilots who must make the most of their limited funds and weaponry in order to prepare for the competition designed for professionals.\n\nThis series served as the pilot to the full IGPX: Immortal Grand Prix, each episode is only 5 minutes long or less. A key difference between the two is that this series featured combat mecha competition rather than racing mecha.",
   "sequence": [
     {
       "malId": 3270,
@@ -163,17 +170,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:33:45.939Z",
+    "lastFetched": "2026-06-26T17:58:39.552Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

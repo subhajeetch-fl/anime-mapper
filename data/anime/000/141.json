@@ -19,34 +19,38 @@
   },
   "title": {
     "romaji": "Jinki:Extend",
-    "english": "Jinki:Extend",
+    "english": "Jinki: Extend",
     "native": "ジンキ・エクステンド",
     "synonyms": [
       "Jinki : Extend"
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 12,
   "episodeLength": 23,
   "aired": {
-    "from": "2005-01-06",
-    "to": "2005-03-24"
+    "from": "2005-01-06T00:00:00+00:00",
+    "to": "2005-03-24T00:00:00+00:00"
   },
   "season": "winter",
   "year": 2005,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "02:12",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.11,
+    "malScoredBy": 4737,
+    "malRank": 10190,
+    "malPopularity": 6491,
+    "malMembers": 13292,
+    "malFavorites": 11,
     "anilistScore": 5.6,
     "anilistPopularity": 3040,
     "anilistFavourites": 12,
@@ -54,10 +58,10 @@
     "kitsuRating": 6.18
   },
   "genres": [
+    "Sci-Fi",
     "Action",
     "Drama",
     "Mecha",
-    "Sci-Fi",
     "Science Fiction",
     "Earth",
     "Piloted Robot"
@@ -65,14 +69,18 @@
   "studios": [
     "feel."
   ],
-  "producers": [],
+  "producers": [
+    "TV Asahi",
+    "GANSIS",
+    "Fonishia"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/7781/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/3/44792l.jpg",
     "banner": null,
     "color": "#e43535"
   },
   "trailer": null,
-  "synopsis": "Aoba is a young girl who loves to build models of robots. She lived alone with her grandmother until her grandmother passes away. Shortly after she is kidnapped and brought to a secret base where she discovers a huge robot. The piloted robots fight against Ancient-Jinki in The Grand Savanna, but the true meaning behind the fights is hidden. Aoba works hard at the base so one day she can pilot one of the robots and discover these secrets. ",
+  "synopsis": "Aoba is a young girl who loves to build models of robots. She lived alone with her grandmother until her grandmother passes away. Shortly after she is kidnapped and brought to a secret base where she discovers a huge robot. The piloted robots fight against Ancient-Jinki in The Grand Savanna, but the true meaning behind the fights is hidden. Aoba works hard at the base so one day she can pilot one of the robots and discover these secrets.",
   "sequence": [
     {
       "malId": 848,
@@ -331,17 +339,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:14:09.144Z",
+    "lastFetched": "2026-06-26T17:42:31.152Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

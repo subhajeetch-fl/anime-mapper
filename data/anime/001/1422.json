@@ -19,36 +19,41 @@
   },
   "title": {
     "romaji": "Lupin III: $1 Money Wars",
-    "english": "Lupin the 3rd: Missed By A Dollar",
+    "english": "Lupin III: Missed by a Dollar",
     "native": "ルパン三世 1$マネーウォーズ",
     "synonyms": [
       "Rupan Sansei",
+      "Lupin III: $1 Money Wars",
       "Lupin III: Missed by a Dollar",
       "Lupin III - Per un dollaro in più"
     ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "TV Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 90,
   "aired": {
-    "from": "2000-07-28",
+    "from": "2000-07-28T00:00:00+00:00",
     "to": "2000-07-28"
   },
   "season": "summer",
   "year": 2000,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.14,
+    "malScoredBy": 3511,
+    "malRank": 4047,
+    "malPopularity": 7801,
+    "malMembers": 8516,
+    "malFavorites": 3,
     "anilistScore": 6.8,
     "anilistPopularity": 2669,
     "anilistFavourites": 17,
@@ -56,10 +61,10 @@
     "kitsuRating": 7.16
   },
   "genres": [
+    "Action",
     "Adventure",
     "Comedy",
     "Mystery",
-    "Action",
     "Crime",
     "Earth",
     "Thievery",
@@ -71,14 +76,17 @@
   "studios": [
     "TMS Entertainment"
   ],
-  "producers": [],
+  "producers": [
+    "VAP",
+    "Tohokushinsha Film Corporation"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/1275/poster_image/0d57dd8583a43796ddda16e636e198ab.png",
+    "poster": "https://cdn.myanimelist.net/images/anime/1555/134189l.jpg",
     "banner": null,
     "color": "#e4435d"
   },
   "trailer": null,
-  "synopsis": "Lupin swipes a ring from a New York auction, and Zenigata is hot on his trail... along with a gun-toting, former-KGB brute named Nabikov. Nabikov's boss is Cynthia, the lady in charge of the BOW: Bank of the World. Cynthia knows the ring is actually a guide to the location of a fantastic brooch once worn by conquerors of years past. The brooch, it is said, gave them special powers to become more than mere men and women, and make their marks on history. Can Lupin and his cohorts find the brooch before Cynthia uses it to make her own mark with bloody, international war?\n\n(Source: Discotek Media)",
+  "synopsis": "Lupin &amp; co. compete with a greedy bank president and her goons to solve the mystery leading to a broach, a treasure said to be behind the success of history's most powerful rulers. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1412,
@@ -157,17 +165,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:35:43.888Z",
+    "lastFetched": "2026-06-26T17:59:01.517Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

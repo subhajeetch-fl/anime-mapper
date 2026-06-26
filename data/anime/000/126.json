@@ -19,7 +19,7 @@
   },
   "title": {
     "romaji": "Futakoi Alternative",
-    "english": "Futakoi Alternative",
+    "english": "Twin Love 2",
     "native": "フタコイ オルタナティブ",
     "synonyms": [
       "Futakoi 2",
@@ -27,27 +27,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 13,
   "episodeLength": 24,
   "aired": {
-    "from": "2005-04-07",
-    "to": "2005-06-30"
+    "from": "2005-04-07T00:00:00+00:00",
+    "to": "2005-06-30T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2005,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "03:10",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.87,
+    "malScoredBy": 12431,
+    "malRank": 5443,
+    "malPopularity": 4463,
+    "malMembers": 33538,
+    "malFavorites": 87,
     "anilistScore": 6.5,
     "anilistPopularity": 6504,
     "anilistFavourites": 68,
@@ -74,14 +78,16 @@
     "feel.",
     "Studio Flag"
   ],
-  "producers": [],
+  "producers": [
+    "Lantis"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/105/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/6/16733l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/126-4ZTMFFoEJUum.jpg",
     "color": "#e4a150"
   },
   "trailer": null,
-  "synopsis": "The Futaba Detective Agency, being run by Rentarou, who has taken over the family business, after his father's death 3 weeks ago. Along w/ Sara &amp; Souju, his live-in identical twin assistants. He ends up running afoul of the local Yakuza.\n(Source: ANN)",
+  "synopsis": "The Futaba Detective Agency, being run by Rentarou, who has taken over the family business, after his father's death 3 weeks ago. Along with Sara &amp; Souju, his live-in identical twin assistants. He ends up running afoul of the local Yakuza.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 125,
@@ -385,17 +391,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:13:12.064Z",
+    "lastFetched": "2026-06-26T17:42:24.592Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

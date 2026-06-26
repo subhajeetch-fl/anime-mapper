@@ -22,31 +22,36 @@
     "english": "Art of Fighting",
     "native": "バトルスピリッツ　龍虎の拳",
     "synonyms": [
-      "Battle Spirits: Dragon Tiger Fist"
+      "Battle Spirits: Dragon Tiger Fist",
+      "Battle Spirits: Ryoko no Ken"
     ]
   },
-  "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "type": "TV Special",
+  "source": "Game",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 49,
   "aired": {
-    "from": "1993-12-23",
+    "from": "1993-12-23T00:00:00+00:00",
     "to": "1993-12-23"
   },
   "season": "fall",
   "year": 1993,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 4.95,
+    "malScoredBy": 2229,
+    "malRank": 14428,
+    "malPopularity": 9952,
+    "malMembers": 4472,
+    "malFavorites": 7,
     "anilistScore": 4.8,
     "anilistPopularity": 1357,
     "anilistFavourites": 10,
@@ -54,22 +59,26 @@
     "kitsuRating": 6.36
   },
   "genres": [
-    "Adventure",
+    "Action",
     "Comedy",
-    "Martial Arts",
-    "Action"
+    "Adventure",
+    "Martial Arts"
   ],
   "studios": [
     "Studio Comet"
   ],
-  "producers": [],
+  "producers": [
+    "Starchild Records",
+    "Nihon Ad Systems",
+    "Fuji TV"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/899/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/4/64045l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/899/original.jpg",
     "color": "#e44328"
   },
   "trailer": null,
-  "synopsis": "After events involving a home invasion, a house cat, an ancient artifact, and an unpaid electrical bill, martial artist Ryo Sakazaki and his best friend Robert Garcia must fight their way into the Southtown underworld to save Ryo's sister Yuri from the crimelord known as Mr. Big.",
+  "synopsis": "While trying to rescue a cat, martial artist Ryo Sakazaki and his playboy best friend Robert Garcia unwittingly break into a jewel thief's apartment. Moments after entering, they witness the thief being murdered by a group of thugs. Despite fighting their way out and escaping, things go from bad to worse when Ryo and Robert learn that the thugs were working for Mr. Big, the biggest crime boss in South Town.\n\nNot only does Mr. Big believe that the two have stolen the \"Eye of Sirius,\" a priceless diamond, but he has also kidnapped Ryo's younger sister Yuri, and is holding her hostage. Without the diamond and out of options, Ryo and Robert must fight their way past Mr. Big's men and save Yuri before it's too late.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 35204,
@@ -103,17 +112,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:54:38.846Z",
+    "lastFetched": "2026-06-26T17:45:34.512Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

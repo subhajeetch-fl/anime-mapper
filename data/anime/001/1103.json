@@ -26,27 +26,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 13,
   "episodeLength": 24,
   "aired": {
-    "from": "2003-10-01",
-    "to": "2003-12-24"
+    "from": "2003-10-01T00:00:00+00:00",
+    "to": "2003-12-24T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2003,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.66,
+    "malScoredBy": 5755,
+    "malRank": 6829,
+    "malPopularity": 5026,
+    "malMembers": 25459,
+    "malFavorites": 64,
     "anilistScore": 6.4,
     "anilistPopularity": 7338,
     "anilistFavourites": 72,
@@ -55,10 +59,10 @@
   },
   "genres": [
     "Comedy",
-    "Ecchi",
-    "Mecha",
     "Romance",
     "Sci-Fi",
+    "Ecchi",
+    "Mecha",
     "Future",
     "Piloted Robot",
     "Sudden Girlfriend Appearance",
@@ -73,16 +77,19 @@
   ],
   "studios": [
     "OLM",
+    "AIC ASTA",
     "AIC"
   ],
-  "producers": [],
+  "producers": [
+    "AIC"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/988/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/11/75451l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1103-Rv7uJJeAV4nQ.jpg",
     "color": "#e49335"
   },
   "trailer": null,
-  "synopsis": "Five years ago, while battling an alien force known as the \"Mimesis,\" Dannar pilot Goh Saruwatari first met Anna Aoi. Today, on the day of their wedding, the ceremony is interrupted when the Mimesis strike again. As Goh struggles in his battle against the alien threat, Anna stumbles upon a top secret robot known as the \"Neo-Okusaer\" and uses it as a last-resort to save her fiancee. At that moment, Dannar and Neo-Okusaer merge to become the mighty robot \"Godannar.\"\n(Source: ANN)",
+  "synopsis": "Five years ago, while battling an alien force known as the \"Mimesis,\" Dannar pilot Goh Saruwatari first met Anna Aoi. Today, on the day of their wedding, the ceremony is interrupted when the Mimesis strike again. As Goh struggles in his battle against the alien threat, Anna stumbles upon a top secret robot known as the \"Neo-Okusaer\" and uses it as a last-resort to save her fiancee. At that moment, Dannar and Neo-Okusaer merge to become the mighty robot \"Godannar.\"\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1104,
@@ -326,17 +333,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:03:56.070Z",
+    "lastFetched": "2026-06-26T17:47:17.070Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

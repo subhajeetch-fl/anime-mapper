@@ -21,30 +21,36 @@
     "romaji": "Patalliro Saiyuki!",
     "english": null,
     "native": "パタリロ西遊記！",
-    "synonyms": []
+    "synonyms": [
+      "Patalliro Saiyuki!"
+    ]
   },
-  "type": "TV_SHORT",
-  "source": null,
-  "status": "finished",
+  "type": "TV",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": 9,
   "aired": {
-    "from": "2005-06-06",
-    "to": "2005-11-29"
+    "from": "2005-06-07T00:00:00+00:00",
+    "to": "2005-11-29T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2005,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.57,
+    "malScoredBy": 1471,
+    "malRank": 7394,
+    "malPopularity": 9656,
+    "malMembers": 4897,
+    "malFavorites": 2,
     "anilistScore": 6.2,
     "anilistPopularity": 1127,
     "anilistFavourites": 11,
@@ -53,6 +59,7 @@
   },
   "genres": [
     "Adventure",
+    "Boys Love",
     "Comedy",
     "Fantasy",
     "Shounen Ai",
@@ -60,15 +67,17 @@
     "Parody",
     "Super Power"
   ],
-  "studios": [],
+  "studios": [
+    "Magic Bus"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/925/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/6/3887l.jpg",
     "banner": null,
     "color": "#e4c943"
   },
   "trailer": null,
-  "synopsis": "Genjou Sanzou is a Buddhist monk who has been sent by the Emperor on a journey to find the sacred Buddhist scriptures. One day, Sanzou meets an Earth Deity who tells him that Buddha has sent him a disciple: the mischievous Monkey Deity Son Goku, who was sealed inside of a mountain for five hundred years after wreaking havoc in Heaven! Together with the alcohol-loving playboy Cho Hakkai; the heavenly army General Sagojyou; and their horse, the Dragon Crown Prince Ryuuba; there are plenty of adventures to be had from fighting off monsters to bishounen contests.\n(Source: ANN and AniDB)",
+  "synopsis": "Genjou Sanzou is a Buddhist monk who has been sent by the Emperor on a journey to find the sacred Buddhist scriptures. One day, Sanzou meets an Earth Deity who tells him that Buddha has sent him a disciple: the mischievous Monkey Deity Son Goku, who was sealed inside of a mountain for five hundred years after wreaking havoc in Heaven! Together with the alcohol-loving playboy Cho Hakkai; the heavenly army General Sagojyou; and their horse, the Dragon Crown Prince Ryuuba; there are plenty of adventures to be had from fighting off monsters to bishounen contests.\n\n(Source: ANN and AniDB)",
   "sequence": [
     {
       "malId": 2835,
@@ -492,17 +501,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:57:04.449Z",
+    "lastFetched": "2026-06-26T17:46:08.840Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

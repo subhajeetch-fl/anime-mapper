@@ -36,40 +36,44 @@
       "Драконий жемчуг Зет: Суперандроид 13"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 45,
   "aired": {
-    "from": "1992-07-11",
+    "from": "1992-07-11T00:00:00+00:00",
     "to": "1992-07-11"
   },
   "season": "summer",
   "year": 1992,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.83,
+    "malScoredBy": 83985,
+    "malRank": 5673,
+    "malPopularity": 1938,
+    "malMembers": 136191,
+    "malFavorites": 32,
     "anilistScore": 6.4,
     "anilistPopularity": 30588,
     "anilistFavourites": 223,
-    "anilistTrending": 1,
+    "anilistTrending": 0,
     "kitsuRating": 6.68
   },
   "genres": [
     "Action",
     "Adventure",
-    "Sci-Fi",
     "Comedy",
     "Fantasy",
+    "Sci-Fi",
     "Science Fiction",
     "Martial Arts",
     "Super Power",
@@ -80,12 +84,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/800/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1723/93670l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/900-GjdtuwlExKnb.jpg",
     "color": "#f1c943"
   },
   "trailer": null,
-  "synopsis": "Dr. Gero's Androids #13, #14, and #15 are awakened by the laboratory computers and immediately head to the mall where Goku is shopping. After Goku, Trunks, and Vegeta defeat #14 and #15, #13 absorbs their inner computers and becomes a super being greater than the original three separately were. Now it is up to Goku to stop him. \n(Source: ANN)",
+  "synopsis": "Dr. Gero's Androids #13, #14, and #15 are awakened by the laboratory computers and immediately head to the mall where Goku is shopping. It is up to Goku and his friends to defeat them.\n\n(Source: ANN, edited)",
   "sequence": [
     {
       "malId": 813,
@@ -149,17 +153,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:44:49.543Z",
+    "lastFetched": "2026-06-26T17:43:49.497Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

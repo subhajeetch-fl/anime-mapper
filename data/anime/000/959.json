@@ -19,34 +19,38 @@
   },
   "title": {
     "romaji": "Shin Chou Kyou Ryo: Condor Hero",
-    "english": "Legend of Condor Hero",
+    "english": "Legend of the Condor Hero",
     "native": "神鵰侠侶 コンドルヒーロー",
     "synonyms": [
       "Shen Diao Xia Lu"
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": null,
   "aired": {
-    "from": "2001-04-11",
-    "to": "2002-10-28"
+    "from": "2001-04-11T00:00:00+00:00",
+    "to": "2002-10-28T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2001,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.28,
+    "malScoredBy": 2914,
+    "malRank": 3214,
+    "malPopularity": 7332,
+    "malMembers": 9946,
+    "malFavorites": 39,
     "anilistScore": 6.5,
     "anilistPopularity": 1936,
     "anilistFavourites": 21,
@@ -70,14 +74,16 @@
   "studios": [
     "Nippon Animation"
   ],
-  "producers": [],
+  "producers": [
+    "Jade Animation"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/849/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1698/139204l.jpg",
     "banner": null,
     "color": "#e4a128"
   },
   "trailer": null,
-  "synopsis": "Youka is a young 13-year-old boy. One day, his Uncle, Kakusei, has him follow in his steps of martial arts and has him study the art of Zenshinkyou. After being mistreated, Youka runs away Zenshinkyou. He stumbles on a Forbidden Tomb where he finds a beautiful young woman, by the name of Shouryuujo. After a short time, Youka is eventually accepted by Shouryuujo to study the techniques of the Koboha under her, and thus begins their adventure through martial arts and love.\n(Source: ANN)",
+  "synopsis": "Youka is a young 13-year-old boy. One day, his Uncle, Kakusei, has him follow in his steps of martial arts and has him study the art of Zenshinkyou. After being mistreated, Youka runs away Zenshinkyou. He stumbles on a Forbidden Tomb where he finds a beautiful young woman, by the name of Shouryuujo. After a short time, Youka is eventually accepted by Shouryuujo to study the techniques of the Koboha under her, and thus begins their adventure through martial arts and love.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 960,
@@ -501,17 +507,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:49:17.514Z",
+    "lastFetched": "2026-06-26T17:44:31.331Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

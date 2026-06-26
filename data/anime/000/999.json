@@ -22,33 +22,37 @@
     "english": "Blue Seed Beyond",
     "native": "BLUE SEED 2",
     "synonyms": [
-      "ブルーシード 2",
       "Blue Seed 2: Operation Mitama",
-      "Blue Seed OVA"
+      "Blue Seed OVA",
+      "ブルーシード 2"
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
   "episodeLength": 28,
   "aired": {
-    "from": "1996-07-24",
-    "to": "1998-02-04"
+    "from": "1996-07-24T00:00:00+00:00",
+    "to": "1998-02-04T00:00:00+00:00"
   },
   "season": "summer",
   "year": 1996,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.45,
+    "malScoredBy": 3145,
+    "malRank": 8160,
+    "malPopularity": 8036,
+    "malMembers": 7858,
+    "malFavorites": 2,
     "anilistScore": 6,
     "anilistPopularity": 1780,
     "anilistFavourites": 10,
@@ -57,12 +61,13 @@
   },
   "genres": [
     "Action",
-    "Comedy",
+    "Adventure",
     "Drama",
     "Horror",
-    "Sci-Fi",
-    "Supernatural",
     "Mystery",
+    "Supernatural",
+    "Comedy",
+    "Sci-Fi",
     "Ecchi",
     "Science Fiction"
   ],
@@ -70,14 +75,19 @@
     "Production I.G",
     "Xebec"
   ],
-  "producers": [],
+  "producers": [
+    "Movic",
+    "ING",
+    "King Records",
+    "Omnibus Promotion"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/889/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/7/2871l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/889/original.jpg",
     "color": "#d6781a"
   },
   "trailer": null,
-  "synopsis": "A renegade scientist in San Francisco has found a way to create a new creature called a Neo-Aragami without the power of Susanoo. When these monsters start to terrorize California, the U.S. turns to the old members of the Terrestrial Administration Center (TAC) for help. \n(Source: ANN)",
+  "synopsis": "A renegade scientist in San Francisco has found a way to create a new creature called a Neo-Aragami without the power of Susanoo. When these monsters start to terrorize California, the U.S. turns to the old members of the Terrestrial Administration Center (TAC) for help. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 998,
@@ -171,17 +181,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:53:16.021Z",
+    "lastFetched": "2026-06-26T17:45:19.093Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

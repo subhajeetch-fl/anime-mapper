@@ -19,34 +19,39 @@
   },
   "title": {
     "romaji": "I''s Pure Bonus",
-    "english": "I''s Pure Bonus",
+    "english": "Ichitaka's Delusion Diary",
     "native": "アイズピュア Bonus",
     "synonyms": [
-      "I''s OVA Bonus"
+      "I''s OVA Bonus",
+      "I''s Pure Bonus"
     ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 5,
   "episodeLength": 1,
   "aired": {
-    "from": "2005-12-18",
-    "to": "2006-07-22"
+    "from": "2005-12-09T00:00:00+00:00",
+    "to": "2006-05-26T00:00:00+00:00"
   },
   "season": "winter",
   "year": 2005,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.32,
+    "malScoredBy": 3668,
+    "malRank": 8956,
+    "malPopularity": 8179,
+    "malMembers": 7555,
+    "malFavorites": 2,
     "anilistScore": 5.6,
     "anilistPopularity": 1498,
     "anilistFavourites": 13,
@@ -55,18 +60,21 @@
   },
   "genres": [
     "Comedy",
-    "Ecchi",
-    "Romance"
+    "Romance",
+    "Ecchi"
   ],
-  "studios": [],
+  "studios": [
+    "Studio Pierrot",
+    "Arms"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1111/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1/1235l.jpg",
     "banner": null,
     "color": "#e4bba1"
   },
   "trailer": null,
-  "synopsis": "5 Dream Sequences, dubbed his Delusions. Wet dreams from the imagination of a healthy young male.",
+  "synopsis": "5 dream sequences, dubbed his delusions. Wet dreams from the imagination of a healthy young male.",
   "sequence": [
     {
       "malId": 811,
@@ -84,17 +92,15 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-26T13:16:21.257Z",
+    "lastFetched": "2026-06-26T17:52:39.996Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

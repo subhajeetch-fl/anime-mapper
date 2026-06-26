@@ -19,39 +19,43 @@
   },
   "title": {
     "romaji": "Lupin III: Napoleon no Jisho wo Ubae",
-    "english": "Lupin the 3rd: Napoleon's Dictionary",
+    "english": "Lupin III: Napoleon's Dictionary",
     "native": "ルパン三世『ナポレオンの辞書を奪え』",
     "synonyms": [
       "Rupan Sansei: Napoleon no Jisho wo Ubae",
       "Lupin III: Steal Napoleon's Dictionary",
-      "Edgar de la Cambriole : Le Dictionnaire de Napoléon",
       "Lupin III: Napoleon's Dictionary",
+      "Edgar de la Cambriole : Le Dictionnaire de Napoléon",
       "Lupin III - Ruba il dizionario di Napoleone!",
       "Lupin III - Il tesoro degli avi"
     ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "TV Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 90,
   "aired": {
-    "from": "1991-08-09",
+    "from": "1991-08-09T00:00:00+00:00",
     "to": "1991-08-09"
   },
   "season": "summer",
   "year": 1991,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.65,
+    "malScoredBy": 3280,
+    "malRank": 6857,
+    "malPopularity": 8000,
+    "malMembers": 7936,
+    "malFavorites": 1,
     "anilistScore": 6.3,
     "anilistPopularity": 2703,
     "anilistFavourites": 10,
@@ -59,24 +63,27 @@
     "kitsuRating": 6.81
   },
   "genres": [
+    "Action",
     "Adventure",
     "Comedy",
     "Mystery",
-    "Action",
     "Crime",
     "Thievery"
   ],
   "studios": [
-    "Tokyo Movie Shinsha"
+    "Tokyo Movie Shinsha",
+    "TMS Entertainment"
   ],
-  "producers": [],
+  "producers": [
+    "VAP"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1276/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/13/61695l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1423-6ih36FbHZZGP.jpg",
     "color": "#e4c95d"
   },
   "trailer": null,
-  "synopsis": "Lupin has a lively time of it this time in a classic car race from Madrid to Paris. The race prize is Napoleon's dictionary, which contains the key to the Treasure of the Empire, something that just about everybody seems to be after. Lupin and his buddies take off after the prize, pursued not only by the perennial Inspector, but also by an army of secret agents from around the world. Classic cars and state-of-the-art weapons heighten the speed and thrills of this adventure.\n(Source: AniDB)",
+  "synopsis": "Lupin has a lively time of it this time in a classic car race from Madrid to Paris. The race prize is Napoleon's dictionary, which contains the key to the Treasure of the Empire, something that just about everybody seems to be after. Lupin and his buddies take off after the prize, pursued not only by the perennial Inspector, but also by an army of secret agents from around the world. Classic cars and state-of-the-art weapons heighten the speed and thrills of this adventure.\n\n(Source: AniDB)",
   "sequence": [
     {
       "malId": 1412,
@@ -170,17 +177,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:35:55.420Z",
+    "lastFetched": "2026-06-26T17:59:03.729Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

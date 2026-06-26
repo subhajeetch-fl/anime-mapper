@@ -19,34 +19,38 @@
   },
   "title": {
     "romaji": "MAZE☆Bakunetsu Jikuu (TV)",
-    "english": "MAZE (TV)",
+    "english": "Maze: The Mega-Burst Space",
     "native": "MAZE☆爆熱時空 (TV)",
     "synonyms": [
       "MAZE☆The Mega-Burst Space TV"
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 25,
   "episodeLength": 24,
   "aired": {
-    "from": "1997-04-03",
-    "to": "1997-09-25"
+    "from": "1997-04-03T00:00:00+00:00",
+    "to": "1997-09-25T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1997,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.64,
+    "malScoredBy": 2406,
+    "malRank": 6940,
+    "malPopularity": 7793,
+    "malMembers": 8527,
+    "malFavorites": 13,
     "anilistScore": 6.1,
     "anilistPopularity": 2204,
     "anilistFavourites": 12,
@@ -68,16 +72,18 @@
     "Isekai"
   ],
   "studios": [
-    "J.C.STAFF"
+    "J.C.Staff"
   ],
-  "producers": [],
+  "producers": [
+    "Kadokawa Shoten"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1042/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/4/20383l.jpg",
     "banner": null,
     "color": "#e4ae5d"
   },
   "trailer": null,
-  "synopsis": "Maze wakes up in her house, everything is a wreck and she has amnesia. Before she can gather what has happened the girl Mill storms into her house thanking her for having saved her life. She tells Maze that her house suddenly fell down from the sky and crushed Mills pursuers under it. However before long they are both on the run from further pursuers who want their hands on princess Mill. They are only saved when Maze discovers that she has phantom light magical powers and can summon Mills family heirloom mecha. However her performance with the mecha is weak; that is until the sun goes down and she is turned in to a lecherous man. Soon other travellers join them as Maze tries to protect Mill and figure out what she is doing in this fantasy world. \n(Source: ANN)",
+  "synopsis": "Maze wakes up in her house, everything is a wreck and she has amnesia. Before she can gather what has happened the girl Mill storms into her house thanking her for having saved her life. She tells Maze that her house suddenly fell down from the sky and crushed Mills pursuers under it. However before long they are both on the run from further pursuers who want their hands on princess Mill. They are only saved when Maze discovers that she has phantom light magical powers and can summon Mills family heirloom mecha. However her performance with the mecha is weak; that is until the sun goes down and she is turned in to a lecherous man. Soon other travellers join them as Maze tries to protect Mill and figure out what she is doing in this fantasy world. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1162,
@@ -722,17 +728,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:10:23.103Z",
+    "lastFetched": "2026-06-26T17:48:28.814Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

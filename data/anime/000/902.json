@@ -31,40 +31,44 @@
       "Драконий жемчуг Зет: Галактика в опасности"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 50,
   "aired": {
-    "from": "1993-07-10",
+    "from": "1993-07-10T00:00:00+00:00",
     "to": "1993-07-10"
   },
   "season": "summer",
   "year": 1993,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.13,
+    "malScoredBy": 83546,
+    "malRank": 4085,
+    "malPopularity": 1954,
+    "malMembers": 134534,
+    "malFavorites": 65,
     "anilistScore": 6.8,
     "anilistPopularity": 32732,
     "anilistFavourites": 318,
-    "anilistTrending": 1,
+    "anilistTrending": 0,
     "kitsuRating": 6.95
   },
   "genres": [
     "Action",
     "Adventure",
-    "Sci-Fi",
     "Comedy",
     "Fantasy",
+    "Sci-Fi",
     "Super Power",
     "Science Fiction",
     "Shounen"
@@ -74,7 +78,7 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/802/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1730/93672l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/902-e2Ywly480iIc.jpg",
     "color": "#e4ae50"
   },
@@ -156,17 +160,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:45:01.815Z",
+    "lastFetched": "2026-06-26T17:43:51.704Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

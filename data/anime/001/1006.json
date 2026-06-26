@@ -22,31 +22,36 @@
     "english": "Tenchi Muyo! In Love",
     "native": "天地無用! in Love",
     "synonyms": [
-      "Tenchi Muyo Movie 1: Tenchi in Love"
+      "Tenchi Muyo Movie 1: Tenchi in Love",
+      "Tenchi Muyo! in Love"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 95,
   "aired": {
-    "from": "1996-04-20",
+    "from": "1996-04-20T00:00:00+00:00",
     "to": "1996-04-20"
   },
   "season": "spring",
   "year": 1996,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.43,
+    "malScoredBy": 13022,
+    "malRank": 2482,
+    "malPopularity": 4957,
+    "malMembers": 26313,
+    "malFavorites": 51,
     "anilistScore": 7.1,
     "anilistPopularity": 5018,
     "anilistFavourites": 63,
@@ -68,14 +73,18 @@
   "studios": [
     "AIC"
   ],
-  "producers": [],
+  "producers": [
+    "Pioneer LDC",
+    "GAGA",
+    "Arts Pro"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/896/original.png",
+    "poster": "https://cdn.myanimelist.net/images/anime/1543/92823l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1006-TkltpSRSM2wp.jpg",
     "color": "#5093e4"
   },
   "trailer": null,
-  "synopsis": "The demonic space criminal Kain has escaped from prison and destroyed the Galaxy Police headquarters. To ensure that the Jurai will not stop him, Kain travels back to 1970 to eliminate Tenchi's mother before he is even born. Now, Tenchi and the gang must travel to the past to stop him before he ceases to exist. \n(Source: ANN)",
+  "synopsis": "In a dark corner of the universe, intergalactic criminal Kain breaks out of prison and destroys the Galaxy Police Headquarters. Basking in the afterglow of the terror and destruction he has caused, Kain sets his sights toward a much bigger prize waiting on Earth.\n\nMeanwhile, Tenchi Masaki and his crew are watching some old home videos of his mother, Achika. As the film rolls, Achika slowly starts to vanish. While watching her fade away, Tenchi also begins to disappear. However, thanks to a device created by Washuu Hakubi, Tenchi is not gone for good.\n\nThe gang soon learns about Kain and deduce that he must have done something to Achika, which has resulted in time being altered. To save himself and maintain the future, Tenchi travels with the girls back in time to protect his mother from her fate.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 696,
@@ -152,17 +161,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:54:04.492Z",
+    "lastFetched": "2026-06-26T17:45:27.928Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

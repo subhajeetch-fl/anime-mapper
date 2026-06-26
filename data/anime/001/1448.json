@@ -19,37 +19,44 @@
   },
   "title": {
     "romaji": "Hyakujuu-Ou GoLion",
-    "english": "Go Lion",
+    "english": "Voltron: Defender of the Universe",
     "native": "百獣王ゴライオン",
     "synonyms": [
-      "Voltron: Defender of the Universe",
-      "Beast King GoLion",
+      "Hyakujuu Ou Golion",
+      "Hundred-Beast King Go Lion",
       "Lion Force Voltron",
-      "Hundred-Beast King Go Lion"
+      "Voltran",
+      "Voltron (U.S.)",
+      "Voltron: Defender of the Universe",
+      "Beast King GoLion"
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 52,
   "episodeLength": 23,
   "aired": {
-    "from": "1981-03-04",
-    "to": "1982-02-24"
+    "from": "1981-03-04T00:00:00+00:00",
+    "to": "1982-02-24T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1981,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.86,
+    "malScoredBy": 6358,
+    "malRank": 5509,
+    "malPopularity": 6362,
+    "malMembers": 13964,
+    "malFavorites": 69,
     "anilistScore": 6.3,
     "anilistPopularity": 2861,
     "anilistFavourites": 41,
@@ -58,8 +65,8 @@
   },
   "genres": [
     "Adventure",
-    "Mecha",
     "Sci-Fi",
+    "Mecha",
     "Transforming Craft",
     "Science Fiction",
     "Action",
@@ -75,12 +82,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1299/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/2/51647l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1448-vnJZEKwZLnxy.jpg",
     "color": "#f1bb35"
   },
   "trailer": null,
-  "synopsis": "Golion, a powerful sentient robot, abuses his great powers by attacking and killing creatures known as Deathblack Beastmen, boasting that no one could defeat him. A divine space being punishes Golion for his arrogance and abuse by seperating him into 5 different lion robots. In the year 1999, a group of 5 young men return to Earth after a space voyage, only to find it ravaged by nuclear war. After encountering the alien race known as the Galra, the 5 youths end up on the planet Altea, and learn that the 5 lion robots that Golion was split into are in hibernation in various parts of Altea. Somehow, they must reunite the lions and form Golion, the only hope for the human race.\n(Source: ANN)About Voltron (U.S.)",
+  "synopsis": "Golion, a powerful sentient robot, abuses his great powers by attacking and killing creatures known as Deathblack Beastmen, boasting that no one could defeat him. A divine space being punishes Golion for his arrogance and abuse by seperating him into 5 different lion robots. In the year 1999, a group of 5 young men return to Earth after a space voyage, only to find it ravaged by nuclear war. After encountering the alien race known as the Galra, the 5 youths end up on the planet Altea, and learn that the 5 lion robots that Golion was split into are in hibernation in various parts of Altea. Somehow, they must reunite the lions and form Golion, the only hope for the human race.\n\n(Source: ANN)\n\nAbout Voltron (U.S.)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -1195,17 +1202,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:38:40.029Z",
+    "lastFetched": "2026-06-26T17:59:42.503Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

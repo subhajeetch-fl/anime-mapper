@@ -22,31 +22,37 @@
     "english": "Rail of the Star: A True Story of Children",
     "native": "お星さまのレール",
     "synonyms": [
+      "O-Hoshisama no Rail",
+      "Ohoshi-sama no Rail",
       "مسرح الحياة"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 79,
   "aired": {
-    "from": "1993-07-10",
+    "from": "1993-07-10T00:00:00+00:00",
     "to": "1993-07-10"
   },
   "season": "summer",
   "year": 1993,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "G",
+  "rating": "G - All Ages",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.95,
+    "malScoredBy": 1266,
+    "malRank": 5032,
+    "malPopularity": 10013,
+    "malMembers": 4375,
+    "malFavorites": 5,
     "anilistScore": 6,
     "anilistPopularity": 1240,
     "anilistFavourites": 4,
@@ -66,16 +72,18 @@
     "Disaster"
   ],
   "studios": [
-    "MADHOUSE"
+    "Madhouse"
   ],
-  "producers": [],
+  "producers": [
+    "TV Tokyo"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1186/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/4/85355l.jpg",
     "banner": null,
     "color": "#3586e4"
   },
   "trailer": null,
-  "synopsis": "This is the autobiographic tale of Kobayashi Chitose, a young Japanese girl growing up in a Japanese-occupied North Korea. As World War II progresses, Chitose begins to realize that her family will not be able to escape the effects of the conflict. From the simple disappointment of not being able to get the type of backpack she wants for school, to her father's recruitment as a soldier, the war begins to impact her life in a very real manner. But the end of the war does not mean the end of hardship for her. The Koreans, fed up with years of Japanese rule and persecution, have joined forces with a Chinese-backed communist government and are systematically making life a living horror for the Japanese left in North Korea. Fearing reprisal since he was a Japanese veteran, Chitose's father risks everything to get his family out of the north and to the US-occupied area south of the 38th parallel.\n(Source: AniDB)",
+  "synopsis": "When she catches a news story on TV, Chitose \"Chiko\" Kobayashi is reminded of her childhood growing up in Japanese-occupied Korea. Filled with precious memories of her younger sister and her first days of school, as well as bitter memories of World War II and her family's daring escape from Russian-occupied North Korea, her childhood truly encapsulates a changing era. Yet, despite her struggles, as she remembers all of those that touched her life, Chiko realizes that she is lucky in many ways.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
@@ -95,17 +103,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:23:57.147Z",
+    "lastFetched": "2026-06-26T17:57:09.221Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

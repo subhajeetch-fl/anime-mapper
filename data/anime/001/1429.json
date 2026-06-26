@@ -19,7 +19,7 @@
   },
   "title": {
     "romaji": "Lupin III: Nusumareta Lupin - Copycat wa Manatsu no Chou",
-    "english": "Lupin the 3rd: Swallowtail Tattoo",
+    "english": "Lupin III: Swallowtail Tattoo",
     "native": "ルパン三世 盗まれたルパン 〜コピーキャットは真夏の蝶〜",
     "synonyms": [
       "Rupan Sansei: Nusumareta Rupan",
@@ -28,28 +28,32 @@
       "Lupin III - Tutti i tesori del mondo"
     ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "TV Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 91,
   "aired": {
-    "from": "2004-07-30",
+    "from": "2004-07-30T00:00:00+00:00",
     "to": "2004-07-30"
   },
   "season": "summer",
   "year": 2004,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.05,
+    "malScoredBy": 2893,
+    "malRank": 4540,
+    "malPopularity": 8249,
+    "malMembers": 7339,
+    "malFavorites": 1,
     "anilistScore": 6.6,
     "anilistPopularity": 2730,
     "anilistFavourites": 8,
@@ -57,10 +61,10 @@
     "kitsuRating": 7.1
   },
   "genres": [
+    "Action",
     "Adventure",
     "Comedy",
     "Mystery",
-    "Action",
     "Crime",
     "France",
     "Earth",
@@ -70,15 +74,17 @@
     "Europe",
     "Present"
   ],
-  "studios": [],
+  "studios": [
+    "TMS Entertainment"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1282/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/12/27610l.jpg",
     "banner": null,
     "color": "#e4a15d"
   },
   "trailer": null,
-  "synopsis": "In the middle of an airborne heist, Lupin goes from stealing to stolen as he's carted off and forced to do a job for a mysterious man identifiable only by the brand of cigarette he smokes. Lupin's mission: to steal the infamous \"Bull's Eye\", a small green jewel best-known for the fact that everyone who's ever stolen it has ended up dead. Along with the challenge of alternately evading and pursuing a young thief with a competitive streak, Lupin and the gang must unravel the mystery of the Bull's Eye before its curse - or their mysterious taskmaster - gets the better of them. \n(Source: ANN)",
+  "synopsis": "In the middle of an airborne heist, Lupin goes from stealing to stolen as he's carted off and forced to do a job for a mysterious man identifiable only by the brand of cigarette he smokes. Lupin's mission: to steal the infamous \"Bull's Eye\", a small green jewel best-known for the fact that everyone who's ever stolen it has ended up dead. Along with the challenge of alternately evading and pursuing a young thief with a competitive streak, Lupin and the gang must unravel the mystery of the Bull's Eye before its curse - or their mysterious taskmaster - gets the better of them. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1412,
@@ -112,17 +118,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:37:03.270Z",
+    "lastFetched": "2026-06-26T17:59:27.551Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

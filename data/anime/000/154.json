@@ -28,39 +28,43 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 64,
   "episodeLength": 23,
   "aired": {
-    "from": "2001-07-04",
-    "to": "2002-09-25"
+    "from": "2001-07-04T00:00:00+00:00",
+    "to": "2002-09-25T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2001,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.73,
+    "malScoredBy": 203550,
+    "malRank": 1347,
+    "malPopularity": 717,
+    "malMembers": 385719,
+    "malFavorites": 3775,
     "anilistScore": 7.4,
     "anilistPopularity": 58935,
     "anilistFavourites": 1357,
-    "anilistTrending": 1,
+    "anilistTrending": 0,
     "kitsuRating": 7.53
   },
   "genres": [
     "Action",
     "Adventure",
+    "Supernatural",
     "Comedy",
     "Drama",
-    "Supernatural",
     "Earth",
     "Swordplay",
     "Magic",
@@ -74,14 +78,18 @@
   "studios": [
     "Xebec"
   ],
-  "producers": [],
+  "producers": [
+    "TV Tokyo",
+    "Nihon Ad Systems",
+    "TV Tokyo Music"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/132/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1722/99235l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154-3rztL7uTSDqM.jpg",
     "color": "#43bbe4"
   },
   "trailer": null,
-  "synopsis": "A battle is about to begin in Tokyo: the Shaman Fight, a tournament held every five hundred years where shaman—those who can command spirits—confront each other in combat. The victor of this contest becomes the Shaman King and the only one who is able to contact and control the Great Spirit, allowing them to reshape the world as they please through its immense power.\nDuring a late night walk, Manta Oyamada runs into his classmate, the carefree You Asakura, who invites him to come stargazing with some friends, who, to Manta's horror, turn out to be ghosts from a local cemetery! However, the knowledge that Manta possesses—a rare sixth sense that allows Manta to see these spirits—endears the boy to You. So when You finds out that his new comrade has been beaten up by a local gang, he decides to avenge him with the help of Amidamaru, a samurai ghost whose tomb was broken by the gang leader. \nSoon Manta uncovers more about the world of spirits, including the Shaman Fight, in which his new friend You aims to claim victory.\n[Written by MAL Rewrite]",
+  "synopsis": "A battle is about to begin in Tokyo: the Shaman Fight, a tournament held every five hundred years where shaman—those who can command spirits—confront each other in combat. The victor of this contest becomes the Shaman King and the only one who is able to contact and control the Great Spirit, allowing them to reshape the world as they please through its immense power.\n\nDuring a late night walk, Manta Oyamada runs into his classmate, the carefree You Asakura, who invites him to come stargazing with some friends, who, to Manta's horror, turn out to be ghosts from a local cemetery! However, the knowledge that Manta possesses—a rare sixth sense that allows Manta to see these spirits—endears the boy to You. So when You finds out that his new comrade has been beaten up by a local gang, he decides to avenge him with the help of Amidamaru, a samurai ghost whose tomb was broken by the gang leader. \n\nSoon Manta uncovers more about the world of spirits, including the Shaman Fight, in which his new friend You aims to claim victory.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 3861,
@@ -1343,17 +1351,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:15:01.126Z",
+    "lastFetched": "2026-06-26T17:42:37.702Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

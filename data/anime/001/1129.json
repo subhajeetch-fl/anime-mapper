@@ -29,28 +29,32 @@
       "UFO Princess Valkyrie Episode 14"
     ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 24,
   "aired": {
-    "from": "2003-08-23",
+    "from": "2003-08-23T00:00:00+00:00",
     "to": "2003-08-23"
   },
   "season": "fall",
   "year": 2003,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.86,
+    "malScoredBy": 1802,
+    "malRank": 5543,
+    "malPopularity": 10091,
+    "malMembers": 4278,
+    "malFavorites": 1,
     "anilistScore": 6.4,
     "anilistPopularity": 1027,
     "anilistFavourites": 6,
@@ -59,22 +63,27 @@
   },
   "genres": [
     "Comedy",
-    "Ecchi",
     "Romance",
     "Sci-Fi",
+    "Ecchi",
     "Science Fiction"
   ],
   "studios": [
     "TNK"
   ],
-  "producers": [],
+  "producers": [
+    "Media Factory",
+    "Nippon Columbia",
+    "KlockWorx",
+    "Toshiba Entertainment"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1012/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1915/133830l.jpg",
     "banner": null,
     "color": "#e4c950"
   },
   "trailer": null,
-  "synopsis": "The queen of planet Valhalla arrives on Earth with a virtual-world-program, called \"bride training boot camp\". They built several pairs which have to take a random card with a special situation that might occur if you are married. For instance Kazuto and Valkyrie have to make dinner, Raine and Kazuto's sister have to manage poverty or Akina and Hydra have to prepare a wedding ceremony as bride and groom (so everyone gets the most unlikely and unsuitable situation).\n(Source: ANN)",
+  "synopsis": "The queen of planet Valhalla arrives on Earth with a virtual-world-program, called \"bride training boot camp\". They built several pairs which have to take a random card with a special situation that might occur if you are married. For instance Kazuto and Valkyrie have to make dinner, Raine and Kazuto's sister have to manage poverty or Akina and Hydra have to prepare a wedding ceremony as bride and groom (so everyone gets the most unlikely and unsuitable situation).\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1127,
@@ -92,17 +101,15 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-26T13:06:25.628Z",
+    "lastFetched": "2026-06-26T17:47:53.607Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

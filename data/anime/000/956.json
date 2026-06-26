@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 44,
   "episodeLength": null,
   "aired": {
-    "from": "1976-04-01",
-    "to": "1977-01-27"
+    "from": "1976-04-01T00:00:00+00:00",
+    "to": "1977-01-27T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1976,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.8,
+    "malScoredBy": 970,
+    "malRank": 5874,
+    "malPopularity": 11078,
+    "malMembers": 3202,
+    "malFavorites": 7,
     "anilistScore": 6.5,
     "anilistPopularity": 1188,
     "anilistFavourites": 21,
@@ -53,21 +57,25 @@
   },
   "genres": [
     "Adventure",
-    "Mecha",
     "Sci-Fi",
+    "Mecha",
     "Science Fiction",
     "Super Robot",
     "Robot"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [
+    "Dynamic Planning"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/846/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1196/134634l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n956-IP798i0zKlil.jpg",
     "color": "#f17835"
   },
   "trailer": null,
-  "synopsis": "Earth is still in danger: aliens from planet Zeraz are willing to invade our planet because theirs is being swallowed by a Black Hole. Led by Great Darius and his four generals, they begin seeding death and destruction. When an ESP warrior is killed by aliens, professor Hi-Tech understands the danger and builds the huge Space Dragon (Daiku Maryuu) piloted by Pete, and the gint robot Gaiking whose pilot is Sanshiro Shiwobuki, an ex-baseball player. Daiku Maryuu is a big dragon shaped spaceship and his head is the Gaiking torso. When the Gaiking enters the action, Daiku Maryuu launches other Gaiking's components and then it re-unite neck with tail, becoming unbreakable.\nThe story chronicled the battle between the crew of the semi-transformable carrier Daikuu Maryuu and the Super Mecha Gaiking against an invading race of aliens from the planet Zela, whose home planet is facing destruction by a black hole. The robot Gaiking was piloted by a baseball star named Sanshiro Tsuwabuki (Sanshiro's name was changed to Aries Astonopolis for the English version of the show with the carrier being called the \"Great Space Dragon\", a literal translation of \"Daikuu Maryuu\". Gaiking was notable for being one of the few super robot series to take place in real places outside of Japan, and for being the first Super Robot series to have a mobile carrier for the chief robots.\n(Source: ANN)",
+  "synopsis": "Earth is still in danger: aliens from planet Zeraz are willing to invade our planet because theirs is being swallowed by a Black Hole. Led by Great Darius and his four generals, they begin seeding death and destruction. When an ESP warrior is killed by aliens, professor Hi-Tech understands the danger and builds the huge Space Dragon (Daiku Maryuu) piloted by Pete, and the gint robot Gaiking whose pilot is Sanshiro Shiwobuki, an ex-baseball player. Daiku Maryuu is a big dragon shaped spaceship and his head is the Gaiking torso. When the Gaiking enters the action, Daiku Maryuu launches other Gaiking's components and then it re-unite neck with tail, becoming unbreakable.\n\nThe story chronicled the battle between the crew of the semi-transformable carrier Daikuu Maryuu and the Super Mecha Gaiking against an invading race of aliens from the planet Zela, whose home planet is facing destruction by a black hole. The robot Gaiking was piloted by a baseball star named Sanshiro Tsuwabuki (Sanshiro's name was changed to Aries Astonopolis for the English version of the show with the carrier being called the \"Great Space Dragon\", a literal translation of \"Daikuu Maryuu\". Gaiking was notable for being one of the few super robot series to take place in real places outside of Japan, and for being the first Super Robot series to have a mobile carrier for the chief robots.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": null,
@@ -804,17 +812,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:49:03.361Z",
+    "lastFetched": "2026-06-26T17:44:29.218Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

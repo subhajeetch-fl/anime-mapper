@@ -19,34 +19,38 @@
   },
   "title": {
     "romaji": "Rikujou Boueitai Mao-chan",
-    "english": "Ground Defense Force Mao-chan",
+    "english": "Ground Defense Force! Mao-chan",
     "native": "陸上防衛隊まおちゃん",
     "synonyms": [
       "Rikujou Bouei-tai Mao-chan"
     ]
   },
-  "type": "TV_SHORT",
-  "source": null,
-  "status": "finished",
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": null,
   "aired": {
-    "from": "2002-07-04",
-    "to": "2002-12-26"
+    "from": "2002-07-04T00:00:00+00:00",
+    "to": "2002-12-26T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2002,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "02:35",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "G",
+  "rating": "G - All Ages",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.46,
+    "malScoredBy": 1759,
+    "malRank": 8126,
+    "malPopularity": 8711,
+    "malMembers": 6426,
+    "malFavorites": 11,
     "anilistScore": 6.3,
     "anilistPopularity": 2065,
     "anilistFavourites": 12,
@@ -55,8 +59,8 @@
   },
   "genres": [
     "Comedy",
-    "Mahou Shoujo",
     "Sci-Fi",
+    "Mahou Shoujo",
     "Magic",
     "Military",
     "Kids",
@@ -80,12 +84,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/870/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/10/75213l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/980-KxPcfuRozpgQ.jpg",
     "color": "#e48628"
   },
   "trailer": null,
-  "synopsis": "Mao Onigawara is a happy 8-year-old grade-schooler and the granddaughter of Chief of Staff of Ground Defense Force. Equipped with her cloverleaf-shaped badge which enables her to transform (but gives her no special power whatsoever), Mao and her best friends (granddaughters of Chief of Staff of Air and Marine Defense Force, respectively) will defend Japan against the invasion from \"cute aliens,\" who are way too cute to be dealt with regular armed forces.\n(Source: ANN)",
+  "synopsis": "Mao Onigawara is a happy 8-year-old grade-schooler and the granddaughter of Chief of Staff of Ground Defense Force. Equipped with her cloverleaf-shaped badge which enables her to transform (but gives her no special power whatsoever), Mao and her best friends (granddaughters of Chief of Staff of Air and Marine Defense Force, respectively) will defend Japan against the invasion from \"cute aliens,\" who are way too cute to be dealt with by regular armed forces.\n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -480,17 +484,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:51:09.089Z",
+    "lastFetched": "2026-06-26T17:44:55.437Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

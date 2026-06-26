@@ -30,31 +30,35 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 155,
   "episodeLength": 25,
   "aired": {
-    "from": "1977-10-03",
-    "to": "1980-10-06"
+    "from": "1977-10-03T00:00:00+00:00",
+    "to": "1980-10-06T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1977,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.79,
+    "malScoredBy": 13422,
+    "malRank": 1178,
+    "malPopularity": 4143,
+    "malMembers": 39440,
+    "malFavorites": 412,
     "anilistScore": 7.5,
     "anilistPopularity": 11584,
     "anilistFavourites": 258,
-    "anilistTrending": 0,
+    "anilistTrending": 1,
     "kitsuRating": 7.79
   },
   "genres": [
@@ -73,14 +77,17 @@
   "studios": [
     "Tokyo Movie Shinsha"
   ],
-  "producers": [],
+  "producers": [
+    "VAP",
+    "Animax"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1278/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/7/34035l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1425-h2pu8v9xaVbM.jpg",
     "color": "#e4c9a1"
   },
   "trailer": null,
-  "synopsis": "Stealthy, smug, sharp, and silly. These words only begin to describe the greatest thief in the world, Lupin the Third. Ever at his side are the quick-draw sharpshooter Daisuke Jigen and the deadly, honor-bound swordsman Goemon Ishikawa\n\nBesides the countless fabulous treasures and priceless gems he pursues across the world, Lupin’s target is the heart of one Fujiko Mine, a buxom beauty who’s just as often Lupin’s rival as she is his girlfriend. But getting away with the gold and the girl is rarely as simple as it first seems. The clever Fujiko is eager to run off with the treasure for herself. And the dogged Tokyo Police Inspector Zenigata has transferred to Interpol just to chase Lupin and his globe-trotting gang across any and all borders! What’s an international master criminal to do?\n\n(Source: Discotek Media)",
+  "synopsis": "Lupin III chronicles the adventures of Arsene Lupin III, the world's greatest thief, and his partners in crime: master marksman Daisuke Jigen, beautiful and scheming Fujiko Mine and stoic samurai Goemon Ishikawa XIII. Lupin and his gang travel around the globe in search of the world's greatest treasures and riches and always keeping one step ahead of the tireless Inspector Zenigata, who has vowed to bring Lupin to justice. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1412,
@@ -2611,17 +2618,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:36:19.765Z",
+    "lastFetched": "2026-06-26T17:59:08.333Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -23,35 +23,40 @@
     "native": "ヨコハマ買い出し紀行",
     "synonyms": [
       "YKK",
+      "Yokohama Shopping Log",
       "Yokohama Shopping Trip"
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 2,
   "episodeLength": 29,
   "aired": {
-    "from": "1998-05-21",
-    "to": "1998-12-02"
+    "from": "1998-05-21T00:00:00+00:00",
+    "to": "1998-12-02T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1998,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "G",
+  "rating": "G - All Ages",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.46,
+    "malScoredBy": 17417,
+    "malRank": 2339,
+    "malPopularity": 3714,
+    "malMembers": 48206,
+    "malFavorites": 501,
     "anilistScore": 7.4,
     "anilistPopularity": 20656,
     "anilistFavourites": 665,
-    "anilistTrending": 1,
+    "anilistTrending": 0,
     "kitsuRating": 7.42
   },
   "genres": [
@@ -65,16 +70,20 @@
     "Countryside"
   ],
   "studios": [
+    "Ajia-do",
     "Ajiado"
   ],
-  "producers": [],
+  "producers": [
+    "Aniplex",
+    "Arts Pro"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/865/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1167/150175l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/975-6Fcen4DGT5vD.jpg",
     "color": "#f1ae43"
   },
   "trailer": null,
-  "synopsis": "This is not so much a story as it is a slice of life. Or rather, it is a look into portions of the life of a girl named Alpha, together with the people around her. Alpha runs a little cafe on the outskirts of Yokohama. There are almost no customers, but Alpha does not mind at all since she has the occasional company of the old man who runs the gasoline stand down the road, as well as that of his grandson Takahiro. This is a Yokohama of the future, when the sea covers most of the land and roads have disappeared under sand or water. Alpha is in fact a robot, looking after the cafe during her owner's indefinite leave of absence.\n(Source: AniDB)",
+  "synopsis": "After a disaster leaves the world in a state of decline, the remaining human population lives out their lives peacefully and quietly in the twilight of the human age. Alpha Hatsuseno is an android who works at a cafe bordering Yokohama that rarely gets visitors, and is waiting for her owner to return.\n\nOne day, another android, the courier Kokone Takatsu, brings Alpha a package from her master. Inside is a camera, given to Alpha so she can take pictures to reminisce about.\n\nYokohama Kaidashi Kikou is a slow and contemplative anime that follows an android girl as she takes beautiful pictures and experiences touching moments, all amidst a calming sense of peace.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 976,
@@ -153,17 +162,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:50:50.780Z",
+    "lastFetched": "2026-06-26T17:44:53.131Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

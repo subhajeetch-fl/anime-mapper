@@ -19,34 +19,39 @@
   },
   "title": {
     "romaji": "Sousei Seiki Devadasy",
-    "english": "De:vadasy",
+    "english": "Devadasy",
     "native": "創世聖紀デヴァダシー",
     "synonyms": [
+      "Sousei Seiki Devadasy",
       "Sosei Seiki Devadasy"
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Game",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
   "episodeLength": 23,
   "aired": {
-    "from": "2000-11-25",
-    "to": "2001-01-25"
+    "from": "2000-11-25T00:00:00+00:00",
+    "to": "2001-01-25T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2000,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 4.74,
+    "malScoredBy": 1520,
+    "malRank": 14644,
+    "malPopularity": 10217,
+    "malMembers": 4142,
+    "malFavorites": 0,
     "anilistScore": 4.1,
     "anilistPopularity": 1741,
     "anilistFavourites": 18,
@@ -54,8 +59,8 @@
     "kitsuRating": 5.13
   },
   "genres": [
-    "Action",
     "Ecchi",
+    "Action",
     "Mecha",
     "Psychological",
     "Science Fiction",
@@ -65,9 +70,12 @@
   "studios": [
     "Studio Gazelle"
   ],
-  "producers": [],
+  "producers": [
+    "AIC",
+    "Green Bunny"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1371/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1378/91079l.jpg",
     "banner": null,
     "color": "#5093f1"
   },
@@ -122,17 +130,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:46:20.589Z",
+    "lastFetched": "2026-06-26T18:00:57.277Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

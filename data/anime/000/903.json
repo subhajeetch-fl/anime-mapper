@@ -30,43 +30,47 @@
       "Драконий жемчуг Зет: Броли — Второе появление"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 50,
   "aired": {
-    "from": "1994-03-12",
+    "from": "1994-03-12T00:00:00+00:00",
     "to": "1994-03-12"
   },
   "season": "spring",
   "year": 1994,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.76,
+    "malScoredBy": 91115,
+    "malRank": 6101,
+    "malPopularity": 1828,
+    "malMembers": 146177,
+    "malFavorites": 58,
     "anilistScore": 6.4,
     "anilistPopularity": 35052,
     "anilistFavourites": 300,
-    "anilistTrending": 1,
+    "anilistTrending": 0,
     "kitsuRating": 6.67
   },
   "genres": [
     "Action",
     "Adventure",
-    "Sci-Fi",
     "Comedy",
+    "Fantasy",
+    "Sci-Fi",
     "Martial Arts",
     "Super Power",
     "Demons",
-    "Fantasy",
     "Science Fiction",
     "Demon",
     "Shounen"
@@ -76,7 +80,7 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/803/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1191/93673l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/903-5svBMULsJJ9c.png",
     "color": "#e49343"
   },
@@ -171,17 +175,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:45:13.235Z",
+    "lastFetched": "2026-06-26T17:43:53.914Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

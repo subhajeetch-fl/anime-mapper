@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": 25,
   "aired": {
-    "from": "1998-04-18",
-    "to": "1998-11-06"
+    "from": "1998-04-18T00:00:00+00:00",
+    "to": "1998-11-06T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1998,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "02:45",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.5,
+    "malScoredBy": 770,
+    "malRank": 7816,
+    "malPopularity": 11244,
+    "malMembers": 3054,
+    "malFavorites": 8,
     "anilistScore": 6,
     "anilistPopularity": 1063,
     "anilistFavourites": 9,
@@ -52,8 +56,8 @@
     "kitsuRating": 6.75
   },
   "genres": [
-    "Sci-Fi",
     "Action",
+    "Sci-Fi",
     "Science Fiction",
     "Post Apocalypse",
     "Dystopia"
@@ -61,14 +65,16 @@
   "studios": [
     "Sunrise"
   ],
-  "producers": [],
+  "producers": [
+    "Fuji TV"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1179/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1053/138466l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1314-WeZ9Y55fOlmd.jpg",
     "color": "#e4bb28"
   },
   "trailer": null,
-  "synopsis": "Shu is from Datania, a country that makes young children work. He and his friends were trying to escape when they met the Returners. The Returners are some kind of rebels to Datania. Shu goes with the Returners to fight Zero, Nines, and his men who are after DT, a special substance inside humans.\n(Source: ANN)",
+  "synopsis": "Shu is from Datania, a country that makes young children work. He and his friends were trying to escape when they met the Returners. The Returners are some kind of rebels to Datania. Shu goes with the Returners to fight Zero, Nines, and his men who are after DT, a special substance inside humans.\n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -463,17 +469,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:23:09.531Z",
+    "lastFetched": "2026-06-26T17:57:00.421Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

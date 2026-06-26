@@ -25,28 +25,32 @@
       "ブルージェンダー ザ・ウォリアー"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 98,
   "aired": {
-    "from": "2002-11-20",
+    "from": "2002-11-20T00:00:00+00:00",
     "to": "2002-11-20"
   },
   "season": "fall",
   "year": 2002,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.18,
+    "malScoredBy": 5383,
+    "malRank": 9766,
+    "malPopularity": 6670,
+    "malMembers": 12485,
+    "malFavorites": 8,
     "anilistScore": 5.8,
     "anilistPopularity": 2373,
     "anilistFavourites": 14,
@@ -57,8 +61,8 @@
     "Adventure",
     "Drama",
     "Horror",
-    "Mecha",
     "Sci-Fi",
+    "Mecha",
     "Space",
     "Military",
     "Romance",
@@ -74,12 +78,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1234/original.png",
+    "poster": "https://cdn.myanimelist.net/images/anime/4/15774l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/1234/original.jpeg",
     "color": "#5da1f1"
   },
   "trailer": null,
-  "synopsis": "It is a time of chaos. Earth is no longer what it used to be. It has been infested with a bug like species called the Blue. 20 years ago Yuji Kaido, who has a mysterious disease, is put into suspended animation until a cure is found. When he wakes up Yuji learns that it’s been more than 20 years since he was put into suspended animation, and the world is now controlled by these creatures. He then decides to join a group of soldiers fighting against the Blue for hope of a better future.\n(Source: ANN)",
+  "synopsis": "It is a time of chaos. Earth is no longer what it used to be. It has been infested with a bug like species called the Blue. 20 years ago Yuji Kaido, who has a mysterious disease, is put into suspended animation until a cure is found. When he wakes up Yuji learns that it’s been more than 20 years since he was put into suspended animation, and the world is now controlled by these creatures. He then decides to join a group of soldiers fighting against the Blue for hope of a better future.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 58,
@@ -143,17 +147,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:29:39.921Z",
+    "lastFetched": "2026-06-26T17:58:10.928Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

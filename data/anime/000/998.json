@@ -26,27 +26,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": 25,
   "aired": {
-    "from": "1994-10-05",
-    "to": "1995-03-29"
+    "from": "1994-10-05T00:00:00+00:00",
+    "to": "1995-03-29T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1994,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7,
+    "malScoredBy": 11375,
+    "malRank": 4762,
+    "malPopularity": 4469,
+    "malMembers": 33423,
+    "malFavorites": 140,
     "anilistScore": 6.5,
     "anilistPopularity": 6937,
     "anilistFavourites": 59,
@@ -56,13 +60,14 @@
   "genres": [
     "Action",
     "Adventure",
-    "Comedy",
     "Drama",
+    "Horror",
     "Mystery",
+    "Romance",
+    "Supernatural",
+    "Comedy",
     "Demons",
     "Ecchi",
-    "Horror",
-    "Romance",
     "Sci-Fi",
     "Japan",
     "Asia",
@@ -84,14 +89,21 @@
     "Production I.G",
     "Ashi Productions"
   ],
-  "producers": [],
+  "producers": [
+    "TV Tokyo",
+    "Nihon Ad Systems",
+    "Movic",
+    "ING",
+    "King Records",
+    "Omnibus Promotion"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/888/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1151/117019l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/998-VCW2x53iwpZb.jpg",
     "color": "#e48643"
   },
   "trailer": null,
-  "synopsis": "Momiji is an average girl until the day she finds she is the descendant of the great Kushinada family. Only she, with her Kushinada blood, can stop the Aragami, demonic plant-like monsters threatening to destroy Japan. Along to help her is the TAC, and a possible love interest in a young man named Kusanagi.\n(Source: ANN)",
+  "synopsis": "Momiji is an average girl until the day she finds she is the descendant of the great Kushinada family. Only she, with her Kushinada blood, can stop the Aragami, demonic plant-like monsters threatening to destroy Japan. Along to help her is the TAC, and a possible love interest in a young man named Kusanagi.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 3620,
@@ -781,17 +793,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:53:04.543Z",
+    "lastFetched": "2026-06-26T17:45:16.961Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

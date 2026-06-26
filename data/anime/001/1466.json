@@ -22,31 +22,37 @@
     "english": "Hakugei: Legend of the Moby Dick",
     "native": "白鯨伝説",
     "synonyms": [
+      "Hakugei: Legend of the Moby Dick",
+      "Legend of the White Whale",
       "Legend of Moby Dick"
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": 23,
   "aired": {
-    "from": "1997-04-09",
-    "to": "1999-05-12"
+    "from": "1997-04-09T00:00:00+00:00",
+    "to": "1999-05-12T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1997,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.68,
+    "malScoredBy": 1418,
+    "malRank": 6638,
+    "malPopularity": 8884,
+    "malMembers": 6131,
+    "malFavorites": 35,
     "anilistScore": 6.6,
     "anilistPopularity": 2443,
     "anilistFavourites": 26,
@@ -71,14 +77,18 @@
     "Studio Junio",
     "Annapuru"
   ],
-  "producers": [],
+  "producers": [
+    "Tezuka Productions",
+    "Sony Music Entertainment",
+    "Image Kei"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1313/original.png",
+    "poster": "https://cdn.myanimelist.net/images/anime/1521/92985l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1466-A7vpXgIcYTTl.jpg",
     "color": "#e4a143"
   },
   "trailer": null,
-  "synopsis": "A courageous young man tries to find the only person who can save his planet from the most terrifying beast in the universe -- the great white whale Moby Dick -- in this futuristic anime adventure set in 4699. But locating the outlaw Captain Ahab and his elusory crew of whale hunters and persuading them to put an end to the leviathan's long reign of terror won't be easy. Will Ahab take up the challenge one more time? ",
+  "synopsis": "A courageous young man tries to find the only person who can save his planet from the most terrifying beast in the universe—the great white whale Moby Dick—in this futuristic anime adventure set in 4699. But locating the outlaw Captain Ahab and his illusory crew of whale hunters and persuading them to put an end to the leviathan's long reign of terror won't be easy. Will Ahab take up the challenge one more time?",
   "sequence": [],
   "episodes": {
     "1": {
@@ -758,17 +768,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:39:42.933Z",
+    "lastFetched": "2026-06-26T17:59:51.218Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

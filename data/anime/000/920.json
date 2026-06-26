@@ -23,31 +23,36 @@
     "native": "ナースウィッチ小麦ちゃんマジカルて 特別 閑話休題すぺしゃる ~再び祭りの予感でワッショイ!~",
     "synonyms": [
       "Nurse Witch Komugi-chan Episode 2.5",
+      "Return to Subject Special - Premonition of a Returning Festival! Heave Ho!",
       "Nurse Witch Komugi-chan Special"
     ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "Special",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 27,
   "aired": {
-    "from": "2003-06-06",
+    "from": "2003-06-06T00:00:00+00:00",
     "to": "2003-06-06"
   },
   "season": "summer",
   "year": 2003,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.4,
+    "malScoredBy": 2962,
+    "malRank": 8497,
+    "malPopularity": 8608,
+    "malMembers": 6643,
+    "malFavorites": 6,
     "anilistScore": 6.1,
     "anilistPopularity": 2106,
     "anilistFavourites": 10,
@@ -61,16 +66,21 @@
     "Parody"
   ],
   "studios": [
+    "Kyoto Animation",
     "Tatsunoko Production"
   ],
-  "producers": [],
+  "producers": [
+    "Rondo Robe",
+    "Pioneer LDC",
+    "Toshiba Entertainment"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/820/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/4/72857l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/920-BdAsLDCA2MSp.jpg",
     "color": "#e4bb5d"
   },
   "trailer": null,
-  "synopsis": "A TV special, known as episode 2.5, that takes place between episodes 2 and 3.\n(Source: ANN)",
+  "synopsis": "A TV special, known as episode 2.5, that takes place between episodes 2 and 3.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 615,
@@ -88,17 +98,15 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-26T12:47:08.945Z",
+    "lastFetched": "2026-06-26T17:44:13.719Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

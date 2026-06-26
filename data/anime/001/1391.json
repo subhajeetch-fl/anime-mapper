@@ -22,31 +22,37 @@
     "english": "Future GPX Cyber Formula",
     "native": "新世紀GPXサイバーフォーミュラ",
     "synonyms": [
+      "Cyber Formula: Shinseiki-GPX",
+      "Shinseiki GPX Cyber Formula",
       "Cyber Formula: Shinseki-GPX"
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 37,
   "episodeLength": 24,
   "aired": {
-    "from": "1991-03-15",
-    "to": "1991-12-20"
+    "from": "1991-03-15T00:00:00+00:00",
+    "to": "1991-12-20T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1991,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.42,
+    "malScoredBy": 2737,
+    "malRank": 2509,
+    "malPopularity": 6940,
+    "malMembers": 11316,
+    "malFavorites": 70,
     "anilistScore": 7,
     "anilistPopularity": 4062,
     "anilistFavourites": 63,
@@ -54,11 +60,11 @@
     "kitsuRating": 7.4
   },
   "genres": [
-    "Action",
+    "Adventure",
     "Sci-Fi",
+    "Action",
     "Sports",
     "Racing",
-    "Adventure",
     "Science Fiction",
     "Formula Racing",
     "Future",
@@ -69,12 +75,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1244/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1653/140355l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1391-zkX5A0GjuplU.jpg",
     "color": "#e49343"
   },
   "trailer": null,
-  "synopsis": "14-year-old Kazami Hayato is the youngest driver of Cyber Formula, a Grand Prix in which each vehicle is equipped with computers to aid in racing. With the help of Asurada, the most advanced cybernavigation system, and team Sugo, Hayato races to become the winner of the 10th Cyber Formula Grand Prix. Along the way, Hayato will have to learn what it truly means to be a racer and that victory cannot be achieved simply by driving the best machine. In addition, Kazami will have to gain the respect of the veteran racers, thwart those who attempt to steal Asurada, and participate in races outside of Cyber Formula.\n(Source: ANN)",
+  "synopsis": "14-year-old Kazami Hayato is the youngest driver of Cyber Formula, a Grand Prix in which each vehicle is equipped with computers to aid in racing. With the help of Asurada, the most advanced cybernavigation system, and team Sugo, Hayato races to become the winner of the 10th Cyber Formula Grand Prix. Along the way, Hayato will have to learn what it truly means to be a racer and that victory cannot be achieved simply by driving the best machine. In addition, Kazami will have to gain the respect of the veteran racers, thwart those who attempt to steal Asurada, and participate in races outside of Cyber Formula.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 9759,
@@ -854,17 +860,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:30:50.713Z",
+    "lastFetched": "2026-06-26T17:58:17.583Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

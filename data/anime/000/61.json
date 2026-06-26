@@ -23,32 +23,36 @@
     "native": "Ｄ・Ｎ・ＡＮＧＥＬ",
     "synonyms": [
       "DN Angel",
-      "D.N. Angel",
-      "DNAngel"
+      "DNAngel",
+      "D.N. Angel"
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": 23,
   "aired": {
-    "from": "2003-04-03",
-    "to": "2003-09-25"
+    "from": "2003-04-03T00:00:00+00:00",
+    "to": "2003-09-25T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2003,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.16,
+    "malScoredBy": 101399,
+    "malRank": 3902,
+    "malPopularity": 1453,
+    "malMembers": 192120,
+    "malFavorites": 1303,
     "anilistScore": 6.6,
     "anilistPopularity": 22799,
     "anilistFavourites": 290,
@@ -77,14 +81,16 @@
   "studios": [
     "Xebec"
   ],
-  "producers": [],
+  "producers": [
+    "Kadokawa Shoten"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/42/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1126/98904l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/61-VZW3RDx4ZDem.jpg",
     "color": "#e4bba1"
   },
   "trailer": null,
-  "synopsis": "Daisuke Niwa is a clumsy, block-headed, and wimpy middle school student who has few redeeming qualities. On his 14th birthday, he finally decides to confess his love to his longtime crush Risa Harada, but is rejected. \nIn an unexpected turn of events, however, Daisuke finds himself transforming into Dark Mousy, the infamous phantom thief, whenever his mind is set on Risa. Though Daisuke is unaware of this strange heritage, his mother is certainly not: since before the boy was born, his mother had been planning for him to steal valuable works of art and let the name of the elusive art thief be known.\nWith doubt and confusion constantly clouding his mind, Daisuke finds himself struggling in his relationships with classmates and family. And it is not long before Daisuke realizes that he is not the only one with a fated family legacy—his greatest adversary could be the one classmate he is most unwilling to fight. \n[Written by MAL Rewrite]",
+  "synopsis": "Daisuke Niwa is a clumsy, block-headed, and wimpy middle school student who has few redeeming qualities. On his 14th birthday, he finally decides to confess his love to his longtime crush Risa Harada, but is rejected. \n\nIn an unexpected turn of events, however, Daisuke finds himself transforming into Dark Mousy, the infamous phantom thief, whenever his mind is set on Risa. Though Daisuke is unaware of this strange heritage, his mother is certainly not: since before the boy was born, his mother had been planning for him to steal valuable works of art and let the name of the elusive art thief be known.\n\nWith doubt and confusion constantly clouding his mind, Daisuke finds himself struggling in his relationships with classmates and family. And it is not long before Daisuke realizes that he is not the only one with a fated family legacy—his greatest adversary could be the one classmate he is most unwilling to fight. \n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
@@ -614,17 +620,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:10:00.420Z",
+    "lastFetched": "2026-06-26T17:42:09.210Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

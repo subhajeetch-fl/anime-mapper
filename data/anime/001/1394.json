@@ -27,27 +27,31 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 8,
   "episodeLength": 30,
   "aired": {
-    "from": "1996-01-01",
-    "to": "1997-01-01"
+    "from": "1996-08-01T00:00:00+00:00",
+    "to": "1997-07-25T00:00:00+00:00"
   },
   "season": "summer",
   "year": 1996,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.4,
+    "malScoredBy": 1339,
+    "malRank": 2590,
+    "malPopularity": 10697,
+    "malMembers": 3543,
+    "malFavorites": 15,
     "anilistScore": 7.1,
     "anilistPopularity": 1258,
     "anilistFavourites": 38,
@@ -71,12 +75,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1247/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1344/93011l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1394-WSQVrXlK5FUZ.jpg",
     "color": "#f15d93"
   },
   "trailer": null,
-  "synopsis": "After his disappointing loss in the last round of the 14th Cyber Formula World Grand Prix, which causes him the championship, Hayato Kazami decides that he needs a change and switches over to the Sugo Garland SF-03 for the 15th Cyber Formula World Grand Prix while he waits for the newest Asurada design. However, his hope to make up for the past year's letdown is made difficult when Aoi ZIP Formula undergoes a major restructuring and brings in Kyoshiro Nagumo as the new president of the team. The new car that he brought to the team, driven by newcomer Phil Fritz, is seemingly unbeatable...\n(Source: ANN)",
+  "synopsis": "After his disappointing loss in the last round of the 14th Cyber Formula World Grand Prix, which causes him the championship, Hayato Kazami decides that he needs a change and switches over to the Sugo Garland SF-03 for the 15th Cyber Formula World Grand Prix while he waits for the newest Asurada design. However, his hope to make up for the past year's letdown is made difficult when Aoi ZIP Formula undergoes a major restructuring and brings in Kyoshiro Nagumo as the new president of the team. The new car that he brought to the team, driven by newcomer Phil Fritz, is seemingly unbeatable...\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1393,
@@ -273,17 +277,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:31:26.015Z",
+    "lastFetched": "2026-06-26T17:58:24.158Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

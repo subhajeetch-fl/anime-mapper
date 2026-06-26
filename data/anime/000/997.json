@@ -23,32 +23,38 @@
     "native": "美少女戦士セーラームーンS かぐや姫の恋人",
     "synonyms": [
       "Bishoujo Senshi Sailor Moon S: The Movie",
+      "Bishoujo Senshi Sailor Moon S: Kaguya Hime no Koibito",
+      "Sailor Moon S: Snowprincess Kaguya",
       "Sailor Moon S: Czarodziejka z Księżyca – Film kinowy",
       "Sailor Moon S: Corações de Gelo"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 61,
   "aired": {
-    "from": "1994-12-04",
+    "from": "1994-12-04T00:00:00+00:00",
     "to": "1994-12-04"
   },
   "season": "fall",
   "year": 1994,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.69,
+    "malScoredBy": 30774,
+    "malRank": 1453,
+    "malPopularity": 3325,
+    "malMembers": 58429,
+    "malFavorites": 129,
     "anilistScore": 7.3,
     "anilistPopularity": 10798,
     "anilistFavourites": 164,
@@ -56,13 +62,13 @@
     "kitsuRating": 7.65
   },
   "genres": [
-    "Action",
     "Adventure",
-    "Comedy",
     "Drama",
+    "Romance",
+    "Action",
+    "Comedy",
     "Fantasy",
     "Mahou Shoujo",
-    "Romance",
     "Magic",
     "Japan",
     "Earth",
@@ -77,14 +83,16 @@
   "studios": [
     "Toei Animation"
   ],
-  "producers": [],
+  "producers": [
+    "Kodansha"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/887/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1601/98566l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/997-LzofwSXW9xsf.jpg",
     "color": "#0095FF"
   },
   "trailer": null,
-  "synopsis": "An unusual snow storm hits Tokyo and the Sailor Senshi discover that an evil snow queen Kaguya, wants to freeze the entire earth. It's up to the Inner Sailor Senshi along with the Outers, to defeat the Queen. Meanwhile, Luna falls in love with a human astronomer named Kakeru whose girlfriend is an astronaut about to take a space shuttle mission. Kakeru becomes ill and Luna wishes she could be a human to help him. ",
+  "synopsis": "An unusual snow storm hits Tokyo and the Sailor Senshi discover that an evil snow queen Kaguya, wants to freeze the entire earth. It's up to the Inner Sailor Senshi along with the Outers, to defeat the Queen. Meanwhile, Luna falls in love with a human astronomer named Kakeru whose girlfriend is an astronaut about to take a space shuttle mission. Kakeru becomes ill and Luna wishes she could be a human to help him.",
   "sequence": [
     {
       "malId": 531,
@@ -324,17 +332,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:52:52.997Z",
+    "lastFetched": "2026-06-26T17:45:14.914Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

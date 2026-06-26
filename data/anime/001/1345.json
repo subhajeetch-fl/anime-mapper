@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 50,
   "aired": {
-    "from": "1991-02-22",
+    "from": "1991-02-22T00:00:00+00:00",
     "to": "1991-02-22"
   },
   "season": "winter",
   "year": 1991,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 3.22,
+    "malScoredBy": 2635,
+    "malRank": 15025,
+    "malPopularity": 9409,
+    "malMembers": 5282,
+    "malFavorites": 3,
     "anilistScore": 2.6,
     "anilistPopularity": 1744,
     "anilistFavourites": 4,
@@ -53,10 +57,10 @@
   },
   "genres": [
     "Action",
+    "Fantasy",
     "Super Power",
     "Demons",
     "Earth",
-    "Fantasy",
     "Japan",
     "Asia",
     "Horror",
@@ -64,15 +68,17 @@
     "Present",
     "Demon"
   ],
-  "studios": [],
+  "studios": [
+    "Toei Animation"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1200/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1871/144500l.jpg",
     "banner": null,
     "color": "#e49350"
   },
   "trailer": null,
-  "synopsis": "Ukyo Rettsu, a surgeon, treats a mysterous old woman for a mysterious \"cancer.\" The growth turns out to be a messenger from the ancient past of Japan heralding a demonic invasion of the Earth. Ukyo must go back in time and fight the race of ancient demons. \n(Source: AniDB)",
+  "synopsis": "Ukyo Rettsu, a surgeon, treats a mysterous old woman for a mysterious \"cancer.\" The growth turns out to be a messenger from the ancient past of Japan heralding a demonic invasion of the Earth. Ukyo must go back in time and fight the race of ancient demons. \n\n(Source: AniDB)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -92,17 +98,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:25:17.618Z",
+    "lastFetched": "2026-06-26T17:57:29.112Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

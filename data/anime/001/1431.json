@@ -19,37 +19,44 @@
   },
   "title": {
     "romaji": "Lupin III: Ai no Da Capo - Fujiko's Unlucky Days",
-    "english": "Lupin the 3rd: The Columbus Files",
+    "english": "Lupin III: The Columbus Files",
     "native": "ルパン三世『愛のダ・カーポ ～Fujiko's Unlucky Days』",
     "synonyms": [
+      "Rupan Sansei",
+      "Lupin III: Da Capo of Love - Fujiko's Unlucky Days",
+      "Lupin III: Fujiko's Unlucky Days",
       "Lupin III: The Columbus Files",
       "Lupin III - L'amore da capo: Fujiko's Unlucky Days"
     ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "TV Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 92,
   "aired": {
-    "from": "1999-07-30",
+    "from": "1999-07-30T00:00:00+00:00",
     "to": "1999-07-30"
   },
   "season": "summer",
   "year": 1999,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.77,
+    "malScoredBy": 3417,
+    "malRank": 6066,
+    "malPopularity": 7832,
+    "malMembers": 8424,
+    "malFavorites": 5,
     "anilistScore": 6.4,
-    "anilistPopularity": 2603,
+    "anilistPopularity": 2604,
     "anilistFavourites": 8,
     "anilistTrending": 0,
     "kitsuRating": 6.94
@@ -69,14 +76,17 @@
   "studios": [
     "Tokyo Movie Shinsha"
   ],
-  "producers": [],
+  "producers": [
+    "VAP",
+    "Tohokushinsha Film Corporation"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/1284/poster_image/e9d576387f0cad85535efa10fffdf1cf.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1143/134195l.jpg",
     "banner": "https://media.kitsu.app/anime/1284/cover_image/79fb5da7b03dea6b94eae1dfb730f008.jpg",
     "color": "#e4ae86"
   },
   "trailer": null,
-  "synopsis": "When Fujiko secures a file that documents the location of the fabled Columbus Egg– a mystical relic found by Christopher Columbus which can be harnessed to control the weather– she quickly recruits Lupin and the gang to track down the long-lost treasure. To prevent a sinister villain from finding the Egg, Fujiko memorizes the file and destroys it. Unfortunately, in the process, she contracts amnesia, changing her personality and wiping her memory of Lupin and his friends almost entirely. Can they restore Fujiko back to normal before the Egg falls into the hands of a madman?\n\n(Source: Discotek Media)",
+  "synopsis": "When Fujiko acquires and memorizes papers called the Columbus Files, she is attacked and loses her memory. Lupin, a treasure hunter named Rosaria, and the cackling villain Nazaroff all pursue Fujiko, as she is the only key to the location of Columbus' Egg, a treasure connected to the mysterious Orgone Energy. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1412,
@@ -170,17 +180,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:37:15.943Z",
+    "lastFetched": "2026-06-26T17:59:29.216Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

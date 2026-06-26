@@ -19,34 +19,38 @@
   },
   "title": {
     "romaji": "Yonna in the Solitary Fortress",
-    "english": null,
+    "english": "Yonna in the Solitary Fortress",
     "native": "はなれ砦のヨナ",
     "synonyms": [
       "Hanare Toride no Yonna"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 33,
   "aired": {
-    "from": "2006-04-08",
+    "from": "2006-04-08T00:00:00+00:00",
     "to": "2006-04-08"
   },
   "season": "spring",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG - Children",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 4.91,
+    "malScoredBy": 1347,
+    "malRank": 14466,
+    "malPopularity": 11281,
+    "malMembers": 3022,
+    "malFavorites": 2,
     "anilistScore": 4,
     "anilistPopularity": 630,
     "anilistFavourites": 1,
@@ -59,15 +63,20 @@
     "Fantasy World",
     "Magic"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "CoMix Wave Films"
+  ],
+  "producers": [
+    "Studio 4°C",
+    "Capcom"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/921/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/8/24282l.jpg",
     "banner": null,
     "color": "#f1bb86"
   },
   "trailer": null,
-  "synopsis": "Yonna and Stan, brother and sister, live in isolation because of their special powers. There are enigmatic people who plot to use their power, in conflict with the king`s government, which is also planning to draw them onto their side. Intrigue surrounds Yonna, and now a new agent comes to see her.\n(Source: AniDB)",
+  "synopsis": "Yonna and Stan, brother and sister, live in isolation because of their special powers. There are enigmatic people who plot to use their power, in conflict with the king`s government, which is also planning to draw them onto their side. Intrigue surrounds Yonna, and now a new agent comes to see her.\n\n(Source: AniDB)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -162,17 +171,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:56:38.991Z",
+    "lastFetched": "2026-06-26T17:46:04.447Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

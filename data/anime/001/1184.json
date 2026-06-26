@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Light novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": 22,
   "aired": {
-    "from": "1998-04-03",
-    "to": "1998-09-25"
+    "from": "1998-04-03T00:00:00+00:00",
+    "to": "1998-09-25T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1998,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.02,
+    "malScoredBy": 7355,
+    "malRank": 4689,
+    "malPopularity": 5632,
+    "malMembers": 19270,
+    "malFavorites": 64,
     "anilistScore": 6.6,
     "anilistPopularity": 4468,
     "anilistFavourites": 51,
@@ -65,14 +69,18 @@
   "studios": [
     "E&G Films"
   ],
-  "producers": [],
+  "producers": [
+    "SoftX",
+    "Studio Tulip",
+    "Cruise"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1064/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/3/20409l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1184-oRfKf0jThVgG.jpg",
     "color": "#f1bb50"
   },
   "trailer": null,
-  "synopsis": "Millie Nocturne has one great goal in life: to be the best in the universe - at absolutely everything! But when she tries her hand at being the \"best detective,\" she ends up an unwilling partner with two people who will change her life forever: Kane Blueriver, the psi-blade-wielding master of the starship Swordbreaker, and Canal, the smart-mouthed holographic image of the ship's computer.\nJoin this unlikely trio on their adventures as they hurtle through space facing off against intergalactic crime lords, rogue starships, and hijackers dressed as chickens... and that's just the tip of the asteroid! \n(Source: RightStuf)",
+  "synopsis": "Millie Nocturne has one great goal in life: to be the best in the universe - at absolutely everything! But when she tries her hand at being the \"best detective,\" she ends up an unwilling partner with two people who will change her life forever: Kane Blueriver, the psi-blade-wielding master of the starship Swordbreaker, and Canal, the smart-mouthed holographic image of the ship's computer.\n\nJoin this unlikely trio on their adventures as they hurtle through space facing off against intergalactic crime lords, rogue starships, and hijackers dressed as chickens... and that's just the tip of the asteroid! \n\n(Source: RightStuf)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -497,17 +505,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:12:53.156Z",
+    "lastFetched": "2026-06-26T17:50:29.864Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

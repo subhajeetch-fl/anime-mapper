@@ -28,28 +28,32 @@
       "Lupin III: Le profezie di Nostradamus"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 100,
   "aired": {
-    "from": "1995-04-22",
+    "from": "1995-04-22T00:00:00+00:00",
     "to": "1995-04-22"
   },
   "season": "spring",
   "year": 1995,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.35,
+    "malScoredBy": 6304,
+    "malRank": 2837,
+    "malPopularity": 6509,
+    "malMembers": 13193,
+    "malFavorites": 14,
     "anilistScore": 7.2,
     "anilistPopularity": 4253,
     "anilistFavourites": 33,
@@ -57,24 +61,27 @@
     "kitsuRating": 7.42
   },
   "genres": [
+    "Action",
     "Adventure",
     "Comedy",
     "Mystery",
-    "Action",
     "Crime",
     "Thievery"
   ],
   "studios": [
     "Tokyo Movie Shinsha"
   ],
-  "producers": [],
+  "producers": [
+    "VAP",
+    "Tohokushinsha Film Corporation"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1272/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/8/21668l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1419-3ur0R4jP92Qa.jpg",
     "color": "#e47850"
   },
   "trailer": null,
-  "synopsis": "After a diamond heist in Brazil, Lupin hides the gem in a doll and boards a plane headed out of the country. While on board, the doll is stolen by a little girl named Julia, whose nanny is none other than Fujiko Mine. Before Lupin can get the doll back, the plane is hijacked and the girl is kidnapped. The kidnappers are after the same thing that Fujiko is after - a book of Nostradamus prophecies hidden in Julia's father's tower. Lupin and the gang join forces to save the girl, get the diamond back, and discover the secrets surrounding the strange book. \n(Source: ANN)",
+  "synopsis": "After a diamond heist in Brazil, Lupin hides the gem in a doll and boards a plane headed out of the country. While on board, the doll is stolen by a little girl named Julia, whose nanny is none other than Fujiko Mine. Before Lupin can get the doll back, the plane is hijacked and the girl is kidnapped. The kidnappers are after the same thing that Fujiko is after - a book of Nostradamus prophecies hidden in Julia's father's tower. Lupin and the gang join forces to save the girl, get the diamond back, and discover the secrets surrounding the strange book. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1412,
@@ -168,17 +175,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:35:09.058Z",
+    "lastFetched": "2026-06-26T17:58:54.921Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

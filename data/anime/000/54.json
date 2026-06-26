@@ -25,28 +25,32 @@
       "Appleseed (2004)"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 105,
   "aired": {
-    "from": "2004-04-17",
+    "from": "2004-04-17T00:00:00+00:00",
     "to": "2004-04-17"
   },
   "season": "spring",
   "year": 2004,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.05,
+    "malScoredBy": 42961,
+    "malRank": 4515,
+    "malPopularity": 2812,
+    "malMembers": 78482,
+    "malFavorites": 191,
     "anilistScore": 6.5,
     "anilistPopularity": 11111,
     "anilistFavourites": 91,
@@ -54,10 +58,10 @@
     "kitsuRating": 7.07
   },
   "genres": [
+    "Sci-Fi",
     "Action",
     "Drama",
     "Mecha",
-    "Sci-Fi",
     "Police",
     "Military",
     "Power Suit",
@@ -73,14 +77,20 @@
   "studios": [
     "Digital Frontier"
   ],
-  "producers": [],
+  "producers": [
+    "Mainichi Broadcasting System",
+    "TOHO",
+    "TYO Animations",
+    "TYO",
+    "Geneon Entertainment"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/35/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/9/57231l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/35/original.jpg",
     "color": "#0d786b"
   },
   "trailer": null,
-  "synopsis": "Growing out of the chaos of a global war, the city of Utopia is populated by humans and bioroids (artificial humans). On the surface, everything is harmonious, but tensions lurk. Into this seemingly perfect society comes a survivor of the wars, Deunan Knute, who carries a legacy that will turn out to be of critical importance to the future of humanity. \n(Source: ANN)",
+  "synopsis": "With Earth seemingly entangled in endless war, it is hard to believe that the city of Olympus has attained a utopian society. This peaceful haven is made possible through its population made up predominantly of Bioroids—genetically engineered humans who can no longer reproduce on their own or experience extreme emotions.\n\nDeunan Knute is a legendary soldier who has been fighting in the wastelands for as long as she can remember. When Hitomi, a representative of Olympus, scouts her to become a part of their security force, Deunan is skeptical that there can truly be a place so calm. Proving her suspicions correct, Deunan soon learns of a dangerous plot that promises to plunge the city into chaos—by threatening the very existence of Bioroids.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 937,
@@ -333,17 +343,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:09:37.613Z",
+    "lastFetched": "2026-06-26T17:42:07.821Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

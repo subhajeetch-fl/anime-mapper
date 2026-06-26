@@ -28,27 +28,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 12,
   "episodeLength": 24,
   "aired": {
-    "from": "2006-10-03",
-    "to": "2006-12-19"
+    "from": "2006-10-03T00:00:00+00:00",
+    "to": "2006-12-19T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:59",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 8.18,
+    "malScoredBy": 343293,
+    "malRank": 469,
+    "malPopularity": 435,
+    "malMembers": 577962,
+    "malFavorites": 3387,
     "anilistScore": 8,
     "anilistPopularity": 103629,
     "anilistFavourites": 2242,
@@ -71,16 +75,19 @@
     "Present"
   ],
   "studios": [
-    "MADHOUSE"
+    "Madhouse"
   ],
-  "producers": [],
+  "producers": [
+    "Geneon Entertainment",
+    "Arts Pro"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1363/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1701/152849l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1519-3gSdIkwibEND.jpg",
     "color": "#e4c9a1"
   },
   "trailer": null,
-  "synopsis": "Rokurou \"Rock\" Okajima has joined the Lagoon Company, a pirate mercenary group which operates out of Roanapur, Thailand. Despite his initial protests, this filthy slum of depraved souls and merciless criminals now serves as the former salaryman's home. Stranded, with nothing left of his past life but the clothes on his back and his inner morality, Rock is forced to perform jobs alongside the other members of the Lagoon crew. Berated for his lack of spine as he wades through the underbelly of society, he must decide whether to continue on amidst the gunfire and ruthlessness or risk everything he has in an attempt to be free. Whether he chooses the comfort of a familiar land or the freedom of being an outlaw, his decision will have lasting consequences on the crew who gave him a home.\n[Written by MAL Rewrite]",
+  "synopsis": "Rokurou \"Rock\" Okajima has joined the Lagoon Company, a pirate mercenary group which operates out of Roanapur, Thailand. Despite his initial protests, this filthy slum of depraved souls and merciless criminals now serves as the former salaryman's home. Stranded, with nothing left of his past life but the clothes on his back and his inner morality, Rock is forced to perform jobs alongside the other members of the Lagoon crew. Berated for his lack of spine as he wades through the underbelly of society, he must decide whether to continue on amidst the gunfire and ruthlessness or risk everything he has in an attempt to be free. Whether he chooses the comfort of a familiar land or the freedom of being an outlaw, his decision will have lasting consequences on the crew who gave him a home.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 889,
@@ -440,17 +447,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:45:27.017Z",
+    "lastFetched": "2026-06-26T18:00:48.669Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

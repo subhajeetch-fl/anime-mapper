@@ -27,27 +27,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": 24,
   "aired": {
-    "from": "2001-10-06",
-    "to": "2002-03-30"
+    "from": "2001-10-06T00:00:00+00:00",
+    "to": "2002-03-30T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2001,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.01,
+    "malScoredBy": 2480,
+    "malRank": 4744,
+    "malPopularity": 8377,
+    "malMembers": 7090,
+    "malFavorites": 7,
     "anilistScore": 6.7,
     "anilistPopularity": 1434,
     "anilistFavourites": 8,
@@ -69,14 +73,16 @@
   "studios": [
     "TMS Entertainment"
   ],
-  "producers": [],
+  "producers": [
+    "Zet"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1339/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/3/72859l.jpg",
     "banner": null,
     "color": "#d61a35"
   },
   "trailer": null,
-  "synopsis": "The 2nd Chapter continues the story of Ryo Takatsuki and his companions' quest to discover the secret of the mysterious A.R.M.S. they all possess and what the future may hold for them. They now know where the answers lie but to get to them, they must fight a desperate fight of survival against a powerful military corporation that wants their secrets no matter what the cost.\n(Source: AniDB)",
+  "synopsis": "The 2nd Chapter continues the story of Ryo Takatsuki and his companions' quest to discover the secret of the mysterious A.R.M.S. they all possess and what the future may hold for them. They now know where the answers lie but to get to them, they must fight a desperate fight of survival against a powerful military corporation that wants their secrets no matter what the cost.\n\n(Source: AniDB)",
   "sequence": [
     {
       "malId": 1492,
@@ -545,17 +551,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:42:43.230Z",
+    "lastFetched": "2026-06-26T18:00:22.097Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

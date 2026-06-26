@@ -19,9 +19,10 @@
   },
   "title": {
     "romaji": "Taiho Shichauzo (TV)",
-    "english": "You're Under Arrest! (TV)",
+    "english": "You're Under Arrest (1996)",
     "native": "逮捕しちゃうぞ (TV)",
     "synonyms": [
+      "Taiho Shichauzo (1996)",
       "YUA",
       "Équipières de choc",
       "Sei in arresto!",
@@ -29,27 +30,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 47,
   "episodeLength": 24,
   "aired": {
-    "from": "1996-10-05",
-    "to": "1997-09-27"
+    "from": "1996-10-05T00:00:00+00:00",
+    "to": "1997-09-27T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1996,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.57,
+    "malScoredBy": 11195,
+    "malRank": 1879,
+    "malPopularity": 3900,
+    "malMembers": 44378,
+    "malFavorites": 272,
     "anilistScore": 7.3,
     "anilistPopularity": 12915,
     "anilistFavourites": 226,
@@ -70,16 +75,21 @@
     "Cops"
   ],
   "studios": [
-    "Studio DEEN"
+    "Studio Deen"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Visual",
+    "TBS",
+    "Kodansha",
+    "Nichion"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1226/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/4/16767l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1372-DIm7PIn23odp.jpg",
     "color": "#e45043"
   },
   "trailer": null,
-  "synopsis": "Tokyo Highway Patrolwomen Natsumi and Miyuki get off to a bad start when Miyuki busts Natsumi for reckless moped driving on her way to work. Things get worse when they find out they're going to be partners!\nA continuation of the OVA series, the adventures of Tokyo policewomen Natsumi and Miyuki continue in the You're Under Arrest TV series. It's back to Bokuto Precinct, where demented felons and bashful (but hunky) policemen abound, and where the cutest girl in the office... isn't a girl.\n(Source: Rightstuf)",
+  "synopsis": "Tokyo Highway Patrolwomen Natsumi and Miyuki get off to a bad start when Miyuki busts Natsumi for reckless moped driving on her way to work. Things get worse when they find out they're going to be partners!\n\nA continuation of the OVA series, the adventures of Tokyo policewomen Natsumi and Miyuki continue in the You're Under Arrest TV series. It's back to Bokuto Precinct, where demented felons and bashful (but hunky) policemen abound, and where the cutest girl in the office... isn't a girl.\n\n(Source: Rightstuf)",
   "sequence": [
     {
       "malId": 1577,
@@ -979,17 +989,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:28:29.242Z",
+    "lastFetched": "2026-06-26T17:57:57.783Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

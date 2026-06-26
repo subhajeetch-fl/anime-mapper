@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 54,
   "aired": {
-    "from": "2003-03-18",
+    "from": "2003-03-18T00:00:00+00:00",
     "to": "2003-03-18"
   },
   "season": "spring",
   "year": 2003,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.73,
+    "malScoredBy": 8182,
+    "malRank": 6293,
+    "malPopularity": 5307,
+    "malMembers": 22394,
+    "malFavorites": 56,
     "anilistScore": 6,
     "anilistPopularity": 5120,
     "anilistFavourites": 47,
@@ -64,12 +68,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1054/original.jpeg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1134/114560l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1174-5IzdidhaLwHD.jpg",
     "color": "#e49343"
   },
   "trailer": null,
-  "synopsis": "Akuto, the main source of energy is running low and the Heavens, a world of islands, hidden beyond time, floating above ours, has united against the Magical Kingdom whom uses the most energy. To save both the Magical Kingdom and the Heavens and restore the flow of akuto, the Magical King Munto must follow a vision and find the girl Yumemi in the lower world. Yumemi herself is just a normal girl except that she is the only one who can see the islands of the Heavens floating above. When Munto appears before her she starts thinking about hers and others responsibility to the world. \n(Source: ANN)",
+  "synopsis": "Above Earth, invisible to humans, float the Heavens—a collection of floating island kingdoms supported by the magic of their godlike inhabitants. The mysterious power source known as Akuto enables this magic to exist, but this is quickly running out. In response to this energy crisis, most of the kingdoms in the Heavens agree to use the minimum amount of Akuto required to sustain themselves, except for the Magical Kingdom. The leader of this kingdom, the Magical King Munto, believes that Akuto can be replenished if he travels to Earth and meets a mysterious girl shown to him by a seer. While Munto sets off on the dangerous journey, the other kingdoms attempt to destroy the Magical Kingdom and acquire the remaining Akuto for themselves.\n\nOn Earth, Yumemi Hidaka is dealing with her own problems. She can see floating islands in the sky that nobody else can. While her best friend Ichiko Ono believes her, Yumemi wonders if she is going insane. When Munto suddenly appears before her, Yumemi dismisses him as a mere delusion. She is more concerned about her 13-year-old friend Suzume Imamura, who is attempting to elope with her delinquent boyfriend. As the Magical Kingdom nears the point where it will fall from the sky, Munto's quest to save both the Heavens and Earth grows increasingly desperate.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 1135,
@@ -116,17 +120,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:11:51.463Z",
+    "lastFetched": "2026-06-26T17:49:42.524Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

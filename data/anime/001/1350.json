@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
   "episodeLength": 87,
   "aired": {
-    "from": "2003-05-22",
-    "to": "2003-07-24"
+    "from": "2003-05-22T00:00:00+00:00",
+    "to": "2003-07-24T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2003,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.59,
+    "malScoredBy": 6985,
+    "malRank": 7256,
+    "malPopularity": 5084,
+    "malMembers": 24762,
+    "malFavorites": 49,
     "anilistScore": 6.3,
     "anilistPopularity": 7835,
     "anilistFavourites": 83,
@@ -52,9 +56,9 @@
     "kitsuRating": 6.39
   },
   "genres": [
+    "Sci-Fi",
     "Action",
     "Mecha",
-    "Sci-Fi",
     "Police",
     "Earth",
     "Science Fiction",
@@ -72,14 +76,17 @@
   "studios": [
     "AIC"
   ],
-  "producers": [],
+  "producers": [
+    "Imagica",
+    "Omnibus Promotion"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1205/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1396/103207l.jpg",
     "banner": null,
     "color": null
   },
   "trailer": null,
-  "synopsis": "A secret unit of the AD Police, known as Branch, specializes in crimes involving humanoid robots called 'Boomers'. Branch officer Buzz must cope with having a Boomer for a partner, while officer Michaelson finds the line between human and robot to be a thin one. Together they serve to protect a world that is slowly deconstructing around them. Set in the Bubblegum Crisis universe. \n(Source: ANN)",
+  "synopsis": "A secret unit of the AD Police, known as Branch, specializes in crimes involving humanoid robots called 'Boomers'. Branch officer Buzz must cope with having a Boomer for a partner, while officer Michaelson finds the line between human and robot to be a thin one. Together they serve to protect a world that is slowly deconstructing around them. Set in the Bubblegum Crisis universe. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1349,
@@ -233,17 +240,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:25:43.711Z",
+    "lastFetched": "2026-06-26T17:57:33.530Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

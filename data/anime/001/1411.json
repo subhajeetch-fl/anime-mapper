@@ -28,27 +28,31 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 6,
   "episodeLength": 28,
   "aired": {
-    "from": "1997-05-21",
-    "to": "1997-11-21"
+    "from": "1997-05-21T00:00:00+00:00",
+    "to": "1997-11-21T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1997,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 5.91,
+    "malScoredBy": 1279,
+    "malRank": 11312,
+    "malPopularity": 10759,
+    "malMembers": 3490,
+    "malFavorites": 3,
     "anilistScore": 5.7,
     "anilistPopularity": 1094,
     "anilistFavourites": 11,
@@ -58,9 +62,9 @@
   "genres": [
     "Adventure",
     "Comedy",
+    "Sci-Fi",
     "Ecchi",
     "Mecha",
-    "Sci-Fi",
     "Space",
     "Fantasy",
     "Science Fiction",
@@ -75,12 +79,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1264/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1628/94357l.jpg",
     "banner": null,
     "color": "#e4ae35"
   },
   "trailer": null,
-  "synopsis": "To save the galaxy from impending doom, Cacao and Parfait are sent on a mission through time and space to retrieve the Fourth Warrior, Lamunes.\nUnfortunately, Cacao and Parfait discover Lamunes at the helm of the marauding Giga Genos invasion fleet. World by world, Lamunes is determined to bring the entire galaxy under his tyrannical heel. With the help of a plicky orphan, it's up to Cacao and Parfait to stop Lamunes from taking over the world. ",
+  "synopsis": "To save the galaxy from impending doom, Cacao and Parfait are sent on a mission through time and space to retrieve the Fourth Warrior, Lamunes.\n\nUnfortunately, Cacao and Parfait discover Lamunes at the helm of the marauding Giga Genos invasion fleet. World by world, Lamunes is determined to bring the entire galaxy under his tyrannical heel. With the help of a plicky orphan, it's up to Cacao and Parfait to stop Lamunes from taking over the world.",
   "sequence": [
     {
       "malId": 2087,
@@ -189,17 +193,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:34:09.087Z",
+    "lastFetched": "2026-06-26T17:58:43.914Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

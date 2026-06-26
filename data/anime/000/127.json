@@ -26,27 +26,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Game",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 24,
   "episodeLength": 25,
   "aired": {
-    "from": "2000-04-03",
-    "to": "2000-09-18"
+    "from": "2000-04-03T00:00:00+00:00",
+    "to": "2000-09-18T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2000,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.94,
+    "malScoredBy": 9922,
+    "malRank": 5056,
+    "malPopularity": 5125,
+    "malMembers": 24264,
+    "malFavorites": 62,
     "anilistScore": 6.4,
     "anilistPopularity": 4564,
     "anilistFavourites": 49,
@@ -54,11 +58,11 @@
     "kitsuRating": 6.88
   },
   "genres": [
-    "Action",
     "Comedy",
     "Fantasy",
-    "Mecha",
     "Sci-Fi",
+    "Action",
+    "Mecha",
     "Earth",
     "Japan",
     "Asia",
@@ -69,16 +73,21 @@
     "Science Fiction"
   ],
   "studios": [
-    "GONZO"
+    "Gonzo"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Visual",
+    "Media Factory",
+    "Kadokawa Shoten",
+    "Pony Canyon"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/106/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/12/15226l.jpg",
     "banner": null,
     "color": "#f18635"
   },
   "trailer": null,
-  "synopsis": "It is Tokyo, 1969. Earth is under the attack of the \"Invaders.\" Fortunately, though, the public is unaware of this. But to the secret orginazation, A.E.G.I.S., the threat is very real, and it is up them to stop this invasion. One day on his route to high school, Ukiya Shun observes a battle between a young girl and a group of Invaders. He ends up helping her and discovers that much like the girl, he possesses the ability to generate a \"gate\" of special power that only a few other people are gifted with. As a result, Ukiya then joins A.E.G.I.S. in an effort to recruit other Gate Keepers in order to protect the city, all while doing his best not to imitate his late father, whom he dispises.\n(Source: ANN)",
+  "synopsis": "Technology, science, and industry—this is 1969 Tokyo, and there is no better time to be alive! But a shadow looms quietly around every corner: \"Invaders\" have infiltrated the populace, and nobody knows who or what they are.\n\nOnly the members of the top-secret agency AEGIS know of their existence. Covertly fighting the enemy is their job, but only those with the ability to open \"Gates\" to another world can truly defeat them. Within AEGIS is a specialized task force known as the \"Gate Keepers.\" Composed of extraordinary individuals with a variety of Gate-related abilities, they are the only ones who can save humanity from the vicious Invaders plaguing the planet.\n\nShun Ukiya is an average high school student who lives with his widowed mother and little sister. While on his way home from school one day, he comes across a group of Invaders heading toward his house. In a desperate plight to save his family, Shun discovers he possesses the ability to open a Gate, allowing him to harness massive amounts of energy. With his newfound ability exposed, he catches the attention of AEGIS, and particularly the interest of one of its Gate Keepers, Shun's childhood friend Ruriko Ikusawa.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 128,
@@ -997,17 +1006,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:13:23.707Z",
+    "lastFetched": "2026-06-26T17:42:26.830Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

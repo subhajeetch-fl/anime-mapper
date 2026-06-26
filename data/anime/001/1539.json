@@ -25,28 +25,32 @@
       "Touch: Crossroad - Kaze no Yukue"
     ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "TV Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 90,
   "aired": {
-    "from": "2001-02-09",
+    "from": "2001-02-09T00:00:00+00:00",
     "to": "2001-02-09"
   },
   "season": "winter",
   "year": 2001,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.81,
+    "malScoredBy": 1849,
+    "malRank": 5860,
+    "malPopularity": 10303,
+    "malMembers": 4043,
+    "malFavorites": 2,
     "anilistScore": 6.3,
     "anilistPopularity": 1466,
     "anilistFavourites": 6,
@@ -63,15 +67,22 @@
     "Baseball",
     "Present"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Group TAC"
+  ],
+  "producers": [
+    "VAP",
+    "Kodansha",
+    "TOHO",
+    "Toho Music"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1380/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/13/6176l.jpg",
     "banner": null,
     "color": "#e4bb5d"
   },
   "trailer": null,
-  "synopsis": "Trying to find his own game of baseball, and not that of his brothers, Tatsuya moves to America and pitches for a poor, struggling minor league baseball team called the Emeralds. Meanwhile, Minami is still in Japan, trying to find her own path after quitting gymnastics. Inspired by a photograph of her final performance, she becomes the photographers assisstant.\n(Source: ANN)",
+  "synopsis": "Trying to find his own game of baseball, and not that of his brothers, Tatsuya moves to America and pitches for a poor, struggling minor league baseball team called the Emeralds. Meanwhile, Minami is still in Japan, trying to find her own path after quitting gymnastics. Inspired by a photograph of her final performance, she becomes the photographers assisstant.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1540,
@@ -118,17 +129,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:47:17.461Z",
+    "lastFetched": "2026-06-26T18:01:06.082Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

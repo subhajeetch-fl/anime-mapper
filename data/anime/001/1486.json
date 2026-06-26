@@ -27,31 +27,35 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 102,
   "episodeLength": 22,
   "aired": {
-    "from": "1996-04-05",
-    "to": "1998-03-27"
+    "from": "1996-04-05T00:00:00+00:00",
+    "to": "1998-03-27T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1996,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 8.07,
+    "malScoredBy": 29558,
+    "malRank": 639,
+    "malPopularity": 2806,
+    "malMembers": 78755,
+    "malFavorites": 1487,
     "anilistScore": 7.8,
     "anilistPopularity": 19672,
     "anilistFavourites": 827,
-    "anilistTrending": 0,
+    "anilistTrending": 1,
     "kitsuRating": 8.07
   },
   "genres": [
@@ -62,16 +66,21 @@
     "School Life"
   ],
   "studios": [
+    "Gallop",
     "Studio Gallop"
   ],
-  "producers": [],
+  "producers": [
+    "TV Tokyo",
+    "Nihon Ad Systems",
+    "Pony Canyon"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1332/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/5/7016l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1486-W6WAxncTM5Gc.jpg",
     "color": "#50bbe4"
   },
   "trailer": null,
-  "synopsis": "Sixth grader Sana Kurata has a perfect life. Her mother is a (fairly) successful author, she has a young man employed to keep her happy and safe, and best of all, she is the star of the children's television show Kodomo no Omocha. There's just one thing bothering her, and that's Akito Hayama.\nAkito is a classmate of Sana's, and ever since he's started acting out in class, the rest of the boys have followed his example. Every day, the girls and the teacher wage a battle to keep the class under control and to get some actual learning done. That rotten Akito… Sana won't stand for this!\nThe hyperactive Sana decides to dig deeper and find out what makes Akito tick, so class can go back to normal and the teacher can stop spending every day crying instead of teaching. But the more she learns about him, the more she realizes that there might be more to Akito than meets the eye. ",
+  "synopsis": "Sixth grader Sana Kurata has a perfect life. Her mother is a (fairly) successful author, she has a young man employed to keep her happy and safe, and best of all, she is the star of the children's television show Kodomo no Omocha. There's just one thing bothering her, and that's Akito Hayama.\n\nAkito is a classmate of Sana's, and ever since he's started acting out in class, the rest of the boys have followed his example. Every day, the girls and the teacher wage a battle to keep the class under control and to get some actual learning done. That rotten Akito… Sana won't stand for this!\n\nThe hyperactive Sana decides to dig deeper and find out what makes Akito tick, so class can go back to normal and the teacher can stop spending every day crying instead of teaching. But the more she learns about him, the more she realizes that there might be more to Akito than meets the eye.",
   "sequence": [
     {
       "malId": 3421,
@@ -1620,17 +1629,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:41:42.672Z",
+    "lastFetched": "2026-06-26T18:00:11.234Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

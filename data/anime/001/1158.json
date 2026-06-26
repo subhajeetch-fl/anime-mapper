@@ -19,34 +19,38 @@
   },
   "title": {
     "romaji": "GEOBREEDERS: File-X Chibi Neko Dakkan",
-    "english": "GEOBREEDERS",
+    "english": "Geobreeders: (File-X) Get Back The Kitty",
     "native": "ジオブリーダーズ　File-X　ちびねこ奪還",
     "synonyms": [
       "GEOBREEDERS [File-X] \"GET BACK THE KITTY\""
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
   "episodeLength": 30,
   "aired": {
-    "from": "1998-05-21",
-    "to": "1998-10-21"
+    "from": "1998-05-21T00:00:00+00:00",
+    "to": "1998-10-21T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1998,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.4,
+    "malScoredBy": 1666,
+    "malRank": 8478,
+    "malPopularity": 9634,
+    "malMembers": 4918,
+    "malFavorites": 6,
     "anilistScore": 6.1,
     "anilistPopularity": 1700,
     "anilistFavourites": 17,
@@ -70,14 +74,16 @@
   "studios": [
     "Chaos Project"
   ],
-  "producers": [],
+  "producers": [
+    "Victor Entertainment"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1039/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/3/28188l.jpg",
     "banner": null,
     "color": "#f1bb35"
   },
   "trailer": null,
-  "synopsis": "Taba and the Girls of Kagura Total Security Inc. specialize in jobs where their enemy are \"Phantom Cats\". They have a few run ins with the various Government agencies, as well as a gang of Phantom Cats; blowing up a lot of stuff along the way. When one of their own is kidnapped, they have to get her back.\n(Source: ANN)",
+  "synopsis": "Taba and the Girls of Kagura Total Security Inc. specialize in jobs where their enemy are \"Phantom Cats\". They have a few run ins with the various Government agencies, as well as a gang of Phantom Cats; blowing up a lot of stuff along the way. When one of their own is kidnapped, they have to get her back.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1159,
@@ -171,17 +177,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:09:59.120Z",
+    "lastFetched": "2026-06-26T17:48:24.413Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

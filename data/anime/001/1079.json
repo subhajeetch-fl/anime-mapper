@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 4,
   "episodeLength": 92,
   "aired": {
-    "from": "1995-02-25",
-    "to": "1995-11-25"
+    "from": "1995-02-25T00:00:00+00:00",
+    "to": "1995-11-25T00:00:00+00:00"
   },
   "season": "winter",
   "year": 1995,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.99,
+    "malScoredBy": 15745,
+    "malRank": 4812,
+    "malPopularity": 4038,
+    "malMembers": 41775,
+    "malFavorites": 149,
     "anilistScore": 6.6,
     "anilistPopularity": 11272,
     "anilistFavourites": 122,
@@ -52,11 +56,12 @@
     "kitsuRating": 7
   },
   "genres": [
+    "Mystery",
+    "Romance",
+    "Sci-Fi",
     "Action",
     "Adventure",
     "Mecha",
-    "Romance",
-    "Sci-Fi",
     "Police",
     "Science Fiction",
     "Thriller",
@@ -71,14 +76,16 @@
   "studios": [
     "AIC"
   ],
-  "producers": [],
+  "producers": [
+    "Pioneer LDC"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/964/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1398/94072l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1079-tdZZcTH1DcUx.jpg",
     "color": "#e4ae43"
   },
   "trailer": null,
-  "synopsis": "The year is 2046. Detective Ross Sylibus is transferred to Mars when a country singer on her flight is murdered. Making matters more complicated is that the singer is a \"Third\"—a robot that looks and feels like a human. Sylibus is partnered with Armitage—a beautiful female cop with a bad attitude. As they investigate the murder of the singer and other women on Mars, they uncover a conspiracy that can have them both killed by the Martian government.\n(Source: ANN) ",
+  "synopsis": "The year is 2046. Detective Ross Sylibus is transferred to Mars when a country singer on her flight is murdered. Making matters more complicated is that the singer is a \"Third\"—a robot that looks and feels like a human. Sylibus is partnered with Armitage—a beautiful female cop with a bad attitude. As they investigate the murder of the singer and other women on Mars, they uncover a conspiracy that can have them both killed by the Martian government.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 493,
@@ -170,17 +177,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:01:34.411Z",
+    "lastFetched": "2026-06-26T17:46:55.057Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

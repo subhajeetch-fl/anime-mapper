@@ -19,36 +19,41 @@
   },
   "title": {
     "romaji": "Ranma 1/2 Special",
-    "english": null,
+    "english": "Ranma 1/2 Special: Reawakening Memories",
     "native": "らんま1/2 スペシャル",
     "synonyms": [
+      "Ranma ½ Special: Yomigaeru Kioku",
       "Reawakening Memories",
       "Yomigaeru Kioku",
       "よみがえる記憶"
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 2,
   "episodeLength": 30,
   "aired": {
-    "from": "1994-12-16",
-    "to": "1995-02-17"
+    "from": "1994-12-16T00:00:00+00:00",
+    "to": "1995-02-17T00:00:00+00:00"
   },
   "season": "winter",
   "year": 1994,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.58,
+    "malScoredBy": 10216,
+    "malRank": 1834,
+    "malPopularity": 5386,
+    "malMembers": 21690,
+    "malFavorites": 34,
     "anilistScore": 7.2,
     "anilistPopularity": 4808,
     "anilistFavourites": 50,
@@ -56,20 +61,23 @@
     "kitsuRating": 7.5
   },
   "genres": [
-    "Adventure",
     "Comedy",
-    "Romance",
     "Drama",
+    "Romance",
+    "Adventure",
     "Action",
     "Martial Arts",
     "Shounen"
   ],
   "studios": [
-    "Studio DEEN"
+    "Studio Deen"
   ],
-  "producers": [],
+  "producers": [
+    "Pony Canyon",
+    "Fuji TV"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/898/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/11/63453l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/898/original.jpg",
     "color": "#e45043"
   },
@@ -211,17 +219,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:54:27.372Z",
+    "lastFetched": "2026-06-26T17:45:32.320Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

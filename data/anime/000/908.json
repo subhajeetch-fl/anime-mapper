@@ -25,31 +25,37 @@
       "State Alchemists vs Seven Homunculi",
       "Enkai-hen",
       "Chibi Party",
-      "Kodomo-hen"
+      "Kodomo-hen",
+      "Kids",
+      "FMA"
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
   "episodeLength": 7,
   "aired": {
-    "from": "2006-03-29",
+    "from": "2006-03-29T00:00:00+00:00",
     "to": "2006-03-29"
   },
   "season": "spring",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.29,
+    "malScoredBy": 35796,
+    "malRank": 3140,
+    "malPopularity": 2903,
+    "malMembers": 74190,
+    "malFavorites": 93,
     "anilistScore": 6.8,
     "anilistPopularity": 12992,
     "anilistFavourites": 91,
@@ -62,11 +68,14 @@
     "Shounen"
   ],
   "studios": [
-    "bones"
+    "Bones"
   ],
-  "producers": [],
+  "producers": [
+    "Aniplex",
+    "Square Enix"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/808/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/10/18689l.jpg",
     "banner": null,
     "color": "#d6bb78"
   },
@@ -102,17 +111,15 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-26T12:45:49.556Z",
+    "lastFetched": "2026-06-26T17:44:00.505Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

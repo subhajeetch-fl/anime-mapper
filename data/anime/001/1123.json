@@ -21,30 +21,36 @@
     "romaji": "Bouken Ou Beet Excellion",
     "english": "Beet the Vandel Buster Excellion",
     "native": "冒険王ビィト エクセリオン",
-    "synonyms": []
+    "synonyms": [
+      "Adventure King Beet Excellion"
+    ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 25,
   "episodeLength": 24,
   "aired": {
-    "from": "2005-10-06",
-    "to": "2006-03-30"
+    "from": "2005-10-06T00:00:00+00:00",
+    "to": "2006-03-30T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2005,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG - Children",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.76,
+    "malScoredBy": 3905,
+    "malRank": 6090,
+    "malPopularity": 7710,
+    "malMembers": 8753,
+    "malFavorites": 7,
     "anilistScore": 6.4,
     "anilistPopularity": 1466,
     "anilistFavourites": 15,
@@ -52,21 +58,27 @@
     "kitsuRating": 6.87
   },
   "genres": [
+    "Action",
     "Adventure",
     "Fantasy",
     "Supernatural",
     "Fantasy World",
     "Magic"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [
+    "TV Tokyo",
+    "Dentsu"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1007/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/4/21570l.jpg",
     "banner": null,
     "color": "#e4bb28"
   },
   "trailer": null,
-  "synopsis": "It is the dark century and the people are suffering under the rule of the devil, Vandel, who is able to manipulate monsters. The Vandel Busters are a group of people who hunt these devils, and among them, the Zenon Squad is known to be the strongest busters on the continent. A young boy, Beet, dreams of joining the Zenon Squad. However, one day, as a result of Beet's fault, the Zenon squad was defeated by the devil, Beltose. The five dying busters sacrificed their life power into their five weapons, Saiga. After giving their weapons to Beet, they passed away. Years have passed since then and the young Vandel Buster, Beet, begins his adventure to carry out the Zenon Squad's will to put an end to the dark century. ",
+  "synopsis": "It is the dark century and the people are suffering under the rule of the devil, Vandel, who is able to manipulate monsters. The Vandel Busters are a group of people who hunt these devils, and among them, the Zenon Squad is known to be the strongest busters on the continent. A young boy, Beet, dreams of joining the Zenon Squad. However, one day, as a result of Beet's fault, the Zenon squad was defeated by the devil, Beltose. The five dying busters sacrificed their life power into their five weapons, Saiga. After giving their weapons to Beet, they passed away. Years have passed since then and the young Vandel Buster, Beet, begins his adventure to carry out the Zenon Squad's will to put an end to the dark century.",
   "sequence": [
     {
       "malId": 8,
@@ -505,17 +517,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:05:48.106Z",
+    "lastFetched": "2026-06-26T17:47:47.118Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

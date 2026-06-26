@@ -28,28 +28,32 @@
       "City Hunter: Amour, Destin et un Magnum 357"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 87,
   "aired": {
-    "from": "1989-06-17",
+    "from": "1989-06-17T00:00:00+00:00",
     "to": "1989-06-17"
   },
   "season": "summer",
   "year": 1989,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.39,
+    "malScoredBy": 4518,
+    "malRank": 2632,
+    "malPopularity": 7234,
+    "malMembers": 10288,
+    "malFavorites": 10,
     "anilistScore": 7,
     "anilistPopularity": 2785,
     "anilistFavourites": 28,
@@ -69,14 +73,16 @@
   "studios": [
     "Sunrise"
   ],
-  "producers": [],
+  "producers": [
+    "Yomiuri Telecasting"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1320/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1978/94391l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1474-bIjdcv6aqKDo.jpg",
     "color": "#e47850"
   },
   "trailer": null,
-  "synopsis": "A beautiful pianist comes to Tokyo for a charity concert, and City Hunter is there. But music isn`t his forte; he wants lessons in the language of love. Desperation becomes the word of the day as the bodies start dropping. A foreign dignitary is assassinated in cold blood. Secret agents scour the streets for a missing microchip. Diplomatic infighting swirls around the upcoming concert, and City Hunter is the only hope! \n(Source: AnimeNfo)",
+  "synopsis": "A beautiful pianist comes to Tokyo for a charity concert, and City Hunter is there. But music isn`t his forte; he wants lessons in the language of love. Desperation becomes the word of the day as the bodies start dropping. A foreign dignitary is assassinated in cold blood. Secret agents scour the streets for a missing microchip. Diplomatic infighting swirls around the upcoming concert, and City Hunter is the only hope! \n\n(Source: AnimeNfo)",
   "sequence": [
     {
       "malId": 1471,
@@ -140,17 +146,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:40:42.857Z",
+    "lastFetched": "2026-06-26T18:00:02.420Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

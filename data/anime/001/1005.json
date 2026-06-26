@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Game",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": 22,
   "aired": {
-    "from": "2001-04-03",
-    "to": "2001-09-25"
+    "from": "2001-04-03T00:00:00+00:00",
+    "to": "2001-09-25T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2001,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.62,
+    "malScoredBy": 6385,
+    "malRank": 7084,
+    "malPopularity": 6285,
+    "malMembers": 14405,
+    "malFavorites": 33,
     "anilistScore": 6.1,
     "anilistPopularity": 2561,
     "anilistFavourites": 20,
@@ -62,16 +66,19 @@
     "Magic"
   ],
   "studios": [
-    "Studio DEEN"
+    "Studio Deen"
   ],
-  "producers": [],
+  "producers": [
+    "TV Tokyo",
+    "Dentsu"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/895/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1515/94058l.jpg",
     "banner": null,
     "color": "#283586"
   },
   "trailer": null,
-  "synopsis": "Claude C. Kenni, a crewmember on the spaceship Calnus and son of the commander of the ship, is transported to Expel, a backwards planet with swords and magic. He teams up with Rena Lanford, who thinks he is the legendary Warrior of Light, and other characters to investigate the Sorcery Globe, a meteorite that has been causing problems all over the world. \n(Source: ANN)",
+  "synopsis": "Claude C. Kenni, a crewmember on the spaceship Calnus and son of the commander of the ship, is transported to Expel, a backwards planet with swords and magic. He teams up with Rena Lanford, who thinks he is the legendary Warrior of Light, and other characters to investigate the Sorcery Globe, a meteorite that has been causing problems all over the world. \n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -511,17 +518,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:53:52.803Z",
+    "lastFetched": "2026-06-26T17:45:25.638Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

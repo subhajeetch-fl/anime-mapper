@@ -27,27 +27,31 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 4,
   "episodeLength": 30,
   "aired": {
-    "from": "2001-12-21",
-    "to": "2002-06-25"
+    "from": "2001-12-21T00:00:00+00:00",
+    "to": "2002-06-25T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2001,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.78,
+    "malScoredBy": 9562,
+    "malRank": 5983,
+    "malPopularity": 5611,
+    "malMembers": 19417,
+    "malFavorites": 39,
     "anilistScore": 6.1,
     "anilistPopularity": 3132,
     "anilistFavourites": 31,
@@ -56,9 +60,9 @@
   },
   "genres": [
     "Adventure",
+    "Drama",
     "Fantasy",
     "Romance",
-    "Drama",
     "Martial Arts",
     "Magic",
     "Shoujo"
@@ -68,12 +72,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/103/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/11/67701l.jpg",
     "banner": null,
     "color": "#e4785d"
   },
   "trailer": null,
-  "synopsis": "Taka (technically Tamahome) and Miaka are now happily married and only six months before their new family would be born, but an obessed girl named Mayo would do anything to make Taka hers. She enters the world of the Four Gods, determined to win Taka's heart and be the new priestess.",
+  "synopsis": "After years of hardships interfered with their love, Miaka Yuuki and Taka Sukunami are finally married and expecting a baby—the pinnacle of their unbreakable bond. Unfortunately, not everyone rejoices alongside the blessed couple. Mayo Sakaki, one of Taka's students, has a crush on him and cannot bear witnessing the pair's flourishing relationship.\n\nUpon discovering The Universe of the Four Gods, Mayo learns that the old book is where Miaka and Taka first met as the priestess of the god Suzaku and the god's Celestial Warrior Tamahome. Unscrupulous about destroying a happy family, Mayo readily ventures inside with hopes of becoming the new priestess of Suzaku and rewriting the story to her advantage.\n\nMeanwhile, her actions do not delay to show devastating effects. Leaving an unconscious Miaka at the hospital, Taka must follow Mayo to The Universe of the Four Gods and stop her before the circumstances worsen for his wife and their unborn child.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 381,
@@ -152,17 +156,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:13:00.141Z",
+    "lastFetched": "2026-06-26T17:42:22.370Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

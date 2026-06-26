@@ -27,27 +27,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 12,
   "episodeLength": 22,
   "aired": {
-    "from": "2001-07-05",
-    "to": "2001-09-27"
+    "from": "2001-07-05T00:00:00+00:00",
+    "to": "2001-09-27T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2001,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "G",
+  "rating": "G - All Ages",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.27,
+    "malScoredBy": 2455,
+    "malRank": 9284,
+    "malPopularity": 7644,
+    "malMembers": 8946,
+    "malFavorites": 9,
     "anilistScore": 5.7,
     "anilistPopularity": 2511,
     "anilistFavourites": 16,
@@ -64,16 +68,21 @@
     "Present"
   ],
   "studios": [
-    "MADHOUSE"
+    "Madhouse",
+    "TNK"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Visual",
+    "Dentsu",
+    "Omnibus Promotion"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/844/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1/952l.jpg",
     "banner": null,
     "color": "#e4d643"
   },
   "trailer": null,
-  "synopsis": "Taruto is a little cat who has just moved to a new city with her master's family. Taruto spends her days making friends and exploring her new home town. She also has a knack for getting herself into trouble. And it turns out that Taruto just might be a legendary magical princess. Almost none of Taruto’s friends believe that she can use magic or that she’s a princess, but Taruto is determined to prove it to them. But Taruto's magic is so unpredictable, you never know what's going to happen when she uses it. \n(Source: ANN)",
+  "synopsis": "Taruto is a little cat who has just moved to a new city with her master's family. Taruto spends her days making friends and exploring her new home town. She also has a knack for getting herself into trouble. And it turns out that Taruto just might be a legendary magical princess. Almost none of Taruto’s friends believe that she can use magic or that she’s a princess, but Taruto is determined to prove it to them. But Taruto's magic is so unpredictable, you never know what's going to happen when she uses it. \n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -273,17 +282,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:48:51.240Z",
+    "lastFetched": "2026-06-26T17:44:26.935Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

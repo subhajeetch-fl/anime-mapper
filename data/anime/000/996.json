@@ -27,41 +27,45 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 34,
   "episodeLength": 24,
   "aired": {
-    "from": "1996-03-09",
-    "to": "1997-02-08"
+    "from": "1996-03-09T00:00:00+00:00",
+    "to": "1997-02-08T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1996,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.96,
+    "malScoredBy": 60959,
+    "malRank": 796,
+    "malPopularity": 2088,
+    "malMembers": 122904,
+    "malFavorites": 1291,
     "anilistScore": 7.7,
     "anilistPopularity": 23701,
     "anilistFavourites": 677,
-    "anilistTrending": 0,
+    "anilistTrending": 1,
     "kitsuRating": 7.92
   },
   "genres": [
-    "Action",
     "Adventure",
     "Comedy",
     "Drama",
+    "Romance",
+    "Action",
     "Fantasy",
     "Mahou Shoujo",
-    "Romance",
     "Magic",
     "Magical Girl",
     "Demon",
@@ -71,14 +75,17 @@
   "studios": [
     "Toei Animation"
   ],
-  "producers": [],
+  "producers": [
+    "TV Asahi",
+    "Toei Advertising"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/886/poster_image/ec10ee6c966dd95b65e0ae18b00d1210.png",
+    "poster": "https://cdn.myanimelist.net/images/anime/1645/105992l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/996-tnBVKjzxjqj4.jpg",
     "color": "#e4c935"
   },
   "trailer": null,
-  "synopsis": "Like the R Season, SailorStars is divided into two arcs:\nThe first arc (also filler) solves some conflicts from the SuperS season, and also sees the return of the Outer Senshi, Haruka, Michiru, Setsuna, and Hotaru (now reborn as a child).\nThe second arc is the actual plot from the manga. Usagi bids farewell to Mamoru, who is going to America to study abroad. In his place comes the Three Lights, an idol trio consisting of three boys, Seiya, Taiki, and Yaten. The new enemy is Galaxia, a woman who desires to rule the entire galaxy by collecting the Star Seeds of humans. Three new Senshi appear, the Sailor Starlights, who also intend to stop Galaxia without Sailormoon's help.",
+  "synopsis": "Like the R Season, Sailor Stars is divided into two parts:\n\nThe first part resolves some conflicts from the SuperS season, and sees the return of the Outer Senshi, Haruka, Michiru, Setsuna, and Hotaru (now reborn as a child).\n\nIn the second part Usagi bids farewell to Mamoru, who is going to America to study. At the same time, the Three Lights apper, an idol trio consisting of three boys, Seiya, Taiki, and Yaten. The new enemy is Galaxia, a woman who desires to rule the entire galaxy by collecting the Star Seeds of humans. Three new Senshi appear, the Sailor Starlights, who have their own reasons to stop Galaxia, but without Sailor Moon's help.",
   "sequence": [
     {
       "malId": 1239,
@@ -858,17 +865,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:52:41.570Z",
+    "lastFetched": "2026-06-26T17:45:14.386Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

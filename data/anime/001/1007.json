@@ -19,34 +19,38 @@
   },
   "title": {
     "romaji": "Ranma 1/2 (OVA)",
-    "english": "Ranma ½ (OVA)",
+    "english": "Ranma ½ OVA",
     "native": "Ranma 1/2 (OVA)",
     "synonyms": [
       "Ranma 1/2 OVA"
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 6,
   "episodeLength": 30,
   "aired": {
-    "from": "1993-10-21",
-    "to": "1994-08-19"
+    "from": "1993-10-21T00:00:00+00:00",
+    "to": "1994-08-19T00:00:00+00:00"
   },
   "season": "summer",
   "year": 1993,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.74,
+    "malScoredBy": 18286,
+    "malRank": 1323,
+    "malPopularity": 4174,
+    "malMembers": 38836,
+    "malFavorites": 91,
     "anilistScore": 7.4,
     "anilistPopularity": 7384,
     "anilistFavourites": 92,
@@ -54,25 +58,31 @@
     "kitsuRating": 7.78
   },
   "genres": [
+    "Action",
     "Comedy",
     "Romance",
+    "Ecchi",
     "Martial Arts",
     "Gender Bender",
-    "Action",
     "Shounen",
     "Harem"
   ],
   "studios": [
-    "Studio DEEN"
+    "Studio Deen",
+    "Kitty Film Mitaka Studio"
   ],
-  "producers": [],
+  "producers": [
+    "Kitty Films",
+    "Pony Canyon",
+    "Fuji TV"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/897/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/12/63459l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1007-dJU6x9tFw9OD.jpg",
     "color": "#f1a150"
   },
   "trailer": null,
-  "synopsis": "Ranma Saotome continues his search for a way to become a normal teenage boy again. He gets into many hilarious situations involving the many girls in his life. One of the biggest challenges is overcoming the proposals from others who have found a suitable bride for Ranma. But he has his own worries and must muster up the best of his wits and martial arts to keep his sanity. It's not easy being desired by so many women (and men) and not breaking hearts of a few along the way. He just might be able to find it in his heart to confess to Akane or simply find another excuse that he can't marry such a tomboy girl. \n(Source: ANN)",
+  "synopsis": "Ranma Saotome continues his search for a way to become a normal teenage boy again. He gets into many hilarious situations involving the many girls in his life. One of the biggest challenges is overcoming the proposals from others who have found a suitable bride for Ranma. But he has his own worries and must muster up the best of his wits and martial arts to keep his sanity. It's not easy being desired by so many women (and men) and not breaking hearts of a few along the way. He just might be able to find it in his heart to confess to Akane or simply find another excuse that he can't marry such a tomboy girl. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": null,
@@ -299,17 +309,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:54:15.935Z",
+    "lastFetched": "2026-06-26T17:45:30.099Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

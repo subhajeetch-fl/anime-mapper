@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 13,
   "episodeLength": 25,
   "aired": {
-    "from": "1998-09-20",
-    "to": "1998-12-13"
+    "from": "1998-09-20T00:00:00+00:00",
+    "to": "1998-12-13T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1998,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG - Children",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 5.92,
+    "malScoredBy": 366,
+    "malRank": 11247,
+    "malPopularity": 14684,
+    "malMembers": 1177,
+    "malFavorites": 4,
     "anilistScore": 4.6,
     "anilistPopularity": 423,
     "anilistFavourites": 5,
@@ -59,15 +63,17 @@
     "Asia",
     "Anthropomorphism"
   ],
-  "studios": [],
+  "studios": [
+    "Group TAC"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1020/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/10/87838l.jpg",
     "banner": null,
     "color": "#e4935d"
   },
   "trailer": null,
-  "synopsis": "From out of the fires of space he was born... Kongo, a monkey made of stone, magically brought to life. \nObsessed with a desire to learn and a need to be great, Kongo leaves his \"family\" on Flower Fruit Mountain in search of ancient knowledge and arcane wisdom. Not content to merely study and learn the mystical arts, Kongo masters the magic Jet Cloud, the first of his great weapons. \nWith the power of the Jet Cloud, Kongo gains mastery of the air and returns to his adopted home just in time. Humans are laying claim to the monkeys` ancestral home. With his Jet Cloud and his newly-learned magical wisdom, Kongo defeats the humans and proclaims himself King of Flower Fruit Mountain. \nBut in the Celestial Heavens, the gods are uneasy. A monkey defeating humans and declaring himself king? That cannot be allowed! They decide the monkeys must be taught a lesson and so they launch an attack on Kongo and all the monkeys of Flower Fruit Mountain. \n(Source: AniDB)",
+  "synopsis": "From out of the fires of space he was born... Kongo, a monkey made of stone, magically brought to life. \n\nObsessed with a desire to learn and a need to be great, Kongo leaves his \"family\" on Flower Fruit Mountain in search of ancient knowledge and arcane wisdom. Not content to merely study and learn the mystical arts, Kongo masters the magic Jet Cloud, the first of his great weapons. \n\nWith the power of the Jet Cloud, Kongo gains mastery of the air and returns to his adopted home just in time. Humans are laying claim to the monkeys` ancestral home. With his Jet Cloud and his newly-learned magical wisdom, Kongo defeats the humans and proclaims himself King of Flower Fruit Mountain. \n\nBut in the Celestial Heavens, the gods are uneasy. A monkey defeating humans and declaring himself king? That cannot be allowed! They decide the monkeys must be taught a lesson and so they launch an attack on Kongo and all the monkeys of Flower Fruit Mountain. \n\n(Source: AniDB)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -327,17 +333,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:07:58.836Z",
+    "lastFetched": "2026-06-26T17:48:06.823Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

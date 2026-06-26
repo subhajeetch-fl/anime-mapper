@@ -19,34 +19,38 @@
   },
   "title": {
     "romaji": "Fushigi no Kuni no Miyuki-chan",
-    "english": "Miyuki-chan In Wonderland",
+    "english": "Miyuki-chan in Wonderland",
     "native": "不思議の国の美幸ちゃん",
     "synonyms": [
       "Miyuki-chan In Mirrorland"
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 2,
   "episodeLength": 15,
   "aired": {
-    "from": "1995-06-21",
+    "from": "1995-06-21T00:00:00+00:00",
     "to": "1995-06-21"
   },
   "season": "summer",
   "year": 1995,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 5.66,
+    "malScoredBy": 6902,
+    "malRank": 12567,
+    "malPopularity": 6230,
+    "malMembers": 14723,
+    "malFavorites": 11,
     "anilistScore": 5.2,
     "anilistPopularity": 4059,
     "anilistFavourites": 29,
@@ -54,10 +58,11 @@
     "kitsuRating": 5.88
   },
   "genres": [
-    "Adventure",
     "Comedy",
-    "Ecchi",
     "Fantasy",
+    "Girls Love",
+    "Ecchi",
+    "Adventure",
     "Yuri",
     "Shoujo Ai",
     "Fantasy World",
@@ -66,16 +71,18 @@
     "Isekai"
   ],
   "studios": [
-    "Animate Film"
+    "animate Film"
   ],
-  "producers": [],
+  "producers": [
+    "Arts Pro"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1342/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1187/110295l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1496-ZOVevPvNlQys.jpg",
     "color": "#e4935d"
   },
   "trailer": null,
-  "synopsis": "Miyuki, a cute girl, is in over her head. When late for school, she is suddenly transported to another world (Alice In Wonderland style), except that all the inhabitants of the other world are female...and they all seem to be in love with Miyuki. And the world behind her mirror is even weirder. \n(Source: ANN)",
+  "synopsis": "Rushing to school after oversleeping, Miyuki finds herself falling into a pit. When she regains consciousness, it does not take long for her to realize that she has entered another world as she begins to encounter different peculiarities and odd female figures, all wanting her to themselves. If Miyuki wants to go back to school, she must escape the bizarre situations and find a way to return to reality.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 2274,
@@ -137,17 +144,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:43:06.940Z",
+    "lastFetched": "2026-06-26T18:00:26.434Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

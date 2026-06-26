@@ -27,27 +27,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Visual novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 25,
   "episodeLength": null,
   "aired": {
-    "from": "2006-04-05",
-    "to": "2006-09-27"
+    "from": "2006-04-05T00:00:00+00:00",
+    "to": "2006-09-27T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.56,
+    "malScoredBy": 2267,
+    "malRank": 7449,
+    "malPopularity": 7513,
+    "malMembers": 9332,
+    "malFavorites": 9,
     "anilistScore": 6,
     "anilistPopularity": 1964,
     "anilistFavourites": 10,
@@ -72,12 +76,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/957/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/11/52613l.jpg",
     "banner": null,
     "color": "#e4861a"
   },
   "trailer": null,
-  "synopsis": "Five girls came to a training school to become voice actresses holding each thought in her mind. Momoko - she wanted to be a voice actress to meet her favorite voice actor. Rinka - she is an armature voice actress, but she didn't have special purpose to become voice actress. Yurika - she likes anime very much. Tsubasa - she was a girl in love, and acted only as a boy. Amane - she found a deadlock as a actress and tried to find another way. They managed to get over the difficulty to become voice actress although they couldn't perform as main characters yet. There is a love romance with a boy works for an anime company, and you can catch a glimpse of situations of anime industries.\n(Source: ANN)",
+  "synopsis": "Five girls came to a training school to become voice actresses holding each thought in her mind. Momoko - she wanted to be a voice actress to meet her favorite voice actor. Rinka - she is an armature voice actress, but she didn't have special purpose to become voice actress. Yurika - she likes anime very much. Tsubasa - she was a girl in love, and acted only as a boy. Amane - she found a deadlock as a actress and tried to find another way. They managed to get over the difficulty to become voice actress although they couldn't perform as main characters yet. There is a love romance with a boy works for an anime company, and you can catch a glimpse of situations of anime industries.\n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -457,17 +461,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:00:24.658Z",
+    "lastFetched": "2026-06-26T17:46:41.840Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

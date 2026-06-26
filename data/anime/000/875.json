@@ -25,28 +25,32 @@
       "Mindgame"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 104,
   "aired": {
-    "from": "2004-08-07",
+    "from": "2004-08-07T00:00:00+00:00",
     "to": "2004-08-07"
   },
   "season": "summer",
   "year": 2004,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.81,
+    "malScoredBy": 36216,
+    "malRank": 1134,
+    "malPopularity": 2454,
+    "malMembers": 97435,
+    "malFavorites": 1305,
     "anilistScore": 7.6,
     "anilistPopularity": 29616,
     "anilistFavourites": 997,
@@ -55,9 +59,11 @@
   },
   "genres": [
     "Adventure",
+    "Avant Garde",
+    "Award Winning",
     "Comedy",
-    "Psychological",
     "Romance",
+    "Psychological",
     "Dementia",
     "Contemporary Fantasy",
     "Earth",
@@ -69,14 +75,17 @@
   "studios": [
     "Studio 4°C"
   ],
-  "producers": [],
+  "producers": [
+    "Asmik Ace",
+    "Beyond C."
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/775/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1861/112656l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/875-yXbiRS7ayxlG.jpg",
     "color": "#f1d65d"
   },
   "trailer": null,
-  "synopsis": "Nishi has always loved Myon since they were little. And now as adults, he wants to pursue his dream of becoming a manga artist and marrying his childhood sweetheart. There's one problem, though. She's already been proposed to and she thinks Nishi is too much of a wimp. But upon meeting the fiancé while at her family's diner and accepting him as a good guy, they encounter a couple Yakuza (Japanese mafia), only to have Nishi grasp a certain revelation. And, with his newly aquired look on life, adventures abound as he, Myon, and her sister Yan escape the Yakuza into a most unlikely location where they meet an old man...\n(Source: ANN)",
+  "synopsis": "After seeing her jump onto a subway at the last second and getting her ankle crushed between the doors, Nishi reconnects with his high school sweetheart, Myon. Nishi is still very much in love with Myon, but is shocked to learn that she is engaged to another man. Nishi agrees to meet Myon's fiancé at her family's Yakitori restaurant, but members of the Yakuza storm the joint and murder Nishi when he tries to stop them from raping Myon.\n\nNishi, now dead, wakes up and meets a constantly shapeshifting god, who mocks him for dying. The god tells Nishi to walk into a portal and disappear from existence, which Nishi rejects, choosing instead to sprint past the god and reanimate. With a new outlook on life and knowledge of how the Yakuza are going to attack him, Nishi kills one of the Yakuza with his own gun, fleeing in a stolen car with Myon and her sister.\n\nAcclaimed director Masaaki Yuasa's debut film, Mind Game's constantly shifting visuals tell a story about living one's life without regrets that is unlike any other.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
@@ -111,17 +120,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:42:20.736Z",
+    "lastFetched": "2026-06-26T17:43:25.298Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 12,
   "episodeLength": 24,
   "aired": {
-    "from": "2004-04-02",
-    "to": "2004-06-18"
+    "from": "2004-04-02T00:00:00+00:00",
+    "to": "2004-06-18T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2004,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.71,
+    "malScoredBy": 29697,
+    "malRank": 6449,
+    "malPopularity": 3141,
+    "malMembers": 64767,
+    "malFavorites": 165,
     "anilistScore": 6.2,
     "anilistPopularity": 10859,
     "anilistFavourites": 54,
@@ -56,8 +60,8 @@
     "Drama",
     "Romance",
     "Sci-Fi",
-    "Magic",
     "Ecchi",
+    "Magic",
     "Science Fiction",
     "Asia",
     "Earth",
@@ -67,16 +71,22 @@
     "Super Power"
   ],
   "studios": [
-    "Gainax"
+    "Gainax",
+    "Shaft"
   ],
-  "producers": [],
+  "producers": [
+    "TBS",
+    "Rondo Robe",
+    "Movic",
+    "Geneon Entertainment"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/124/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1107/153262l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146-5uBVFpL2FJod.jpg",
     "color": "#f16b50"
   },
   "trailer": null,
-  "synopsis": "High school student Takeru Takemoto works part time as a (motor)bike courier. During one of his deliveries, he saw a mysterious light passing him and fell into a forest. What he had found was a beautiful girl coming out from a glowing cocoon, calling herself \"Hikari.\" While Takeru was quite embarrassed because of Hikari's nudity, a strange monster suddenly showed up and immediately attacked the two. Both Takeru and Hikari demonstrated the power of their other selves before Takeru had a clue of what's going on.\n(Source: ANN)",
+  "synopsis": "High school student Takeru Takemoto works part time as a (motor)bike courier. During one of his deliveries, he saw a mysterious light passing him and fell into a forest. What he had found was a beautiful girl coming out from a glowing cocoon, calling herself \"Hikari.\" While Takeru was quite embarrassed because of Hikari's nudity, a strange monster suddenly showed up and immediately attacked the two. Both Takeru and Hikari demonstrated the power of their other selves before Takeru had a clue of what's going on.\n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
@@ -351,17 +361,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:14:27.785Z",
+    "lastFetched": "2026-06-26T17:42:33.347Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

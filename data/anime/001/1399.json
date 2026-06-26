@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
   "episodeLength": 24,
   "aired": {
-    "from": "1995-12-18",
-    "to": "1996-02-25"
+    "from": "1995-12-18T00:00:00+00:00",
+    "to": "1996-02-25T00:00:00+00:00"
   },
   "season": "winter",
   "year": 1995,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.98,
+    "malScoredBy": 5025,
+    "malRank": 4875,
+    "malPopularity": 7095,
+    "malMembers": 10716,
+    "malFavorites": 5,
     "anilistScore": 6.8,
     "anilistPopularity": 3243,
     "anilistFavourites": 22,
@@ -52,12 +56,12 @@
     "kitsuRating": 7.01
   },
   "genres": [
-    "Action",
     "Comedy",
     "Drama",
+    "Sci-Fi",
+    "Action",
     "Mecha",
     "Music",
-    "Sci-Fi",
     "Space Travel",
     "Transforming Craft",
     "Space Opera",
@@ -72,14 +76,18 @@
   "studios": [
     "Ashi Productions"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Visual",
+    "Mainichi Broadcasting System",
+    "Studio Nue"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1252/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1514/96093l.jpg",
     "banner": null,
     "color": "#e49350"
   },
   "trailer": null,
-  "synopsis": "Three unbroadcasted episodes of the Macross 7 series. In \"Fleet of the Strongest Women,\" the Macross 7 fleet encounters a rogue Meltrandi fleet led by an old rival of Millia. \"On Stage\" focuses on Ray's past as a fighter pilot, how he first met Basara, and how they formed Fire Bomber. In \"Which One Do You Love,\" when Millia falls ill, she feels her life expectancy is running short and attempts to have Mylene engaged to Basara.\n(Source: ANN)",
+  "synopsis": "Three unbroadcasted episodes of the Macross 7 series. In \"Fleet of the Strongest Women,\" the Macross 7 fleet encounters a rogue Meltrandi fleet led by an old rival of Millia. \"On Stage\" focuses on Ray's past as a fighter pilot, how he first met Basara, and how they formed Fire Bomber. In \"Which One Do You Love,\" when Millia falls ill, she feels her life expectancy is running short and attempts to have Mylene engaged to Basara.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1397,
@@ -143,17 +151,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:32:02.163Z",
+    "lastFetched": "2026-06-26T17:58:30.734Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

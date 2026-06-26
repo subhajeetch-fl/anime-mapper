@@ -26,27 +26,31 @@
     ]
   },
   "type": "TV",
-  "source": null,
-  "status": "finished",
+  "source": "Light novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 13,
   "episodeLength": null,
   "aired": {
-    "from": "2006-04-02",
-    "to": "2006-06-25"
+    "from": "2006-04-02T00:00:00+00:00",
+    "to": "2006-06-25T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "02:05",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "G - All Ages",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.81,
+    "malScoredBy": 1917,
+    "malRank": 5848,
+    "malPopularity": 9069,
+    "malMembers": 5828,
+    "malFavorites": 11,
     "anilistScore": 6.6,
     "anilistPopularity": 1614,
     "anilistFavourites": 21,
@@ -67,14 +71,16 @@
     "Studio Hibari",
     "Trinet Entertainment"
   ],
-  "producers": [],
+  "producers": [
+    "Avex Mode"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/855/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1259/134889l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/855/original.jpg",
     "color": "#e4bb5d"
   },
   "trailer": null,
-  "synopsis": "When Yoshinaga Futaba wins the first prize in a lottery, the prize turns out to be a stone gargoyle. More surprising yet, the gargoyle turns out to be alive.\n(Source: ANN)",
+  "synopsis": "When Yoshinaga Futaba wins the first prize in a lottery, the prize turns out to be a stone gargoyle. More surprising yet, the gargoyle turns out to be alive.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 2464,
@@ -468,17 +474,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:49:56.836Z",
+    "lastFetched": "2026-06-26T17:44:37.945Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

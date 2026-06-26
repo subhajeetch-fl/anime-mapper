@@ -28,28 +28,32 @@
       "Renkin 3-kyuu Magical? Pokan"
     ]
   },
-  "type": "SPECIAL",
-  "source": null,
-  "status": "finished",
+  "type": "Special",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
   "episodeLength": 14,
   "aired": {
-    "from": "2006-06-23",
-    "to": "2006-10-25"
+    "from": "2006-06-23T00:00:00+00:00",
+    "to": "2006-10-25T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2006,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.84,
+    "malScoredBy": 3859,
+    "malRank": 5648,
+    "malPopularity": 7841,
+    "malMembers": 8394,
+    "malFavorites": 4,
     "anilistScore": 6.4,
     "anilistPopularity": 2137,
     "anilistFavourites": 13,
@@ -66,9 +70,13 @@
   "studios": [
     "Remic"
   ],
-  "producers": [],
+  "producers": [
+    "Genco",
+    "Lantis",
+    "Media Factory"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1335/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/11/74299l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1489-MQpOPjSg6vnm.jpg",
     "color": "#fe50e4"
   },
@@ -91,17 +99,15 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-26T13:41:56.852Z",
+    "lastFetched": "2026-06-26T18:00:13.245Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

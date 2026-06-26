@@ -28,28 +28,32 @@
       "Goshu, el violoncelista"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Book",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 63,
   "aired": {
-    "from": "1982-01-23",
+    "from": "1982-01-23T00:00:00+00:00",
     "to": "1982-01-23"
   },
   "season": "winter",
   "year": 1982,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "G",
+  "rating": "G - All Ages",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.9,
+    "malScoredBy": 6142,
+    "malRank": 5261,
+    "malPopularity": 6063,
+    "malMembers": 15866,
+    "malFavorites": 30,
     "anilistScore": 6.6,
     "anilistPopularity": 6140,
     "anilistFavourites": 58,
@@ -57,9 +61,10 @@
     "kitsuRating": 6.9
   },
   "genres": [
-    "Comedy",
+    "Award Winning",
     "Drama",
     "Fantasy",
+    "Comedy",
     "Music",
     "Kids",
     "Earth",
@@ -73,12 +78,12 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/939/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/9/36627l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1049-QA71Y1IPLoTC.jpg",
     "color": "#f1ae5d"
   },
   "trailer": null,
-  "synopsis": "The story concerns Gauche, a professional cellist. During rehearsals for a performance, he is scolded by the conductor because his playing is not good enough. His timing is off and he seems to have no \"feel\" for the music.\nGauche returns to his lonely cottage and starts practicing. Then a cat enters who tricks him into understanding the inner meaning of the music. The importance of practice is shown by a cuckoo, rhythm by a badger and tenderness by a mouse. In four days he learns the true meaning and feeling of music and develops into a great musician.\nLaced with popular classical music this special combines fun and inspiration for all ages and audiences.\n(Source: AnimeNfo, edited) ",
+  "synopsis": "The story concerns Gauche, a professional cellist. During rehearsals for a performance, he is scolded by the conductor because his playing is not good enough. His timing is off and he seems to have no \"feel\" for the music.\n\nGauche returns to his lonely cottage and starts practicing. Then a cat enters who tricks him into understanding the inner meaning of the music. The importance of practice is shown by a cuckoo, rhythm by a badger and tenderness by a mouse. In four days he learns the true meaning and feeling of music and develops into a great musician.\n\nLaced with popular classical music this special combines fun and inspiration for all ages and audiences.\n\n(Source: AnimeNfo, edited)",
   "sequence": [
     {
       "malId": 33344,
@@ -155,17 +160,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:58:37.419Z",
+    "lastFetched": "2026-06-26T17:46:24.276Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

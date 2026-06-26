@@ -27,27 +27,31 @@
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
   "episodeLength": 45,
   "aired": {
-    "from": "1991-05-25",
-    "to": "1991-12-21"
+    "from": "1991-05-25T00:00:00+00:00",
+    "to": "1991-12-21T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1991,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.6,
+    "malScoredBy": 6004,
+    "malRank": 7163,
+    "malPopularity": 6165,
+    "malMembers": 15196,
+    "malFavorites": 20,
     "anilistScore": 6.2,
     "anilistPopularity": 4579,
     "anilistFavourites": 42,
@@ -55,26 +59,27 @@
     "kitsuRating": 6.61
   },
   "genres": [
-    "Action",
     "Adventure",
-    "Mecha",
     "Sci-Fi",
+    "Action",
+    "Mecha",
     "Power Suit",
     "Science Fiction",
     "Tokyo",
     "Cyberpunk"
   ],
   "studios": [
-    "Artmic"
+    "Artmic",
+    "Darts"
   ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1203/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1386/145721l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/1203/original.jpeg",
     "color": "#e4436b"
   },
   "trailer": null,
-  "synopsis": "The saga of the Knight Sabers continues as the group tries to find out who or what is behind the recent string of robberies, murders, and Boomer malfunctions which are somehow related to the creation of an advanced artificial intelligence. Furthermore, it seems that the Knight Sabers may be breaking up. \n(Source: ANN)",
+  "synopsis": "The saga of the Knight Sabers continues as the group tries to find out who or what is behind the recent string of robberies, murders, and Boomer malfunctions which are somehow related to the creation of an advanced artificial intelligence. Furthermore, it seems that the Knight Sabers may be breaking up. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1347,
@@ -168,17 +173,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:25:31.661Z",
+    "lastFetched": "2026-06-26T17:57:31.312Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -25,31 +25,36 @@
       "Bio-Booster Armor Guyver",
       "The Guyver",
       "Kyoushoku Soukou Guyver",
-      "The Guyver Act II"
+      "The Guyver Act II",
+      "Guyver: The Bio-boosted Armor II"
     ]
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 6,
   "episodeLength": 30,
   "aired": {
-    "from": "1991-10-24",
-    "to": "1992-08-21"
+    "from": "1991-10-24T00:00:00+00:00",
+    "to": "1992-08-21T00:00:00+00:00"
   },
   "season": "fall",
   "year": 1991,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.99,
+    "malScoredBy": 4654,
+    "malRank": 4830,
+    "malPopularity": 7376,
+    "malMembers": 9810,
+    "malFavorites": 41,
     "anilistScore": 6.4,
     "anilistPopularity": 2305,
     "anilistFavourites": 31,
@@ -58,22 +63,26 @@
   },
   "genres": [
     "Action",
-    "Adventure",
-    "Drama",
     "Horror",
     "Sci-Fi",
+    "Adventure",
+    "Drama",
     "Power Suit",
     "Science Fiction"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Hero"
+  ],
+  "producers": [
+    "animate Film"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/8124/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1833/92279l.jpg",
     "banner": null,
     "color": "#78501a"
   },
   "trailer": null,
-  "synopsis": "Sho and his friend Tetsurou stumble upon an odd alien artifact while walking through the woods. Then, the alien artifact breaks free of its metallic bonds and enters Sho's body, turning him into the Guyver. With this new power, Sho must do battle with the evil Chronos corporation and their genetically enhanced Zoanoids, who seek to get the Guyver back into their labs. No one close to Sho is safe from Chronos. He must fight. \n(Source: ANN)",
+  "synopsis": "Sho and his friend Tetsurou stumble upon an odd alien artifact while walking through the woods. Then, the alien artifact breaks free of its metallic bonds and enters Sho's body, turning him into the Guyver. With this new power, Sho must do battle with the evil Chronos corporation and their genetically enhanced Zoanoids, who seek to get the Guyver back into their labs. No one close to Sho is safe from Chronos. He must fight. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 6016,
@@ -182,17 +191,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:24:34.018Z",
+    "lastFetched": "2026-06-26T17:57:22.910Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

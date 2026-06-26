@@ -25,28 +25,32 @@
       "Atama-yama"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Other",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 10,
   "aired": {
-    "from": "2002-01-01",
+    "from": "2002-01-01T00:00:00+00:00",
     "to": "2002-01-01"
   },
   "season": "winter",
   "year": 2002,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG - Children",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.34,
+    "malScoredBy": 4999,
+    "malRank": 8823,
+    "malPopularity": 7554,
+    "malMembers": 9210,
+    "malFavorites": 8,
     "anilistScore": 6,
     "anilistPopularity": 2723,
     "anilistFavourites": 12,
@@ -54,22 +58,28 @@
     "kitsuRating": 6.45
   },
   "genres": [
+    "Avant Garde",
+    "Award Winning",
     "Comedy",
     "Fantasy",
+    "Suspense",
     "Psychological",
     "Dementia",
     "Slice of Life",
     "Present"
   ],
-  "studios": [],
+  "studios": [
+    "Studio Deen",
+    "Yamamura Animation"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1224/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1845/112896l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/1224/original.jpg",
     "color": "#d6ae78"
   },
   "trailer": null,
-  "synopsis": "After a stingy man eats some cherry seeds, a cherry tree grows on his head and he gets into a lot of trouble. ",
+  "synopsis": "After a stingy man eats some cherry seeds, a cherry tree grows on his head and he gets into a lot of trouble.",
   "sequence": [],
   "episodes": {
     "1": {
@@ -89,17 +99,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:28:17.131Z",
+    "lastFetched": "2026-06-26T17:57:55.534Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

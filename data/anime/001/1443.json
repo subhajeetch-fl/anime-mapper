@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 2,
   "episodeLength": 54,
   "aired": {
-    "from": "1990-03-21",
-    "to": "1991-07-21"
+    "from": "1990-03-21T00:00:00+00:00",
+    "to": "1991-07-21T00:00:00+00:00"
   },
   "season": "spring",
   "year": 1990,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.37,
+    "malScoredBy": 2728,
+    "malRank": 8686,
+    "malPopularity": 7604,
+    "malMembers": 9058,
+    "malFavorites": 13,
     "anilistScore": 6,
     "anilistPopularity": 2870,
     "anilistFavourites": 20,
@@ -52,10 +56,10 @@
     "kitsuRating": 6.61
   },
   "genres": [
+    "Action",
     "Adventure",
     "Sci-Fi",
     "Space",
-    "Action",
     "Gunfights",
     "Shipboard",
     "Future",
@@ -64,14 +68,17 @@
   "studios": [
     "AIC"
   ],
-  "producers": [],
+  "producers": [
+    "Half H.P Studio",
+    "NEC Avenue"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1296/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1928/150179l.jpg",
     "banner": null,
     "color": "#e4a15d"
   },
   "trailer": null,
-  "synopsis": "Five female pirates pilot the Sol Bianca, a starship with a higher level of technology than any other known. With it, they seek out riches, such as the Gnosis, an legendary item of power, and pasha, the most valuable mineral in the galaxy. Along the way, they must consider a stowaway's quest to save the one he loves, and seek revenge against those that have wronged them. \n(Source: ANN) ",
+  "synopsis": "Five female pirates pilot the Sol Bianca, a starship with a higher level of technology than any other known. With it, they seek out riches, such as the Gnosis, an legendary item of power, and pasha, the most valuable mineral in the galaxy. Along the way, they must consider a stowaway's quest to save the one he loves, and seek revenge against those that have wronged them. \n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1444,
@@ -120,17 +127,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:38:25.593Z",
+    "lastFetched": "2026-06-26T17:59:40.221Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

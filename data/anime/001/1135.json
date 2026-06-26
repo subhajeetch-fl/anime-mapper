@@ -24,27 +24,31 @@
     "synonyms": []
   },
   "type": "OVA",
-  "source": null,
-  "status": "finished",
+  "source": "Original",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 60,
   "aired": {
-    "from": "2005-04-29",
+    "from": "2005-04-29T00:00:00+00:00",
     "to": "2005-04-29"
   },
   "season": "spring",
   "year": 2005,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 6.93,
+    "malScoredBy": 5772,
+    "malRank": 5123,
+    "malPopularity": 6459,
+    "malMembers": 13506,
+    "malFavorites": 14,
     "anilistScore": 6.2,
     "anilistPopularity": 2901,
     "anilistFavourites": 24,
@@ -71,14 +75,16 @@
   "studios": [
     "Kyoto Animation"
   ],
-  "producers": [],
+  "producers": [
+    "Animation Do"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1016/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/12/46865l.jpg",
     "banner": "https://media.kitsu.app/anime/cover_images/1016/original.jpg",
     "color": "#d6351a"
   },
   "trailer": null,
-  "synopsis": "Two years have passed since the catastrophic event known as the \"Continent's Dropping\" from the first OVA episode. Yumemi still has not forgotten her ability to see the world above, but now she's in the last years of middle school, tests and real life take over. Unknown to the people of the world, Akuto the world still thrives, but the war rages on. In need of help, Gaz, sends Munto down to Earth once more to find the \"Girl of Destiny\" in order to save Heaven from its untimely demise. Yumemi must once again confront the world only she sees, and not even her friends Ichiko and Suzune can help her.\n(Source: ANN)",
+  "synopsis": "Two years have passed since the catastrophic event known as the \"Continent's Dropping\" from the first OVA episode. Yumemi still has not forgotten her ability to see the world above, but now she's in the last years of middle school, tests and real life take over. Unknown to the people of the world, Akuto the world still thrives, but the war rages on. In need of help, Gaz, sends Munto down to Earth once more to find the \"Girl of Destiny\" in order to save Heaven from its untimely demise. Yumemi must once again confront the world only she sees, and not even her friends Ichiko and Suzune can help her.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 1174,
@@ -153,17 +159,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:06:51.425Z",
+    "lastFetched": "2026-06-26T17:47:58.017Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

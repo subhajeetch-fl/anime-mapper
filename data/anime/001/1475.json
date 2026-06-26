@@ -28,28 +28,32 @@
       "Pemburu Kota -Perang Pantai Kota"
     ]
   },
-  "type": "MOVIE",
-  "source": null,
-  "status": "finished",
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 45,
   "aired": {
-    "from": "1990-08-25",
+    "from": "1990-08-25T00:00:00+00:00",
     "to": "1990-08-25"
   },
   "season": "summer",
   "year": 1990,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "malScoredBy": null,
-    "malRank": null,
-    "malPopularity": null,
-    "malMembers": null,
-    "malFavorites": null,
+    "malScore": 7.34,
+    "malScoredBy": 4294,
+    "malRank": 2870,
+    "malPopularity": 7309,
+    "malMembers": 10004,
+    "malFavorites": 7,
     "anilistScore": 7,
     "anilistPopularity": 2890,
     "anilistFavourites": 27,
@@ -69,14 +73,16 @@
   "studios": [
     "Sunrise"
   ],
-  "producers": [],
+  "producers": [
+    "Yomiuri Telecasting"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1321/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1486/94388l.jpg",
     "banner": null,
     "color": "#e4935d"
   },
   "trailer": null,
-  "synopsis": "A new island resort has been built in Tokyo bay, and it is run by one of the world's most powerful super computers. The City Hunter gang has been invited to the grand opening party, but only Miki &amp; Kaori have gotten there. Soon, they and the rest of the party goers are taken hostage by an exiled South American dictator called General Gillium. Now it's up to Ryo and Umibozu to free the hostages, and prevent Gillium's daughter from using the super computer to launch a nuclear attack on the USA. \n(Source: ANN)",
+  "synopsis": "After the US military ousts a sadistic Central-American tyrant, a spirit of merciless vengeance is born. And when the Bay City Hotel unveils its new supercomputer, the deposed ruler and his loyal daughter devise a plan. With her hacking skills, the very same computer that delivers room service can now deliver a nuclear payload right to Washington's front door. But their nuclear vengeance has one unforeseen problem—City Hunter. And now, the only question remaining is who's finger is faster? The girl on the button or the man on the trigger? \n\n(Source: Sunrise, edited)",
   "sequence": [
     {
       "malId": 1472,
@@ -123,17 +129,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T13:40:54.284Z",
+    "lastFetched": "2026-06-26T18:00:04.456Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "anilist",
       "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "zenshin"
     ],
-    "missingSources": [
-      "jikan"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }
