@@ -1,0 +1,1363 @@
+{
+  "id": 103,
+  "idMal": 103,
+  "mappings": {
+    "mal": 103,
+    "anilist": 103,
+    "anidb": 854,
+    "kitsu": 82,
+    "simkl": 36804,
+    "tmdb": 34179,
+    "tvdb": 72878,
+    "trakt": 34032,
+    "traktType": "shows",
+    "shikimori": 103,
+    "livechart": 6898,
+    "animeplanet": "akazukin-chacha",
+    "anisearch": 458,
+    "notify": "KTAp5FmiR"
+  },
+  "title": {
+    "romaji": "Akazukin Chacha",
+    "english": "Red Riding Hood Chacha",
+    "native": "赤ずきんチャチャ",
+    "synonyms": []
+  },
+  "type": "TV",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 74,
+  "episodeLength": 24,
+  "aired": {
+    "from": "1994-01-07T00:00:00+00:00",
+    "to": "1995-06-30T00:00:00+00:00"
+  },
+  "season": "winter",
+  "year": 1994,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 7.46,
+    "malScoredBy": 5970,
+    "malRank": 2304,
+    "malPopularity": 5812,
+    "malMembers": 17728,
+    "malFavorites": 113,
+    "anilistScore": 7,
+    "anilistPopularity": 4410,
+    "anilistFavourites": 93,
+    "anilistTrending": 0,
+    "kitsuRating": 6.63
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Romance",
+    "Fantasy",
+    "Mahou Shoujo",
+    "Magic",
+    "Fantasy World",
+    "Parody",
+    "Mermaid",
+    "Friendship",
+    "Slapstick",
+    "Magical Girl",
+    "Plot Continuity"
+  ],
+  "studios": [
+    "Gallop",
+    "Studio Gallop"
+  ],
+  "producers": [
+    "Nihon Ad Systems",
+    "Shueisha"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1098/108972l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n103-dPxprIcIeq1Q.jpg",
+    "color": "#f1bb5d"
+  },
+  "trailer": null,
+  "synopsis": "Chacha is a cheerful girl who spends most of her days practicing magic under her teacher Seravi, hoping to become as skilled as he is. Though Chacha is enthusiastic, her tendency to make unfortunate puns out of her magic chants leaves her teacher wondering if she is ready for magic school. Deciding that there is no better time, Seravi gifts Chacha the Princess Medallion, allowing her to transform into a magical princess capable of defeating even the fiercest opponents.\n\nTogether with her best friends Riiya, a werewolf boy, and Shiine, an apprentice of Seravi's old rival, Dorothy, Chacha sets out to defend the world from sinister forces. However, between the Great Evil Lord plotting against them, Riiya and Shiine's rivalry to win Chacha's affection, as well as Seravi and Dorothy's complicated relationship, Chacha struggles to find balance between fighting evil forces and mending relationships in her everyday life. Though obstacles continue to come her way, Chacha is determined to overcome any problem she faces with love, courage, and hope by her side.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 367,
+      "title": {
+        "romaji": "Akazukin Chacha OVA",
+        "english": null,
+        "native": "赤ずきんチャチャ (1995)"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/367.jpg",
+      "format": "OVA",
+      "episodes": 3,
+      "seasonYear": 1995,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "1994-01-07",
+      "title": {
+        "en": "The Red-Hooded Magician"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101805,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 30,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "1994-01-14",
+      "title": {
+        "en": "The Rival is the Black Riding Hood"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101806,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 30,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "1994-01-21",
+      "title": {
+        "en": "The Overreacting Cute Mermaid Marin!"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101807,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 30,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "1994-01-28",
+      "title": {
+        "en": "Deadly! Attack of the Three Little Pigs"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101808,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 30,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "1994-02-04",
+      "title": {
+        "en": "Date with `Vampy` Kyuu-chan"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101809,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 30,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "1994-02-11",
+      "title": {
+        "en": "Babies are Bad at Magic"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101810,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 30,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "1994-02-18",
+      "title": {
+        "en": "Snow Explosion, Sensei is a Snow Woman"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101811,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 30,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "1994-02-25",
+      "title": {
+        "en": "My Cake is the Best"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101812,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 30,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "1994-03-04",
+      "title": {
+        "en": "Go Nyandabar Z"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101813,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 30,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "1994-03-11",
+      "title": {
+        "en": "Kyuu-chan Strikes Back"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101814,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 30,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "1994-03-18",
+      "title": {
+        "en": "Decide the Sushi Champion"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101815,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 30,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "1994-03-25",
+      "title": {
+        "en": "Orin-chan`s First Love"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101816,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 30,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "1994-04-01",
+      "title": {
+        "en": "Work Hard, House Sitter"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101817,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 30,
+      "image": null
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "1994-04-08",
+      "title": {
+        "en": "The Evil Magic Lord is Angry"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101818,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 30,
+      "image": null
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "1994-04-15",
+      "title": {
+        "en": "Baby Franken-chan"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101819,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 30,
+      "image": null
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "1994-04-22",
+      "title": {
+        "en": "She Appears! The Sister of the Sea Monster"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101820,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 30,
+      "image": null
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "1994-04-29",
+      "title": {
+        "en": "The Return of Nyandabar"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101821,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 30,
+      "image": null
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "1994-05-06",
+      "title": {
+        "en": "Zombie Warning at Urara School"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101822,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 30,
+      "image": null
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "1994-05-13",
+      "title": {
+        "en": "Dreadful! Dorothy-chan`s Sister?"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101823,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 30,
+      "image": null
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "1994-05-20",
+      "title": {
+        "en": "The Challenge of the Mysterious Thief, Nezumid-kid"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101824,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 30,
+      "image": null
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "1994-05-27",
+      "title": {
+        "en": "A Dangerous Open-air Bath"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101825,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 30,
+      "image": null
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "1994-06-03",
+      "title": {
+        "en": "Surprise! First Experience as a Sacrifice!"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101826,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 30,
+      "image": null
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "1994-06-10",
+      "title": {
+        "en": "Fight! Graduation Exam"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101827,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 30,
+      "image": null
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "1994-06-17",
+      "title": {
+        "en": "I`m the Legendary Princess?"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101828,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 30,
+      "image": null
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "1994-06-24",
+      "title": {
+        "en": "Why? Why? The Arrow is Defeated"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101829,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 30,
+      "image": null
+    },
+    "26": {
+      "episode": "26",
+      "length": "25m",
+      "airDate": "1994-07-01",
+      "title": {
+        "en": "Move it! You`re in the Way of Our Love"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101830,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 30,
+      "image": null
+    },
+    "27": {
+      "episode": "27",
+      "length": "25m",
+      "airDate": "1994-07-08",
+      "title": {
+        "en": "Chacha`s Power at the Fiery Place"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101831,
+      "seasonNumber": 1,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 30,
+      "image": null
+    },
+    "28": {
+      "episode": "28",
+      "length": "25m",
+      "airDate": "1994-07-15",
+      "title": {
+        "en": "The Explorers of Phoenix Pond"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101832,
+      "seasonNumber": 1,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 30,
+      "image": null
+    },
+    "29": {
+      "episode": "29",
+      "length": "25m",
+      "airDate": "1994-07-22",
+      "title": {
+        "en": "Welcome to the Home of Phoenix"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101833,
+      "seasonNumber": 1,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 30,
+      "image": null
+    },
+    "30": {
+      "episode": "30",
+      "length": "25m",
+      "airDate": "1994-07-29",
+      "title": {
+        "en": "At Last! The Wing Kris"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101834,
+      "seasonNumber": 1,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 30,
+      "image": null
+    },
+    "31": {
+      "episode": "31",
+      "length": "25m",
+      "airDate": "1994-08-05",
+      "title": {
+        "en": "Lots of Training"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101835,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 30,
+      "image": null
+    },
+    "32": {
+      "episode": "32",
+      "length": "25m",
+      "airDate": "1994-08-12",
+      "title": {
+        "en": "Dangerous Love Triangle"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101836,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 30,
+      "image": null
+    },
+    "33": {
+      "episode": "33",
+      "length": "25m",
+      "airDate": "1994-08-19",
+      "title": {
+        "en": "Shiine-chan`s Fateful Confrontation"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101837,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 30,
+      "image": null
+    },
+    "34": {
+      "episode": "34",
+      "length": "25m",
+      "airDate": "1994-08-26",
+      "title": {
+        "en": "Reunion. Tearful Nursery Song"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101838,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 30,
+      "image": null
+    },
+    "35": {
+      "episode": "35",
+      "length": "25m",
+      "airDate": "1994-09-02",
+      "title": {
+        "en": "Yet Again, Nyandaber"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101839,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 30,
+      "image": null
+    },
+    "36": {
+      "episode": "36",
+      "length": "25m",
+      "airDate": "1994-09-09",
+      "title": {
+        "en": "The Mirror of Truth Lies"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101840,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 30,
+      "image": null
+    },
+    "37": {
+      "episode": "37",
+      "length": "25m",
+      "airDate": "1994-09-16",
+      "title": {
+        "en": "Flower-Sprouting Teacher, Barabaraman"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101841,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 37,
+      "runtime": 30,
+      "image": null
+    },
+    "38": {
+      "episode": "38",
+      "length": "25m",
+      "airDate": "1994-09-23",
+      "title": {
+        "en": "Everyone`s an Animal"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101842,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 38,
+      "runtime": 30,
+      "image": null
+    },
+    "39": {
+      "episode": "39",
+      "length": "25m",
+      "airDate": "1994-09-30",
+      "title": {
+        "en": "Kappa Roll at the Dragon Palace"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101843,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 39,
+      "runtime": 30,
+      "image": null
+    },
+    "40": {
+      "episode": "40",
+      "length": "25m",
+      "airDate": "1994-10-07",
+      "title": {
+        "en": "Breakfast in the Kitty House"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101844,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 40,
+      "runtime": 30,
+      "image": null
+    },
+    "41": {
+      "episode": "41",
+      "length": "25m",
+      "airDate": "1994-10-14",
+      "title": {
+        "en": "The Sleepy Demon Erupts"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101845,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 41,
+      "runtime": 30,
+      "image": null
+    },
+    "42": {
+      "episode": "42",
+      "length": "25m",
+      "airDate": "1994-10-21",
+      "title": {
+        "en": "In Search of the Legendary Shield"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101846,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 42,
+      "runtime": 30,
+      "image": null
+    },
+    "43": {
+      "episode": "43",
+      "length": "25m",
+      "airDate": "1994-10-28",
+      "title": {
+        "en": "The Bird Shield is Completed"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101847,
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 43,
+      "runtime": 30,
+      "image": null
+    },
+    "44": {
+      "episode": "44",
+      "length": "25m",
+      "airDate": "1994-11-04",
+      "title": {
+        "en": "Grand Class Reunion"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101848,
+      "seasonNumber": 2,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 44,
+      "runtime": 30,
+      "image": null
+    },
+    "45": {
+      "episode": "45",
+      "length": "25m",
+      "airDate": "1994-11-11",
+      "title": {
+        "en": "Who`s the Real One?"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101849,
+      "seasonNumber": 2,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 45,
+      "runtime": 30,
+      "image": null
+    },
+    "46": {
+      "episode": "46",
+      "length": "25m",
+      "airDate": "1994-11-18",
+      "title": {
+        "en": "Onward! Magical Ninja Squad"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101850,
+      "seasonNumber": 2,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 46,
+      "runtime": 30,
+      "image": null
+    },
+    "47": {
+      "episode": "47",
+      "length": "25m",
+      "airDate": "1994-11-25",
+      "title": {
+        "en": "Cross the Bridge of Friendship"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101851,
+      "seasonNumber": 2,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 47,
+      "runtime": 30,
+      "image": null
+    },
+    "48": {
+      "episode": "48",
+      "length": "25m",
+      "airDate": "1994-12-02",
+      "title": {
+        "en": "Racoon Battle! The Bunbuku Teapot"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101852,
+      "seasonNumber": 2,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 48,
+      "runtime": 30,
+      "image": null
+    },
+    "49": {
+      "episode": "49",
+      "length": "25m",
+      "airDate": "1994-12-09",
+      "title": {
+        "en": "Go Forth, Legendary Warriors!"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101853,
+      "seasonNumber": 2,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 49,
+      "runtime": 30,
+      "image": null
+    },
+    "50": {
+      "episode": "50",
+      "length": "25m",
+      "airDate": "1994-12-16",
+      "title": {
+        "en": "Final Battle of Love, Courage, and Hope"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101854,
+      "seasonNumber": 2,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 50,
+      "runtime": 30,
+      "image": null
+    },
+    "51": {
+      "episode": "51",
+      "length": "25m",
+      "airDate": "1994-12-23",
+      "title": {
+        "en": "The Princess` Holiday"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101855,
+      "seasonNumber": 2,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 51,
+      "runtime": 30,
+      "image": null
+    },
+    "52": {
+      "episode": "52",
+      "length": "25m",
+      "airDate": "1995-01-06",
+      "title": {
+        "en": "Escape! Escape! To No Prevail!"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101856,
+      "seasonNumber": 2,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 52,
+      "runtime": 30,
+      "image": null
+    },
+    "53": {
+      "episode": "53",
+      "length": "25m",
+      "airDate": "1995-01-13",
+      "title": {
+        "en": "I`m the Strongest in the World?"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101857,
+      "seasonNumber": 2,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 53,
+      "runtime": 30,
+      "image": null
+    },
+    "54": {
+      "episode": "54",
+      "length": "25m",
+      "airDate": "1995-01-20",
+      "title": {
+        "en": "Ceaseless Challengers"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101858,
+      "seasonNumber": 2,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 54,
+      "runtime": 30,
+      "image": null
+    },
+    "55": {
+      "episode": "55",
+      "length": "25m",
+      "airDate": "1995-01-27",
+      "title": {
+        "en": "Don`t Forget About the King`s Crest"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101859,
+      "seasonNumber": 2,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 55,
+      "runtime": 30,
+      "image": null
+    },
+    "56": {
+      "episode": "56",
+      "length": "25m",
+      "airDate": "1995-02-03",
+      "title": {
+        "en": "Good Bye, Holy Up"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101860,
+      "seasonNumber": 2,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 56,
+      "runtime": 30,
+      "image": null
+    },
+    "57": {
+      "episode": "57",
+      "length": "25m",
+      "airDate": "1995-03-03",
+      "title": {
+        "en": "Skate to Be the World`s Best"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101861,
+      "seasonNumber": 3,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 57,
+      "runtime": 30,
+      "image": null
+    },
+    "58": {
+      "episode": "58",
+      "length": "25m",
+      "airDate": "1995-03-10",
+      "title": {
+        "en": "Elizabeth S.O.S."
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101862,
+      "seasonNumber": 3,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 58,
+      "runtime": 30,
+      "image": null
+    },
+    "59": {
+      "episode": "59",
+      "length": "25m",
+      "airDate": "1995-03-17",
+      "title": {
+        "en": "A Tiny Little Love Story"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101863,
+      "seasonNumber": 3,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 59,
+      "runtime": 30,
+      "image": null
+    },
+    "60": {
+      "episode": "60",
+      "length": "25m",
+      "airDate": "1995-03-24",
+      "title": {
+        "en": "I Like... I Like... Yakko-chan"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101864,
+      "seasonNumber": 3,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 60,
+      "runtime": 30,
+      "image": null
+    },
+    "61": {
+      "episode": "61",
+      "length": "25m",
+      "airDate": "1995-03-31",
+      "title": {
+        "en": "Young Seravy`s Adventures"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101865,
+      "seasonNumber": 3,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 61,
+      "runtime": 30,
+      "image": null
+    },
+    "62": {
+      "episode": "62",
+      "length": "25m",
+      "airDate": "1995-04-07",
+      "title": {
+        "en": "Scoop! Pink`s Secret"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101866,
+      "seasonNumber": 3,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 62,
+      "runtime": 30,
+      "image": null
+    },
+    "63": {
+      "episode": "63",
+      "length": "25m",
+      "airDate": "1995-04-14",
+      "title": {
+        "en": "A Thorny 3-Legged Race"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101867,
+      "seasonNumber": 3,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 63,
+      "runtime": 30,
+      "image": null
+    },
+    "64": {
+      "episode": "64",
+      "length": "25m",
+      "airDate": "1995-04-21",
+      "title": {
+        "en": "Surprise! Riiya`s Mama?"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101868,
+      "seasonNumber": 3,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 64,
+      "runtime": 30,
+      "image": null
+    },
+    "65": {
+      "episode": "65",
+      "length": "25m",
+      "airDate": "1995-04-28",
+      "title": {
+        "en": "Nostalgic Nyandabar"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101869,
+      "seasonNumber": 3,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 65,
+      "runtime": 30,
+      "image": null
+    },
+    "66": {
+      "episode": "66",
+      "length": "25m",
+      "airDate": "1995-05-05",
+      "title": {
+        "en": "Strict Teacher Mayachon"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101870,
+      "seasonNumber": 3,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 66,
+      "runtime": 30,
+      "image": null
+    },
+    "67": {
+      "episode": "67",
+      "length": "25m",
+      "airDate": "1995-05-12",
+      "title": {
+        "en": "Terror! Friday the 12th"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101871,
+      "seasonNumber": 3,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 67,
+      "runtime": 30,
+      "image": null
+    },
+    "68": {
+      "episode": "68",
+      "length": "25m",
+      "airDate": "1995-05-19",
+      "title": {
+        "en": "Umibouko! Big Battle Over First Love!"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101872,
+      "seasonNumber": 3,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 68,
+      "runtime": 30,
+      "image": null
+    },
+    "69": {
+      "episode": "69",
+      "length": "25m",
+      "airDate": "1995-05-26",
+      "title": {
+        "en": "Operation Dance Party!"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101873,
+      "seasonNumber": 3,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 69,
+      "runtime": 30,
+      "image": null
+    },
+    "70": {
+      "episode": "70",
+      "length": "25m",
+      "airDate": "1995-06-02",
+      "title": {
+        "en": "The Tale of Yakko-chan`s First Love"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101874,
+      "seasonNumber": 3,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 70,
+      "runtime": 30,
+      "image": null
+    },
+    "71": {
+      "episode": "71",
+      "length": "25m",
+      "airDate": "1995-06-09",
+      "title": {
+        "en": "Again! Tono`s Return"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101875,
+      "seasonNumber": 3,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 71,
+      "runtime": 30,
+      "image": null
+    },
+    "72": {
+      "episode": "72",
+      "length": "25m",
+      "airDate": "1995-06-16",
+      "title": {
+        "en": "Shiine-chan`s Big Mistake"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101876,
+      "seasonNumber": 3,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 72,
+      "runtime": 30,
+      "image": null
+    },
+    "73": {
+      "episode": "73",
+      "length": "25m",
+      "airDate": "1995-06-23",
+      "title": {
+        "en": "The Secret of Dorothy`s Castle"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101877,
+      "seasonNumber": 3,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 73,
+      "runtime": 30,
+      "image": null
+    },
+    "74": {
+      "episode": "74",
+      "length": "30m",
+      "airDate": "1995-06-30",
+      "title": {
+        "en": "Wedding Announcement Rumble!"
+      },
+      "tvdbShowId": 72878,
+      "tvdbId": 101878,
+      "seasonNumber": 3,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 74,
+      "runtime": 30,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "0m",
+      "airDate": "1995-02-10",
+      "title": {
+        "en": "Musical 1: Catch Chacha"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "0m",
+      "airDate": "1995-02-17",
+      "title": {
+        "en": "Musical 2: I Want to Become More Than Friends"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "0m",
+      "airDate": "1995-02-24",
+      "title": {
+        "en": "Musical 3: Everyone is the Best Honour Student"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C1": {
+      "episode": "C1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Opening 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C2": {
+      "episode": "C2",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Opening 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C3": {
+      "episode": "C3",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Opening 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C4": {
+      "episode": "C4",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Ending 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C5": {
+      "episode": "C5",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Ending 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C6": {
+      "episode": "C6",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Ending 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T12:11:41.790Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

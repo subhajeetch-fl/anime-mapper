@@ -1,0 +1,154 @@
+{
+  "id": 899,
+  "idMal": 899,
+  "mappings": {
+    "mal": 899,
+    "anilist": 899,
+    "anidb": 1046,
+    "kitsu": 799,
+    "simkl": 38354,
+    "tmdb": 39103,
+    "tvdb": null,
+    "trakt": 25361,
+    "traktType": "movies",
+    "shikimori": 899,
+    "livechart": 4177,
+    "animeplanet": "dragon-ball-z-movie-6-return-of-cooler",
+    "anisearch": 1011,
+    "notify": "L2gJ5KmiR"
+  },
+  "title": {
+    "romaji": "Dragon Ball Z: Gekitotsu!! 100-oku Power no Senshi-tachi",
+    "english": "Dragon Ball Z: The Return of Cooler",
+    "native": "ドラゴンボールZ 激突!!100億パワーの戦士たち",
+    "synonyms": [
+      "Dragon Ball Z: Clash!! 10 Billion Power Warriors",
+      "ดราก้อนบอล Z เดอะมูฟวี่ 6 การกลับมาของคูลเลอร์ ",
+      "Bảy Viên Ngọc Rồng Z: Sự Trở Lại Của Cooler ",
+      "Dragon Ball Z: Bekjemp! 10 milliarder powerkrigere",
+      "Dragon Ball Z: Robotarna anfaller",
+      "Драконий жемчуг Зет: Сила 10 миллиардов воинов"
+    ]
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "finished",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 45,
+  "aired": {
+    "from": "1992-03-07",
+    "to": "1992-03-07"
+  },
+  "season": "spring",
+  "year": 1992,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "malScoredBy": null,
+    "malRank": null,
+    "malPopularity": null,
+    "malMembers": null,
+    "malFavorites": null,
+    "anilistScore": 6.4,
+    "anilistPopularity": 33026,
+    "anilistFavourites": 273,
+    "anilistTrending": 1,
+    "kitsuRating": 6.66
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi",
+    "Comedy",
+    "Fantasy",
+    "Super Power",
+    "Science Fiction",
+    "Shounen"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/799/original.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/899-SWU7Sor2l91N.jpg",
+    "color": "#f1c943"
+  },
+  "trailer": null,
+  "synopsis": "Cooler has resurrected himself as a robot and is enslaving the people of New Namek. Goku and the gang must help. \n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 813,
+      "title": {
+        "romaji": "Dragon Ball Z",
+        "english": "Dragon Ball Z",
+        "native": "ドラゴンボールZ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx813-ZhnFNOeCU5dQ.png",
+      "format": "TV",
+      "episodes": 291,
+      "seasonYear": 1989,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 898,
+      "title": {
+        "romaji": "Dragon Ball Z: Tobikkiri no Saikyou Tai Saikyou",
+        "english": "Dragon Ball Z: Cooler's Revenge",
+        "native": "ドラゴンボールZ とびっきりの最強対最強"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/898.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1991,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 22695,
+      "title": {
+        "romaji": "Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiyajin Special",
+        "english": null,
+        "native": "ドラゴンボールＺ　極限バトル！！三大超サイヤ人　スペシャル"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138864-46d7SxpKqiGe.png",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "seasonYear": 1992,
+      "relationType": "OTHER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "50m",
+      "airDate": "1993-03-06",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 81472,
+      "tvdbId": 411419,
+      "seasonNumber": 0,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 70,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81472/411419.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T12:44:37.691Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

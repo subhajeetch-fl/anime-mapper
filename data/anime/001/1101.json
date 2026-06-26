@@ -1,0 +1,128 @@
+{
+  "id": 1101,
+  "idMal": 1101,
+  "mappings": {
+    "mal": 1101,
+    "anilist": 1101,
+    "anidb": 375,
+    "kitsu": 986,
+    "simkl": 37067,
+    "tmdb": 34194,
+    "tvdb": null,
+    "trakt": 21894,
+    "traktType": "movies",
+    "shikimori": 1101,
+    "livechart": 6698,
+    "animeplanet": "tenchi-the-movie-2-the-daughter-of-darkness",
+    "anisearch": 2720,
+    "notify": "3Hr15Kimg"
+  },
+  "title": {
+    "romaji": "Tenchi Muyou! Manatsu no Eve",
+    "english": "Tenchi the Movie 2: The Daughter of Darkness",
+    "native": "天地無用！真夏のイヴ",
+    "synonyms": [
+      "Tenchi Muyou! Midsummer's Eve",
+      "Tenchi The Movie 2 - The Daughter of Darkness"
+    ]
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "finished",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 59,
+  "aired": {
+    "from": "1997-08-02",
+    "to": "1997-08-02"
+  },
+  "season": "summer",
+  "year": 1997,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "R",
+  "score": {
+    "malScore": null,
+    "malScoredBy": null,
+    "malRank": null,
+    "malPopularity": null,
+    "malMembers": null,
+    "malFavorites": null,
+    "anilistScore": 6.7,
+    "anilistPopularity": 3122,
+    "anilistFavourites": 34,
+    "anilistTrending": 0,
+    "kitsuRating": 7.04
+  },
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi",
+    "Space",
+    "Fantasy",
+    "Romance",
+    "Science Fiction",
+    "Japan",
+    "Asia",
+    "Earth",
+    "Sudden Girlfriend Appearance",
+    "Harem"
+  ],
+  "studios": [
+    "AIC"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/986/original.jpg",
+    "banner": null,
+    "color": "#e4ae5d"
+  },
+  "trailer": null,
+  "synopsis": "A girl, Mayuka, appears one day claiming to be Tenchi's daughter, much to the shock of the Masaki household. Chaos ensues as Washu attempts to discover Mayuka's background, and the girls adjust to the new presence at their home. The result of her appearance reaches back into the past, and puts Tenchi in danger. Tenchi and Ryoko must travel into the realm of a demon called Yuzuha in order to try and set things right, but their task is not an easy one. \n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 696,
+      "title": {
+        "romaji": "Tenchi Muyou!",
+        "english": "Tenchi Muyo! Tenchi Universe",
+        "native": "天地無用！"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx696-q40thYobzxmz.jpg",
+      "format": "TV",
+      "episodes": 26,
+      "seasonYear": 1995,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "60m",
+      "airDate": "1997-02-08",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 80009,
+      "tvdbId": 1137091,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 60,
+      "image": "https://artworks.thetvdb.com/banners/episodes/80009/1137091.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T13:03:44.037Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

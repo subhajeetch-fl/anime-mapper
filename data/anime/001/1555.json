@@ -1,0 +1,626 @@
+{
+  "id": 1555,
+  "idMal": 1555,
+  "mappings": {
+    "mal": 1555,
+    "anilist": 1555,
+    "anidb": 4384,
+    "kitsu": 1395,
+    "simkl": 40551,
+    "tmdb": 42872,
+    "tvdb": 81367,
+    "trakt": 42646,
+    "traktType": "shows",
+    "shikimori": 1555,
+    "livechart": 5238,
+    "animeplanet": "tokimeki-memorial-only-love",
+    "anisearch": 3603,
+    "notify": "efaa5FiiR"
+  },
+  "title": {
+    "romaji": "Tokimeki Memorial: Only Love",
+    "english": "Tokimeki Memorial",
+    "native": "ときめきメモリアル Only Love",
+    "synonyms": [
+      "心跳回忆 ONLY LOVE"
+    ]
+  },
+  "type": "TV",
+  "source": "Visual novel",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 25,
+  "episodeLength": 24,
+  "aired": {
+    "from": "2006-10-03T00:00:00+00:00",
+    "to": "2007-04-03T00:00:00+00:00"
+  },
+  "season": "fall",
+  "year": 2006,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.04,
+    "malScoredBy": 15957,
+    "malRank": 4616,
+    "malPopularity": 4145,
+    "malMembers": 39386,
+    "malFavorites": 94,
+    "anilistScore": 6.5,
+    "anilistPopularity": 6334,
+    "anilistFavourites": 45,
+    "anilistTrending": 0,
+    "kitsuRating": 6.96
+  },
+  "genres": [
+    "Comedy",
+    "Romance",
+    "School",
+    "Harem",
+    "Earth",
+    "Japan",
+    "Asia",
+    "Slice of Life",
+    "Sudden Girlfriend Appearance",
+    "Love Polygon",
+    "High School",
+    "Stereotypes",
+    "School Life",
+    "Present"
+  ],
+  "studios": [
+    "AIC ASTA",
+    "AIC A.S.T.A."
+  ],
+  "producers": [
+    "Konami"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1140/153142l.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/1395/original.jpg",
+    "color": "#50a1e4"
+  },
+  "trailer": null,
+  "synopsis": "Aoba Riku has just transferred to a new high school because of his father's job, and things aren't quite what he expected. The headmaster's secretary controls the school while espousing the virtues of academic freedom, the teachers are even stranger than normal teachers, and half the student body is walking around with animal ears on. On his very first day, Riku is unfortunate enough to find himself at the center of the student council's latest event, which has him running for his life. All this on top of the normal high school rigour of popularity contests, crushes, and homework makes it unsure whether Riku will be able to survive this new school.\n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 2179,
+      "title": {
+        "romaji": "Tokimeki Memorial",
+        "english": null,
+        "native": "ときめきメモリアル"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2179.jpg",
+      "format": "OVA",
+      "episodes": 2,
+      "seasonYear": 1999,
+      "relationType": "SPIN_OFF"
+    },
+    {
+      "malId": 3686,
+      "title": {
+        "romaji": "Tokimeki Memorial: Only Love - Tokimeki no Yuuki",
+        "english": null,
+        "native": "ときめきメモリアル Only Love ときめきの勇気"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3686.jpg",
+      "format": "OVA",
+      "episodes": 1,
+      "seasonYear": 2007,
+      "relationType": "SIDE_STORY"
+    },
+    {
+      "malId": 7691,
+      "title": {
+        "romaji": "Tokimeki Memorial 4 ORIGINAL ANIMATION: Hajimari no Finder",
+        "english": null,
+        "native": "ときめきメモリアル4 ORIGINAL ANIMATION -始まりのファインダー"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7691.jpg",
+      "format": "OVA",
+      "episodes": 1,
+      "seasonYear": 2009,
+      "relationType": "SPIN_OFF"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2006-10-02",
+      "title": {
+        "en": "An Exciting Meeting"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353298,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353298.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2006-10-09",
+      "title": {
+        "en": "An Exciting Destiny"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353299,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353299.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2006-10-16",
+      "title": {
+        "en": "An Exciting After School"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353300,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353300.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2006-10-23",
+      "title": {
+        "en": "An Exciting Water Surface"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353301,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353301.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2006-10-30",
+      "title": {
+        "en": "An Exciting Accident"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353302,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353302.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2006-11-06",
+      "title": {
+        "en": "An Exciting Rain"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353303,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353303.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2006-11-13",
+      "title": {
+        "en": "An Exciting Confession"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353304,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353304.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2006-11-20",
+      "title": {
+        "en": "An Exciting Time"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353305,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353305.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2006-11-27",
+      "title": {
+        "en": "An Exciting Sea"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353306,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353306.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2006-12-04",
+      "title": {
+        "en": "An Exciting Evening"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353307,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353307.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2006-12-11",
+      "title": {
+        "en": "An Exciting Memory"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353308,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353308.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2006-12-18",
+      "title": {
+        "en": "An Exciting Night"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353309,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353309.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2006-12-25",
+      "title": {
+        "en": "An Exciting Secret"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353310,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353310.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "2007-01-08",
+      "title": {
+        "en": "An Exciting Transfer Student"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353311,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353311.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "2007-01-15",
+      "title": {
+        "en": "An Exciting Reality"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353312,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353312.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "2007-01-22",
+      "title": {
+        "en": "An Exciting Instant"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353313,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353313.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "2007-01-29",
+      "title": {
+        "en": "An Exciting Cultural Festival"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353314,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353314.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "2007-02-05",
+      "title": {
+        "en": "An Exciting Field Trip"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353315,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353315.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "2007-02-12",
+      "title": {
+        "en": "An Exciting Message"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353316,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353316.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "2007-02-19",
+      "title": {
+        "en": "An Exciting Thought"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353317,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353317.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "2007-02-26",
+      "title": {
+        "en": "An Exciting Christmas"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353318,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353318.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "2007-03-05",
+      "title": {
+        "en": "An Exciting New Year"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353319,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353319.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "2007-03-12",
+      "title": {
+        "en": "An Exciting Present"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353320,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353320.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "2007-03-19",
+      "title": {
+        "en": "An Exciting Farewell"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353321,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353321.jpg"
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "2007-03-26",
+      "title": {
+        "en": "An Exciting Wish"
+      },
+      "tvdbShowId": 81367,
+      "tvdbId": 353322,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81367/353322.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "25m",
+      "airDate": "2007-09-21",
+      "title": {
+        "en": "The Excitement of Heroism (ep.17.5)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "30m",
+      "airDate": "2007-09-21",
+      "title": {
+        "en": "An Exciting Choice (Ep. 25.5)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Yokan (1-25)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Kiseki no Kakera (1-16)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2": {
+      "episode": "ED2",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Himitsu (17-25)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C4": {
+      "episode": "C4",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "PV"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Preview"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T13:48:04.254Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

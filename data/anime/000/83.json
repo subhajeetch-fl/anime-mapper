@@ -1,0 +1,170 @@
+{
+  "id": 83,
+  "idMal": 83,
+  "mappings": {
+    "mal": 83,
+    "anilist": 83,
+    "anidb": 1425,
+    "kitsu": 62,
+    "simkl": 37320,
+    "tmdb": 464038,
+    "tvdb": null,
+    "trakt": 39980,
+    "traktType": "movies",
+    "shikimori": 83,
+    "livechart": 5269,
+    "animeplanet": "mobile-suit-gundam-the-08th-ms-team-millers-report",
+    "anisearch": 3426,
+    "notify": "WKpt5Kimg"
+  },
+  "title": {
+    "romaji": "Kidou Senshi Gundam: Dai 08 MS Shotai - Miller's Report",
+    "english": "Mobile Suit Gundam: The 08th MS Team - Miller's Report",
+    "native": "機動戦士ガンダム 第08MS小隊 ミラーズ・リポート",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 52,
+  "aired": {
+    "from": "1998-08-01T00:00:00+00:00",
+    "to": "1998-08-01"
+  },
+  "season": "summer",
+  "year": 1998,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.73,
+    "malScoredBy": 7363,
+    "malRank": 6286,
+    "malPopularity": 6172,
+    "malMembers": 15104,
+    "malFavorites": 6,
+    "anilistScore": 6.3,
+    "anilistPopularity": 3902,
+    "anilistFavourites": 17,
+    "anilistTrending": 0,
+    "kitsuRating": 6.76
+  },
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi",
+    "Mecha",
+    "Military",
+    "Action",
+    "War",
+    "Science Fiction"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [
+    "Sotsu",
+    "Atelier Musa"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1132/100198l.jpg",
+    "banner": null,
+    "color": "#78bbf1"
+  },
+  "trailer": null,
+  "synopsis": "Shortly after being rescued off the Himalayas, Federation Ensign Shiro Amada is accused of espionage due to his encounter with Zeon's top-secret mobile armor. Intelligence officer Alice Miller is assigned to investigate on Shiro's whereabouts during his disappearance. Her documented findings will determine whether or not Shiro is a traitor, and what his fate will be as commander of the 08th MS Team.\n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 81,
+      "title": {
+        "romaji": "Kidou Senshi Gundam: Dai 08 MS Shotai",
+        "english": "Mobile Suit Gundam: The 08th MS Team",
+        "native": "機動戦士ガンダム 第08MS小隊"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx81-qBgqd932d9lW.jpg",
+      "format": "OVA",
+      "episodes": 12,
+      "seasonYear": 1996,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 64205,
+      "title": {
+        "romaji": "Shounen to Gundam - Kidou Senshi Gundam 50-shuunen: Road to 50 - Prologue Movie",
+        "english": "A boy with GUNDAM | Mobile Suit Gundam 50th Anniversary - Road to 50 - Prologue Movie",
+        "native": "少年とガンダム｜機動戦士ガンダム50周年 -Road to 50- プロローグムービー"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212323-Ik8905FHBSLY.jpg",
+      "format": "ONA",
+      "episodes": 1,
+      "seasonYear": 2026,
+      "relationType": "CHARACTER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "55m",
+      "airDate": "1998-08-01",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 80784,
+      "tvdbId": 355307,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 51,
+      "image": "https://artworks.thetvdb.com/banners/episodes/80784/355307.jpg"
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Gundam Bigbang Project CM [Endless Waltz The Movie + Miller`s Report] (1:49)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T12:10:57.662Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

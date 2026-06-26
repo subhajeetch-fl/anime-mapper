@@ -1,0 +1,515 @@
+{
+  "id": 472,
+  "idMal": 472,
+  "mappings": {
+    "mal": 472,
+    "anilist": 472,
+    "anidb": 414,
+    "kitsu": 434,
+    "simkl": 40070,
+    "tmdb": 27346,
+    "tvdb": 81766,
+    "trakt": 63719,
+    "traktType": "shows",
+    "shikimori": 472,
+    "livechart": 5477,
+    "animeplanet": "to-heart",
+    "anisearch": 2354,
+    "notify": "s6Ho5FmiR"
+  },
+  "title": {
+    "romaji": "ToHeart",
+    "english": "To Heart",
+    "native": "ToHeart",
+    "synonyms": [
+      "ToHeart",
+      "トゥハート"
+    ]
+  },
+  "type": "TV",
+  "source": "Visual novel",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 13,
+  "episodeLength": 25,
+  "aired": {
+    "from": "1999-04-02T00:00:00+00:00",
+    "to": "1999-06-25T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 1999,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:35",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.63,
+    "malScoredBy": 10667,
+    "malRank": 7014,
+    "malPopularity": 4642,
+    "malMembers": 30972,
+    "malFavorites": 87,
+    "anilistScore": 6.4,
+    "anilistPopularity": 8624,
+    "anilistFavourites": 137,
+    "anilistTrending": 0,
+    "kitsuRating": 6.55
+  },
+  "genres": [
+    "Drama",
+    "Romance",
+    "Slice of Life",
+    "School",
+    "Harem",
+    "Earth",
+    "Japan",
+    "Asia",
+    "Coming Of Age",
+    "High School",
+    "School Life",
+    "Present"
+  ],
+  "studios": [
+    "OLM"
+  ],
+  "producers": [
+    "KSS"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/8/29922l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/472-SNXJ4aiBVhO8.jpg",
+    "color": "#f1e4c9"
+  },
+  "trailer": null,
+  "synopsis": "For as long as Akari can remember, she and Hiroyuki have always been friends. But with time, everything changes, and her feelings have turned into something more. As a new semester of high school begins, will the two childhood friends come closer together or drift further apart? Join Hiroyuki, Akari and all their friends—the bubbly Shiho, the quiet Serika, the lovely Kotone, and more—in this heartwarming tale of love, relationships and friendship!\n\n(Source: RightStuf)",
+  "sequence": [
+    {
+      "malId": 3977,
+      "title": {
+        "romaji": "To Heart Omake",
+        "english": "To Heart Special Mini-Episodes",
+        "native": "トゥハート おまけ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3977.jpg",
+      "format": "SPECIAL",
+      "episodes": 6,
+      "seasonYear": 1999,
+      "relationType": "SIDE_STORY"
+    },
+    {
+      "malId": 289,
+      "title": {
+        "romaji": "Comic Party",
+        "english": "Comic Party",
+        "native": "こみっくパーティー"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/289.jpg",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2001,
+      "relationType": "CHARACTER"
+    },
+    {
+      "malId": 685,
+      "title": {
+        "romaji": "ToHeart: Remember my memories",
+        "english": null,
+        "native": "ToHeart ～Remember my memories～"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx685-gZSSRd0ZxGvp.png",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2004,
+      "relationType": "SEQUEL"
+    },
+    {
+      "malId": 471,
+      "title": {
+        "romaji": "ToHeart2",
+        "english": "To Heart 2",
+        "native": "ToHeart2"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx471-azP1OUhYLJgS.png",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2005,
+      "relationType": "SPIN_OFF"
+    },
+    {
+      "malId": 3085,
+      "title": {
+        "romaji": "Koharu Biyori",
+        "english": "Indian Summer",
+        "native": "こはるびより"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3085.jpg",
+      "format": "OVA",
+      "episodes": 3,
+      "seasonYear": 2007,
+      "relationType": "CHARACTER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "1999-04-02",
+      "title": {
+        "en": "A Brand New Morning"
+      },
+      "tvdbShowId": 81766,
+      "tvdbId": 361275,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81766/361275.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "1999-04-09",
+      "title": {
+        "en": "After School Incident"
+      },
+      "tvdbShowId": 81766,
+      "tvdbId": 361276,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81766/361276.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "1999-04-16",
+      "title": {
+        "en": "In a Sunny Spot"
+      },
+      "tvdbShowId": 81766,
+      "tvdbId": 361277,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81766/361277.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "1999-04-23",
+      "title": {
+        "en": "Shining Moment"
+      },
+      "tvdbShowId": 81766,
+      "tvdbId": 361278,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81766/361278.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "1999-04-30",
+      "title": {
+        "en": "Beneath the Blue Sky"
+      },
+      "tvdbShowId": 81766,
+      "tvdbId": 361279,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81766/361279.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "1999-05-07",
+      "title": {
+        "en": "Admiration"
+      },
+      "tvdbShowId": 81766,
+      "tvdbId": 361280,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81766/361280.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "1999-05-14",
+      "title": {
+        "en": "Wavering Gaze"
+      },
+      "tvdbShowId": 81766,
+      "tvdbId": 361281,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81766/361281.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "1999-05-21",
+      "title": {
+        "en": "A Tranquil Time"
+      },
+      "tvdbShowId": 81766,
+      "tvdbId": 361282,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81766/361282.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "1999-05-28",
+      "title": {
+        "en": "Where the Heart Is"
+      },
+      "tvdbShowId": 81766,
+      "tvdbId": 361283,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81766/361283.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "1999-06-04",
+      "title": {
+        "en": "Dreaming Smile"
+      },
+      "tvdbShowId": 81766,
+      "tvdbId": 361284,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81766/361284.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "1999-06-11",
+      "title": {
+        "en": "A Warm Gaze"
+      },
+      "tvdbShowId": 81766,
+      "tvdbId": 361285,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81766/361285.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "1999-06-18",
+      "title": {
+        "en": "The Season of Emotions"
+      },
+      "tvdbShowId": 81766,
+      "tvdbId": 361286,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81766/361286.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "1999-06-25",
+      "title": {
+        "en": "On a Day of Snow"
+      },
+      "tvdbShowId": 81766,
+      "tvdbId": 361287,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81766/361287.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "6m",
+      "airDate": "",
+      "title": {
+        "en": "Omake 01 - The Usual Morning"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "5m",
+      "airDate": "",
+      "title": {
+        "en": "Omake 02 - Private Room"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "4m",
+      "airDate": "",
+      "title": {
+        "en": "Omake 03 - Hanging Out Together"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S4": {
+      "episode": "S4",
+      "length": "5m",
+      "airDate": "",
+      "title": {
+        "en": "Omake 04 - Monster Shock"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S5": {
+      "episode": "S5",
+      "length": "5m",
+      "airDate": "",
+      "title": {
+        "en": "Omake 05 - Good Story"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S6": {
+      "episode": "S6",
+      "length": "6m",
+      "airDate": "",
+      "title": {
+        "en": "Omake 06 - Class Has 0% Attendance Today"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "1999-04-02",
+      "title": {
+        "en": "Feeling Heart (1-2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "1999-04-02",
+      "title": {
+        "en": "Yell (1-2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "O1": {
+      "episode": "O1",
+      "length": "6m",
+      "airDate": "",
+      "title": {
+        "en": "To Heart Voice Actress DVD1 - Special Talk Live"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "O2": {
+      "episode": "O2",
+      "length": "5m",
+      "airDate": "",
+      "title": {
+        "en": "To Heart Voice Actress DVD2 - Special Talk Live"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T12:27:29.739Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": 975,
+  "idMal": 975,
+  "mappings": {
+    "mal": 975,
+    "anilist": 975,
+    "anidb": 424,
+    "kitsu": 865,
+    "simkl": 41611,
+    "tmdb": 79287,
+    "tvdb": 84509,
+    "trakt": 62157,
+    "traktType": "shows",
+    "shikimori": 975,
+    "livechart": 4693,
+    "animeplanet": "yokohama-kaidashi-kikou",
+    "anisearch": 2736,
+    "notify": "lrd15Kimg"
+  },
+  "title": {
+    "romaji": "Yokohama Kaidashi Kikou",
+    "english": "Yokohama Shopping Log",
+    "native": "ヨコハマ買い出し紀行",
+    "synonyms": [
+      "YKK",
+      "Yokohama Shopping Trip"
+    ]
+  },
+  "type": "OVA",
+  "source": null,
+  "status": "finished",
+  "airing": false,
+  "episodeCount": 2,
+  "episodeLength": 29,
+  "aired": {
+    "from": "1998-05-21",
+    "to": "1998-12-02"
+  },
+  "season": "spring",
+  "year": 1998,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "G",
+  "score": {
+    "malScore": null,
+    "malScoredBy": null,
+    "malRank": null,
+    "malPopularity": null,
+    "malMembers": null,
+    "malFavorites": null,
+    "anilistScore": 7.4,
+    "anilistPopularity": 20656,
+    "anilistFavourites": 665,
+    "anilistTrending": 1,
+    "kitsuRating": 7.42
+  },
+  "genres": [
+    "Sci-Fi",
+    "Slice of Life",
+    "Science Fiction",
+    "Japan",
+    "Asia",
+    "Earth",
+    "Future",
+    "Countryside"
+  ],
+  "studios": [
+    "Ajiado"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/865/original.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/975-6Fcen4DGT5vD.jpg",
+    "color": "#f1ae43"
+  },
+  "trailer": null,
+  "synopsis": "This is not so much a story as it is a slice of life. Or rather, it is a look into portions of the life of a girl named Alpha, together with the people around her. Alpha runs a little cafe on the outskirts of Yokohama. There are almost no customers, but Alpha does not mind at all since she has the occasional company of the old man who runs the gasoline stand down the road, as well as that of his grandson Takahiro. This is a Yokohama of the future, when the sea covers most of the land and roads have disappeared under sand or water. Alpha is in fact a robot, looking after the cafe during her owner's indefinite leave of absence.\n(Source: AniDB)",
+  "sequence": [
+    {
+      "malId": 976,
+      "title": {
+        "romaji": "Yokohama Kaidashi Kikou: Quiet Country Cafe",
+        "english": null,
+        "native": "ヨコハマ買い出し紀行 Quiet Country Cafe"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b976-UFu2ce0hl6O8.png",
+      "format": "OVA",
+      "episodes": 2,
+      "seasonYear": 2002,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "30m",
+      "airDate": "1998-05-21",
+      "title": {
+        "en": "Morning 2/2 - Afternoon 1/1 - Yielding"
+      },
+      "tvdbShowId": 84509,
+      "tvdbId": 422782,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/84509/422782.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "30m",
+      "airDate": "1998-12-02",
+      "title": {
+        "en": "Rain and the Aftermath - The Wind Blew - Yokosuka Cruise"
+      },
+      "tvdbShowId": 84509,
+      "tvdbId": 422783,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/84509/422783.jpg"
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Cafe Alpha (1-2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Heiten Jikan (1-2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T12:50:50.780Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

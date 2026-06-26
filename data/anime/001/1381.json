@@ -1,0 +1,123 @@
+{
+  "id": 1381,
+  "idMal": 1381,
+  "mappings": {
+    "mal": 1381,
+    "anilist": 1381,
+    "anidb": 1623,
+    "kitsu": 1235,
+    "simkl": 39470,
+    "tmdb": 26209,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 1381,
+    "livechart": null,
+    "animeplanet": "crest-of-the-stars-tokubetsu-hen",
+    "anisearch": 874,
+    "notify": "5WebcKmmg"
+  },
+  "title": {
+    "romaji": "Seikai no Monshou Soushuuhen",
+    "english": "Crest of the Stars Soushuu-hen",
+    "native": "星界の紋章 総集編",
+    "synonyms": []
+  },
+  "type": "SPECIAL",
+  "source": null,
+  "status": "finished",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 90,
+  "aired": {
+    "from": "2000-04-07",
+    "to": "2000-04-07"
+  },
+  "season": "spring",
+  "year": 2000,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "malScoredBy": null,
+    "malRank": null,
+    "malPopularity": null,
+    "malMembers": null,
+    "malFavorites": null,
+    "anilistScore": 6.2,
+    "anilistPopularity": 953,
+    "anilistFavourites": 2,
+    "anilistTrending": 0,
+    "kitsuRating": 7.38
+  },
+  "genres": [
+    "Action",
+    "Romance",
+    "Sci-Fi",
+    "Space",
+    "Military",
+    "Space Travel",
+    "Science Fiction",
+    "Space Battles",
+    "Space Opera",
+    "War"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/1235/original.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/1235/original.jpg",
+    "color": "#285d93"
+  },
+  "trailer": null,
+  "synopsis": "A compilation of the Seikai no Monshou series with additional footage.",
+  "sequence": [
+    {
+      "malId": 290,
+      "title": {
+        "romaji": "Seikai no Monshou",
+        "english": "Crest of the Stars",
+        "native": "星界の紋章"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx290-Bf2q1HYyKbNG.png",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 1999,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "90m",
+      "airDate": "2000-04-07",
+      "title": {
+        "en": "TV Special"
+      },
+      "tvdbShowId": 72025,
+      "tvdbId": 3531251,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 90,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T13:29:51.691Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

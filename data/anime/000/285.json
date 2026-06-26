@@ -1,0 +1,568 @@
+{
+  "id": 285,
+  "idMal": 285,
+  "mappings": {
+    "mal": 285,
+    "anilist": 285,
+    "anidb": 50,
+    "kitsu": 260,
+    "simkl": 36743,
+    "tmdb": 32535,
+    "tvdb": 78910,
+    "trakt": 32395,
+    "traktType": "shows",
+    "shikimori": 285,
+    "livechart": 5823,
+    "animeplanet": "argento-soma",
+    "anisearch": 1693,
+    "notify": "ouph5Kmig"
+  },
+  "title": {
+    "romaji": "Argento Soma",
+    "english": null,
+    "native": "アルジェント ソーマ",
+    "synonyms": [
+      "AΠHENTO ΣOMA",
+      "沉默的未知"
+    ]
+  },
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 25,
+  "episodeLength": 25,
+  "aired": {
+    "from": "2000-10-06T00:00:00+00:00",
+    "to": "2001-03-22T00:00:00+00:00"
+  },
+  "season": "fall",
+  "year": 2000,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:15",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.79,
+    "malScoredBy": 7980,
+    "malRank": 5911,
+    "malPopularity": 4640,
+    "malMembers": 30991,
+    "malFavorites": 96,
+    "anilistScore": 6.5,
+    "anilistPopularity": 8741,
+    "anilistFavourites": 88,
+    "anilistTrending": 0,
+    "kitsuRating": 6.67
+  },
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi",
+    "Action",
+    "Mecha",
+    "Military",
+    "Science Fiction",
+    "Earth",
+    "Revenge",
+    "Angst",
+    "Alien",
+    "War",
+    "Future",
+    "Plot Continuity"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/8/9440l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/285-4WMIofSxyP13.jpg",
+    "color": "#e4bba1"
+  },
+  "trailer": null,
+  "synopsis": "The 21st century was supposed to mark the beginning of mankind's golden age of space travel. However, humanity's lingering dreams of the stars are shelved when Earth suddenly comes under attack by alien entities. Trampling across the planet's surface, these giant invaders leave nothing but death and destruction in their wake.\n\nHaving suffered personal losses from the invasion, Takuto Kaneshiro joins the fight against the extraterrestrial enemies. In his quest for vengeance, the disillusioned young Takuto must seek out any possible allies, but the line between friend and foe is dangerously thin. When old powers crumble and new opportunities arise, many are prepared to capitalize on the chaos. Takuto soon realizes that the aliens may be the least complicated obstacle to uncovering the greater truth behind the catastrophic invasion.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 1789,
+      "title": {
+        "romaji": "Argento Soma Special",
+        "english": null,
+        "native": "アルジェントソーマ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1789.jpg",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "seasonYear": 2002,
+      "relationType": "SIDE_STORY"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2000-10-06",
+      "title": {
+        "en": "Rebirth and Death"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298932,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298932.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2000-10-13",
+      "title": {
+        "en": "Death and the Maiden"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298933,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298933.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2000-10-20",
+      "title": {
+        "en": "The Maiden and the Meeting"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298934,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298934.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2000-10-27",
+      "title": {
+        "en": "The Meeting and Hatred"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298935,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298935.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2000-11-03",
+      "title": {
+        "en": "Hatred and War"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298936,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298936.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2000-11-10",
+      "title": {
+        "en": "War and Escape"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298937,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298937.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2000-11-17",
+      "title": {
+        "en": "Escape and Memories"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298938,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298938.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2000-11-24",
+      "title": {
+        "en": "Memories and Loneliness"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298939,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298939.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2000-12-01",
+      "title": {
+        "en": "Loneliness and Sorrow"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298940,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298940.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2000-12-08",
+      "title": {
+        "en": "Sorrow and Malice"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298941,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298941.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2000-12-15",
+      "title": {
+        "en": "Malice and Betrayal"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298942,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298942.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2000-12-22",
+      "title": {
+        "en": "Betrayal and Despair"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298943,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298943.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2001-01-05",
+      "title": {
+        "en": "Despair and Hope"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298944,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298944.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "2001-01-12",
+      "title": {
+        "en": "Hope and Chaos"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298945,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298945.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "2001-01-19",
+      "title": {
+        "en": "Chaos and Confusion"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298946,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298946.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "2001-01-26",
+      "title": {
+        "en": "Confusion and Answers"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298947,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298947.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "2001-02-02",
+      "title": {
+        "en": "Answers and the Past"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298948,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298948.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "2001-02-09",
+      "title": {
+        "en": "The Past and Crimes"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298949,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298949.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "2001-02-16",
+      "title": {
+        "en": "Crimes and Punishments"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298950,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298950.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "2001-02-23",
+      "title": {
+        "en": "Punishments and Awakening"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298951,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298951.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "2001-03-02",
+      "title": {
+        "en": "Awakening and Truth"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298952,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298952.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "2001-03-09",
+      "title": {
+        "en": "Truth and Destruction"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298953,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298953.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "2001-03-16",
+      "title": {
+        "en": "Destruction and Courage"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298954,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298954.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "2001-03-23",
+      "title": {
+        "en": "Courage and Love"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298955,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298955.jpg"
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "2001-03-30",
+      "title": {
+        "en": "Love and Rebirth"
+      },
+      "tvdbShowId": 78910,
+      "tvdbId": 298956,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/episodes/78910/298956.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "25m",
+      "airDate": "2002-02-21",
+      "title": {
+        "en": "Alone and By Myself"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "0m",
+      "airDate": "",
+      "title": {
+        "en": "Silent Wind (2-24, S1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP2": {
+      "episode": "OP2",
+      "length": "0m",
+      "airDate": "",
+      "title": {
+        "en": "The Astronauts (25)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "0m",
+      "airDate": "",
+      "title": {
+        "en": "Horizon (1-24)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2": {
+      "episode": "ED2",
+      "length": "0m",
+      "airDate": "",
+      "title": {
+        "en": "A Wonderful World (Orchestra Version) (25)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T12:20:49.368Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

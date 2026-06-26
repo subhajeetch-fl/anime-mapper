@@ -1,0 +1,169 @@
+{
+  "id": 1420,
+  "idMal": 1420,
+  "mappings": {
+    "mal": 1420,
+    "anilist": 1420,
+    "anidb": 987,
+    "kitsu": 1273,
+    "simkl": 38662,
+    "tmdb": 80857,
+    "tvdb": null,
+    "trakt": 60271,
+    "traktType": "movies",
+    "shikimori": 1420,
+    "livechart": 9350,
+    "animeplanet": "lupin-the-3rd-special-4-from-siberia-with-love",
+    "anisearch": 1168,
+    "notify": "KFiacFimg"
+  },
+  "title": {
+    "romaji": "Lupin III: Russia yori Ai wo Komete",
+    "english": "Lupin the 3rd: From Siberia with Love",
+    "native": "ルパン三世『ロシアより愛をこめて』",
+    "synonyms": [
+      "Lupin Sansei: Russia Yori Ai o Komete",
+      "Lupin III: From Russia With Love",
+      "Lupin III- Il tesoro degli zar"
+    ]
+  },
+  "type": "SPECIAL",
+  "source": null,
+  "status": "finished",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 90,
+  "aired": {
+    "from": "1992-07-24",
+    "to": "1992-07-24"
+  },
+  "season": "summer",
+  "year": 1992,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "R",
+  "score": {
+    "malScore": null,
+    "malScoredBy": null,
+    "malRank": null,
+    "malPopularity": null,
+    "malMembers": null,
+    "malFavorites": null,
+    "anilistScore": 6.3,
+    "anilistPopularity": 2563,
+    "anilistFavourites": 4,
+    "anilistTrending": 0,
+    "kitsuRating": 6.75
+  },
+  "genres": [
+    "Action",
+    "Comedy",
+    "Mystery",
+    "Crime",
+    "Adventure",
+    "Russia",
+    "Thievery"
+  ],
+  "studios": [
+    "Tokyo Movie Shinsha"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/1273/original.jpg",
+    "banner": null,
+    "color": "#d61a28"
+  },
+  "trailer": null,
+  "synopsis": "This time Lupin is after 500 tons of gold bullion that used to belong to the House of Romanov, the last rulers of the Russian Empire. His only clue is a code in an old book that a cipher machine has broken down to the words \"Bank of Liberty.\" As always, whenever Lupin's involved, the situation gets complicated. This adventure takes him through the USA and Russia, with loads of action and classic Lupin-style escapades along the way.\n(Source: AniDB)",
+  "sequence": [
+    {
+      "malId": 1412,
+      "title": {
+        "romaji": "Lupin III",
+        "english": "Lupin the 3rd",
+        "native": "ルパン三世"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1412-70kA9bzDoleV.jpg",
+      "format": "TV",
+      "episodes": 23,
+      "seasonYear": 1971,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "90m",
+      "airDate": "1992-07-24",
+      "title": {
+        "en": "TV Special"
+      },
+      "tvdbShowId": 71863,
+      "tvdbId": 4301592,
+      "seasonNumber": 0,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 100,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4301592/screencap/61084bd02a4e2.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "45m",
+      "airDate": "1992-07-24",
+      "title": {
+        "en": "Part 1 of 2"
+      },
+      "tvdbShowId": 71863,
+      "tvdbId": 4301592,
+      "seasonNumber": 0,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 100,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4301592/screencap/61084bd02a4e2.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "45m",
+      "airDate": "1992-07-24",
+      "title": {
+        "en": "Part 2 of 2"
+      },
+      "tvdbShowId": 71863,
+      "tvdbId": 4301592,
+      "seasonNumber": 0,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 100,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4301592/screencap/61084bd02a4e2.jpg"
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "1992-07-24",
+      "title": {
+        "en": "Original japanese trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T13:35:20.657Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

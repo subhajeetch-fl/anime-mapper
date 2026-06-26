@@ -1,0 +1,185 @@
+{
+  "id": 1421,
+  "idMal": 1421,
+  "mappings": {
+    "mal": 1421,
+    "anilist": 1421,
+    "anidb": 2014,
+    "kitsu": 1274,
+    "simkl": 38796,
+    "tmdb": 80861,
+    "tvdb": null,
+    "trakt": 60274,
+    "traktType": "movies",
+    "shikimori": 1421,
+    "livechart": 12099,
+    "animeplanet": "lupin-the-3rd-special-2-the-hemingway-papers",
+    "anisearch": 2822,
+    "notify": "doma5KiiR"
+  },
+  "title": {
+    "romaji": "Lupin III: Hemingway Paper no Nazo",
+    "english": "Lupin the 3rd: The Hemingway Papers",
+    "native": "ルパン三世ヘミングウェイペーパーの謎",
+    "synonyms": [
+      "Rupan Sansei: Hemmingway Paper no Nazo",
+      "Lupin III: Mystery of the Hemingway Papers",
+      "Lupin III - Il mistero delle carte di Hemingway"
+    ]
+  },
+  "type": "SPECIAL",
+  "source": null,
+  "status": "finished",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 92,
+  "aired": {
+    "from": "1990-07-20",
+    "to": "1990-07-20"
+  },
+  "season": "summer",
+  "year": 1990,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "malScoredBy": null,
+    "malRank": null,
+    "malPopularity": null,
+    "malMembers": null,
+    "malFavorites": null,
+    "anilistScore": 6.6,
+    "anilistPopularity": 2796,
+    "anilistFavourites": 12,
+    "anilistTrending": 0,
+    "kitsuRating": 6.96
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Mystery",
+    "Action",
+    "Crime",
+    "Thievery",
+    "Present",
+    "Cops"
+  ],
+  "studios": [
+    "Tokyo Movie Shinsha"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/1274/poster_image/c987fade47637b035002888c60721432.jpg",
+    "banner": null,
+    "color": "#d6501a"
+  },
+  "trailer": null,
+  "synopsis": "A draft of Ernest Hemingway's final novel might hold the secret to an immense hidden treasure, and master thief Lupin the Third is on the hunt! He’ll have the help of his partners and the beautiful bartender Maria, but he'll have to contend with a local civil war, the mercenary Crazy Mash, and his super-wealthy boss Marces to get it.\n\n(Source: Discotek Media)",
+  "sequence": [
+    {
+      "malId": 1412,
+      "title": {
+        "romaji": "Lupin III",
+        "english": "Lupin the 3rd",
+        "native": "ルパン三世"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1412-70kA9bzDoleV.jpg",
+      "format": "TV",
+      "episodes": 23,
+      "seasonYear": 1971,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "90m",
+      "airDate": "1990-07-20",
+      "title": {
+        "en": "TV Special"
+      },
+      "tvdbShowId": 71863,
+      "tvdbId": 4301590,
+      "seasonNumber": 0,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 100,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4301590/screencap/6108664472fbc.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "45m",
+      "airDate": "1990-07-20",
+      "title": {
+        "en": "Part 1 of 2"
+      },
+      "tvdbShowId": 71863,
+      "tvdbId": 4301590,
+      "seasonNumber": 0,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 100,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4301590/screencap/6108664472fbc.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "45m",
+      "airDate": "1990-07-20",
+      "title": {
+        "en": "Part 2 of 2"
+      },
+      "tvdbShowId": 71863,
+      "tvdbId": 4301590,
+      "seasonNumber": 0,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 100,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4301590/screencap/6108664472fbc.jpg"
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Japanese trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Italian trailer on DVD edition"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T13:35:32.458Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

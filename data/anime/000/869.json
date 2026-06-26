@@ -1,0 +1,194 @@
+{
+  "id": 869,
+  "idMal": 869,
+  "mappings": {
+    "mal": 869,
+    "anilist": 869,
+    "anidb": 350,
+    "kitsu": 770,
+    "simkl": 39864,
+    "tmdb": 26318,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 869,
+    "livechart": 5569,
+    "animeplanet": "slayers-return",
+    "anisearch": 2089,
+    "notify": "OtX0cFmig"
+  },
+  "title": {
+    "romaji": "Slayers RETURN",
+    "english": null,
+    "native": "スレイヤーズRETURN",
+    "synonyms": [
+      "Slayers Movie 2"
+    ]
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "finished",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 60,
+  "aired": {
+    "from": "1996-08-03",
+    "to": "1996-08-03"
+  },
+  "season": "summer",
+  "year": 1996,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "malScoredBy": null,
+    "malRank": null,
+    "malPopularity": null,
+    "malMembers": null,
+    "malFavorites": null,
+    "anilistScore": 7,
+    "anilistPopularity": 4738,
+    "anilistFavourites": 24,
+    "anilistTrending": 1,
+    "kitsuRating": 7.36
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Magic",
+    "Fantasy World",
+    "Action"
+  ],
+  "studios": [
+    "J.C.STAFF"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/770/original.jpg",
+    "banner": null,
+    "color": "#e47850"
+  },
+  "trailer": null,
+  "synopsis": "The inhabitants of the village of Biaz, forced to labor in the serivce of the world-domination-happy Zein organization, hires Lina Inverse and Naga The Serpent to drive off the invaders. Lina and Naga agree, lured by stories of Elfin treasure sleeping below Biaz, only to get considerably more trouble -from the Zein and from the treasure - than they ever expected. \n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 536,
+      "title": {
+        "romaji": "Slayers Movie",
+        "english": "Slayers: The Motion Picture",
+        "native": "劇場版 スレイヤーズ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx536-j3i5b9EgIA1a.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1995,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 868,
+      "title": {
+        "romaji": "Slayers Great",
+        "english": null,
+        "native": "スレーヤーズぐれえと"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx868-R4rOWMZVjjvR.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1997,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "60m",
+      "airDate": "1996-08-03",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 77681,
+      "tvdbId": 415643,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 60,
+      "image": "https://artworks.thetvdb.com/banners/series/77681/episodes/5f757603e515a.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "40m",
+      "airDate": "1996-08-03",
+      "title": {
+        "en": "Part 1 of 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "1996-08-03",
+      "title": {
+        "en": "Part 2 of 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "PV1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "PV2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T12:42:02.383Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

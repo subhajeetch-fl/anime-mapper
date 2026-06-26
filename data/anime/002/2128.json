@@ -1,0 +1,910 @@
+{
+  "id": 2128,
+  "idMal": 2128,
+  "mappings": {
+    "mal": 2128,
+    "anilist": 2128,
+    "anidb": 1819,
+    "kitsu": 1925,
+    "simkl": 38601,
+    "tmdb": 9249,
+    "tvdb": 251649,
+    "trakt": 9202,
+    "traktType": "shows",
+    "shikimori": 2128,
+    "livechart": 7340,
+    "animeplanet": "yuusha-raideen",
+    "anisearch": 180,
+    "notify": "LiXYcFiig"
+  },
+  "title": {
+    "romaji": "Yuusha Raideen",
+    "english": null,
+    "native": "勇者ライディーン",
+    "synonyms": [
+      "Yusha Reideen",
+      "Brave Raideen",
+      "Reideen the Brave",
+      "Il Prode Raideen"
+    ]
+  },
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 50,
+  "episodeLength": 24,
+  "aired": {
+    "from": "1975-04-04T00:00:00+00:00",
+    "to": "1976-03-26T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 1975,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.68,
+    "malScoredBy": 865,
+    "malRank": 6696,
+    "malPopularity": 10425,
+    "malMembers": 3884,
+    "malFavorites": 9,
+    "anilistScore": 6.4,
+    "anilistPopularity": 1783,
+    "anilistFavourites": 19,
+    "anilistTrending": 0,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Adventure",
+    "Sci-Fi",
+    "Mecha",
+    "Action",
+    "Transforming Craft",
+    "Science Fiction",
+    "Piloted Robot",
+    "Stereotypes",
+    "Robot"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [
+    "Tohokushinsha Film Corporation"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1962/119355l.jpg",
+    "banner": null,
+    "color": "#d6351a"
+  },
+  "trailer": null,
+  "synopsis": "After a slumber of 12 millennia, the Demon Empire returns to seize control of the Earth. Reideen, the giant robot-like protector of the lost continent of Mu, senses the evil presence and awakens within its golden pyramid, revealing to young Japanese boy Akira Hibiki that he is the one descendant of the ancient Mu people who must help Reideen save Earth.\n\nHe was assisted by his friends, token girl Mari Sakurano (daughter of a scientist fighting the Demon Empire) and several members of his high school soccer team. \n\n(Source: AniDB)",
+  "sequence": [
+    {
+      "malId": 2127,
+      "title": {
+        "romaji": "Chouja Raideen",
+        "english": null,
+        "native": "超者ライディーン"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2127-BtlFFjcOOnJq.jpg",
+      "format": "TV",
+      "episodes": 38,
+      "seasonYear": 1996,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 1693,
+      "title": {
+        "romaji": "REIDEEN",
+        "english": null,
+        "native": "REIDEEN"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1693-ezouSDDTFY2C.jpg",
+      "format": "TV",
+      "episodes": 26,
+      "seasonYear": 2007,
+      "relationType": "ALTERNATIVE"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "1975-04-04",
+      "title": {
+        "en": "Great Demon Dragon Gante"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163614,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "1975-04-11",
+      "title": {
+        "en": "Giant Fossil Beast Bastodon"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163615,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "1975-04-18",
+      "title": {
+        "en": "Steel Beast Garda"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163616,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "1975-04-24",
+      "title": {
+        "en": "Great Madon Destroys Tokyo!"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163617,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "1975-05-02",
+      "title": {
+        "en": "Powerful Attack! Supersonic Beast Biira!"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163618,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "1975-05-09",
+      "title": {
+        "en": "Rescue! Captives of the Giant Tortoise"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163619,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "1975-05-16",
+      "title": {
+        "en": "Smash Splitting Beast Skarr"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163620,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "1975-05-23",
+      "title": {
+        "en": "Counterattack! Two-Headed Mystic Beast Shiva"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163621,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "1975-05-30",
+      "title": {
+        "en": "Terror! Manmou`s Frigid Tactics!"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163622,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "1975-06-06",
+      "title": {
+        "en": "Showdown! Fossil Man Jagger`s Love"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163623,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "1975-06-13",
+      "title": {
+        "en": "The Plot of Girudeen the Assassin"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163624,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "1975-06-20",
+      "title": {
+        "en": "The Fierce Attack of Fireball Beast Algandos"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163625,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "1975-06-27",
+      "title": {
+        "en": "The Love of Transforming Demon Beauty Shuraga"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163626,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "1975-07-04",
+      "title": {
+        "en": "The Cave of Daakuru, The Devil Beast of Darkness"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163627,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "1975-07-11",
+      "title": {
+        "en": "The Vengeance of Dian, The Jeweled Fossil Beast"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163628,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "1975-07-18",
+      "title": {
+        "en": "The Hell-Strike of Dorozuden, The Sea Dragon"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163630,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "1975-07-25",
+      "title": {
+        "en": "The Immortal Goremon Rips The Devil To Shreads"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163631,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "1975-08-01",
+      "title": {
+        "en": "The Heroic Agyaru`s Deadly Blitzkrieg"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163632,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "1975-08-08",
+      "title": {
+        "en": "The Colossal Gonga: The Roar of Demonic Strength"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163633,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "1975-08-15",
+      "title": {
+        "en": "Brutal! Devil Admiral Darudan"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163634,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "1975-08-22",
+      "title": {
+        "en": "Assault! Trap of Muchiru, The Winged Beast"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163635,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "1975-08-29",
+      "title": {
+        "en": "Chaotic Attack! The Talons of Kondorun, The Devil Bird"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163636,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "1975-09-05",
+      "title": {
+        "en": "The Supernatural Scythe of Girah & The Thunderous Attack of Moguron"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163637,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "1975-09-12",
+      "title": {
+        "en": "Supernatural Fists of Kibango, The Branching Devil Beast"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163638,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "1975-09-19",
+      "title": {
+        "en": "Conflagration of Modorosu, The Incandescent Beast"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163639,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "26": {
+      "episode": "26",
+      "length": "25m",
+      "airDate": "1975-09-26",
+      "title": {
+        "en": "The Wicked Gamereen`s Infernal Charge"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163640,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "27": {
+      "episode": "27",
+      "length": "25m",
+      "airDate": "1975-10-03",
+      "title": {
+        "en": "Fight The Devil Sharkin"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163641,
+      "seasonNumber": 1,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "28": {
+      "episode": "28",
+      "length": "25m",
+      "airDate": "1975-10-10",
+      "title": {
+        "en": "Roughneck Big Beast of Hell!"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163642,
+      "seasonNumber": 1,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "29": {
+      "episode": "29",
+      "length": "25m",
+      "airDate": "1975-10-17",
+      "title": {
+        "en": "Rzzar The Beast of Seven"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163643,
+      "seasonNumber": 1,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "30": {
+      "episode": "30",
+      "length": "25m",
+      "airDate": "1975-10-24",
+      "title": {
+        "en": "Crushed Skull Gamba Samson"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163644,
+      "seasonNumber": 1,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "31": {
+      "episode": "31",
+      "length": "25m",
+      "airDate": "1975-10-31",
+      "title": {
+        "en": "Tetsudan Upside Down Fear"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163645,
+      "seasonNumber": 1,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "32": {
+      "episode": "32",
+      "length": "25m",
+      "airDate": "1975-11-07",
+      "title": {
+        "en": "Doraiga Heart-Breaking Operations"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163646,
+      "seasonNumber": 1,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "33": {
+      "episode": "33",
+      "length": "25m",
+      "airDate": "1975-11-14",
+      "title": {
+        "en": "Veterinary Secrets of The Destroyer 11"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163647,
+      "seasonNumber": 1,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "34": {
+      "episode": "34",
+      "length": "25m",
+      "airDate": "1975-11-21",
+      "title": {
+        "en": "Mysterious Secret Weapon Dodger Gal"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163648,
+      "seasonNumber": 1,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "35": {
+      "episode": "35",
+      "length": "25m",
+      "airDate": "1975-11-28",
+      "title": {
+        "en": "Firedrake Salamander Flame Heat"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163649,
+      "seasonNumber": 1,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "36": {
+      "episode": "36",
+      "length": "25m",
+      "airDate": "1975-12-05",
+      "title": {
+        "en": "Madanga Hell Shooter"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163650,
+      "seasonNumber": 1,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "37": {
+      "episode": "37",
+      "length": "25m",
+      "airDate": "1975-12-12",
+      "title": {
+        "en": "Zaikuron Crashed Car Race"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163651,
+      "seasonNumber": 1,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "38": {
+      "episode": "38",
+      "length": "25m",
+      "airDate": "1975-12-19",
+      "title": {
+        "en": "Dansguth Shattered The Magic Play The Beast!"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163652,
+      "seasonNumber": 1,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "39": {
+      "episode": "39",
+      "length": "25m",
+      "airDate": "1975-12-26",
+      "title": {
+        "en": "Gigal Nails and Bizarre Wildlife"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163653,
+      "seasonNumber": 1,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "40": {
+      "episode": "40",
+      "length": "25m",
+      "airDate": "1976-01-02",
+      "title": {
+        "en": "Cross-Killer Jet Black"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163654,
+      "seasonNumber": 1,
+      "episodeNumber": 40,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "41": {
+      "episode": "41",
+      "length": "25m",
+      "airDate": "1976-01-16",
+      "title": {
+        "en": "Trap Combines Powerful Beast Gurdon"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163655,
+      "seasonNumber": 1,
+      "episodeNumber": 41,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "42": {
+      "episode": "42",
+      "length": "25m",
+      "airDate": "1976-01-23",
+      "title": {
+        "en": "Sandstorm San Killer Fear"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163656,
+      "seasonNumber": 1,
+      "episodeNumber": 42,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "43": {
+      "episode": "43",
+      "length": "25m",
+      "airDate": "1976-01-30",
+      "title": {
+        "en": "Shagon Animal Killer Combination"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163657,
+      "seasonNumber": 1,
+      "episodeNumber": 43,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "44": {
+      "episode": "44",
+      "length": "25m",
+      "airDate": "1976-02-06",
+      "title": {
+        "en": "Kibanga Inferno Attack"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163658,
+      "seasonNumber": 1,
+      "episodeNumber": 44,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "45": {
+      "episode": "45",
+      "length": "25m",
+      "airDate": "1976-02-20",
+      "title": {
+        "en": "Girumora Shears Devil Death"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163659,
+      "seasonNumber": 1,
+      "episodeNumber": 45,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "46": {
+      "episode": "46",
+      "length": "25m",
+      "airDate": "1976-02-27",
+      "title": {
+        "en": "Gabiron One Death Demons"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163661,
+      "seasonNumber": 1,
+      "episodeNumber": 46,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "47": {
+      "episode": "47",
+      "length": "25m",
+      "airDate": "1976-03-05",
+      "title": {
+        "en": "The Outraged Cries of Hell"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163662,
+      "seasonNumber": 1,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "48": {
+      "episode": "48",
+      "length": "25m",
+      "airDate": "1976-03-12",
+      "title": {
+        "en": "The Lightning Australian Army Challenges"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163663,
+      "seasonNumber": 1,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "49": {
+      "episode": "49",
+      "length": "25m",
+      "airDate": "1976-03-19",
+      "title": {
+        "en": "Barao`s Last Wage"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163664,
+      "seasonNumber": 1,
+      "episodeNumber": 49,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "50": {
+      "episode": "50",
+      "length": "25m",
+      "airDate": "1976-03-26",
+      "title": {
+        "en": "Shine! Raideen Immortal"
+      },
+      "tvdbShowId": 251649,
+      "tvdbId": 4163665,
+      "seasonNumber": 1,
+      "episodeNumber": 50,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "1975-04-04",
+      "title": {
+        "en": "Yuusha Raideen"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "1975-04-04",
+      "title": {
+        "en": "Ore wa Akira Da"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T14:12:32.638Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

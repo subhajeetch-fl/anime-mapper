@@ -1,0 +1,184 @@
+{
+  "id": 1348,
+  "idMal": 1348,
+  "mappings": {
+    "mal": 1348,
+    "anilist": 1348,
+    "anidb": 535,
+    "kitsu": 1203,
+    "simkl": 37352,
+    "tmdb": 44546,
+    "tvdb": 42882,
+    "trakt": 157705,
+    "traktType": "shows",
+    "shikimori": 1348,
+    "livechart": 8400,
+    "animeplanet": "bubblegum-crash",
+    "anisearch": 2246,
+    "notify": "uU_b5Fmig"
+  },
+  "title": {
+    "romaji": "Bubblegum Crash",
+    "english": "Bubblegum Crash",
+    "native": "バブルガムクラッシュ",
+    "synonyms": [
+      "Bubblegum Crisis Season 2",
+      "Bubblegum Crisis - Bubblegum Crash"
+    ]
+  },
+  "type": "OVA",
+  "source": null,
+  "status": "finished",
+  "airing": false,
+  "episodeCount": 3,
+  "episodeLength": 45,
+  "aired": {
+    "from": "1991-05-25",
+    "to": "1991-12-21"
+  },
+  "season": "spring",
+  "year": 1991,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "malScoredBy": null,
+    "malRank": null,
+    "malPopularity": null,
+    "malMembers": null,
+    "malFavorites": null,
+    "anilistScore": 6.2,
+    "anilistPopularity": 4579,
+    "anilistFavourites": 42,
+    "anilistTrending": 0,
+    "kitsuRating": 6.61
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mecha",
+    "Sci-Fi",
+    "Power Suit",
+    "Science Fiction",
+    "Tokyo",
+    "Cyberpunk"
+  ],
+  "studios": [
+    "Artmic"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/1203/original.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/1203/original.jpeg",
+    "color": "#e4436b"
+  },
+  "trailer": null,
+  "synopsis": "The saga of the Knight Sabers continues as the group tries to find out who or what is behind the recent string of robberies, murders, and Boomer malfunctions which are somehow related to the creation of an advanced artificial intelligence. Furthermore, it seems that the Knight Sabers may be breaking up. \n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 1347,
+      "title": {
+        "romaji": "Bubblegum Crisis",
+        "english": "Bubblegum Crisis",
+        "native": "バブルガムクライシス"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1347-4NzCZYQQwIjb.jpg",
+      "format": "OVA",
+      "episodes": 8,
+      "seasonYear": 1987,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "50m",
+      "airDate": "1991-05-25",
+      "title": {
+        "en": "Illegal Army"
+      },
+      "tvdbShowId": 73247,
+      "tvdbId": 904471,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 45,
+      "image": "https://artworks.thetvdb.com/banners/episodes/73247/904471.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "45m",
+      "airDate": "1991-07-25",
+      "title": {
+        "en": "Geo Climbers"
+      },
+      "tvdbShowId": 73247,
+      "tvdbId": 904481,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 45,
+      "image": "https://artworks.thetvdb.com/banners/episodes/73247/904481.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "45m",
+      "airDate": "1991-12-21",
+      "title": {
+        "en": "Meltdown"
+      },
+      "tvdbShowId": 73247,
+      "tvdbId": 904491,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 45,
+      "image": "https://artworks.thetvdb.com/banners/episodes/73247/904491.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Catch Me (English Version)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "AD Police Recruitment Video"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T13:25:31.661Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

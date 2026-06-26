@@ -1,0 +1,621 @@
+{
+  "id": 222,
+  "idMal": 222,
+  "mappings": {
+    "mal": 222,
+    "anilist": 222,
+    "anidb": 998,
+    "kitsu": 198,
+    "simkl": 36753,
+    "tmdb": 12174,
+    "tvdb": 79446,
+    "trakt": 12121,
+    "traktType": "shows",
+    "shikimori": 222,
+    "livechart": 6853,
+    "animeplanet": "mezzo-dsa",
+    "anisearch": 2540,
+    "notify": "Lpm25FiiR"
+  },
+  "title": {
+    "romaji": "MEZZO",
+    "english": "Mezzo",
+    "native": "MEZZO -メゾ-",
+    "synonyms": [
+      "Mezzo Danger Service Agency",
+      "Mezzo Forte TV",
+      "Mezzo TV Danger Service Agency",
+      "Mezzo DSA"
+    ]
+  },
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 13,
+  "episodeLength": 25,
+  "aired": {
+    "from": "2004-01-04T00:00:00+00:00",
+    "to": "2004-03-28T00:00:00+00:00"
+  },
+  "season": "winter",
+  "year": 2004,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "R+ - Mild Nudity",
+  "score": {
+    "malScore": 6.67,
+    "malScoredBy": 9687,
+    "malRank": 6731,
+    "malPopularity": 4869,
+    "malMembers": 27615,
+    "malFavorites": 86,
+    "anilistScore": 6.2,
+    "anilistPopularity": 7016,
+    "anilistFavourites": 74,
+    "anilistTrending": 0,
+    "kitsuRating": 6.62
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Mystery",
+    "Sci-Fi",
+    "Asia",
+    "Present",
+    "Japan",
+    "Violence",
+    "Earth",
+    "Bounty Hunter",
+    "Crime",
+    "Alternative Present",
+    "Science Fiction"
+  ],
+  "studios": [
+    "Arms"
+  ],
+  "producers": [
+    "Studio Pierrot",
+    "Shochiku",
+    "Memory-Tech",
+    "Happinet Pictures",
+    "Arts Pro"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/9/3235l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/222-PT0G4Rt9Z28C.jpg",
+    "color": "#f1bb50"
+  },
+  "trailer": null,
+  "synopsis": "Mikura, Kurokawa, and Harada are the 3 members of the Danger Service Agency (DSA). Mikura is the brawns of the group, Harada is the brains, and Kurokawa is just a bitter ex-cop that likes to think he's in charge. They'll take on any job as long as it involves lots of danger and, of course, money. If you want to live long enough to eat dinner, you better not cross them. Their biggest case, however, could prove to be finding out why someone wants Kurokawa assassinated. \n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 221,
+      "title": {
+        "romaji": "Mezzo Forte",
+        "english": "Mezzo Forte",
+        "native": "メゾフォルテ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx221-OIx9EYxmjTxB.png",
+      "format": "OVA",
+      "episodes": 2,
+      "seasonYear": 2000,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2004-01-04",
+      "title": {
+        "en": "Shell of Love"
+      },
+      "tvdbShowId": 79446,
+      "tvdbId": 349817,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79446/349817.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2004-01-11",
+      "title": {
+        "en": "Shell of Stars"
+      },
+      "tvdbShowId": 79446,
+      "tvdbId": 349818,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79446/349818.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2004-01-18",
+      "title": {
+        "en": "Shell of Fear"
+      },
+      "tvdbShowId": 79446,
+      "tvdbId": 349819,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79446/349819.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2004-01-25",
+      "title": {
+        "en": "Shell of Lies (Episode Posi)"
+      },
+      "tvdbShowId": 79446,
+      "tvdbId": 349820,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79446/349820.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2004-02-01",
+      "title": {
+        "en": "Shell of Lies (Episode Nega)"
+      },
+      "tvdbShowId": 79446,
+      "tvdbId": 349821,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79446/349821.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2004-02-08",
+      "title": {
+        "en": "Shell of Memories"
+      },
+      "tvdbShowId": 79446,
+      "tvdbId": 349822,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79446/349822.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2004-02-15",
+      "title": {
+        "en": "Shell of Sorrow"
+      },
+      "tvdbShowId": 79446,
+      "tvdbId": 349823,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79446/349823.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2004-02-22",
+      "title": {
+        "en": "Shell of Thoughts"
+      },
+      "tvdbShowId": 79446,
+      "tvdbId": 349824,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79446/349824.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2004-02-29",
+      "title": {
+        "en": "Shell of Dreams"
+      },
+      "tvdbShowId": 79446,
+      "tvdbId": 349825,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79446/349825.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2004-03-07",
+      "title": {
+        "en": "Shell of Curses"
+      },
+      "tvdbShowId": 79446,
+      "tvdbId": 349826,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79446/349826.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2004-03-14",
+      "title": {
+        "en": "Shell of Illusion"
+      },
+      "tvdbShowId": 79446,
+      "tvdbId": 349827,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79446/349827.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2004-03-21",
+      "title": {
+        "en": "Shell of Origin"
+      },
+      "tvdbShowId": 79446,
+      "tvdbId": 349828,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79446/349828.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2004-03-28",
+      "title": {
+        "en": "Shell of Destruction"
+      },
+      "tvdbShowId": 79446,
+      "tvdbId": 396057,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79446/396057.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "8m",
+      "airDate": "",
+      "title": {
+        "en": "Special Talk"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "7m",
+      "airDate": "",
+      "title": {
+        "en": "Production Sketches 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "9m",
+      "airDate": "",
+      "title": {
+        "en": "Production Sketches 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S4": {
+      "episode": "S4",
+      "length": "9m",
+      "airDate": "",
+      "title": {
+        "en": "Production Sketches 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "2004-01-04",
+      "title": {
+        "en": "Suki Mami Mai Tai (1-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "2004-01-04",
+      "title": {
+        "en": "Mitsu (1-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Promo"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "P1": {
+      "episode": "P1",
+      "length": "25m",
+      "airDate": "",
+      "title": {
+        "en": "Fandub - Episode 01"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "P2": {
+      "episode": "P2",
+      "length": "25m",
+      "airDate": "",
+      "title": {
+        "en": "Fandub - Episode 02"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "P3": {
+      "episode": "P3",
+      "length": "25m",
+      "airDate": "",
+      "title": {
+        "en": "Fandub - Episode 03"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "P4": {
+      "episode": "P4",
+      "length": "25m",
+      "airDate": "",
+      "title": {
+        "en": "Fandub - Episode 04"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "P5": {
+      "episode": "P5",
+      "length": "25m",
+      "airDate": "",
+      "title": {
+        "en": "Fandub - Episode 05"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "P6": {
+      "episode": "P6",
+      "length": "25m",
+      "airDate": "",
+      "title": {
+        "en": "Fandub - Episode 06"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "P7": {
+      "episode": "P7",
+      "length": "25m",
+      "airDate": "",
+      "title": {
+        "en": "Fandub - Episode 07"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "P8": {
+      "episode": "P8",
+      "length": "25m",
+      "airDate": "",
+      "title": {
+        "en": "Fandub - Episode 08"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "P9": {
+      "episode": "P9",
+      "length": "25m",
+      "airDate": "",
+      "title": {
+        "en": "Fandub - Episode 09"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "P10": {
+      "episode": "P10",
+      "length": "25m",
+      "airDate": "",
+      "title": {
+        "en": "Fandub - Episode 10"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "P11": {
+      "episode": "P11",
+      "length": "25m",
+      "airDate": "",
+      "title": {
+        "en": "Fandub - Episode 11"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "P12": {
+      "episode": "P12",
+      "length": "25m",
+      "airDate": "",
+      "title": {
+        "en": "Fandub - Episode 12"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "P13": {
+      "episode": "P13",
+      "length": "25m",
+      "airDate": "",
+      "title": {
+        "en": "Fandub - Episode 13"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T12:18:17.158Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

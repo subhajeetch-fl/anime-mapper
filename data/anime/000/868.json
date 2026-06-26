@@ -1,0 +1,194 @@
+{
+  "id": 868,
+  "idMal": 868,
+  "mappings": {
+    "mal": 868,
+    "anilist": 868,
+    "anidb": 437,
+    "kitsu": 769,
+    "simkl": 41591,
+    "tmdb": 26318,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 868,
+    "livechart": 5991,
+    "animeplanet": "slayers-great",
+    "anisearch": 545,
+    "notify": "eHXAcFmig"
+  },
+  "title": {
+    "romaji": "Slayers Great",
+    "english": null,
+    "native": "スレーヤーズぐれえと",
+    "synonyms": [
+      "Slayers Movie 3"
+    ]
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "finished",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 59,
+  "aired": {
+    "from": "1997-08-02",
+    "to": "1997-08-02"
+  },
+  "season": "summer",
+  "year": 1997,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "malScoredBy": null,
+    "malRank": null,
+    "malPopularity": null,
+    "malMembers": null,
+    "malFavorites": null,
+    "anilistScore": 7,
+    "anilistPopularity": 4531,
+    "anilistFavourites": 28,
+    "anilistTrending": 0,
+    "kitsuRating": 7.36
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Magic",
+    "Fantasy World",
+    "Action"
+  ],
+  "studios": [
+    "J.C.STAFF"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/769/original.jpg",
+    "banner": null,
+    "color": "#d61a1a"
+  },
+  "trailer": null,
+  "synopsis": "Laia Einburg wants for her father Galia, who is a talented golom maker, and her equally ambitious brother Huey to end a long running feud. But her luck changes for the worse when Lina Inverse and Naga the Serpent save Laia from a rampaging golem. \n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 869,
+      "title": {
+        "romaji": "Slayers RETURN",
+        "english": null,
+        "native": "スレイヤーズRETURN"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx869-QTbtFWkoKzWl.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1996,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 867,
+      "title": {
+        "romaji": "Slayers Gorgeous",
+        "english": "Slayers Gorgeous",
+        "native": "スレイヤーズごぅじゃす"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx867-7KYmDWP4S43Q.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1998,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "60m",
+      "airDate": "1997-08-02",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 77681,
+      "tvdbId": 415617,
+      "seasonNumber": 0,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 60,
+      "image": "https://artworks.thetvdb.com/banners/series/77681/episodes/5f7576a1794ee.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "35m",
+      "airDate": "1997-08-02",
+      "title": {
+        "en": "Part 1 of 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "30m",
+      "airDate": "1997-08-02",
+      "title": {
+        "en": "Part 2 of 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "PV"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T12:41:50.809Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

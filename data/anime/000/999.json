@@ -1,0 +1,187 @@
+{
+  "id": 999,
+  "idMal": 999,
+  "mappings": {
+    "mal": 999,
+    "anilist": 999,
+    "anidb": 385,
+    "kitsu": 889,
+    "simkl": 36136,
+    "tmdb": 12634,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 999,
+    "livechart": 7066,
+    "animeplanet": "blue-seed-beyond",
+    "anisearch": 412,
+    "notify": "4H21cKmmR"
+  },
+  "title": {
+    "romaji": "BLUE SEED 2",
+    "english": "Blue Seed Beyond",
+    "native": "BLUE SEED 2",
+    "synonyms": [
+      "ブルーシード 2",
+      "Blue Seed 2: Operation Mitama",
+      "Blue Seed OVA"
+    ]
+  },
+  "type": "OVA",
+  "source": null,
+  "status": "finished",
+  "airing": false,
+  "episodeCount": 3,
+  "episodeLength": 28,
+  "aired": {
+    "from": "1996-07-24",
+    "to": "1998-02-04"
+  },
+  "season": "summer",
+  "year": 1996,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "R",
+  "score": {
+    "malScore": null,
+    "malScoredBy": null,
+    "malRank": null,
+    "malPopularity": null,
+    "malMembers": null,
+    "malFavorites": null,
+    "anilistScore": 6,
+    "anilistPopularity": 1780,
+    "anilistFavourites": 10,
+    "anilistTrending": 0,
+    "kitsuRating": 6.75
+  },
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Horror",
+    "Sci-Fi",
+    "Supernatural",
+    "Mystery",
+    "Ecchi",
+    "Science Fiction"
+  ],
+  "studios": [
+    "Production I.G",
+    "Xebec"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/889/original.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/889/original.jpg",
+    "color": "#d6781a"
+  },
+  "trailer": null,
+  "synopsis": "A renegade scientist in San Francisco has found a way to create a new creature called a Neo-Aragami without the power of Susanoo. When these monsters start to terrorize California, the U.S. turns to the old members of the Terrestrial Administration Center (TAC) for help. \n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 998,
+      "title": {
+        "romaji": "BLUE SEED",
+        "english": "Blue Seed",
+        "native": "BLUE SEED"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx998-sd9hvMtHysHW.jpg",
+      "format": "TV",
+      "episodes": 26,
+      "seasonYear": 1994,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "30m",
+      "airDate": "1996-07-24",
+      "title": {
+        "en": "Mission: Eradicate Kushinada, Operation Mitama, Phase I"
+      },
+      "tvdbShowId": 76695,
+      "tvdbId": 431228,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 28,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "30m",
+      "airDate": "1996-08-21",
+      "title": {
+        "en": "Mission: Eradicate Kushinada, Operation Mitama, Phase II"
+      },
+      "tvdbShowId": 76695,
+      "tvdbId": 431229,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 29,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "30m",
+      "airDate": "1998-02-04",
+      "title": {
+        "en": "Six Babes Bathing in a Killer Hot Spring"
+      },
+      "tvdbShowId": 76695,
+      "tvdbId": 431230,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 30,
+      "image": null
+    },
+    "C1": {
+      "episode": "C1",
+      "length": "0m",
+      "airDate": "",
+      "title": {
+        "en": "Ending"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C2": {
+      "episode": "C2",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Opening"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-26T12:53:16.021Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin",
+      "simkl"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}
