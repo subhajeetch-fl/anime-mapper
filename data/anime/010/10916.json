@@ -1,0 +1,157 @@
+{
+  "id": 10916,
+  "idMal": 10916,
+  "mappings": {
+    "mal": 10916,
+    "anilist": 10916,
+    "anidb": 3492,
+    "kitsu": 6404,
+    "simkl": 40897,
+    "tmdb": 60572,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 10916,
+    "livechart": 5371,
+    "animeplanet": "pokemon-pikachus-winter-vacation-2000",
+    "anisearch": 2658,
+    "notify": "MGRSpFiiR"
+  },
+  "title": {
+    "romaji": "Pikachu no Fuyuyasumi 2000",
+    "english": "Pokémon: Pikachu's Winter Vacation (2000)",
+    "native": "ピカチュウのふゆやすみ2000",
+    "synonyms": [
+      "Pocket Monsters: Pikachu no Fuyuyasumi (2000)",
+      "Let's Play on the Ice!",
+      "Winter Games",
+      "Stantler's Little Helpers"
+    ]
+  },
+  "type": "OVA",
+  "source": "Game",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 2,
+  "episodeLength": 11,
+  "aired": {
+    "from": "1999-12-22T00:00:00+00:00",
+    "to": "1999-12-22"
+  },
+  "season": "fall",
+  "year": 1999,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 6.43,
+    "anilistScore": 6.1,
+    "kitsuRating": 6.44
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Kids"
+  ],
+  "studios": [
+    "OLM"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1910/108234l.jpg",
+    "banner": null,
+    "color": "#e4d650"
+  },
+  "trailer": null,
+  "synopsis": "Pikachu's Winter Vacations are three series of videos, each composed of several Pikachu shorts. All shorts deal with winter and Christmas. This is the second series and contains Winter Games &amp; Stantler's Little Helpers.",
+  "sequence": [
+    {
+      "malId": 527,
+      "title": {
+        "romaji": "Pocket Monsters",
+        "english": "Pokémon",
+        "native": "ポケットモンスター"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b527-t6dBVJ5OVcXK.png",
+      "format": "TV",
+      "episodes": 276,
+      "seasonYear": 1997,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 4874,
+      "title": {
+        "romaji": "Pikachu no Fuyuyasumi",
+        "english": "Pokémon: Pikachu's Winter Vacation",
+        "native": "ピカチュウのふゆやすみ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4874.jpg",
+      "format": "OVA",
+      "episodes": 2,
+      "seasonYear": 1999,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 10917,
+      "title": {
+        "romaji": "Pichu to Pikachu no Fuyuyasumi 2001",
+        "english": "Pokémon: Pikachu's Winter Vacation (2001)",
+        "native": "ピチューとピカチュウのふゆやすみ2001"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx10917-2RIr9c3BbivO.jpg",
+      "format": "OVA",
+      "episodes": 3,
+      "seasonYear": 2000,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "9m",
+      "airDate": "1999-12-22",
+      "title": {
+        "en": "Winter Games"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 4231614,
+      "seasonNumber": 0,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76703/4231614.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "15m",
+      "airDate": "1999-12-22",
+      "title": {
+        "en": "Stantler`s Little Helpers"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 4231614,
+      "seasonNumber": 0,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76703/4231614.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T14:40:17.508Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

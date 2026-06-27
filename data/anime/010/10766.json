@@ -1,0 +1,127 @@
+{
+  "id": 10766,
+  "idMal": 10766,
+  "mappings": {
+    "mal": 10766,
+    "anilist": 10766,
+    "anidb": 8534,
+    "kitsu": 6341,
+    "simkl": 41392,
+    "tmdb": 30983,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 10766,
+    "livechart": 7745,
+    "animeplanet": "detective-conan-vs-wooo",
+    "anisearch": 7211,
+    "notify": "FVy4tKiig"
+  },
+  "title": {
+    "romaji": "Meitantei Conan vs. Wooo",
+    "english": "Detective Conan vs. Wooo",
+    "native": "名探偵コナン vs Wooo",
+    "synonyms": []
+  },
+  "type": "ONA",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 2,
+  "episodeLength": 7,
+  "aired": {
+    "from": "2011-04-22T00:00:00+00:00",
+    "to": "2011-06-23T00:00:00+00:00"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.12,
+    "anilistScore": 5.5,
+    "kitsuRating": 6.48
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Mystery",
+    "Police",
+    "Cops"
+  ],
+  "studios": [
+    "TMS Entertainment"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/7/29671l.jpg",
+    "banner": null,
+    "color": "#e48628"
+  },
+  "trailer": null,
+  "synopsis": "A web series \"Detective Conan vs. Wooo.\" This web short is an advertisement for the Wooo line of televisions in Japan.",
+  "sequence": [
+    {
+      "malId": 235,
+      "title": {
+        "romaji": "Meitantei Conan",
+        "english": "Detective Conan",
+        "native": "名探偵コナン"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": 1996,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "6m",
+      "airDate": "2011-04-22",
+      "title": {
+        "en": "Fatuous Detective!? Mouri Kogorou"
+      },
+      "tvdbShowId": 72454,
+      "tvdbId": 4098565,
+      "seasonNumber": 0,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "8m",
+      "airDate": "2011-07-09",
+      "title": {
+        "en": "Talent Yuuki Maomi`s Worries"
+      },
+      "tvdbShowId": 72454,
+      "tvdbId": 4128998,
+      "seasonNumber": 0,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/72454/4128998.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T14:37:21.361Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

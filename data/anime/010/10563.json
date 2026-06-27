@@ -1,0 +1,110 @@
+{
+  "id": 10563,
+  "idMal": 10563,
+  "mappings": {
+    "mal": 10563,
+    "anilist": 10563,
+    "anidb": 7663,
+    "kitsu": 6242,
+    "simkl": 40608,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 10563,
+    "livechart": 12556,
+    "animeplanet": null,
+    "anisearch": 6324,
+    "notify": "LJv4pFmmg"
+  },
+  "title": {
+    "romaji": "Yakyuukyou no Uta: Kita no Ookami Minami no Tora",
+    "english": null,
+    "native": "野球狂の詩 北の狼南の虎",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 88,
+  "aired": {
+    "from": "1979-09-15T00:00:00+00:00",
+    "to": "1979-09-15"
+  },
+  "season": "fall",
+  "year": 1979,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.21,
+    "anilistScore": 6.3,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Drama",
+    "Sports",
+    "Action"
+  ],
+  "studios": [
+    "Nippon Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/9/29016l.jpg",
+    "banner": null,
+    "color": "#e45d35"
+  },
+  "trailer": null,
+  "synopsis": "A re-edited version of episodes 13 and 14 of the TV series. Double billed with Mirai Shounen Conan movie in the cinemas.\n\n(Source: AniDB)",
+  "sequence": [
+    {
+      "malId": 10554,
+      "title": {
+        "romaji": "Yakyuukyou no Uta",
+        "english": null,
+        "native": "野球狂の詩"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10554.jpg",
+      "format": "TV",
+      "episodes": 25,
+      "seasonYear": 1977,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "90m",
+      "airDate": "1979-09-15",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T14:33:12.518Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

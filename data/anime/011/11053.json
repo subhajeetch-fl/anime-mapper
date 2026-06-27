@@ -1,0 +1,146 @@
+{
+  "id": 11053,
+  "idMal": 11053,
+  "mappings": {
+    "mal": 11053,
+    "anilist": 11053,
+    "anidb": 8542,
+    "kitsu": 6447,
+    "simkl": 536010,
+    "tmdb": 160642,
+    "tvdb": null,
+    "trakt": 103830,
+    "traktType": "movies",
+    "shikimori": 11053,
+    "livechart": 8659,
+    "animeplanet": "doraemon-movie-32-nobita-to-kiseki-no-shima-animal-adventure",
+    "anisearch": 7292,
+    "notify": "TRVIpFiiR"
+  },
+  "title": {
+    "romaji": "Doraemon: Nobita to Kiseki no Shima - Animal Adventure",
+    "english": null,
+    "native": "ドラえもん のび太と奇跡の島 ～アニマル アドベンチャー～",
+    "synonyms": [
+      "Doraemon: Nobita and the Miracle Island - Animal Adventure",
+      "Doraemon: En Busca del Escarabajo Dorado"
+    ]
+  },
+  "type": "Movie",
+  "source": "Unknown",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 100,
+  "aired": {
+    "from": "2012-03-03T00:00:00+00:00",
+    "to": "2012-03-03"
+  },
+  "season": "winter",
+  "year": 2012,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 7.35,
+    "anilistScore": 7,
+    "kitsuRating": 7.11
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Kids"
+  ],
+  "studios": [
+    "Shin-Ei Animation"
+  ],
+  "producers": [
+    "Tokyo Movie Shinsha"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/7/72437l.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/6447/original.jpg",
+    "color": "#f1d635"
+  },
+  "trailer": null,
+  "synopsis": "Nobita and his dad buy a big rhinoceros beetle, which he promises to his dad to take good care of it. Later, Doraemon's group finds a strange island where a tribe co-exists with prehistoric creatures long believed to extinct yet preserved by a mythical beetle spirit named Golden Hercules. However, the group has to deal with a group of criminals from the future who intend to capture Golden Hercules for a profit.\n\n(Source: Wikipedia)",
+  "sequence": [
+    {
+      "malId": 8687,
+      "title": {
+        "romaji": "Doraemon (2005)",
+        "english": null,
+        "native": "ドラえもん (2005)"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": 2005,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "100m",
+      "airDate": "2012-03-03",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "2012-03-03",
+      "title": {
+        "en": "Yume o Kanaete Doraemon (1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "4m",
+      "airDate": "2012-03-03",
+      "title": {
+        "en": "Ikiteru Ikiteku (1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T14:41:49.850Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

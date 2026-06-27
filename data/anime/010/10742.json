@@ -1,0 +1,123 @@
+{
+  "id": 10742,
+  "idMal": 10742,
+  "mappings": {
+    "mal": 10742,
+    "anilist": 10742,
+    "anidb": 5384,
+    "kitsu": 6329,
+    "simkl": 40557,
+    "tmdb": 381330,
+    "tvdb": null,
+    "trakt": 539430,
+    "traktType": "movies",
+    "shikimori": 10742,
+    "livechart": 6869,
+    "animeplanet": "saru-to-kani-no-gassen",
+    "anisearch": 6606,
+    "notify": "A_Y4pKmmg"
+  },
+  "title": {
+    "romaji": "Saru to Kani no Gassen",
+    "english": null,
+    "native": "サルとカニの合戦",
+    "synonyms": [
+      "The Battle of the Monkey and the Crab"
+    ]
+  },
+  "type": "Movie",
+  "source": "Other",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 6,
+  "aired": {
+    "from": "1917-05-20T00:00:00+00:00",
+    "to": "1917-05-20"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 4.89,
+    "anilistScore": 4.3,
+    "kitsuRating": 5.6
+  },
+  "genres": [
+    "Drama"
+  ],
+  "studios": [],
+  "producers": [
+    "Nikkatsu"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/4/83742l.jpg",
+    "banner": null,
+    "color": "#a1355d"
+  },
+  "trailer": null,
+  "synopsis": "A monkey tricks a crab and steals his food. More crabs arrive and begin fighting the monkey.\n\n(Source: AniDB)",
+  "sequence": [
+    {
+      "malId": 35391,
+      "title": {
+        "romaji": "Saru Kani Gassen",
+        "english": "Yasuji Murata's Monkey and the Crabs",
+        "native": "猿蟹合戰"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104547-YT4KPOD5gOYr.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 30045,
+      "title": {
+        "romaji": "Shin Saru Kani Gassen",
+        "english": null,
+        "native": "新猿蟹合戦"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102627-UkuuH2B8cXQb.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "ALTERNATIVE"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "0m",
+      "airDate": "1917-05-20",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T14:36:42.389Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

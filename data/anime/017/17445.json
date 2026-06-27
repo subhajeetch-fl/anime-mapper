@@ -1,0 +1,181 @@
+{
+  "id": 17445,
+  "idMal": 17445,
+  "mappings": {
+    "mal": 17445,
+    "anilist": 17445,
+    "anidb": 7633,
+    "kitsu": 9414,
+    "simkl": 1572187,
+    "tmdb": 118453,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 17445,
+    "livechart": 11656,
+    "animeplanet": "kyojin-no-hoshi-movie-3-dai-league-ball",
+    "anisearch": 6308,
+    "notify": "PwpBtKmiR"
+  },
+  "title": {
+    "romaji": "Kyojin no Hoshi: Dai League Ball",
+    "english": null,
+    "native": "巨人の星 大リーグボール",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Unknown",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 70,
+  "aired": {
+    "from": "1970-03-21T00:00:00+00:00",
+    "to": "1970-03-21"
+  },
+  "season": "spring",
+  "year": 1970,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.03,
+    "anilistScore": 4.7,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Drama",
+    "Sports",
+    "Baseball"
+  ],
+  "studios": [],
+  "producers": [
+    "Tokyo Movie Shinsha"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1367/139181l.jpg",
+    "banner": null,
+    "color": "#e4e40d"
+  },
+  "trailer": null,
+  "synopsis": "Third Kyojin no Hoshi movie.",
+  "sequence": [
+    {
+      "malId": 5834,
+      "title": {
+        "romaji": "Kyojin no Hoshi",
+        "english": null,
+        "native": "巨人の星"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5834-MOjnHPAqVfPG.png",
+      "format": "TV",
+      "episodes": 182,
+      "seasonYear": 1968,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 17443,
+      "title": {
+        "romaji": "Kyojin no Hoshi: Ike Ike Hyuuma",
+        "english": null,
+        "native": "巨人の星 行け行け飛雄馬"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17443-R80j0dnwOiWl.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1969,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 17447,
+      "title": {
+        "romaji": "Kyojin no Hoshi: Shukumei no Taiketsu",
+        "english": null,
+        "native": "巨人の星 宿命の対決"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17447-4vlVn0qp7HPz.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1970,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "70m",
+      "airDate": "1970-03-21",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 293065,
+      "tvdbId": 9565548,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 70,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "35m",
+      "airDate": "1970-08-01",
+      "title": {
+        "en": "Part 1 of 2"
+      },
+      "tvdbShowId": 293065,
+      "tvdbId": 9565549,
+      "seasonNumber": 0,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 60,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "35m",
+      "airDate": "1982-08-21",
+      "title": {
+        "en": "Part 2 of 2"
+      },
+      "tvdbShowId": 293065,
+      "tvdbId": 9565550,
+      "seasonNumber": 0,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 110,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T15:32:58.206Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": 18061,
+  "idMal": 18061,
+  "mappings": {
+    "mal": 18061,
+    "anilist": 18061,
+    "anidb": 7647,
+    "kitsu": 9670,
+    "simkl": 1572199,
+    "tmdb": 25114,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 18061,
+    "livechart": null,
+    "animeplanet": null,
+    "anisearch": 6314,
+    "notify": "dtpYtKmmg"
+  },
+  "title": {
+    "romaji": "Tiger Mask (Movie)",
+    "english": null,
+    "native": "タイガーマスク",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 47,
+  "aired": {
+    "from": "1970-03-17T00:00:00+00:00",
+    "to": "1970-03-17"
+  },
+  "season": "spring",
+  "year": 1970,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.21,
+    "anilistScore": 5.2,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Sports",
+    "Wrestling"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/4/74485l.jpg",
+    "banner": null,
+    "color": "#f1d65d"
+  },
+  "trailer": null,
+  "synopsis": "Re-edit of Episode 9&amp;10.",
+  "sequence": [
+    {
+      "malId": 3009,
+      "title": {
+        "romaji": "Tiger Mask",
+        "english": "Tiger Mask",
+        "native": "タイガーマスク"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3009-7bHBgwMpl7TL.jpg",
+      "format": "TV",
+      "episodes": 105,
+      "seasonYear": 1969,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "50m",
+      "airDate": "1970-03-17",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 115121,
+      "tvdbId": 6270931,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T15:40:27.851Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

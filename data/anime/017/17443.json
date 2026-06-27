@@ -1,0 +1,151 @@
+{
+  "id": 17443,
+  "idMal": 17443,
+  "mappings": {
+    "mal": 17443,
+    "anilist": 17443,
+    "anidb": 7631,
+    "kitsu": 9415,
+    "simkl": 1572183,
+    "tmdb": 118453,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 17443,
+    "livechart": 11655,
+    "animeplanet": "kyojin-no-hoshi-movie-2-ike-ike-hyuuma",
+    "anisearch": 6307,
+    "notify": "OjpBpKmiR"
+  },
+  "title": {
+    "romaji": "Kyojin no Hoshi: Ike Ike Hyuuma",
+    "english": null,
+    "native": "巨人の星 行け行け飛雄馬",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 70,
+  "aired": {
+    "from": "1969-12-20T00:00:00+00:00",
+    "to": "1969-12-20"
+  },
+  "season": "fall",
+  "year": 1969,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.05,
+    "anilistScore": 4.6,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Drama",
+    "Sports",
+    "Baseball"
+  ],
+  "studios": [],
+  "producers": [
+    "Tokyo Movie Shinsha"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1591/139177l.jpg",
+    "banner": null,
+    "color": "#d6931a"
+  },
+  "trailer": null,
+  "synopsis": "Second Kyojin no Hoshi movie.",
+  "sequence": [
+    {
+      "malId": 5834,
+      "title": {
+        "romaji": "Kyojin no Hoshi",
+        "english": null,
+        "native": "巨人の星"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5834-MOjnHPAqVfPG.png",
+      "format": "TV",
+      "episodes": 182,
+      "seasonYear": 1968,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 17441,
+      "title": {
+        "romaji": "Kyojin no Hoshi: Chizome no Kesshousen",
+        "english": null,
+        "native": "巨人の星 血ぞめの決勝戦"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17441-yUpvUqLtG6Jq.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1969,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 17445,
+      "title": {
+        "romaji": "Kyojin no Hoshi: Dai League Ball",
+        "english": null,
+        "native": "巨人の星 大リーグボール"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17445-7kN08mce1Mdf.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1970,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "70m",
+      "airDate": "1969-12-20",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 293065,
+      "tvdbId": 9565547,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 70,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T15:32:55.984Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

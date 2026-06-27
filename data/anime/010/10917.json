@@ -1,0 +1,165 @@
+{
+  "id": 10917,
+  "idMal": 10917,
+  "mappings": {
+    "mal": 10917,
+    "anilist": 10917,
+    "anidb": 3493,
+    "kitsu": 6405,
+    "simkl": 38766,
+    "tmdb": 60572,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 10917,
+    "livechart": 5627,
+    "animeplanet": "pokemon-pikachus-winter-vacation-2001",
+    "anisearch": 1864,
+    "notify": "dHgStFmiR"
+  },
+  "title": {
+    "romaji": "Pichu to Pikachu no Fuyuyasumi 2001",
+    "english": "Pokémon: Pikachu's Winter Vacation (2001)",
+    "native": "ピチューとピカチュウのふゆやすみ2001",
+    "synonyms": [
+      "Pocket Monsters: Pikachu no Fuyuyasumi (2001)",
+      "Delibird's Present",
+      "Delibird's Dilemma",
+      "White Story",
+      "Snorlax Snowman",
+      "We are the Pichu Brothers - Balloon Disturbance",
+      "Trouble in Big Town",
+      "Pichu & Pikachu's Winter Vacation 2001"
+    ]
+  },
+  "type": "OVA",
+  "source": "Game",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 3,
+  "episodeLength": 13,
+  "aired": {
+    "from": "2000-12-22T00:00:00+00:00",
+    "to": "2000-12-22"
+  },
+  "season": "fall",
+  "year": 2000,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 6.42,
+    "anilistScore": 6.1,
+    "kitsuRating": 6.3
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Kids"
+  ],
+  "studios": [
+    "OLM"
+  ],
+  "producers": [
+    "Shogakukan Productions"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1248/108235l.jpg",
+    "banner": null,
+    "color": "#f1c928"
+  },
+  "trailer": null,
+  "synopsis": "Pikachu's Winter Vacations are three series of videos, each composed of several Pikachu shorts. All shorts deal with winter and Christmas. This is the third and last series and contains Delibird's Dilemma, Snorlax Snowman &amp; Trouble in Big Town.",
+  "sequence": [
+    {
+      "malId": 527,
+      "title": {
+        "romaji": "Pocket Monsters",
+        "english": "Pokémon",
+        "native": "ポケットモンスター"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b527-t6dBVJ5OVcXK.png",
+      "format": "TV",
+      "episodes": 276,
+      "seasonYear": 1997,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 10916,
+      "title": {
+        "romaji": "Pikachu no Fuyuyasumi 2000",
+        "english": "Pokémon: Pikachu's Winter Vacation 2",
+        "native": "ピカチュウのふゆやすみ2000"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx10916-Q0dYdu9lqllD.jpg",
+      "format": "OVA",
+      "episodes": 2,
+      "seasonYear": 1999,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "10m",
+      "airDate": "2000-12-22",
+      "title": {
+        "en": "Delibird`s Dilemma"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 4231615,
+      "seasonNumber": 0,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76703/4231615.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "9m",
+      "airDate": "2000-12-22",
+      "title": {
+        "en": "Snorlax Snowman"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 4231615,
+      "seasonNumber": 0,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76703/4231615.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "20m",
+      "airDate": "2000-12-22",
+      "title": {
+        "en": "Trouble in Big Town (We The Pichu Brothers)"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 4231615,
+      "seasonNumber": 0,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76703/4231615.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T14:40:19.705Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

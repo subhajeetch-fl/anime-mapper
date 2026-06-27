@@ -1,0 +1,133 @@
+{
+  "id": 12857,
+  "idMal": 12857,
+  "mappings": {
+    "mal": 12857,
+    "anilist": 12857,
+    "anidb": 9410,
+    "kitsu": 6826,
+    "simkl": 41093,
+    "tmdb": 271948,
+    "tvdb": null,
+    "trakt": 169897,
+    "traktType": "movies",
+    "shikimori": 12857,
+    "livechart": 907,
+    "animeplanet": "star-driver-the-movie",
+    "anisearch": 8052,
+    "notify": "0lCHtFiig"
+  },
+  "title": {
+    "romaji": "Star Driver THE MOVIE",
+    "english": null,
+    "native": "スタードライバー THE MOVIE",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 150,
+  "aired": {
+    "from": "2013-02-09T00:00:00+00:00",
+    "to": "2013-02-09"
+  },
+  "season": "winter",
+  "year": 2013,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.62,
+    "anilistScore": 6.4,
+    "kitsuRating": 6.8
+  },
+  "genres": [
+    "Romance",
+    "Sci-Fi",
+    "Action",
+    "Mecha"
+  ],
+  "studios": [
+    "Bones"
+  ],
+  "producers": [
+    "Aniplex",
+    "Dentsu",
+    "Square Enix",
+    "Mainichi Broadcasting System",
+    "Bandai Namco Entertainment",
+    "Fonishia"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/12/57249l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12857-cFZZdqIeytqC.jpg",
+    "color": "#e4c943"
+  },
+  "trailer": null,
+  "synopsis": "Star Driver takes place on the fictional Southern Cross Isle. One night, a boy named Takuto washes up on shore swimming from the mainland. He later enrolls in Southern Cross High School as a freshman and makes new friends. \n\n(Source: Official website)",
+  "sequence": [
+    {
+      "malId": 8934,
+      "title": {
+        "romaji": "STAR DRIVER: Kagayaki no Takuto",
+        "english": "Star Driver",
+        "native": "STAR DRIVER 輝きのタクト"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8934-mfuWBKMTWeJK.jpg",
+      "format": "TV",
+      "episodes": 25,
+      "seasonYear": 2010,
+      "relationType": "ALTERNATIVE"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "150m",
+      "airDate": "2013-02-09",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 194951,
+      "tvdbId": 4252684,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 150,
+      "image": "https://artworks.thetvdb.com/banners/episodes/194951/4252684.jpg"
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "CM 15s"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T14:57:24.193Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "id": 11635,
+  "idMal": 11635,
+  "mappings": {
+    "mal": 11635,
+    "anilist": 11635,
+    "anidb": 8760,
+    "kitsu": 6553,
+    "simkl": 37208,
+    "tmdb": 411712,
+    "tvdb": null,
+    "trakt": 371925,
+    "traktType": "movies",
+    "shikimori": 11635,
+    "livechart": 6210,
+    "animeplanet": "sacred-seven-movie-shirogane-no-tsubasa",
+    "anisearch": 7394,
+    "notify": "OqYItKiiR"
+  },
+  "title": {
+    "romaji": "Sacred Seven: Shirogane no Tsubasa",
+    "english": "Sacred Seven: Wings of the Silver Moon",
+    "native": "セイクリッドセブン　銀月の翼",
+    "synonyms": [
+      "Sacred Seven Recap Special",
+      "Sacred 7: Night Edition",
+      "Sacred Seven: Night Edition",
+      "Knight Edition"
+    ]
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 60,
+  "aired": {
+    "from": "2012-01-07T00:00:00+00:00",
+    "to": "2012-01-07"
+  },
+  "season": "winter",
+  "year": 2012,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.6,
+    "anilistScore": 6,
+    "kitsuRating": 6.86
+  },
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Super Power",
+    "School",
+    "Earth",
+    "Science Fiction",
+    "Parental Abandonment",
+    "Japan",
+    "Asia",
+    "Conspiracy",
+    "Henshin",
+    "Slow When It Comes To Love",
+    "School Life"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/12/34505l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11635-wZ8xfsVF6Rbh.jpg",
+    "color": "#e4505d"
+  },
+  "trailer": null,
+  "synopsis": "A recap special that will feature the battles of Alma and Knight. The past story of Knight will be described with new animations.",
+  "sequence": [
+    {
+      "malId": 10156,
+      "title": {
+        "romaji": "Sacred Seven",
+        "english": null,
+        "native": "セイクリッドセブン"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10156-ppHiEMr7wyQm.jpg",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2011,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 13927,
+      "title": {
+        "romaji": "Sacred Seven: Shirogane no Tsubasa Picture Drama",
+        "english": "Sacred Seven: Wings of the Silver Moon Picture Drama",
+        "native": "劇場版 セイクリッドセブン – 銀月の翼 – ピクチャードラマ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13927-0SL7CWvpXHOP.png",
+      "format": "SPECIAL",
+      "episodes": 2,
+      "seasonYear": 2012,
+      "relationType": "OTHER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "60m",
+      "airDate": "2012-01-07",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 249939,
+      "tvdbId": 4716257,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/249939/4716257.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "25m",
+      "airDate": "",
+      "title": {
+        "en": "Picture Drama"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "BD&DVD CM"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T14:46:44.959Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

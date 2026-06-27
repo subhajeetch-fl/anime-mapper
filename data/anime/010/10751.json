@@ -1,0 +1,147 @@
+{
+  "id": 10751,
+  "idMal": 10751,
+  "mappings": {
+    "mal": 10751,
+    "anilist": 10751,
+    "anidb": 5972,
+    "kitsu": 6331,
+    "simkl": 927173,
+    "tmdb": 90414,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 10751,
+    "livechart": 8658,
+    "animeplanet": "panzer-world-galient-ova",
+    "anisearch": 4977,
+    "notify": "YmPVpKimR"
+  },
+  "title": {
+    "romaji": "Kikou Kai Galient OVA",
+    "english": null,
+    "native": "機甲界ガリアン OVA",
+    "synonyms": [
+      "Panzer World Galient OVA",
+      "Kikou Kai Garian OVA"
+    ]
+  },
+  "type": "OVA",
+  "source": "Unknown",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 3,
+  "episodeLength": 60,
+  "aired": {
+    "from": "1986-01-26T00:00:00+00:00",
+    "to": "1986-08-05T00:00:00+00:00"
+  },
+  "season": "winter",
+  "year": 1986,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.33,
+    "anilistScore": 5.9,
+    "kitsuRating": 6.9
+  },
+  "genres": [
+    "Fantasy",
+    "Sci-Fi",
+    "Action",
+    "Adventure",
+    "Mecha",
+    "Science Fiction",
+    "Piloted Robot"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/9/29726l.jpg",
+    "banner": null,
+    "color": "#e4ae35"
+  },
+  "trailer": null,
+  "synopsis": "The first two episodes are summaries of the TV series, the third one (Crest of Iron) takes place in an alternate universe.",
+  "sequence": [
+    {
+      "malId": 5153,
+      "title": {
+        "romaji": "Kikou Kai Galient",
+        "english": "Panzer World Galient",
+        "native": "機甲界ガリアン"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5153-AWKW1wR7XUIw.png",
+      "format": "TV",
+      "episodes": 25,
+      "seasonYear": 1984,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "60m",
+      "airDate": "1986-01-21",
+      "title": {
+        "en": "Volume 1"
+      },
+      "tvdbShowId": 115141,
+      "tvdbId": 1981851,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/115141/1981851.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "60m",
+      "airDate": "1986-03-21",
+      "title": {
+        "en": "Volume 2"
+      },
+      "tvdbShowId": 115141,
+      "tvdbId": 1981861,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/115141/1981861.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "60m",
+      "airDate": "1986-08-05",
+      "title": {
+        "en": "Volume 3"
+      },
+      "tvdbShowId": 115141,
+      "tvdbId": 1981871,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/115141/1981871.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T14:36:46.796Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

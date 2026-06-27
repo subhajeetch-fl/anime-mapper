@@ -1,0 +1,125 @@
+{
+  "id": 16748,
+  "idMal": 16748,
+  "mappings": {
+    "mal": 16748,
+    "anilist": 16748,
+    "anidb": 9608,
+    "kitsu": 7506,
+    "simkl": 1572555,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 16748,
+    "livechart": null,
+    "animeplanet": null,
+    "anisearch": 8516,
+    "notify": "6nictFiig"
+  },
+  "title": {
+    "romaji": "Narara Ujujeonham Geobukseon",
+    "english": "Fly, Space Battleship Geobukseon",
+    "native": "날아라 우주전함 거북선",
+    "synonyms": [
+      "Fly",
+      "Space Battleship Geobukseon"
+    ]
+  },
+  "type": "Movie",
+  "source": "Unknown",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 90,
+  "aired": {
+    "from": "1979-07-26T00:00:00+00:00",
+    "to": "1979-01-01"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": null,
+    "anilistScore": null,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Space",
+    "Science Fiction"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/8/45058l.jpg",
+    "banner": null,
+    "color": "#3586a1"
+  },
+  "trailer": null,
+  "synopsis": "A Korean animated film taking place in the same universe as Robot Taekwon V. It tells the story of the lone spaceship and its mission to save the Earth.",
+  "sequence": [
+    {
+      "malId": 16490,
+      "title": {
+        "romaji": "Robot Taekwon V wa Hwanggeum Nalgae",
+        "english": null,
+        "native": "로보트 태권V와 황금날개의 대결"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16490.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 16568,
+      "title": {
+        "romaji": "Syupeo Taegwon V",
+        "english": null,
+        "native": "슈퍼 태권 V"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16568.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "65m",
+      "airDate": "1979-07-26",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T15:27:17.503Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

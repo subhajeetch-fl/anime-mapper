@@ -1,0 +1,128 @@
+{
+  "id": 11101,
+  "idMal": 11101,
+  "mappings": {
+    "mal": 11101,
+    "anilist": 11101,
+    "anidb": 8559,
+    "kitsu": 6460,
+    "simkl": 37303,
+    "tmdb": 13685,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 11101,
+    "livechart": null,
+    "animeplanet": "dramatic-memory-honoo-no-alpenrose",
+    "anisearch": 7346,
+    "notify": "ilIStFimg"
+  },
+  "title": {
+    "romaji": "Honoo no Alpen Rose",
+    "english": null,
+    "native": "炎のアルペンローゼ",
+    "synonyms": [
+      "Blazing Alpenrose",
+      "Dramatic Memory Honoo no Alpenrose"
+    ]
+  },
+  "type": "OVA",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 2,
+  "episodeLength": 76,
+  "aired": {
+    "from": "1986-02-15T00:00:00+00:00",
+    "to": "1986-03-31T00:00:00+00:00"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.56,
+    "anilistScore": 6.4,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Drama",
+    "Romance",
+    "Historical"
+  ],
+  "studios": [
+    "Tatsunoko Production"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/3/30729l.jpg",
+    "banner": null,
+    "color": "#f1a128"
+  },
+  "trailer": null,
+  "synopsis": "Two-part OVA that summarises the entire Honoo no Alpenrose TV series featuring a new dubbing and reworked scenes.\n\n(Source: AniDB)",
+  "sequence": [
+    {
+      "malId": 3807,
+      "title": {
+        "romaji": "Honoo no Alpen Rose: Judy & Randy",
+        "english": "Alpen Rose",
+        "native": "炎のアルペンローゼ・ジュディ＆ランディ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3807-uRtS1pueVvmG.png",
+      "format": "TV",
+      "episodes": 20,
+      "seasonYear": 1985,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "80m",
+      "airDate": "1986-02-15",
+      "title": {
+        "en": "The Sepia Labyrinth"
+      },
+      "tvdbShowId": 268627,
+      "tvdbId": 7811799,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 80,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "80m",
+      "airDate": "1986-03-31",
+      "title": {
+        "en": "Going Along Love-Me Road"
+      },
+      "tvdbShowId": 268627,
+      "tvdbId": 7811800,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 80,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T14:42:45.989Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

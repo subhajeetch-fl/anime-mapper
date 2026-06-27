@@ -1,0 +1,111 @@
+{
+  "id": 16033,
+  "idMal": 16033,
+  "mappings": {
+    "mal": 16033,
+    "anilist": 16033,
+    "anidb": 9334,
+    "kitsu": 7363,
+    "simkl": 38012,
+    "tmdb": 65675,
+    "tvdb": 267438,
+    "trakt": 69825,
+    "traktType": "shows",
+    "shikimori": 16033,
+    "livechart": 998,
+    "animeplanet": "karneval-ova",
+    "anisearch": 8053,
+    "notify": "705KtKiiR"
+  },
+  "title": {
+    "romaji": "Karneval",
+    "english": null,
+    "native": "カーニヴァル",
+    "synonyms": []
+  },
+  "type": "OVA",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 5,
+  "aired": {
+    "from": "2012-10-25T00:00:00+00:00",
+    "to": "2012-10-25"
+  },
+  "season": "fall",
+  "year": 2012,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.97,
+    "anilistScore": 6.5,
+    "kitsuRating": 7.18
+  },
+  "genres": [
+    "Fantasy",
+    "Sci-Fi",
+    "Science Fiction",
+    "Josei"
+  ],
+  "studios": [
+    "Manglobe"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/4/43467l.jpg",
+    "banner": null,
+    "color": "#f1bb43"
+  },
+  "trailer": null,
+  "synopsis": "DVD bundled with the limited edition of the 10th volume of the manga, previewing the upcoming TV anime and including footage that will not be used in the series.",
+  "sequence": [
+    {
+      "malId": 16035,
+      "title": {
+        "romaji": "Karneval (TV)",
+        "english": "Karneval (TV)",
+        "native": "カーニヴァル (TV)"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16035-TAbW2i7rtXVM.png",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2013,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "5m",
+      "airDate": "2013-04-04",
+      "title": {
+        "en": "OVA"
+      },
+      "tvdbShowId": 267438,
+      "tvdbId": 4516065,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/267438/4516065.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T15:20:39.605Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

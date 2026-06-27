@@ -1,0 +1,114 @@
+{
+  "id": 12001,
+  "idMal": 12001,
+  "mappings": {
+    "mal": 12001,
+    "anilist": 12001,
+    "anidb": 8762,
+    "kitsu": 6641,
+    "simkl": 41714,
+    "tmdb": 462387,
+    "tvdb": null,
+    "trakt": 309552,
+    "traktType": "movies",
+    "shikimori": 12001,
+    "livechart": 5544,
+    "animeplanet": "one-piece-3d-gekisou-trap-coaster",
+    "anisearch": 7388,
+    "notify": "PZWHtFmmR"
+  },
+  "title": {
+    "romaji": "ONE PIECE 3D: Gekisou! Trap Coaster",
+    "english": "One Piece 3D: Racing! Trap Coaster",
+    "native": "ONE PIECE 3D 激走! トラップコースター",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 12,
+  "aired": {
+    "from": "2011-12-01T00:00:00+00:00",
+    "to": "2011-12-01"
+  },
+  "season": "fall",
+  "year": 2011,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.73,
+    "anilistScore": 6.1,
+    "kitsuRating": 6.56
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Comedy",
+    "Friendship",
+    "Shounen",
+    "Pirate"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/4/33839l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n12001-IljdXqN8CTU7.jpg",
+    "color": "#f1e435"
+  },
+  "trailer": null,
+  "synopsis": "Toei Animation released a new 3D anime short at events starting December 1, 2011. The short run about 12 minutes long and played at stereoscopic 3D theaters at Aichi Prefecture's Lagunasia theme park, Nagasaki Prefecture's Huis Ten Bosch theme park, Kanagawa Prefecture's Yokohama Landmark Tower, and Hiroshima Prefecture's NTT CRED Hall.\n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 21,
+      "title": {
+        "romaji": "ONE PIECE",
+        "english": "ONE PIECE",
+        "native": "ONE PIECE"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": 1999,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "15m",
+      "airDate": "2011-12-01",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 81797,
+      "tvdbId": 4200552,
+      "seasonNumber": 0,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4200552/screencap/6718c06c7406f.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T14:49:58.605Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

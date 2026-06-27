@@ -1,0 +1,111 @@
+{
+  "id": 10743,
+  "idMal": 10743,
+  "mappings": {
+    "mal": 10743,
+    "anilist": 10743,
+    "anidb": 6877,
+    "kitsu": 6330,
+    "simkl": 39259,
+    "tmdb": 86890,
+    "tvdb": null,
+    "trakt": 65350,
+    "traktType": "movies",
+    "shikimori": 10743,
+    "livechart": null,
+    "animeplanet": "tora-chan-no-kankan-mushi",
+    "anisearch": 7583,
+    "notify": "_3L4tFmig"
+  },
+  "title": {
+    "romaji": "Tora-chan no Kankan Mushi",
+    "english": null,
+    "native": "トラちゃんのカンカン虫",
+    "synonyms": [
+      "Tora-chan's Clang-Clang Bug"
+    ]
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 10,
+  "aired": {
+    "from": "1950-01-01T00:00:00+00:00",
+    "to": "1950-01-01"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 5.25,
+    "anilistScore": 4.5,
+    "kitsuRating": 6.12
+  },
+  "genres": [
+    "Drama",
+    "Slice of Life",
+    "Anthropomorphism",
+    "Past"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/11/69031l.jpg",
+    "banner": null,
+    "color": null
+  },
+  "trailer": null,
+  "synopsis": "Tora-chan and Miike are working on the side of a tuna steamship and manage to run afoul of the short-tempered captain. But the captain makes plenty of trouble on his own!",
+  "sequence": [
+    {
+      "malId": 12603,
+      "title": {
+        "romaji": "Tora-chan to Hanayome",
+        "english": "Little Tiger and Bride",
+        "native": "トラちゃんと花嫁"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12603.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1948,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "10m",
+      "airDate": "",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T14:36:44.625Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

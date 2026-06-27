@@ -1,0 +1,124 @@
+{
+  "id": 14213,
+  "idMal": 14213,
+  "mappings": {
+    "mal": 14213,
+    "anilist": 14213,
+    "anidb": 5034,
+    "kitsu": 7098,
+    "simkl": 41453,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 14213,
+    "livechart": null,
+    "animeplanet": "otogi-manga-calendar",
+    "anisearch": 4140,
+    "notify": "IKmOpKimR"
+  },
+  "title": {
+    "romaji": "Otogi Manga Calendar",
+    "english": null,
+    "native": "おとぎマンガカレンダー",
+    "synonyms": []
+  },
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 312,
+  "episodeLength": 5,
+  "aired": {
+    "from": "1962-06-25T00:00:00+00:00",
+    "to": "1964-06-25T00:00:00+00:00"
+  },
+  "season": "summer",
+  "year": 1962,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6,
+    "anilistScore": 4.7,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Historical"
+  ],
+  "studios": [],
+  "producers": [
+    "TBS",
+    "Otogi Production"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/11/39147l.jpg",
+    "banner": null,
+    "color": null
+  },
+  "trailer": null,
+  "synopsis": "A continuation of Instant History.\n\n(Source: Cartoon Research)",
+  "sequence": [
+    {
+      "malId": 14211,
+      "title": {
+        "romaji": "Instant History",
+        "english": null,
+        "native": "インスタントヒストリー"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14211.jpg",
+      "format": "TV_SHORT",
+      "episodes": 312,
+      "seasonYear": 1961,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "5m",
+      "airDate": "1962-06-25",
+      "title": {
+        "en": "Episode 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "312": {
+      "episode": "312",
+      "length": "5m",
+      "airDate": "1964-07-04",
+      "title": {
+        "en": "Episode 312"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 312,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T15:09:07.329Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

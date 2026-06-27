@@ -1,0 +1,189 @@
+{
+  "id": 16381,
+  "idMal": 16381,
+  "mappings": {
+    "mal": 16381,
+    "anilist": 16381,
+    "anidb": 9516,
+    "kitsu": 7416,
+    "simkl": 36957,
+    "tmdb": 321211,
+    "tvdb": null,
+    "trakt": 201913,
+    "traktType": "movies",
+    "shikimori": 16381,
+    "livechart": 352,
+    "animeplanet": "santa-company",
+    "anisearch": 8198,
+    "notify": "4bBKtKiig"
+  },
+  "title": {
+    "romaji": "Santa Company",
+    "english": null,
+    "native": "サンタ・カンパニー",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 28,
+  "aired": {
+    "from": "2014-10-25T00:00:00+00:00",
+    "to": "2014-10-25"
+  },
+  "season": "fall",
+  "year": 2014,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 5.73,
+    "anilistScore": 5.3,
+    "kitsuRating": 5.88
+  },
+  "genres": [
+    "Fantasy",
+    "Present",
+    "Slice of Life",
+    "Working Life",
+    "Magic"
+  ],
+  "studios": [
+    "Nexus",
+    "Kenji Studio"
+  ],
+  "producers": [
+    "Rakuonsha",
+    "Kenji Studio"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1211/112792l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16381-gKM2OHmQyDD1.jpg",
+    "color": "#f19350"
+  },
+  "trailer": null,
+  "synopsis": "As a trainee of Santa Company, Noel White prepares for her test to become an official Tonttu, her assignment being \"To find the most important thing for a Santa Claus.\"\n\nThe deadline nears with an answer yet to be found, when a single letter from a child arrives late at the company. As the letter is about to be handled as a defect, Noel and friends set out on an adventure for the present - but will Noel find the answer to her assignment?\n\nSet a year after the events of the novel.",
+  "sequence": [
+    {
+      "malId": 39931,
+      "title": {
+        "romaji": "Santa Company: Christmas no Himitsu",
+        "english": null,
+        "native": "サンタ・カンパニー ～クリスマスの秘密～"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126876-fvXHUpMLFu1z.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2019,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 46491,
+      "title": {
+        "romaji": "Santa Company: Manatsu no Merry Christmas",
+        "english": null,
+        "native": "サンタ・カンパニー ～真夏のメリークリスマス～"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129123-ntClioaA2UZ5.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2021,
+      "relationType": "SPIN_OFF"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "30m",
+      "airDate": "2014-10-25",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "2m",
+      "airDate": "2013-12-24",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "2m",
+      "airDate": "2014-02-07",
+      "title": {
+        "en": "Trailer: 2014 Publication"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "3m",
+      "airDate": "2014-04-08",
+      "title": {
+        "en": "Chapter of Departure. (Version Without Voice)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T4": {
+      "episode": "T4",
+      "length": "3m",
+      "airDate": "2014-04-08",
+      "title": {
+        "en": "Chapter of Departure. (Key-frame Animation)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T15:23:22.487Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

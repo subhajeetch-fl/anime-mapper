@@ -1,0 +1,173 @@
+{
+  "id": 10893,
+  "idMal": 10893,
+  "mappings": {
+    "mal": 10893,
+    "anilist": 10893,
+    "anidb": 8300,
+    "kitsu": 6396,
+    "simkl": 38828,
+    "tmdb": 82026,
+    "tvdb": null,
+    "trakt": 61296,
+    "traktType": "movies",
+    "shikimori": 10893,
+    "livechart": 4242,
+    "animeplanet": "kyousougiga-2011",
+    "anisearch": 6925,
+    "notify": "vg64pFmmR"
+  },
+  "title": {
+    "romaji": "Kyousougiga",
+    "english": null,
+    "native": "京騒戯画",
+    "synonyms": [
+      "Kyousougiga",
+      "Kyousogiga",
+      "第一弾"
+    ]
+  },
+  "type": "ONA",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 25,
+  "aired": {
+    "from": "2011-12-01T00:00:00+00:00",
+    "to": "2011-12-01"
+  },
+  "season": "winter",
+  "year": 2011,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.9,
+    "anilistScore": 6.8,
+    "kitsuRating": 6.92
+  },
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Supernatural",
+    "Comedy"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/6/61947l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10893-R1BvWyM9CrxM.jpg",
+    "color": "#c9e45d"
+  },
+  "trailer": null,
+  "synopsis": "It's Kyoto, and yet it is not.\n \nA microcosm of peculiar origins, \"Mirror Kyoto.\"\n \nA small incident causes a young girl, Koto, to wander into this world.\n \nShe runs into a mysterious monk, gets chased around by a tech-obsessed girl, and heartily enjoys her chaotic and colorful new life, but meanwhile, out of sight, a certain plan is being set into motion...\n \nIn this mysterious city where spirits and humans have been thrown together, the festivities are about to begin!\n\n(Source: translated from the official website by lygerzero0zero)",
+  "sequence": [
+    {
+      "malId": 15359,
+      "title": {
+        "romaji": "Kyousougiga (2012)",
+        "english": null,
+        "native": "京騒戯画 (2012)"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15359.jpg",
+      "format": "ONA",
+      "episodes": 5,
+      "seasonYear": 2012,
+      "relationType": "SEQUEL"
+    },
+    {
+      "malId": 19703,
+      "title": {
+        "romaji": "Kyousougiga (TV)",
+        "english": "Kyousougiga",
+        "native": "京騒戯画 (TV)"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19703-OpohqKDqXIp9.png",
+      "format": "TV",
+      "episodes": 10,
+      "seasonYear": 2013,
+      "relationType": "OTHER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2011-12-01",
+      "title": {
+        "en": "Web"
+      },
+      "tvdbShowId": 254658,
+      "tvdbId": 4231003,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/254658/4231003.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "3m",
+      "airDate": "2011-12-01",
+      "title": {
+        "en": "Ending"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "2011-03-30",
+      "title": {
+        "en": "PV"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "5m",
+      "airDate": "2011-06-24",
+      "title": {
+        "en": "Long Version PV"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T14:39:59.900Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

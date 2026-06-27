@@ -1,0 +1,123 @@
+{
+  "id": 13709,
+  "idMal": 13709,
+  "mappings": {
+    "mal": 13709,
+    "anilist": 13709,
+    "anidb": 11542,
+    "kitsu": 7017,
+    "simkl": 522686,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 13709,
+    "livechart": 5985,
+    "animeplanet": "afro-samurai-the-movie",
+    "anisearch": null,
+    "notify": "JLyvtKiiR"
+  },
+  "title": {
+    "romaji": "AFRO SAMURAI Movie",
+    "english": "Afro Samurai the Movie",
+    "native": "AFRO SAMURAI 劇場版",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 116,
+  "aired": {
+    "from": "2007-10-27T00:00:00+00:00",
+    "to": "2007-10-27"
+  },
+  "season": "fall",
+  "year": 2007,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "R+ - Mild Nudity",
+  "score": {
+    "malScore": 7.55,
+    "anilistScore": 7.2,
+    "kitsuRating": 7.5
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Samurai"
+  ],
+  "studios": [
+    "Gonzo"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/8/38065l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13709-qFBtEwucVgte.jpg",
+    "color": null
+  },
+  "trailer": null,
+  "synopsis": "A movie adaptation of the TV series.",
+  "sequence": [
+    {
+      "malId": 1292,
+      "title": {
+        "romaji": "Afro Samurai",
+        "english": "Afro Samurai",
+        "native": "アフロサムライ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1292-FcyYgq7Ly34H.png",
+      "format": "TV",
+      "episodes": 5,
+      "seasonYear": 2007,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 4970,
+      "title": {
+        "romaji": "Afro Samurai: Resurrection",
+        "english": "Afro Samurai: Resurrection",
+        "native": "アフロサムライ：レザレクション"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4970-RtaPhHFnrjpb.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2009,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "115m",
+      "airDate": "2007-10-27",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T15:05:23.081Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

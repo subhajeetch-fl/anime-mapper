@@ -1,0 +1,138 @@
+{
+  "id": 17447,
+  "idMal": 17447,
+  "mappings": {
+    "mal": 17447,
+    "anilist": 17447,
+    "anidb": 7632,
+    "kitsu": 9416,
+    "simkl": 1572185,
+    "tmdb": 118453,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 17447,
+    "livechart": 11657,
+    "animeplanet": "kyojin-no-hoshi-movie-4-shukumei-no-taiketsu",
+    "anisearch": 6310,
+    "notify": "ikhftFimR"
+  },
+  "title": {
+    "romaji": "Kyojin no Hoshi: Shukumei no Taiketsu",
+    "english": null,
+    "native": "巨人の星 宿命の対決",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Unknown",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 60,
+  "aired": {
+    "from": "1970-08-01T00:00:00+00:00",
+    "to": "1970-08-01"
+  },
+  "season": "summer",
+  "year": 1970,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 5.83,
+    "anilistScore": null,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Drama",
+    "Sports",
+    "Baseball"
+  ],
+  "studios": [],
+  "producers": [
+    "Tokyo Movie Shinsha"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1962/139176l.jpg",
+    "banner": null,
+    "color": "#e4ae0d"
+  },
+  "trailer": null,
+  "synopsis": "Fourth Kyojin no Hoshi movie.",
+  "sequence": [
+    {
+      "malId": 5834,
+      "title": {
+        "romaji": "Kyojin no Hoshi",
+        "english": null,
+        "native": "巨人の星"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5834-MOjnHPAqVfPG.png",
+      "format": "TV",
+      "episodes": 182,
+      "seasonYear": 1968,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 17445,
+      "title": {
+        "romaji": "Kyojin no Hoshi: Dai League Ball",
+        "english": null,
+        "native": "巨人の星 大リーグボール"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17445-7kN08mce1Mdf.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1970,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "60m",
+      "airDate": "1970-08-01",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 293065,
+      "tvdbId": 9565549,
+      "seasonNumber": 0,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 60,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T15:33:00.405Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

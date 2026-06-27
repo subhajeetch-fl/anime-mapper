@@ -1,0 +1,110 @@
+{
+  "id": 10203,
+  "idMal": 10203,
+  "mappings": {
+    "mal": 10203,
+    "anilist": 10203,
+    "anidb": 2318,
+    "kitsu": 6077,
+    "simkl": 1571593,
+    "tmdb": 19343,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 10203,
+    "livechart": 11941,
+    "animeplanet": "bikkuriman-daiichiji-seima-taisen",
+    "anisearch": 56,
+    "notify": "27-7tKmiR"
+  },
+  "title": {
+    "romaji": "Bikkuriman: Daiichiji Seima Taisen",
+    "english": null,
+    "native": "ビックリマン 第一次聖魔大戦",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Unknown",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 28,
+  "aired": {
+    "from": "1988-03-12T00:00:00+00:00",
+    "to": "1988-03-12"
+  },
+  "season": "spring",
+  "year": 1988,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": null,
+  "score": {
+    "malScore": null,
+    "anilistScore": null,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Kids"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1436/97580l.jpg",
+    "banner": null,
+    "color": "#fed628"
+  },
+  "trailer": null,
+  "synopsis": "First Bikkuriman film.",
+  "sequence": [
+    {
+      "malId": 3909,
+      "title": {
+        "romaji": "Bikkuriman",
+        "english": null,
+        "native": "ビックリマン"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3909.jpg",
+      "format": "TV",
+      "episodes": 75,
+      "seasonYear": 1987,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "30m",
+      "airDate": "1988-12-03",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 280933,
+      "tvdbId": 9565312,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T14:26:38.267Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}
