@@ -1,0 +1,625 @@
+{
+  "id": 21729,
+  "idMal": 21729,
+  "mappings": {
+    "mal": 21729,
+    "anilist": 20564,
+    "anidb": 10483,
+    "kitsu": 8264,
+    "simkl": 48116,
+    "tmdb": 35442,
+    "tvdb": 245821,
+    "trakt": 35290,
+    "traktType": "shows",
+    "shikimori": 21729,
+    "livechart": 361,
+    "animeplanet": "cardfight-vanguard-legion-mate",
+    "anisearch": 9492,
+    "notify": "d_xotKiig"
+  },
+  "title": {
+    "romaji": "Cardfight!! Vanguard: Legion Mate-hen",
+    "english": "Cardfight!! Vanguard Legion Mate",
+    "native": "カードファイト!!ヴァンガード レギオンメイト編",
+    "synonyms": []
+  },
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 33,
+  "episodeLength": 24,
+  "aired": {
+    "from": "2014-03-09T00:00:00+00:00",
+    "to": "2014-10-19T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 2014,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "10:00",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.76,
+    "anilistScore": 6.5,
+    "kitsuRating": 6.83
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Demons",
+    "Game",
+    "Proxy Battles",
+    "Card Games",
+    "Demon"
+  ],
+  "studios": [
+    "TMS Entertainment"
+  ],
+  "producers": [
+    "Dentsu",
+    "Sotsu",
+    "Bushiroad"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/5/64773l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20564-KLTnTITofq3w.jpg",
+    "color": "#50a1e4"
+  },
+  "trailer": null,
+  "synopsis": "In the wake of Aichi Sendou's heroic defeat of Link Joker, Toshiki Kai believes the world has returned to normal. However, during a routine visit to Card Capital, Kai discovers that everyone else has completely forgotten who Aichi is. Compelled to solve the mystery behind his friend's disappearance, Kai sets out to look for clues.\n\nWhile searching Aichi's high school, Kai sees a vision of Blaster Blade, Aichi's favorite Cardfight Vanguard unit. Suddenly, a stack of cards materializes in his hand: Aichi's Royal Paladin deck. Using these familiar cards, Kai challenges Aichi's companions to duels that help them recall their dear friend's impact on their lives. After regaining their memories, they join forces with Kai to find Aichi-—and to bring him home at any cost.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 15611,
+      "title": {
+        "romaji": "Cardfight!! Vanguard: Link Joker-hen",
+        "english": "Cardfight!! Vanguard Link Joker",
+        "native": "カードファイト!! ヴァンガード リンクジョーカー編"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15611-gz8DLFwKLzpk.png",
+      "format": "TV",
+      "episodes": 59,
+      "seasonYear": 2013,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 23991,
+      "title": {
+        "romaji": "Cardfight!! Vanguard Movie: Neon Messiah",
+        "english": null,
+        "native": "劇場版 カードファイト!! ヴァンガード ネオンメサイア"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20810-aAT74eTZJbpg.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2014,
+      "relationType": "SIDE_STORY"
+    },
+    {
+      "malId": 27815,
+      "title": {
+        "romaji": "Cardfight!! Vanguard G",
+        "english": null,
+        "native": "カードファイト!! ヴァンガードG"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20921-yAKYeS3L53wG.jpg",
+      "format": "TV",
+      "episodes": 48,
+      "seasonYear": 2014,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2014-03-09",
+      "title": {
+        "en": "The Missing Leader"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4788081,
+      "seasonNumber": 4,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 164,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4788081/screencap/60b707512e40e.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2014-03-16",
+      "title": {
+        "en": "Legion"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4828072,
+      "seasonNumber": 4,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 165,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4828072/screencap/60b70753909f5.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2014-03-23",
+      "title": {
+        "en": "Aichi`s Shadow"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4828073,
+      "seasonNumber": 4,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 166,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4828073/screencap/60b70755995fb.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2014-03-30",
+      "title": {
+        "en": "Seek the Mate"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4842956,
+      "seasonNumber": 4,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 167,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4842956/screencap/60b70757c5a78.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2014-04-06",
+      "title": {
+        "en": "Naoki`s Fist"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4848898,
+      "seasonNumber": 4,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 168,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4848898/screencap/60b7075c1f1eb.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2014-04-13",
+      "title": {
+        "en": "Blue Flames Gaillard"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4854583,
+      "seasonNumber": 4,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 169,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4854583/screencap/60b7075e4791d.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2014-04-20",
+      "title": {
+        "en": "Steel Neve"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4860340,
+      "seasonNumber": 4,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 170,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4860340/screencap/60b70760f130b.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2014-04-27",
+      "title": {
+        "en": "The Leader, Kai"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4866798,
+      "seasonNumber": 4,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 171,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4866798/screencap/60b70764819bd.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2014-05-04",
+      "title": {
+        "en": "Introducing Great Daikaiser!"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4873523,
+      "seasonNumber": 4,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 172,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4873523/screencap/60b7076705d32.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2014-05-11",
+      "title": {
+        "en": "Illusional Rati"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4873527,
+      "seasonNumber": 4,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 173,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4873527/screencap/60b7076985e9a.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2014-05-18",
+      "title": {
+        "en": "Freezing Ice Serra"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4880921,
+      "seasonNumber": 4,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 174,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4880921/screencap/60b7076cc7b46.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2014-05-25",
+      "title": {
+        "en": "Ren`s Promise"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4886114,
+      "seasonNumber": 4,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 175,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4886114/screencap/60b7076f5d46c.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2014-06-01",
+      "title": {
+        "en": "The Place Where Aichi Will Return"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4892908,
+      "seasonNumber": 4,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 176,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4892908/screencap/60b70773d875c.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "2014-06-08",
+      "title": {
+        "en": "The Announced Truth"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4896963,
+      "seasonNumber": 4,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 177,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4896963/screencap/60b70778896cf.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "2014-06-15",
+      "title": {
+        "en": "Island Awaiting the Wind"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4908723,
+      "seasonNumber": 4,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 178,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4908723/screencap/60b7077b27bbf.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "2014-06-22",
+      "title": {
+        "en": "Kai`s Will"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4908724,
+      "seasonNumber": 4,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 179,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4908724/screencap/60b7077e0c9f0.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "2014-06-29",
+      "title": {
+        "en": "Gateway to Sanctuary"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4908922,
+      "seasonNumber": 4,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 180,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4908922/screencap/60b70780b60e8.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "2014-07-06",
+      "title": {
+        "en": "Manly Big Bang"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4908923,
+      "seasonNumber": 4,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 181,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4908923/screencap/60b707842e3e8.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "2014-07-13",
+      "title": {
+        "en": "Steel Will"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4925367,
+      "seasonNumber": 4,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 182,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4925367/screencap/60b707891cb8d.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "2014-07-20",
+      "title": {
+        "en": "What Doesn`t Change"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4925368,
+      "seasonNumber": 4,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 183,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4925368/screencap/60b7078d6575f.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "2014-07-27",
+      "title": {
+        "en": "Vow of the Blue Flames"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4925369,
+      "seasonNumber": 4,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 184,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4925369/screencap/60b707926bf03.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "2014-08-03",
+      "title": {
+        "en": "Flames of Perdition"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4948302,
+      "seasonNumber": 4,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 185,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4948302/screencap/60b707946653c.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "2014-08-10",
+      "title": {
+        "en": "Interrupted Sleep"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4948303,
+      "seasonNumber": 4,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 186,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4948303/screencap/60b70797b98e0.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "2014-08-17",
+      "title": {
+        "en": "Aichi Awakens"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4965683,
+      "seasonNumber": 4,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 187,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4965683/screencap/60b70799ca353.jpg"
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "2014-08-24",
+      "title": {
+        "en": "Cold Ambition"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4975634,
+      "seasonNumber": 4,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 188,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4975634/screencap/60b7079f5fad2.jpg"
+    },
+    "26": {
+      "episode": "26",
+      "length": "25m",
+      "airDate": "2014-08-31",
+      "title": {
+        "en": "Omega`s Return"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4975635,
+      "seasonNumber": 4,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 189,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4975635/screencap/60b707a18e9ba.jpg"
+    },
+    "27": {
+      "episode": "27",
+      "length": "25m",
+      "airDate": "2014-09-07",
+      "title": {
+        "en": "Determination of the Bluish Flames"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4981879,
+      "seasonNumber": 4,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 190,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4981879/screencap/60b707a40d86e.jpg"
+    },
+    "28": {
+      "episode": "28",
+      "length": "25m",
+      "airDate": "2014-09-14",
+      "title": {
+        "en": "Our Place"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4985417,
+      "seasonNumber": 4,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 191,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4985417/screencap/60b707a6f1ca7.jpg"
+    },
+    "29": {
+      "episode": "29",
+      "length": "25m",
+      "airDate": "2014-09-21",
+      "title": {
+        "en": "Pride of the Flames"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 4993177,
+      "seasonNumber": 4,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 192,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4993177/screencap/60b707aabfe56.jpg"
+    },
+    "30": {
+      "episode": "30",
+      "length": "25m",
+      "airDate": "2014-09-28",
+      "title": {
+        "en": "Sword of Destruction"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 5003407,
+      "seasonNumber": 4,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 193,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/5003407/screencap/60b707addb71c.jpg"
+    },
+    "31": {
+      "episode": "31",
+      "length": "25m",
+      "airDate": "2014-10-05",
+      "title": {
+        "en": "Sword of Courage"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 5009339,
+      "seasonNumber": 4,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 194,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/5009339/screencap/60b707b2065bb.jpg"
+    },
+    "32": {
+      "episode": "32",
+      "length": "25m",
+      "airDate": "2014-10-12",
+      "title": {
+        "en": "A Season of Journeys"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 5015322,
+      "seasonNumber": 4,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 195,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/5015322/screencap/60b707b58856a.jpg"
+    },
+    "33": {
+      "episode": "33",
+      "length": "25m",
+      "airDate": "2014-10-19",
+      "title": {
+        "en": "Leaders"
+      },
+      "tvdbShowId": 245821,
+      "tvdbId": 5015323,
+      "seasonNumber": 4,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 196,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/5015323/screencap/60b707b995de0.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T19:17:48.858Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

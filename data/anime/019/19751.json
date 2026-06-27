@@ -1,0 +1,110 @@
+{
+  "id": 19751,
+  "idMal": 19751,
+  "mappings": {
+    "mal": 19751,
+    "anilist": 19751,
+    "anidb": 2039,
+    "kitsu": 9290,
+    "simkl": 41222,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 19751,
+    "livechart": 12171,
+    "animeplanet": "gu-gu-ganmo-movie",
+    "anisearch": 2981,
+    "notify": "OL3-pFimR"
+  },
+  "title": {
+    "romaji": "Gu-Gu Ganmo (Movie)",
+    "english": null,
+    "native": "Gu-Guガンモ (Movie)",
+    "synonyms": [
+      "Gu-Gu Ganmo (1985)"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 45,
+  "aired": {
+    "from": "1985-03-16T00:00:00+00:00",
+    "to": "1985-03-16"
+  },
+  "season": "spring",
+  "year": 1985,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 5.97,
+    "anilistScore": 5.2,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1694/148729l.jpg",
+    "banner": null,
+    "color": "#e4c950"
+  },
+  "trailer": null,
+  "synopsis": "Movie version that lampooned several Japanese Folklore Tales, including that of Princess Kaguya.\n\nBased on a manga by Hosono Fujihiko, serialised in Weekly Shounen Sunday.\n\n(Source: AniDB)",
+  "sequence": [
+    {
+      "malId": 3020,
+      "title": {
+        "romaji": "Gu-Gu Ganmo",
+        "english": null,
+        "native": "Gu-Guガンモ "
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3020-5IFGHXGrOUkq.jpg",
+      "format": "TV",
+      "episodes": 50,
+      "seasonYear": 1984,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "45m",
+      "airDate": "1985-03-16",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T19:01:10.537Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,463 @@
+{
+  "id": 20431,
+  "idMal": 20431,
+  "mappings": {
+    "mal": 20431,
+    "anilist": 20431,
+    "anidb": 9955,
+    "kitsu": 8009,
+    "simkl": 45318,
+    "tmdb": 61529,
+    "tvdb": 275613,
+    "trakt": 74199,
+    "traktType": "shows",
+    "shikimori": 20431,
+    "livechart": 238,
+    "animeplanet": "hozukis-coolheadedness",
+    "anisearch": 9075,
+    "notify": "dpohpFimg"
+  },
+  "title": {
+    "romaji": "Hoozuki no Reitetsu",
+    "english": "Hozuki's Coolheadedness",
+    "native": "鬼灯の冷徹",
+    "synonyms": [
+      "Cool-headed Hoozuki",
+      "Hozuki no Reitetsu"
+    ]
+  },
+  "type": "TV",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 13,
+  "episodeLength": 24,
+  "aired": {
+    "from": "2014-01-10T00:00:00+00:00",
+    "to": "2014-04-04T00:00:00+00:00"
+  },
+  "season": "winter",
+  "year": 2014,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.78,
+    "anilistScore": 7.4,
+    "kitsuRating": 7.53
+  },
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Supernatural",
+    "Demons",
+    "Religion",
+    "Demon"
+  ],
+  "studios": [
+    "Wit Studio"
+  ],
+  "producers": [
+    "Starchild Records",
+    "Mainichi Broadcasting System",
+    "Kodansha"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/7/87177l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20431-S0BhJaPcjAAP.jpg",
+    "color": "#f1c95d"
+  },
+  "trailer": null,
+  "synopsis": "Hell is a bureaucracy, and business is running smoother than ever thanks to the demonic efficiency of Hoozuki, chief deputy to Lord Enma, the King of Hell. Whether offering counsel to the Momotarou of Japanese folklore or receiving diplomatic missions from the Judeo-Christian Hell, the demon who runs the show from behind the king's imposing shadow is ready to beat down any challenges coming his way into a bloody pulp. Metaphorically, of course...\n\nThe poster boy for micromanagement and armed with negotiation skills worthy of Wall Street, Hoozuki no Reitetsu follows the sadistic and level-headed Hoozuki as he spends his days troubleshooting hell. With an abundance of familiar faces from popular Japanese legends and East Asian mythology working middle management positions, this referential and anachronistic dark comedy brings new meaning to the phrase \"employer liability.\" Just how hard could it be to manage employees from hell, anyway?\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 24471,
+      "title": {
+        "romaji": "Hoozuki no Reitetsu OVA",
+        "english": "Cool-headed Hoozuki OVA",
+        "native": "鬼灯の冷徹 OVA"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20732-afdGULWzD2M0.jpg",
+      "format": "OVA",
+      "episodes": 4,
+      "seasonYear": 2015,
+      "relationType": "SIDE_STORY"
+    },
+    {
+      "malId": 35075,
+      "title": {
+        "romaji": "Hoozuki no Reitetsu 2",
+        "english": "Hozuki’s Coolheadedness 2",
+        "native": "鬼灯の冷徹 2"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98438-DdWr6KxfD5v4.jpg",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2017,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2014-01-10",
+      "title": {
+        "en": "Making or Breaking Hell / The Discovery of Hell`s Mysteries"
+      },
+      "tvdbShowId": 275613,
+      "tvdbId": 4720081,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/275613/4720081.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2014-01-17",
+      "title": {
+        "en": "Demons and Underwear and Crabs / The State of Hell, and This and That"
+      },
+      "tvdbShowId": 275613,
+      "tvdbId": 4760244,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/275613/4760244.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2014-01-24",
+      "title": {
+        "en": "Hakutaku / How Their Discord Came to Be"
+      },
+      "tvdbShowId": 275613,
+      "tvdbId": 4760245,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/275613/4760245.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2014-01-31",
+      "title": {
+        "en": "Pretty Boys Need Love Too / The Crackling Hell"
+      },
+      "tvdbShowId": 275613,
+      "tvdbId": 4760246,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/275613/4760246.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2014-02-07",
+      "title": {
+        "en": "The Instrumental Duo of the Mighty Rivals / Mental Sports Day"
+      },
+      "tvdbShowId": 275613,
+      "tvdbId": 4778018,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/275613/4778018.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2014-02-14",
+      "title": {
+        "en": "Hell Idol: Peach Maki / The Right Arm Blues"
+      },
+      "tvdbShowId": 275613,
+      "tvdbId": 4791788,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/275613/4791788.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2014-02-21",
+      "title": {
+        "en": "Man and Woman and Mortal Hell / Hell-Style Acupuncture and Moxibustion Techniques: How-To Use the Johari Mirror"
+      },
+      "tvdbShowId": 275613,
+      "tvdbId": 4791789,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/275613/4791789.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2014-02-28",
+      "title": {
+        "en": "The Trashy Battle / The 36 Views of Hell"
+      },
+      "tvdbShowId": 275613,
+      "tvdbId": 4791790,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/275613/4791790.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2014-03-07",
+      "title": {
+        "en": "The Ultimate Example of Ruin Through Wine and Women / Awash with Drunks Who Came Home"
+      },
+      "tvdbShowId": 275613,
+      "tvdbId": 4791791,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/275613/4791791.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2014-03-14",
+      "title": {
+        "en": "Dinner of the Ten Kings of the Afterlife / Diets Are Hell"
+      },
+      "tvdbShowId": 275613,
+      "tvdbId": 4791792,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/275613/4791792.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2014-03-21",
+      "title": {
+        "en": "The Samurai Who Was Once Inch-High / The Quagmire Sisters of the Mount"
+      },
+      "tvdbShowId": 275613,
+      "tvdbId": 4791795,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/275613/4791795.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2014-03-28",
+      "title": {
+        "en": "Lady Lilith and Her Husband / Why Monsters Are So Widely Spread Throughout Mundane China"
+      },
+      "tvdbShowId": 275613,
+      "tvdbId": 4791796,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/275613/4791796.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2014-04-04",
+      "title": {
+        "en": "Hell`s Bon Festival of Lights / Idle Chat with the Great King Enma"
+      },
+      "tvdbShowId": 275613,
+      "tvdbId": 4840048,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/275613/4840048.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "2m",
+      "airDate": "2014-07-09",
+      "title": {
+        "en": "Special 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Song Single PV"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "60m",
+      "airDate": "",
+      "title": {
+        "en": "Aki Event Digest"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "2014-01-10",
+      "title": {
+        "en": "Jigoku no Sata mo Kimi Shidai (1-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "2014-01-10",
+      "title": {
+        "en": "Ookina Kingyo no Ki no Shita de (1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2": {
+      "episode": "ED2",
+      "length": "2m",
+      "airDate": "2014-01-17",
+      "title": {
+        "en": "Parallax View (2-7, 9-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED3": {
+      "episode": "ED3",
+      "length": "2m",
+      "airDate": "2014-02-28",
+      "title": {
+        "en": "Caramel Momo Jam 120% (8)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "0m",
+      "airDate": "2013-07-05",
+      "title": {
+        "en": "PV"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "PV2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "2m",
+      "airDate": "2013-11-22",
+      "title": {
+        "en": "PV3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T19:06:37.830Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

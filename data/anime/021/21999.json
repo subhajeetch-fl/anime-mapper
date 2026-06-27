@@ -1,0 +1,878 @@
+{
+  "id": 21999,
+  "idMal": 21999,
+  "mappings": {
+    "mal": 21999,
+    "anilist": 21022,
+    "anidb": 9818,
+    "kitsu": 9723,
+    "simkl": 46738,
+    "tmdb": 46392,
+    "tvdb": 261667,
+    "trakt": 46133,
+    "traktType": "shows",
+    "shikimori": 21999,
+    "livechart": 7488,
+    "animeplanet": "duel-masters-victory-v3",
+    "anisearch": 8669,
+    "notify": "-e-YpKmmR"
+  },
+  "title": {
+    "romaji": "Duel Masters Victory V3",
+    "english": "Duel Masters Victory V3",
+    "native": "デュエル・マスターズ ビクトリーV3",
+    "synonyms": []
+  },
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 51,
+  "episodeLength": 24,
+  "aired": {
+    "from": "2013-04-06T00:00:00+00:00",
+    "to": "2014-03-29T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 2013,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 5.69,
+    "anilistScore": 4.5,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Card Games"
+  ],
+  "studios": [
+    "Shogakukan Music & Digital Entertainment"
+  ],
+  "producers": [
+    "TV Tokyo",
+    "Shogakukan-Shueisha Productions"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1264/105194l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21022-uMHWNv4npsiJ.jpg",
+    "color": "#1a86f1"
+  },
+  "trailer": null,
+  "synopsis": "In this series the story continues after Katta Kirifuda defeats the YA.RA.SI band and also gains back his popularity by defeating Leo and his sidekick Nai Minamimo.\n\nIn this series Katta will use a new race of Outrage creatures against the opposing new race of Oracle deck users. Also in the creature world a new time era will start off.\n\n(Source: Duel Masters Wikia)",
+  "sequence": [
+    {
+      "malId": 21997,
+      "title": {
+        "romaji": "Duel Masters Victory V",
+        "english": null,
+        "native": "デュエル・マスターズ ビクトリーV"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21021-yVDyWvwYp0OG.jpg",
+      "format": "TV_SHORT",
+      "episodes": 51,
+      "seasonYear": 2012,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 23409,
+      "title": {
+        "romaji": "Duel Masters VS",
+        "english": null,
+        "native": "デュエル・マスターズ VS"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21023-x40Ipw4yBt42.jpg",
+      "format": "TV",
+      "episodes": 49,
+      "seasonYear": 2014,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2013-04-06",
+      "title": {
+        "en": "Episode 1"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115594,
+      "seasonNumber": 9,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 369,
+      "runtime": 25,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2013-04-13",
+      "title": {
+        "en": "Episode 2"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115597,
+      "seasonNumber": 9,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 370,
+      "runtime": 25,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2013-04-20",
+      "title": {
+        "en": "Episode 3"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115598,
+      "seasonNumber": 9,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 371,
+      "runtime": 25,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2013-04-27",
+      "title": {
+        "en": "Episode 4"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115599,
+      "seasonNumber": 9,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 372,
+      "runtime": 25,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2013-05-04",
+      "title": {
+        "en": "Episode 5"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115601,
+      "seasonNumber": 9,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 373,
+      "runtime": 25,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2013-05-11",
+      "title": {
+        "en": "Episode 6"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115602,
+      "seasonNumber": 9,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 374,
+      "runtime": 25,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2013-05-18",
+      "title": {
+        "en": "Episode 7"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115604,
+      "seasonNumber": 9,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 375,
+      "runtime": 25,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2013-05-25",
+      "title": {
+        "en": "Episode 8"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115606,
+      "seasonNumber": 9,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 376,
+      "runtime": 25,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2013-06-01",
+      "title": {
+        "en": "Episode 9"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115610,
+      "seasonNumber": 9,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 377,
+      "runtime": 25,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2013-06-08",
+      "title": {
+        "en": "Episode 10"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115611,
+      "seasonNumber": 9,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 378,
+      "runtime": 25,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2013-06-15",
+      "title": {
+        "en": "Episode 11"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115612,
+      "seasonNumber": 9,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 379,
+      "runtime": 25,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2013-06-22",
+      "title": {
+        "en": "Episode 12"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115613,
+      "seasonNumber": 9,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 380,
+      "runtime": 25,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2013-06-29",
+      "title": {
+        "en": "Episode 13"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115615,
+      "seasonNumber": 9,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 381,
+      "runtime": 25,
+      "image": null
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "2013-07-06",
+      "title": {
+        "en": "Episode 14"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115617,
+      "seasonNumber": 9,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 382,
+      "runtime": 25,
+      "image": null
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "2013-07-13",
+      "title": {
+        "en": "Episode 15"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115618,
+      "seasonNumber": 9,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 383,
+      "runtime": 25,
+      "image": null
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "2013-07-20",
+      "title": {
+        "en": "Episode 16"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115619,
+      "seasonNumber": 9,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 384,
+      "runtime": 25,
+      "image": null
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "2013-07-27",
+      "title": {
+        "en": "Episode 17"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115620,
+      "seasonNumber": 9,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 385,
+      "runtime": 25,
+      "image": null
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "2013-08-03",
+      "title": {
+        "en": "Episode 18"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115621,
+      "seasonNumber": 9,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 386,
+      "runtime": 25,
+      "image": null
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "2013-08-10",
+      "title": {
+        "en": "Episode 19"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115622,
+      "seasonNumber": 9,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 387,
+      "runtime": 25,
+      "image": null
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "2013-08-17",
+      "title": {
+        "en": "Episode 20"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115623,
+      "seasonNumber": 9,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 388,
+      "runtime": 25,
+      "image": null
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "2013-08-24",
+      "title": {
+        "en": "Episode 21"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115624,
+      "seasonNumber": 9,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 389,
+      "runtime": 25,
+      "image": null
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "2013-08-31",
+      "title": {
+        "en": "Episode 22"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115625,
+      "seasonNumber": 9,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 390,
+      "runtime": 25,
+      "image": null
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "2013-09-07",
+      "title": {
+        "en": "Episode 23"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115626,
+      "seasonNumber": 9,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 391,
+      "runtime": 25,
+      "image": null
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "2013-09-14",
+      "title": {
+        "en": "Episode 24"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115627,
+      "seasonNumber": 9,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 392,
+      "runtime": 25,
+      "image": null
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "2013-09-21",
+      "title": {
+        "en": "Episode 25"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115629,
+      "seasonNumber": 9,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 393,
+      "runtime": 25,
+      "image": null
+    },
+    "26": {
+      "episode": "26",
+      "length": "25m",
+      "airDate": "2013-09-28",
+      "title": {
+        "en": "Episode 26"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115630,
+      "seasonNumber": 9,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 394,
+      "runtime": 25,
+      "image": null
+    },
+    "27": {
+      "episode": "27",
+      "length": "25m",
+      "airDate": "2013-10-05",
+      "title": {
+        "en": "Episode 27"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115631,
+      "seasonNumber": 9,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 395,
+      "runtime": 25,
+      "image": null
+    },
+    "28": {
+      "episode": "28",
+      "length": "25m",
+      "airDate": "2013-10-12",
+      "title": {
+        "en": "Episode 28"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115632,
+      "seasonNumber": 9,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 396,
+      "runtime": 25,
+      "image": null
+    },
+    "29": {
+      "episode": "29",
+      "length": "25m",
+      "airDate": "2013-10-19",
+      "title": {
+        "en": "Episode 29"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115633,
+      "seasonNumber": 9,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 397,
+      "runtime": 25,
+      "image": null
+    },
+    "30": {
+      "episode": "30",
+      "length": "25m",
+      "airDate": "2013-10-26",
+      "title": {
+        "en": "Episode 30"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115634,
+      "seasonNumber": 9,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 398,
+      "runtime": 25,
+      "image": null
+    },
+    "31": {
+      "episode": "31",
+      "length": "25m",
+      "airDate": "2013-11-02",
+      "title": {
+        "en": "Episode 31"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115635,
+      "seasonNumber": 9,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 399,
+      "runtime": 25,
+      "image": null
+    },
+    "32": {
+      "episode": "32",
+      "length": "25m",
+      "airDate": "2013-11-09",
+      "title": {
+        "en": "Episode 32"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115637,
+      "seasonNumber": 9,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 400,
+      "runtime": 25,
+      "image": null
+    },
+    "33": {
+      "episode": "33",
+      "length": "25m",
+      "airDate": "2013-11-16",
+      "title": {
+        "en": "Episode 33"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115639,
+      "seasonNumber": 9,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 401,
+      "runtime": 25,
+      "image": null
+    },
+    "34": {
+      "episode": "34",
+      "length": "25m",
+      "airDate": "2013-11-23",
+      "title": {
+        "en": "Episode 34"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115640,
+      "seasonNumber": 9,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 402,
+      "runtime": 25,
+      "image": null
+    },
+    "35": {
+      "episode": "35",
+      "length": "25m",
+      "airDate": "2013-11-30",
+      "title": {
+        "en": "Episode 35"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115641,
+      "seasonNumber": 9,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": 403,
+      "runtime": 25,
+      "image": null
+    },
+    "36": {
+      "episode": "36",
+      "length": "25m",
+      "airDate": "2013-12-07",
+      "title": {
+        "en": "Episode 36"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115642,
+      "seasonNumber": 9,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 404,
+      "runtime": 25,
+      "image": null
+    },
+    "37": {
+      "episode": "37",
+      "length": "25m",
+      "airDate": "2013-12-14",
+      "title": {
+        "en": "Episode 37"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115644,
+      "seasonNumber": 9,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 405,
+      "runtime": 25,
+      "image": null
+    },
+    "38": {
+      "episode": "38",
+      "length": "25m",
+      "airDate": "2013-12-21",
+      "title": {
+        "en": "Episode 38"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115645,
+      "seasonNumber": 9,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 406,
+      "runtime": 25,
+      "image": null
+    },
+    "39": {
+      "episode": "39",
+      "length": "25m",
+      "airDate": "2013-12-28",
+      "title": {
+        "en": "Episode 39"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115646,
+      "seasonNumber": 9,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": 407,
+      "runtime": 25,
+      "image": null
+    },
+    "40": {
+      "episode": "40",
+      "length": "25m",
+      "airDate": "2014-01-11",
+      "title": {
+        "en": "Episode 40"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115647,
+      "seasonNumber": 9,
+      "episodeNumber": 40,
+      "absoluteEpisodeNumber": 408,
+      "runtime": 25,
+      "image": null
+    },
+    "41": {
+      "episode": "41",
+      "length": "25m",
+      "airDate": "2014-01-18",
+      "title": {
+        "en": "Episode 41"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115648,
+      "seasonNumber": 9,
+      "episodeNumber": 41,
+      "absoluteEpisodeNumber": 409,
+      "runtime": 25,
+      "image": null
+    },
+    "42": {
+      "episode": "42",
+      "length": "25m",
+      "airDate": "2014-01-25",
+      "title": {
+        "en": "Episode 42"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115649,
+      "seasonNumber": 9,
+      "episodeNumber": 42,
+      "absoluteEpisodeNumber": 410,
+      "runtime": 25,
+      "image": null
+    },
+    "43": {
+      "episode": "43",
+      "length": "25m",
+      "airDate": "2014-02-01",
+      "title": {
+        "en": "Episode 43"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115650,
+      "seasonNumber": 9,
+      "episodeNumber": 43,
+      "absoluteEpisodeNumber": 411,
+      "runtime": 25,
+      "image": null
+    },
+    "44": {
+      "episode": "44",
+      "length": "25m",
+      "airDate": "2014-02-08",
+      "title": {
+        "en": "Episode 44"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115651,
+      "seasonNumber": 9,
+      "episodeNumber": 44,
+      "absoluteEpisodeNumber": 412,
+      "runtime": 25,
+      "image": null
+    },
+    "45": {
+      "episode": "45",
+      "length": "25m",
+      "airDate": "2014-02-15",
+      "title": {
+        "en": "Episode 45"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115653,
+      "seasonNumber": 9,
+      "episodeNumber": 45,
+      "absoluteEpisodeNumber": 413,
+      "runtime": 25,
+      "image": null
+    },
+    "46": {
+      "episode": "46",
+      "length": "25m",
+      "airDate": "2014-02-22",
+      "title": {
+        "en": "Episode 46"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115654,
+      "seasonNumber": 9,
+      "episodeNumber": 46,
+      "absoluteEpisodeNumber": 414,
+      "runtime": 25,
+      "image": null
+    },
+    "47": {
+      "episode": "47",
+      "length": "25m",
+      "airDate": "2014-03-01",
+      "title": {
+        "en": "Episode 47"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115655,
+      "seasonNumber": 9,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": 415,
+      "runtime": 25,
+      "image": null
+    },
+    "48": {
+      "episode": "48",
+      "length": "25m",
+      "airDate": "2014-03-08",
+      "title": {
+        "en": "Episode 48"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115656,
+      "seasonNumber": 9,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": 416,
+      "runtime": 25,
+      "image": null
+    },
+    "49": {
+      "episode": "49",
+      "length": "25m",
+      "airDate": "2014-03-15",
+      "title": {
+        "en": "Episode 49"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115657,
+      "seasonNumber": 9,
+      "episodeNumber": 49,
+      "absoluteEpisodeNumber": 417,
+      "runtime": 25,
+      "image": null
+    },
+    "50": {
+      "episode": "50",
+      "length": "25m",
+      "airDate": "2014-03-22",
+      "title": {
+        "en": "Episode 50"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115658,
+      "seasonNumber": 9,
+      "episodeNumber": 50,
+      "absoluteEpisodeNumber": 418,
+      "runtime": 25,
+      "image": null
+    },
+    "51": {
+      "episode": "51",
+      "length": "25m",
+      "airDate": "2014-03-29",
+      "title": {
+        "en": "Episode 51"
+      },
+      "tvdbShowId": 261667,
+      "tvdbId": 7115659,
+      "seasonNumber": 9,
+      "episodeNumber": 51,
+      "absoluteEpisodeNumber": 419,
+      "runtime": 25,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T19:21:37.514Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

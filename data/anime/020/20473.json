@@ -1,0 +1,130 @@
+{
+  "id": 20473,
+  "idMal": 20473,
+  "mappings": {
+    "mal": 20473,
+    "anilist": 20444,
+    "anidb": null,
+    "kitsu": 7980,
+    "simkl": null,
+    "tmdb": 53020,
+    "tvdb": 262856,
+    "trakt": 67893,
+    "traktType": "shows",
+    "shikimori": 20473,
+    "livechart": 202,
+    "animeplanet": "teekyuu-3",
+    "anisearch": 9062,
+    "notify": "vVdhtKmmg"
+  },
+  "title": {
+    "romaji": "Teekyuu 3",
+    "english": "Teekyu 3",
+    "native": "てーきゅう3",
+    "synonyms": [
+      "Teekyu 3",
+      "Te-kyu 3"
+    ]
+  },
+  "type": "TV",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
+  "episodeLength": 2,
+  "aired": {
+    "from": "2013-10-06T00:00:00+00:00",
+    "to": "2013-12-22T00:00:00+00:00"
+  },
+  "season": "fall",
+  "year": 2013,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:27",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.74,
+    "anilistScore": 6.6,
+    "kitsuRating": 6.72
+  },
+  "genres": [
+    "Comedy",
+    "Sports",
+    "School",
+    "School Life",
+    "Slapstick",
+    "Tennis",
+    "Parody"
+  ],
+  "studios": [
+    "MAPPA"
+  ],
+  "producers": [
+    "DAX Production",
+    "Earth Star Entertainment"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/11/73503l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20444.jpg",
+    "color": "#e48650"
+  },
+  "trailer": null,
+  "synopsis": "Third season of Teekyuu series.",
+  "sequence": [
+    {
+      "malId": 18121,
+      "title": {
+        "romaji": "Teekyuu 2",
+        "english": "Teekyuu 2",
+        "native": "てーきゅう2"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18121-k8UaPii7p9sl.jpg",
+      "format": "TV_SHORT",
+      "episodes": 12,
+      "seasonYear": 2013,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 22335,
+      "title": {
+        "romaji": "Teekyuu 3 Specials",
+        "english": "Teekyuu 3 Specials",
+        "native": "てーきゅう3 特典"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20834.jpg",
+      "format": "SPECIAL",
+      "episodes": 2,
+      "seasonYear": 2014,
+      "relationType": "SIDE_STORY"
+    },
+    {
+      "malId": 26395,
+      "title": {
+        "romaji": "Teekyuu 4",
+        "english": "Teekyuu 4",
+        "native": "てーきゅう4"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20833-ucZRXykHU8FW.jpg",
+      "format": "TV_SHORT",
+      "episodes": 12,
+      "seasonYear": 2015,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-06-27T19:06:53.149Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,678 @@
+{
+  "id": 23273,
+  "idMal": 23273,
+  "mappings": {
+    "mal": 23273,
+    "anilist": 20665,
+    "anidb": 10539,
+    "kitsu": 8403,
+    "simkl": 48926,
+    "tmdb": 61663,
+    "tvdb": 279830,
+    "trakt": 76764,
+    "traktType": "shows",
+    "shikimori": 23273,
+    "livechart": 479,
+    "animeplanet": "your-lie-in-april",
+    "anisearch": 9536,
+    "notify": "fF4AtFmmR"
+  },
+  "title": {
+    "romaji": "Shigatsu wa Kimi no Uso",
+    "english": "Your Lie in April",
+    "native": "四月は君の嘘",
+    "synonyms": [
+      "Kimiuso",
+      "השקר שלך באפריל",
+      "Bugie d'aprile",
+      "四月是你的谎言",
+      "YLIA",
+      "Sekunden in Moll",
+      "Твоя апрельская ложь",
+      "Tháng Tư Là Lời Nói Dối Của Em"
+    ]
+  },
+  "type": "TV",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 22,
+  "episodeLength": 22,
+  "aired": {
+    "from": "2014-10-10T00:00:00+00:00",
+    "to": "2015-03-20T00:00:00+00:00"
+  },
+  "season": "fall",
+  "year": 2014,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:20",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 8.64,
+    "anilistScore": 8.4,
+    "kitsuRating": 8.23
+  },
+  "genres": [
+    "Drama",
+    "Romance",
+    "Music",
+    "Slice of Life",
+    "School",
+    "Friendship",
+    "Present",
+    "Earth",
+    "Japan",
+    "Plot Continuity",
+    "Asia",
+    "The Arts",
+    "Parental Abandonment",
+    "School Life"
+  ],
+  "studios": [
+    "A-1 Pictures"
+  ],
+  "producers": [
+    "Aniplex",
+    "Dentsu",
+    "Kodansha",
+    "Fuji TV",
+    "Lawson HMV Entertainment",
+    "Kyoraku Industrial Holdings",
+    "Kansai TV"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20665-j4kSsfhfkM24.jpg",
+    "color": "#e4bb50"
+  },
+  "trailer": null,
+  "synopsis": "Kousei Arima is a child prodigy known as the \"Human Metronome\" for playing the piano with precision and perfection. Guided by a strict mother and rigorous training, Kousei dominates every competition he enters, earning the admiration of his musical peers and praise from audiences. When his mother suddenly passes away, the subsequent trauma makes him unable to hear the sound of a piano, and he never takes the stage thereafter.\n\nNowadays, Kousei lives a quiet and unassuming life as a junior high school student alongside his friends Tsubaki Sawabe and Ryouta Watari. While struggling to get over his mother's death, he continues to cling to music. His monochrome life turns upside down the day he encounters the eccentric violinist Kaori Miyazono, who thrusts him back into the spotlight as her accompanist. Through a little lie, these two young musicians grow closer together as Kaori tries to fill Kousei's world with color.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 28069,
+      "title": {
+        "romaji": "Shigatsu wa Kimi no Uso: MOMENTS",
+        "english": "Your lie in April: Moments",
+        "native": "四月は君の嘘 MOMENTS"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21039-X68Dgfa7VG2v.jpg",
+      "format": "OVA",
+      "episodes": 1,
+      "seasonYear": 2015,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2014-10-10",
+      "title": {
+        "en": "Monotone / Colorful"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 4834151,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9bfbaf06de2.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2014-10-17",
+      "title": {
+        "en": "Friend A"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013326,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9bfc93be0e2.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2014-10-24",
+      "title": {
+        "en": "Inside Spring"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013327,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9bfce3eac9a.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2014-10-31",
+      "title": {
+        "en": "Departure"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013328,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9bfd6a60495.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2014-11-07",
+      "title": {
+        "en": "Gray Skies"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013329,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9bfdb3c9cd0.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2014-11-14",
+      "title": {
+        "en": "On the Way Home"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013330,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9bfe1cb2eab.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2014-11-21",
+      "title": {
+        "en": "The Shadows Whisper"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013331,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9bfe8795b2d.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2014-11-28",
+      "title": {
+        "en": "Let It Ring"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013332,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9bfeed1bc26.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2014-12-05",
+      "title": {
+        "en": "Resonance"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013333,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9bff25bf63e.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2014-12-12",
+      "title": {
+        "en": "The Scenery I Shared with You"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013334,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9bff7819637.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2014-12-19",
+      "title": {
+        "en": "Light of Life"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013335,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9bfffcd6b0e.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2015-01-08",
+      "title": {
+        "en": "Twinkle Little Star"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013599,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9c006417d1c.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2015-01-15",
+      "title": {
+        "en": "Love`s Sadness"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013600,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9c0120ea5b6.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "2015-01-22",
+      "title": {
+        "en": "Footprints"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013601,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9c0182ecfdb.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "2015-01-29",
+      "title": {
+        "en": "Liar"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013602,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9c043f9844b.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "2015-02-06",
+      "title": {
+        "en": "Two of a Kind"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013604,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9c049908124.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "2015-02-13",
+      "title": {
+        "en": "Twilight"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013605,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9c04eced18e.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "2015-02-20",
+      "title": {
+        "en": "Hearts Come Together"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013606,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9c055b17be7.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "2015-02-27",
+      "title": {
+        "en": "Goodbye Hero"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013607,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9c05adba075.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "2015-03-06",
+      "title": {
+        "en": "Hand in Hand"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013608,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9c062ec7b38.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "2015-03-13",
+      "title": {
+        "en": "Snow"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013609,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9c068f990b1.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "2015-03-20",
+      "title": {
+        "en": "Spring Wind"
+      },
+      "tvdbShowId": 279830,
+      "tvdbId": 5013610,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/279830/episodes/5e9c06d3acb87.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "7m",
+      "airDate": "2016-05-31",
+      "title": {
+        "en": "English Bloopers"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "2014-10-10",
+      "title": {
+        "en": "Hikaru Nara (1-11)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP2": {
+      "episode": "OP2",
+      "length": "2m",
+      "airDate": "2015-01-09",
+      "title": {
+        "en": "Nanairo Symphony (12-22)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "2014-10-10",
+      "title": {
+        "en": "Kirameki (1-11)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2": {
+      "episode": "ED2",
+      "length": "2m",
+      "airDate": "2015-01-09",
+      "title": {
+        "en": "Orange (12-21)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "2m",
+      "airDate": "2014-03-21",
+      "title": {
+        "en": "Trailer 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "1m",
+      "airDate": "2014-07-17",
+      "title": {
+        "en": "CM 1 (15 sec)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "1m",
+      "airDate": "2014-07-17",
+      "title": {
+        "en": "CM 1 (30 sec)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T4": {
+      "episode": "T4",
+      "length": "2m",
+      "airDate": "2014-07-17",
+      "title": {
+        "en": "Trailer 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T5": {
+      "episode": "T5",
+      "length": "1m",
+      "airDate": "2014-08-14",
+      "title": {
+        "en": "Cover Song Trailer 1: Zenryoku Shounen (15 sec)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T6": {
+      "episode": "T6",
+      "length": "1m",
+      "airDate": "2014-08-14",
+      "title": {
+        "en": "Cover Song Trailer 1: Zenryoku Shounen (30 sec)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T7": {
+      "episode": "T7",
+      "length": "1m",
+      "airDate": "2014-09-11",
+      "title": {
+        "en": "Cover Song Trailer 2: Uroko (15 sec)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T8": {
+      "episode": "T8",
+      "length": "1m",
+      "airDate": "2014-09-11",
+      "title": {
+        "en": "Cover Song Trailer 2: Uroko (30 sec)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T9": {
+      "episode": "T9",
+      "length": "3m",
+      "airDate": "2014-09-28",
+      "title": {
+        "en": "Trailer 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T10": {
+      "episode": "T10",
+      "length": "2m",
+      "airDate": "2016-01-15",
+      "title": {
+        "en": "English Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T19:49:38.497Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

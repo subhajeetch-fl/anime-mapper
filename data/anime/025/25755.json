@@ -1,0 +1,129 @@
+{
+  "id": 25755,
+  "idMal": 25755,
+  "mappings": {
+    "mal": 25755,
+    "anilist": 20808,
+    "anidb": 10769,
+    "kitsu": 8657,
+    "simkl": 53042,
+    "tmdb": 292740,
+    "tvdb": null,
+    "trakt": 189536,
+    "traktType": "movies",
+    "shikimori": 25755,
+    "livechart": 700,
+    "animeplanet": "yowamushi-pedal-re-ride",
+    "anisearch": 9789,
+    "notify": "e9FJpFmmR"
+  },
+  "title": {
+    "romaji": "Yowamushi Pedal: Re:RIDE",
+    "english": "Yowapeda Re:RIDE",
+    "native": "弱虫ペダル Re:RIDE",
+    "synonyms": [
+      "Yowapeda: Re:RIDE"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 88,
+  "aired": {
+    "from": "2014-09-19T00:00:00+00:00",
+    "to": "2014-09-19"
+  },
+  "season": "summer",
+  "year": 2014,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.36,
+    "anilistScore": 7,
+    "kitsuRating": 7.38
+  },
+  "genres": [
+    "Sports",
+    "Drama",
+    "Racing",
+    "Cycling"
+  ],
+  "studios": [
+    "TMS Entertainment",
+    "Toho"
+  ],
+  "producers": [
+    "TOHO animation"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/10/86876l.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/8657/original.jpg",
+    "color": "#e4e435"
+  },
+  "trailer": null,
+  "synopsis": "A retelling of the first season, taking place at Toudou's family inn where he, Makishima, and Onoda reflect on the events.",
+  "sequence": [
+    {
+      "malId": 18179,
+      "title": {
+        "romaji": "Yowamushi Pedal",
+        "english": null,
+        "native": "弱虫ペダル"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18179-YG0tghcQBxGe.png",
+      "format": "TV",
+      "episodes": 38,
+      "seasonYear": 2013,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 30790,
+      "title": {
+        "romaji": "Yowamushi Pedal: Re:ROAD",
+        "english": "Yowamushi Pedal: Re:ROAD",
+        "native": "弱虫ペダル Re:ROAD"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21194-CQsEZJJOUeDk.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2015,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "90m",
+      "airDate": "2014-09-19",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 272309,
+      "tvdbId": 4965498,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 88,
+      "image": "https://artworks.thetvdb.com/banners/episodes/272309/4965498.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T20:28:11.164Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

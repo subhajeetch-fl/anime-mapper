@@ -1,0 +1,114 @@
+{
+  "id": 28495,
+  "idMal": 28495,
+  "mappings": {
+    "mal": 28495,
+    "anilist": 21154,
+    "anidb": 10939,
+    "kitsu": 10031,
+    "simkl": 438720,
+    "tmdb": 60831,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 28495,
+    "livechart": 1303,
+    "animeplanet": "knights-of-sidonia-movie",
+    "anisearch": 10046,
+    "notify": "tEXEpKimR"
+  },
+  "title": {
+    "romaji": "Sidonia no Kishi Movie",
+    "english": "Knights of Sidonia: The Movie",
+    "native": "劇場版 シドニアの騎士",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 134,
+  "aired": {
+    "from": "2015-03-06T00:00:00+00:00",
+    "to": "2015-03-06"
+  },
+  "season": "winter",
+  "year": 2015,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "R+ - Mild Nudity",
+  "score": {
+    "malScore": 7.24,
+    "anilistScore": 6.7,
+    "kitsuRating": 7.5
+  },
+  "genres": [
+    "Sci-Fi",
+    "Action",
+    "Fantasy",
+    "Mecha",
+    "Supernatural",
+    "Space",
+    "Science Fiction"
+  ],
+  "studios": [
+    "Polygon Pictures"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/6/69369l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21154-v7ABJoOvh1Yc.jpg",
+    "color": "#ff9335"
+  },
+  "trailer": null,
+  "synopsis": "A recap of the first season of Sidonia no Kishi with additional scenes and re-edited sound effects.",
+  "sequence": [
+    {
+      "malId": 19775,
+      "title": {
+        "romaji": "Sidonia no Kishi",
+        "english": "Knights of Sidonia",
+        "native": "シドニアの騎士"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19775-h4Fc1q5qsGfP.png",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2014,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "135m",
+      "airDate": "2015-03-06",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 278154,
+      "tvdbId": 5160635,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 134,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T21:12:14.540Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

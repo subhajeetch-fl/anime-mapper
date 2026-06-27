@@ -1,0 +1,678 @@
+{
+  "id": 22265,
+  "idMal": 22265,
+  "mappings": {
+    "mal": 22265,
+    "anilist": 20614,
+    "anidb": 10415,
+    "kitsu": 8273,
+    "simkl": 50244,
+    "tmdb": 61456,
+    "tvdb": 270065,
+    "trakt": 70834,
+    "traktType": "shows",
+    "shikimori": 22265,
+    "livechart": 418,
+    "animeplanet": "free-eternal-summer",
+    "anisearch": 9421,
+    "notify": "CsBopKmmR"
+  },
+  "title": {
+    "romaji": "Free!: Eternal Summer",
+    "english": "Free! -Eternal Summer-",
+    "native": "Free!-Eternal Summer-",
+    "synonyms": [
+      "Free! - Iwatobi Swim Club 2",
+      "Free! 2nd Season"
+    ]
+  },
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 13,
+  "episodeLength": 24,
+  "aired": {
+    "from": "2014-07-03T00:00:00+00:00",
+    "to": "2014-09-25T00:00:00+00:00"
+  },
+  "season": "summer",
+  "year": 2014,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.61,
+    "anilistScore": 7.5,
+    "kitsuRating": 7.8
+  },
+  "genres": [
+    "Sports",
+    "Comedy",
+    "Drama",
+    "Slice of Life",
+    "School",
+    "Bishounen",
+    "High School",
+    "Present",
+    "Earth",
+    "School Clubs",
+    "Japan",
+    "Plot Continuity",
+    "Asia",
+    "Friendship",
+    "School Life"
+  ],
+  "studios": [
+    "Kyoto Animation",
+    "Animation Do"
+  ],
+  "producers": [
+    "Lantis",
+    "Pony Canyon",
+    "Iwatobi High School Swimming Club",
+    "Asahi Broadcasting"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1719/108886l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20614.jpg",
+    "color": "#f1d6bb"
+  },
+  "trailer": null,
+  "synopsis": "Even though it has been a year since the Iwatobi High School Swim Club has been created, new members have yet to join the club. Now that Haruka Nanase and Makoto Tachibana are senior students, along with their younger friends Nagisa Hazuki and Rei Ryuugazaki, they have to find a way to attract new members. If not, the club will be forced to close the following year due to a lack of membership.\n\nMeanwhile, with impending graduation, it is also time for the seniors to decide their plans for the future. Unlike their friend Rin Matsuoka, the new captain of Samezuka Academy Swim Club who is determined to fulfill his dream of being a professional swimmer, Haruka and Makoto are unsure about what career path they want to take.\n\nFurther problems arise when an old friend of Rin's, Sousuke Yamazaki, comes to the city to study at Samezuka Academy; the recently scouted swimmer's arrival causes tension in the relationship among him, Rin, and Haruka.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 18507,
+      "title": {
+        "romaji": "Free!",
+        "english": "Free! -Iwatobi Swim Club-",
+        "native": "Free!"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18507-RajfCYPpBfT3.png",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2013,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 26213,
+      "title": {
+        "romaji": "Free!: Eternal Summer - Kindan no All Hard!",
+        "english": "Free! -Eternal Summer-: Forbidden All-Hard!",
+        "native": "Free!-Eternal Summer- 禁断のオールハード！"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21091-k2SQybroJSeW.jpg",
+      "format": "OVA",
+      "episodes": 1,
+      "seasonYear": 2015,
+      "relationType": "SIDE_STORY"
+    },
+    {
+      "malId": 33845,
+      "title": {
+        "romaji": "Free!: Timeless Medley - Kizuna",
+        "english": "Free! -Timeless Medley- The Bond",
+        "native": "劇場版 Free!-Timeless Medley- 絆"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98495-4mzOXo8Dj3pY.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2017,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 35191,
+      "title": {
+        "romaji": "Free!: Timeless Medley - Yakusoku",
+        "english": "Free! -Timeless Medley- The Promise",
+        "native": "劇場版 Free!-Timeless Medley- 約束"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98496-5t9VFhYHyhzA.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2017,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 35198,
+      "title": {
+        "romaji": "Free!: Take Your Marks",
+        "english": "Free! -Take Your Marks-",
+        "native": "特別版 Free!-Take Your Marks-"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98497-6HJBfNzL704B.jpg",
+      "format": "MOVIE",
+      "episodes": 4,
+      "seasonYear": 2017,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2014-07-03",
+      "title": {
+        "en": "Storm of Dive and Dash!"
+      },
+      "tvdbShowId": 270065,
+      "tvdbId": 4780502,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/270065/4780502.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2014-07-10",
+      "title": {
+        "en": "Stroke of Chance Encounter!"
+      },
+      "tvdbShowId": 270065,
+      "tvdbId": 4921248,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/270065/4921248.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2014-07-17",
+      "title": {
+        "en": "Butterfly of Farewell!"
+      },
+      "tvdbShowId": 270065,
+      "tvdbId": 4921249,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/270065/4921249.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2014-07-24",
+      "title": {
+        "en": "Somersault Turn of Promise!"
+      },
+      "tvdbShowId": 270065,
+      "tvdbId": 4921250,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/270065/4921250.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2014-07-31",
+      "title": {
+        "en": "Head-Up of Decision!"
+      },
+      "tvdbShowId": 270065,
+      "tvdbId": 4921251,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/270065/4921251.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2014-08-07",
+      "title": {
+        "en": "Prime of Invincibility!"
+      },
+      "tvdbShowId": 270065,
+      "tvdbId": 4921252,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/270065/4921252.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2014-08-14",
+      "title": {
+        "en": "Crouching Start of Revenge!"
+      },
+      "tvdbShowId": 270065,
+      "tvdbId": 4921253,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/270065/4921253.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2014-08-21",
+      "title": {
+        "en": "Locomotive of Crisis!"
+      },
+      "tvdbShowId": 270065,
+      "tvdbId": 4921254,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/270065/4921254.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2014-08-28",
+      "title": {
+        "en": "Forming of Disruption!"
+      },
+      "tvdbShowId": 270065,
+      "tvdbId": 4921255,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/270065/4921255.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2014-09-04",
+      "title": {
+        "en": "Six-Beat of Tears!"
+      },
+      "tvdbShowId": 270065,
+      "tvdbId": 4921256,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/270065/4921256.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2014-09-11",
+      "title": {
+        "en": "Backstroke Turn of Fate!"
+      },
+      "tvdbShowId": 270065,
+      "tvdbId": 4921257,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/270065/4921257.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2014-09-18",
+      "title": {
+        "en": "Swim-Off in a Foreign Land!"
+      },
+      "tvdbShowId": 270065,
+      "tvdbId": 4921258,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/270065/4921258.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2014-09-25",
+      "title": {
+        "en": "Eternal Summer of Beginnings!"
+      },
+      "tvdbShowId": 270065,
+      "tvdbId": 4921259,
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/270065/4921259.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "25m",
+      "airDate": "2015-03-18",
+      "title": {
+        "en": "Forbidden All-Hard!"
+      },
+      "tvdbShowId": 270065,
+      "tvdbId": 4976439,
+      "seasonNumber": 0,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/270065/4976439.jpg"
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Slideshow 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Slideshow 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S4": {
+      "episode": "S4",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Slideshow 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "2014-07-03",
+      "title": {
+        "en": "Dried Up Youthful Fame (1-12, S1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "2014-07-03",
+      "title": {
+        "en": "Future Fish (1-12, S1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "2014-05-12",
+      "title": {
+        "en": "PV 1 (1:00): Rivals Haruka and Rin"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "2m",
+      "airDate": "2014-06-20",
+      "title": {
+        "en": "PV 2 (1:37): Character Moments"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "1m",
+      "airDate": "2014-07-03",
+      "title": {
+        "en": "Episode 2 Preview"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T4": {
+      "episode": "T4",
+      "length": "1m",
+      "airDate": "2014-07-10",
+      "title": {
+        "en": "Episode 3 Preview"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T5": {
+      "episode": "T5",
+      "length": "1m",
+      "airDate": "2014-07-17",
+      "title": {
+        "en": "Episode 4 Preview"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T6": {
+      "episode": "T6",
+      "length": "1m",
+      "airDate": "2014-07-24",
+      "title": {
+        "en": "Episode 5 Preview"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T7": {
+      "episode": "T7",
+      "length": "1m",
+      "airDate": "2014-07-31",
+      "title": {
+        "en": "Episode 6 Preview"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T8": {
+      "episode": "T8",
+      "length": "1m",
+      "airDate": "2014-08-07",
+      "title": {
+        "en": "Episode 7 Preview"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T9": {
+      "episode": "T9",
+      "length": "1m",
+      "airDate": "2014-08-14",
+      "title": {
+        "en": "Episode 8 Preview"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T10": {
+      "episode": "T10",
+      "length": "1m",
+      "airDate": "2014-08-21",
+      "title": {
+        "en": "Episode 9 Preview"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T11": {
+      "episode": "T11",
+      "length": "1m",
+      "airDate": "2014-08-28",
+      "title": {
+        "en": "Episode 10 Preview"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T12": {
+      "episode": "T12",
+      "length": "1m",
+      "airDate": "2014-09-04",
+      "title": {
+        "en": "Episode 11 Preview"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T13": {
+      "episode": "T13",
+      "length": "1m",
+      "airDate": "2014-09-11",
+      "title": {
+        "en": "Episode 12 Preview"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T14": {
+      "episode": "T14",
+      "length": "1m",
+      "airDate": "2014-09-18",
+      "title": {
+        "en": "Episode 13 Preview"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T15": {
+      "episode": "T15",
+      "length": "2m",
+      "airDate": "2015-06-27",
+      "title": {
+        "en": "Funimation Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T19:25:12.915Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

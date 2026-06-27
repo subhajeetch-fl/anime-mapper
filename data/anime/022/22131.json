@@ -1,0 +1,109 @@
+{
+  "id": 22131,
+  "idMal": 22131,
+  "mappings": {
+    "mal": 22131,
+    "anilist": 130912,
+    "anidb": 10434,
+    "kitsu": 9947,
+    "simkl": 47454,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 22131,
+    "livechart": null,
+    "animeplanet": "train-heroes-movie",
+    "anisearch": 9457,
+    "notify": "iftPpKimg"
+  },
+  "title": {
+    "romaji": "Train Heroes Movie",
+    "english": null,
+    "native": "劇場版 トレインヒーロー",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Unknown",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 120,
+  "aired": {
+    "from": "2014-02-22T00:00:00+00:00",
+    "to": "2014-02-22"
+  },
+  "season": "winter",
+  "year": 2014,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": null,
+    "anilistScore": null,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Action",
+    "Kids"
+  ],
+  "studios": [],
+  "producers": [
+    "TV Tokyo"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/6/58037l.jpg",
+    "banner": null,
+    "color": "#35d6e4"
+  },
+  "trailer": null,
+  "synopsis": "The mystery that was left untold in the TV series will be revealed in the movie.",
+  "sequence": [
+    {
+      "malId": 18137,
+      "title": {
+        "romaji": "Train Heroes",
+        "english": null,
+        "native": "トレインヒーロー"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18137.jpg",
+      "format": "TV",
+      "episodes": 26,
+      "seasonYear": 2013,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "90m",
+      "airDate": "2014-02-22",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T19:23:24.788Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

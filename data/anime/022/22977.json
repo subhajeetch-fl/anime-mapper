@@ -1,0 +1,124 @@
+{
+  "id": 22977,
+  "idMal": 22977,
+  "mappings": {
+    "mal": 22977,
+    "anilist": 128021,
+    "anidb": 7539,
+    "kitsu": 9117,
+    "simkl": 41088,
+    "tmdb": 66251,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 22977,
+    "livechart": 12165,
+    "animeplanet": "kaibutsu-kun-kaibutsu-land-e-no-shoutai",
+    "anisearch": 6250,
+    "notify": "Z3IatKmiR"
+  },
+  "title": {
+    "romaji": "Kaibutsu-kun: Kaibutsu Land e no Shoutai",
+    "english": null,
+    "native": "怪物くん 怪物ランドへの招待",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Unknown",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 75,
+  "aired": {
+    "from": "1981-03-14T00:00:00+00:00",
+    "to": "1981-03-14"
+  },
+  "season": "spring",
+  "year": 1981,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 5.91,
+    "anilistScore": null,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Comedy",
+    "Horror",
+    "Adventure",
+    "Kids"
+  ],
+  "studios": [
+    "Shin-Ei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/12/59885l.jpg",
+    "banner": null,
+    "color": "#2886e4"
+  },
+  "trailer": null,
+  "synopsis": "Based on the shounen manga by Fujiko Fujio.\n\nNote: Screened as a double feature with Doraemon: Nobita no Uchuu Kaitakushi.\n\n(Source: AniDB)",
+  "sequence": [
+    {
+      "malId": 3130,
+      "title": {
+        "romaji": "Kaibutsu-kun (1980)",
+        "english": null,
+        "native": "怪物くん (1980)"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3130.jpg",
+      "format": "TV",
+      "episodes": 94,
+      "seasonYear": 1980,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 2662,
+      "title": {
+        "romaji": "Doraemon: Nobita no Uchuu Kaitakushi",
+        "english": null,
+        "native": "のび太の宇宙開拓史"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2662.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1981,
+      "relationType": "OTHER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "75m",
+      "airDate": "1981-03-14",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 184211,
+      "tvdbId": 3572211,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/184211/3572211.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T19:43:54.228Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": 22161,
+  "idMal": 22161,
+  "mappings": {
+    "mal": 22161,
+    "anilist": 102387,
+    "anidb": 11310,
+    "kitsu": 9157,
+    "simkl": 508804,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 22161,
+    "livechart": 8825,
+    "animeplanet": "scrap-diary",
+    "anisearch": 10809,
+    "notify": "hR2apFmmR"
+  },
+  "title": {
+    "romaji": "Scrap Diary",
+    "english": null,
+    "native": "スクラップ・ダイアリー",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 4,
+  "aired": {
+    "from": "2002-01-01T00:00:00+00:00",
+    "to": "2002-01-01"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "R+ - Mild Nudity",
+  "score": {
+    "malScore": 3.29,
+    "anilistScore": 2.8,
+    "kitsuRating": 4.3
+  },
+  "genres": [
+    "Avant Garde",
+    "Dementia"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/3/88365l.jpg",
+    "banner": null,
+    "color": null
+  },
+  "trailer": null,
+  "synopsis": "An abstract work by Keichii Tanaami.",
+  "sequence": [
+    {
+      "malId": 30668,
+      "title": {
+        "romaji": "WALKING MAN",
+        "english": null,
+        "native": "WALKING MAN"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102388-BZMKMonVG13p.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "5m",
+      "airDate": "",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T19:23:40.188Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

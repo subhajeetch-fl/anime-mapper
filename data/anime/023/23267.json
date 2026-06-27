@@ -1,0 +1,106 @@
+{
+  "id": 23267,
+  "idMal": 23267,
+  "mappings": {
+    "mal": 23267,
+    "anilist": 102637,
+    "anidb": 6849,
+    "kitsu": 9519,
+    "simkl": 1571931,
+    "tmdb": 388877,
+    "tvdb": null,
+    "trakt": 231108,
+    "traktType": "movies",
+    "shikimori": 23267,
+    "livechart": null,
+    "animeplanet": "osaru-no-tairyou",
+    "anisearch": 5796,
+    "notify": "7alftKiig"
+  },
+  "title": {
+    "romaji": "Osaru no Tairyou",
+    "english": null,
+    "native": "お猿の大漁",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 9,
+  "aired": {
+    "from": "1933-12-01T00:00:00+00:00",
+    "to": "1933-12-01"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 5.02,
+    "anilistScore": 4,
+    "kitsuRating": 6.16
+  },
+  "genres": [
+    "Slice of Life"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1804/157350l.jpg",
+    "banner": null,
+    "color": null
+  },
+  "trailer": null,
+  "synopsis": "",
+  "sequence": [
+    {
+      "malId": 6851,
+      "title": {
+        "romaji": "Kaitei no Boukun",
+        "english": null,
+        "native": "海底の暴君"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6851.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "SUMMARY"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "9m",
+      "airDate": "1933-12-01",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T19:49:34.171Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

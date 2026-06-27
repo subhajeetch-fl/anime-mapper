@@ -1,0 +1,136 @@
+{
+  "id": 21121,
+  "idMal": 21121,
+  "mappings": {
+    "mal": 21121,
+    "anilist": 119134,
+    "anidb": 9168,
+    "kitsu": 9844,
+    "simkl": 40859,
+    "tmdb": 806075,
+    "tvdb": null,
+    "trakt": 640274,
+    "traktType": "movies",
+    "shikimori": 21121,
+    "livechart": null,
+    "animeplanet": "heart-cocktail-again",
+    "anisearch": 7779,
+    "notify": "GzmEpKmig"
+  },
+  "title": {
+    "romaji": "Heart Cocktail Again",
+    "english": null,
+    "native": "ハートカクテルアゲイン",
+    "synonyms": []
+  },
+  "type": "OVA",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 41,
+  "aired": {
+    "from": "2003-10-22T00:00:00+00:00",
+    "to": "2003-10-22"
+  },
+  "season": "fall",
+  "year": 2003,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.31,
+    "anilistScore": 5,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Romance"
+  ],
+  "studios": [
+    "HAL Film Maker"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1043/153022l.jpg",
+    "banner": null,
+    "color": "#e4505d"
+  },
+  "trailer": null,
+  "synopsis": "An OVA produced to celebrate the 20th anniversary of Watase Seizou's Heart Cocktail manga.\n\n(Source: AniDB)",
+  "sequence": [
+    {
+      "malId": 27693,
+      "title": {
+        "romaji": "Heart Cocktail",
+        "english": null,
+        "native": "ハートカクテル"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103376-bx3pnthhHsSq.jpg",
+      "format": "TV_SHORT",
+      "episodes": 78,
+      "seasonYear": null,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 58181,
+      "title": {
+        "romaji": "Heart Cocktail Again: Koi no Rensa",
+        "english": null,
+        "native": "ハートカクテル・アゲイン 恋の連鎖"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208054-jXlGZPyguypK.jpg",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "seasonYear": 2003,
+      "relationType": "SIDE_STORY"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "45m",
+      "airDate": "2003-10-22",
+      "title": {
+        "en": "OVA"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "5m",
+      "airDate": "2003-10-22",
+      "title": {
+        "en": "Chain Reaction of Love"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T19:12:12.260Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

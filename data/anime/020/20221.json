@@ -1,0 +1,131 @@
+{
+  "id": 20221,
+  "idMal": 20221,
+  "mappings": {
+    "mal": 20221,
+    "anilist": 20221,
+    "anidb": 10015,
+    "kitsu": 7968,
+    "simkl": 43744,
+    "tmdb": 56354,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 20221,
+    "livechart": 207,
+    "animeplanet": "minami-ke-natsuyasumi",
+    "anisearch": 9238,
+    "notify": "aONhpKiiR"
+  },
+  "title": {
+    "romaji": "Minami-ke: Natsuyasumi",
+    "english": "Minami-ke Natsuyasumi",
+    "native": "みなみけ 夏やすみ",
+    "synonyms": [
+      "みなみけ OVA2",
+      "Minami-ke OVA2"
+    ]
+  },
+  "type": "OVA",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 30,
+  "aired": {
+    "from": "2013-08-06T00:00:00+00:00",
+    "to": "2013-08-06"
+  },
+  "season": "summer",
+  "year": 2013,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.36,
+    "anilistScore": 7.1,
+    "kitsuRating": 7.3
+  },
+  "genres": [
+    "Comedy",
+    "Slice of Life",
+    "Present",
+    "Earth",
+    "Japan",
+    "Asia"
+  ],
+  "studios": [
+    "feel."
+  ],
+  "producers": [
+    "Starchild Records"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1053/151780l.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/7968/original.jpg",
+    "color": "#fff143"
+  },
+  "trailer": null,
+  "synopsis": "Second Minami-ke OVA bundled with the 11th volume of the manga.\n\nChiaki, Kana, and Haruka decide how to spend their last few days of summer together.  Kana struggles to finish her homework.",
+  "sequence": [
+    {
+      "malId": 14511,
+      "title": {
+        "romaji": "Minami-ke: Tadaima",
+        "english": "Minami-ke Tadaima",
+        "native": "みなみけ ただいま"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14511-OiJu2uyufahP.jpg",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2013,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 59235,
+      "title": {
+        "romaji": "Minami-ke: Korekara",
+        "english": null,
+        "native": "みなみけ これから"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179088-wMkLaSuC3YnF.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "30m",
+      "airDate": "2013-08-06",
+      "title": {
+        "en": "OVA"
+      },
+      "tvdbShowId": 81463,
+      "tvdbId": 4640024,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81463/4640024.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T19:05:38.370Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

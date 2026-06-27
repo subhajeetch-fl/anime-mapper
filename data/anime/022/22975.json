@@ -1,0 +1,125 @@
+{
+  "id": 22975,
+  "idMal": 22975,
+  "mappings": {
+    "mal": 22975,
+    "anilist": 132655,
+    "anidb": 7540,
+    "kitsu": 9116,
+    "simkl": 41196,
+    "tmdb": 66251,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 22975,
+    "livechart": 12164,
+    "animeplanet": "kaibutsu-kun-demon-no-ken",
+    "anisearch": 6251,
+    "notify": "dlSapFmiR"
+  },
+  "title": {
+    "romaji": "Kaibutsu-kun: Demon no Ken",
+    "english": null,
+    "native": "怪物くん デーモンの剣",
+    "synonyms": [
+      "Carletto, il principe dei mostri - La spada del demone"
+    ]
+  },
+  "type": "Movie",
+  "source": "Unknown",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 55,
+  "aired": {
+    "from": "1982-03-13T00:00:00+00:00",
+    "to": "1982-03-13"
+  },
+  "season": "spring",
+  "year": 1982,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 5.8,
+    "anilistScore": null,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Comedy",
+    "Horror",
+    "Kids"
+  ],
+  "studios": [
+    "Shin-Ei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/10/59587l.jpg",
+    "banner": null,
+    "color": "#d66ba1"
+  },
+  "trailer": null,
+  "synopsis": "Based on the shounen manga by Fujiko Fujio.\n\nNote: Screened as a triple feature with Doraemon: Nobita no Daimakyou and Ninja Hattori-kun: Nin Nin Ninpo Enikki no Maki.\n\n(Source: AniDB)",
+  "sequence": [
+    {
+      "malId": 3130,
+      "title": {
+        "romaji": "Kaibutsu-kun (1980)",
+        "english": null,
+        "native": "怪物くん (1980)"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3130.jpg",
+      "format": "TV",
+      "episodes": 94,
+      "seasonYear": 1980,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 2671,
+      "title": {
+        "romaji": "Doraemon: Nobita no Daimakyou",
+        "english": "Doraemon: Nobita and the Haunts of Evil",
+        "native": "ドラえもん のび太の大魔境"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2671-K8tvt2nkfxZH.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1982,
+      "relationType": "OTHER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "55m",
+      "airDate": "1982-03-13",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T19:43:52.057Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}
