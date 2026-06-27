@@ -1,10 +1,26 @@
-export async function onRequest(context) {
-  const { id } = context.params;
+/**
+ * Cloudflare Pages Function
+ * Route: /api/anime/:id
+ *
+ * Serves:
+ * data/anime/{bucket}/{id}.json
+ */
 
-  if (!id) {
+function getBucketName(id) {
+  if (id >= 1000000) return "other";
+
+  const bucket = Math.floor(id / 1000);
+  return String(bucket).padStart(3, "0");
+}
+
+export async function onRequest(context) {
+  const rawId = context.params.id;
+
+  // Validate input
+  if (!rawId || !/^\d+$/.test(rawId)) {
     return new Response(
       JSON.stringify({
-        error: "Missing anime id"
+        error: "Invalid anime id"
       }),
       {
         status: 400,
@@ -15,12 +31,32 @@ export async function onRequest(context) {
     );
   }
 
-  // Fetch the static JSON from /data/anime/
-  const url = new URL(`/data/anime/${id}.json`, context.request.url);
+  const id = Number(rawId);
 
-  const response = await context.env.ASSETS.fetch(url);
+  if (!Number.isSafeInteger(id) || id <= 0) {
+    return new Response(
+      JSON.stringify({
+        error: "Invalid anime id"
+      }),
+      {
+        status: 400,
+        headers: {
+          "Content-Type": "application/json"
+        }
+      }
+    );
+  }
 
-  if (!response.ok) {
+  const bucket = getBucketName(id);
+
+  const assetUrl = new URL(
+    `/data/anime/${bucket}/${id}.json`,
+    context.request.url
+  );
+
+  const asset = await context.env.ASSETS.fetch(assetUrl);
+
+  if (!asset.ok) {
     return new Response(
       JSON.stringify({
         error: "Anime not found"
@@ -34,10 +70,12 @@ export async function onRequest(context) {
     );
   }
 
-  return new Response(response.body, {
+  return new Response(asset.body, {
     status: 200,
     headers: {
       "Content-Type": "application/json",
+      // Browser: 5 minutes
+      // Cloudflare CDN: 24 hours
       "Cache-Control": "public, max-age=300, s-maxage=86400"
     }
   });
