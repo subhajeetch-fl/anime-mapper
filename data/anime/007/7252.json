@@ -1,0 +1,114 @@
+{
+  "id": 7252,
+  "idMal": 7252,
+  "mappings": {
+    "mal": 7252,
+    "anilist": 7252,
+    "anidb": 6634,
+    "kitsu": 4912,
+    "simkl": 37953,
+    "tmdb": 279987,
+    "tvdb": null,
+    "trakt": 177486,
+    "traktType": "movies",
+    "shikimori": 7252,
+    "livechart": 8612,
+    "animeplanet": "the-enchanted-journey",
+    "anisearch": 3894,
+    "notify": "iPYRpFiig"
+  },
+  "title": {
+    "romaji": "Grick no Bouken",
+    "english": "The Enchanted Journey",
+    "native": "グリックの冒険",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Book",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 84,
+  "aired": {
+    "from": "1981-07-21T00:00:00+00:00",
+    "to": "1981-07-21"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.06,
+    "anilistScore": 5,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Kids",
+    "Japan",
+    "Anthropomorphism",
+    "Present"
+  ],
+  "studios": [
+    "Studio Korumi"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/9/84017l.jpg",
+    "banner": null,
+    "color": "#e49343"
+  },
+  "trailer": null,
+  "synopsis": "Grick is a young chipmunk living in the city with his sister. But after hearing from a carrier pigeon of the Chipmunk homeland, the Great Forest, he leaves home alone. Grick meets both friends and enemies along his adventure to find the place where he truly belongs.",
+  "sequence": [
+    {
+      "malId": 5267,
+      "title": {
+        "romaji": "Gamba no Bouken",
+        "english": "Gamba's Adventure",
+        "native": "ガンバの冒険"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5267-fuVRXlljXTVm.jpg",
+      "format": "TV",
+      "episodes": 26,
+      "seasonYear": 1975,
+      "relationType": "CHARACTER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "85m",
+      "airDate": "1981-07-21",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T08:22:45.048Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

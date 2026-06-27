@@ -1,0 +1,137 @@
+{
+  "id": 9875,
+  "idMal": 9875,
+  "mappings": {
+    "mal": 9875,
+    "anilist": 9875,
+    "anidb": 7982,
+    "kitsu": 5914,
+    "simkl": 36347,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 9875,
+    "livechart": 5970,
+    "animeplanet": "anime-tenchou-x-touhou-project",
+    "anisearch": 6529,
+    "notify": "sAlMtFmmg"
+  },
+  "title": {
+    "romaji": "Anime Tenchou x Touhou Project",
+    "english": null,
+    "native": "アニメ店長x東方Project",
+    "synonyms": []
+  },
+  "type": "Special",
+  "source": "Game",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 10,
+  "aired": {
+    "from": "2010-11-20T00:00:00+00:00",
+    "to": "2010-11-20"
+  },
+  "season": "fall",
+  "year": 2010,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.65,
+    "anilistScore": 6,
+    "kitsuRating": 6.8
+  },
+  "genres": [
+    "Fantasy",
+    "Magic"
+  ],
+  "studios": [
+    "ufotable"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/7/27303l.jpg",
+    "banner": null,
+    "color": "#e4a128"
+  },
+  "trailer": null,
+  "synopsis": "A collaboration anime project of Anime Tenchou and Touhou animated by ufotable. The anime was shown at the 2010 Animate Ichioshi Bishojo Anime Matsuri.",
+  "sequence": [
+    {
+      "malId": 3080,
+      "title": {
+        "romaji": "Anime Tenchou",
+        "english": null,
+        "native": "アニメ店長"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3080.jpg",
+      "format": "OVA",
+      "episodes": 1,
+      "seasonYear": 2002,
+      "relationType": "CHARACTER"
+    },
+    {
+      "malId": 9861,
+      "title": {
+        "romaji": "Anime Tenchou Movie",
+        "english": null,
+        "native": "アニメ店長 激情版"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9861.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2010,
+      "relationType": "CHARACTER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "20m",
+      "airDate": "2010-11-20",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "2m",
+      "airDate": "2010-10-11",
+      "title": {
+        "en": "Anime Tenchou x Touhou Project Trailer (1:27)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T09:04:33.180Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

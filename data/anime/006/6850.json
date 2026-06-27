@@ -1,0 +1,124 @@
+{
+  "id": 6850,
+  "idMal": 6850,
+  "mappings": {
+    "mal": 6850,
+    "anilist": 6850,
+    "anidb": 7195,
+    "kitsu": 4751,
+    "simkl": 39717,
+    "tmdb": 380624,
+    "tvdb": null,
+    "trakt": 517588,
+    "traktType": "movies",
+    "shikimori": 6850,
+    "livechart": null,
+    "animeplanet": "norakuro-shoui-nichiyoubi-no-kaijiken",
+    "anisearch": 5945,
+    "notify": "THe65KmiR"
+  },
+  "title": {
+    "romaji": "Norakuro Shoui: Nichiyoubi no Kaijiken",
+    "english": "2nd Lieutenant Norakuro: Sunday Magic",
+    "native": "のらくろ少尉～日曜日の怪事件～",
+    "synonyms": [
+      "Norakuro Shoi: Nichiyobi no Kaijiken",
+      "2nd Lieutenant Norakuro"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 1,
+  "aired": {
+    "from": "1933-01-01T00:00:00+00:00",
+    "to": "1933-01-01"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 4.78,
+    "anilistScore": 4.1,
+    "kitsuRating": 5.75
+  },
+  "genres": [
+    "Action",
+    "Military",
+    "Anthropomorphism"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/5/15854l.jpg",
+    "banner": null,
+    "color": null
+  },
+  "trailer": null,
+  "synopsis": "Norakuro's adventures in the Fierce Dog Brigade continue in this short film from the 1930s.",
+  "sequence": [
+    {
+      "malId": 30019,
+      "title": {
+        "romaji": "Norakuro Ittouhei",
+        "english": null,
+        "native": "のらくろ一等兵"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118118-leWu7hhc4Y3m.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 23013,
+      "title": {
+        "romaji": "Norakuro",
+        "english": null,
+        "native": "のらくろ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119765-tXEryTPMiVfG.jpg",
+      "format": "TV",
+      "episodes": 26,
+      "seasonYear": 1970,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T08:16:16.376Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

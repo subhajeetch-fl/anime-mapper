@@ -1,0 +1,179 @@
+{
+  "id": 9999,
+  "idMal": 9999,
+  "mappings": {
+    "mal": 9999,
+    "anilist": 9999,
+    "anidb": 8010,
+    "kitsu": 5987,
+    "simkl": 39471,
+    "tmdb": 79082,
+    "tvdb": null,
+    "trakt": 58699,
+    "traktType": "movies",
+    "shikimori": 9999,
+    "livechart": 4803,
+    "animeplanet": "one-piece-3d-mugiwara-chase",
+    "anisearch": 6545,
+    "notify": "OrM7tFimR"
+  },
+  "title": {
+    "romaji": "ONE PIECE 3D: Mugiwara Chase",
+    "english": "One Piece 3D: Straw Hat Chase",
+    "native": "ONE PIECE 3D 麦わらチェイス",
+    "synonyms": [
+      "One Piece 3D: Strawhat Chase",
+      "One Piece Movie 11",
+      "One Piece 3D: Straw Hat Chase",
+      "One Piece 3D - L'inseguimento di Cappello di Paglia"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 30,
+  "aired": {
+    "from": "2011-03-19T00:00:00+00:00",
+    "to": "2011-03-19"
+  },
+  "season": "spring",
+  "year": 2011,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.88,
+    "anilistScore": 6.4,
+    "kitsuRating": 6.83
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Comedy",
+    "Friendship",
+    "Fantasy World",
+    "Navy",
+    "Slapstick",
+    "Super Power",
+    "Shounen",
+    "Pirate"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/4/32455l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9999-T5jCX3o3cxeN.jpg",
+    "color": "#ffa100"
+  },
+  "trailer": null,
+  "synopsis": "According to Weekly Shonen Jump, 3D movies of One Piece and Toriko were announced to premiere on March 19th, 2011. One Piece 3D is an original story about the missing straw hat of Luffy.",
+  "sequence": [
+    {
+      "malId": 21,
+      "title": {
+        "romaji": "ONE PIECE",
+        "english": "ONE PIECE",
+        "native": "ONE PIECE"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": 1999,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 4155,
+      "title": {
+        "romaji": "ONE PIECE FILM: STRONG WORLD",
+        "english": "One Piece Film: Strong World",
+        "native": "ONE PIECE FILM STRONG WORLD"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4155-P5TDf6t6qFwX.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2009,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 12859,
+      "title": {
+        "romaji": "ONE PIECE FILM: Z",
+        "english": "One Piece Film: Z",
+        "native": "ONE PIECE FILM Z"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12859-uQFENDPzMWz6.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2012,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "30m",
+      "airDate": "2011-03-19",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 81797,
+      "tvdbId": 4200550,
+      "seasonNumber": 0,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 31,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81797/4200550.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "15m",
+      "airDate": "",
+      "title": {
+        "en": "Making Of"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T09:07:50.504Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

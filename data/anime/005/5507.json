@@ -1,0 +1,933 @@
+{
+  "id": 5507,
+  "idMal": 5507,
+  "mappings": {
+    "mal": 5507,
+    "anilist": 5507,
+    "anidb": 6244,
+    "kitsu": 4130,
+    "simkl": 40814,
+    "tmdb": 24392,
+    "tvdb": 87851,
+    "trakt": 62053,
+    "traktType": "shows",
+    "shikimori": 5507,
+    "livechart": 3887,
+    "animeplanet": "valkyria-chronicles",
+    "anisearch": 5159,
+    "notify": "wcJCcFmmg"
+  },
+  "title": {
+    "romaji": "Senjou no Valkyria",
+    "english": "Valkyria Chronicles",
+    "native": "戦場のヴァルキュリア",
+    "synonyms": [
+      "Battlefield Valkyria: Gallian Chronicles",
+      "戦場のヴァルキュリア -Gallian Chronicles-",
+      "Senjou no Valkyria: Gallian Chronicles"
+    ]
+  },
+  "type": "TV",
+  "source": "Game",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 26,
+  "episodeLength": 24,
+  "aired": {
+    "from": "2009-04-05T00:00:00+00:00",
+    "to": "2009-09-27T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 2009,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.56,
+    "anilistScore": 7.5,
+    "kitsuRating": 7.5
+  },
+  "genres": [
+    "Action",
+    "Romance",
+    "Military",
+    "Contemporary Fantasy",
+    "Fantasy World",
+    "War",
+    "Past",
+    "Disaster",
+    "Plot Continuity",
+    "Violence"
+  ],
+  "studios": [
+    "A-1 Pictures"
+  ],
+  "producers": [
+    "Aniplex",
+    "Sega",
+    "Sakura Create"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/6/53901l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n5507-yflTeO77rItG.jpg",
+    "color": "#c9e4f1"
+  },
+  "trailer": null,
+  "synopsis": "In its expansion west to gain resources, the Europan Imperial Alliance invades the neutral Principality of Gallia, seeking to take control of its vast Ragnite deposits. Their strategic advantage, technological superiority, and military might make opposition nonexistent, so they steamroll through the border of the sleepy principality with ease.\n\nAs Imperial forces run through his quiet hometown, Welkin Gunther and his younger sister Isara jump into action, banding with the leader of the local militia to push the occupational forces out of the village. Quickly retreating to the Gallian capital, they are organized into a unit with the remnants of the militia, tasked with assisting in repelling the Imperial presence from the country.\n\nThough unfamiliar with war, the newly formed Squad Seven must defend their country from annexation. But as the battle rages on through the streets of Gallia, ancient secrets will bring the team closer than they'd ever anticipated.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 7016,
+      "title": {
+        "romaji": "Senjou no Valkyria: SenVal Gekijou",
+        "english": null,
+        "native": "戦場のヴァルキュリア 戦ヴァル劇場"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7016.jpg",
+      "format": "SPECIAL",
+      "episodes": 9,
+      "seasonYear": 2009,
+      "relationType": "SIDE_STORY"
+    },
+    {
+      "malId": 9793,
+      "title": {
+        "romaji": "Senjou no Valkyria 3: Tagatame no Juusou",
+        "english": null,
+        "native": "戦場のヴァルキュリア3 誰がための銃瘡"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9793.jpg",
+      "format": "OVA",
+      "episodes": 2,
+      "seasonYear": 2011,
+      "relationType": "CHARACTER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2009-04-05",
+      "title": {
+        "en": "War Encounter"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 502461,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/502461.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2009-04-12",
+      "title": {
+        "en": "Prayers Falling Like Snow"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 508161,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/508161.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2009-04-19",
+      "title": {
+        "en": "Birth of the 7th Platoon"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 562221,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/562221.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2009-04-25",
+      "title": {
+        "en": "Brief Holiday"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 597421,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/597421.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2009-05-02",
+      "title": {
+        "en": "Kloden`s Surprise Battle"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 603931,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/603931.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2009-05-09",
+      "title": {
+        "en": "War Correspondent, Hard Struggle!"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 642821,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/642821.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2009-05-17",
+      "title": {
+        "en": "Darcsen`s Disaster"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 665991,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/665991.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2009-05-24",
+      "title": {
+        "en": "Scrutinized History"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 681331,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/681331.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2009-05-31",
+      "title": {
+        "en": "Blue Witch"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 681351,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/681351.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2009-06-07",
+      "title": {
+        "en": "Evening of the Blizzard"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 681341,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/681341.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2009-06-14",
+      "title": {
+        "en": "Uninvited Guests"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 742511,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/742511.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2009-06-21",
+      "title": {
+        "en": "Kidnapped Princess"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 764201,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/764201.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2009-06-28",
+      "title": {
+        "en": "Moving Fortress of Horror"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 764211,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/764211.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "2009-07-05",
+      "title": {
+        "en": "Fauzen`s Choice"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 847061,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/847061.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "2009-07-12",
+      "title": {
+        "en": "The Past of the Singing Princess"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 875411,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/875411.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "2009-07-19",
+      "title": {
+        "en": "Unexpressed Feelings"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 902581,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/902581.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "2009-07-26",
+      "title": {
+        "en": "Gifts from the Spirits"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 903411,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/903411.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "2009-08-02",
+      "title": {
+        "en": "August Rain"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 941101,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/941101.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "2009-08-09",
+      "title": {
+        "en": "Tears"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 941111,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/941111.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "2009-08-15",
+      "title": {
+        "en": "Beloved One"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 980161,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/980161.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "2009-08-23",
+      "title": {
+        "en": "Short-lived Bonds"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 1015271,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/1015271.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "2009-08-30",
+      "title": {
+        "en": "Confusion"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 1015281,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/1015281.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "2009-09-06",
+      "title": {
+        "en": "Form of Love"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 1040991,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/1040991.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "2009-09-13",
+      "title": {
+        "en": "Determination"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 1072891,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/1072891.jpg"
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "2009-09-20",
+      "title": {
+        "en": "What Must be Protected"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 1123811,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/1123811.jpg"
+    },
+    "26": {
+      "episode": "26",
+      "length": "25m",
+      "airDate": "2009-09-27",
+      "title": {
+        "en": "Final Battle"
+      },
+      "tvdbShowId": 87851,
+      "tvdbId": 1123821,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/87851/1123821.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "3m",
+      "airDate": "2009-08-05",
+      "title": {
+        "en": "SenVal Theater 1: A Day at the Beach"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "3m",
+      "airDate": "2009-09-02",
+      "title": {
+        "en": "SenVal Theater 2: Gallia`s Summer Festival"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "4m",
+      "airDate": "2009-10-07",
+      "title": {
+        "en": "SenVal Theater 3: Shock! Prized Photos!"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S4": {
+      "episode": "S4",
+      "length": "4m",
+      "airDate": "2009-11-04",
+      "title": {
+        "en": "SenVal Theater 4: Selvaria`s Wonderful Day Off!"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S5": {
+      "episode": "S5",
+      "length": "4m",
+      "airDate": "2009-12-02",
+      "title": {
+        "en": "SenVal Theater 5: The Fearsome Joker!"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S6": {
+      "episode": "S6",
+      "length": "4m",
+      "airDate": "2010-01-13",
+      "title": {
+        "en": "SenVal Theater 6: Be on Guard in the Girls` Bath!"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S7": {
+      "episode": "S7",
+      "length": "4m",
+      "airDate": "2010-02-03",
+      "title": {
+        "en": "SenVal Theater 7: Rebirth! 7th Platoon"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S8": {
+      "episode": "S8",
+      "length": "3m",
+      "airDate": "2010-03-03",
+      "title": {
+        "en": "SenVal Theater 8: Cordelia`s Secret!"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S9": {
+      "episode": "S9",
+      "length": "6m",
+      "airDate": "2010-04-07",
+      "title": {
+        "en": "SenVal Theater 9: Vowing Eternity"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S10": {
+      "episode": "S10",
+      "length": "3m",
+      "airDate": "2010-04-07",
+      "title": {
+        "en": "Extra"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S11": {
+      "episode": "S11",
+      "length": "15m",
+      "airDate": "2009-08-05",
+      "title": {
+        "en": "PS3 Gameplay - Cast Members Battle"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S12": {
+      "episode": "S12",
+      "length": "20m",
+      "airDate": "2009-12-02",
+      "title": {
+        "en": "PSP Gameplay - Cast Members Battle"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S13": {
+      "episode": "S13",
+      "length": "9m",
+      "airDate": "2009-08-05",
+      "title": {
+        "en": "Radio GBS Attack Report! 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S14": {
+      "episode": "S14",
+      "length": "9m",
+      "airDate": "2009-09-02",
+      "title": {
+        "en": "Radio GBS Attack Report! 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S15": {
+      "episode": "S15",
+      "length": "10m",
+      "airDate": "2009-10-07",
+      "title": {
+        "en": "Radio GBS Attack Report! 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S16": {
+      "episode": "S16",
+      "length": "10m",
+      "airDate": "2009-11-04",
+      "title": {
+        "en": "Radio GBS Attack Report! 4"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S17": {
+      "episode": "S17",
+      "length": "2m",
+      "airDate": "2010-02-03",
+      "title": {
+        "en": "Radio GBS Attack Report! 5"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S18": {
+      "episode": "S18",
+      "length": "15m",
+      "airDate": "2010-03-03",
+      "title": {
+        "en": "Radio GBS Attack Report! 6"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S19": {
+      "episode": "S19",
+      "length": "20m",
+      "airDate": "2010-04-07",
+      "title": {
+        "en": "Radio GBS Attack Report! Final"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S20": {
+      "episode": "S20",
+      "length": "20m",
+      "airDate": "2009-08-05",
+      "title": {
+        "en": "Live Event Footage (Part 1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S21": {
+      "episode": "S21",
+      "length": "15m",
+      "airDate": "",
+      "title": {
+        "en": "Live Event Footage (Part 2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1a": {
+      "episode": "OP1a",
+      "length": "2m",
+      "airDate": "2009-04-05",
+      "title": {
+        "en": "Asu e no Kizuna (1-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1b": {
+      "episode": "OP1b",
+      "length": "2m",
+      "airDate": "2009-05-17",
+      "title": {
+        "en": "Asu e no Kizuna (1-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP2": {
+      "episode": "OP2",
+      "length": "2m",
+      "airDate": "2009-07-05",
+      "title": {
+        "en": "Kanashimi Rensa (14-26)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "2009-04-05",
+      "title": {
+        "en": "Ano Kaze ni Notte (1-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2": {
+      "episode": "ED2",
+      "length": "2m",
+      "airDate": "2009-07-05",
+      "title": {
+        "en": "Hitotsu no Negai (14-25)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "3m",
+      "airDate": "2009-03-24",
+      "title": {
+        "en": "Promo"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "CM"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T07:00:38.677Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

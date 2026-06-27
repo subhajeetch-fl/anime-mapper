@@ -1,0 +1,116 @@
+{
+  "id": 10013,
+  "idMal": 10013,
+  "mappings": {
+    "mal": 10013,
+    "anilist": 10013,
+    "anidb": 8135,
+    "kitsu": 5993,
+    "simkl": 39952,
+    "tmdb": 44577,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 10013,
+    "livechart": null,
+    "animeplanet": "shouwa-monogatari",
+    "anisearch": 6675,
+    "notify": "jB77pFiig"
+  },
+  "title": {
+    "romaji": "Shouwa Monogatari (Movie)",
+    "english": null,
+    "native": "昭和物語",
+    "synonyms": [
+      "Showa Monogatari"
+    ]
+  },
+  "type": "Movie",
+  "source": "Unknown",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 100,
+  "aired": {
+    "from": "2011-01-29T00:00:00+00:00",
+    "to": "2011-01-29"
+  },
+  "season": "winter",
+  "year": 2011,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 6.46,
+    "anilistScore": 5.4,
+    "kitsuRating": 6.98
+  },
+  "genres": [
+    "Drama",
+    "Historical",
+    "Earth",
+    "Japan",
+    "Slice of Life",
+    "Asia",
+    "Past"
+  ],
+  "studios": [
+    "WAO World"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/8/41119l.jpg",
+    "banner": null,
+    "color": "#e4ae1a"
+  },
+  "trailer": null,
+  "synopsis": "Dramatic story of the Yamazaki family during the year Showa 39 (1964), the year that Tokyo hosted the Summer Olympics.",
+  "sequence": [
+    {
+      "malId": 10014,
+      "title": {
+        "romaji": "Shouwa Monogatari",
+        "english": null,
+        "native": "昭和物語 TV"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10014.jpg",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2011,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "100m",
+      "airDate": "2011-01-29",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 248595,
+      "tvdbId": 4096815,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T09:08:01.496Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

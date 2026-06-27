@@ -1,0 +1,131 @@
+{
+  "id": 9000,
+  "idMal": 9000,
+  "mappings": {
+    "mal": 9000,
+    "anilist": 9000,
+    "anidb": 7478,
+    "kitsu": 5567,
+    "simkl": 41137,
+    "tmdb": 93013,
+    "tvdb": null,
+    "trakt": 68620,
+    "traktType": "movies",
+    "shikimori": 9000,
+    "livechart": 4528,
+    "animeplanet": "the-princess-and-the-pilot",
+    "anisearch": 6208,
+    "notify": "VzpWtFmig"
+  },
+  "title": {
+    "romaji": "Toaru Hikuushi e no Tsuioku",
+    "english": "The Princess and the Pilot",
+    "native": "とある飛空士への追憶",
+    "synonyms": [
+      "To Aru Hikuushi e no Tsuioku",
+      "Recollection of a Certain Airship Pilot"
+    ]
+  },
+  "type": "Movie",
+  "source": "Light novel",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 99,
+  "aired": {
+    "from": "2011-10-01T00:00:00+00:00",
+    "to": "2011-10-01"
+  },
+  "season": "fall",
+  "year": 2011,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.6,
+    "anilistScore": 7.3,
+    "kitsuRating": 7.56
+  },
+  "genres": [
+    "Adventure",
+    "Romance",
+    "Military",
+    "Action",
+    "Fantasy World",
+    "Air Force",
+    "War",
+    "Past"
+  ],
+  "studios": [
+    "Madhouse"
+  ],
+  "producers": [
+    "TV Tokyo",
+    "Bandai Visual",
+    "TMS Entertainment",
+    "MediaNet",
+    "Kids Station",
+    "Movic",
+    "Cyclone Graphics",
+    "Tokyo Theatres",
+    "Sammy",
+    "Shogakukan",
+    "Imagine",
+    "TMS Music"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/3/36903l.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/5567/original.jpg",
+    "color": "#285da1"
+  },
+  "trailer": null,
+  "synopsis": "The war between the Levamme Empire and the Amatsukami Imperium has been raging for years. In the midst of this struggle, the prince of the Levamme Empire declares his love for Juana del Moral and vows to end the war in one year, as part of his marriage proposal. When the Amatsukami catch wind of this, they assault the del Moral residence, targeting Juana's life. As a last ditch effort to bring the prince his bride, the San Maltilia Airforce hires a mercenary of mixed blood—a bestado—to fly Juana to the Levamme capital in secret. The pilot, Charles, accepts the mission...but traversing an ocean alone, into enemy territory, proves a much more dangerous ordeal than anyone could have anticipated.\n\n(Source: NIS America)",
+  "sequence": [
+    {
+      "malId": 19117,
+      "title": {
+        "romaji": "Toaru Hikuushi e no Koiuta",
+        "english": "The Pilot's Love Song",
+        "native": "とある飛空士への恋歌"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19117-AIdJ4idSxNvD.jpg",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2014,
+      "relationType": "OTHER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "100m",
+      "airDate": "2011-10-01",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 271687,
+      "tvdbId": 4635016,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/271687/4635016.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T08:50:36.830Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": 5291,
+  "idMal": 5291,
+  "mappings": {
+    "mal": 5291,
+    "anilist": 5291,
+    "anidb": 6105,
+    "kitsu": 4038,
+    "simkl": 40354,
+    "tmdb": 105231,
+    "tvdb": null,
+    "trakt": 74928,
+    "traktType": "movies",
+    "shikimori": 5291,
+    "livechart": 8265,
+    "animeplanet": "fist-of-the-north-star-legend-of-kenshiro",
+    "anisearch": 2190,
+    "notify": "5oIC5Kmmg"
+  },
+  "title": {
+    "romaji": "Hokuto no Ken Zero: Kenshirou Den",
+    "english": "Fist of the North Star: Legend of Kenshiro",
+    "native": "ケンシロウ伝",
+    "synonyms": [
+      "Shin Kyuuseishu Densetsu Hokuto no Ken Zero Kenshirou-den",
+      "Fist of the North Star: Legend of Kenshiro"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 90,
+  "aired": {
+    "from": "2008-10-04T00:00:00+00:00",
+    "to": "2008-10-11"
+  },
+  "season": "fall",
+  "year": 2008,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "R - 17+ (violence & profanity)",
+  "score": {
+    "malScore": 7.5,
+    "anilistScore": 7.1,
+    "kitsuRating": 7.5
+  },
+  "genres": [
+    "Action",
+    "Drama",
+    "Martial Arts",
+    "Earth",
+    "Post Apocalypse",
+    "Horror",
+    "Violence",
+    "Super Power"
+  ],
+  "studios": [
+    "TMS Entertainment"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1513/145143l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5291-grK5kUFqdQrt.jpg",
+    "color": "#432878"
+  },
+  "trailer": null,
+  "synopsis": "Last of the Shin Kyuuseishu Densetsu pentalogy. A prequel set between Kenshiro's defeat at the hands of Shin and the beginning of the manga. \n\n(Source: Wikipedia)",
+  "sequence": [
+    {
+      "malId": 967,
+      "title": {
+        "romaji": "Hokuto no Ken",
+        "english": "Fist of the North Star",
+        "native": "北斗の拳"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n967-84jNBaInec98.png",
+      "format": "TV",
+      "episodes": 109,
+      "seasonYear": 1984,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 4312,
+      "title": {
+        "romaji": "Hokuto no Ken: Toki-den",
+        "english": "Fist of the North Star: The Legend of the True Savior: Legend of Toki",
+        "native": "真救世主伝説 北斗の拳 トキ伝"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4312-euyz3xGqJsxV.jpg",
+      "format": "OVA",
+      "episodes": 1,
+      "seasonYear": 2008,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "90m",
+      "airDate": "2008-10-11",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 79156,
+      "tvdbId": 2145641,
+      "seasonNumber": 0,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 90,
+      "image": "https://artworks.thetvdb.com/banners/episodes/79156/2145641.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "60m",
+      "airDate": "2008-09-13",
+      "title": {
+        "en": "Soul Wedding"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T06:47:00.350Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

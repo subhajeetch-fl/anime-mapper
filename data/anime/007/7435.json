@@ -1,0 +1,143 @@
+{
+  "id": 7435,
+  "idMal": 7435,
+  "mappings": {
+    "mal": 7435,
+    "anilist": 7435,
+    "anidb": 2092,
+    "kitsu": 4970,
+    "simkl": 40641,
+    "tmdb": 38324,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 7435,
+    "livechart": 10880,
+    "animeplanet": "dragon-quest-dai-no-daibouken-movie",
+    "anisearch": 1747,
+    "notify": "6b9gtKimR"
+  },
+  "title": {
+    "romaji": "Dragon Quest: Dai no Daibouken (1991)",
+    "english": "Dragon Quest: Great Adventure of Dai",
+    "native": "ドラゴンクエスト ダイの大冒険",
+    "synonyms": [
+      "Dragon Quest Dai no Daiboken"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 50,
+  "aired": {
+    "from": "1991-07-20T00:00:00+00:00",
+    "to": "1991-07-20"
+  },
+  "season": "summer",
+  "year": 1991,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.56,
+    "anilistScore": 5.8,
+    "kitsuRating": 6.94
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Magic",
+    "Demons",
+    "Demon"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1998/106052l.jpg",
+    "banner": null,
+    "color": "#e4ae5d"
+  },
+  "trailer": null,
+  "synopsis": "It starts with a kid named Dai remembering a story told to him by his grandfather, the monster magician Brass, about the defeat of the Demon Lord Hadlar by the hands of a hero who, as the story progresses, is known to be Avan.",
+  "sequence": [
+    {
+      "malId": 2229,
+      "title": {
+        "romaji": "Dragon Quest: Dai no Daibouken",
+        "english": null,
+        "native": "ドラゴンクエスト ダイの大冒険"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2229-aAZ38PLgyd1P.png",
+      "format": "TV",
+      "episodes": 46,
+      "seasonYear": 1991,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 40906,
+      "title": {
+        "romaji": "Dragon Quest: Dai no Daibouken (2020)",
+        "english": "Dragon Quest: The Adventure of Dai",
+        "native": "ドラゴンクエスト ダイの大冒険"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114099-LRnlm1t6LE5o.png",
+      "format": "TV",
+      "episodes": 100,
+      "seasonYear": 2020,
+      "relationType": "ALTERNATIVE"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "35m",
+      "airDate": "1991-07-20",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 157001,
+      "tvdbId": 8303971,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 31,
+      "image": null
+    },
+    "C1": {
+      "episode": "C1",
+      "length": "0m",
+      "airDate": "",
+      "title": {
+        "en": "OP"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T08:25:53.518Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

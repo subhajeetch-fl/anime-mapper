@@ -1,0 +1,130 @@
+{
+  "id": 8078,
+  "idMal": 8078,
+  "mappings": {
+    "mal": 8078,
+    "anilist": 8078,
+    "anidb": 7373,
+    "kitsu": 5188,
+    "simkl": 36281,
+    "tmdb": 35989,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 8078,
+    "livechart": 7742,
+    "animeplanet": "kurenai-ova",
+    "anisearch": 6061,
+    "notify": "a8QztFiig"
+  },
+  "title": {
+    "romaji": "Kure-nai OVA",
+    "english": null,
+    "native": "紅 OVA",
+    "synonyms": [
+      "Kure-nai OAD",
+      "Kurenai OVA"
+    ]
+  },
+  "type": "OVA",
+  "source": "Light novel",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 2,
+  "episodeLength": 29,
+  "aired": {
+    "from": "2010-07-02T00:00:00+00:00",
+    "to": "2010-12-03T00:00:00+00:00"
+  },
+  "season": "summer",
+  "year": 2010,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.79,
+    "anilistScore": 6.4,
+    "kitsuRating": 6.8
+  },
+  "genres": [
+    "Action",
+    "Comedy",
+    "Martial Arts"
+  ],
+  "studios": [
+    "Brain's Base"
+  ],
+  "producers": [
+    "Shueisha"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/8/19793l.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/5188/original.jpg",
+    "color": "#e44335"
+  },
+  "trailer": null,
+  "synopsis": "A Kure-nai OVA featuring new character designs closer to the novel/manga.",
+  "sequence": [
+    {
+      "malId": 3358,
+      "title": {
+        "romaji": "Kure-nai",
+        "english": "Kurenai",
+        "native": "紅"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3358-Pvigwmxm5sBV.jpg",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2008,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "30m",
+      "airDate": "2010-07-02",
+      "title": {
+        "en": "The Diabolic Corporation / Ginko`s PC / Diary"
+      },
+      "tvdbShowId": 81810,
+      "tvdbId": 3265701,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81810/3265701.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "30m",
+      "airDate": "2010-12-03",
+      "title": {
+        "en": "Friends / Treasure / Kuhoin`s Car"
+      },
+      "tvdbShowId": 81810,
+      "tvdbId": 3322551,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/81810/3322551.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T08:35:23.605Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

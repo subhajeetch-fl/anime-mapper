@@ -1,0 +1,111 @@
+{
+  "id": 8815,
+  "idMal": 8815,
+  "mappings": {
+    "mal": 8815,
+    "anilist": 8815,
+    "anidb": null,
+    "kitsu": 5501,
+    "simkl": null,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 8815,
+    "livechart": 7449,
+    "animeplanet": "domo-tv",
+    "anisearch": null,
+    "notify": "d1ZWpKmmR"
+  },
+  "title": {
+    "romaji": "Domo TV",
+    "english": null,
+    "native": "どーもくん",
+    "synonyms": [
+      "Domo-kun TV"
+    ]
+  },
+  "type": "TV",
+  "source": "Other",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 26,
+  "episodeLength": 2,
+  "aired": {
+    "from": "2008-01-01T00:00:00+00:00",
+    "to": "2008-01-01"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.3,
+    "anilistScore": 5.4,
+    "kitsuRating": 6.51
+  },
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "studios": [
+    "dwarf"
+  ],
+  "producers": [
+    "NHK",
+    "Comma Studio"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/12/24339l.jpg",
+    "banner": null,
+    "color": "#a1bb28"
+  },
+  "trailer": null,
+  "synopsis": "A co-production between Nickelodeon and NHK featuring the stop-motion character Domo-kun, aired both in the US and Japan.",
+  "sequence": [
+    {
+      "malId": 7643,
+      "title": {
+        "romaji": "Domo-kun",
+        "english": null,
+        "native": "どーもくん"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7643.jpg",
+      "format": "TV_SHORT",
+      "episodes": 37,
+      "seasonYear": 1998,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 28093,
+      "title": {
+        "romaji": "Hana wa Saku: Touhoku ni Saku",
+        "english": "Flowers Will Bloom In Tohoku",
+        "native": "花は咲く 東北に咲く"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126202-MWvCMXSrTMbM.jpg",
+      "format": "MUSIC",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "CHARACTER"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-06-27T08:47:47.126Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

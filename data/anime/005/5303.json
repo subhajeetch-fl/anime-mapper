@@ -1,0 +1,119 @@
+{
+  "id": 5303,
+  "idMal": 5303,
+  "mappings": {
+    "mal": 5303,
+    "anilist": 5303,
+    "anidb": 2358,
+    "kitsu": 4045,
+    "simkl": 1571601,
+    "tmdb": 19524,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 5303,
+    "livechart": null,
+    "animeplanet": "xabungle-graffiti",
+    "anisearch": 794,
+    "notify": "w2HC5FiiR"
+  },
+  "title": {
+    "romaji": "Xabungle Graffiti",
+    "english": "Xabungle Graffiti",
+    "native": "ザブングルグラフィティ",
+    "synonyms": []
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 84,
+  "aired": {
+    "from": "1983-07-09",
+    "to": "1983-07-09"
+  },
+  "season": "summer",
+  "year": 1983,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "anilistScore": 5.7,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Mecha",
+    "Science Fiction"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/4045/original.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5303-ksxt9yMvQylj.jpg",
+    "color": "#f1a150"
+  },
+  "trailer": null,
+  "synopsis": "A movie recapping the events of the Xabungle TV series.",
+  "sequence": [
+    {
+      "malId": 2254,
+      "title": {
+        "romaji": "Sentou Mecha Xabungle",
+        "english": "Blue Gale Xabungle",
+        "native": "戦闘メカザブングル"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2254-D5MWDU2JJCHn.jpg",
+      "format": "TV",
+      "episodes": 50,
+      "seasonYear": 1982,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "85m",
+      "airDate": "1983-07-09",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 187081,
+      "tvdbId": 4699897,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T06:48:11.731Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

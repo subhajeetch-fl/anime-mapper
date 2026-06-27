@@ -1,0 +1,118 @@
+{
+  "id": 5661,
+  "idMal": 5661,
+  "mappings": {
+    "mal": 5661,
+    "anilist": 5661,
+    "anidb": 6612,
+    "kitsu": 4228,
+    "simkl": 39209,
+    "tmdb": 319145,
+    "tvdb": null,
+    "trakt": 199861,
+    "traktType": "movies",
+    "shikimori": 5661,
+    "livechart": null,
+    "animeplanet": "umi-no-momotaro",
+    "anisearch": 5607,
+    "notify": "_Nsj5FimR"
+  },
+  "title": {
+    "romaji": "Umi no Momotarou",
+    "english": "Momotaro under the Sea",
+    "native": "海の桃太郎",
+    "synonyms": []
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 2,
+  "aired": {
+    "from": "1932-01-26",
+    "to": "1932-01-26"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "anilistScore": 3.9,
+    "kitsuRating": 5.33
+  },
+  "genres": [
+    "Samurai"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/4228/original.jpg",
+    "banner": null,
+    "color": null
+  },
+  "trailer": null,
+  "synopsis": "Movie from 1932. ",
+  "sequence": [
+    {
+      "malId": 4390,
+      "title": {
+        "romaji": "Sora no Momotarou",
+        "english": "Momotaro in the Sky",
+        "native": "空の桃太郎"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4390.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "10m",
+      "airDate": "1932-01-26",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Incomplete Version"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T07:15:14.379Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": 6518,
+  "idMal": 6518,
+  "mappings": {
+    "mal": 6518,
+    "anilist": 6518,
+    "anidb": 7018,
+    "kitsu": 4591,
+    "simkl": 1572067,
+    "tmdb": 35883,
+    "tvdb": null,
+    "trakt": 22740,
+    "traktType": "movies",
+    "shikimori": 6518,
+    "livechart": 8598,
+    "animeplanet": "tamagotchi-movie-1",
+    "anisearch": 4708,
+    "notify": "F1NecFimg"
+  },
+  "title": {
+    "romaji": "Eiga de Toujou! Tamagotchi Doki Doki! Uchuu no Maigotchi!?",
+    "english": "Tamagotchi: The Movie",
+    "native": "えいがでとーじょー！ たまごっち ドキドキ！うちゅーのまいごっち！？",
+    "synonyms": []
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 90,
+  "aired": {
+    "from": "2007-12-15",
+    "to": "2007-12-15"
+  },
+  "season": "fall",
+  "year": 2007,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "G",
+  "score": {
+    "malScore": null,
+    "anilistScore": 5.4,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Slice of Life",
+    "Kids"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/4591/original.jpg",
+    "banner": null,
+    "color": "#e4ae35"
+  },
+  "trailer": null,
+  "synopsis": "",
+  "sequence": [
+    {
+      "malId": 6519,
+      "title": {
+        "romaji": "Tamagotchi Honto no Hanashi",
+        "english": null,
+        "native": "たまごっちホントのはなし"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6519.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1997,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 6798,
+      "title": {
+        "romaji": "Saa Ikou! Tamagotchi",
+        "english": "Let's Go! TAMAGOTCHI ",
+        "native": "さぁイコー！たまごっち"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6798.jpg",
+      "format": "TV_SHORT",
+      "episodes": 12,
+      "seasonYear": 2007,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 6517,
+      "title": {
+        "romaji": "Eiga! Tamagotchi Uchuu Ichi Happy na Monogatari!?",
+        "english": null,
+        "native": "映画！たまごっち うちゅーいちハッピーな物語！？"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6517.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2008,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "90m",
+      "airDate": "2007-12-15",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T07:59:44.133Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

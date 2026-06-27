@@ -1,0 +1,152 @@
+{
+  "id": 5922,
+  "idMal": 5922,
+  "mappings": {
+    "mal": 5922,
+    "anilist": 5922,
+    "anidb": 5938,
+    "kitsu": 4339,
+    "simkl": 1177573,
+    "tmdb": 1126130,
+    "tvdb": null,
+    "trakt": 906244,
+    "traktType": "movies",
+    "shikimori": 5922,
+    "livechart": null,
+    "animeplanet": "tenjou-hen-utsunomiko",
+    "anisearch": 4900,
+    "notify": "Me7q5Kmig"
+  },
+  "title": {
+    "romaji": "Tenjou-hen: Utsunomiko",
+    "english": null,
+    "native": "天上編・宇宙皇子",
+    "synonyms": [
+      "Utsu no Miko",
+      "Heavens Compilation: Space Prince"
+    ]
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 71,
+  "aired": {
+    "from": "1990-09-22",
+    "to": "1990-09-22"
+  },
+  "season": "fall",
+  "year": 1990,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "anilistScore": 5.5,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Demons",
+    "Demon"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/4339/original.jpg",
+    "banner": null,
+    "color": "#f1501a"
+  },
+  "trailer": null,
+  "synopsis": "Prequel of Utsunomiko.",
+  "sequence": [
+    {
+      "malId": 5921,
+      "title": {
+        "romaji": "Utsunomiko",
+        "english": null,
+        "native": "宇宙皇子"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5921.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1989,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 5923,
+      "title": {
+        "romaji": "Utsunomiko: Tenjou-hen",
+        "english": null,
+        "native": "宇宙皇子 天上篇"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5923.jpg",
+      "format": "OVA",
+      "episodes": 13,
+      "seasonYear": 1990,
+      "relationType": "ALTERNATIVE"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "70m",
+      "airDate": "1990-09-22",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "1990-09-22",
+      "title": {
+        "en": "Mirai e no Shinwa (1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "1990-09-22",
+      "title": {
+        "en": "Aoi Hitomi no Naka ni (1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T07:29:30.122Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "id": 7626,
+  "idMal": 7626,
+  "mappings": {
+    "mal": 7626,
+    "anilist": 7626,
+    "anidb": 2631,
+    "kitsu": 5059,
+    "simkl": 36774,
+    "tmdb": 13411,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 7626,
+    "livechart": 7737,
+    "animeplanet": "triton-of-the-sea-1979",
+    "anisearch": 2528,
+    "notify": "8bSzpKmiR"
+  },
+  "title": {
+    "romaji": "Umi no Triton (Movie)",
+    "english": "Triton of the Sea (1979)",
+    "native": "海のトリトン (Movie)",
+    "synonyms": [
+      "Umi no Triton (Movie)",
+      "Umi no Triton (1979)",
+      "Triton of the Sea (Movie)",
+      "Triton of the Sea (1979)"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 2,
+  "episodeLength": 74,
+  "aired": {
+    "from": "1979-04-04T00:00:00+00:00",
+    "to": "1984-05-21T00:00:00+00:00"
+  },
+  "season": "summer",
+  "year": 1979,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.35,
+    "anilistScore": 6.1,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "studios": [
+    "Animation Staff Room",
+    "Office Academy"
+  ],
+  "producers": [
+    "Tohokushinsha Film Corporation"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1736/153090l.jpg",
+    "banner": null,
+    "color": null
+  },
+  "trailer": null,
+  "synopsis": "A recap of the TV series. While two parts were made, only the first one was shown in theaters during the Uchuu Senkan Yamato Festival. The second part was released half a decade later direct to home-video by Nippon Columbia. Later releases on DVD in 1999 and 2002 put both halves of the recap together for sale.",
+  "sequence": [
+    {
+      "malId": 2718,
+      "title": {
+        "romaji": "Umi no Triton",
+        "english": "Triton of the Sea",
+        "native": "海のトリトン"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2718-Qdil2ZoGPFfL.jpg",
+      "format": "TV",
+      "episodes": 27,
+      "seasonYear": 1972,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 36163,
+      "title": {
+        "romaji": "Aoi Triton",
+        "english": null,
+        "native": "青いトリトン"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148745-a6vP40hrwe5Y.png",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "seasonYear": 2002,
+      "relationType": "OTHER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "75m",
+      "airDate": "1979-07-04",
+      "title": {
+        "en": "Part 1"
+      },
+      "tvdbShowId": 261562,
+      "tvdbId": 4380636,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 73,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "75m",
+      "airDate": "1972-01-01",
+      "title": {
+        "en": "Part 2"
+      },
+      "tvdbShowId": 261562,
+      "tvdbId": 8113659,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 73,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T08:30:02.794Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

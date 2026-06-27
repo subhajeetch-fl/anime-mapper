@@ -1,0 +1,114 @@
+{
+  "id": 8152,
+  "idMal": 8152,
+  "mappings": {
+    "mal": 8152,
+    "anilist": 8152,
+    "anidb": 2307,
+    "kitsu": 5056,
+    "simkl": 1571585,
+    "tmdb": 603431,
+    "tvdb": null,
+    "trakt": 448436,
+    "traktType": "movies",
+    "shikimori": 8152,
+    "livechart": null,
+    "animeplanet": "gegege-no-kitarou-movie-1985",
+    "anisearch": 2683,
+    "notify": "aISktFmiR"
+  },
+  "title": {
+    "romaji": "Gegege no Kitarou (1985 Movie)",
+    "english": "Spooky Kitaro",
+    "native": "ゲゲゲの鬼太郎",
+    "synonyms": [
+      "Gegege no Kitaro Movie 3: Youkai Gundan"
+    ]
+  },
+  "type": "Movie",
+  "source": "Unknown",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 24,
+  "aired": {
+    "from": "1985-12-21T00:00:00+00:00",
+    "to": "1985-12-21"
+  },
+  "season": "fall",
+  "year": 1985,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 5.93,
+    "anilistScore": 4.9,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Horror",
+    "Supernatural",
+    "Fantasy"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/5/21017l.jpg",
+    "banner": null,
+    "color": "#f1931a"
+  },
+  "trailer": null,
+  "synopsis": "Movie based on the 1985 TV anime with an original plot.",
+  "sequence": [
+    {
+      "malId": 7307,
+      "title": {
+        "romaji": "Gegege no Kitarou (1985)",
+        "english": null,
+        "native": "ゲゲゲの鬼太郎"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7307.jpg",
+      "format": "TV",
+      "episodes": 108,
+      "seasonYear": 1985,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "1985-12-21",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T08:36:28.151Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

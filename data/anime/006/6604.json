@@ -1,0 +1,114 @@
+{
+  "id": 6604,
+  "idMal": 6604,
+  "mappings": {
+    "mal": 6604,
+    "anilist": 6604,
+    "anidb": 6619,
+    "kitsu": 4631,
+    "simkl": 37075,
+    "tmdb": 112961,
+    "tvdb": 270265,
+    "trakt": 134338,
+    "traktType": "shows",
+    "shikimori": 6604,
+    "livechart": 8206,
+    "animeplanet": "kuruneko",
+    "anisearch": 5449,
+    "notify": "Woh6cKmmR"
+  },
+  "title": {
+    "romaji": "Kuruneko",
+    "english": null,
+    "native": "くるねこ",
+    "synonyms": []
+  },
+  "type": "TV_SHORT",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 50,
+  "episodeLength": 2,
+  "aired": {
+    "from": "2009-07-05",
+    "to": "2010-06-13"
+  },
+  "season": "summer",
+  "year": 2009,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "G",
+  "score": {
+    "malScore": null,
+    "anilistScore": 6.1,
+    "kitsuRating": 7.54
+  },
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/4631/original.jpg",
+    "banner": null,
+    "color": "#e45d6b"
+  },
+  "trailer": null,
+  "synopsis": "Based on a manga about cats and their sake loving owner.",
+  "sequence": [
+    {
+      "malId": 17749,
+      "title": {
+        "romaji": "Kuruneko: Kurunekobin",
+        "english": null,
+        "native": "くるねこ便"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17749.jpg",
+      "format": "SPECIAL",
+      "episodes": 4,
+      "seasonYear": 2009,
+      "relationType": "SIDE_STORY"
+    },
+    {
+      "malId": 9013,
+      "title": {
+        "romaji": "Kuruneko Season 2",
+        "english": null,
+        "native": "くるねこ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9013.jpg",
+      "format": "TV_SHORT",
+      "episodes": 50,
+      "seasonYear": 2010,
+      "relationType": "SEQUEL"
+    },
+    {
+      "malId": 35239,
+      "title": {
+        "romaji": "Kuruneko (2017)",
+        "english": "Kuruneko (2017)",
+        "native": "くるねこ (2017)"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98638-b8XZVFqeolNs.jpg",
+      "format": "ONA",
+      "episodes": 10,
+      "seasonYear": 2017,
+      "relationType": "OTHER"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-06-27T08:04:01.028Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

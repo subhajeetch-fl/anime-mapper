@@ -1,0 +1,982 @@
+{
+  "id": 6594,
+  "idMal": 6594,
+  "mappings": {
+    "mal": 6594,
+    "anilist": 6594,
+    "anidb": 6613,
+    "kitsu": 4630,
+    "simkl": 37632,
+    "tmdb": 46374,
+    "tvdb": 132941,
+    "trakt": 46115,
+    "traktType": "shows",
+    "shikimori": 6594,
+    "livechart": 3623,
+    "animeplanet": "katanagatari",
+    "anisearch": 5398,
+    "notify": "7khe5Kiig"
+  },
+  "title": {
+    "romaji": "Katanagatari",
+    "english": "Katanagatari",
+    "native": "刀語",
+    "synonyms": [
+      "Sword Story"
+    ]
+  },
+  "type": "TV",
+  "source": "Light novel",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
+  "episodeLength": 50,
+  "aired": {
+    "from": "2010-01-26T00:00:00+00:00",
+    "to": "2010-12-11T00:00:00+00:00"
+  },
+  "season": "winter",
+  "year": 2010,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:10",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "R - 17+ (violence & profanity)",
+  "score": {
+    "malScore": 8.29,
+    "anilistScore": 8.1,
+    "kitsuRating": 8.15
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Romance",
+    "Martial Arts",
+    "Historical",
+    "Fantasy World",
+    "Fantasy",
+    "Alternative Past",
+    "Swordplay",
+    "Angst",
+    "Drama"
+  ],
+  "studios": [
+    "White Fox"
+  ],
+  "producers": [
+    "Aniplex",
+    "Lantis",
+    "Kodansha",
+    "Movic",
+    "Fuji TV"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1112/119225l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6594-lROEMKEwCESY.jpg",
+    "color": "#e46b43"
+  },
+  "trailer": null,
+  "synopsis": "In an Edo-era Japan lush with a variety of sword-fighting styles, Shichika Yasuri practices the most unique one: Kyotouryuu, a technique in which the user's own body is wielded as a blade. The enigmatic seventh head of the Kyotouryuu school, Shichika lives quietly in exile with his sister Nanami until one day—the wildly ambitious strategist Togame barges into their lives.\n\nTogame brazenly requests that Shichika help in her mission to collect twelve unique swords, known as the \"Deviant Blades,\" for the shogunate. Shichika accepts, interested in the girl herself rather than petty politics, and thus sets out on a journey. Standing in their way are the fierce wielders of these legendary weapons as well as other power-hungry entities who seek to thwart Togame's objective. In order to prevail against their enemies, the duo must become an unbreakable team as they forge ahead on a path of uncertainty and peril.\n\n[Written by MAL Rewrite]",
+  "sequence": [],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "50m",
+      "airDate": "2010-01-26",
+      "title": {
+        "en": "Kanna, the Cutting Sword"
+      },
+      "tvdbShowId": 132941,
+      "tvdbId": 1498031,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 50,
+      "image": "https://artworks.thetvdb.com/banners/episodes/132941/1498031.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "50m",
+      "airDate": "2010-02-09",
+      "title": {
+        "en": "Namakura, the Decapitation Sword"
+      },
+      "tvdbShowId": 132941,
+      "tvdbId": 1498041,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 50,
+      "image": "https://artworks.thetvdb.com/banners/episodes/132941/1498041.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "50m",
+      "airDate": "2010-03-09",
+      "title": {
+        "en": "Tsurugi, the Sword of Thousand"
+      },
+      "tvdbShowId": 132941,
+      "tvdbId": 1498051,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 50,
+      "image": "https://artworks.thetvdb.com/banners/episodes/132941/1498051.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "50m",
+      "airDate": "2010-04-17",
+      "title": {
+        "en": "Hari, the Slender Sword"
+      },
+      "tvdbShowId": 132941,
+      "tvdbId": 1498061,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 50,
+      "image": "https://artworks.thetvdb.com/banners/episodes/132941/1498061.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "50m",
+      "airDate": "2010-05-21",
+      "title": {
+        "en": "Yoroi, the Rebel Sword"
+      },
+      "tvdbShowId": 132941,
+      "tvdbId": 1498071,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 50,
+      "image": "https://artworks.thetvdb.com/banners/episodes/132941/1498071.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "50m",
+      "airDate": "2010-06-04",
+      "title": {
+        "en": "Kanazuchi, the Twin Sword"
+      },
+      "tvdbShowId": 132941,
+      "tvdbId": 1498081,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 50,
+      "image": "https://artworks.thetvdb.com/banners/episodes/132941/1498081.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "50m",
+      "airDate": "2010-07-09",
+      "title": {
+        "en": "Bita, the Evil Sword"
+      },
+      "tvdbShowId": 132941,
+      "tvdbId": 1498091,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 50,
+      "image": "https://artworks.thetvdb.com/banners/episodes/132941/1498091.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "50m",
+      "airDate": "2010-08-13",
+      "title": {
+        "en": "Kanzashi, the Sword of Precision"
+      },
+      "tvdbShowId": 132941,
+      "tvdbId": 1498101,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 50,
+      "image": "https://artworks.thetvdb.com/banners/episodes/132941/1498101.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "50m",
+      "airDate": "2010-09-11",
+      "title": {
+        "en": "Nokogiri, the Sword of Kings"
+      },
+      "tvdbShowId": 132941,
+      "tvdbId": 1498121,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 50,
+      "image": "https://artworks.thetvdb.com/banners/episodes/132941/1498121.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "50m",
+      "airDate": "2010-10-16",
+      "title": {
+        "en": "Hakari, the Sword of Truth"
+      },
+      "tvdbShowId": 132941,
+      "tvdbId": 1498131,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 50,
+      "image": "https://artworks.thetvdb.com/banners/episodes/132941/1498131.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "50m",
+      "airDate": "2010-11-12",
+      "title": {
+        "en": "Mekki, the Poison Sword"
+      },
+      "tvdbShowId": 132941,
+      "tvdbId": 1498151,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 50,
+      "image": "https://artworks.thetvdb.com/banners/episodes/132941/1498151.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "50m",
+      "airDate": "2010-12-11",
+      "title": {
+        "en": "Juu, the Flame Sword"
+      },
+      "tvdbShowId": 132941,
+      "tvdbId": 1498171,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 50,
+      "image": "https://artworks.thetvdb.com/banners/episodes/132941/1498171.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "6m",
+      "airDate": "",
+      "title": {
+        "en": "Episode 1 Summary"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "4m",
+      "airDate": "",
+      "title": {
+        "en": "Episode 2 Summary"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "5m",
+      "airDate": "",
+      "title": {
+        "en": "Episode 3 Summary"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S4": {
+      "episode": "S4",
+      "length": "5m",
+      "airDate": "",
+      "title": {
+        "en": "Episode 4 Summary"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S5": {
+      "episode": "S5",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Episode 5 Preview Ver. 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S6": {
+      "episode": "S6",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Episode 5 Preview Ver. 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S7": {
+      "episode": "S7",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Episode 5 Preview Ver. 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S8": {
+      "episode": "S8",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Episode 5 Preview Ver. 4"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S9": {
+      "episode": "S9",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Episode 6 Preview Ver. 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S10": {
+      "episode": "S10",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Episode 6 Preview Ver. 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S11": {
+      "episode": "S11",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Episode 6 Preview Ver. 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S12": {
+      "episode": "S12",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Episode 7 Preview Ver. 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S13": {
+      "episode": "S13",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Episode 7 Preview Ver. 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S14": {
+      "episode": "S14",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Episode 7 Preview Ver. 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "2010-01-26",
+      "title": {
+        "en": "Meiya Kadenrou (1-7)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP2": {
+      "episode": "OP2",
+      "length": "2m",
+      "airDate": "2010-08-14",
+      "title": {
+        "en": "Katana to Saya (8-12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "2010-01-26",
+      "title": {
+        "en": "Tasogare no Gekka (1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2": {
+      "episode": "ED2",
+      "length": "2m",
+      "airDate": "2010-02-09",
+      "title": {
+        "en": "Refulgence (2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED3": {
+      "episode": "ED3",
+      "length": "2m",
+      "airDate": "2010-03-09",
+      "title": {
+        "en": "Senbon Sennyo no Hamari Uta (3)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED4": {
+      "episode": "ED4",
+      "length": "2m",
+      "airDate": "2010-04-17",
+      "title": {
+        "en": "Kyomu no Hana (4)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED5": {
+      "episode": "ED5",
+      "length": "2m",
+      "airDate": "2010-05-21",
+      "title": {
+        "en": "Ai to Makoto (5)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED6": {
+      "episode": "ED6",
+      "length": "2m",
+      "airDate": "2010-06-05",
+      "title": {
+        "en": "Yuki no Onna (6)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED7": {
+      "episode": "ED7",
+      "length": "2m",
+      "airDate": "2010-07-10",
+      "title": {
+        "en": "Mayoigo Sagashi (7)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED8": {
+      "episode": "ED8",
+      "length": "2m",
+      "airDate": "2010-08-14",
+      "title": {
+        "en": "Karakuri Nemuridan (8)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED9": {
+      "episode": "ED9",
+      "length": "2m",
+      "airDate": "2010-09-11",
+      "title": {
+        "en": "Akashi (9)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED10": {
+      "episode": "ED10",
+      "length": "2m",
+      "airDate": "2010-10-16",
+      "title": {
+        "en": "Ina, to Hime wa Subete o Katarazu (10)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED11": {
+      "episode": "ED11",
+      "length": "2m",
+      "airDate": "2010-11-13",
+      "title": {
+        "en": "Bourei-tachi yo Yabou no Hate ni Nemure (11)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED13": {
+      "episode": "ED13",
+      "length": "2m",
+      "airDate": "2010-12-11",
+      "title": {
+        "en": "Toki Sude ni Hajimari o Kizamu (12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP3": {
+      "episode": "OP3",
+      "length": "2m",
+      "airDate": "2013-04-12",
+      "title": {
+        "en": "Hakushu Kassai Utaawase"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED14": {
+      "episode": "ED14",
+      "length": "2m",
+      "airDate": "2013-04-12",
+      "title": {
+        "en": "Kotonoha"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "2009-11-20",
+      "title": {
+        "en": "Short Promo 1 (15 sec)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Short Promo 2 (15 sec)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Short Promo 3 (15 sec)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T4": {
+      "episode": "T4",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Short Promo 4 (15 sec)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T5": {
+      "episode": "T5",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Promo 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T6": {
+      "episode": "T6",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Promo 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T7": {
+      "episode": "T7",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Promo 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T8": {
+      "episode": "T8",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "BD and DVD Vol. 1 CM"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T9": {
+      "episode": "T9",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "BD and DVD Vol. 2 CM"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T10": {
+      "episode": "T10",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "BD and DVD Vol. 3 CM"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T11": {
+      "episode": "T11",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "BD and DVD Vol. 4 CM"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T12": {
+      "episode": "T12",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "BD and DVD Vol. 5 CM"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T13": {
+      "episode": "T13",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "BD and DVD Vol. 6 CM"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T14": {
+      "episode": "T14",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "BD and DVD Vol. 7 CM"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T15": {
+      "episode": "T15",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Episode 2 Short Promo (15 sec)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T16": {
+      "episode": "T16",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Episode 3 Short Promo (15 sec)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T17": {
+      "episode": "T17",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Episode 4 Short Promo (15 sec)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T08:03:49.331Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": 6063,
+  "idMal": 6063,
+  "mappings": {
+    "mal": 6063,
+    "anilist": 6063,
+    "anidb": 7092,
+    "kitsu": 4405,
+    "simkl": 1572079,
+    "tmdb": 104398,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 6063,
+    "livechart": null,
+    "animeplanet": "penguin-no-mondai-movie-shiawase-no-aoi-tori-de-go-pen-nasai",
+    "anisearch": 5693,
+    "notify": "a3hqcKimR"
+  },
+  "title": {
+    "romaji": "Penguin no Mondai Movie",
+    "english": null,
+    "native": "劇場版ペンギンの問題 幸せの青い鳥でごペンなさい",
+    "synonyms": [
+      "A Penguin's Troubles Movie"
+    ]
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 23,
+  "aired": {
+    "from": "2009-09-19",
+    "to": "2009-09-19"
+  },
+  "season": "fall",
+  "year": 2009,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "G",
+  "score": {
+    "malScore": null,
+    "anilistScore": null,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Comedy",
+    "Kids"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/4405/original.jpg",
+    "banner": null,
+    "color": "#e4c950"
+  },
+  "trailer": null,
+  "synopsis": "Penguin no Mondai Movie.",
+  "sequence": [
+    {
+      "malId": 4331,
+      "title": {
+        "romaji": "Penguin no Mondai",
+        "english": null,
+        "native": "ペンギンの問題"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4331.jpg",
+      "format": "TV_SHORT",
+      "episodes": 100,
+      "seasonYear": 2008,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2009-09-19",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 250155,
+      "tvdbId": 4131180,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 10,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Gekijouban Duel Masters - Lunatic God Saga & Gekijouban Penguin no Mondai - Shiawase no Aoi Tori de Go-Pen-nasai combo PV"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T07:37:32.546Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

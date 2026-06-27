@@ -1,0 +1,129 @@
+{
+  "id": 8522,
+  "idMal": 8522,
+  "mappings": {
+    "mal": 8522,
+    "anilist": 8522,
+    "anidb": 7465,
+    "kitsu": 5371,
+    "simkl": 1572159,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 8522,
+    "livechart": null,
+    "animeplanet": "midoriyama-koukou-koushien-hen-movie",
+    "anisearch": 5638,
+    "notify": "u5xipFmiR"
+  },
+  "title": {
+    "romaji": "Midoriyama Koukou Koushien-hen (Movie)",
+    "english": null,
+    "native": "緑山高校　甲子園編（劇場版）",
+    "synonyms": [
+      "Midoriyama Koko Koshien hen"
+    ]
+  },
+  "type": "Movie",
+  "source": "Unknown",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 81,
+  "aired": {
+    "from": "1990-06-30T00:00:00+00:00",
+    "to": "1990-06-30"
+  },
+  "season": "summer",
+  "year": 1990,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": null,
+    "anilistScore": 5,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Comedy",
+    "Sports",
+    "School",
+    "Baseball",
+    "School Life"
+  ],
+  "studios": [
+    "Animaruya"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/4/23071l.jpg",
+    "banner": null,
+    "color": "#e47835"
+  },
+  "trailer": null,
+  "synopsis": "Compilation of episodes 1-4 of the OVA.",
+  "sequence": [
+    {
+      "malId": 5994,
+      "title": {
+        "romaji": "Midoriyama Koukou Koushien-hen",
+        "english": null,
+        "native": "緑山高校 甲子園編"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5994-q9OdK3tqYB0W.jpg",
+      "format": "OVA",
+      "episodes": 10,
+      "seasonYear": 1989,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "85m",
+      "airDate": "1990-06-30",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T08:42:59.843Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

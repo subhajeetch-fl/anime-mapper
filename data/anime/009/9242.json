@@ -1,0 +1,117 @@
+{
+  "id": 9242,
+  "idMal": 9242,
+  "mappings": {
+    "mal": 9242,
+    "anilist": 9242,
+    "anidb": 3150,
+    "kitsu": 5642,
+    "simkl": 36090,
+    "tmdb": 701874,
+    "tvdb": null,
+    "trakt": 545214,
+    "traktType": "movies",
+    "shikimori": 9242,
+    "livechart": 12141,
+    "animeplanet": "nine-original",
+    "anisearch": 1985,
+    "notify": "T_sWpKmmR"
+  },
+  "title": {
+    "romaji": "Nine: Original-ban",
+    "english": null,
+    "native": "ナイン <オリジナル版>",
+    "synonyms": [
+      "Nine: Original-han"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 70,
+  "aired": {
+    "from": "1983-09-16T00:00:00+00:00",
+    "to": "1983-09-16"
+  },
+  "season": "summer",
+  "year": 1983,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.18,
+    "anilistScore": 5.6,
+    "kitsuRating": 6.57
+  },
+  "genres": [
+    "Romance",
+    "Sports",
+    "School",
+    "Action",
+    "Baseball",
+    "School Life"
+  ],
+  "studios": [
+    "Group TAC"
+  ],
+  "producers": [
+    "Fuji TV"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/5/49881l.jpg",
+    "banner": null,
+    "color": "#e4935d"
+  },
+  "trailer": null,
+  "synopsis": "Cinema adaption of the manga by Mitsuru Adachi.",
+  "sequence": [
+    {
+      "malId": 9243,
+      "title": {
+        "romaji": "Nine 2: Koibito Sengen",
+        "english": null,
+        "native": "ナイン2 恋人宣言"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9243.jpg",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "seasonYear": 1983,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "75m",
+      "airDate": "1983-09-16",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T08:53:26.372Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "id": 6653,
+  "idMal": 6653,
+  "mappings": {
+    "mal": 6653,
+    "anilist": 6653,
+    "anidb": 2231,
+    "kitsu": 4649,
+    "simkl": 41613,
+    "tmdb": 79109,
+    "tvdb": null,
+    "trakt": 58724,
+    "traktType": "movies",
+    "shikimori": 6653,
+    "livechart": 8596,
+    "animeplanet": "galaxy-express-999-glass-no-clair",
+    "anisearch": 987,
+    "notify": "Kj06cKimR"
+  },
+  "title": {
+    "romaji": "Ginga Tetsudou 999: Glass no Clair",
+    "english": "Galaxy Express 999: Claire of the Glass",
+    "native": "銀河鉄道999 ガラスのクレア",
+    "synonyms": [
+      "Galaxy Express 999: Glass no Clair",
+      "Ginga Tetsudo 999: Glass no Clair"
+    ]
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 15,
+  "aired": {
+    "from": "1980-03-15",
+    "to": "1980-03-15"
+  },
+  "season": "spring",
+  "year": 1980,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "G",
+  "score": {
+    "malScore": null,
+    "anilistScore": 5.9,
+    "kitsuRating": 6.88
+  },
+  "genres": [
+    "Drama",
+    "Sci-Fi",
+    "Space",
+    "Space Travel",
+    "Science Fiction",
+    "Cyborg",
+    "Shipboard"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/4649/original.jpg",
+    "banner": null,
+    "color": "#e4d686"
+  },
+  "trailer": null,
+  "synopsis": "This short movie is a remake of the first half of episode 3 of Ginga Tetsudou 999.",
+  "sequence": [
+    {
+      "malId": 1491,
+      "title": {
+        "romaji": "Ginga Tetsudou 999",
+        "english": "Galaxy Express 999",
+        "native": "銀河鉄道９９９"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1491-XfYiHNYKDR2P.jpg",
+      "format": "TV",
+      "episodes": 113,
+      "seasonYear": 1978,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 63999,
+      "title": {
+        "romaji": "Ginga Tetsudou 999: Glass no Clair (3D)",
+        "english": null,
+        "native": "銀河鉄道999～ガラスのクレア～（3D）"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207486-4M9XgfDJ5ses.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2000,
+      "relationType": "ALTERNATIVE"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "15m",
+      "airDate": "1980-03-15",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 100171,
+      "tvdbId": 2722271,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "0m",
+      "airDate": "",
+      "title": {
+        "en": "Japanese Trailer"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T08:05:43.207Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

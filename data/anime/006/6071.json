@@ -1,0 +1,103 @@
+{
+  "id": 6071,
+  "idMal": 6071,
+  "mappings": {
+    "mal": 6071,
+    "anilist": 6071,
+    "anidb": 4944,
+    "kitsu": 4411,
+    "simkl": 41166,
+    "tmdb": 600796,
+    "tvdb": null,
+    "trakt": 545362,
+    "traktType": "movies",
+    "shikimori": 6071,
+    "livechart": null,
+    "animeplanet": "11-piki-no-neko",
+    "anisearch": 3890,
+    "notify": "_UT35KmmR"
+  },
+  "title": {
+    "romaji": "11 Piki no Neko",
+    "english": "Eleven Cats",
+    "native": "１１ぴきのねこ",
+    "synonyms": []
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 83,
+  "aired": {
+    "from": "1980-07-19",
+    "to": "1980-07-19"
+  },
+  "season": "summer",
+  "year": 1980,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "G",
+  "score": {
+    "malScore": null,
+    "anilistScore": 6.2,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Fantasy"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/4411/original.jpg",
+    "banner": null,
+    "color": "#6bae1a"
+  },
+  "trailer": null,
+  "synopsis": "A gang of eleven stray cats wreak havoc in a small town, costing them much trouble.\nThey defend themselves by stating they were just 'hungry'.\nThe cats hear of an urban legend about a scary, giant fish. They decide to take on the challenge to find and catch that fish, proving the citizens of the town that they're not all useless after all.\nThe task is pretty tricky and the path they have to cross is stony and danger lurks everywhere.\nWill our little furry heroes be brave, confident and strong enough to master the challenge of challenges?",
+  "sequence": [
+    {
+      "malId": 6072,
+      "title": {
+        "romaji": "11 Piki no Neko to Ahoudori",
+        "english": "Eleven Cats and an Albatross",
+        "native": "１１ぴきのねことあほうどり"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6072.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1986,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "85m",
+      "airDate": "1980-07-19",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T07:38:20.391Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

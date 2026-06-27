@@ -1,0 +1,114 @@
+{
+  "id": 9795,
+  "idMal": 9795,
+  "mappings": {
+    "mal": 9795,
+    "anilist": 9795,
+    "anidb": 3608,
+    "kitsu": 5873,
+    "simkl": 40793,
+    "tmdb": 9537,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 9795,
+    "livechart": 12496,
+    "animeplanet": "atashinchi-movie",
+    "anisearch": 1293,
+    "notify": "QOLGpFimR"
+  },
+  "title": {
+    "romaji": "Atashin'chi Movie",
+    "english": null,
+    "native": "映画 あたしンち",
+    "synonyms": [
+      "Eiga Atashinchi",
+      "Eiga Atashin'chi"
+    ]
+  },
+  "type": "Movie",
+  "source": "Unknown",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 95,
+  "aired": {
+    "from": "2003-12-06T00:00:00+00:00",
+    "to": "2003-12-06"
+  },
+  "season": "fall",
+  "year": 2003,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.66,
+    "anilistScore": 5.5,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Comedy",
+    "Super Power"
+  ],
+  "studios": [
+    "Shin-Ei Animation"
+  ],
+  "producers": [
+    "Toei Animation"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/12/27153l.jpg",
+    "banner": null,
+    "color": "#e4351a"
+  },
+  "trailer": null,
+  "synopsis": "In a stormy night, Mikan and Mom were stricken by lightning simultaneously and switched bodies. In the following days, while Mom enjoyed being a student again, Mikan had to fought with house chores. Meanwhile, Yuzuhiko and Dad were busy looking for a way to switch them back.\n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 3006,
+      "title": {
+        "romaji": "Atashin'chi",
+        "english": null,
+        "native": "あたしンち"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3006-XANMoAUZPtcn.jpg",
+      "format": "TV",
+      "episodes": 330,
+      "seasonYear": 2002,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "95m",
+      "airDate": "2003-06-12",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 90331,
+      "tvdbId": 9565338,
+      "seasonNumber": 0,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 95,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T09:02:54.655Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

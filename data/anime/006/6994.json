@@ -1,0 +1,112 @@
+{
+  "id": 6994,
+  "idMal": 6994,
+  "mappings": {
+    "mal": 6994,
+    "anilist": 6994,
+    "anidb": 5731,
+    "kitsu": 4828,
+    "simkl": 41463,
+    "tmdb": 334848,
+    "tvdb": null,
+    "trakt": 215721,
+    "traktType": "movies",
+    "shikimori": 6994,
+    "livechart": null,
+    "animeplanet": "koneko-no-studio",
+    "anisearch": 4540,
+    "notify": "8NORtKmmR"
+  },
+  "title": {
+    "romaji": "Koneko no Studio",
+    "english": "Kitty's Studio",
+    "native": "こねこのスタジオ",
+    "synonyms": [
+      "Kitten's Studio"
+    ]
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 16,
+  "aired": {
+    "from": "1959-04-09T00:00:00+00:00",
+    "to": "1959-04-09"
+  },
+  "season": "spring",
+  "year": 1959,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.14,
+    "anilistScore": 5.7,
+    "kitsuRating": 6.53
+  },
+  "genres": [
+    "Comedy",
+    "Anthropomorphism",
+    "Past"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1818/121361l.jpg",
+    "banner": null,
+    "color": null
+  },
+  "trailer": null,
+  "synopsis": "The kitten from Yasuji Mori's earlier Koneko no Rakugaki returns, this time putting his talents toward directing a samurai film starring his mouse friends.",
+  "sequence": [
+    {
+      "malId": 6993,
+      "title": {
+        "romaji": "Koneko no Rakugaki",
+        "english": null,
+        "native": "こねこのらくがき"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6993-9K3SFQJ4bIAZ.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1957,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "20m",
+      "airDate": "1959-04-09",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T08:19:30.181Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

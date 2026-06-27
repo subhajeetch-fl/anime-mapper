@@ -1,0 +1,130 @@
+{
+  "id": 9243,
+  "idMal": 9243,
+  "mappings": {
+    "mal": 9243,
+    "anilist": 9243,
+    "anidb": 3148,
+    "kitsu": 5643,
+    "simkl": 41144,
+    "tmdb": 701879,
+    "tvdb": null,
+    "trakt": 545207,
+    "traktType": "movies",
+    "shikimori": 9243,
+    "livechart": 12143,
+    "animeplanet": "nine-2-koibito-sengen",
+    "anisearch": 2121,
+    "notify": "vqsWpKmiR"
+  },
+  "title": {
+    "romaji": "Nine 2: Koibito Sengen",
+    "english": null,
+    "native": "ナイン2 恋人宣言",
+    "synonyms": [
+      "Nine 2: Sweetheart Declaration"
+    ]
+  },
+  "type": "TV Special",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 67,
+  "aired": {
+    "from": "1983-12-18T00:00:00+00:00",
+    "to": "1983-12-18"
+  },
+  "season": "fall",
+  "year": 1983,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.32,
+    "anilistScore": 5.6,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Romance",
+    "Sports",
+    "School",
+    "Action",
+    "Baseball",
+    "School Life"
+  ],
+  "studios": [
+    "Group TAC"
+  ],
+  "producers": [
+    "Fuji TV"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/12/25620l.jpg",
+    "banner": null,
+    "color": "#e4a128"
+  },
+  "trailer": null,
+  "synopsis": "Second part of the Nine TV movies.",
+  "sequence": [
+    {
+      "malId": 9242,
+      "title": {
+        "romaji": "Nine: Original-ban",
+        "english": null,
+        "native": "ナイン <オリジナル版>"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9242.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1983,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 9244,
+      "title": {
+        "romaji": "Nine 3: Kanketsu-hen",
+        "english": null,
+        "native": "ナイン 完結編"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9244.jpg",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "seasonYear": 1984,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "70m",
+      "airDate": "1983-12-18",
+      "title": {
+        "en": "TV Special"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T08:53:28.572Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

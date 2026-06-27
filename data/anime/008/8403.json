@@ -1,0 +1,123 @@
+{
+  "id": 8403,
+  "idMal": 8403,
+  "mappings": {
+    "mal": 8403,
+    "anilist": 8403,
+    "anidb": 9018,
+    "kitsu": 5322,
+    "simkl": 519598,
+    "tmdb": 66569,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 8403,
+    "livechart": 12395,
+    "animeplanet": "bonobono-kumomo-no-ki-no-koto",
+    "anisearch": 7659,
+    "notify": "HPOipKimR"
+  },
+  "title": {
+    "romaji": "BONOBONO: Kumomo no Ki no Koto",
+    "english": null,
+    "native": "ぼのぼの クモモの木のこと",
+    "synonyms": [
+      "Bonobono the Movie"
+    ]
+  },
+  "type": "Movie",
+  "source": "4-koma manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 61,
+  "aired": {
+    "from": "2002-08-10T00:00:00+00:00",
+    "to": "2002-08-10"
+  },
+  "season": "summer",
+  "year": 2002,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 5.92,
+    "anilistScore": null,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Drama"
+  ],
+  "studios": [],
+  "producers": [
+    "Amuse Pictures"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/11/22155l.jpg",
+    "banner": null,
+    "color": "#78aed6"
+  },
+  "trailer": null,
+  "synopsis": "The second theatrical Bonobono movie, done completely in 3D.",
+  "sequence": [
+    {
+      "malId": 8416,
+      "title": {
+        "romaji": "Bonobono (Movie)",
+        "english": "Bonobono",
+        "native": "ぼのぼの"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8416.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1993,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 4286,
+      "title": {
+        "romaji": "BONOBONO",
+        "english": "Bonobono",
+        "native": "ぼのぼの"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4286.jpg",
+      "format": "TV_SHORT",
+      "episodes": 48,
+      "seasonYear": 1995,
+      "relationType": "ALTERNATIVE"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "60m",
+      "airDate": "2002-08-10",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 312723,
+      "tvdbId": 5637827,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 5,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T08:40:53.200Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

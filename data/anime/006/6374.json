@@ -1,0 +1,900 @@
+{
+  "id": 6374,
+  "idMal": 6374,
+  "mappings": {
+    "mal": 6374,
+    "anilist": 6374,
+    "anidb": 1449,
+    "kitsu": 4535,
+    "simkl": 36720,
+    "tmdb": 13549,
+    "tvdb": 73887,
+    "trakt": 13490,
+    "traktType": "shows",
+    "shikimori": 6374,
+    "livechart": 11967,
+    "animeplanet": "gatchaman-ii",
+    "anisearch": 2179,
+    "notify": "qYR65Kmig"
+  },
+  "title": {
+    "romaji": "Kagaku Ninja-Tai Gatchaman II",
+    "english": "Eagle Riders",
+    "native": "科学忍者隊ガッチャマンII",
+    "synonyms": [
+      "Science Ninja Team Gatchaman II",
+      "Eskadra Orła"
+    ]
+  },
+  "type": "TV",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 52,
+  "episodeLength": null,
+  "aired": {
+    "from": "1978-10-01",
+    "to": "1979-09-30"
+  },
+  "season": "fall",
+  "year": 1978,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "anilistScore": 6.1,
+    "kitsuRating": 6.84
+  },
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/4535/original.jpg",
+    "banner": null,
+    "color": "#e4355d"
+  },
+  "trailer": null,
+  "synopsis": "Two years after the defeat of Galactor and the apparent death of Condor Joe, a cruise ship is attacked by Leader X, killing nearly everyone on board. One of the survivors, a young girl, is captured by X and rapidly aged into the bizarre, masculine-voiced villainess Gel Sadra. Though she has the appearance of an adult, Gel Sadra is not immune to throwing childish tantrums and behaving immaturely.\nIn the midst of the revival of Galactor, the Science Ninja Team is called back into action, with a shady man known as Hawk Getz acting as the replacement for Joe. Getz is quickly revealed to be a Galactor agent in disguise (and had killed the actual Getz who was to join), and winds up killed by a mysterious feather shuriken. After hints spread in the first three episodes, Joe reappears in the fourth episode, having somehow survived his fatal injuries at the end of the first series, and rejoins the team. It is later revealed that he was rescued by an ex-Galactor scientist at the brink of his death, and was the subject of various cybernetic augmentations.\nLater in the series, a female scientist known as Dr.Pandora is introduced, who had lost her husband and daughter in the cruise ship disaster. Unbeknown to her, her daughter Sammie survived and is in fact Gel Sadra.",
+  "sequence": [
+    {
+      "malId": 2389,
+      "title": {
+        "romaji": "Kagaku Ninja-Tai Gatchaman",
+        "english": "Gatchaman",
+        "native": "科学忍者隊ガッチャマン"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2389-wSCjApiCQQiH.png",
+      "format": "TV",
+      "episodes": 105,
+      "seasonYear": 1972,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 6375,
+      "title": {
+        "romaji": "Kagaku Ninja-Tai Gatchaman F",
+        "english": "Eagle Riders (2)",
+        "native": "科学忍者隊ガッチャマンF"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6375.jpg",
+      "format": "TV",
+      "episodes": 48,
+      "seasonYear": 1979,
+      "relationType": "SEQUEL"
+    },
+    {
+      "malId": 39249,
+      "title": {
+        "romaji": "Pandora to Akubi",
+        "english": null,
+        "native": "パンドラとアクビ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107908-ElAOLjBJCuWd.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2019,
+      "relationType": "CHARACTER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "1978-10-01",
+      "title": {
+        "en": "Governor X Counterattack"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4234523,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 106,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/73887/4234523.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "1978-10-08",
+      "title": {
+        "en": "Mysterious Feather Shuriken"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4234524,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 107,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/73887/4234524.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "1978-10-15",
+      "title": {
+        "en": "Black Knights from Hell"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4234525,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 108,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/73887/4234525.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "1978-10-22",
+      "title": {
+        "en": "Joe Has Returned?!"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4440230,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 109,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/73887/4440230.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "1978-10-29",
+      "title": {
+        "en": "Mystery of the Primitive Man Invasion"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4440231,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 110,
+      "runtime": 25,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "1978-11-05",
+      "title": {
+        "en": "Attack of the Pyramid Power"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4440232,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 111,
+      "runtime": 25,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "1978-11-12",
+      "title": {
+        "en": "Fearful Mutant Operation"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4440233,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 112,
+      "runtime": 25,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "1978-11-19",
+      "title": {
+        "en": "The Firebird in the Moon"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4440234,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 113,
+      "runtime": 25,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "1978-11-26",
+      "title": {
+        "en": "Berg Katse`s Downfall"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4440235,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 114,
+      "runtime": 25,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "1978-12-03",
+      "title": {
+        "en": "A Blizzard at the Equator"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4440236,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 115,
+      "runtime": 25,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "1978-12-10",
+      "title": {
+        "en": "Struggle! Hyplunium 600"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4440237,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 116,
+      "runtime": 25,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "1978-12-17",
+      "title": {
+        "en": "Dr. Rafael`s Secret"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4440238,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 117,
+      "runtime": 25,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "1978-12-24",
+      "title": {
+        "en": "G-2`s Youth"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508454,
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 118,
+      "runtime": 25,
+      "image": null
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "1978-12-31",
+      "title": {
+        "en": "Red Impulse of Space"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508455,
+      "seasonNumber": 2,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 119,
+      "runtime": 25,
+      "image": null
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "1979-01-07",
+      "title": {
+        "en": "The Pure Heart of G-5"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508456,
+      "seasonNumber": 2,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 120,
+      "runtime": 25,
+      "image": null
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "1979-01-14",
+      "title": {
+        "en": "Blackout Joe"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508457,
+      "seasonNumber": 2,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 121,
+      "runtime": 25,
+      "image": null
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "1979-01-21",
+      "title": {
+        "en": "The Devil`s Equation"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508458,
+      "seasonNumber": 2,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 122,
+      "runtime": 25,
+      "image": null
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "1979-01-28",
+      "title": {
+        "en": "The Spaceship that Doesn`t Respond"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508459,
+      "seasonNumber": 2,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 123,
+      "runtime": 25,
+      "image": null
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "1979-02-04",
+      "title": {
+        "en": "Trap in Another Dimension"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508460,
+      "seasonNumber": 2,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 124,
+      "runtime": 25,
+      "image": null
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "1979-02-11",
+      "title": {
+        "en": "G-Town`s Critical Moment"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508461,
+      "seasonNumber": 2,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 125,
+      "runtime": 25,
+      "image": null
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "1979-02-18",
+      "title": {
+        "en": "Youth`s Broken Wings"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508462,
+      "seasonNumber": 2,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 126,
+      "runtime": 25,
+      "image": null
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "1979-02-25",
+      "title": {
+        "en": "Mysterious Stonehenge"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508463,
+      "seasonNumber": 2,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 127,
+      "runtime": 25,
+      "image": null
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "1979-03-04",
+      "title": {
+        "en": "Love Vanquished at the North Pole"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508464,
+      "seasonNumber": 2,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 128,
+      "runtime": 25,
+      "image": null
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "1979-03-11",
+      "title": {
+        "en": "Suspicious G-2"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508465,
+      "seasonNumber": 2,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 129,
+      "runtime": 25,
+      "image": null
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "1979-03-18",
+      "title": {
+        "en": "The Cyborg`s Sorrow"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508466,
+      "seasonNumber": 2,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 130,
+      "runtime": 25,
+      "image": null
+    },
+    "26": {
+      "episode": "26",
+      "length": "25m",
+      "airDate": "1979-03-25",
+      "title": {
+        "en": "Mysterious Private Secretery Pandora"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508467,
+      "seasonNumber": 2,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 131,
+      "runtime": 25,
+      "image": null
+    },
+    "27": {
+      "episode": "27",
+      "length": "25m",
+      "airDate": "1979-04-01",
+      "title": {
+        "en": "Dr. Nambu`s Death!"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508468,
+      "seasonNumber": 2,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 132,
+      "runtime": 25,
+      "image": null
+    },
+    "28": {
+      "episode": "28",
+      "length": "25m",
+      "airDate": "1979-04-08",
+      "title": {
+        "en": "Love Stolen by a Feather Shuriken"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508469,
+      "seasonNumber": 2,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 133,
+      "runtime": 25,
+      "image": null
+    },
+    "29": {
+      "episode": "29",
+      "length": "25m",
+      "airDate": "1979-04-15",
+      "title": {
+        "en": "Life or Death! Evil Demon North Wall"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508470,
+      "seasonNumber": 2,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 134,
+      "runtime": 25,
+      "image": null
+    },
+    "30": {
+      "episode": "30",
+      "length": "25m",
+      "airDate": "1979-04-22",
+      "title": {
+        "en": "Ryu`s Homecoming"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508471,
+      "seasonNumber": 2,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 135,
+      "runtime": 25,
+      "image": null
+    },
+    "31": {
+      "episode": "31",
+      "length": "25m",
+      "airDate": "1979-04-29",
+      "title": {
+        "en": "The Eagle is Shot Down"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508472,
+      "seasonNumber": 2,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 136,
+      "runtime": 25,
+      "image": null
+    },
+    "32": {
+      "episode": "32",
+      "length": "25m",
+      "airDate": "1979-05-06",
+      "title": {
+        "en": "G-1`s Andes Love"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508473,
+      "seasonNumber": 2,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 137,
+      "runtime": 25,
+      "image": null
+    },
+    "33": {
+      "episode": "33",
+      "length": "25m",
+      "airDate": "1979-05-13",
+      "title": {
+        "en": "G-1`s Anger"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508474,
+      "seasonNumber": 2,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 138,
+      "runtime": 25,
+      "image": null
+    },
+    "34": {
+      "episode": "34",
+      "length": "25m",
+      "airDate": "1979-05-20",
+      "title": {
+        "en": "The Evil Iron Beast of the Amazon"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508475,
+      "seasonNumber": 2,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 139,
+      "runtime": 25,
+      "image": null
+    },
+    "35": {
+      "episode": "35",
+      "length": "25m",
+      "airDate": "1979-05-27",
+      "title": {
+        "en": "Berg Katse`s Legacy"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508476,
+      "seasonNumber": 2,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": 140,
+      "runtime": 25,
+      "image": null
+    },
+    "36": {
+      "episode": "36",
+      "length": "25m",
+      "airDate": "1979-06-03",
+      "title": {
+        "en": "Sorrow of the Underground City"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508477,
+      "seasonNumber": 2,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 141,
+      "runtime": 25,
+      "image": null
+    },
+    "37": {
+      "episode": "37",
+      "length": "25m",
+      "airDate": "1979-06-10",
+      "title": {
+        "en": "Burn! Wings of Steel"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508478,
+      "seasonNumber": 2,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 142,
+      "runtime": 25,
+      "image": null
+    },
+    "38": {
+      "episode": "38",
+      "length": "25m",
+      "airDate": "1979-06-17",
+      "title": {
+        "en": "Electromagnetic Mecha Iron Demon Dragon"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508479,
+      "seasonNumber": 2,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 143,
+      "runtime": 25,
+      "image": null
+    },
+    "39": {
+      "episode": "39",
+      "length": "25m",
+      "airDate": "1979-06-24",
+      "title": {
+        "en": "Crimson Condor"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508480,
+      "seasonNumber": 2,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": 144,
+      "runtime": 25,
+      "image": null
+    },
+    "40": {
+      "episode": "40",
+      "length": "25m",
+      "airDate": "1979-07-01",
+      "title": {
+        "en": "Fierce Battle! Evil Animal Operation"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508481,
+      "seasonNumber": 2,
+      "episodeNumber": 40,
+      "absoluteEpisodeNumber": 145,
+      "runtime": 25,
+      "image": null
+    },
+    "41": {
+      "episode": "41",
+      "length": "25m",
+      "airDate": "1979-07-08",
+      "title": {
+        "en": "Gatchaman vs. GelSadora"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508482,
+      "seasonNumber": 2,
+      "episodeNumber": 41,
+      "absoluteEpisodeNumber": 146,
+      "runtime": 25,
+      "image": null
+    },
+    "42": {
+      "episode": "42",
+      "length": "25m",
+      "airDate": "1979-07-15",
+      "title": {
+        "en": "The Observatory that Moves in the Dark"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508483,
+      "seasonNumber": 2,
+      "episodeNumber": 42,
+      "absoluteEpisodeNumber": 147,
+      "runtime": 25,
+      "image": null
+    },
+    "43": {
+      "episode": "43",
+      "length": "25m",
+      "airDate": "1979-07-22",
+      "title": {
+        "en": "Invaders From Mars"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508484,
+      "seasonNumber": 2,
+      "episodeNumber": 43,
+      "absoluteEpisodeNumber": 148,
+      "runtime": 25,
+      "image": null
+    },
+    "44": {
+      "episode": "44",
+      "length": "25m",
+      "airDate": "1979-07-29",
+      "title": {
+        "en": "Fight! The Evil Base on Mars"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508485,
+      "seasonNumber": 2,
+      "episodeNumber": 44,
+      "absoluteEpisodeNumber": 149,
+      "runtime": 25,
+      "image": null
+    },
+    "45": {
+      "episode": "45",
+      "length": "25m",
+      "airDate": "1979-08-05",
+      "title": {
+        "en": "Evil of the Solar Shift Plan"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508486,
+      "seasonNumber": 2,
+      "episodeNumber": 45,
+      "absoluteEpisodeNumber": 150,
+      "runtime": 25,
+      "image": null
+    },
+    "46": {
+      "episode": "46",
+      "length": "25m",
+      "airDate": "1979-08-12",
+      "title": {
+        "en": "Gatchaman Unmasked"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508487,
+      "seasonNumber": 2,
+      "episodeNumber": 46,
+      "absoluteEpisodeNumber": 151,
+      "runtime": 25,
+      "image": null
+    },
+    "47": {
+      "episode": "47",
+      "length": "25m",
+      "airDate": "1979-08-26",
+      "title": {
+        "en": "Certain Death! Two Firebirds"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508488,
+      "seasonNumber": 2,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": 152,
+      "runtime": 25,
+      "image": null
+    },
+    "48": {
+      "episode": "48",
+      "length": "25m",
+      "airDate": "1979-09-02",
+      "title": {
+        "en": "History`s Largest Tidal Wave"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508489,
+      "seasonNumber": 2,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": 153,
+      "runtime": 25,
+      "image": null
+    },
+    "49": {
+      "episode": "49",
+      "length": "25m",
+      "airDate": "1979-09-09",
+      "title": {
+        "en": "Burn! Condor"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508490,
+      "seasonNumber": 2,
+      "episodeNumber": 49,
+      "absoluteEpisodeNumber": 154,
+      "runtime": 25,
+      "image": null
+    },
+    "50": {
+      "episode": "50",
+      "length": "25m",
+      "airDate": "1978-09-16",
+      "title": {
+        "en": "Mystery? Mystery! GelSadora`s Mother"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508491,
+      "seasonNumber": 2,
+      "episodeNumber": 50,
+      "absoluteEpisodeNumber": 155,
+      "runtime": 25,
+      "image": null
+    },
+    "51": {
+      "episode": "51",
+      "length": "25m",
+      "airDate": "1978-09-23",
+      "title": {
+        "en": "The Sorrow of GelSadora"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508492,
+      "seasonNumber": 2,
+      "episodeNumber": 51,
+      "absoluteEpisodeNumber": 156,
+      "runtime": 25,
+      "image": null
+    },
+    "52": {
+      "episode": "52",
+      "length": "25m",
+      "airDate": "1979-09-30",
+      "title": {
+        "en": "The Downfall of Governor X"
+      },
+      "tvdbShowId": 73887,
+      "tvdbId": 4508493,
+      "seasonNumber": 2,
+      "episodeNumber": 52,
+      "absoluteEpisodeNumber": 157,
+      "runtime": 25,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T07:53:25.600Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

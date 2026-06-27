@@ -1,0 +1,155 @@
+{
+  "id": 5225,
+  "idMal": 5225,
+  "mappings": {
+    "mal": 5225,
+    "anilist": 5225,
+    "anidb": 3181,
+    "kitsu": 3997,
+    "simkl": 38581,
+    "tmdb": 172591,
+    "tvdb": null,
+    "trakt": 109710,
+    "traktType": "movies",
+    "shikimori": 5225,
+    "livechart": 6402,
+    "animeplanet": "lupin-the-3rd-pilot-film",
+    "anisearch": 1786,
+    "notify": "3niC5Kimg"
+  },
+  "title": {
+    "romaji": "Lupin III: Pilot Film",
+    "english": null,
+    "native": "ルパン三世 Pilot Film",
+    "synonyms": []
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 12,
+  "aired": {
+    "from": "1969-01-01",
+    "to": "1969-01-01"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "R",
+  "score": {
+    "malScore": null,
+    "anilistScore": 6.1,
+    "kitsuRating": 6.48
+  },
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Earth",
+    "Thievery",
+    "Gunfights",
+    "Slapstick",
+    "Present"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/3997/original.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5225-lw3o3ZvdHbL8.jpg",
+    "color": "#e44378"
+  },
+  "trailer": null,
+  "synopsis": "Two years after the birth of the manga a pilot film was released. It was a brief film of only 13 minutes that had the purpose of assay the response to a possible future anime realization of Lupin III. The pilot opens with a challenge call from Lupin to Zenigata from a public phone.\nPreviously unreleased remastered TV version of this pilot from a year 1971 was released in 1989. It was included on the Lupin III - Secret File OVA.\n(Source: AniDB) ",
+  "sequence": [
+    {
+      "malId": 1412,
+      "title": {
+        "romaji": "Lupin III",
+        "english": "Lupin the 3rd",
+        "native": "ルパン三世"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1412-70kA9bzDoleV.jpg",
+      "format": "TV",
+      "episodes": 23,
+      "seasonYear": 1971,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "15m",
+      "airDate": "1988-08-17",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 71863,
+      "tvdbId": 4301582,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/episodes/71863/4301582.jpg"
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "20m",
+      "airDate": "",
+      "title": {
+        "en": "Secret File 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "9m",
+      "airDate": "",
+      "title": {
+        "en": "Three Trailers from Secret Files"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "O1": {
+      "episode": "O1",
+      "length": "35m",
+      "airDate": "",
+      "title": {
+        "en": "Secret File 1 & 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T06:43:16.297Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

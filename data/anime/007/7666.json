@@ -1,0 +1,128 @@
+{
+  "id": 7666,
+  "idMal": 7666,
+  "mappings": {
+    "mal": 7666,
+    "anilist": 7666,
+    "anidb": 2269,
+    "kitsu": 5075,
+    "simkl": 38925,
+    "tmdb": 37567,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 7666,
+    "livechart": 10989,
+    "animeplanet": "dr-slump-movie-1-hello-wonderland",
+    "anisearch": 2423,
+    "notify": "vWOktFimg"
+  },
+  "title": {
+    "romaji": "Dr. Slump: Arale-chan - Hello! Fushigi Shima",
+    "english": "Dr. Slump and Arale-chan: Hello! Wonder Island",
+    "native": "Dr.スランプ アラレちゃん ハロー！不思議島",
+    "synonyms": [
+      "Dr. Slump & Arale-chan Hello! Strange Island"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 25,
+  "aired": {
+    "from": "1981-07-18T00:00:00+00:00",
+    "to": "1981-07-18"
+  },
+  "season": "summer",
+  "year": 1981,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.4,
+    "anilistScore": 5.9,
+    "kitsuRating": 6.75
+  },
+  "genres": [
+    "Comedy",
+    "Sci-Fi",
+    "Slice of Life",
+    "Science Fiction"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/4/23167l.jpg",
+    "banner": null,
+    "color": "#f1e45d"
+  },
+  "trailer": null,
+  "synopsis": "Professor Senbei finds a videotape of his deceased father providing instructions on how to create a love potion. The main ingredient is a tear of the evil Gyaasuka Daimao who lives at the Wonder Island. To retrieve it, Senbei takes Arale and Gatchan on a wacky adventure.\n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 2222,
+      "title": {
+        "romaji": "Dr. Slump: Arale-chan",
+        "english": null,
+        "native": "Dr.スランプ・アラレちゃん"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2222-wJc3oXlh4SDV.jpg",
+      "format": "TV",
+      "episodes": 243,
+      "seasonYear": 1981,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "1993-07-10",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 75112,
+      "tvdbId": 4093575,
+      "seasonNumber": 0,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 35,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer (00:31)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T08:30:37.981Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

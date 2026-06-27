@@ -1,0 +1,105 @@
+{
+  "id": 5515,
+  "idMal": 5515,
+  "mappings": {
+    "mal": 5515,
+    "anilist": 5515,
+    "anidb": 2228,
+    "kitsu": 4131,
+    "simkl": 37041,
+    "tmdb": 9619,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 5515,
+    "livechart": null,
+    "animeplanet": "wakusei-robo-danguard-a-uchuu-daikaisen",
+    "anisearch": 1557,
+    "notify": "dx1CcKmiR"
+  },
+  "title": {
+    "romaji": "Wakusei Robo Danguard Ace: Uchuu Daikaisen",
+    "english": "Dangard Ace Movie: The Great Space War",
+    "native": "惑星ロボ ダンガードA[エース] 宇宙大海戦",
+    "synonyms": []
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 25,
+  "aired": {
+    "from": "1978-03-18",
+    "to": "1978-03-18"
+  },
+  "season": "spring",
+  "year": 1978,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "anilistScore": 4.5,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Mecha",
+    "Sci-Fi",
+    "Science Fiction"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/4131/original.jpg",
+    "banner": null,
+    "color": "#e48635"
+  },
+  "trailer": null,
+  "synopsis": "Doppler has set up a trap for the Jasdam, and it is up to the Danguard Ace to save it. \n(Source: AniDB)",
+  "sequence": [
+    {
+      "malId": 1986,
+      "title": {
+        "romaji": "Wakusei Robo Danguard Ace",
+        "english": "Dangard Ace",
+        "native": "惑星ロボ ダンガードA[エース]"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1986.jpg",
+      "format": "TV",
+      "episodes": 56,
+      "seasonYear": 1977,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "1978-03-18",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 183801,
+      "tvdbId": 10038908,
+      "seasonNumber": 0,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 26,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T07:00:50.357Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,893 @@
+{
+  "id": 5962,
+  "idMal": 5962,
+  "mappings": {
+    "mal": 5962,
+    "anilist": 5962,
+    "anidb": 6426,
+    "kitsu": 4365,
+    "simkl": 41116,
+    "tmdb": 37807,
+    "tvdb": 387655,
+    "trakt": 166214,
+    "traktType": "shows",
+    "shikimori": 5962,
+    "livechart": 4548,
+    "animeplanet": "beyblade-metal-fusion",
+    "anisearch": 5302,
+    "notify": "2xvq5Fmmg"
+  },
+  "title": {
+    "romaji": "Metal Fight Beyblade",
+    "english": "Beyblade: Metal Fusion",
+    "native": "メタルファイト ベイブレード",
+    "synonyms": [
+      "בייבלייד - עידן המתכת"
+    ]
+  },
+  "type": "TV",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 51,
+  "episodeLength": 25,
+  "aired": {
+    "from": "2009-04-05T00:00:00+00:00",
+    "to": "2010-03-28T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 2009,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "08:30",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 6.96,
+    "anilistScore": 6.8,
+    "kitsuRating": 6.63
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Sports",
+    "Friendship",
+    "Proxy Battles"
+  ],
+  "studios": [
+    "Tatsunoko Production"
+  ],
+  "producers": [
+    "TV Tokyo",
+    "d-rights"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/13/21387l.jpg",
+    "banner": null,
+    "color": "#1aa1e4"
+  },
+  "trailer": null,
+  "synopsis": "A new cast of characters take on the continued battle between good and evil. Ginga, our hero, and his group of loyal friends take on a dangerous group called the Dark Nebula. The Dark Nebula’s sole mission is to take over the world and unleash their evil upon it; but before they can do so, they must destroy Ginga as he is the only person that’s strong enough to stand in their way. The plot thickens as friends become enemies and enemies become allies. Everything starts and ends with Ginga as he struggles to find the strength to defend his world and the honor of Beyblade.\n\n(Source: Beyblade.com)",
+  "sequence": [
+    {
+      "malId": 288,
+      "title": {
+        "romaji": "Bakuten Shoot Beyblade",
+        "english": "Beyblade",
+        "native": "爆転シュート　ベイブレード"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b288-QLBdXz8n34yP.png",
+      "format": "TV",
+      "episodes": 51,
+      "seasonYear": 2001,
+      "relationType": "OTHER"
+    },
+    {
+      "malId": 8410,
+      "title": {
+        "romaji": "Metal Fight Beyblade: Baku",
+        "english": "Beyblade: Metal Masters",
+        "native": "メタルファイト ベイブレード～爆～"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8410-fXa60HqVggen.png",
+      "format": "TV",
+      "episodes": 51,
+      "seasonYear": 2010,
+      "relationType": "SEQUEL"
+    },
+    {
+      "malId": null,
+      "title": {
+        "romaji": "BeyWheelz",
+        "english": "BeyWheelz: Powered by Beyblade",
+        "native": "ベイウィールズ "
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136668-VZgOHmlPWZ8l.jpg",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2012,
+      "relationType": "ALTERNATIVE"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2009-04-05",
+      "title": {
+        "en": "Pegasus Has Landed!"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7908999,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4b9f6ed2244.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2009-04-12",
+      "title": {
+        "en": "Leone`s Roar!"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7909002,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4b9fb34c6e1.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2009-04-19",
+      "title": {
+        "en": "The Wolf`s Ambition!"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7909003,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4b9fe48b221.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2009-04-26",
+      "title": {
+        "en": "Charge! Bull Power!"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7909006,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4ba015ce364.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2009-05-03",
+      "title": {
+        "en": "Vengeful Gasher"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7909010,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4ba04a00156.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2009-05-10",
+      "title": {
+        "en": "Aquario`s Challenge"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7909013,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4ba086b2e8c.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2009-05-17",
+      "title": {
+        "en": "It`s Our Special Move! Sagittario"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7909017,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4ba0b9d3a05.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2009-05-24",
+      "title": {
+        "en": "Merci`s Dangerous Trap"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7909029,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4ba169ae70f.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2009-05-31",
+      "title": {
+        "en": "Leone`s Counterattack"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7909036,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4ba2ac00fca.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2009-06-07",
+      "title": {
+        "en": "Heated Battle! Gingka Versus Kyoya"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7910095,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4c4d8461c61.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2009-06-14",
+      "title": {
+        "en": "Chase The Wolf!"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7910117,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4c540cb2c30.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2009-06-21",
+      "title": {
+        "en": "Infiltrate The Dark Nebula`s Castle!"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7910123,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4c54f97c707.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2009-06-28",
+      "title": {
+        "en": "L-Drago Awakens!"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7910128,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4c5638a7077.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "2009-07-05",
+      "title": {
+        "en": "Memories of Ryo"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7910129,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4c5781d584c.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "2009-07-12",
+      "title": {
+        "en": "Mysterious Hyoma"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7910131,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4c588dc62af.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "2009-07-19",
+      "title": {
+        "en": "The Magnificent Aries"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7910135,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4c5985da16a.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "2009-07-26",
+      "title": {
+        "en": "The Silver Pegasus"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7912278,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4e24fe7a4d0.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "2009-08-02",
+      "title": {
+        "en": "The Green Hades"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7912283,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4e25f97998a.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "2009-08-09",
+      "title": {
+        "en": "Conquer the Tag-Team Battle!"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7912292,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f4e2707b8c07.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "2009-08-16",
+      "title": {
+        "en": "Begin! The Survival Battle!"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7917133,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f52cee1ec38b.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "2009-08-23",
+      "title": {
+        "en": "Warriors on a Deserted Island"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7917134,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f52d00879adc.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "2009-08-30",
+      "title": {
+        "en": "The Fearsome Libra"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7917145,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f52d12792298.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "2009-09-06",
+      "title": {
+        "en": "The Road to the Battle Bladers"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7917152,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f52d24e82010.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "2009-09-13",
+      "title": {
+        "en": "The Beautiful Eagle"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7917159,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f52d3419216a.jpg"
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "2009-09-20",
+      "title": {
+        "en": "The Sniper Capricorne"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7917163,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f52d449a7c1b.jpg"
+    },
+    "26": {
+      "episode": "26",
+      "length": "25m",
+      "airDate": "2009-09-27",
+      "title": {
+        "en": "Tsubasa Flies Into The Dark"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7917165,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f52d52fc8474.jpg"
+    },
+    "27": {
+      "episode": "27",
+      "length": "25m",
+      "airDate": "2009-10-04",
+      "title": {
+        "en": "Intruders in the Challenge Match"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7917168,
+      "seasonNumber": 1,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f52d64e862a9.jpg"
+    },
+    "28": {
+      "episode": "28",
+      "length": "25m",
+      "airDate": "2009-10-11",
+      "title": {
+        "en": "Dark Gasher`s Big, Crabby-Crabby Operation"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7920261,
+      "seasonNumber": 1,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f550a9f8b836.jpg"
+    },
+    "29": {
+      "episode": "29",
+      "length": "25m",
+      "airDate": "2009-10-18",
+      "title": {
+        "en": "Kenta and Sora"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7920273,
+      "seasonNumber": 1,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f550bc0dd2ea.jpg"
+    },
+    "30": {
+      "episode": "30",
+      "length": "25m",
+      "airDate": "2009-10-25",
+      "title": {
+        "en": "The Bewitching Pisces"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7920282,
+      "seasonNumber": 1,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f550ca5ea851.jpg"
+    },
+    "31": {
+      "episode": "31",
+      "length": "25m",
+      "airDate": "2009-11-01",
+      "title": {
+        "en": "The Twin Gemios"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7920292,
+      "seasonNumber": 1,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f550d773d37a.jpg"
+    },
+    "32": {
+      "episode": "32",
+      "length": "25m",
+      "airDate": "2009-11-08",
+      "title": {
+        "en": "The Stormy Battle Royal"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7922636,
+      "seasonNumber": 1,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f5680daa38eb.jpg"
+    },
+    "33": {
+      "episode": "33",
+      "length": "25m",
+      "airDate": "2009-11-15",
+      "title": {
+        "en": "The Oath of the Phoenix"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7922667,
+      "seasonNumber": 1,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f5682bb9b036.jpg"
+    },
+    "34": {
+      "episode": "34",
+      "length": "25m",
+      "airDate": "2009-11-22",
+      "title": {
+        "en": "Shine, Virgo!"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7922714,
+      "seasonNumber": 1,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f5686aacb54e.jpg"
+    },
+    "35": {
+      "episode": "35",
+      "length": "25m",
+      "airDate": "2009-11-29",
+      "title": {
+        "en": "L-Drago, on the Move"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7922721,
+      "seasonNumber": 1,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f568774b6301.jpg"
+    },
+    "36": {
+      "episode": "36",
+      "length": "25m",
+      "airDate": "2009-12-06",
+      "title": {
+        "en": "Broken Wings"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7922726,
+      "seasonNumber": 1,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f56884371d25.jpg"
+    },
+    "37": {
+      "episode": "37",
+      "length": "25m",
+      "airDate": "2009-12-13",
+      "title": {
+        "en": "Rock Scorpio`s Deadly Poison"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7922736,
+      "seasonNumber": 1,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 37,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f568945b4ebb.jpg"
+    },
+    "38": {
+      "episode": "38",
+      "length": "25m",
+      "airDate": "2009-12-20",
+      "title": {
+        "en": "Run, Gingka!"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7922760,
+      "seasonNumber": 1,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 38,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f568caec09a7.jpg"
+    },
+    "39": {
+      "episode": "39",
+      "length": "25m",
+      "airDate": "2009-12-27",
+      "title": {
+        "en": "Clash! The Phoenix vs The Pegasus"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7923110,
+      "seasonNumber": 1,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": 39,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f56b1d18f7e0.jpg"
+    },
+    "40": {
+      "episode": "40",
+      "length": "25m",
+      "airDate": "2010-01-10",
+      "title": {
+        "en": "GO! Battle Bladers!"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7923117,
+      "seasonNumber": 1,
+      "episodeNumber": 40,
+      "absoluteEpisodeNumber": 40,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f56b322468b2.jpg"
+    },
+    "41": {
+      "episode": "41",
+      "length": "25m",
+      "airDate": "2010-01-17",
+      "title": {
+        "en": "The Serpent`s Terror"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7923119,
+      "seasonNumber": 1,
+      "episodeNumber": 41,
+      "absoluteEpisodeNumber": 41,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f56b407816e6.jpg"
+    },
+    "42": {
+      "episode": "42",
+      "length": "25m",
+      "airDate": "2010-01-24",
+      "title": {
+        "en": "The Dragon`s Punishment"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7923124,
+      "seasonNumber": 1,
+      "episodeNumber": 42,
+      "absoluteEpisodeNumber": 42,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f56b4fe6861b.jpg"
+    },
+    "43": {
+      "episode": "43",
+      "length": "25m",
+      "airDate": "2010-01-31",
+      "title": {
+        "en": "The Deck is Stacked"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7923138,
+      "seasonNumber": 1,
+      "episodeNumber": 43,
+      "absoluteEpisodeNumber": 43,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f56b6eca4c3e.jpg"
+    },
+    "44": {
+      "episode": "44",
+      "length": "25m",
+      "airDate": "2010-02-07",
+      "title": {
+        "en": "Entrusted Emotions"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7923156,
+      "seasonNumber": 1,
+      "episodeNumber": 44,
+      "absoluteEpisodeNumber": 44,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f56b7f0c743d.jpg"
+    },
+    "45": {
+      "episode": "45",
+      "length": "25m",
+      "airDate": "2010-02-14",
+      "title": {
+        "en": "Eagle Counterattacks"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7923166,
+      "seasonNumber": 1,
+      "episodeNumber": 45,
+      "absoluteEpisodeNumber": 45,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f56b90cb9fe2.jpg"
+    },
+    "46": {
+      "episode": "46",
+      "length": "25m",
+      "airDate": "2010-02-21",
+      "title": {
+        "en": "Libra Disappears"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7923181,
+      "seasonNumber": 1,
+      "episodeNumber": 46,
+      "absoluteEpisodeNumber": 46,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f56ba3657646.jpg"
+    },
+    "47": {
+      "episode": "47",
+      "length": "25m",
+      "airDate": "2010-02-28",
+      "title": {
+        "en": "Bonds of Steel"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7923189,
+      "seasonNumber": 1,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": 47,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f56bb43f21bc.jpg"
+    },
+    "48": {
+      "episode": "48",
+      "length": "25m",
+      "airDate": "2010-03-07",
+      "title": {
+        "en": "The Truth About Light and Darkness"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7923191,
+      "seasonNumber": 1,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": 48,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f56bcebde8f4.jpg"
+    },
+    "49": {
+      "episode": "49",
+      "length": "25m",
+      "airDate": "2010-03-14",
+      "title": {
+        "en": "Fierce Battle! Lion VS Dragon"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7923193,
+      "seasonNumber": 1,
+      "episodeNumber": 49,
+      "absoluteEpisodeNumber": 49,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f56bdfc888ab.jpg"
+    },
+    "50": {
+      "episode": "50",
+      "length": "25m",
+      "airDate": "2010-03-21",
+      "title": {
+        "en": "The Furious Final Battle!"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7923194,
+      "seasonNumber": 1,
+      "episodeNumber": 50,
+      "absoluteEpisodeNumber": 50,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f56bee7dd207.jpg"
+    },
+    "51": {
+      "episode": "51",
+      "length": "25m",
+      "airDate": "2010-03-28",
+      "title": {
+        "en": "Blader`s Spirit"
+      },
+      "tvdbShowId": 387655,
+      "tvdbId": 7923195,
+      "seasonNumber": 1,
+      "episodeNumber": 51,
+      "absoluteEpisodeNumber": 51,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/387655/episodes/5f56bfde60c8d.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T07:32:24.960Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

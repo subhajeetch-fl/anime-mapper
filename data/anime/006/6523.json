@@ -1,0 +1,900 @@
+{
+  "id": 6523,
+  "idMal": 6523,
+  "mappings": {
+    "mal": 6523,
+    "anilist": 6523,
+    "anidb": 6020,
+    "kitsu": 4595,
+    "simkl": 38273,
+    "tmdb": 19845,
+    "tvdb": 139251,
+    "trakt": 63012,
+    "traktType": "shows",
+    "shikimori": 6523,
+    "livechart": null,
+    "animeplanet": "pororo-the-little-penguin",
+    "anisearch": 11363,
+    "notify": "SkD65KmmR"
+  },
+  "title": {
+    "romaji": "Bborongbborong Bbororo",
+    "english": null,
+    "native": "뽀롱뽀롱 뽀로로",
+    "synonyms": [
+      "Pororo the Little Penguin",
+      "Porong Porong Pororo",
+      "Mały pingwinek Popolo"
+    ]
+  },
+  "type": "TV_SHORT",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 52,
+  "episodeLength": 5,
+  "aired": {
+    "from": "2003-11-27",
+    "to": "2004-05-18"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "G",
+  "score": {
+    "malScore": null,
+    "anilistScore": 4.9,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Kids"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/4595/original.jpg",
+    "banner": null,
+    "color": "#f1ae35"
+  },
+  "trailer": null,
+  "synopsis": "Pororo is a little penguin, living in Antarctica. He gets up to adventures with his friends: Poby the polar bear, Loopy the beaver, Harry the hummingbird, Crong the dinosaur, Petty the penguin, and Eddy the fox.\n(Source: Wikipedia)",
+  "sequence": [
+    {
+      "malId": 6524,
+      "title": {
+        "romaji": "Bbororoe Daemoheom",
+        "english": "Pororo to the Cookie Castle",
+        "native": "뽀로로의 대모험"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6524-qxFKDp0HuFej.jpg",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 27451,
+      "title": {
+        "romaji": "Bborongbborong Bbororo 2",
+        "english": "Pororo the Little Penguin 2",
+        "native": "뽀롱뽀롱 뽀로로 2"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102374-tyHNLtkJjiDt.jpg",
+      "format": "TV_SHORT",
+      "episodes": 52,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "7m",
+      "airDate": "2003-11-27",
+      "title": {
+        "en": "We`re Friends!"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659361,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 6,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "7m",
+      "airDate": "2003-11-28",
+      "title": {
+        "en": "It`s All Right!"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659371,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 6,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "7m",
+      "airDate": "2003-12-04",
+      "title": {
+        "en": "Ice Fishing"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659381,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 6,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "7m",
+      "airDate": "2003-12-05",
+      "title": {
+        "en": "Smile, Smile, Smile!"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659391,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 6,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "7m",
+      "airDate": "2003-12-11",
+      "title": {
+        "en": "What Happen to My Face!"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659401,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 6,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "7m",
+      "airDate": "2003-12-12",
+      "title": {
+        "en": "Achoo, I Got a Cold"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659411,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 6,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "7m",
+      "airDate": "2003-12-12",
+      "title": {
+        "en": "Dream of Flying"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659421,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 6,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "7m",
+      "airDate": "2003-12-19",
+      "title": {
+        "en": "Who Touched My Snowman"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659441,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 6,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "7m",
+      "airDate": "2003-12-25",
+      "title": {
+        "en": "Treasure Hunting"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659431,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 6,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "7m",
+      "airDate": "2003-12-26",
+      "title": {
+        "en": "Crong the Troublemaker"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659451,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 6,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "7m",
+      "airDate": "2004-01-01",
+      "title": {
+        "en": "Let`s Play Together!"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659461,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 6,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": "7m",
+      "airDate": "2004-01-02",
+      "title": {
+        "en": "Can`t I Have the Moon?"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659481,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 6,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": "7m",
+      "airDate": "2004-01-08",
+      "title": {
+        "en": "Eddy`s Secret"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659491,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 6,
+      "image": null
+    },
+    "14": {
+      "episode": "14",
+      "length": "7m",
+      "airDate": "2004-01-09",
+      "title": {
+        "en": "A Magic Flute"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659501,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 6,
+      "image": null
+    },
+    "15": {
+      "episode": "15",
+      "length": "7m",
+      "airDate": "2004-01-15",
+      "title": {
+        "en": "Snow Canvas"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659511,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 6,
+      "image": null
+    },
+    "16": {
+      "episode": "16",
+      "length": "7m",
+      "airDate": "2004-01-16",
+      "title": {
+        "en": "Wanna Have a Round?"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659521,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 6,
+      "image": null
+    },
+    "17": {
+      "episode": "17",
+      "length": "7m",
+      "airDate": "2004-01-22",
+      "title": {
+        "en": "Crong`s Christmas"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659531,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 6,
+      "image": null
+    },
+    "18": {
+      "episode": "18",
+      "length": "7m",
+      "airDate": "2004-01-23",
+      "title": {
+        "en": "Loopy, You Can Do It!"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659541,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": null
+    },
+    "19": {
+      "episode": "19",
+      "length": "7m",
+      "airDate": "2004-01-29",
+      "title": {
+        "en": "Eddy and Telescope"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659551,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": null
+    },
+    "20": {
+      "episode": "20",
+      "length": "7m",
+      "airDate": "2004-01-30",
+      "title": {
+        "en": "A Jigsaw Puzzle"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659561,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": null
+    },
+    "21": {
+      "episode": "21",
+      "length": "7m",
+      "airDate": "2004-02-05",
+      "title": {
+        "en": "Kite-flying"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659571,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": null
+    },
+    "22": {
+      "episode": "22",
+      "length": "7m",
+      "airDate": "2004-02-22",
+      "title": {
+        "en": "Save Loopy!"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659581,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": null
+    },
+    "23": {
+      "episode": "23",
+      "length": "7m",
+      "airDate": "2004-02-12",
+      "title": {
+        "en": "Train Adventure"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659591,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659591.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "7m",
+      "airDate": "2004-02-13",
+      "title": {
+        "en": "Be Careful!"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659601,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659601.jpg"
+    },
+    "25": {
+      "episode": "25",
+      "length": "7m",
+      "airDate": "2004-02-19",
+      "title": {
+        "en": "Pororo and Dandelion"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659611,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": null
+    },
+    "26": {
+      "episode": "26",
+      "length": "7m",
+      "airDate": "2004-02-20",
+      "title": {
+        "en": "Hiccup Cure"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659621,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": null
+    },
+    "27": {
+      "episode": "27",
+      "length": "7m",
+      "airDate": "2004-02-26",
+      "title": {
+        "en": "Pororo Meets with a Whale"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659631,
+      "seasonNumber": 1,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": null
+    },
+    "28": {
+      "episode": "28",
+      "length": "7m",
+      "airDate": "2004-02-27",
+      "title": {
+        "en": "Magnetic Play"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659641,
+      "seasonNumber": 1,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659641.jpg"
+    },
+    "29": {
+      "episode": "29",
+      "length": "7m",
+      "airDate": "2004-03-01",
+      "title": {
+        "en": "Stomach Ache!"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659661,
+      "seasonNumber": 1,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659661.jpg"
+    },
+    "30": {
+      "episode": "30",
+      "length": "7m",
+      "airDate": "2004-03-02",
+      "title": {
+        "en": "Dancing Together"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659651,
+      "seasonNumber": 1,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659651.jpg"
+    },
+    "31": {
+      "episode": "31",
+      "length": "7m",
+      "airDate": "2004-03-08",
+      "title": {
+        "en": "Eddy the Great Inventor"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659671,
+      "seasonNumber": 1,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659671.jpg"
+    },
+    "32": {
+      "episode": "32",
+      "length": "7m",
+      "airDate": "2004-03-09",
+      "title": {
+        "en": "To Tell the Truth..."
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659681,
+      "seasonNumber": 1,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659681.jpg"
+    },
+    "33": {
+      "episode": "33",
+      "length": "7m",
+      "airDate": "2004-03-15",
+      "title": {
+        "en": "Eddy Goes to the Moon"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659691,
+      "seasonNumber": 1,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659691.jpg"
+    },
+    "34": {
+      "episode": "34",
+      "length": "7m",
+      "airDate": "2004-03-16",
+      "title": {
+        "en": "Bonbon Box"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659701,
+      "seasonNumber": 1,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659701.jpg"
+    },
+    "35": {
+      "episode": "35",
+      "length": "7m",
+      "airDate": "2004-03-22",
+      "title": {
+        "en": "A Strange Car"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659711,
+      "seasonNumber": 1,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659711.jpg"
+    },
+    "36": {
+      "episode": "36",
+      "length": "7m",
+      "airDate": "2004-03-23",
+      "title": {
+        "en": "Cooking Popcorn"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659721,
+      "seasonNumber": 1,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659721.jpg"
+    },
+    "37": {
+      "episode": "37",
+      "length": "7m",
+      "airDate": "2004-03-29",
+      "title": {
+        "en": "Mystical Ghost Light"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659731,
+      "seasonNumber": 1,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659731.jpg"
+    },
+    "38": {
+      "episode": "38",
+      "length": "7m",
+      "airDate": "2004-03-30",
+      "title": {
+        "en": "A Surprise Box"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659741,
+      "seasonNumber": 1,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659741.jpg"
+    },
+    "39": {
+      "episode": "39",
+      "length": "7m",
+      "airDate": "2004-04-05",
+      "title": {
+        "en": "I Want to Sleep"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659751,
+      "seasonNumber": 1,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659751.jpg"
+    },
+    "40": {
+      "episode": "40",
+      "length": "7m",
+      "airDate": "2004-04-06",
+      "title": {
+        "en": "Pororo`s Surprise Party!"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659761,
+      "seasonNumber": 1,
+      "episodeNumber": 40,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659761.jpg"
+    },
+    "41": {
+      "episode": "41",
+      "length": "7m",
+      "airDate": "2004-04-12",
+      "title": {
+        "en": "I Am Superpenguin"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659771,
+      "seasonNumber": 1,
+      "episodeNumber": 41,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659771.jpg"
+    },
+    "42": {
+      "episode": "42",
+      "length": "7m",
+      "airDate": "2004-04-13",
+      "title": {
+        "en": "Sleepless Poby"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659781,
+      "seasonNumber": 1,
+      "episodeNumber": 42,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659781.jpg"
+    },
+    "43": {
+      "episode": "43",
+      "length": "7m",
+      "airDate": "2004-04-19",
+      "title": {
+        "en": "Crong, I Am Sorry"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659791,
+      "seasonNumber": 1,
+      "episodeNumber": 43,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659791.jpg"
+    },
+    "44": {
+      "episode": "44",
+      "length": "7m",
+      "airDate": "2004-04-20",
+      "title": {
+        "en": "Loopy Has a New Friend"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659801,
+      "seasonNumber": 1,
+      "episodeNumber": 44,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": null
+    },
+    "45": {
+      "episode": "45",
+      "length": "7m",
+      "airDate": "2004-04-26",
+      "title": {
+        "en": "Lost in Forest"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659811,
+      "seasonNumber": 1,
+      "episodeNumber": 45,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": null
+    },
+    "46": {
+      "episode": "46",
+      "length": "7m",
+      "airDate": "2004-04-27",
+      "title": {
+        "en": "Loopy the Fortunteller"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659821,
+      "seasonNumber": 1,
+      "episodeNumber": 46,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": null
+    },
+    "47": {
+      "episode": "47",
+      "length": "7m",
+      "airDate": "2004-05-03",
+      "title": {
+        "en": "Eddy`s Balloon"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659831,
+      "seasonNumber": 1,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": null
+    },
+    "48": {
+      "episode": "48",
+      "length": "7m",
+      "airDate": "2004-05-04",
+      "title": {
+        "en": "A Day of Pororo`s Town"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659841,
+      "seasonNumber": 1,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659841.jpg"
+    },
+    "49": {
+      "episode": "49",
+      "length": "7m",
+      "airDate": "2004-05-10",
+      "title": {
+        "en": "A Magic Lamp"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659851,
+      "seasonNumber": 1,
+      "episodeNumber": 49,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659851.jpg"
+    },
+    "50": {
+      "episode": "50",
+      "length": "7m",
+      "airDate": "2004-05-11",
+      "title": {
+        "en": "Little Cooks"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659861,
+      "seasonNumber": 1,
+      "episodeNumber": 50,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659861.jpg"
+    },
+    "51": {
+      "episode": "51",
+      "length": "7m",
+      "airDate": "2004-05-17",
+      "title": {
+        "en": "Loopy`s Gift"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659871,
+      "seasonNumber": 1,
+      "episodeNumber": 51,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659871.jpg"
+    },
+    "52": {
+      "episode": "52",
+      "length": "7m",
+      "airDate": "2004-05-18",
+      "title": {
+        "en": "A Magic Can"
+      },
+      "tvdbShowId": 139251,
+      "tvdbId": 1659881,
+      "seasonNumber": 1,
+      "episodeNumber": 52,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 6,
+      "image": "https://artworks.thetvdb.com/banners/episodes/139251/1659881.jpg"
+    },
+    "O1": {
+      "episode": "O1",
+      "length": "7m",
+      "airDate": "",
+      "title": {
+        "en": "Beautiful Color Land"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T08:00:19.589Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

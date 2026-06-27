@@ -1,0 +1,129 @@
+{
+  "id": 5526,
+  "idMal": 5526,
+  "mappings": {
+    "mal": 5526,
+    "anilist": 5526,
+    "anidb": 6796,
+    "kitsu": 4136,
+    "simkl": 36330,
+    "tmdb": 33376,
+    "tvdb": null,
+    "trakt": 21374,
+    "traktType": "movies",
+    "shikimori": 5526,
+    "livechart": 4466,
+    "animeplanet": "pokemon-pikachus-summer-vacation",
+    "anisearch": 5731,
+    "notify": "c4xC5Kmmg"
+  },
+  "title": {
+    "romaji": "Pikachu no Natsuyasumi",
+    "english": "Pokémon: Pikachu's Vacation",
+    "native": "ピカチュウのなつやすみ",
+    "synonyms": [
+      "Pocket Monsters: Pikachu no Natsuyasumi",
+      "Pikachu Short 1",
+      "Pokémon: Pikachu's Summer Vacation",
+      "Pokemon: Pikachus Ferie",
+      "Pikachus semester"
+    ]
+  },
+  "type": "SPECIAL",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 21,
+  "aired": {
+    "from": "1998-07-18",
+    "to": "1998-07-18"
+  },
+  "season": "summer",
+  "year": 1998,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "anilistScore": 6.5,
+    "kitsuRating": 6.67
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Kids"
+  ],
+  "studios": [
+    "OLM"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/4136/original.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n5526-wfu7VdeLfQan.jpg",
+    "color": "#f16b0d"
+  },
+  "trailer": null,
+  "synopsis": "Ash and his friends arrive at a Pokémon-only park. They set all their Pokémon loose and, after Ash tells Pikachu to watch over Togepi, they enter for a day of fun and relaxation. Unfortunately, it's not going to turn out the way they had hoped.\n(Source: Serebii)",
+  "sequence": [
+    {
+      "malId": 528,
+      "title": {
+        "romaji": "Pocket Monsters: Mewtwo no Gyakushuu",
+        "english": "Pokémon: The First Movie",
+        "native": "ポケットモンスター ミュウツーの逆襲"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx528-HIz7955MvEnN.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1998,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "20m",
+      "airDate": "1998-07-18",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 2441481,
+      "seasonNumber": 0,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 45,
+      "image": "https://artworks.thetvdb.com/banners/episodes/76703/2441481.jpg"
+    },
+    "C1": {
+      "episode": "C1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Opening"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T07:01:46.147Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

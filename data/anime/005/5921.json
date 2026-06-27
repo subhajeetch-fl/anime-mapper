@@ -1,0 +1,122 @@
+{
+  "id": 5921,
+  "idMal": 5921,
+  "mappings": {
+    "mal": 5921,
+    "anilist": 5921,
+    "anidb": 5813,
+    "kitsu": 4338,
+    "simkl": 38697,
+    "tmdb": 838442,
+    "tvdb": null,
+    "trakt": 669513,
+    "traktType": "movies",
+    "shikimori": 5921,
+    "livechart": null,
+    "animeplanet": "utsunomiko",
+    "anisearch": 4787,
+    "notify": "7unq5Kimg"
+  },
+  "title": {
+    "romaji": "Utsunomiko",
+    "english": null,
+    "native": "宇宙皇子",
+    "synonyms": [
+      "Utsunomiko: Earth Chapter",
+      "Utsu no Miko"
+    ]
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 80,
+  "aired": {
+    "from": "1989-03-11",
+    "to": "1989-03-11"
+  },
+  "season": "spring",
+  "year": 1989,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "anilistScore": 4.7,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Demons",
+    "Demon"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/4338/original.jpg",
+    "banner": null,
+    "color": "#e4c95d"
+  },
+  "trailer": null,
+  "synopsis": "In the chaos of the Jinshin-no-Ran civil war of 762, a child with a small horn in his forehead was born. The child's mother condemned him as an oni and cast him away. An elderly shūgenja woman claimed the child and named him Utsunomiko, or 'Divine Child of the Heavens', telling Miko that his horn smybolizes the union of heaven and earth. Miko matured in the wilderness learning the ways of Shugendō, and soon started venturing into villages out of curiosity. He found that the common people of the villages live in poverty and suffering, and began using his spiritual powers to help them. But his anger at the self-serving rulers and their petty power-struggles grew until he came into open conflict with the Imperial Court, setting Miko down a long path as a champion of the oppressed.\n(Source: Wikipedia)",
+  "sequence": [
+    {
+      "malId": 5922,
+      "title": {
+        "romaji": "Tenjou-hen: Utsunomiko",
+        "english": null,
+        "native": "天上編・宇宙皇子"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5922.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1990,
+      "relationType": "SEQUEL"
+    },
+    {
+      "malId": 5923,
+      "title": {
+        "romaji": "Utsunomiko: Tenjou-hen",
+        "english": null,
+        "native": "宇宙皇子 天上篇"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5923.jpg",
+      "format": "OVA",
+      "episodes": 13,
+      "seasonYear": 1990,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "85m",
+      "airDate": "1989-03-11",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T07:29:18.335Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

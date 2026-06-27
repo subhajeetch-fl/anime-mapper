@@ -1,0 +1,103 @@
+{
+  "id": 5299,
+  "idMal": 5299,
+  "mappings": {
+    "mal": 5299,
+    "anilist": 5299,
+    "anidb": 11306,
+    "kitsu": 4043,
+    "simkl": 503802,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 5299,
+    "livechart": null,
+    "animeplanet": "coffee-tadaiku",
+    "anisearch": 10772,
+    "notify": "8iHCcFiig"
+  },
+  "title": {
+    "romaji": "Coffee Tadaiku",
+    "english": "Coffee Break",
+    "native": "コーヒータダイク",
+    "synonyms": []
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 2,
+  "aired": {
+    "from": "2011-01-01",
+    "to": "2011-01-01"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "G",
+  "score": {
+    "malScore": null,
+    "anilistScore": 4.2,
+    "kitsuRating": 5.89
+  },
+  "genres": [
+    "Slice of Life"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/4043/original.jpg",
+    "banner": null,
+    "color": "#50c9e4"
+  },
+  "trailer": null,
+  "synopsis": "Animated by Tomoyoshi Joko and Hiroco Ichinose under combined studio name, Decovocal, to celebrate Furukawa Taku's 70th birthday. It is a tribute to one of his works.",
+  "sequence": [
+    {
+      "malId": 29629,
+      "title": {
+        "romaji": "Coffee Break",
+        "english": null,
+        "native": "コーヒーブレイク"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103692-SpzXmPoEZZcF.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "OTHER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T06:47:48.425Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

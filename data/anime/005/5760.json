@@ -1,0 +1,591 @@
+{
+  "id": 5760,
+  "idMal": 5760,
+  "mappings": {
+    "mal": 5760,
+    "anilist": 5760,
+    "anidb": 1119,
+    "kitsu": 4266,
+    "simkl": 38388,
+    "tmdb": 21298,
+    "tvdb": 273042,
+    "trakt": 72743,
+    "traktType": "shows",
+    "shikimori": 5760,
+    "livechart": 7688,
+    "animeplanet": "dororo",
+    "anisearch": 837,
+    "notify": "ATrCcFiig"
+  },
+  "title": {
+    "romaji": "Dororo to Hyakkimaru",
+    "english": "Dororo",
+    "native": "どろろと百鬼丸",
+    "synonyms": [
+      "Dororo and Hyakkimaru"
+    ]
+  },
+  "type": "TV",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 26,
+  "episodeLength": 26,
+  "aired": {
+    "from": "1969-04-06T00:00:00+00:00",
+    "to": "1969-09-28T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 1969,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "19:30",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "R - 17+ (violence & profanity)",
+  "score": {
+    "malScore": 7.3,
+    "anilistScore": 6.9,
+    "kitsuRating": 7.13
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Supernatural",
+    "Religion",
+    "Buddhism",
+    "Sengoku Period",
+    "Martial Arts",
+    "Swordplay",
+    "Past",
+    "Plot Continuity",
+    "Asia",
+    "Japan",
+    "Earth",
+    "Samurai",
+    "Demon",
+    "Historical"
+  ],
+  "studios": [
+    "Mushi Production"
+  ],
+  "producers": [
+    "Fuji TV"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/8/12061l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5760-jq9DlZoinp2O.png",
+    "color": null
+  },
+  "trailer": null,
+  "synopsis": "To aid his conquest of Japan, the ruthless lord Daigo Kagemitsu offers to sacrifice his soon-to-be-born son to 48 demons. The demons accept, and the next day, the child is born with several missing limbs and is ruthlessly cast down a river.\n\nFifteen years later, a stubborn young boy named Dororo struggles to survive against hunger and oppressive samurai on the streets of an impoverished and war-torn village. After angering a group of thugs, Dororo is attacked by them, but a mysterious man interrupts them, claiming to hear spirits nearby. Sure enough, a monster emerges from the river, and the man then removes his prosthetic arms, revealing blades hidden underneath, with which he slays the monster before leaving.\n\nThat night, as the man walks through the forest, Dororo approaches him and declares that he will accompany him. From this, the man, Hyakkimaru, reveals that many of his body parts were stolen by demons and that though he sought a peaceful life, he couldn't escape their relentless onslaught. Despite the tale, Dororo still insists on tagging along. And thus, Hyakkimaru travels through Japan with his new companion and a puppy named Nota, facing the brutality of both hell and mankind.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 11471,
+      "title": {
+        "romaji": "Dororo (Pilot)",
+        "english": null,
+        "native": "どろろ（パイロット）"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11471-lJANGo0iznfq.png",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "seasonYear": 1968,
+      "relationType": "SUMMARY"
+    },
+    {
+      "malId": 37520,
+      "title": {
+        "romaji": "Dororo",
+        "english": "Dororo",
+        "native": "どろろ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101347-TGaDwEYqLfm1.jpg",
+      "format": "TV",
+      "episodes": 24,
+      "seasonYear": 2019,
+      "relationType": "ALTERNATIVE"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "30m",
+      "airDate": "1969-04-06",
+      "title": {
+        "en": "The Scroll of Hyakkimaru: Part 1"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654005,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 26,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "30m",
+      "airDate": "1969-04-13",
+      "title": {
+        "en": "The Scroll of Hyakkimaru: Part 2"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654006,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 27,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "30m",
+      "airDate": "1969-04-20",
+      "title": {
+        "en": "The Scroll of Bandai: Part 1"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654007,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 26,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "30m",
+      "airDate": "1969-04-27",
+      "title": {
+        "en": "The Scroll of Bandai: Part 2"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654008,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 27,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "30m",
+      "airDate": "1969-05-04",
+      "title": {
+        "en": "The Scroll of the Misery Chronicles: Part 1"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654009,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 27,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "30m",
+      "airDate": "1969-05-11",
+      "title": {
+        "en": "The Scroll of the Misery Chronicles: Part 2"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654010,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 27,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "30m",
+      "airDate": "1969-05-18",
+      "title": {
+        "en": "The Scroll of the Demon Sword Nihil: Part 1"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654011,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 26,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "30m",
+      "airDate": "1969-05-25",
+      "title": {
+        "en": "The Scroll of the Demon Sword Nihil: Part 2"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654012,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 27,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "30m",
+      "airDate": "1969-06-01",
+      "title": {
+        "en": "The Scroll of the Banmon: Part 1"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654013,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 26,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "30m",
+      "airDate": "1969-06-08",
+      "title": {
+        "en": "The Scroll of the Banmon: Part 2"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654014,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 26,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "30m",
+      "airDate": "1969-06-15",
+      "title": {
+        "en": "The Scroll of the Banmon: Part 3"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654015,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 26,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": "30m",
+      "airDate": "1969-06-22",
+      "title": {
+        "en": "The Scroll of the Fair Fudou: Part 1"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654016,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 27,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": "30m",
+      "airDate": "1969-06-29",
+      "title": {
+        "en": "The Scroll of the Fair Fudou: Part 2"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654017,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 26,
+      "image": null
+    },
+    "14": {
+      "episode": "14",
+      "length": "30m",
+      "airDate": "1969-07-06",
+      "title": {
+        "en": "The Demon Kajirinkon"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654018,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 27,
+      "image": null
+    },
+    "15": {
+      "episode": "15",
+      "length": "30m",
+      "airDate": "1969-07-13",
+      "title": {
+        "en": "The Empty Empty Village"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654019,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 27,
+      "image": null
+    },
+    "16": {
+      "episode": "16",
+      "length": "30m",
+      "airDate": "1969-07-20",
+      "title": {
+        "en": "The Demon Horse, Midoro"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654020,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 27,
+      "image": null
+    },
+    "17": {
+      "episode": "17",
+      "length": "30m",
+      "airDate": "1969-07-27",
+      "title": {
+        "en": "The Monster Donburibara"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654021,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 27,
+      "image": null
+    },
+    "18": {
+      "episode": "18",
+      "length": "30m",
+      "airDate": "1969-08-03",
+      "title": {
+        "en": "Birabira the Sea Beast"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654022,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 26,
+      "image": null
+    },
+    "19": {
+      "episode": "19",
+      "length": "30m",
+      "airDate": "1969-08-10",
+      "title": {
+        "en": "Raikaken"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654023,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 26,
+      "image": null
+    },
+    "20": {
+      "episode": "20",
+      "length": "30m",
+      "airDate": "1969-08-17",
+      "title": {
+        "en": "The Piggy-Back Demon"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654024,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 27,
+      "image": null
+    },
+    "21": {
+      "episode": "21",
+      "length": "30m",
+      "airDate": "1969-08-24",
+      "title": {
+        "en": "The Moth Mother"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654025,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 27,
+      "image": null
+    },
+    "22": {
+      "episode": "22",
+      "length": "30m",
+      "airDate": "1969-08-31",
+      "title": {
+        "en": "The Demon Monmon"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654026,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 26,
+      "image": null
+    },
+    "23": {
+      "episode": "23",
+      "length": "30m",
+      "airDate": "1969-09-07",
+      "title": {
+        "en": "The Great Man-Eating Tree"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654027,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 27,
+      "image": null
+    },
+    "24": {
+      "episode": "24",
+      "length": "30m",
+      "airDate": "1969-09-14",
+      "title": {
+        "en": "Shike Nyuudou"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654028,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 27,
+      "image": null
+    },
+    "25": {
+      "episode": "25",
+      "length": "30m",
+      "airDate": "1969-09-21",
+      "title": {
+        "en": "The Demon Tsuchibouzu"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654029,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 27,
+      "image": null
+    },
+    "26": {
+      "episode": "26",
+      "length": "30m",
+      "airDate": "1969-09-28",
+      "title": {
+        "en": "The Final Demon"
+      },
+      "tvdbShowId": 273042,
+      "tvdbId": 4654030,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 26,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "6m",
+      "airDate": "2016-04-26",
+      "title": {
+        "en": "DVD Extras: Episode 26 Storyboard"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1a": {
+      "episode": "OP1a",
+      "length": "2m",
+      "airDate": "1969-04-06",
+      "title": {
+        "en": "Dororo no Uta (1-26)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1b": {
+      "episode": "OP1b",
+      "length": "2m",
+      "airDate": "1969-06-01",
+      "title": {
+        "en": "Dororo no Uta (1-26)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "1969-04-06",
+      "title": {
+        "en": "Dororo no Uta (1-26)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Official Preview Clips"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T07:20:03.006Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

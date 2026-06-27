@@ -1,0 +1,113 @@
+{
+  "id": 6993,
+  "idMal": 6993,
+  "mappings": {
+    "mal": 6993,
+    "anilist": 6993,
+    "anidb": 6768,
+    "kitsu": 4827,
+    "simkl": 36053,
+    "tmdb": 172352,
+    "tvdb": null,
+    "trakt": 109606,
+    "traktType": "movies",
+    "shikimori": 6993,
+    "livechart": 9101,
+    "animeplanet": "koneko-no-rakugaki",
+    "anisearch": 4541,
+    "notify": "qZdRtFmiR"
+  },
+  "title": {
+    "romaji": "Koneko no Rakugaki",
+    "english": null,
+    "native": "こねこのらくがき",
+    "synonyms": [
+      "Kitten's Scribbling",
+      "Kitty's Graffiti"
+    ]
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 13,
+  "aired": {
+    "from": "1957-05-13T00:00:00+00:00",
+    "to": "1957-05-13"
+  },
+  "season": "spring",
+  "year": 1957,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 5.83,
+    "anilistScore": 5.3,
+    "kitsuRating": 6.32
+  },
+  "genres": [
+    "Comedy",
+    "Anthropomorphism",
+    "Past"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1990/156042l.jpg",
+    "banner": null,
+    "color": "#e4931a"
+  },
+  "trailer": null,
+  "synopsis": "A young cat is enjoying drawing pictures on a wall. However, when his pencil is stolen, he has no choice but to enter the world of his drawings in order to get it back.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 6994,
+      "title": {
+        "romaji": "Koneko no Studio",
+        "english": "Kitty's Studio",
+        "native": "こねこのスタジオ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6994-UFUeKKd9V7Ib.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1959,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "15m",
+      "airDate": "1957-05-13",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-27T08:19:27.974Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}
