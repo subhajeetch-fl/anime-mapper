@@ -38,7 +38,7 @@
  */
 
 const SEARCH_INDEX_URL =
-  'https://cdn.jsdelivr.net/gh/YOUR_GH_USERNAME/YOUR_REPO@main/data/search-index.json';
+  'https://cdn.jsdelivr.net/gh/subhajeetch-fl/anime-mapper@main/data/search-index.json';
 const CACHE_TTL_SECONDS = 300;
 const MAX_LIMIT = 50;
 
