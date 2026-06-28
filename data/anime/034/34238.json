@@ -1,0 +1,170 @@
+{
+  "id": 34238,
+  "idMal": 34238,
+  "mappings": {
+    "mal": 34238,
+    "anilist": 97915,
+    "anidb": 12472,
+    "kitsu": 12720,
+    "simkl": 625743,
+    "tmdb": 71785,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 34238,
+    "livechart": 2368,
+    "animeplanet": "osomatsu-san-ouma-de-kobanashi",
+    "anisearch": 12074,
+    "notify": "Sysm2FmiR"
+  },
+  "title": {
+    "romaji": "Osomatsu-san: Ouma de Kobanashi",
+    "english": "Osomatsu-san: An Anecdote with Horses",
+    "native": "おそ松さん おうまでこばなし",
+    "synonyms": []
+  },
+  "type": "TV Special",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 24,
+  "aired": {
+    "from": "2016-12-13T00:00:00+00:00",
+    "to": "2016-12-13"
+  },
+  "season": "fall",
+  "year": 2016,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "R - 17+ (violence & profanity)",
+  "score": {
+    "malScore": 7.21,
+    "anilistScore": 6.8,
+    "kitsuRating": 7.2
+  },
+  "genres": [
+    "Comedy",
+    "Sports",
+    "Parody"
+  ],
+  "studios": [
+    "Studio Pierrot"
+  ],
+  "producers": [
+    "Avex Pictures"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/6/89191l.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/12720/original.jpg",
+    "color": "#e4bb5d"
+  },
+  "trailer": null,
+  "synopsis": "Special episode of Osomatsu-san, released as a collaboration with the Japan Racing Association (JRA). The episode consists of multiple short skits surrounding horse racing.",
+  "sequence": [
+    {
+      "malId": 31174,
+      "title": {
+        "romaji": "Osomatsu-san",
+        "english": "Mr. Osomatsu",
+        "native": "おそ松さん"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21261-jLm2IGonsEzU.jpg",
+      "format": "TV",
+      "episodes": 25,
+      "seasonYear": 2015,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 34239,
+      "title": {
+        "romaji": "Mutsugo to Ouma no Monogatari",
+        "english": "Mutsugo to Ouma no Monogatari",
+        "native": "6つ子とおうまの物語"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97916-lVjajMKdTQSu.jpg",
+      "format": "ONA",
+      "episodes": 6,
+      "seasonYear": 2016,
+      "relationType": "OTHER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2016-12-13",
+      "title": {
+        "en": "TV Special"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 5878663,
+      "seasonNumber": 0,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/300989/5878663.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "3m",
+      "airDate": "2016-09-03",
+      "title": {
+        "en": "Tokyo Girls Collection 2016 A/W x Osomatsu-san Special Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Special Short Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Samurai Japan Cheering Message"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T17:25:17.066Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

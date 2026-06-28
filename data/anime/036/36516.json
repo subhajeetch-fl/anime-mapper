@@ -1,0 +1,604 @@
+{
+  "id": 36516,
+  "idMal": 36516,
+  "mappings": {
+    "mal": 36516,
+    "anilist": 100245,
+    "anidb": 13500,
+    "kitsu": 13939,
+    "simkl": 725375,
+    "tmdb": 76062,
+    "tvdb": 337020,
+    "trakt": 124828,
+    "traktType": "shows",
+    "shikimori": 36516,
+    "livechart": 2920,
+    "animeplanet": "beatless",
+    "anisearch": 12884,
+    "notify": "XwZF2KimR"
+  },
+  "title": {
+    "romaji": "BEATLESS",
+    "english": "Beatless",
+    "native": "BEATLESS",
+    "synonyms": [
+      "Beatless Final Stage",
+      "ビートレス"
+    ]
+  },
+  "type": "TV",
+  "source": "Light novel",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 20,
+  "episodeLength": 24,
+  "aired": {
+    "from": "2018-01-13T00:00:00+00:00",
+    "to": "2018-06-30T00:00:00+00:00"
+  },
+  "season": "winter",
+  "year": 2018,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:55",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.23,
+    "anilistScore": 5.7,
+    "kitsuRating": 5.95
+  },
+  "genres": [
+    "Action",
+    "Drama",
+    "Romance",
+    "Sci-Fi",
+    "Android",
+    "Future",
+    "Science Fiction"
+  ],
+  "studios": [
+    "Diomedéa"
+  ],
+  "producers": [
+    "Kadokawa Shoten",
+    "Mainichi Broadcasting System",
+    "Sony Music Entertainment",
+    "Good Smile Company",
+    "Animatic"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1986/90184l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100245-RymoD3oIS5mj.png",
+    "color": "#2835f1"
+  },
+  "trailer": null,
+  "synopsis": "With great advancements in technology, mankind has created hIEs, human-like robots that act as public and personal servants for society. Unlike many others, the kind-hearted high school student Arato Endou treats hIEs as equals, but his financial situation keeps him from ever owning one.\n\nHowever, his normal life is shattered when an ordinary run to the local grocery store goes horribly awry. Viciously assaulted by a hacked hIE, Arato is on the verge of death; but luckily, he is saved by an abnormal hIE carrying a weaponized coffin. Her name is Lacia, one of five highly advanced hIEs that recently escaped the clutches of the mysterious MemeFrame Corporation.\n\nFaced with a hacked car threatening to run them over, Lacia offers Arato a deal: in exchange for saving his life, he must register as her new owner, thus taking full responsibility for her actions. With little choice, he decides to trust this artificial girl and allows her to live in his home. Though Lacia begins to adapt to her new, peaceful lifestyle, she warns the entranced Arato of one thing—she does not have a soul.\n\n[Written by MAL Rewrite]",
+  "sequence": [],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2018-01-13",
+      "title": {
+        "en": "Contract"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6427205,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6427205.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2018-01-20",
+      "title": {
+        "en": "Analog Hacking"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6500585,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6500585.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2018-01-27",
+      "title": {
+        "en": "You`ll Be Mine"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6500830,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6500830.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2018-02-03",
+      "title": {
+        "en": "Automatic World"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6512374,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6512374.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2018-02-10",
+      "title": {
+        "en": "Tools for Outsourcers"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6512376,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6512376.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2018-02-24",
+      "title": {
+        "en": "Higgins Village"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6512377,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6512377.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2018-03-03",
+      "title": {
+        "en": "Boy Meets Pornography"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6512378,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6512378.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2018-03-10",
+      "title": {
+        "en": "Awakening of Sleeping Beauty"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6512379,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6512379.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2018-03-17",
+      "title": {
+        "en": "My Whereabouts"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6512380,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6512380.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2018-03-31",
+      "title": {
+        "en": "Dwellings and Surroundings"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6512381,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6512381.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2018-04-07",
+      "title": {
+        "en": "Dystopia Game"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6512382,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6512382.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2018-04-14",
+      "title": {
+        "en": "Slumber of Human"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6512383,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6512383.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2018-04-28",
+      "title": {
+        "en": "The Prayer Within"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6512384,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6512384.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "2018-05-05",
+      "title": {
+        "en": "An Answer to Survive"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6512385,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6512385.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "2018-05-19",
+      "title": {
+        "en": "Edge Line"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6512386,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6512386.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "2018-05-26",
+      "title": {
+        "en": "Plus One"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6512387,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6512387.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "2018-06-09",
+      "title": {
+        "en": "A Reason of Our Own"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6512388,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6512388.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "2018-06-16",
+      "title": {
+        "en": "Protocol of Love"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6512389,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6512389.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "2018-06-23",
+      "title": {
+        "en": "Paper Tiger"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6512390,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6512390.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "2018-06-30",
+      "title": {
+        "en": "Our Error World"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6512391,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6512391.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "2018-09-26",
+      "title": {
+        "en": "Higgins` Silo"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6809358,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6809358.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "2018-09-27",
+      "title": {
+        "en": "Pygmalion"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6809363,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6809363.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "2018-09-28",
+      "title": {
+        "en": "Beatless"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6809364,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6809364.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "2018-09-28",
+      "title": {
+        "en": "Boy Meets Girl"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6809365,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6809365.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "25m",
+      "airDate": "2018-02-17",
+      "title": {
+        "en": "Intermission 01"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6542392,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6542392.jpg"
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "25m",
+      "airDate": "2018-03-24",
+      "title": {
+        "en": "Intermission 02"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6542393,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6542393.jpg"
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "25m",
+      "airDate": "2018-05-12",
+      "title": {
+        "en": "Intermission 03"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6641167,
+      "seasonNumber": 0,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6641167.jpg"
+    },
+    "S4": {
+      "episode": "S4",
+      "length": "25m",
+      "airDate": "2018-06-02",
+      "title": {
+        "en": "Intermission 04"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6679722,
+      "seasonNumber": 0,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6679722.jpg"
+    },
+    "S5": {
+      "episode": "S5",
+      "length": "25m",
+      "airDate": "2018-04-21",
+      "title": {
+        "en": "What`s Beatless"
+      },
+      "tvdbShowId": 337020,
+      "tvdbId": 6647630,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/337020/6647630.jpg"
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "2018-01-20",
+      "title": {
+        "en": "Error (2-13, S1-S2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP2a": {
+      "episode": "OP2a",
+      "length": "2m",
+      "airDate": "2018-05-05",
+      "title": {
+        "en": "Truth. (14-23, S3-S4)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP2b": {
+      "episode": "OP2b",
+      "length": "2m",
+      "airDate": "2018-05-26",
+      "title": {
+        "en": "Truth. (14-23, S3-S4)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "2018-01-13",
+      "title": {
+        "en": "Prima Love (1-13, S1-S2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2": {
+      "episode": "ED2",
+      "length": "2m",
+      "airDate": "2018-05-05",
+      "title": {
+        "en": "Shapeless (14-24, S3-S4)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T19:31:30.315Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 33820,
+  "idMal": 33820,
+  "mappings": {
+    "mal": 33820,
+    "anilist": 21898,
+    "anidb": 12323,
+    "kitsu": 12478,
+    "simkl": 608047,
+    "tmdb": 68137,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 33820,
+    "livechart": 2277,
+    "animeplanet": "ao-oni-the-animation-movie",
+    "anisearch": 11689,
+    "notify": "yUfz2KmiR"
+  },
+  "title": {
+    "romaji": "Ao Oni The Animation",
+    "english": "Aooni the Movie",
+    "native": "青鬼 The Animation",
+    "synonyms": [
+      "Aooni the Movie",
+      "Ao Oni The Animation (Movie)"
+    ]
+  },
+  "type": "Movie",
+  "source": "Game",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 60,
+  "aired": {
+    "from": "2017-02-11T00:00:00+00:00",
+    "to": "2017-02-11"
+  },
+  "season": "winter",
+  "year": 2017,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "R - 17+ (violence & profanity)",
+  "score": {
+    "malScore": 4.03,
+    "anilistScore": 3.5,
+    "kitsuRating": 4.54
+  },
+  "genres": [
+    "Horror",
+    "Mystery"
+  ],
+  "studios": [
+    "Studio Deen"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/6/81440l.jpg",
+    "banner": null,
+    "color": "#1a786b"
+  },
+  "trailer": null,
+  "synopsis": "An animated film series based on the Ao Oni game. It will feature a new story.",
+  "sequence": [
+    {
+      "malId": 33814,
+      "title": {
+        "romaji": "Ao Oni: The Animation",
+        "english": "Aooni The Blue Monster",
+        "native": "あおおに ～じ・あにめぇしょん～"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21897-6HCHc3qyAJtw.jpg",
+      "format": "TV_SHORT",
+      "episodes": 13,
+      "seasonYear": 2016,
+      "relationType": "OTHER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "60m",
+      "airDate": "2017-02-12",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 317391,
+      "tvdbId": 5786087,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 60,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T17:00:44.335Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

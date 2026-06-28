@@ -1,0 +1,938 @@
+{
+  "id": 34901,
+  "idMal": 34901,
+  "mappings": {
+    "mal": 34901,
+    "anilist": 98289,
+    "anidb": 12809,
+    "kitsu": 13510,
+    "simkl": 659447,
+    "tmdb": 67667,
+    "tvdb": 339076,
+    "trakt": 125972,
+    "traktType": "shows",
+    "shikimori": 34901,
+    "livechart": 2546,
+    "animeplanet": "beyblade-burst-god",
+    "anisearch": 12214,
+    "notify": "eSiVhFmig"
+  },
+  "title": {
+    "romaji": "Beyblade Burst God",
+    "english": "Beyblade Burst Evolution",
+    "native": "ベイブレードバースト 神[ゴッド]",
+    "synonyms": []
+  },
+  "type": "TV",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 51,
+  "episodeLength": 24,
+  "aired": {
+    "from": "2017-04-03T00:00:00+00:00",
+    "to": "2018-03-26T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 2017,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "17:55",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 7.25,
+    "anilistScore": 7.1,
+    "kitsuRating": 7.26
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi",
+    "Sports",
+    "Science Fiction"
+  ],
+  "studios": [
+    "OLM"
+  ],
+  "producers": [
+    "TV Tokyo",
+    "d-rights"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/12/84704l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98289-FQgyPczbJwez.jpg",
+    "color": "#f1c943"
+  },
+  "trailer": null,
+  "synopsis": "Valt Aoi, who participated in the Japanese Championship, was scouted for the prestigious Spanish team BC Sol and heads out to Spain. With their sights set on the world, Valt and his friends begin their challenge for the World League! However, in order to qualify for the World League, they must first win the European League. Will Valt be able to take BC Sol to the World League? And can he defeat the world's strongest Bladers?\n\n(Source: Beyblade Fandom Wiki)",
+  "sequence": [
+    {
+      "malId": 31049,
+      "title": {
+        "romaji": "Beyblade Burst",
+        "english": null,
+        "native": "ベイブレードバースト"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21236-8B4fORbuUp6v.jpg",
+      "format": "TV",
+      "episodes": 51,
+      "seasonYear": 2016,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 37283,
+      "title": {
+        "romaji": "Beyblade Burst Chouzetsu",
+        "english": "Beyblade Burst Turbo",
+        "native": "ベイブレードバースト超セツ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101115-D0LrlWZtbOeX.png",
+      "format": "TV",
+      "episodes": 51,
+      "seasonYear": 2018,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2017-04-03",
+      "title": {
+        "en": "To the World! Valkyrie`s Evolution!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6987437,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 52,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1885873d7.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2017-04-10",
+      "title": {
+        "en": "Manly Spirit! Blaze Ragnaruk!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7018939,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 53,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b189ee9854.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2017-04-24",
+      "title": {
+        "en": "Drain Fafnir! Winding Up!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7018942,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 54,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b18b594b96.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2017-04-24",
+      "title": {
+        "en": "Whirlwind! Tornado Wyvern!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176207,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 55,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b18c8d83cd.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2017-05-01",
+      "title": {
+        "en": "Demonic Attack! Kreis Satan!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176335,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 56,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b18e0a3ef1.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2017-05-08",
+      "title": {
+        "en": "Shake Up! BC Sol!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176336,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 57,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b18f087dff.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2017-05-15",
+      "title": {
+        "en": "Journey to the Top!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176337,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 58,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1905a0d56.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2017-05-22",
+      "title": {
+        "en": "Season Opener! European league!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176338,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 59,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b191be7132.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2017-05-29",
+      "title": {
+        "en": "The God of Time! Alter Chronos!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176340,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 60,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b192f68804.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2017-06-05",
+      "title": {
+        "en": "Valt and Free"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176342,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 61,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b194839405.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2017-06-12",
+      "title": {
+        "en": "BC Sol! A Team Divided!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176346,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 62,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b195cbbba5.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2017-06-19",
+      "title": {
+        "en": "The Return of Deathscyther!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176347,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 63,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b19719c4d0.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2017-06-26",
+      "title": {
+        "en": "Twin Scythes! Double Strike!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176348,
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 64,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1983b4715.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "2017-07-03",
+      "title": {
+        "en": "Charge! Maximum Garuda!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6987444,
+      "seasonNumber": 2,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 65,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b19b1ac9c2.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "2017-07-10",
+      "title": {
+        "en": "Ghasem, the Airborne Blader!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176349,
+      "seasonNumber": 2,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 66,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b19f0b67cc.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "2017-07-17",
+      "title": {
+        "en": "The Search for Shu!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176350,
+      "seasonNumber": 2,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 67,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1a08ccbbe.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "2017-07-24",
+      "title": {
+        "en": "Shadow Magic! The Snake Pit!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6987448,
+      "seasonNumber": 2,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 68,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1a2252d34.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "2017-07-31",
+      "title": {
+        "en": "Into the Labyrinth! Black Dungeon!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6987456,
+      "seasonNumber": 2,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 69,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1a3cc55e7.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "2017-08-07",
+      "title": {
+        "en": "God of Flames! Red Eye!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6987458,
+      "seasonNumber": 2,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 70,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1a587e004.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "2017-08-17",
+      "title": {
+        "en": "Explosion! BC Sol!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6987465,
+      "seasonNumber": 2,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 71,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1a72d0af3.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "2017-08-21",
+      "title": {
+        "en": "Joshua vs the Space Ninjas!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176351,
+      "seasonNumber": 2,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 72,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1a88ed962.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "2017-08-28",
+      "title": {
+        "en": "Blast Jinnius! Caller of Storms!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176352,
+      "seasonNumber": 2,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 73,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1ab6aa3ab.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "2017-09-04",
+      "title": {
+        "en": "A Challenge! The Infinity Beystadium!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176353,
+      "seasonNumber": 2,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 74,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1aca7f004.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "2017-09-11",
+      "title": {
+        "en": "World League! Setting the Stage!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176354,
+      "seasonNumber": 2,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 75,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1adfdc674.jpg"
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "2017-09-18",
+      "title": {
+        "en": "Sword Fighting! Sieg Xcalibur!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176355,
+      "seasonNumber": 2,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 76,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1af484309.jpg"
+    },
+    "26": {
+      "episode": "26",
+      "length": "25m",
+      "airDate": "2017-09-25",
+      "title": {
+        "en": "Explode! God Reboot!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176356,
+      "seasonNumber": 2,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 77,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1b0f954df.jpg"
+    },
+    "27": {
+      "episode": "27",
+      "length": "25m",
+      "airDate": "2017-10-02",
+      "title": {
+        "en": "Tokyo Battle! Real vs Rios!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176357,
+      "seasonNumber": 2,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 78,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1b239a9cf.jpg"
+    },
+    "28": {
+      "episode": "28",
+      "length": "25m",
+      "airDate": "2017-10-09",
+      "title": {
+        "en": "Vampire! Deep Chaos!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176358,
+      "seasonNumber": 2,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 79,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1b3bc01a8.jpg"
+    },
+    "29": {
+      "episode": "29",
+      "length": "25m",
+      "airDate": "2017-10-16",
+      "title": {
+        "en": "Stronghold! Shelter Regulus!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176359,
+      "seasonNumber": 2,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 80,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1b53596ae.jpg"
+    },
+    "30": {
+      "episode": "30",
+      "length": "25m",
+      "airDate": "2017-10-23",
+      "title": {
+        "en": "Explosive Clash! Shooting for the Finals!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6987403,
+      "seasonNumber": 2,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 81,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1c68c5ef4.jpg"
+    },
+    "31": {
+      "episode": "31",
+      "length": "25m",
+      "airDate": "2017-10-30",
+      "title": {
+        "en": "Break Through! The Big 5`s Wall!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6987405,
+      "seasonNumber": 2,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 82,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1c7daa28a.jpg"
+    },
+    "32": {
+      "episode": "32",
+      "length": "25m",
+      "airDate": "2017-11-06",
+      "title": {
+        "en": "Heavenly Sword! Triple Impact!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6987406,
+      "seasonNumber": 2,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 83,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1c9e0ea28.jpg"
+    },
+    "33": {
+      "episode": "33",
+      "length": "25m",
+      "airDate": "2017-11-13",
+      "title": {
+        "en": "To the Finals! BC Sol vs New York Bulls!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6987407,
+      "seasonNumber": 2,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 84,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1cb4a5be8.jpg"
+    },
+    "34": {
+      "episode": "34",
+      "length": "25m",
+      "airDate": "2017-11-20",
+      "title": {
+        "en": "Give It Your All! Bound Attack!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6987412,
+      "seasonNumber": 2,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 85,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1cca91de8.jpg"
+    },
+    "35": {
+      "episode": "35",
+      "length": "25m",
+      "airDate": "2017-11-27",
+      "title": {
+        "en": "Our Finals!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6987413,
+      "seasonNumber": 2,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": 86,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1ce169bab.jpg"
+    },
+    "36": {
+      "episode": "36",
+      "length": "25m",
+      "airDate": "2017-12-04",
+      "title": {
+        "en": "Duel! Longinus vs Spriggan!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6987421,
+      "seasonNumber": 2,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 87,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1cffa4988.jpg"
+    },
+    "37": {
+      "episode": "37",
+      "length": "25m",
+      "airDate": "2017-12-11",
+      "title": {
+        "en": "Let`s Go! The God Bladers` Cup!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6987427,
+      "seasonNumber": 2,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 88,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1d1581cb3.jpg"
+    },
+    "38": {
+      "episode": "38",
+      "length": "25m",
+      "airDate": "2017-12-18",
+      "title": {
+        "en": "Deadly Weapon! Spriggan Requiem!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176360,
+      "seasonNumber": 2,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 89,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1d2aa2fbd.jpg"
+    },
+    "39": {
+      "episode": "39",
+      "length": "25m",
+      "airDate": "2017-12-25",
+      "title": {
+        "en": "The Underground Battle Emeror, Kurtz!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176361,
+      "seasonNumber": 2,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": 90,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1d3fc1429.jpg"
+    },
+    "40": {
+      "episode": "40",
+      "length": "25m",
+      "airDate": "2018-01-08",
+      "title": {
+        "en": "Tyrant! Beat Kukulcan!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176362,
+      "seasonNumber": 2,
+      "episodeNumber": 40,
+      "absoluteEpisodeNumber": 91,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1d548f3c2.jpg"
+    },
+    "41": {
+      "episode": "41",
+      "length": "25m",
+      "airDate": "2018-01-15",
+      "title": {
+        "en": "Iron Hammer! Twin Nemesis!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176363,
+      "seasonNumber": 2,
+      "episodeNumber": 41,
+      "absoluteEpisodeNumber": 92,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1d6c9ae65.jpg"
+    },
+    "42": {
+      "episode": "42",
+      "length": "25m",
+      "airDate": "2018-01-22",
+      "title": {
+        "en": "BC Sol`s Fierce Battle!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176364,
+      "seasonNumber": 2,
+      "episodeNumber": 42,
+      "absoluteEpisodeNumber": 93,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1d80d0273.jpg"
+    },
+    "43": {
+      "episode": "43",
+      "length": "25m",
+      "airDate": "2018-01-29",
+      "title": {
+        "en": "Climax! Great Rival Clash!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176366,
+      "seasonNumber": 2,
+      "episodeNumber": 43,
+      "absoluteEpisodeNumber": 94,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1dacbfd50.jpg"
+    },
+    "44": {
+      "episode": "44",
+      "length": "25m",
+      "airDate": "2018-02-05",
+      "title": {
+        "en": "Super Evolution! Strike God Valkyrie!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176367,
+      "seasonNumber": 2,
+      "episodeNumber": 44,
+      "absoluteEpisodeNumber": 95,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1dc189411.jpg"
+    },
+    "45": {
+      "episode": "45",
+      "length": "25m",
+      "airDate": "2018-02-12",
+      "title": {
+        "en": "Spriggan, the God of Destruction!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176368,
+      "seasonNumber": 2,
+      "episodeNumber": 45,
+      "absoluteEpisodeNumber": 96,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1ddedcfdd.jpg"
+    },
+    "46": {
+      "episode": "46",
+      "length": "25m",
+      "airDate": "2018-02-19",
+      "title": {
+        "en": "No Limits! Free vs Lui!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176372,
+      "seasonNumber": 2,
+      "episodeNumber": 46,
+      "absoluteEpisodeNumber": 97,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1df688581.jpg"
+    },
+    "47": {
+      "episode": "47",
+      "length": "25m",
+      "airDate": "2018-02-26",
+      "title": {
+        "en": "Ultimate Battle!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176374,
+      "seasonNumber": 2,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": 98,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1e1b471a8.jpg"
+    },
+    "48": {
+      "episode": "48",
+      "length": "25m",
+      "airDate": "2018-03-05",
+      "title": {
+        "en": "Friendship! Battle to the Decisive Match!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176376,
+      "seasonNumber": 2,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": 99,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1e2eb97a5.jpg"
+    },
+    "49": {
+      "episode": "49",
+      "length": "25m",
+      "airDate": "2018-03-12",
+      "title": {
+        "en": "Semi-Finals! The Fateful Battle!!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176379,
+      "seasonNumber": 2,
+      "episodeNumber": 49,
+      "absoluteEpisodeNumber": 100,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1e4bcf0b9.jpg"
+    },
+    "50": {
+      "episode": "50",
+      "length": "25m",
+      "airDate": "2018-03-19",
+      "title": {
+        "en": "Episode 50"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176381,
+      "seasonNumber": 2,
+      "episodeNumber": 50,
+      "absoluteEpisodeNumber": 101,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1e637e624.jpg"
+    },
+    "51": {
+      "episode": "51",
+      "length": "25m",
+      "airDate": "2018-03-26",
+      "title": {
+        "en": "Episode 51"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 7176384,
+      "seasonNumber": 2,
+      "episodeNumber": 51,
+      "absoluteEpisodeNumber": 102,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b1e78cee3d.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "20m",
+      "airDate": "2017-05-04",
+      "title": {
+        "en": "Episode S1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "2017-04-03",
+      "title": {
+        "en": "Evolution Burst! (1-51)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "2017-04-03",
+      "title": {
+        "en": "Bey-Xercise (1-26)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2": {
+      "episode": "ED2",
+      "length": "2m",
+      "airDate": "2017-10-02",
+      "title": {
+        "en": "Bey-Xercise 2 (27-51)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T17:55:20.153Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": 36502,
+  "idMal": 36502,
+  "mappings": {
+    "mal": 36502,
+    "anilist": 100256,
+    "anidb": null,
+    "kitsu": 13918,
+    "simkl": null,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 36502,
+    "livechart": 2863,
+    "animeplanet": "maho-yome",
+    "anisearch": 12892,
+    "notify": "IB_ShFimR"
+  },
+  "title": {
+    "romaji": "Mahoyome",
+    "english": null,
+    "native": "まほよめ",
+    "synonyms": [
+      "The Ancient Magus' Bride",
+      "The Magician's Bride",
+      "Magic Bride",
+      "Maho Yome",
+      "#0あいさつ",
+      "#0 Aisatsu",
+      "#0 Greeting"
+    ]
+  },
+  "type": "ONA",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 24,
+  "episodeLength": 1,
+  "aired": {
+    "from": "2017-10-10T00:00:00+00:00",
+    "to": "2018-03-24T00:00:00+00:00"
+  },
+  "season": "fall",
+  "year": 2017,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.64,
+    "anilistScore": 6.4,
+    "kitsuRating": 6.53
+  },
+  "genres": [
+    "Comedy",
+    "Parody",
+    "Super Deformed",
+    "Fantasy"
+  ],
+  "studios": [
+    "W-Toon Studio",
+    "DMM.futureworks"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1625/117605l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100256-LPiGbn7JRwJD.jpg",
+    "color": "#e4780d"
+  },
+  "trailer": null,
+  "synopsis": "As the television anime Mahoutsukai no Yome debuts a new episode every week, one new 30-second episode of the series of shorts will debut every week on the official Twitter every Tuesday. The previous week's episode will no longer be available when each new episode debuts.\n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 35062,
+      "title": {
+        "romaji": "Mahoutsukai no Yome",
+        "english": "The Ancient Magus' Bride",
+        "native": "魔法使いの嫁"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98436-n7sK6POCd0XV.png",
+      "format": "TV",
+      "episodes": 24,
+      "seasonYear": 2017,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 51097,
+      "title": {
+        "romaji": "Mahoyome Specials",
+        "english": null,
+        "native": "まほよめ Specials"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148584-nnCSTC5QlNbW.jpg",
+      "format": "SPECIAL",
+      "episodes": 6,
+      "seasonYear": 2018,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-06-28T19:31:05.471Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

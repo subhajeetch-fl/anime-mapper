@@ -1,0 +1,627 @@
+{
+  "id": 36196,
+  "idMal": 36196,
+  "mappings": {
+    "mal": 36196,
+    "anilist": 99888,
+    "anidb": 13401,
+    "kitsu": 14152,
+    "simkl": 713051,
+    "tmdb": 68097,
+    "tvdb": 317665,
+    "trakt": 111596,
+    "traktType": "shows",
+    "shikimori": 36196,
+    "livechart": 2838,
+    "animeplanet": "kaijuu-girls-2nd-season",
+    "anisearch": 12763,
+    "notify": "GiwN2FmiR"
+  },
+  "title": {
+    "romaji": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2",
+    "english": "Kaiju Girls: Season 2",
+    "native": "怪獣娘[かいじゅうがーるず] ~ウルトラ怪獣擬人化計画~ 第2シリーズ",
+    "synonyms": [
+      "Kaiju Girls 2"
+    ]
+  },
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
+  "episodeLength": 4,
+  "aired": {
+    "from": "2018-01-09T00:00:00+00:00",
+    "to": "2018-03-27T00:00:00+00:00"
+  },
+  "season": "winter",
+  "year": 2018,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "21:54",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.11,
+    "anilistScore": 5.6,
+    "kitsuRating": 6.18
+  },
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Parody",
+    "Super Deformed",
+    "Juujin"
+  ],
+  "studios": [
+    "Studio PuYUKAI"
+  ],
+  "producers": [
+    "Pony Canyon",
+    "Tsuburaya Productions",
+    "Docomo Anime Store",
+    "Medicrie"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/2/89222l.jpg",
+    "banner": null,
+    "color": "#e49350"
+  },
+  "trailer": null,
+  "synopsis": "Agi-chan and her friends at GIRLS continue to defend the world against the threat of the Shadows, but what happens when a Kaiju Girl falls under their sway?",
+  "sequence": [
+    {
+      "malId": 33011,
+      "title": {
+        "romaji": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku",
+        "english": null,
+        "native": "怪獣娘[かいじゅうがーるず] ~ウルトラ怪獣擬人化計画~"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21760-MuVMschAYRIm.jpg",
+      "format": "ONA",
+      "episodes": 12,
+      "seasonYear": 2016,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 37586,
+      "title": {
+        "romaji": "Kaijuu Girls (Kuro): Ultra Kaijuu Gijinka Keikaku",
+        "english": "KAiJU GiRLS BLACK",
+        "native": "怪獣娘（黒）～ウルトラ怪獣擬人化計画～"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101372-svMpBJTeszbE.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2018,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "4m",
+      "airDate": "2018-01-09",
+      "title": {
+        "en": "Arrival? Kaiju Girls!?"
+      },
+      "tvdbShowId": 317665,
+      "tvdbId": 6327270,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/317665/6327270.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "4m",
+      "airDate": "2018-01-16",
+      "title": {
+        "en": "Shock! Kaiju Girls!?"
+      },
+      "tvdbShowId": 317665,
+      "tvdbId": 6508021,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/317665/6508021.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "4m",
+      "airDate": "2018-01-23",
+      "title": {
+        "en": "Cafe! Kaiju Girls!?"
+      },
+      "tvdbShowId": 317665,
+      "tvdbId": 6519506,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/317665/6519506.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "4m",
+      "airDate": "2018-01-30",
+      "title": {
+        "en": "Training! Kaiju Girls!?"
+      },
+      "tvdbShowId": 317665,
+      "tvdbId": 6531187,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/317665/6531187.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "4m",
+      "airDate": "2018-02-06",
+      "title": {
+        "en": "Around Town! Kaiju Girls!?"
+      },
+      "tvdbShowId": 317665,
+      "tvdbId": 6531188,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/317665/6531188.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "4m",
+      "airDate": "2018-02-13",
+      "title": {
+        "en": "Mom? Kaiju Girls!?"
+      },
+      "tvdbShowId": 317665,
+      "tvdbId": 6531189,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/317665/6531189.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "4m",
+      "airDate": "2018-02-20",
+      "title": {
+        "en": "Growth! Kaiju Girls!?"
+      },
+      "tvdbShowId": 317665,
+      "tvdbId": 6531190,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/317665/6531190.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "4m",
+      "airDate": "2018-02-27",
+      "title": {
+        "en": "Collision! Kaiju Girls!?"
+      },
+      "tvdbShowId": 317665,
+      "tvdbId": 6531191,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/317665/6531191.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "4m",
+      "airDate": "2018-03-06",
+      "title": {
+        "en": "Plan! Kaiju Girls?!"
+      },
+      "tvdbShowId": 317665,
+      "tvdbId": 6531192,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/317665/6531192.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "4m",
+      "airDate": "2018-03-13",
+      "title": {
+        "en": "On Stage! Kaiju Girls?!"
+      },
+      "tvdbShowId": 317665,
+      "tvdbId": 6531193,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/317665/6531193.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "4m",
+      "airDate": "2018-03-20",
+      "title": {
+        "en": "Kaiju Girls Settle the Score!?"
+      },
+      "tvdbShowId": 317665,
+      "tvdbId": 6531194,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/317665/6531194.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "4m",
+      "airDate": "2018-03-27",
+      "title": {
+        "en": "Together! Kaiju Girls!!"
+      },
+      "tvdbShowId": 317665,
+      "tvdbId": 6531195,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 5,
+      "image": "https://artworks.thetvdb.com/banners/episodes/317665/6531195.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "1m",
+      "airDate": "2018-01-09",
+      "title": {
+        "en": "Tell Ele: Tell Me, Eleking-senpai 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "1m",
+      "airDate": "2018-01-16",
+      "title": {
+        "en": "Tell Ele: Tell Me, Eleking-senpai 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "1m",
+      "airDate": "2018-01-23",
+      "title": {
+        "en": "Tell Ele: Tell Me, Eleking-senpai 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S4": {
+      "episode": "S4",
+      "length": "1m",
+      "airDate": "2018-01-30",
+      "title": {
+        "en": "Tell Ele: Tell Me, Eleking-senpai 4"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S5": {
+      "episode": "S5",
+      "length": "1m",
+      "airDate": "2018-02-06",
+      "title": {
+        "en": "Tell Ele: Tell Me, Eleking-senpai 5"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S6": {
+      "episode": "S6",
+      "length": "1m",
+      "airDate": "2018-02-13",
+      "title": {
+        "en": "Tell Ele: Tell Me, Eleking-senpai 6"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S7": {
+      "episode": "S7",
+      "length": "1m",
+      "airDate": "2018-02-20",
+      "title": {
+        "en": "Tell Ele: Tell Me, Eleking-senpai 7"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S8": {
+      "episode": "S8",
+      "length": "1m",
+      "airDate": "2018-02-27",
+      "title": {
+        "en": "Tell Ele: Tell Me, Eleking-senpai 8"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S9": {
+      "episode": "S9",
+      "length": "1m",
+      "airDate": "2018-03-06",
+      "title": {
+        "en": "Tell Ele: Tell Me, Eleking-senpai 9"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S10": {
+      "episode": "S10",
+      "length": "1m",
+      "airDate": "2018-03-13",
+      "title": {
+        "en": "Tell Ele: Tell Me, Eleking-senpai 10"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S11": {
+      "episode": "S11",
+      "length": "1m",
+      "airDate": "2018-03-20",
+      "title": {
+        "en": "Tell Ele: Tell Me, Eleking-senpai 11"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S12": {
+      "episode": "S12",
+      "length": "1m",
+      "airDate": "2018-05-02",
+      "title": {
+        "en": "Unused Ending"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "1m",
+      "airDate": "2018-01-16",
+      "title": {
+        "en": "Joujou Gao!! (2-9)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1a": {
+      "episode": "ED1a",
+      "length": "1m",
+      "airDate": "2018-01-09",
+      "title": {
+        "en": "Soul-ride On! (1-7, 9-10, S12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1b": {
+      "episode": "ED1b",
+      "length": "1m",
+      "airDate": "2018-01-16",
+      "title": {
+        "en": "Soul-ride On! (1-7, 9-10, S12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1c": {
+      "episode": "ED1c",
+      "length": "1m",
+      "airDate": "2018-01-23",
+      "title": {
+        "en": "Soul-ride On! (1-7, 9-10, S12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1d": {
+      "episode": "ED1d",
+      "length": "1m",
+      "airDate": "2018-02-06",
+      "title": {
+        "en": "Soul-ride On! (1-7, 9-10, S12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1e": {
+      "episode": "ED1e",
+      "length": "1m",
+      "airDate": "2018-02-13",
+      "title": {
+        "en": "Soul-ride On! (1-7, 9-10, S12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1f": {
+      "episode": "ED1f",
+      "length": "1m",
+      "airDate": "2018-02-20",
+      "title": {
+        "en": "Soul-ride On! (1-7, 9-10, S12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1g": {
+      "episode": "ED1g",
+      "length": "1m",
+      "airDate": "2018-03-06",
+      "title": {
+        "en": "Soul-ride On! (1-7, 9-10, S12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1h": {
+      "episode": "ED1h",
+      "length": "1m",
+      "airDate": "2018-03-13",
+      "title": {
+        "en": "Soul-ride On! (1-7, 9-10, S12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1i": {
+      "episode": "ED1i",
+      "length": "1m",
+      "airDate": "2018-05-02",
+      "title": {
+        "en": "Soul-ride On! (1-7, 9-10, S12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T19:16:24.381Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

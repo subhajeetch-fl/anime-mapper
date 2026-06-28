@@ -1,0 +1,123 @@
+{
+  "id": 35403,
+  "idMal": 35403,
+  "mappings": {
+    "mal": 35403,
+    "anilist": 107670,
+    "anidb": 12866,
+    "kitsu": 13483,
+    "simkl": 663283,
+    "tmdb": 461706,
+    "tvdb": null,
+    "trakt": 308870,
+    "traktType": "movies",
+    "shikimori": 35403,
+    "livechart": null,
+    "animeplanet": "manga-revue-haru",
+    "anisearch": 12248,
+    "notify": "HM3n2FmiR"
+  },
+  "title": {
+    "romaji": "Manga Revue Haru",
+    "english": "Animated Revue \"Spring\"",
+    "native": "漫画レビュー 春",
+    "synonyms": [
+      "Animated Revue \"Spring\""
+    ]
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 9,
+  "aired": {
+    "from": "1931-06-01T00:00:00+00:00",
+    "to": "1931-01-01"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 5,
+    "anilistScore": 4,
+    "kitsuRating": 6.42
+  },
+  "genres": [
+    "Kids"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/9/85265l.jpg",
+    "banner": null,
+    "color": null
+  },
+  "trailer": null,
+  "synopsis": "A lighthearted anime about spring time. It was originally set to an elementary school song. The film features several vignettes.",
+  "sequence": [
+    {
+      "malId": 30018,
+      "title": {
+        "romaji": "Norakuro Nitouhei",
+        "english": null,
+        "native": "のらくろ二等兵"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118119-cF9iQG44My3Z.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "ALTERNATIVE"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "9m",
+      "airDate": "",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "1m",
+      "airDate": "",
+      "title": {
+        "en": "Incomplete Version - Doubutsu Sumo Taikai"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T18:38:59.447Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

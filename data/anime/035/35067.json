@@ -1,0 +1,595 @@
+{
+  "id": 35067,
+  "idMal": 35067,
+  "mappings": {
+    "mal": 35067,
+    "anilist": 98565,
+    "anidb": 12944,
+    "kitsu": 13326,
+    "simkl": 667241,
+    "tmdb": 71785,
+    "tvdb": 300989,
+    "trakt": 102282,
+    "traktType": "shows",
+    "shikimori": 35067,
+    "livechart": 2663,
+    "animeplanet": "mr-osomatsu-2nd-season",
+    "anisearch": 12394,
+    "notify": "B3On2KimR"
+  },
+  "title": {
+    "romaji": "Osomatsu-san 2nd Season",
+    "english": "Mr. Osomatsu 2",
+    "native": "おそ松さん 第2期",
+    "synonyms": []
+  },
+  "type": "TV",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 25,
+  "episodeLength": 23,
+  "aired": {
+    "from": "2017-10-03T00:00:00+00:00",
+    "to": "2018-03-27T00:00:00+00:00"
+  },
+  "season": "fall",
+  "year": 2017,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "R - 17+ (violence & profanity)",
+  "score": {
+    "malScore": 7.62,
+    "anilistScore": 7.4,
+    "kitsuRating": 7.5
+  },
+  "genres": [
+    "Comedy",
+    "Slice of Life",
+    "Parody",
+    "Japan",
+    "Present"
+  ],
+  "studios": [
+    "Studio Pierrot"
+  ],
+  "producers": [
+    "TV Tokyo",
+    "Dentsu",
+    "Rakuonsha",
+    "AT-X",
+    "Avex Pictures",
+    "Daiichi Shokai"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/13/88328l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98565-Km46w3GXIMOX.jpg",
+    "color": "#5086e4"
+  },
+  "trailer": null,
+  "synopsis": "Second season of Osomatsu-san.",
+  "sequence": [
+    {
+      "malId": 31174,
+      "title": {
+        "romaji": "Osomatsu-san",
+        "english": "Mr. Osomatsu",
+        "native": "おそ松さん"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21261-jLm2IGonsEzU.jpg",
+      "format": "TV",
+      "episodes": 25,
+      "seasonYear": 2015,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 36761,
+      "title": {
+        "romaji": "Osomatsu-san 2 Short Film Series",
+        "english": null,
+        "native": "おそ松さん 第2期ショートフィルムシリーズ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145985-yIeSw33Stvnx.jpg",
+      "format": "SPECIAL",
+      "episodes": 4,
+      "seasonYear": 2018,
+      "relationType": "SIDE_STORY"
+    },
+    {
+      "malId": 42391,
+      "title": {
+        "romaji": "Osomatsu-san 3rd Season",
+        "english": "Mr. Osomatsu 3rd season",
+        "native": "おそ松さん 第3期"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120851-94u8CMlI599g.jpg",
+      "format": "TV",
+      "episodes": 25,
+      "seasonYear": 2020,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2017-10-03",
+      "title": {
+        "en": "Mr. Osomatsu Returns"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6141707,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/300989/6141707.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2017-10-10",
+      "title": {
+        "en": "Congratulations! Employment!! / Super Detergent"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6347372,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/300989/6347372.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2017-10-17",
+      "title": {
+        "en": "Cavematsu-san / Choromatsu and Ichimatsu / Totoko`s Challenge"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6347373,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/300989/6347373.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2017-10-23",
+      "title": {
+        "en": "Cavematsu-san / Matsuzou and Matsuyo"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6377353,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/300989/6377353.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2017-10-31",
+      "title": {
+        "en": "Osomatsu-san in the Summer (Cicadas / Jyushimatsu Calisthenics / Joozu / It`s Hot / Exiled / Exiled 2 / Exiled 3 / Fireworks / Summer Kamen / Totoko in the Summer / This Year, We`ll Finally...)"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6377354,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/300989/6377354.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2017-11-07",
+      "title": {
+        "en": "Iyami Has Arrived / I Want Some Friends, Jo"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6377363,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/300989/6377363.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2017-11-14",
+      "title": {
+        "en": "Cavematsu-san / Sangokushi-san / Osomatsu and Todomatsu"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6377364,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/300989/6377364.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2017-11-21",
+      "title": {
+        "en": "Synthesis / Jyushimatsu and the Dolphin / Totoko and Nyaa"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6377365,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/300989/6377365.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2017-11-28",
+      "title": {
+        "en": "Campaign Starting Now! / Arcade Iyami / Totoko and Nyaa 2"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6377366,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/300989/6377366.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2017-12-05",
+      "title": {
+        "en": "Karamatsu and Brothers / New Employee Totoko / Dubbingmatsu-san"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6377367,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/300989/6377367.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2017-12-12",
+      "title": {
+        "en": "Chibita`s Revenge"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6377368,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/300989/episodes/6377368.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2017-12-19",
+      "title": {
+        "en": "Totoko and Nyaa 3 / The Eitarou Family / Give Them Back / Totoko and Nyaa 4"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6377369,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 37,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/300989/episodes/5f78e4689bb29.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2017-12-26",
+      "title": {
+        "en": "End of the Year (Have a Wonderful New Year / Year-End Jumbo Lottery / New Year`s Fest / Pounding Mochi / Playing in the Snow / Playing in the Snow 2 / Kasa Jizou Statues / New Year`s Cards) / Discharge Notice 2017: The Youngest Brother Who Got Fired"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6462631,
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 38,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/300989/episodes/5f78e52de3cc3.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "2018-01-09",
+      "title": {
+        "en": "Weekly Drama Serial: Sanematsu-san - Episode 9 / UMA Expedition Team / The Choromatsu Incident"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6473068,
+      "seasonNumber": 2,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 39,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/300989/episodes/5f78e5c305c7c.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "2018-01-16",
+      "title": {
+        "en": "UMA Expedition Team / Jar / Karamatsu Taxi / Totty Quiz"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6496044,
+      "seasonNumber": 2,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 40,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/300989/episodes/5f78e646b1277.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "2018-01-23",
+      "title": {
+        "en": "Space Pirates / Gourmet Episode / The Cutie Next Door"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6496045,
+      "seasonNumber": 2,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 41,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/300989/episodes/5f78e6efd7d9a.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "2018-01-30",
+      "title": {
+        "en": "UMA Expedition Team / Punishment! / Inn / Delivery Skit: If Hansel and Gretel Were Actually Smart"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6503979,
+      "seasonNumber": 2,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 42,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/300989/episodes/5f78e78964615.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "2018-02-06",
+      "title": {
+        "en": "Iyami, Alone in the Wind"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6503980,
+      "seasonNumber": 2,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 43,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/300989/episodes/5f78e7fccd562.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "2018-02-13",
+      "title": {
+        "en": "President Dekapan / Ventriloquism / Valentine`s Day / Delivery Skit: The Story of Snow White That Doesn`t Actually Get Anywhere"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6503981,
+      "seasonNumber": 2,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 44,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/300989/episodes/5f78e8a77286a.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "2018-02-20",
+      "title": {
+        "en": "Tidbits Collection 2 (Matsu Buns / Tax Returns / Karapino / Wallet / Pollen / Labyrinth / Jushimatsu the Raccoon / Todomatsu Passes On / Field Trip / Proper-Rangers! Move Out! / Skeleton)"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6503982,
+      "seasonNumber": 2,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 45,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/300989/episodes/5f78e91fe13aa.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "2018-02-27",
+      "title": {
+        "en": "The Late Night Himatsuya / Banana / NEET Correctional Facility"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6503983,
+      "seasonNumber": 2,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 46,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/300989/episodes/5f78e9e76ac5c.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "2018-03-06",
+      "title": {
+        "en": "Overseas Vacation"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6503984,
+      "seasonNumber": 2,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 47,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/300989/episodes/5f78ea8646e1b.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "2018-03-13",
+      "title": {
+        "en": "The Late Night Himatsuya 2 / Dayon and Dayon / Iyami-san Is Troubled / The Late Night Himatsuya 3"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6503985,
+      "seasonNumber": 2,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 48,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/300989/episodes/5f78eafd9e027.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "2018-03-20",
+      "title": {
+        "en": "Cherry Blossoms"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6503986,
+      "seasonNumber": 2,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 49,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/300989/episodes/5f78eba74cfee.jpg"
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "2018-03-27",
+      "title": {
+        "en": "Mr. Osomatsu in Hell"
+      },
+      "tvdbShowId": 300989,
+      "tvdbId": 6503987,
+      "seasonNumber": 2,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 50,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/300989/episodes/5f78ec2bcc7c9.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "6m",
+      "airDate": "",
+      "title": {
+        "en": "After All That"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "6m",
+      "airDate": "",
+      "title": {
+        "en": "Announcement"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "7m",
+      "airDate": "",
+      "title": {
+        "en": "Mr. Osomatsu Anime Fan Appreciation Day 2018"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S4": {
+      "episode": "S4",
+      "length": "4m",
+      "airDate": "",
+      "title": {
+        "en": "Osomatsu Broke His Bone"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "2017-10-03",
+      "title": {
+        "en": "Kimi-shi Ayauku mo Chikau yore (1-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "2017-10-03",
+      "title": {
+        "en": "Let`s Go! Muttsu Go! 6 Shoku no Niji (Hayamatsu 66) (1, 3, 6, 8, 10, 12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T18:09:11.396Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}
