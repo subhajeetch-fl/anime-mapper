@@ -1,0 +1,121 @@
+{
+  "id": 30096,
+  "idMal": 30096,
+  "mappings": {
+    "mal": 30096,
+    "anilist": 102294,
+    "anidb": 11230,
+    "kitsu": 10646,
+    "simkl": 503808,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 30096,
+    "livechart": null,
+    "animeplanet": "lao-fu-zi-shui-hu-chuan",
+    "anisearch": 10603,
+    "notify": "J_tQpFimg"
+  },
+  "title": {
+    "romaji": "Lao Fu Zi Shui Hu Zhuan",
+    "english": null,
+    "native": "老夫子水虎傳",
+    "synonyms": [
+      "Old Master Q: Water Tiger",
+      "Lao Fuzi Shui Hu Chuan"
+    ]
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 72,
+  "aired": {
+    "from": "1982-07-10",
+    "to": "1982-07-10"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "G",
+  "score": {
+    "malScore": null,
+    "anilistScore": 4.6,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Historical"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/10646/original.jpg",
+    "banner": null,
+    "color": "#e4e45d"
+  },
+  "trailer": null,
+  "synopsis": "Old Master Q and gang travels to the past.",
+  "sequence": [
+    {
+      "malId": 30095,
+      "title": {
+        "romaji": "Qi Cai Lao Fu Zi",
+        "english": "Color Old Master Q",
+        "native": "七彩老夫子"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102151-V632CQ16YIXX.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 30097,
+      "title": {
+        "romaji": "Shan T Lao Fu Zi",
+        "english": "Old Master Q & \"San-T\"",
+        "native": "山T老夫子"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102295-i8vZkmCadvWe.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "75m",
+      "airDate": "1982-08-10",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T04:32:16.676Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

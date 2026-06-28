@@ -1,0 +1,105 @@
+{
+  "id": 31674,
+  "idMal": 31674,
+  "mappings": {
+    "mal": 31674,
+    "anilist": 104386,
+    "anidb": null,
+    "kitsu": 12369,
+    "simkl": null,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 31674,
+    "livechart": null,
+    "animeplanet": "larva-new-york",
+    "anisearch": 11336,
+    "notify": "RpVz2FmmR"
+  },
+  "title": {
+    "romaji": "Larva in New York",
+    "english": "Larva 3rd Season",
+    "native": "라바 인 뉴욕",
+    "synonyms": [
+      "Larva: New York",
+      "My Larva Season 3"
+    ]
+  },
+  "type": "TV_SHORT",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 104,
+  "episodeLength": 1,
+  "aired": {
+    "from": "2014-08-04",
+    "to": "2014-11-26"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "G",
+  "score": {
+    "malScore": null,
+    "anilistScore": 5.4,
+    "kitsuRating": 6.88
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "studios": [
+    "TUBAn"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/12369/original.jpg",
+    "banner": null,
+    "color": "#f1c935"
+  },
+  "trailer": null,
+  "synopsis": "Third season of Larva.",
+  "sequence": [
+    {
+      "malId": 31673,
+      "title": {
+        "romaji": "Larva Season 2",
+        "english": "Larva Season 2",
+        "native": "라바 시즌2"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104385-iCuUNxE0HiEW.jpg",
+      "format": "TV_SHORT",
+      "episodes": 52,
+      "seasonYear": null,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 38446,
+      "title": {
+        "romaji": "Larva Island",
+        "english": "Larva Island",
+        "native": "라바 아일랜드"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119837-lG22TQSizmVO.jpg",
+      "format": "ONA",
+      "episodes": 13,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-06-28T06:27:04.294Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

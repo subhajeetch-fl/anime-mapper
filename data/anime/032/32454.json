@@ -1,0 +1,348 @@
+{
+  "id": 32454,
+  "idMal": 32454,
+  "mappings": {
+    "mal": 32454,
+    "anilist": 21570,
+    "anidb": 11865,
+    "kitsu": 11685,
+    "simkl": 547444,
+    "tmdb": 68389,
+    "tvdb": 307333,
+    "trakt": 105463,
+    "traktType": "shows",
+    "shikimori": 32454,
+    "livechart": 1985,
+    "animeplanet": "usakame",
+    "anisearch": 11076,
+    "notify": "ICV3pKmmR"
+  },
+  "title": {
+    "romaji": "Usakame",
+    "english": null,
+    "native": "うさかめ",
+    "synonyms": []
+  },
+  "type": "TV_SHORT",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
+  "episodeLength": 4,
+  "aired": {
+    "from": "2016-04-12",
+    "to": "2016-06-28"
+  },
+  "season": "spring",
+  "year": 2016,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "anilistScore": 5.6,
+    "kitsuRating": 5.73
+  },
+  "genres": [
+    "Comedy",
+    "Sports",
+    "Slice of Life",
+    "Absurdist Humour",
+    "School Clubs",
+    "School Life"
+  ],
+  "studios": [
+    "Millepensee"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/11685/original.png",
+    "banner": null,
+    "color": "#f1d6a1"
+  },
+  "trailer": null,
+  "synopsis": "Spin-off of Teekyuu. ",
+  "sequence": [
+    {
+      "malId": 15125,
+      "title": {
+        "romaji": "Teekyuu",
+        "english": "Teekyuu",
+        "native": "てーきゅう"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15125-2ngZyS4KrMqA.png",
+      "format": "TV_SHORT",
+      "episodes": 12,
+      "seasonYear": 2012,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 34615,
+      "title": {
+        "romaji": "Usakame Special",
+        "english": "Usakame Special",
+        "native": "うさかめ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100176-VjcQcSMpudLw.jpg",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "seasonYear": 2016,
+      "relationType": "SIDE_STORY"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "4m",
+      "airDate": "2016-04-12",
+      "title": {
+        "en": "How Does Someone Ask for Water That Is from the Neighbor with Kouhai"
+      },
+      "tvdbShowId": 307333,
+      "tvdbId": 5555579,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 5,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "4m",
+      "airDate": "2016-04-19",
+      "title": {
+        "en": "Get Out of the Way, Horse Coming Through, with Kouhai, Get Out of the Way"
+      },
+      "tvdbShowId": 307333,
+      "tvdbId": 5558393,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 5,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "4m",
+      "airDate": "2016-04-26",
+      "title": {
+        "en": "Spindly, Long and Thin, Just as the Silhouette of a Cat, with Kouhai"
+      },
+      "tvdbShowId": 307333,
+      "tvdbId": 5558394,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 5,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "4m",
+      "airDate": "2016-05-03",
+      "title": {
+        "en": "The Faint Sound of the Dripping Dew from the Lotus Blossoms with Kouhai"
+      },
+      "tvdbShowId": 307333,
+      "tvdbId": 5558395,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 5,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "4m",
+      "airDate": "2016-05-10",
+      "title": {
+        "en": "The Spring Breeze Blows Through the Feathers on White-Feathered Arrows with Kouhai"
+      },
+      "tvdbShowId": 307333,
+      "tvdbId": 5558396,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 5,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "4m",
+      "airDate": "2016-05-17",
+      "title": {
+        "en": "Oh, How I Spent the Long Spring Days Together in the Fields with Kouhai"
+      },
+      "tvdbShowId": 307333,
+      "tvdbId": 5558397,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 5,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "4m",
+      "airDate": "2016-05-24",
+      "title": {
+        "en": "An Afternoon Moon, Appearing Up in the Sky One Day, with Kouhai"
+      },
+      "tvdbShowId": 307333,
+      "tvdbId": 5558398,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 5,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "4m",
+      "airDate": "2016-05-31",
+      "title": {
+        "en": "The Viscous Water and Gently Blowing Springtime Zephyrs with Kouhai"
+      },
+      "tvdbShowId": 307333,
+      "tvdbId": 5558399,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 5,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "4m",
+      "airDate": "2016-06-07",
+      "title": {
+        "en": "Constitutionals Alongside the Shopkeeper as Well as Kouhai"
+      },
+      "tvdbShowId": 307333,
+      "tvdbId": 5558400,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 5,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "4m",
+      "airDate": "2016-06-14",
+      "title": {
+        "en": "Could This Truly Be the Dawning of a Springtime Tempest with Kouhai"
+      },
+      "tvdbShowId": 307333,
+      "tvdbId": 5558401,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 5,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "4m",
+      "airDate": "2016-06-21",
+      "title": {
+        "en": "Oh, to Hear My Name Spoken as the First Rain Starts to Fall with Kouhai"
+      },
+      "tvdbShowId": 307333,
+      "tvdbId": 5558402,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 5,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": "4m",
+      "airDate": "2016-06-28",
+      "title": {
+        "en": "To Gaze Upon an Aureolin Butterfly Alongside Kouhai"
+      },
+      "tvdbShowId": 307333,
+      "tvdbId": 5558403,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 5,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "4m",
+      "airDate": "2016-08-26",
+      "title": {
+        "en": "Special"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1a": {
+      "episode": "OP1a",
+      "length": "1m",
+      "airDate": "2016-04-12",
+      "title": {
+        "en": "Hashire! Usakame Koukou Tennis Bu!! (1-12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1b": {
+      "episode": "OP1b",
+      "length": "1m",
+      "airDate": "2016-05-10",
+      "title": {
+        "en": "Hashire! Usakame Koukou Tennis Bu!! (1-12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "1m",
+      "airDate": "2016-04-19",
+      "title": {
+        "en": "Promise You (1-12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T07:11:29.305Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "id": 32015,
+  "idMal": 32015,
+  "mappings": {
+    "mal": 32015,
+    "anilist": 21487,
+    "anidb": 11758,
+    "kitsu": 11615,
+    "simkl": 535164,
+    "tmdb": 65292,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 32015,
+    "livechart": 1910,
+    "animeplanet": "ajin-ova",
+    "anisearch": 10938,
+    "notify": "sJCjpFmmR"
+  },
+  "title": {
+    "romaji": "Ajin OVA",
+    "english": null,
+    "native": "亜人OVA",
+    "synonyms": []
+  },
+  "type": "OVA",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 2,
+  "episodeLength": 21,
+  "aired": {
+    "from": "2015-05-06",
+    "to": "2016-10-07"
+  },
+  "season": "spring",
+  "year": 2016,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "R",
+  "score": {
+    "malScore": null,
+    "anilistScore": 6.8,
+    "kitsuRating": 7.16
+  },
+  "genres": [
+    "Action",
+    "Horror",
+    "Mystery",
+    "Supernatural",
+    "Fantasy"
+  ],
+  "studios": [
+    "POLYGON PICTURES"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/11615/original.jpg",
+    "banner": null,
+    "color": "#f1bb5d"
+  },
+  "trailer": null,
+  "synopsis": "New episodes bundled with the limited edition eighth and ninth manga volumes.\n\n(Source: MAL)",
+  "sequence": [
+    {
+      "malId": 31580,
+      "title": {
+        "romaji": "Ajin",
+        "english": "AJIN: Demi-Human",
+        "native": "亜人"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21341-Pyc7SkMEuGsl.jpg",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2016,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 33253,
+      "title": {
+        "romaji": "Ajin 2",
+        "english": "AJIN: Demi-Human 2",
+        "native": "亜人 2"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21799-0WB0vWJJ7mFX.jpg",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2016,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2015-11-27",
+      "title": {
+        "en": "The Nakamura Shinya Incident"
+      },
+      "tvdbShowId": 300835,
+      "tvdbId": 8993060,
+      "seasonNumber": 0,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 104,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2016-05-06",
+      "title": {
+        "en": "Intermission"
+      },
+      "tvdbShowId": 300835,
+      "tvdbId": 8993061,
+      "seasonNumber": 0,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 105,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2016-09-23",
+      "title": {
+        "en": "Satou: Zero"
+      },
+      "tvdbShowId": 300835,
+      "tvdbId": 5431478,
+      "seasonNumber": 0,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 100,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T06:46:32.890Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

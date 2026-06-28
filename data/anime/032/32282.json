@@ -1,0 +1,651 @@
+{
+  "id": 32282,
+  "idMal": 32282,
+  "mappings": {
+    "mal": 32282,
+    "anilist": 21518,
+    "anidb": 11828,
+    "kitsu": 11612,
+    "simkl": 543144,
+    "tmdb": 62273,
+    "tvdb": 289909,
+    "trakt": 94084,
+    "traktType": "shows",
+    "shikimori": 32282,
+    "livechart": 1955,
+    "animeplanet": "food-wars-the-second-plate",
+    "anisearch": 10982,
+    "notify": "3xrjtFmmg"
+  },
+  "title": {
+    "romaji": "Shokugeki no Souma: Ni no Sara",
+    "english": "Food Wars! The Second Plate",
+    "native": "食戟のソーマ 弍ノ皿",
+    "synonyms": [
+      "Shokugeki no Souma 2nd Season",
+      "Shokugeki no Soma 2",
+      "Food Wars: Shokugeki no Soma 2",
+      "Shokugeki no Soma: The Second Plate",
+      "食戟之灵 贰之皿",
+      "ยอดนักปรุงโซมะ ภาค 2"
+    ]
+  },
+  "type": "TV",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 13,
+  "episodeLength": 24,
+  "aired": {
+    "from": "2016-07-02T00:00:00+00:00",
+    "to": "2016-09-24T00:00:00+00:00"
+  },
+  "season": "summer",
+  "year": 2016,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 8.05,
+    "anilistScore": 7.9,
+    "kitsuRating": 8.19
+  },
+  "genres": [
+    "Gourmet",
+    "Ecchi",
+    "Comedy",
+    "School",
+    "Food",
+    "Cooking",
+    "School Life",
+    "Shounen"
+  ],
+  "studios": [
+    "J.C.Staff"
+  ],
+  "producers": [
+    "Dentsu",
+    "Lantis",
+    "Mainichi Broadcasting System",
+    "Warner Bros. Japan",
+    "KlockWorx",
+    "Showgate",
+    "Shueisha"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/8/79353l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21518-kKwYXPaFO9JL.jpg",
+    "color": "#43aee4"
+  },
+  "trailer": null,
+  "synopsis": "The qualifiers of the Autumn Elections are now over, and only eight talented chefs remain. Now, they face off in one-on-one food wars, each with their own unique themes. Met with both new judges and new opponents all with their own specialties, Souma must stay on his toes if he hopes to make it to the top of both the Autumn Elections and Tootsuki Culinary Academy.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 28171,
+      "title": {
+        "romaji": "Shokugeki no Souma",
+        "english": "Food Wars!",
+        "native": "食戟のソーマ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20923-pNT38pjW3RFH.jpg",
+      "format": "TV",
+      "episodes": 24,
+      "seasonYear": 2015,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 34480,
+      "title": {
+        "romaji": "Shokugeki no Souma: Ni no Sara OVA",
+        "english": "Food Wars! The Second Plate OVA",
+        "native": "食戟のソーマ 弍ノ皿 OVA"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98702-Ao74l33hWMDL.jpg",
+      "format": "OVA",
+      "episodes": 2,
+      "seasonYear": 2017,
+      "relationType": "SEQUEL"
+    },
+    {
+      "malId": 35788,
+      "title": {
+        "romaji": "Shokugeki no Souma: San no Sara",
+        "english": "Food Wars! The Third Plate",
+        "native": "食戟のソーマ 餐ノ皿"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99255-heGTtj5b4owl.jpg",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2017,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2016-07-02",
+      "title": {
+        "en": "What Fills the Box"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 5436146,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/289909/5436146.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2016-07-09",
+      "title": {
+        "en": "The Interplay of Light and Shadow"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 5665167,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/289909/5665167.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2016-07-16",
+      "title": {
+        "en": "The Generation of Prodigies"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 5665168,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/289909/5665168.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2016-07-23",
+      "title": {
+        "en": "The Pursuer"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 5665412,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/289909/5665412.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2016-07-30",
+      "title": {
+        "en": "The Secret in the First Bite"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 5667219,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/289909/5667219.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2016-08-06",
+      "title": {
+        "en": "Dawn Will Come Again"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 5667220,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/289909/5667220.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2016-08-13",
+      "title": {
+        "en": "Beasts Devouring Each Other"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 5667221,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/289909/5667221.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2016-08-20",
+      "title": {
+        "en": "Battle of Seasonality"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 5667222,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/289909/5667222.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2016-08-27",
+      "title": {
+        "en": "A Sword That Signals Autumn"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 5667223,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/289909/5667223.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2016-09-03",
+      "title": {
+        "en": "A New Genius"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 5667224,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/289909/5667224.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2016-09-10",
+      "title": {
+        "en": "The Stagiaire"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 5667225,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/289909/5667225.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2016-09-17",
+      "title": {
+        "en": "The Magician Once More"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 5667226,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/289909/5667226.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2016-09-24",
+      "title": {
+        "en": "Pomp and Circumstance"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 5667227,
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 37,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/289909/5667227.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "2m",
+      "airDate": "2016-07-02",
+      "title": {
+        "en": "Episode 1 Prologue"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "3m",
+      "airDate": "2016-09-24",
+      "title": {
+        "en": "Episode 13 Ending"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1a": {
+      "episode": "OP1a",
+      "length": "2m",
+      "airDate": "2016-07-02",
+      "title": {
+        "en": "Rough Diamonds (2-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1b": {
+      "episode": "OP1b",
+      "length": "2m",
+      "airDate": "2016-07-23",
+      "title": {
+        "en": "Rough Diamonds (2-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1c": {
+      "episode": "OP1c",
+      "length": "2m",
+      "airDate": "2016-07-30",
+      "title": {
+        "en": "Rough Diamonds (2-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1d": {
+      "episode": "OP1d",
+      "length": "2m",
+      "airDate": "2016-08-13",
+      "title": {
+        "en": "Rough Diamonds (2-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1e": {
+      "episode": "OP1e",
+      "length": "2m",
+      "airDate": "2016-09-17",
+      "title": {
+        "en": "Rough Diamonds (2-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1f": {
+      "episode": "OP1f",
+      "length": "2m",
+      "airDate": "2016-09-28",
+      "title": {
+        "en": "Rough Diamonds (2-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1g": {
+      "episode": "OP1g",
+      "length": "2m",
+      "airDate": "2016-10-26",
+      "title": {
+        "en": "Rough Diamonds (2-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1h": {
+      "episode": "OP1h",
+      "length": "2m",
+      "airDate": "2016-11-23",
+      "title": {
+        "en": "Rough Diamonds (2-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2a": {
+      "episode": "ED2a",
+      "length": "2m",
+      "airDate": "2016-07-09",
+      "title": {
+        "en": "Snow Drop (2-13, S2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2b": {
+      "episode": "ED2b",
+      "length": "2m",
+      "airDate": "2016-07-16",
+      "title": {
+        "en": "Snow Drop (2-13, S2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2c": {
+      "episode": "ED2c",
+      "length": "2m",
+      "airDate": "2016-07-23",
+      "title": {
+        "en": "Snow Drop (2-13, S2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2d": {
+      "episode": "ED2d",
+      "length": "2m",
+      "airDate": "2016-07-30",
+      "title": {
+        "en": "Snow Drop (2-13, S2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2e": {
+      "episode": "ED2e",
+      "length": "2m",
+      "airDate": "2016-08-06",
+      "title": {
+        "en": "Snow Drop (2-13, S2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2f": {
+      "episode": "ED2f",
+      "length": "2m",
+      "airDate": "2016-08-13",
+      "title": {
+        "en": "Snow Drop (2-13, S2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2g": {
+      "episode": "ED2g",
+      "length": "2m",
+      "airDate": "2016-08-20",
+      "title": {
+        "en": "Snow Drop (2-13, S2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2h": {
+      "episode": "ED2h",
+      "length": "2m",
+      "airDate": "2016-08-27",
+      "title": {
+        "en": "Snow Drop (2-13, S2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2i": {
+      "episode": "ED2i",
+      "length": "2m",
+      "airDate": "2016-09-03",
+      "title": {
+        "en": "Snow Drop (2-13, S2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2j": {
+      "episode": "ED2j",
+      "length": "2m",
+      "airDate": "2016-09-10",
+      "title": {
+        "en": "Snow Drop (2-13, S2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2k": {
+      "episode": "ED2k",
+      "length": "2m",
+      "airDate": "2016-09-17",
+      "title": {
+        "en": "Snow Drop (2-13, S2)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T07:01:28.671Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

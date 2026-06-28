@@ -1,0 +1,167 @@
+{
+  "id": 33048,
+  "idMal": 33048,
+  "mappings": {
+    "mal": 33048,
+    "anilist": 21766,
+    "anidb": 12045,
+    "kitsu": 12012,
+    "simkl": 572144,
+    "tmdb": 412382,
+    "tvdb": null,
+    "trakt": 257797,
+    "traktType": "movies",
+    "shikimori": 33048,
+    "livechart": 2127,
+    "animeplanet": "zegapain-adp",
+    "anisearch": 11293,
+    "notify": "hd-6pFmmg"
+  },
+  "title": {
+    "romaji": "Zegapain ADP",
+    "english": "Zegapain ADP",
+    "native": "ゼーガペイン ADP",
+    "synonyms": []
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 0,
+  "aired": {
+    "from": "2016-10-15",
+    "to": "2016-10-15"
+  },
+  "season": "fall",
+  "year": 2016,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "anilistScore": 6,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Action",
+    "Mecha",
+    "Romance",
+    "Sci-Fi",
+    "Science Fiction"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/12012/original.jpg",
+    "banner": null,
+    "color": "#86bbe4"
+  },
+  "trailer": null,
+  "synopsis": "Animation studio Sunrise has announced at AnimeJapan 2016 that its 2006 mecha anime series Zegapain will be re-edited into a movie titled Zegapain ADP. The movie will also include new scenes not present in the TV anime.\n(Source: MAL News)",
+  "sequence": [
+    {
+      "malId": 878,
+      "title": {
+        "romaji": "Zegapain",
+        "english": "Zegapain",
+        "native": "ゼーガペイン"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx878-E65KwO2LaQhp.jpg",
+      "format": "TV",
+      "episodes": 26,
+      "seasonYear": 2006,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "120m",
+      "airDate": "2016-10-15",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "2016-07-27",
+      "title": {
+        "en": "Episode T1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "1m",
+      "airDate": "2016-08-31",
+      "title": {
+        "en": "Trailer (0:37)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "1m",
+      "airDate": "2016-08-31",
+      "title": {
+        "en": "CM (0:15)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T4": {
+      "episode": "T4",
+      "length": "1m",
+      "airDate": "2016-08-31",
+      "title": {
+        "en": "Zegapain 10th Anniversary Box (0:16)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T07:56:02.931Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

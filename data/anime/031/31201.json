@@ -1,0 +1,158 @@
+{
+  "id": 31201,
+  "idMal": 31201,
+  "mappings": {
+    "mal": 31201,
+    "anilist": 87438,
+    "anidb": 11353,
+    "kitsu": 11197,
+    "simkl": 508616,
+    "tmdb": 384345,
+    "tvdb": null,
+    "trakt": 246896,
+    "traktType": "movies",
+    "shikimori": 31201,
+    "livechart": 1715,
+    "animeplanet": "doraemon-movie-36-nobita-at-the-birth-of-japan-2016",
+    "anisearch": 10964,
+    "notify": "oqQXtFmig"
+  },
+  "title": {
+    "romaji": "Doraemon: Shin Nobita no Nippon Tanjou",
+    "english": null,
+    "native": "映画ドラえもん　新・のび太の日本誕生",
+    "synonyms": [
+      "Doraemon the Movie: Nobita and the Birth of Japan 2016"
+    ]
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 104,
+  "aired": {
+    "from": "2016-03-05",
+    "to": "2016-03-05"
+  },
+  "season": "winter",
+  "year": 2016,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "anilistScore": 7.1,
+    "kitsuRating": 7.34
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Kids",
+    "Time Travel",
+    "Science Fiction",
+    "Asia",
+    "Japan",
+    "Earth"
+  ],
+  "studios": [
+    "Shin-Ei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/11197/original.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/87438-JkFzpwp1LZLA.jpg",
+    "color": "#e4c950"
+  },
+  "trailer": null,
+  "synopsis": "This is a remake of the 1989 film Doraemon Movie 10: Nobita no Nippon Tanjou.",
+  "sequence": [
+    {
+      "malId": 2666,
+      "title": {
+        "romaji": "Doraemon: Nobita no Nippon Tanjou",
+        "english": "Doraemon: Nobita at the Birth of Japan",
+        "native": "ドラえもん のび太の日本誕生"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2666-f0EGXLLgYU1a.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 1989,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 8687,
+      "title": {
+        "romaji": "Doraemon (2005)",
+        "english": null,
+        "native": "ドラえもん (2005)"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": 2005,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "105m",
+      "airDate": "2016-03-05",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C1": {
+      "episode": "C1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "OP"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C2": {
+      "episode": "C2",
+      "length": "4m",
+      "airDate": "",
+      "title": {
+        "en": "ED"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T05:57:18.009Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

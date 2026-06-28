@@ -1,0 +1,992 @@
+{
+  "id": 30230,
+  "idMal": 30230,
+  "mappings": {
+    "mal": 30230,
+    "anilist": 21085,
+    "anidb": 11115,
+    "kitsu": 10741,
+    "simkl": 477128,
+    "tmdb": 60761,
+    "tvdb": 273005,
+    "trakt": 60325,
+    "traktType": "shows",
+    "shikimori": 30230,
+    "livechart": 1426,
+    "animeplanet": "ace-of-diamond-second-season",
+    "anisearch": 10250,
+    "notify": "U6lQpKmiR"
+  },
+  "title": {
+    "romaji": "Diamond no Ace: Second Season",
+    "english": "Ace of Diamond: Second Season",
+    "native": "ダイヤのA～Second Season～",
+    "synonyms": [
+      "Daiya no Ace: Second Season",
+      "Ace of the Diamond: 2nd Season",
+      "Daiya no Ace 2"
+    ]
+  },
+  "type": "TV",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 51,
+  "episodeLength": 24,
+  "aired": {
+    "from": "2015-04-06T00:00:00+00:00",
+    "to": "2016-03-28T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 2015,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 8.31,
+    "anilistScore": 8.2,
+    "kitsuRating": 8.07
+  },
+  "genres": [
+    "Sports",
+    "Comedy",
+    "School",
+    "Friendship",
+    "Baseball",
+    "Japan",
+    "School Life",
+    "Shounen"
+  ],
+  "studios": [
+    "Production I.G",
+    "Madhouse"
+  ],
+  "producers": [
+    "TV Tokyo",
+    "Sotsu",
+    "Pony Canyon",
+    "Kodansha",
+    "AT-X"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/9/74398l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21085-A2xthYoKQY4B.jpg",
+    "color": "#43bbf1"
+  },
+  "trailer": null,
+  "synopsis": "After the National Tournament, the Seidou High baseball team moves forward with uncertainty as the Fall season quickly approaches. In an attempt to build a stronger team centered around their new captain, fresh faces join the starting roster for the very first time. Previous losses weigh heavily on the minds of the veteran players as they continue their rigorous training, preparing for what will inevitably be their toughest season yet.\n \nRivals both new and old stand in their path as Seidou once again climbs their way toward the top, one game at a time. Needed now more than ever before, Furuya and Eijun must be determined to pitch with all their skill and strength in order to lead their team to victory. And this time, one of these young pitchers may finally claim that coveted title: \"The Ace of Seidou.\"\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 18689,
+      "title": {
+        "romaji": "Diamond no Ace",
+        "english": "Ace of the Diamond",
+        "native": "ダイヤのA"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18689-LRIiRcgTJS1f.jpg",
+      "format": "TV",
+      "episodes": 75,
+      "seasonYear": 2013,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 34349,
+      "title": {
+        "romaji": "Diamond no Ace Second Season OVA",
+        "english": "Ace of Diamond: Second Season OVA",
+        "native": "ダイヤのA[エース]～Second Season OAD～"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98582-jXpGf1pEA7zF.jpg",
+      "format": "OVA",
+      "episodes": 2,
+      "seasonYear": 2016,
+      "relationType": "SEQUEL"
+    },
+    {
+      "malId": 38731,
+      "title": {
+        "romaji": "Diamond no Ace act II",
+        "english": "Ace of the Diamond act II",
+        "native": "ダイヤのA actⅡ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105749-bbqFNGq0r6mS.jpg",
+      "format": "TV",
+      "episodes": 52,
+      "seasonYear": 2019,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2015-04-06",
+      "title": {
+        "en": "Howling in the Summer"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5150502,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 76,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5150502.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2015-04-13",
+      "title": {
+        "en": "The Summer Heat Haze"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5165635,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 77,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5165635.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2015-04-20",
+      "title": {
+        "en": "The Kings of Summer"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5165636,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 78,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5165636.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2015-04-27",
+      "title": {
+        "en": "The Fall Tournament Begins!"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5165637,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 79,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5165637.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2015-05-04",
+      "title": {
+        "en": "The Cold Rain"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5165638,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 80,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5165638.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2015-05-11",
+      "title": {
+        "en": "Out of Order"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5212560,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 81,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5212560.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2015-05-18",
+      "title": {
+        "en": "Where I Am"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5212561,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 82,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5212561.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2015-05-25",
+      "title": {
+        "en": "Scenario"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5212562,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 83,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5212562.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2015-06-01",
+      "title": {
+        "en": "My Path"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5212564,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 84,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5212564.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2015-06-08",
+      "title": {
+        "en": "Did You just Pitch..."
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5212565,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 85,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5212565.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2015-06-15",
+      "title": {
+        "en": "The Underdog Story"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5251910,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 86,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5251910.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2015-06-22",
+      "title": {
+        "en": "Self-Destruction"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5251911,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 87,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5251911.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2015-06-29",
+      "title": {
+        "en": "Fissure"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5259056,
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 88,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5259056.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "2015-07-06",
+      "title": {
+        "en": "On My Shoulders"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5265299,
+      "seasonNumber": 2,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 89,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5265299.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "2015-07-13",
+      "title": {
+        "en": "Persistent and Diligent"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5272769,
+      "seasonNumber": 2,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 90,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5272769.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "2015-07-20",
+      "title": {
+        "en": "Chain Reaction"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5279091,
+      "seasonNumber": 2,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 91,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5279091.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "2015-07-27",
+      "title": {
+        "en": "Shut Him Down!!"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5283803,
+      "seasonNumber": 2,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 92,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5283803.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "2015-08-03",
+      "title": {
+        "en": "This Guy`s Pretty Good"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5291643,
+      "seasonNumber": 2,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 93,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5291643.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "2015-08-10",
+      "title": {
+        "en": "An Uncompromising Challenge"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5298064,
+      "seasonNumber": 2,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 94,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5298064.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "2015-08-17",
+      "title": {
+        "en": "With Heads Held High"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5303982,
+      "seasonNumber": 2,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 95,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5303982.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "2015-08-24",
+      "title": {
+        "en": "Whispers of the Devil?"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5309578,
+      "seasonNumber": 2,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 96,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5309578.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "2015-08-31",
+      "title": {
+        "en": "Winging It"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5315308,
+      "seasonNumber": 2,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 97,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5315308.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "2015-09-07",
+      "title": {
+        "en": "School Academic Level"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5321499,
+      "seasonNumber": 2,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 98,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5321499.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "2015-09-14",
+      "title": {
+        "en": "Individual Minds"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5328233,
+      "seasonNumber": 2,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 99,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5328233.jpg"
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "2015-09-21",
+      "title": {
+        "en": "Zeal"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5334845,
+      "seasonNumber": 2,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 100,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5334845.jpg"
+    },
+    "26": {
+      "episode": "26",
+      "length": "25m",
+      "airDate": "2015-09-28",
+      "title": {
+        "en": "The Conceited Underclassman"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5343004,
+      "seasonNumber": 2,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 101,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5343004.jpg"
+    },
+    "27": {
+      "episode": "27",
+      "length": "25m",
+      "airDate": "2015-10-05",
+      "title": {
+        "en": "Step by Step"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5350514,
+      "seasonNumber": 2,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 102,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5350514.jpg"
+    },
+    "28": {
+      "episode": "28",
+      "length": "25m",
+      "airDate": "2015-10-12",
+      "title": {
+        "en": "The Resilient Second-String"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5359289,
+      "seasonNumber": 2,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 103,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5359289.jpg"
+    },
+    "29": {
+      "episode": "29",
+      "length": "25m",
+      "airDate": "2015-10-19",
+      "title": {
+        "en": "Demon Child"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5369069,
+      "seasonNumber": 2,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 104,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5369069.jpg"
+    },
+    "30": {
+      "episode": "30",
+      "length": "25m",
+      "airDate": "2015-10-26",
+      "title": {
+        "en": "The Kings` Roar"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5376743,
+      "seasonNumber": 2,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 105,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5376743.jpg"
+    },
+    "31": {
+      "episode": "31",
+      "length": "25m",
+      "airDate": "2015-11-02",
+      "title": {
+        "en": "The Courage He Gave Me"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5384168,
+      "seasonNumber": 2,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 106,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5384168.jpg"
+    },
+    "32": {
+      "episode": "32",
+      "length": "25m",
+      "airDate": "2015-11-09",
+      "title": {
+        "en": "The Resolve for Responsibility"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5390584,
+      "seasonNumber": 2,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 107,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5390584.jpg"
+    },
+    "33": {
+      "episode": "33",
+      "length": "25m",
+      "airDate": "2015-11-16",
+      "title": {
+        "en": "The Ace`s Instinct"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5397632,
+      "seasonNumber": 2,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 108,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5397632.jpg"
+    },
+    "34": {
+      "episode": "34",
+      "length": "25m",
+      "airDate": "2015-11-23",
+      "title": {
+        "en": "Innocent"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5403447,
+      "seasonNumber": 2,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 109,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5403447.jpg"
+    },
+    "35": {
+      "episode": "35",
+      "length": "25m",
+      "airDate": "2015-11-30",
+      "title": {
+        "en": "The World Beyond"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5411723,
+      "seasonNumber": 2,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": 110,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5411723.jpg"
+    },
+    "36": {
+      "episode": "36",
+      "length": "25m",
+      "airDate": "2015-12-07",
+      "title": {
+        "en": "Back After Summer"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5422468,
+      "seasonNumber": 2,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 111,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5422468.jpg"
+    },
+    "37": {
+      "episode": "37",
+      "length": "25m",
+      "airDate": "2015-12-14",
+      "title": {
+        "en": "Priorities"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5432237,
+      "seasonNumber": 2,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 112,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5432237.jpg"
+    },
+    "38": {
+      "episode": "38",
+      "length": "25m",
+      "airDate": "2015-12-21",
+      "title": {
+        "en": "One Pitch"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5438736,
+      "seasonNumber": 2,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 113,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5438736.jpg"
+    },
+    "39": {
+      "episode": "39",
+      "length": "25m",
+      "airDate": "2016-01-04",
+      "title": {
+        "en": "Meeting Expectations"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5447152,
+      "seasonNumber": 2,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": 114,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5447152.jpg"
+    },
+    "40": {
+      "episode": "40",
+      "length": "25m",
+      "airDate": "2016-01-11",
+      "title": {
+        "en": "The Final Eve"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5463517,
+      "seasonNumber": 2,
+      "episodeNumber": 40,
+      "absoluteEpisodeNumber": 115,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5463517.jpg"
+    },
+    "41": {
+      "episode": "41",
+      "length": "25m",
+      "airDate": "2016-01-18",
+      "title": {
+        "en": "The Leadoff Man"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5475471,
+      "seasonNumber": 2,
+      "episodeNumber": 41,
+      "absoluteEpisodeNumber": 116,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5475471.jpg"
+    },
+    "42": {
+      "episode": "42",
+      "length": "25m",
+      "airDate": "2016-01-25",
+      "title": {
+        "en": "Fastball, Featuring Todoroki"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5483586,
+      "seasonNumber": 2,
+      "episodeNumber": 42,
+      "absoluteEpisodeNumber": 117,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5483586.jpg"
+    },
+    "43": {
+      "episode": "43",
+      "length": "25m",
+      "airDate": "2016-02-01",
+      "title": {
+        "en": "To This Side"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5493516,
+      "seasonNumber": 2,
+      "episodeNumber": 43,
+      "absoluteEpisodeNumber": 118,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5493516.jpg"
+    },
+    "44": {
+      "episode": "44",
+      "length": "25m",
+      "airDate": "2016-02-08",
+      "title": {
+        "en": "The Best Fastball"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5501512,
+      "seasonNumber": 2,
+      "episodeNumber": 44,
+      "absoluteEpisodeNumber": 119,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5501512.jpg"
+    },
+    "45": {
+      "episode": "45",
+      "length": "25m",
+      "airDate": "2016-02-15",
+      "title": {
+        "en": "The Field"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5509161,
+      "seasonNumber": 2,
+      "episodeNumber": 45,
+      "absoluteEpisodeNumber": 120,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5509161.jpg"
+    },
+    "46": {
+      "episode": "46",
+      "length": "25m",
+      "airDate": "2016-02-22",
+      "title": {
+        "en": "The Decision"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5517892,
+      "seasonNumber": 2,
+      "episodeNumber": 46,
+      "absoluteEpisodeNumber": 121,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5517892.jpg"
+    },
+    "47": {
+      "episode": "47",
+      "length": "25m",
+      "airDate": "2016-02-29",
+      "title": {
+        "en": "Partnership"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5527136,
+      "seasonNumber": 2,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": 122,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5527136.jpg"
+    },
+    "48": {
+      "episode": "48",
+      "length": "25m",
+      "airDate": "2016-03-07",
+      "title": {
+        "en": "Party Boys"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5536334,
+      "seasonNumber": 2,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": 123,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5536334.jpg"
+    },
+    "49": {
+      "episode": "49",
+      "length": "25m",
+      "airDate": "2016-03-14",
+      "title": {
+        "en": "Just You Wait!"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5542329,
+      "seasonNumber": 2,
+      "episodeNumber": 49,
+      "absoluteEpisodeNumber": 124,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5542329.jpg"
+    },
+    "50": {
+      "episode": "50",
+      "length": "25m",
+      "airDate": "2016-03-21",
+      "title": {
+        "en": "Last Inning"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5554063,
+      "seasonNumber": 2,
+      "episodeNumber": 50,
+      "absoluteEpisodeNumber": 125,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5554063.jpg"
+    },
+    "51": {
+      "episode": "51",
+      "length": "25m",
+      "airDate": "2016-03-28",
+      "title": {
+        "en": "Seek Diamonds"
+      },
+      "tvdbShowId": 273005,
+      "tvdbId": 5557940,
+      "seasonNumber": 2,
+      "episodeNumber": 51,
+      "absoluteEpisodeNumber": 126,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/273005/5557940.jpg"
+    },
+    "OP4": {
+      "episode": "OP4",
+      "length": "2m",
+      "airDate": "2015-04-27",
+      "title": {
+        "en": "Heroes (4-26)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP5": {
+      "episode": "OP5",
+      "length": "2m",
+      "airDate": "2015-10-05",
+      "title": {
+        "en": "Sora ga Aozora de Aru Tame ni (27-51)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED4": {
+      "episode": "ED4",
+      "length": "2m",
+      "airDate": "2015-04-27",
+      "title": {
+        "en": "Kimero!! (4-13)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED5": {
+      "episode": "ED5",
+      "length": "2m",
+      "airDate": "2015-07-06",
+      "title": {
+        "en": "Blue Winding Road (14-26)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED6": {
+      "episode": "ED6",
+      "length": "2m",
+      "airDate": "2015-10-05",
+      "title": {
+        "en": "Bloom of Youth (27-39)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED7": {
+      "episode": "ED7",
+      "length": "2m",
+      "airDate": "2016-01-11",
+      "title": {
+        "en": "Brand New Blue (40-50)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T04:46:54.314Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

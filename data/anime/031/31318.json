@@ -1,0 +1,588 @@
+{
+  "id": 31318,
+  "idMal": 31318,
+  "mappings": {
+    "mal": 31318,
+    "anilist": 21275,
+    "anidb": 11453,
+    "kitsu": 11234,
+    "simkl": 511410,
+    "tmdb": 68256,
+    "tvdb": 299489,
+    "trakt": 101231,
+    "traktType": "shows",
+    "shikimori": 31318,
+    "livechart": 1734,
+    "animeplanet": "comet-lucifer",
+    "anisearch": 10594,
+    "notify": "lGR9pKimg"
+  },
+  "title": {
+    "romaji": "Comet Lucifer",
+    "english": "Comet Lucifer",
+    "native": "コメット・ルシファー",
+    "synonyms": []
+  },
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
+  "episodeLength": 23,
+  "aired": {
+    "from": "2015-10-04T00:00:00+00:00",
+    "to": "2015-12-20T00:00:00+00:00"
+  },
+  "season": "fall",
+  "year": 2015,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 5.83,
+    "anilistScore": 5.4,
+    "kitsuRating": 5.71
+  },
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action",
+    "Mecha",
+    "Other Planet",
+    "Science Fiction",
+    "Space",
+    "Military"
+  ],
+  "studios": [
+    "8bit",
+    "8-bit"
+  ],
+  "producers": [
+    "Bandai Visual",
+    "Lantis",
+    "Bushiroad",
+    "Good Smile Company",
+    "BS11",
+    "Sony PCL"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/3/76111l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21275-OWIrDGBJqPju.jpg",
+    "color": "#f1d65d"
+  },
+  "trailer": null,
+  "synopsis": "In the world of Gift, the bowels of the planet hide a highly sought after crystalline substance known as Giftium. A young boy on Gift named Sougo Amagi inherited his interest in Giftium from his mother, a researcher. As an inhabitant of Garden Indigo, a small and prosperous miner's town, Sougo has many opportunities to forage and collect rare crystals that can only be found there.\n\nHowever, the most exciting treasure that Sougo discovers is not a crystal, but a person. After being pulled into a school quarrel, he plummets into the deep caverns of an old mine. There, in the abysmal depths of the earth, Felia—an enigmatic girl with red eyes and blue hair—emerges from a large crystal. Through this strange first encounter, bonds of friendship are formed between Felia and Sougo. But Felia is being pursued by a secret organization that aims to use her powers for their own benefit, and Sougo and his friends must help her, all while discovering the true nature of this girl from the crystal.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 31827,
+      "title": {
+        "romaji": "Comet Lucifer: Garden Indigo no Shasou kara",
+        "english": null,
+        "native": "コメット・ルシファー ガーデン・インディゴの車窓から"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21491-w6P4lbF2w0LB.jpg",
+      "format": "ONA",
+      "episodes": 12,
+      "seasonYear": 2015,
+      "relationType": "SIDE_STORY"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2015-10-04",
+      "title": {
+        "en": "The Boy and the Vast Land"
+      },
+      "tvdbShowId": 299489,
+      "tvdbId": 5307840,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/299489/5307840.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2015-10-11",
+      "title": {
+        "en": "Under One Roof"
+      },
+      "tvdbShowId": 299489,
+      "tvdbId": 5354716,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/299489/5354716.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2015-10-18",
+      "title": {
+        "en": "Garden Indigo"
+      },
+      "tvdbShowId": 299489,
+      "tvdbId": 5354717,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/299489/5354717.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2015-10-25",
+      "title": {
+        "en": "Storm"
+      },
+      "tvdbShowId": 299489,
+      "tvdbId": 5354718,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/299489/5354718.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2015-11-01",
+      "title": {
+        "en": "Souls Come Together"
+      },
+      "tvdbShowId": 299489,
+      "tvdbId": 5354719,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/299489/5354719.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2015-11-08",
+      "title": {
+        "en": "Flower Boy"
+      },
+      "tvdbShowId": 299489,
+      "tvdbId": 5354720,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/299489/5354720.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2015-11-15",
+      "title": {
+        "en": "Place of Warmth"
+      },
+      "tvdbShowId": 299489,
+      "tvdbId": 5390820,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/299489/5390820.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2015-11-22",
+      "title": {
+        "en": "Path"
+      },
+      "tvdbShowId": 299489,
+      "tvdbId": 5390821,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/299489/5390821.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2015-11-29",
+      "title": {
+        "en": "The Feelings That Must Be Conveyed"
+      },
+      "tvdbShowId": 299489,
+      "tvdbId": 5390822,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/299489/5390822.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2015-12-06",
+      "title": {
+        "en": "The Altar of Abyss"
+      },
+      "tvdbShowId": 299489,
+      "tvdbId": 5390823,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/299489/5390823.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2015-12-13",
+      "title": {
+        "en": "The Fallen Angel"
+      },
+      "tvdbShowId": 299489,
+      "tvdbId": 5390824,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/299489/5390824.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2015-12-20",
+      "title": {
+        "en": "The Boy and the Planet"
+      },
+      "tvdbShowId": 299489,
+      "tvdbId": 5390825,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/299489/5390825.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Episode S1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Episode S2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Episode S3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S4": {
+      "episode": "S4",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Episode S4"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S5": {
+      "episode": "S5",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Episode S5"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S6": {
+      "episode": "S6",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Episode S6"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S7": {
+      "episode": "S7",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Episode S7"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S8": {
+      "episode": "S8",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Episode S8"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S9": {
+      "episode": "S9",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Episode S9"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S10": {
+      "episode": "S10",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Episode S10"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S11": {
+      "episode": "S11",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Episode S11"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S12": {
+      "episode": "S12",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Episode S12"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S13": {
+      "episode": "S13",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Music 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S14": {
+      "episode": "S14",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Music 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S15": {
+      "episode": "S15",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Music 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S16": {
+      "episode": "S16",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Music 4"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "2015-10-03",
+      "title": {
+        "en": "Comet Lucifer: The Seed and the Sower (1-11)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "2015-10-03",
+      "title": {
+        "en": "Oshiete Blue Sky (1-4)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED3": {
+      "episode": "ED3",
+      "length": "2m",
+      "airDate": "2015-11-08",
+      "title": {
+        "en": "Hadashi no Mama demo Kowakunai (6-8)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED5": {
+      "episode": "ED5",
+      "length": "2m",
+      "airDate": "2015-12-06",
+      "title": {
+        "en": "Hitotsu ni Naritai (10-12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T06:04:12.410Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

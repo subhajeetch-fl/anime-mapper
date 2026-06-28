@@ -1,0 +1,107 @@
+{
+  "id": 30514,
+  "idMal": 30514,
+  "mappings": {
+    "mal": 30514,
+    "anilist": 106495,
+    "anidb": null,
+    "kitsu": 10802,
+    "simkl": null,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 30514,
+    "livechart": null,
+    "animeplanet": "nisekoimonogatari",
+    "anisearch": 11392,
+    "notify": "Wg7ltKmmR"
+  },
+  "title": {
+    "romaji": "Nisekoimonogatari",
+    "english": "Nisekoimonogatari",
+    "native": "ニセコイモノガタリ",
+    "synonyms": []
+  },
+  "type": "PV",
+  "source": "Other",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 1,
+  "aired": {
+    "from": "2015-04-01T00:00:00+00:00",
+    "to": "2015-04-01"
+  },
+  "season": "spring",
+  "year": 2015,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.78,
+    "anilistScore": 6.4,
+    "kitsuRating": 6.58
+  },
+  "genres": [
+    "Comedy",
+    "Music",
+    "Shounen"
+  ],
+  "studios": [
+    "Shaft"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1940/121746l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106495-SwXFn0awIBzn.jpg",
+    "color": "#e49350"
+  },
+  "trailer": null,
+  "synopsis": "Trailer for a fake crossover anime created by Shaft as an April Fools' Day joke, celebrating their 40th anniversary.",
+  "sequence": [
+    {
+      "malId": 5081,
+      "title": {
+        "romaji": "Bakemonogatari",
+        "english": "Bakemonogatari",
+        "native": "化物語"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5081-9GocceQ5Z865.jpg",
+      "format": "TV",
+      "episodes": 15,
+      "seasonYear": 2009,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 18897,
+      "title": {
+        "romaji": "Nisekoi",
+        "english": "Nisekoi",
+        "native": "ニセコイ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18897-G2Fx2ZACsXBU.jpg",
+      "format": "TV",
+      "episodes": 20,
+      "seasonYear": 2014,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-06-28T05:09:41.452Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

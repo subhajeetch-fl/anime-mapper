@@ -1,0 +1,124 @@
+{
+  "id": 30290,
+  "idMal": 30290,
+  "mappings": {
+    "mal": 30290,
+    "anilist": 107199,
+    "anidb": 11727,
+    "kitsu": 10851,
+    "simkl": 532106,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 30290,
+    "livechart": 1433,
+    "animeplanet": "fw-hamatora",
+    "anisearch": 10872,
+    "notify": "qNKlpKmiR"
+  },
+  "title": {
+    "romaji": "Fw:Hamatora",
+    "english": null,
+    "native": "Fw：ハマトラ",
+    "synonyms": [
+      "Forward:Hamatora",
+      "Hamatora Movie"
+    ]
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 68,
+  "aired": {
+    "from": "2015-11-14",
+    "to": "2015-11-14"
+  },
+  "season": "fall",
+  "year": 2015,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "G",
+  "score": {
+    "malScore": null,
+    "anilistScore": 6.2,
+    "kitsuRating": 7.29
+  },
+  "genres": [
+    "Comedy",
+    "Mystery",
+    "Super Power"
+  ],
+  "studios": [
+    "Lerche",
+    "10GAUGE"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/10851/original.jpg",
+    "banner": null,
+    "color": "#fea128"
+  },
+  "trailer": null,
+  "synopsis": "Summary movie of Hamatora The Animation and Re:␣Hamatora.",
+  "sequence": [
+    {
+      "malId": 20689,
+      "title": {
+        "romaji": "Hamatora THE ANIMATION",
+        "english": "Hamatora",
+        "native": "ハマトラ THE ANIMATION"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20521-OJZxnuU1uvkN.jpg",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2014,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 23421,
+      "title": {
+        "romaji": "Re:_HAMATORA",
+        "english": "Re: Hamatora",
+        "native": "Re:␣ハマトラ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20711-b641DKQpANPv.png",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2014,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "70m",
+      "airDate": "2015-11-14",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T04:51:15.416Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

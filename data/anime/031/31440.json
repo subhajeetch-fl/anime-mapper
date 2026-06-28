@@ -1,0 +1,119 @@
+{
+  "id": 31440,
+  "idMal": 31440,
+  "mappings": {
+    "mal": 31440,
+    "anilist": 21301,
+    "anidb": null,
+    "kitsu": 11334,
+    "simkl": null,
+    "tmdb": 53020,
+    "tvdb": 262856,
+    "trakt": 67893,
+    "traktType": "shows",
+    "shikimori": 31440,
+    "livechart": 1776,
+    "animeplanet": "teekyuu-6",
+    "anisearch": 10675,
+    "notify": "IWt9pKimg"
+  },
+  "title": {
+    "romaji": "Teekyuu 6",
+    "english": "Teekyuu 6",
+    "native": "てーきゅう6",
+    "synonyms": []
+  },
+  "type": "TV_SHORT",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
+  "episodeLength": 2,
+  "aired": {
+    "from": "2015-10-06",
+    "to": "2015-12-22"
+  },
+  "season": "fall",
+  "year": 2015,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "anilistScore": 6.5,
+    "kitsuRating": 6.54
+  },
+  "genres": [
+    "Comedy",
+    "Sports",
+    "Tennis",
+    "Slapstick",
+    "Absurdist Humour"
+  ],
+  "studios": [
+    "Millepensee"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/11334/original.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21301-wwBAKvoh2G7v.jpg",
+    "color": "#e4d643"
+  },
+  "trailer": null,
+  "synopsis": "Sixth season of the Teekyuu series.",
+  "sequence": [
+    {
+      "malId": 30567,
+      "title": {
+        "romaji": "Teekyuu 5",
+        "english": "Teekyuu 5",
+        "native": "てーきゅう5"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21136-BO2Mz2LPE6ga.png",
+      "format": "TV_SHORT",
+      "episodes": 12,
+      "seasonYear": 2015,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 32228,
+      "title": {
+        "romaji": "Teekyuu 7",
+        "english": "Teekyuu 7",
+        "native": "てーきゅう7"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21513-QrofOTgTEK0b.png",
+      "format": "TV_SHORT",
+      "episodes": 12,
+      "seasonYear": 2016,
+      "relationType": "SEQUEL"
+    },
+    {
+      "malId": 32816,
+      "title": {
+        "romaji": "Teekyuu 6 Specials",
+        "english": "Teekyuu 6 Specials",
+        "native": "てーきゅう　6期　ＴＶ未放送オリジナルエピソードアニメ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98759-f0xHqKgrmu8U.jpg",
+      "format": "SPECIAL",
+      "episodes": 2,
+      "seasonYear": 2016,
+      "relationType": "SIDE_STORY"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-06-28T06:10:17.828Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

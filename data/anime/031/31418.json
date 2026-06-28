@@ -1,0 +1,114 @@
+{
+  "id": 31418,
+  "idMal": 31418,
+  "mappings": {
+    "mal": 31418,
+    "anilist": 21295,
+    "anidb": 11489,
+    "kitsu": 11325,
+    "simkl": 516148,
+    "tmdb": 412383,
+    "tvdb": null,
+    "trakt": 257798,
+    "traktType": "movies",
+    "shikimori": 31418,
+    "livechart": 1770,
+    "animeplanet": "kantai-collection-kan-colle-movie",
+    "anisearch": 10697,
+    "notify": "wtFrtFmiR"
+  },
+  "title": {
+    "romaji": "KanColle Movie",
+    "english": "KanColle Movie",
+    "native": "劇場版 艦これ",
+    "synonyms": [
+      "KanKore Movie"
+    ]
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 93,
+  "aired": {
+    "from": "2016-11-26",
+    "to": "2016-11-26"
+  },
+  "season": "fall",
+  "year": 2016,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "anilistScore": 7.1,
+    "kitsuRating": 7.49
+  },
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "School",
+    "Military",
+    "Slice of Life",
+    "Drama",
+    "Science Fiction",
+    "School Life"
+  ],
+  "studios": [
+    "diomedéa"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/11325/original.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n21295-CS9DwqtHWbMy.jpg",
+    "color": null
+  },
+  "trailer": null,
+  "synopsis": "",
+  "sequence": [
+    {
+      "malId": 21511,
+      "title": {
+        "romaji": "Kantai Collection: KanColle",
+        "english": "KanColle",
+        "native": "艦隊これくしょん -艦これ-"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20553-IwO19mSAgBo4.jpg",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2015,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "95m",
+      "airDate": "2016-11-27",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 279533,
+      "tvdbId": 5319015,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 95,
+      "image": "https://artworks.thetvdb.com/banners/episodes/279533/5319015.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T06:09:09.985Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

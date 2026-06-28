@@ -1,0 +1,119 @@
+{
+  "id": 30668,
+  "idMal": 30668,
+  "mappings": {
+    "mal": 30668,
+    "anilist": 102388,
+    "anidb": 11311,
+    "kitsu": 10934,
+    "simkl": 508808,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 30668,
+    "livechart": 8933,
+    "animeplanet": "walking-man",
+    "anisearch": 10853,
+    "notify": "OqPlpFmmR"
+  },
+  "title": {
+    "romaji": "WALKING MAN",
+    "english": null,
+    "native": "WALKING MAN",
+    "synonyms": [
+      "Scrap Diary 2: Walking Man",
+      "Scrap Diary two"
+    ]
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 6,
+  "aired": {
+    "from": "2002-01-01",
+    "to": "2002-01-01"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "G",
+  "score": {
+    "malScore": null,
+    "anilistScore": 3.2,
+    "kitsuRating": 4.82
+  },
+  "genres": [
+    "Dementia"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/10934/original.jpg",
+    "banner": null,
+    "color": "#e4bba1"
+  },
+  "trailer": null,
+  "synopsis": "Film by Tanaami Keiichi.",
+  "sequence": [
+    {
+      "malId": 22161,
+      "title": {
+        "romaji": "Scrap Diary",
+        "english": null,
+        "native": "スクラップ・ダイアリー"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102387-ooPVZVSCWflE.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 22169,
+      "title": {
+        "romaji": "FETISH DOLL",
+        "english": null,
+        "native": "FETISH DOLL"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102389-QpjFtJ7xbjmr.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "6m",
+      "airDate": "",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T05:16:23.649Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

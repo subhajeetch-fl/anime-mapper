@@ -1,0 +1,200 @@
+{
+  "id": 31853,
+  "idMal": 31853,
+  "mappings": {
+    "mal": 31853,
+    "anilist": 21464,
+    "anidb": 11709,
+    "kitsu": 11454,
+    "simkl": 530346,
+    "tmdb": 400136,
+    "tvdb": null,
+    "trakt": 244489,
+    "traktType": "movies",
+    "shikimori": 31853,
+    "livechart": 1875,
+    "animeplanet": "resident-evil-vendetta",
+    "anisearch": 10827,
+    "notify": "qrWCpKmig"
+  },
+  "title": {
+    "romaji": "Biohazard: Vendetta",
+    "english": "Resident Evil: Vendetta",
+    "native": "バイオハザード ヴェンデッタ",
+    "synonyms": [
+      "Resident Evil: A Vingança"
+    ]
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 97,
+  "aired": {
+    "from": "2017-05-27",
+    "to": "2017-05-27"
+  },
+  "season": "spring",
+  "year": 2017,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "R",
+  "score": {
+    "malScore": null,
+    "anilistScore": 6.6,
+    "kitsuRating": 7.13
+  },
+  "genres": [
+    "Action",
+    "Horror",
+    "Sci-Fi",
+    "Zombies",
+    "Science Fiction",
+    "Zombie"
+  ],
+  "studios": [
+    "Marza Animation Planet"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/11454/original.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21464-JQAzbvO1DKnZ.jpg",
+    "color": null
+  },
+  "trailer": null,
+  "synopsis": "When a fearless enemy out for revenge unleashes a brutal and deadly new virus, BSAA captain Chris Redfield enlists the help of Agent Leon S. Kennedy and Professor Rebecca Chambers to bring down the death merchant and save New York City.",
+  "sequence": [
+    {
+      "malId": 8278,
+      "title": {
+        "romaji": "Biohazard 4: Incubate",
+        "english": null,
+        "native": "バイオハザード4 Incubate"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8278-yZJ6Sd2KvvwC.jpg",
+      "format": "OVA",
+      "episodes": 1,
+      "seasonYear": 2006,
+      "relationType": "OTHER"
+    },
+    {
+      "malId": 54398,
+      "title": {
+        "romaji": "Biohazard: Death Island",
+        "english": "Resident Evil: Death Island",
+        "native": "バイオハザード：デスアイランド"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161441-khY8HUI3vfzX.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2023,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "100m",
+      "airDate": "2017-05-27",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "15m",
+      "airDate": "",
+      "title": {
+        "en": "CGI to Reality - Creature"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "10m",
+      "airDate": "",
+      "title": {
+        "en": "CGI to Reality - Designing Vendetta"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "15m",
+      "airDate": "",
+      "title": {
+        "en": "Motion Capture Set Tour with Dante Carver"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Trailer 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T06:38:00.787Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

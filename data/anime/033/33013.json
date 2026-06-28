@@ -1,0 +1,124 @@
+{
+  "id": 33013,
+  "idMal": 33013,
+  "mappings": {
+    "mal": 33013,
+    "anilist": 98642,
+    "anidb": 12022,
+    "kitsu": 12055,
+    "simkl": 571308,
+    "tmdb": 66104,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 33013,
+    "livechart": 2108,
+    "animeplanet": "super-lovers-ova",
+    "anisearch": 11262,
+    "notify": "x3Q6pKiig"
+  },
+  "title": {
+    "romaji": "Super Lovers OVA",
+    "english": null,
+    "native": "スーパーラヴァーズ OVA",
+    "synonyms": []
+  },
+  "type": "OVA",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 2,
+  "episodeLength": 23,
+  "aired": {
+    "from": "2017-01-01",
+    "to": "2017-09-01"
+  },
+  "season": "winter",
+  "year": 2017,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "anilistScore": 6.7,
+    "kitsuRating": 7.71
+  },
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Shounen Ai",
+    "Slice of Life"
+  ],
+  "studios": [
+    "Studio DEEN"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/12055/original.jpg",
+    "banner": null,
+    "color": "#6b501a"
+  },
+  "trailer": null,
+  "synopsis": "Bundled with manga's tenth and eleventh volume.",
+  "sequence": [
+    {
+      "malId": 31680,
+      "title": {
+        "romaji": "Super Lovers",
+        "english": "SUPER LOVERS",
+        "native": "スーパーラヴァーズ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21177-WCEfrZj2L7Of.jpg",
+      "format": "TV",
+      "episodes": 10,
+      "seasonYear": 2016,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "20m",
+      "airDate": "2017-01-01",
+      "title": {
+        "en": "Volume 1"
+      },
+      "tvdbShowId": 305101,
+      "tvdbId": 5568787,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/305101/5568787.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "20m",
+      "airDate": "2017-09-01",
+      "title": {
+        "en": "Volume 2"
+      },
+      "tvdbShowId": 305101,
+      "tvdbId": 5899550,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/episodes/305101/5899550.jpg"
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T07:53:23.271Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

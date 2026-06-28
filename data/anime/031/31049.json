@@ -1,0 +1,922 @@
+{
+  "id": 31049,
+  "idMal": 31049,
+  "mappings": {
+    "mal": 31049,
+    "anilist": 21236,
+    "anidb": 11291,
+    "kitsu": 11113,
+    "simkl": 503488,
+    "tmdb": 67667,
+    "tvdb": 339076,
+    "trakt": 125972,
+    "traktType": "shows",
+    "shikimori": 31049,
+    "livechart": 1665,
+    "animeplanet": "beyblade-burst",
+    "anisearch": 10543,
+    "notify": "QohupFmmg"
+  },
+  "title": {
+    "romaji": "Beyblade Burst",
+    "english": null,
+    "native": "ベイブレードバースト",
+    "synonyms": []
+  },
+  "type": "TV",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 51,
+  "episodeLength": 24,
+  "aired": {
+    "from": "2016-04-04T00:00:00+00:00",
+    "to": "2017-03-27T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 2016,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "17:55",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 6.72,
+    "anilistScore": 6.6,
+    "kitsuRating": 6.67
+  },
+  "genres": [
+    "Adventure",
+    "Sci-Fi",
+    "Sports",
+    "Action",
+    "Friendship",
+    "Science Fiction"
+  ],
+  "studios": [
+    "OLM"
+  ],
+  "producers": [
+    "TV Tokyo",
+    "d-rights"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/13/78786l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21236-MOfj4yGKUvQR.jpg",
+    "color": "#e4865d"
+  },
+  "trailer": null,
+  "synopsis": "The story revolves around Valt Aoi and Shu Kurenai as well as their teammates, Rantaro Kiyama, Daina Kurogami and Wakiya Komurasaki at the Beigoma Academy school in Japan. When not studying, the close friends are obsessed with their Beyblade, creating a school bey club later in the season and challenging each other to battles at their Bey Stadium. The friends eventually become friendly rivals as they compete against each other in a competition to claim the title of Japan’s top Blader.\n\n(Source: Beyblade Wiki)",
+  "sequence": [
+    {
+      "malId": 288,
+      "title": {
+        "romaji": "Bakuten Shoot Beyblade",
+        "english": "Beyblade",
+        "native": "爆転シュート　ベイブレード"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b288-QLBdXz8n34yP.png",
+      "format": "TV",
+      "episodes": 51,
+      "seasonYear": 2001,
+      "relationType": "OTHER"
+    },
+    {
+      "malId": null,
+      "title": {
+        "romaji": "BeyWheelz",
+        "english": "BeyWheelz: Powered by Beyblade",
+        "native": "ベイウィールズ "
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136668-VZgOHmlPWZ8l.jpg",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2012,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 34901,
+      "title": {
+        "romaji": "Beyblade Burst God",
+        "english": "Beyblade Burst Evolution",
+        "native": "ベイブレードバースト 神[ゴッド]"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98289-JS2P2rGuzKNk.jpg",
+      "format": "TV",
+      "episodes": 51,
+      "seasonYear": 2017,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2016-04-04",
+      "title": {
+        "en": "Let`s Go! Valtryek!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6448021,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6448021.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2016-04-11",
+      "title": {
+        "en": "Kerbeus: Guard Dog of the Underworld!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6448022,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6448022.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2016-04-18",
+      "title": {
+        "en": "Blast Off! Rush Launch!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6448023,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6448023.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2016-04-25",
+      "title": {
+        "en": "Beyblade Club: Let`s Get Started!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6448024,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6448024.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2016-05-02",
+      "title": {
+        "en": "Into the Darkness! Dark Doomscizor!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6448026,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6448026.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2016-05-09",
+      "title": {
+        "en": "Get Ready! Crash Course"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6448027,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6448027.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2016-05-16",
+      "title": {
+        "en": "The Flash Launch! It`s Crazy Fast!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6448028,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6448028.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2016-05-23",
+      "title": {
+        "en": "A Powerful Opponent! Hyper Horusood!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6448030,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6448030.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2016-05-30",
+      "title": {
+        "en": "Wyvron in the Way!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6448032,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6448032.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2016-06-06",
+      "title": {
+        "en": "Get Over It! Trust in Valtryek!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6448035,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6448035.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2016-06-13",
+      "title": {
+        "en": "Spryzen`s Despair!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6448037,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6448037.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2016-06-20",
+      "title": {
+        "en": "Shield Crash Menace!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6448039,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6448039.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2016-06-27",
+      "title": {
+        "en": "Shu`s Test!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6448041,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6448041.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "2016-07-04",
+      "title": {
+        "en": "The Battle We Promised!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6448044,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6448044.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "2016-07-11",
+      "title": {
+        "en": "A Fierce Battle! Valtryek Versus Spryzen!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6599058,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6599058.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "2016-07-18",
+      "title": {
+        "en": "A Group Lesson! Shakadera Special!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6599060,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6599060.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "2016-07-25",
+      "title": {
+        "en": "Extreme Xcalius!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6599061,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6599061.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "2016-08-01",
+      "title": {
+        "en": "Team Battle! It`s off the Hook!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6599062,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6599062.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "2016-08-08",
+      "title": {
+        "en": "Roktavor vs Unicrest!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6599063,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/series/339076/episodes/5f4b2926cc18d.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "2016-08-15",
+      "title": {
+        "en": "Bring It Together! Chain Launch!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6604944,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6604944.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "2016-08-22",
+      "title": {
+        "en": "A Battle of Friendship!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6608060,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6608060.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "2016-08-29",
+      "title": {
+        "en": "Valtryek Awakens!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6615145,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6615145.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "2016-09-05",
+      "title": {
+        "en": "Lonely Doomscizor!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6627256,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6627256.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "2016-09-12",
+      "title": {
+        "en": "Full Strength, for Real!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6628786,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6628786.jpg"
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "2016-09-19",
+      "title": {
+        "en": "The Mysterious Masked Blader!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6640893,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6640893.jpg"
+    },
+    "26": {
+      "episode": "26",
+      "length": "25m",
+      "airDate": "2016-09-26",
+      "title": {
+        "en": "Let`s Do This Thing! On to Nationals!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6640894,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6640894.jpg"
+    },
+    "27": {
+      "episode": "27",
+      "length": "25m",
+      "airDate": "2016-10-03",
+      "title": {
+        "en": "Training Camp! The Biting Stadium!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6649788,
+      "seasonNumber": 1,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6649788.jpg"
+    },
+    "28": {
+      "episode": "28",
+      "length": "25m",
+      "airDate": "2016-10-10",
+      "title": {
+        "en": "Mountains! Rivers! A Huge Stormy Adventure!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6649789,
+      "seasonNumber": 1,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/episodes/339076/6649789.jpg"
+    },
+    "29": {
+      "episode": "29",
+      "length": "25m",
+      "airDate": "2016-10-17",
+      "title": {
+        "en": "Eye on the Prize!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6658020,
+      "seasonNumber": 1,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6658020/screencap/65d4cf8055733.jpg"
+    },
+    "30": {
+      "episode": "30",
+      "length": "25m",
+      "airDate": "2016-10-24",
+      "title": {
+        "en": "The Winged Snake! Quetziko!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6660479,
+      "seasonNumber": 1,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6660479/screencap/65d4cfd84f03a.jpg"
+    },
+    "31": {
+      "episode": "31",
+      "length": "25m",
+      "airDate": "2016-10-31",
+      "title": {
+        "en": "Teachings of a Legend!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6788018,
+      "seasonNumber": 1,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6788018/screencap/65d4d013e34ff.jpg"
+    },
+    "32": {
+      "episode": "32",
+      "length": "25m",
+      "airDate": "2016-11-07",
+      "title": {
+        "en": "Cyclone Power!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6788019,
+      "seasonNumber": 1,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6788019/screencap/65d4d057b351e.jpg"
+    },
+    "33": {
+      "episode": "33",
+      "length": "25m",
+      "airDate": "2016-11-14",
+      "title": {
+        "en": "Mega Flames! Dual Sabers!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6795596,
+      "seasonNumber": 1,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6795596/screencap/65d4d089f1076.jpg"
+    },
+    "34": {
+      "episode": "34",
+      "length": "25m",
+      "airDate": "2016-11-21",
+      "title": {
+        "en": "The Beasts Bare Their Fangs!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6799428,
+      "seasonNumber": 1,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6799428/screencap/65d4d0a981eaa.jpg"
+    },
+    "35": {
+      "episode": "35",
+      "length": "25m",
+      "airDate": "2016-11-28",
+      "title": {
+        "en": "Primal Attack! Beast Betromoth!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6805847,
+      "seasonNumber": 1,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6805847/screencap/65d4d0d3154fc.jpg"
+    },
+    "36": {
+      "episode": "36",
+      "length": "25m",
+      "airDate": "2016-12-05",
+      "title": {
+        "en": "Rideout Rising!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6805848,
+      "seasonNumber": 1,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6805848/screencap/65d4d12935aea.jpg"
+    },
+    "37": {
+      "episode": "37",
+      "length": "25m",
+      "airDate": "2016-12-12",
+      "title": {
+        "en": "Next Stop, Team Finals!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6812837,
+      "seasonNumber": 1,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 37,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6812837/screencap/65d4d15ced749.jpg"
+    },
+    "38": {
+      "episode": "38",
+      "length": "25m",
+      "airDate": "2016-12-19",
+      "title": {
+        "en": "Battle to the Finish! Lost Luinor"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6812838,
+      "seasonNumber": 1,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 38,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6812838/screencap/65d4d184a12ad.jpg"
+    },
+    "39": {
+      "episode": "39",
+      "length": "25m",
+      "airDate": "2016-12-26",
+      "title": {
+        "en": "Into the Vortex! Lost Spiral!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6827828,
+      "seasonNumber": 1,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": 39,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6827828/screencap/65d4d1c62c292.jpg"
+    },
+    "40": {
+      "episode": "40",
+      "length": "25m",
+      "airDate": "2017-01-09",
+      "title": {
+        "en": "All In! Going Solo!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6827829,
+      "seasonNumber": 1,
+      "episodeNumber": 40,
+      "absoluteEpisodeNumber": 40,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6827829/screencap/65d4d215a6a0b.jpg"
+    },
+    "41": {
+      "episode": "41",
+      "length": "25m",
+      "airDate": "2017-01-16",
+      "title": {
+        "en": "Nepstrius` Trap!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6829336,
+      "seasonNumber": 1,
+      "episodeNumber": 41,
+      "absoluteEpisodeNumber": 41,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6829336/screencap/65d4d27d21b2a.jpg"
+    },
+    "42": {
+      "episode": "42",
+      "length": "25m",
+      "airDate": "2017-01-23",
+      "title": {
+        "en": "Jumbo Jormuntor! The Venomous Snake!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6837269,
+      "seasonNumber": 1,
+      "episodeNumber": 42,
+      "absoluteEpisodeNumber": 42,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6837269/screencap/65d4d2ab5761d.jpg"
+    },
+    "43": {
+      "episode": "43",
+      "length": "25m",
+      "airDate": "2017-01-30",
+      "title": {
+        "en": "Winged Launch!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6837271,
+      "seasonNumber": 1,
+      "episodeNumber": 43,
+      "absoluteEpisodeNumber": 43,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6837271/screencap/65d4d2d7e86c5.jpg"
+    },
+    "44": {
+      "episode": "44",
+      "length": "25m",
+      "airDate": "2017-02-06",
+      "title": {
+        "en": "Roar! Battle of the Beasts!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6838990,
+      "seasonNumber": 1,
+      "episodeNumber": 44,
+      "absoluteEpisodeNumber": 44,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6838990/screencap/65d4d2f4ba32f.jpg"
+    },
+    "45": {
+      "episode": "45",
+      "length": "25m",
+      "airDate": "2017-02-13",
+      "title": {
+        "en": "Spryzen vs. Wyvron"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6847932,
+      "seasonNumber": 1,
+      "episodeNumber": 45,
+      "absoluteEpisodeNumber": 45,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6847932/screencap/65d4d345a661c.jpg"
+    },
+    "46": {
+      "episode": "46",
+      "length": "25m",
+      "airDate": "2017-02-20",
+      "title": {
+        "en": "Battle for the Top! Valt vs Xander!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6847933,
+      "seasonNumber": 1,
+      "episodeNumber": 46,
+      "absoluteEpisodeNumber": 46,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6847933/screencap/65d4d37191375.jpg"
+    },
+    "47": {
+      "episode": "47",
+      "length": "25m",
+      "airDate": "2017-02-27",
+      "title": {
+        "en": "Star Battle!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6854485,
+      "seasonNumber": 1,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": 47,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6854485/screencap/65d4d3b26d8f9.jpg"
+    },
+    "48": {
+      "episode": "48",
+      "length": "25m",
+      "airDate": "2017-03-06",
+      "title": {
+        "en": "Semi-Finals! Spin Versus Speed!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6854643,
+      "seasonNumber": 1,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": 48,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6854643/screencap/65d4d3cf12139.jpg"
+    },
+    "49": {
+      "episode": "49",
+      "length": "25m",
+      "airDate": "2017-03-13",
+      "title": {
+        "en": "Old Rivals! Lui Versus Shu!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6861132,
+      "seasonNumber": 1,
+      "episodeNumber": 49,
+      "absoluteEpisodeNumber": 49,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6861132/screencap/65d4d3fd39523.jpg"
+    },
+    "50": {
+      "episode": "50",
+      "length": "25m",
+      "airDate": "2017-03-20",
+      "title": {
+        "en": "Overthrowing the King!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6861133,
+      "seasonNumber": 1,
+      "episodeNumber": 50,
+      "absoluteEpisodeNumber": 50,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6861133/screencap/65d4d47e58d9c.jpg"
+    },
+    "51": {
+      "episode": "51",
+      "length": "25m",
+      "airDate": "2017-03-27",
+      "title": {
+        "en": "Final Showdown! Victory Valtryek!"
+      },
+      "tvdbShowId": 339076,
+      "tvdbId": 6861134,
+      "seasonNumber": 1,
+      "episodeNumber": 51,
+      "absoluteEpisodeNumber": 51,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6861134/screencap/65d4d4c2a83bd.jpg"
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "2016-04-04",
+      "title": {
+        "en": "Burst Finish! (1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "2016-04-04",
+      "title": {
+        "en": "Believe (1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T05:47:26.912Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

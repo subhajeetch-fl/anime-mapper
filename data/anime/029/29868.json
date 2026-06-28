@@ -1,0 +1,169 @@
+{
+  "id": 29868,
+  "idMal": 29868,
+  "mappings": {
+    "mal": 29868,
+    "anilist": 21323,
+    "anidb": 11341,
+    "kitsu": 10391,
+    "simkl": 506518,
+    "tmdb": 393528,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 29868,
+    "livechart": 1392,
+    "animeplanet": "go-princess-pretty-cure-movie-go-go-grand-3-part-movie",
+    "anisearch": 10520,
+    "notify": "X0t8tFiig"
+  },
+  "title": {
+    "romaji": "Go! Princess Precure: Go! Go!! Gouka 3-bon Date!!!",
+    "english": null,
+    "native": "Go!プリンセスプリキュア　Go!Go!!豪華3本立て!!!",
+    "synonyms": []
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 75,
+  "aired": {
+    "from": "2015-10-31",
+    "to": "2015-10-31"
+  },
+  "season": "fall",
+  "year": 2015,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "G",
+  "score": {
+    "malScore": null,
+    "anilistScore": 6.4,
+    "kitsuRating": 7.13
+  },
+  "genres": [
+    "Fantasy",
+    "Mahou Shoujo",
+    "Magic",
+    "Kids",
+    "Magical Girl"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/10391/original.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21323-yISRgeoKOXEw.jpg",
+    "color": "#e4ae5d"
+  },
+  "trailer": null,
+  "synopsis": "Part 1, Cure Flora to Itazura Kagami, is a dialogue-less story featuring Cure Flora and a mischievous ghost in a mirror.\nPart 2, Pumpkin Oukoku no Takaramono, features the four Precure girls from Go! Princess Precure trying to rescue a princess who is held captive.\nPart 3, Precure to Refi no Wonder Night!, is set when the Night Kingdom lost its daytime. The Precure team fight to take the daytime back alongside the princess Refi.\n(Source: Crunchyroll, Edited)",
+  "sequence": [
+    {
+      "malId": 28669,
+      "title": {
+        "romaji": "Go! Princess Precure",
+        "english": "Go! Princess Precure",
+        "native": "Go!プリンセスプリキュア"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21001-49nYJTr7Wnsu.jpg",
+      "format": "TV",
+      "episodes": 50,
+      "seasonYear": 2015,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "6m",
+      "airDate": "2015-10-31",
+      "title": {
+        "en": "Cure Flora and the Mischevous Mirror"
+      },
+      "tvdbShowId": 291565,
+      "tvdbId": 5296083,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/series/291565/episodes/5f74b189b2e0a.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "50m",
+      "airDate": "2016-01-16",
+      "title": {
+        "en": "The Pumpkin Kingdom`s Treasure"
+      },
+      "tvdbShowId": 291565,
+      "tvdbId": 9082621,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 1,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9082621/screencap/6244c69516772.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "20m",
+      "airDate": "2015-10-31",
+      "title": {
+        "en": "Precure and Refi`s Wonder Night!"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C1": {
+      "episode": "C1",
+      "length": "2m",
+      "airDate": "2015-10-31",
+      "title": {
+        "en": "Opening"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C2": {
+      "episode": "C2",
+      "length": "2m",
+      "airDate": "2015-10-31",
+      "title": {
+        "en": "Ending"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T04:09:18.664Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}

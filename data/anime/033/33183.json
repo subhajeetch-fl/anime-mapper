@@ -1,0 +1,164 @@
+{
+  "id": 33183,
+  "idMal": 33183,
+  "mappings": {
+    "mal": 33183,
+    "anilist": 98746,
+    "anidb": 12269,
+    "kitsu": 12080,
+    "simkl": 599927,
+    "tmdb": 445871,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 33183,
+    "livechart": 2096,
+    "animeplanet": "mahou-tsukai-pretty-cure-movie-kiseki-no-henshin-cure-mofurun",
+    "anisearch": 11598,
+    "notify": "c1CepFmig"
+  },
+  "title": {
+    "romaji": "Mahoutsukai Precure! Kiseki no Henshin! Cure Mofurun!",
+    "english": null,
+    "native": "魔法つかいプリキュア！奇跡の変身！キュアモフルン！",
+    "synonyms": [
+      "Maho Girls PreCure! the Movie: The Miraculous Transformation! Cure Mofurun!"
+    ]
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 1,
+  "aired": {
+    "from": "2016-10-29T00:00:00+00:00",
+    "to": "2016-10-29"
+  },
+  "season": "fall",
+  "year": 2016,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 7.47,
+    "anilistScore": 7.4,
+    "kitsuRating": 7.38
+  },
+  "genres": [
+    "Action",
+    "Slice of Life",
+    "Adventure",
+    "Fantasy",
+    "Mahou Shoujo",
+    "Magic",
+    "School",
+    "School Life",
+    "Magical Girl"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [
+    "ABC Animation",
+    "Kinoshita Group Holdings"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/4/84453l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98746-ZOLmgL7ST9B6.jpg",
+    "color": "#f1ff35"
+  },
+  "trailer": null,
+  "synopsis": "Toei Animation has announced that a movie for Mahoutsukai! Precure will premiere in October 2016.",
+  "sequence": [
+    {
+      "malId": 31884,
+      "title": {
+        "romaji": "Mahoutsukai Precure!",
+        "english": "Witchy Precure!",
+        "native": "魔法つかいプリキュア！"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21506-hcLdwWKY4uyt.jpg",
+      "format": "TV",
+      "episodes": 50,
+      "seasonYear": 2016,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 33669,
+      "title": {
+        "romaji": "Cure Miracle to Mofurun no Mahou Lesson",
+        "english": null,
+        "native": "キュアミラクルとモフルンの魔法レッスン"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98785-rY1DTCtVvmwT.jpg",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "seasonYear": 2016,
+      "relationType": "SPIN_OFF"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "75m",
+      "airDate": "2016-10-29",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 304476,
+      "tvdbId": 5999360,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 105,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "2016-10-29",
+      "title": {
+        "en": "Dokkin Mahoutsukai Precure! Part 2 (1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "2016-10-29",
+      "title": {
+        "en": "Mahou a La Domo! (1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T08:07:59.226Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

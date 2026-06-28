@@ -1,0 +1,130 @@
+{
+  "id": 33025,
+  "idMal": 33025,
+  "mappings": {
+    "mal": 33025,
+    "anilist": 21750,
+    "anidb": 12033,
+    "kitsu": 12003,
+    "simkl": 571652,
+    "tmdb": 412381,
+    "tvdb": null,
+    "trakt": 257795,
+    "traktType": "movies",
+    "shikimori": 33025,
+    "livechart": 2114,
+    "animeplanet": "majestic-prince-movie-kakusei-no-idenshiko",
+    "anisearch": 11395,
+    "notify": "IAJetFimg"
+  },
+  "title": {
+    "romaji": "Ginga Kikoutai Majestic Prince Movie: Kakusei no Idenshi",
+    "english": "Majestic Prince: Genetic Awakening",
+    "native": "劇場版 銀河機攻隊 マジェスティックプリンス 覚醒の遺伝子",
+    "synonyms": [
+      "劇場版マジェスティックプリンス",
+      "Gekijouban Ginga Kikoutai Majestic Prince"
+    ]
+  },
+  "type": "MOVIE",
+  "source": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 77,
+  "aired": {
+    "from": "2016-11-04",
+    "to": "2016-11-04"
+  },
+  "season": "fall",
+  "year": 2016,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG",
+  "score": {
+    "malScore": null,
+    "anilistScore": 6.6,
+    "kitsuRating": 7.25
+  },
+  "genres": [
+    "Action",
+    "Mecha",
+    "Sci-Fi",
+    "Space",
+    "School",
+    "Science Fiction",
+    "School Life"
+  ],
+  "studios": [
+    "Orange",
+    "Seven Arcs"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://media.kitsu.app/anime/poster_images/12003/original.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21750-eLbrebWb77O0.jpg",
+    "color": "#a1c9e4"
+  },
+  "trailer": null,
+  "synopsis": "A new film was announced at AnimeJapan 2016 and is scheduled to premiere this fall with a completely new story.\n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 33024,
+      "title": {
+        "romaji": "Ginga Kikoutai Majestic Prince: Mirai e no Tsubasa",
+        "english": "Majestic Prince: Wings to the Future",
+        "native": "銀河機攻隊 マジェスティックプリンス 未来への翼"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21752-aWk8YXvQ2vH2.jpg",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "seasonYear": 2016,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "80m",
+      "airDate": "2016-11-04",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "4m",
+      "airDate": "2016-11-04",
+      "title": {
+        "en": "Kienai Sora (1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T07:54:10.346Z",
+    "sourcesUsed": [
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "jikan"
+    ],
+    "dataVersion": 1
+  }
+}
