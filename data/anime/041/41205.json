@@ -1,0 +1,131 @@
+{
+  "id": 41205,
+  "idMal": 41205,
+  "mappings": {
+    "mal": 41205,
+    "anilist": 115082,
+    "anidb": 15378,
+    "kitsu": 42994,
+    "simkl": 1252159,
+    "tmdb": 729067,
+    "tvdb": null,
+    "trakt": 571395,
+    "traktType": "movies",
+    "shikimori": 41205,
+    "livechart": 9786,
+    "animeplanet": "the-magnificent-kotobuki-kanzenban",
+    "anisearch": 15009,
+    "notify": "B7nFly8Wg"
+  },
+  "title": {
+    "romaji": "Kouya no Kotobuki Hikoutai: Kanzenban",
+    "english": "The Magnificent Kotobuki",
+    "native": "荒野のコトブキ飛行隊 完全版",
+    "synonyms": [
+      "The Kotobuki Squadron in the Wilderness",
+      "The Magnificent KOTOBUKI: Complete Edition"
+    ]
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": null,
+  "aired": {
+    "from": "2020-09-11T00:00:00+00:00",
+    "to": "2020-10-01"
+  },
+  "season": "summer",
+  "year": 2020,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.42,
+    "anilistScore": 5.2,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Military"
+  ],
+  "studios": [
+    "WAO World",
+    "GEMBA"
+  ],
+  "producers": [
+    "Bandai Namco Arts"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1264/111423l.jpg",
+    "banner": null,
+    "color": "#e4ae43"
+  },
+  "trailer": null,
+  "synopsis": "Compilation film with new content.",
+  "sequence": [
+    {
+      "malId": 38301,
+      "title": {
+        "romaji": "Kouya no Kotobuki Hikoutai",
+        "english": "The Magnificent KOTOBUKI",
+        "native": "荒野のコトブキ飛行隊"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104253-jvvztQBrpDnH.jpg",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2019,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "120m",
+      "airDate": "2020-09-11",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 354636,
+      "tvdbId": 9068571,
+      "seasonNumber": 0,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 120,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "5m",
+      "airDate": "2020-09-11",
+      "title": {
+        "en": "Ending"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-29T09:21:56.682Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

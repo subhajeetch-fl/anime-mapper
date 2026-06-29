@@ -1,0 +1,134 @@
+{
+  "id": 42791,
+  "idMal": 42791,
+  "mappings": {
+    "mal": 42791,
+    "anilist": 123612,
+    "anidb": 15710,
+    "kitsu": 44853,
+    "simkl": 1423555,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 42791,
+    "livechart": 10132,
+    "animeplanet": "sakura-kakumei-hana-saku-otome-tachi",
+    "anisearch": 15660,
+    "notify": null
+  },
+  "title": {
+    "romaji": "Sakura Kakumei: Hanasaku Otome-tachi",
+    "english": null,
+    "native": "サクラ革命 ～華咲く乙女たち～",
+    "synonyms": [
+      "Sakura Revolution - Flower Blooming Midens"
+    ]
+  },
+  "type": "ONA",
+  "source": "Game",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 23,
+  "aired": {
+    "from": "2020-09-02T00:00:00+00:00",
+    "to": "2020-09-02"
+  },
+  "season": "summer",
+  "year": 2020,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 5.85,
+    "anilistScore": 5.4,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Action",
+    "Mecha",
+    "Piloted Robot",
+    "Robot",
+    "Power Suit",
+    "Japan",
+    "Alternative Past"
+  ],
+  "studios": [
+    "CloverWorks"
+  ],
+  "producers": [
+    "Half H.P Studio",
+    "Imagine"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1651/110195l.jpg",
+    "banner": null,
+    "color": "#f12893"
+  },
+  "trailer": null,
+  "synopsis": "A special anime based on the beginning of iOS/Android RPG by the same name.\n\n(Source: AniDB)",
+  "sequence": [
+    {
+      "malId": 561,
+      "title": {
+        "romaji": "Sakura Taisen",
+        "english": "Sakura Wars",
+        "native": "サクラ大戦"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx561-ke7B6XcWEI3Y.png",
+      "format": "TV",
+      "episodes": 25,
+      "seasonYear": 2000,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2020-09-02",
+      "title": {
+        "en": "Web"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "2020-09-02",
+      "title": {
+        "en": "Sakura Hikaru Revolution (1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-29T10:15:27.039Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

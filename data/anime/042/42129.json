@@ -1,0 +1,133 @@
+{
+  "id": 42129,
+  "idMal": 42129,
+  "mappings": {
+    "mal": 42129,
+    "anilist": 119258,
+    "anidb": 15585,
+    "kitsu": 43343,
+    "simkl": 1360789,
+    "tmdb": 711683,
+    "tvdb": null,
+    "trakt": 554593,
+    "traktType": "movies",
+    "shikimori": 42129,
+    "livechart": 9998,
+    "animeplanet": "bem-movie-become-human",
+    "anisearch": 15361,
+    "notify": "e9VQESmGR"
+  },
+  "title": {
+    "romaji": "BEM: BECOME HUMAN",
+    "english": "BEM: Become Human",
+    "native": "劇場版BEM～BECOME HUMAN～",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 90,
+  "aired": {
+    "from": "2020-10-02T00:00:00+00:00",
+    "to": "2020-10-02"
+  },
+  "season": "fall",
+  "year": 2020,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.81,
+    "anilistScore": 6.4,
+    "kitsuRating": 7.11
+  },
+  "genres": [
+    "Action",
+    "Horror",
+    "Supernatural",
+    "Demon"
+  ],
+  "studios": [
+    "Production I.G"
+  ],
+  "producers": [
+    "TV Tokyo",
+    "Pony Canyon",
+    "KlockWorx",
+    "flying DOG",
+    "Glovision",
+    "ADK"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1078/108925l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/119258-b5TORN35YBN9.jpg",
+    "color": "#f15d50"
+  },
+  "trailer": null,
+  "synopsis": "Take place 2 years after the last episode of the TV series.\n\nDetective Sonia Summers are tracking Bem and the others. She reunited with Belo, who is fighting a dark organization alone. He brought her to Bem, but Bem doesn't remember anything and living in the city as an ordinary employee... or that is what he thought he was.",
+  "sequence": [
+    {
+      "malId": 39221,
+      "title": {
+        "romaji": "BEM",
+        "english": "BEM",
+        "native": "BEM"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107876-dzJ7Cur0Xzka.png",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2019,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "90m",
+      "airDate": "2020-10-02",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "4m",
+      "airDate": "2020-10-02",
+      "title": {
+        "en": "Unforever (1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-29T09:51:14.179Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

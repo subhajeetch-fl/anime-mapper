@@ -1,0 +1,139 @@
+{
+  "id": 43780,
+  "idMal": 43780,
+  "mappings": {
+    "mal": 43780,
+    "anilist": 125931,
+    "anidb": 15843,
+    "kitsu": 43774,
+    "simkl": 1573459,
+    "tmdb": 877840,
+    "tvdb": null,
+    "trakt": 702498,
+    "traktType": "movies",
+    "shikimori": 43780,
+    "livechart": 10215,
+    "animeplanet": "sumikko-gurashi-movie-2",
+    "anisearch": 16259,
+    "notify": "ylirevYMg"
+  },
+  "title": {
+    "romaji": "Sumikko Gurashi Movie: Aoi Tsukiyo no Mahou no Ko",
+    "english": "Sumikkogurashi: The Little Wizard in the Blue Moonlight",
+    "native": "映画 すみっコぐらし 青い月夜のまほうのコ",
+    "synonyms": [
+      "映画すみっコぐらし2",
+      "Eiga Sumikko Gurashi 2"
+    ]
+  },
+  "type": "Movie",
+  "source": "Other",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 65,
+  "aired": {
+    "from": "2021-11-05T00:00:00+00:00",
+    "to": "2021-11-05"
+  },
+  "season": "fall",
+  "year": 2021,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.66,
+    "anilistScore": 5.6,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "studios": [
+    "Fanworks"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1929/117643l.jpg",
+    "banner": null,
+    "color": "#35a1e4"
+  },
+  "trailer": null,
+  "synopsis": null,
+  "sequence": [
+    {
+      "malId": 39250,
+      "title": {
+        "romaji": "Sumikko Gurashi Movie: Tobidasu Ehon to Himitsu no Ko",
+        "english": "Sumikkogurashi: Good to be in the corner",
+        "native": "映画 すみっコぐらし とびだす絵本とひみつのコ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111905-swBwJg1nkMDB.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2019,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 53936,
+      "title": {
+        "romaji": "Sumikko Gurashi Movie: Tsugihagi Koujou no Fushigina Ko",
+        "english": "Sumikkogurashi: The Patched-Up Factory in the Woods",
+        "native": "映画 すみっコぐらし ツギハギ工場のふしぎなコ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169296-Hct1En4Zautm.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2023,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "65m",
+      "airDate": "2021-11-05",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "2021-07-13",
+      "title": {
+        "en": "PV 1 (0:30)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-29T11:32:31.074Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

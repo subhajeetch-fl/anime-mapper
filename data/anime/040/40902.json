@@ -1,0 +1,514 @@
+{
+  "id": 40902,
+  "idMal": 40902,
+  "mappings": {
+    "mal": 40902,
+    "anilist": 114043,
+    "anidb": 15319,
+    "kitsu": 42921,
+    "simkl": 1228845,
+    "tmdb": 62273,
+    "tvdb": 289909,
+    "trakt": 94084,
+    "traktType": "shows",
+    "shikimori": 40902,
+    "livechart": 9725,
+    "animeplanet": "food-wars-the-fifth-plate",
+    "anisearch": 15006,
+    "notify": "dVFVtrYWg"
+  },
+  "title": {
+    "romaji": "Shokugeki no Souma: Gou no Sara",
+    "english": "Food Wars! The Fifth Plate",
+    "native": "食戟のソーマ 豪ノ皿",
+    "synonyms": [
+      "Shokugeki no Soma 5th Season",
+      "食戟之灵：豪之皿",
+      "ยอดนักปรุงโซมะ ภาค 5"
+    ]
+  },
+  "type": "TV",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 13,
+  "episodeLength": 23,
+  "aired": {
+    "from": "2020-04-11T00:00:00+00:00",
+    "to": "2020-09-26T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 2020,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.31,
+    "anilistScore": 7.2,
+    "kitsuRating": 7.44
+  },
+  "genres": [
+    "Gourmet",
+    "Ecchi",
+    "Comedy",
+    "Drama",
+    "School Life",
+    "Cooking",
+    "Shounen",
+    "Action"
+  ],
+  "studios": [
+    "J.C.Staff"
+  ],
+  "producers": [
+    "Warner Bros. Japan",
+    "KlockWorx",
+    "Shueisha",
+    "Bandai Namco Arts"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1756/108000l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114043-5RRtoLPrzQ0P.jpg",
+    "color": "#1a78ae"
+  },
+  "trailer": null,
+  "synopsis": "Thanks to Souma Yukihira, Erina Nakiri, and the rebel forces overthrowing the regime of Azami Nakiri—the previous school director—and the former Elite Ten, Tootsuki Culinary Academy is back in order. However, its students have one more great battle ahead of them: the BLUE, a competition where young chefs seeking world-class fame compete. Faced with new trials and rivals, Souma and his friends will fight to conquer the BLUE and to defeat Asahi Saiba, the leader of an underworld organization of chefs known as Noir, who once defeated Souma and his father in a Shokugeki.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 39940,
+      "title": {
+        "romaji": "Shokugeki no Souma: Shin no Sara",
+        "english": "Food Wars! The Fourth Plate",
+        "native": "食戟のソーマ 神ノ皿"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109963-t8E9axH0Dvrn.jpg",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2019,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2020-04-11",
+      "title": {
+        "en": "Final Exams"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 7505760,
+      "seasonNumber": 5,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 74,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/series/289909/episodes/5e9083898048a.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2020-04-18",
+      "title": {
+        "en": "The Blue Preliminaries"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 7681394,
+      "seasonNumber": 5,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 75,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/series/289909/episodes/5e988011aaa03.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2020-07-18",
+      "title": {
+        "en": "Noir"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 7694187,
+      "seasonNumber": 5,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 76,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/series/289909/episodes/5f0f1c5a91d1b.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2020-07-25",
+      "title": {
+        "en": "The Last Supper"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 7769202,
+      "seasonNumber": 5,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 77,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/series/289909/episodes/5f1915e4649f5.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2020-08-01",
+      "title": {
+        "en": "Convenience Store Brawl"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 7769204,
+      "seasonNumber": 5,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 78,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/series/289909/episodes/5f22e267dbd09.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2020-08-08",
+      "title": {
+        "en": "A Midsummer Christmas"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 7769205,
+      "seasonNumber": 5,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 79,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/series/289909/episodes/5f2bca2eb6e51.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2020-08-15",
+      "title": {
+        "en": "Crossed Knives"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 7493277,
+      "seasonNumber": 5,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 80,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/series/289909/episodes/5f3699b78a69a.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2020-08-22",
+      "title": {
+        "en": "The Missing Half of the Moon"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 7887407,
+      "seasonNumber": 5,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 81,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/series/289909/episodes/5f3ea96acaaed.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2020-08-29",
+      "title": {
+        "en": "The God Tongue`s Despair"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 7898606,
+      "seasonNumber": 5,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 82,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/series/289909/episodes/5f4913288660b.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2020-09-05",
+      "title": {
+        "en": "Surpassing Dad"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 7907309,
+      "seasonNumber": 5,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 83,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/series/289909/episodes/5f52681dd8a71.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2020-09-12",
+      "title": {
+        "en": "The Taste of Failure"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 7917322,
+      "seasonNumber": 5,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 84,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/series/289909/episodes/5f5b89dd57f49.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2020-09-19",
+      "title": {
+        "en": "The Perfect Rocks"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 7929629,
+      "seasonNumber": 5,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 85,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/series/289909/episodes/5f64d78ddd0dc.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2020-09-26",
+      "title": {
+        "en": "Food Wars"
+      },
+      "tvdbShowId": 289909,
+      "tvdbId": 7943819,
+      "seasonNumber": 5,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 86,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/series/289909/episodes/5f6dcab350da7.jpg"
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "2m",
+      "airDate": "2020-04-11",
+      "title": {
+        "en": "Last Chapter (1-12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "2020-04-18",
+      "title": {
+        "en": "Crossing Road (1-12)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C3": {
+      "episode": "C3",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Ending"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C4": {
+      "episode": "C4",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Episode C4"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C5": {
+      "episode": "C5",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Episode C5"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C6": {
+      "episode": "C6",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Episode C6"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C7": {
+      "episode": "C7",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Episode C7"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C8": {
+      "episode": "C8",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Episode C8"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C9": {
+      "episode": "C9",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Episode C9"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C10": {
+      "episode": "C10",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Episode C10"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C11": {
+      "episode": "C11",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Episode C11"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C12": {
+      "episode": "C12",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Episode C12"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C13": {
+      "episode": "C13",
+      "length": "2m",
+      "airDate": "",
+      "title": {
+        "en": "Episode C13"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "2m",
+      "airDate": "2020-06-16",
+      "title": {
+        "en": "PV 1 (1:31)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-29T09:06:26.204Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

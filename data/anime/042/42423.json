@@ -1,0 +1,114 @@
+{
+  "id": 42423,
+  "idMal": 42423,
+  "mappings": {
+    "mal": 42423,
+    "anilist": 121034,
+    "anidb": null,
+    "kitsu": 43355,
+    "simkl": null,
+    "tmdb": 723343,
+    "tvdb": null,
+    "trakt": 566052,
+    "traktType": "movies",
+    "shikimori": 42423,
+    "livechart": 10064,
+    "animeplanet": "date-a-bullet-nightmare-or-queen",
+    "anisearch": null,
+    "notify": "2oTFl54Mg"
+  },
+  "title": {
+    "romaji": "Date A Bullet: Nightmare or Queen",
+    "english": "Date A Bullet: Dead or Bullet & Nightmare or Queen",
+    "native": "デート・ア・バレット ナイトメア・オア・クイーン",
+    "synonyms": [
+      "พิชิตรัก พิทักษ์โลก เดอะมูฟวี่ Date A Bullet",
+      "Рандеву с пулей: Кошмар или королева"
+    ]
+  },
+  "type": "Movie",
+  "source": "Light novel",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 29,
+  "aired": {
+    "from": "2020-11-13T00:00:00+00:00",
+    "to": "2020-11-13"
+  },
+  "season": "fall",
+  "year": 2020,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.65,
+    "anilistScore": 7.4,
+    "kitsuRating": 7.75
+  },
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Sci-Fi",
+    "Science Fiction"
+  ],
+  "studios": [
+    "Geek Toys",
+    "GEEKTOYS"
+  ],
+  "producers": [
+    "Nippon Columbia"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1002/108424l.jpg",
+    "banner": null,
+    "color": "#e4bb5d"
+  },
+  "trailer": null,
+  "synopsis": "Second part of the Date A Bullet films.",
+  "sequence": [
+    {
+      "malId": 15583,
+      "title": {
+        "romaji": "Date A Live",
+        "english": "Date A Live",
+        "native": "デート・ア・ライブ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15583-Sxd2J4RJdRhj.jpg",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2013,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 40416,
+      "title": {
+        "romaji": "Date A Bullet: Dead or Bullet",
+        "english": "Date A Bullet: Dead or Bullet & Nightmare or Queen",
+        "native": "デート・ア・バレット デッド・オア・バレット"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111852-W3cRNx9CO7sJ.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2020,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-06-29T10:03:27.708Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

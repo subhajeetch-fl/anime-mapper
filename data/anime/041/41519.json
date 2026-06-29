@@ -1,0 +1,130 @@
+{
+  "id": 41519,
+  "idMal": 41519,
+  "mappings": {
+    "mal": 41519,
+    "anilist": 116962,
+    "anidb": 15470,
+    "kitsu": null,
+    "simkl": 1305193,
+    "tmdb": 690511,
+    "tvdb": null,
+    "trakt": 534612,
+    "traktType": "movies",
+    "shikimori": 41519,
+    "livechart": 9859,
+    "animeplanet": "monster-strike-the-movie-3-lucifer-dawn-of-despair",
+    "anisearch": 15215,
+    "notify": "IsY0hB9WR"
+  },
+  "title": {
+    "romaji": "Monster Strike THE MOVIE: Lucifer - Zetsubou no Yoake",
+    "english": "Monster Strike the Movie: Lucifer Dawn of Despair",
+    "native": "モンスターストライク THE MOVIE ルシファー 絶望の夜明け",
+    "synonyms": [
+      "Monster Strike the Movie: Lucifer Dawn of Despair"
+    ]
+  },
+  "type": "Movie",
+  "source": "Game",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": null,
+  "aired": {
+    "from": "2020-11-06T00:00:00+00:00",
+    "to": null
+  },
+  "season": "fall",
+  "year": 2020,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.61,
+    "anilistScore": 6,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "studios": [
+    "Anima",
+    "Dynamo Pictures",
+    "Studio Anima"
+  ],
+  "producers": [
+    "XFLAG"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1578/117053l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116962-4O6MwQ4GxFcl.jpg",
+    "color": "#e4ae35"
+  },
+  "trailer": null,
+  "synopsis": null,
+  "sequence": [
+    {
+      "malId": 38022,
+      "title": {
+        "romaji": "Monster Strike The Animation",
+        "english": "Monster Strike The Animation",
+        "native": "アニメ モンスターストライク"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104188-9DVTT1TVRnzn.png",
+      "format": "ONA",
+      "episodes": 64,
+      "seasonYear": 2018,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "130m",
+      "airDate": "2020-11-06",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "1m",
+      "airDate": "2020-11-06",
+      "title": {
+        "en": "Eiyuu no Uta (1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-29T09:35:21.696Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}
