@@ -1,0 +1,162 @@
+{
+  "id": 37055,
+  "idMal": 37055,
+  "mappings": {
+    "mal": 37055,
+    "anilist": 100878,
+    "anidb": 13717,
+    "kitsu": 14173,
+    "simkl": 752731,
+    "tmdb": 553839,
+    "tvdb": null,
+    "trakt": 404783,
+    "traktType": "movies",
+    "shikimori": 37055,
+    "livechart": 3041,
+    "animeplanet": "saga-of-tanya-the-evil-movie",
+    "anisearch": 13181,
+    "notify": "ewuHhFimg"
+  },
+  "title": {
+    "romaji": "Youjo Senki Movie",
+    "english": "Saga of Tanya the Evil: The Movie",
+    "native": "劇場版 幼女戦記",
+    "synonyms": [
+      "Gekijouban Youjo Senki",
+      "Колдунья в погонах. Фильм"
+    ]
+  },
+  "type": "Movie",
+  "source": "Light novel",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 98,
+  "aired": {
+    "from": "2019-02-08T00:00:00+00:00",
+    "to": "2019-02-08"
+  },
+  "season": "winter",
+  "year": 2019,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "R - 17+ (violence & profanity)",
+  "score": {
+    "malScore": 8.23,
+    "anilistScore": 8.1,
+    "kitsuRating": 8.13
+  },
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Magic",
+    "Military",
+    "Alternative Past",
+    "War"
+  ],
+  "studios": [
+    "Nut"
+  ],
+  "producers": [
+    "AT-X",
+    "Sony Music Communications",
+    "Kadokawa",
+    "Kadokawa Animation"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1249/117182l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100878-Lslq3VqoNanU.jpg",
+    "color": "#f1e4c9"
+  },
+  "trailer": null,
+  "synopsis": "With its armies sweeping across the continent, the Empire seems unstoppable. After securing victory over the remnants of the Republic's army, the Empire's ultimate victory is finally within reach. However, dark clouds are gathering in the East. The communist-led Russy Federation is mustering troops on its western border, preparing to enter the war. Supported by a detachment of Allied volunteer magicians—among whom is Mary Sioux, the daughter of a soldier killed by Tanya von Degurechaff—the Federation is determined to spread the communist creed and bring the Empire to its knees.\n\nMeanwhile, Tanya and her battalion return to the imperial capital from the southern front. Upon their arrival, they are tasked with investigating troop movements on the border with the Federation. Any escalation of violence at this point may lead to new conflicts, plunging the world into a devastating global war.\n\nWill the Empire eventually emerge victorious from its struggle, or will it crumble in the face of superior enemies and radically different ideologies?\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 32615,
+      "title": {
+        "romaji": "Youjo Senki",
+        "english": "Saga of Tanya the Evil",
+        "native": "幼女戦記"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21613-qT3NiwYP5dYc.png",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2017,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 49236,
+      "title": {
+        "romaji": "Youjo Senki: Sabaku no Pasta Daisakusen",
+        "english": "Saga of Tanya the Evil: Operation Desert Pasta",
+        "native": "幼女戦記 砂漠のパスタ大作戦"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135866-Q5qZPscMNLFa.png",
+      "format": "ONA",
+      "episodes": 1,
+      "seasonYear": 2021,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 49233,
+      "title": {
+        "romaji": "Youjo Senki II",
+        "english": "Saga of Tanya the Evil Season 2",
+        "native": "幼女戦記Ⅱ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": 2026,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "100m",
+      "airDate": "2019-02-08",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 315500,
+      "tvdbId": 6954303,
+      "seasonNumber": 0,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 100,
+      "image": "https://artworks.thetvdb.com/banners/episodes/315500/6954303.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "3m",
+      "airDate": "",
+      "title": {
+        "en": "Manners Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T21:30:26.192Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

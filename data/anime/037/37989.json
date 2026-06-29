@@ -1,0 +1,539 @@
+{
+  "id": 37989,
+  "idMal": 37989,
+  "mappings": {
+    "mal": 37989,
+    "anilist": 102977,
+    "anidb": 14185,
+    "kitsu": 41442,
+    "simkl": 849475,
+    "tmdb": 76757,
+    "tvdb": 338455,
+    "trakt": 125628,
+    "traktType": "shows",
+    "shikimori": 37989,
+    "livechart": 3357,
+    "animeplanet": "golden-kamuy-season-2",
+    "anisearch": 13714,
+    "notify": "VDY6OMDmg"
+  },
+  "title": {
+    "romaji": "Golden Kamuy 2nd Season",
+    "english": "Golden Kamuy Season 2",
+    "native": "ゴールデンカムイ 第二期",
+    "synonyms": [
+      "Golden Kamuy Second Season",
+      "Golden Kamui 2"
+    ]
+  },
+  "type": "TV",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
+  "episodeLength": 23,
+  "aired": {
+    "from": "2018-10-08T00:00:00+00:00",
+    "to": "2018-12-24T00:00:00+00:00"
+  },
+  "season": "fall",
+  "year": 2018,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "R - 17+ (violence & profanity)",
+  "score": {
+    "malScore": 8.24,
+    "anilistScore": 8.1,
+    "kitsuRating": 8.06
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Seinen",
+    "Japan",
+    "Historical"
+  ],
+  "studios": [
+    "Geno Studio"
+  ],
+  "producers": [
+    "Magic Capsule",
+    "NBCUniversal Entertainment Japan",
+    "Tokyo MX",
+    "Good Smile Company",
+    "Sammy",
+    "Shueisha",
+    "JR East Marketing & Communications",
+    "Twin Engine"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1180/95018l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102977-kqlenTvimAZj.jpg",
+    "color": "#e4c91a"
+  },
+  "trailer": null,
+  "synopsis": "In Hokkaido, it is rumored that there is a stash of hidden gold. This gold was supposedly stolen by a man who killed the original Ainu owners; and before being captured and imprisoned by the police, he hid it in a secret location. In order to relay the gold's location to his comrades on the outside, he tattooed the map on the bodies of his cellmates and promised them a share of the gold—provided they managed to escape and find it.\n\nFirst Lieutenant Tokushirou Tsurumi plans to give the 7th Division an advantage in the war for the tattoos by getting a taxidermist to create skins that only he can distinguish as fake. Meanwhile, Saichi Sugimoto, Asirpa, and their companions continue their hunt for the skins by following a strange rumor: a thief who broke into a home in Yubari found taxidermied human corpses, among which was a torso with strange tattoos.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 36028,
+      "title": {
+        "romaji": "Golden Kamuy",
+        "english": "Golden Kamuy",
+        "native": "ゴールデンカムイ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99699-mBCjpoWpAVGX.jpg",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2018,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 37755,
+      "title": {
+        "romaji": "Golden Kamuy: Golden Douga Gekijou",
+        "english": null,
+        "native": "ゴールデンカムイ 「ゴールデン道画劇場」"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106506-ptr8ASREqLs5.jpg",
+      "format": "ONA",
+      "episodes": 46,
+      "seasonYear": 2018,
+      "relationType": "SPIN_OFF"
+    },
+    {
+      "malId": 38710,
+      "title": {
+        "romaji": "Golden Kamuy 2nd Season OVA",
+        "english": null,
+        "native": "ゴールデンカムイ 第二期 OVA"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124756-4DBO8VSFaJ6Y.jpg",
+      "format": "OVA",
+      "episodes": 3,
+      "seasonYear": 2019,
+      "relationType": "SIDE_STORY"
+    },
+    {
+      "malId": 40059,
+      "title": {
+        "romaji": "Golden Kamuy 3rd Season",
+        "english": "Golden Kamuy Season 3",
+        "native": "ゴールデンカムイ 第三期"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110355-yXOXm5tr8kgr.png",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2020,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2018-10-08",
+      "title": {
+        "en": "Edogai-kun"
+      },
+      "tvdbShowId": 338455,
+      "tvdbId": 6739405,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/338455/6739405.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2018-10-15",
+      "title": {
+        "en": "Fakes"
+      },
+      "tvdbShowId": 338455,
+      "tvdbId": 6827329,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/338455/6827329.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2018-10-22",
+      "title": {
+        "en": "Let`s Talk About the Past"
+      },
+      "tvdbShowId": 338455,
+      "tvdbId": 6827330,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/338455/6827330.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2018-10-29",
+      "title": {
+        "en": "The Great Plan to Infiltrate the Asahikawa 7th Division!!"
+      },
+      "tvdbShowId": 338455,
+      "tvdbId": 6827331,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/338455/6827331.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2018-11-05",
+      "title": {
+        "en": "Inside the Belly"
+      },
+      "tvdbShowId": 338455,
+      "tvdbId": 6827332,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/338455/6827332.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2018-11-12",
+      "title": {
+        "en": "Ani Nekko"
+      },
+      "tvdbShowId": 338455,
+      "tvdbId": 6827333,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/338455/6827333.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2018-11-19",
+      "title": {
+        "en": "Kamuy Hopunire"
+      },
+      "tvdbShowId": 338455,
+      "tvdbId": 6827334,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/338455/6827334.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2018-11-26",
+      "title": {
+        "en": "Blue Eyes"
+      },
+      "tvdbShowId": 338455,
+      "tvdbId": 6827335,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/338455/6827335.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2018-12-03",
+      "title": {
+        "en": "The Sound of an Ambush"
+      },
+      "tvdbShowId": 338455,
+      "tvdbId": 6827336,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/338455/6827336.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2018-12-10",
+      "title": {
+        "en": "On the Night of the New Moon"
+      },
+      "tvdbShowId": 338455,
+      "tvdbId": 6827337,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/338455/6827337.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2018-12-17",
+      "title": {
+        "en": "Overwhelmed"
+      },
+      "tvdbShowId": 338455,
+      "tvdbId": 6827338,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/338455/6827338.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2018-12-24",
+      "title": {
+        "en": "Call Out"
+      },
+      "tvdbShowId": 338455,
+      "tvdbId": 6827339,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/episodes/338455/6827339.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "1m",
+      "airDate": "2018-10-09",
+      "title": {
+        "en": "Golden Travelogue Theater #13: Watching..."
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "1m",
+      "airDate": "2018-10-16",
+      "title": {
+        "en": "Golden Travelogue Theater #14: Excerpt from Edogai-kun`s \"Fake Skin\" Production Diary"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "1m",
+      "airDate": "2018-10-23",
+      "title": {
+        "en": "Golden Travelogue Theater #15: Eurasian Woodcock`s Love Fortune-telling"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S4": {
+      "episode": "S4",
+      "length": "1m",
+      "airDate": "2018-10-30",
+      "title": {
+        "en": "Golden Travelogue Theater #16: Wait, Shiraishi"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S5": {
+      "episode": "S5",
+      "length": "1m",
+      "airDate": "2018-11-06",
+      "title": {
+        "en": "Golden Travelogue Theater #17: Screech"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S6": {
+      "episode": "S6",
+      "length": "1m",
+      "airDate": "2018-11-13",
+      "title": {
+        "en": "Golden Travelogue Theater #18: Seypirakka"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S7": {
+      "episode": "S7",
+      "length": "1m",
+      "airDate": "2018-11-20",
+      "title": {
+        "en": "Golden Travelogue Theater #19: Ezo Pika"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S8": {
+      "episode": "S8",
+      "length": "1m",
+      "airDate": "2018-11-27",
+      "title": {
+        "en": "Golden Travelogue Theater #20: The Heart of a Kushiro Matagi Traveler"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S9": {
+      "episode": "S9",
+      "length": "1m",
+      "airDate": "2018-12-04",
+      "title": {
+        "en": "Golden Travelogue Theater #21: Can You Say It Properly?"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S10": {
+      "episode": "S10",
+      "length": "1m",
+      "airDate": "2018-12-11",
+      "title": {
+        "en": "Golden Travelogue Theater #22: Pew"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S11": {
+      "episode": "S11",
+      "length": "1m",
+      "airDate": "2018-12-18",
+      "title": {
+        "en": "Golden Travelogue Theater #23: The Two Little Moles"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1a": {
+      "episode": "OP1a",
+      "length": "2m",
+      "airDate": "2018-10-15",
+      "title": {
+        "en": "Reimei (2-11)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1b": {
+      "episode": "OP1b",
+      "length": "2m",
+      "airDate": "2018-10-22",
+      "title": {
+        "en": "Reimei (2-11)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2": {
+      "episode": "ED2",
+      "length": "2m",
+      "airDate": "2018-10-15",
+      "title": {
+        "en": "Tokeidai no Kane (2-9, 11)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T22:19:24.444Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

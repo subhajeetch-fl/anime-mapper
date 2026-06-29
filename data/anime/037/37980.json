@@ -1,0 +1,109 @@
+{
+  "id": 37980,
+  "idMal": 37980,
+  "mappings": {
+    "mal": 37980,
+    "anilist": 104187,
+    "anidb": 14223,
+    "kitsu": 41933,
+    "simkl": 862523,
+    "tmdb": 88459,
+    "tvdb": 353624,
+    "trakt": 137083,
+    "traktType": "shows",
+    "shikimori": 37980,
+    "livechart": null,
+    "animeplanet": null,
+    "anisearch": 12388,
+    "notify": "_MXPw-omg"
+  },
+  "title": {
+    "romaji": "Youkoso Japari Park",
+    "english": "Welcome to Japari Park",
+    "native": "ようこそジャパリパーク",
+    "synonyms": [
+      "Kemono Friends: Youkoso Japari Park",
+      "Welcome to Japari Park"
+    ]
+  },
+  "type": "ONA",
+  "source": "Game",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 36,
+  "episodeLength": 6,
+  "aired": {
+    "from": "2018-08-10T00:00:00+00:00",
+    "to": "2020-09-30T00:00:00+00:00"
+  },
+  "season": "summer",
+  "year": 2018,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 5.92,
+    "anilistScore": 5,
+    "kitsuRating": 6.21
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Juujin"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1096/98231l.jpg",
+    "banner": null,
+    "color": "#5dbbf1"
+  },
+  "trailer": null,
+  "synopsis": "",
+  "sequence": [
+    {
+      "malId": 33089,
+      "title": {
+        "romaji": "Kemono Friends",
+        "english": "Kemono Friends",
+        "native": "けものフレンズ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87496-pB2CXbFGucn0.png",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2017,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": null,
+      "title": {
+        "romaji": "Youkoso Japari Park 2",
+        "english": "Welcome to the JAPARI PARK Season 2",
+        "native": "ようこそジャパリパーク2"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118168-s2xCagiRynkz.png",
+      "format": "ONA",
+      "episodes": 12,
+      "seasonYear": 2020,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-06-28T22:19:04.652Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

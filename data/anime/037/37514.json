@@ -1,0 +1,125 @@
+{
+  "id": 37514,
+  "idMal": 37514,
+  "mappings": {
+    "mal": 37514,
+    "anilist": 101343,
+    "anidb": null,
+    "kitsu": 41080,
+    "simkl": null,
+    "tmdb": 526426,
+    "tvdb": null,
+    "trakt": 404774,
+    "traktType": "movies",
+    "shikimori": 37514,
+    "livechart": 3164,
+    "animeplanet": "made-in-abyss-tabidachi-no-yoake",
+    "anisearch": null,
+    "notify": "8tIKhKimg"
+  },
+  "title": {
+    "romaji": "Made in Abyss: Tabidachi no Yoake",
+    "english": "Made in Abyss: Journey's Dawn",
+    "native": "メイドインアビス 旅立ちの夜明け",
+    "synonyms": [
+      "Made in Abyss Movie 1: Journey's Dawn"
+    ]
+  },
+  "type": "Movie",
+  "source": "Web manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 120,
+  "aired": {
+    "from": "2019-01-04T00:00:00+00:00",
+    "to": "2019-01-04"
+  },
+  "season": "winter",
+  "year": 2019,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "R - 17+ (violence & profanity)",
+  "score": {
+    "malScore": 8.19,
+    "anilistScore": 8.1,
+    "kitsuRating": 8.06
+  },
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Mystery",
+    "Sci-Fi",
+    "Horror",
+    "Fantasy World",
+    "Science Fiction",
+    "Robot"
+  ],
+  "studios": [
+    "Kinema Citrus"
+  ],
+  "producers": [
+    "AT-X",
+    "Takeshobo",
+    "Sony Music Communications",
+    "Kadokawa Media House",
+    "Cygames",
+    "Kanetsu Investment",
+    "Kadokawa",
+    "Global Solutions",
+    "IRMA LA DOUCE"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1173/95167l.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/41080/original.jpg",
+    "color": "#50a1e4"
+  },
+  "trailer": null,
+  "synopsis": "The movie is a compilation of episodes 1-8 of the 2017 television series with new scenes added for the introduction. It covers the period from when Riko descends into the Abyss with her robot companion Reg, reaching the second layer where they meet the White Whistle Ozen who reveals information about Riko's mother.\n\n(Source: Wikipedia)",
+  "sequence": [
+    {
+      "malId": 34599,
+      "title": {
+        "romaji": "Made in Abyss",
+        "english": "Made in Abyss",
+        "native": "メイドインアビス"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97986-TQ7dCgbS3y5s.jpg",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2017,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 37515,
+      "title": {
+        "romaji": "Made in Abyss: Hourou Suru Tasogare",
+        "english": "Made in Abyss: Wandering Twilight",
+        "native": "メイドインアビス 放浪する黄昏"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101344-NbEG3Ryria9S.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2019,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-06-28T21:51:15.198Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "id": 38014,
+  "idMal": 38014,
+  "mappings": {
+    "mal": 38014,
+    "anilist": 107857,
+    "anidb": 14181,
+    "kitsu": 42997,
+    "simkl": 848009,
+    "tmdb": 570579,
+    "tvdb": null,
+    "trakt": 421583,
+    "traktType": "movies",
+    "shikimori": 38014,
+    "livechart": 3352,
+    "animeplanet": "captain-bal",
+    "anisearch": 13708,
+    "notify": null
+  },
+  "title": {
+    "romaji": "Captain Bal",
+    "english": null,
+    "native": "キャプテン・バル",
+    "synonyms": [
+      "Anime Tamago 2019",
+      "Captain Bar",
+      "2019 Young Animator Training Project",
+      "Anime Mirai 2019"
+    ]
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": null,
+  "aired": {
+    "from": "2019-03-09T00:00:00+00:00",
+    "to": "2019-03-09"
+  },
+  "season": "winter",
+  "year": 2019,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 5.73,
+    "anilistScore": 4.6,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "studios": [
+    "Flying Ship Studio"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1474/97420l.jpg",
+    "banner": null,
+    "color": "#e4281a"
+  },
+  "trailer": null,
+  "synopsis": "Bal, a poor boy living on an island, gets the idea to rig a makeshift boat, hoist a pirate flag on it, and become a pirate to get rich. He takes his pig friend Bu, his sister Muge, and the giant salamander Kuna as his crew. He plans to do all sorts of devious deeds in his quest to become a pirate, but ends up doing one good thing after another. What will Captain Bal and his crew do? \n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 38013,
+      "title": {
+        "romaji": "Chuck Shimezou",
+        "english": "Zip! Shimezo",
+        "native": "チャックシメゾウ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107858-q79fpWelretQ.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2019,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 38011,
+      "title": {
+        "romaji": "Hello WeGo!",
+        "english": null,
+        "native": "Hello WeGo!"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107859-NvfntMqxzjRI.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2019,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 38012,
+      "title": {
+        "romaji": "Tatakae! Space Attendant Aoi",
+        "english": null,
+        "native": "斗え! スペースアテンダントアオイ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107860-1CGIfQOFmhIW.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2019,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2019-03-09",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1": {
+      "episode": "OP1",
+      "length": "1m",
+      "airDate": "2019-03-09",
+      "title": {
+        "en": "Bal to Takarajima (1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "1m",
+      "airDate": "2019-03-09",
+      "title": {
+        "en": "Bokura no Sora (1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-28T22:21:16.959Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

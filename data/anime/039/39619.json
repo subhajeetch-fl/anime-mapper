@@ -1,0 +1,129 @@
+{
+  "id": 39619,
+  "idMal": 39619,
+  "mappings": {
+    "mal": 39619,
+    "anilist": 108735,
+    "anidb": 14802,
+    "kitsu": 43370,
+    "simkl": 1066343,
+    "tmdb": 613199,
+    "tvdb": null,
+    "trakt": 456793,
+    "traktType": "movies",
+    "shikimori": 39619,
+    "livechart": 9396,
+    "animeplanet": "bang-dream-film-live",
+    "anisearch": 14573,
+    "notify": "mkajsDYMg"
+  },
+  "title": {
+    "romaji": "BanG Dream! FILM LIVE",
+    "english": "BanG Dream! FILM LIVE",
+    "native": "BanG Dream! FILM LIVE",
+    "synonyms": [
+      "バンドリ! フィルムライブ"
+    ]
+  },
+  "type": "Movie",
+  "source": "Mixed media",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 75,
+  "aired": {
+    "from": "2019-09-13T00:00:00+00:00",
+    "to": "2019-09-13"
+  },
+  "season": "summer",
+  "year": 2019,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.72,
+    "anilistScore": 7.4,
+    "kitsuRating": 7.49
+  },
+  "genres": [
+    "Music"
+  ],
+  "studios": [
+    "SANZIGEN"
+  ],
+  "producers": [
+    "Ultra Super Pictures",
+    "Bushiroad",
+    "Tokyo MX",
+    "Good Smile Company",
+    "HoriPro International"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1163/117736l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108735-VGhWWdsGlPjJ.jpg",
+    "color": "#e45d35"
+  },
+  "trailer": null,
+  "synopsis": "Five bands all have their sights set on stardom as they take the stage in the first theatrical film of the Bang Dream series.\n\n(Source: TMDB)",
+  "sequence": [
+    {
+      "malId": 37869,
+      "title": {
+        "romaji": "BanG Dream! 2nd Season",
+        "english": "BanG Dream! 2nd Season",
+        "native": "BanG Dream! 2nd Season"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101633-kRp4u7VmRb5h.jpg",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2019,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 41462,
+      "title": {
+        "romaji": "BanG Dream! FILM LIVE 2nd Stage",
+        "english": "BanG Dream! FILM LIVE 2nd Stage",
+        "native": "BanG Dream! FILM LIVE 2nd Stage"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116610-CliKhWCWvvKc.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2021,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "75m",
+      "airDate": "2021-08-20",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": 320002,
+      "tvdbId": 10912418,
+      "seasonNumber": 0,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 0,
+      "runtime": 7,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-29T00:06:55.069Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}
