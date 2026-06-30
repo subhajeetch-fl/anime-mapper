@@ -1,0 +1,109 @@
+{
+  "id": 57910,
+  "idMal": 57910,
+  "mappings": {
+    "mal": 57910,
+    "anilist": 173884,
+    "anidb": null,
+    "kitsu": 48451,
+    "simkl": null,
+    "tmdb": 1235424,
+    "tvdb": null,
+    "trakt": 999350,
+    "traktType": "movies",
+    "shikimori": 57910,
+    "livechart": 12510,
+    "animeplanet": "pui-pui-molcar-movie-molmax",
+    "anisearch": 19684,
+    "notify": "VEdGwYCIR"
+  },
+  "title": {
+    "romaji": "PUI PUI Molcar the Movie MOLMAX",
+    "english": null,
+    "native": "PUI PUI モルカー ザ・ムービー MOLMAX",
+    "synonyms": []
+  },
+  "type": "Movie",
+  "source": "Other",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 69,
+  "aired": {
+    "from": "2024-11-29T00:00:00+00:00",
+    "to": "2024-11-29"
+  },
+  "season": "fall",
+  "year": 2024,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
+  "score": {
+    "malScore": 6.49,
+    "anilistScore": 6.1,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Comedy",
+    "Adventure",
+    "Sci-Fi",
+    "Kids",
+    "Anthropomorphism"
+  ],
+  "studios": [
+    "Monster's Egg"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1110/145824l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173884-euMgfZNUj5GZ.jpg",
+    "color": "#bbf150"
+  },
+  "trailer": null,
+  "synopsis": "CG animated movie based on Pui Pui Molcar.",
+  "sequence": [
+    {
+      "malId": 51986,
+      "title": {
+        "romaji": "PUI PUI Molcar: DRIVING SCHOOL",
+        "english": "Pui Pui Molcar Driving School",
+        "native": "PUI PUI モルカー DRIVING SCHOOL"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150188-uwvRXNuAEZDp.jpg",
+      "format": "TV_SHORT",
+      "episodes": 12,
+      "seasonYear": 2022,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 60411,
+      "title": {
+        "romaji": "PUI PUI Molcar the Movie MOLMAX (Zoku-hen)",
+        "english": null,
+        "native": "PUI PUI モルカー ザ・ムービー MOLMAX (続編)"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185260-l48JlMk853qY.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-06-30T19:36:35.579Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

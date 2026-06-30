@@ -1,0 +1,162 @@
+{
+  "id": 59489,
+  "idMal": 59489,
+  "mappings": {
+    "mal": 59489,
+    "anilist": 179998,
+    "anidb": 19471,
+    "kitsu": 49102,
+    "simkl": 2833324,
+    "tmdb": 1326106,
+    "tvdb": null,
+    "trakt": 1084337,
+    "traktType": "movies",
+    "shikimori": 59489,
+    "livechart": 13242,
+    "animeplanet": "kaiju-no-8-movie",
+    "anisearch": 19513,
+    "notify": "1Km1wLCSR"
+  },
+  "title": {
+    "romaji": "Kaijuu 8-gou Movie",
+    "english": "Kaiju No. 8: Mission Recon",
+    "native": "怪獣8号 第1期総集編",
+    "synonyms": [
+      "8Kaijuu",
+      "Monster #8",
+      "Kaiju No. Eight",
+      "Kaiju #8",
+      "Kaijuu 8-gou Recap",
+      "Kaiju No. 8 Season 1 Compilation",
+      "Kaiju No. 8: Missão de Reconhecimento"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 120,
+  "aired": {
+    "from": "2025-03-28T00:00:00+00:00",
+    "to": "2025-03-28"
+  },
+  "season": "winter",
+  "year": 2025,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.16,
+    "anilistScore": 7.2,
+    "kitsuRating": 7.64
+  },
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Sci-Fi",
+    "Shounen",
+    "Science Fiction",
+    "Military"
+  ],
+  "studios": [
+    "Production I.G"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1127/146604l.jpg",
+    "banner": null,
+    "color": "#5df1f1"
+  },
+  "trailer": null,
+  "synopsis": "In a Kaiju-filled Japan, Kafka Hibino works in monster disposal. After reuniting with his childhood friend Mina Ashiro, a rising star in the anti-Kaiju Defense Force, he decides to pursue his abandoned dream of joining the Force... when he suddenly transforms into the powerful \"Kaiju No. 8.\" With help from his junior colleague Reno Ichikawa, Kafka hides his identity while striving towards his life-long dream of passing the Defense Force exam and standing at Mina's side. But when mysterious intelligent Kaiju attack a Defense Force base, Kafka faces a crucial decision in a desperate situation...\n\n(Source: Official site)",
+  "sequence": [
+    {
+      "malId": 52588,
+      "title": {
+        "romaji": "Kaijuu 8-gou",
+        "english": "Kaiju No. 8",
+        "native": "怪獣８号"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153288-25FBfFJzEQ5O.jpg",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2024,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 59490,
+      "title": {
+        "romaji": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
+        "english": "Kaiju No.8: Hoshina's Day Off",
+        "native": "怪獣8号 保科の休日"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179999-8FuSR5TlOCD1.jpg",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "seasonYear": 2025,
+      "relationType": "SIDE_STORY"
+    },
+    {
+      "malId": 59177,
+      "title": {
+        "romaji": "Kaijuu 8-gou 2nd Season",
+        "english": "Kaiju No. 8 Season 2",
+        "native": "怪獣８号 第２期"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178754-Dgrub8xgC03M.jpg",
+      "format": "TV",
+      "episodes": 11,
+      "seasonYear": 2025,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "100m",
+      "airDate": "2025-03-28",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "25m",
+      "airDate": "2025-03-28",
+      "title": {
+        "en": "Extra Episode: Hoshina`s Day Off"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-30T20:10:46.400Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

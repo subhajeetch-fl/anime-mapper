@@ -1,0 +1,121 @@
+{
+  "id": 58222,
+  "idMal": 58222,
+  "mappings": {
+    "mal": 58222,
+    "anilist": 175199,
+    "anidb": null,
+    "kitsu": 48571,
+    "simkl": null,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 58222,
+    "livechart": 12543,
+    "animeplanet": "given-movie-3-umi-e",
+    "anisearch": 19101,
+    "notify": null
+  },
+  "title": {
+    "romaji": "Given: Umi e",
+    "english": "given The Movie: To the Sea",
+    "native": "ギヴン 海へ",
+    "synonyms": [
+      "Given Movie 3",
+      "Given: To the Sea",
+      "Given, o filme: Ao Mar"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": null,
+  "aired": {
+    "from": "2024-09-20T00:00:00+00:00",
+    "to": "2024-09-20"
+  },
+  "season": "summer",
+  "year": 2024,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 8.5,
+    "anilistScore": 8.4,
+    "kitsuRating": 8.01
+  },
+  "genres": [
+    "Boys Love",
+    "Drama",
+    "Music",
+    "Romance",
+    "Shounen Ai"
+  ],
+  "studios": [
+    "Lerche"
+  ],
+  "producers": [
+    "Aniplex",
+    "Dentsu",
+    "Studio Hibari",
+    "Movic",
+    "Fuji TV",
+    "Shinshokan",
+    "Blue Lynx"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1663/144261l.jpg",
+    "banner": null,
+    "color": "#6baed6"
+  },
+  "trailer": null,
+  "synopsis": "Second part of Given Movie: Hiiragi Mix.",
+  "sequence": [
+    {
+      "malId": 54791,
+      "title": {
+        "romaji": "Given: Hiiragi mix",
+        "english": "given The Movie: Hiiragi Mix",
+        "native": "ギヴン 柊mix"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162987-gRFCJagC9bm2.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2024,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 62634,
+      "title": {
+        "romaji": "Given: 10th Mix",
+        "english": "Given: Moments in Life",
+        "native": "ギヴン 10th mix (OAD)"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213353-FN9qkCAD64yK.jpg",
+      "format": "OVA",
+      "episodes": 1,
+      "seasonYear": 2025,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-06-30T19:41:58.416Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": 59883,
+  "idMal": 59883,
+  "mappings": {
+    "mal": 59883,
+    "anilist": 188805,
+    "anidb": null,
+    "kitsu": null,
+    "simkl": null,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 59883,
+    "livechart": null,
+    "animeplanet": "metal-cardbot-s",
+    "anisearch": null,
+    "notify": null
+  },
+  "title": {
+    "romaji": "Metal Cardbot S",
+    "english": "Metal Cardbot S",
+    "native": "메탈카드봇S",
+    "synonyms": []
+  },
+  "type": "TV",
+  "source": "Other",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 26,
+  "episodeLength": null,
+  "aired": {
+    "from": "2024-08-26T00:00:00+00:00",
+    "to": "2025-02-11T00:00:00+00:00"
+  },
+  "season": "summer",
+  "year": 2024,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "07:45",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": null,
+    "anilistScore": null,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Comedy",
+    "Mecha"
+  ],
+  "studios": [
+    "SAMG Animation"
+  ],
+  "producers": [
+    "OSROCTION"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1685/145585l.jpg",
+    "banner": null,
+    "color": "#f1c950"
+  },
+  "trailer": null,
+  "synopsis": "Jun's friend Crest, who has returned to Motown, brought a tablet from the 'Porcaca Ruins.' The moment Jun touched the tablet, the Metal Breath reacted, leading to new incidents, and the story follows Jun and Blue Cop S as they resolve these events together!\n\n(Source: Metal Cardbot Wiki)",
+  "sequence": [
+    {
+      "malId": 56575,
+      "title": {
+        "romaji": "Metal Cardbot",
+        "english": "Metal Cardbot",
+        "native": "메탈카드봇"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188804-IkVK37oJqyWP.png",
+      "format": "TV_SHORT",
+      "episodes": 26,
+      "seasonYear": null,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 63142,
+      "title": {
+        "romaji": "Metal Cardbot W",
+        "english": null,
+        "native": "메탈카드봇W"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204626-10qFDFi7WajG.png",
+      "format": "TV_SHORT",
+      "episodes": 26,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-06-30T20:22:48.034Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}
