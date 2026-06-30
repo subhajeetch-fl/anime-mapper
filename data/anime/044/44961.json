@@ -1,0 +1,662 @@
+{
+  "id": 44961,
+  "idMal": 44961,
+  "mappings": {
+    "mal": 44961,
+    "anilist": 127401,
+    "anidb": 15936,
+    "kitsu": 43862,
+    "simkl": 1505781,
+    "tmdb": 114892,
+    "tvdb": 399902,
+    "trakt": 176497,
+    "traktType": "shows",
+    "shikimori": 44961,
+    "livechart": 10283,
+    "animeplanet": "platinum-end",
+    "anisearch": 15827,
+    "notify": "06FFq61GR"
+  },
+  "title": {
+    "romaji": "Platinum End",
+    "english": "Platinum End",
+    "native": "プラチナエンド",
+    "synonyms": []
+  },
+  "type": "TV",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 24,
+  "episodeLength": null,
+  "aired": {
+    "from": "2021-10-08T00:00:00+00:00",
+    "to": "2022-03-25T00:00:00+00:00"
+  },
+  "season": "fall",
+  "year": 2021,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:28",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "R - 17+ (violence & profanity)",
+  "score": {
+    "malScore": 6.01,
+    "anilistScore": 5.8,
+    "kitsuRating": 6.05
+  },
+  "genres": [
+    "Drama",
+    "Supernatural",
+    "Suspense",
+    "Mystery",
+    "Psychological",
+    "Romance",
+    "Shounen"
+  ],
+  "studios": [
+    "Signal.MD"
+  ],
+  "producers": [
+    "Studio Pierrot",
+    "Dentsu",
+    "Pony Canyon",
+    "TBS",
+    "Magic Capsule",
+    "Medicos Entertainment",
+    "BS11"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1992/116576l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127401-e27CVSLfGjnb.jpg",
+    "color": "#f15078"
+  },
+  "trailer": null,
+  "synopsis": "Ever since he lost his family in an explosion, Mirai Kakehashi has lived a life of pain and despair. Every day, he endures abuse at the hands of the relatives who took him in. As his anguish steadily chips away at his will to live, he is eventually pushed to the brink. Prepared to throw it all away, he stands on the edge of a precipice and takes the leap. However, instead of falling to his death, he enters a trance where he meets a winged being who claims to be his guardian angel. Named Nasse, the angel offers him two priceless abilities and convinces him to go on living.\n\nWhen Mirai experiences the marvel of his new powers firsthand, he gets a taste of the freedom that was locked away from him for so long. Armed with Nasse's gifts, Mirai is flung into a showdown with 12 other individuals, one of which will be chosen to become the next God. In stark contrast to when he wanted to end his life, Mirai is now prepared to do whatever it takes to protect his bleak chance at happiness, lest it be wrenched from his grasp forever.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 50964,
+      "title": {
+        "romaji": "Koufukuron",
+        "english": "Koufukuron",
+        "native": "降伏論"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140687-6bftlXC9xc8z.png",
+      "format": "MUSIC",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "OTHER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2021-10-08",
+      "title": {
+        "en": "Gift from an Angel"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8305537,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8305537/screencap/615f644620db3.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2021-10-15",
+      "title": {
+        "en": "Hero of Justice"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8768271,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8768271/screencap/6168948399a76.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2021-10-22",
+      "title": {
+        "en": "Heart`s Beloved"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8771940,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8771940/screencap/6171c836c2a9e.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2021-10-29",
+      "title": {
+        "en": "Time to Assemble"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8771942,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8771942/screencap/61796adc857a9.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2021-11-05",
+      "title": {
+        "en": "Death Sentence"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8771944,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8771944/screencap/61813e731551f.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2021-11-12",
+      "title": {
+        "en": "Two Painful Options"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8771946,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8771946/screencap/618c787d2aa60.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2021-11-19",
+      "title": {
+        "en": "Tower of Nightmare"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8771947,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8771947/screencap/61952a91cbb9a.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2021-11-26",
+      "title": {
+        "en": "Symbol of Promise"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8771948,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8771948/screencap/619d08697ab35.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2021-12-03",
+      "title": {
+        "en": "The Face of an Assassin"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8771949,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8771949/screencap/61a78cf0b8427.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2021-12-10",
+      "title": {
+        "en": "Where the Tears Go"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8771950,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8771950/screencap/61b29113ee9e4.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2021-12-17",
+      "title": {
+        "en": "Your Own Worth"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8771951,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8771951/screencap/61bab2fdf199e.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2021-12-24",
+      "title": {
+        "en": "A Fine Line Between Offense and Defense"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8771952,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8771952/screencap/61c3c42911e94.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "24m",
+      "airDate": "2022-01-07",
+      "title": {
+        "en": "World Peace"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8902975,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8902975/screencap/61d49cae583a9.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "2022-01-14",
+      "title": {
+        "en": "Two Lights"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8903007,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8903007/screencap/61dd9846495ef.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "2022-01-21",
+      "title": {
+        "en": "Diffused Power"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8903008,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8903008/screencap/61e701049f2ba.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "2022-01-28",
+      "title": {
+        "en": "World`s Greatest Assassin"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8903009,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8903009/screencap/61f0ca05798b6.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "2022-02-04",
+      "title": {
+        "en": "The Other Five"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8903010,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8903010/screencap/61f93bdabc899.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "2022-02-11",
+      "title": {
+        "en": "Last Supper"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8903011,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8903011/screencap/6202969a04769.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "2022-02-18",
+      "title": {
+        "en": "The Future of Humanity"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8903012,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8903012/screencap/620c50d648925.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "2022-02-25",
+      "title": {
+        "en": "The Price of Honor"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8903013,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8903013/screencap/6215172ba3292.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "2022-03-04",
+      "title": {
+        "en": "The Time for Talk"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8903014,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8903014/screencap/621fa95417cae.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "2022-03-11",
+      "title": {
+        "en": "Wings of Determination"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8903015,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8903015/screencap/622a1cd51083f.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "2022-03-18",
+      "title": {
+        "en": "At the End of Thought"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8903016,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8903016/screencap/623339132b583.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "2022-03-25",
+      "title": {
+        "en": "The Final Arrow"
+      },
+      "tvdbShowId": 399902,
+      "tvdbId": 8903017,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8903017/screencap/623a60585f2f3.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "2m",
+      "airDate": "2021-10-08",
+      "title": {
+        "en": "Episode S1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "3m",
+      "airDate": "2022-03-25",
+      "title": {
+        "en": "Episode S2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "3m",
+      "airDate": "2021-11-05",
+      "title": {
+        "en": "Episode S3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S4": {
+      "episode": "S4",
+      "length": "3m",
+      "airDate": "2021-11-26",
+      "title": {
+        "en": "Episode S4"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S5": {
+      "episode": "S5",
+      "length": "4m",
+      "airDate": "2021-12-17",
+      "title": {
+        "en": "Episode S5"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S6": {
+      "episode": "S6",
+      "length": "3m",
+      "airDate": "2021-12-24",
+      "title": {
+        "en": "Episode S6"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C1": {
+      "episode": "C1",
+      "length": "2m",
+      "airDate": "2021-10-08",
+      "title": {
+        "en": "Opening 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C2": {
+      "episode": "C2",
+      "length": "2m",
+      "airDate": "2021-10-15",
+      "title": {
+        "en": "Ending 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C3": {
+      "episode": "C3",
+      "length": "2m",
+      "airDate": "2021-10-29",
+      "title": {
+        "en": "Ending 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C4": {
+      "episode": "C4",
+      "length": "2m",
+      "airDate": "2022-01-21",
+      "title": {
+        "en": "Ending 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "1m",
+      "airDate": "2020-12-19",
+      "title": {
+        "en": "PV 1 (0:31)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T2": {
+      "episode": "T2",
+      "length": "1m",
+      "airDate": "2021-07-01",
+      "title": {
+        "en": "PV 2 (0:47)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T3": {
+      "episode": "T3",
+      "length": "2m",
+      "airDate": "2021-09-05",
+      "title": {
+        "en": "PV 3 (1:53)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-29T22:49:24.273Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

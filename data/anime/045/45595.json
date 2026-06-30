@@ -1,0 +1,144 @@
+{
+  "id": 45595,
+  "idMal": 45595,
+  "mappings": {
+    "mal": 45595,
+    "anilist": 131047,
+    "anidb": 16093,
+    "kitsu": 44533,
+    "simkl": 1558925,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 45595,
+    "livechart": null,
+    "animeplanet": "baten-kaitos",
+    "anisearch": 15857,
+    "notify": null
+  },
+  "title": {
+    "romaji": "BATEN KAITOS",
+    "english": "Eternal Wings",
+    "native": "バテンカイトス",
+    "synonyms": [
+      "魔法",
+      "Mahou",
+      "シオン",
+      "Shion",
+      "Sion"
+    ]
+  },
+  "type": "Music",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 2,
+  "episodeLength": 4,
+  "aired": {
+    "from": "2021-03-28T00:00:00+00:00",
+    "to": "2021-09-01T00:00:00+00:00"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.76,
+    "anilistScore": 6.6,
+    "kitsuRating": 7.3
+  },
+  "genres": [
+    "Sci-Fi",
+    "Music",
+    "The Arts"
+  ],
+  "studios": [
+    "A-1 Pictures"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1074/110968l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131047-VisIPNE4Wr6w.jpg",
+    "color": "#e46b28"
+  },
+  "trailer": null,
+  "synopsis": "Animated music video project directed by Waboku, collaborating with the studio A-1 Pictures, plus the musical talents Eve and Myuk.\n\nThe list of released videos included in this entry are as follows:\nVol. 1: Myuk - Mahou (Myuk - 魔法), Mar 28, 2021.\nVol. 2: Myuk - Sion (Myuk - シオン), Sep 1, 2021.\n\nNote: The song featured in the first music video was originally used as the ending theme in the anime Yakusoku no Neverland 2. The song featured in the second music video was originally used as the ending theme in the anime NIGHT HEAD 2041.\n\n(Source: Anilist)",
+  "sequence": [
+    {
+      "malId": 39617,
+      "title": {
+        "romaji": "Yakusoku no Neverland 2",
+        "english": "The Promised Neverland Season 2",
+        "native": "約束のネバーランド2"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108725-ZKivuyr4Jtc9.jpg",
+      "format": "TV",
+      "episodes": 11,
+      "seasonYear": 2021,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 43767,
+      "title": {
+        "romaji": "NIGHT HEAD 2041",
+        "english": "NIGHT HEAD 2041",
+        "native": "NIGHT HEAD 2041"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125868-apscwA5S0lOs.jpg",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2021,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "4m",
+      "airDate": "2021-03-28",
+      "title": {
+        "en": "Music Video 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "4m",
+      "airDate": "2021-09-01",
+      "title": {
+        "en": "Music Video 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-30T00:19:51.748Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}
