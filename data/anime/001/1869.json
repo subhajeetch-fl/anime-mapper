@@ -74,18 +74,69 @@
   "trailer": null,
   "synopsis": "Nana Episode 11.5: Junko's Room \nNana Episode 21.5: Junko's Room 2 \nNana Episode 36.5: Junko's Room 3",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": "2006-06-21T00:00:00+00:00",
+      "title": {
+        "en": "Junko's Room 1",
+        "romaji": "Junko no Heya (1) (淳子の部屋",
+        "ja": "1)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": "2006-09-06T00:00:00+00:00",
+      "title": {
+        "en": "Junko's Room 2",
+        "romaji": "Junko no heya (2) ",
+        "ja": "淳子の部屋（2）"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": null,
+      "airDate": "2007-01-10T00:00:00+00:00",
+      "title": {
+        "en": "Junko's Room 3",
+        "romaji": "Junko no Heya (3) ",
+        "ja": "淳子の部屋（3）"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-26T14:02:27.859Z",
+    "lastFetched": "2026-06-30T07:04:53.412Z",
     "sourcesUsed": [
-      "jikan",
       "kitsu",
       "animeapi.my.id",
-      "simkl"
+      "zenshin"
     ],
     "missingSources": [
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "jikan-episodes (fallback)"
     ],
     "dataVersion": 1
   }

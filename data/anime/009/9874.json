@@ -71,17 +71,86 @@
   "trailer": null,
   "synopsis": "In the hidden magical land of Gensokyo, shrine maiden Reimu Hakurei constantly makes sure that supernatural incidents involving mythical creatures known as youkai remain as infrequent as possible. As part of her shrine's traditions, she hosts an annual summer banquet that invites a variety of guests, ranging from humans to even the strongest of youkai.\n\nOn the morning of the banquet, however, the shrine's donation box suddenly goes missing. Furthermore, there appears to be no trace of any theft whatsoever. As Reimu, her friend Marisa Kirisame, and news reporter Aya Shameimaru investigate the situation, they realize that others also have missing possessions. With each step closer to piecing the puzzle together, the group soon understands that this phenomenon is more than just simple thievery—an incident on par with Remilia Scarlet's mist or Yuyuko Saigyouji's youkai cherry blossom.\n\n[Written by MAL Rewrite]",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": "2008-12-29T00:00:00+00:00",
+      "title": {
+        "en": "A Summer Day's Dream",
+        "romaji": "Musou Kakyou ",
+        "ja": "夢想夏郷"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": "2012-08-12T00:00:00+00:00",
+      "title": {
+        "en": "Pre-Established Harmony",
+        "romaji": "Yotei Chouwa ",
+        "ja": "予定調和"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": null,
+      "airDate": "2016-08-13T00:00:00+00:00",
+      "title": {
+        "en": "Unravelling Déjà Vu",
+        "romaji": "Hokorobi no Dejavu ",
+        "ja": "綻びのデジャヴ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": null,
+      "airDate": "2021-10-24T00:00:00+00:00",
+      "title": {
+        "en": "Beginning of Summer",
+        "romaji": "Natsu no Hajimari ",
+        "ja": "夏の始まり"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-27T09:04:32.305Z",
+    "lastFetched": "2026-06-30T07:05:49.937Z",
     "sourcesUsed": [
-      "jikan",
       "kitsu",
-      "animeapi.my.id"
+      "animeapi.my.id",
+      "zenshin"
     ],
     "missingSources": [
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "jikan-episodes (fallback)"
     ],
     "dataVersion": 1
   }

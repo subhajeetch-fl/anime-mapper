@@ -71,17 +71,52 @@
   "trailer": null,
   "synopsis": "Like the first series Nurarihyon no Mago: Sennen Makyou will have two recap episodes.",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": "2011-09-25T00:00:00+00:00",
+      "title": {
+        "en": "The Destiny of the Demon Capital",
+        "romaji": "Soushuuhen Innen no Sennen Makyou ",
+        "ja": "総集編 因縁の千年魔京"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": "2011-12-25T00:00:00+00:00",
+      "title": {
+        "en": "The Fate of the Demon Capital",
+        "romaji": "Soushuuhen Kenkon no Sennen Makyou ",
+        "ja": "総集編 乾坤の千年魔京"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-27T14:42:34.491Z",
+    "lastFetched": "2026-06-30T07:06:18.731Z",
     "sourcesUsed": [
-      "jikan",
       "kitsu",
-      "animeapi.my.id"
+      "animeapi.my.id",
+      "zenshin"
     ],
     "missingSources": [
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "jikan-episodes (fallback)"
     ],
     "dataVersion": 1
   }

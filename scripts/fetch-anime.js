@@ -22,6 +22,11 @@
  *   4. animeapi.my.id - the `mappings` block (also supplies the AniList id
  *                   Zenshin needs).
  *   5. Zenshin     - per-episode data (the schema given in the spec).
+ *   6. Jikan Episodes - FALLBACK per-episode data when no AniList ID isList ID is
+ *                   available (e.g. hentai, children's anime not indexed on
+ *                   AniList). Uses Jikan's /episodes endpoint with pagination.
+ *                   Fewer fields than Zenshin (no TVDB IDs, no images, no
+ *                   filler/recap flags), but covers the basics.
  *
  * NOTE: because `sequence` now comes only from AniList, a transient
  * AniList failure means `sequence: []` for that run, not a Jikan-based
@@ -30,12 +35,19 @@
  * tracked as a soft error -> `meta.missingSources` includes "anilist" and
  * the id goes into the retry queue, so the next run backfills it.
  *
+ * WHEN ANILIST ID IS MISSING: If animeapi.my.id returns no AniList mapping,
+ * we skip the AniList API call entirely (saves a wasted 404) and use Jikan
+ * for episode data. AniList-only fields (coverColor, bannerImage,
+ * nextAiringEpisode, sequence, anilistScore) become null. On future runs,
+ * we re-fetch the ID mappings, so if AniList adds the title later, we'll
+ * pick it up automatically and switch to Zenshin episodes.
+ *
  * A single anime is considered a hard FAILURE (-> retry queue + Discord)
  * only if BOTH Jikan and Kitsu fail, since those are the two designated
- * primary sources. AniList/animeapi.my.id/Zenshin failures are logged as
- * soft errors - the file is still written, just missing that enrichment,
- * and `meta.missingSources` records what's absent so a later run can
- * backfill it.
+ * primary sources. AniList/animeapi.my.id/Zenshin/Jikan-episodes failures
+ * are logged as soft errors - the file is still written, just missing that
+ * enrichment, and `meta.missingSources` records what's absent so a later
+ * run can backfill it.
  *
  * CLI usage:
  *   node scripts/fetch-anime.js 21
@@ -152,19 +164,25 @@ export async function fetchAnime(malId, options = {}) {
   await kitsuLimiter();
   const kitsuPromise = kitsu.getAnimeByMalId(id);
 
-  await aniListLimiter();
-  const anilistPromise = anilist.getAnimeByMalId(id);
+  // Skip AniList API call if we already know from mappings that there's no AniList ID.
+  // This saves unnecessary 404 calls for anime not indexed on AniList (hentai, children's shows, etc.).
+  // If animeapi.my.id later adds the AniList mapping, the next run will pick it up automatically.
+  let anilistPromise = null;
+  if (mappings.anilist) {
+    await aniListLimiter();
+    anilistPromise = anilist.getAnimeByMalId(id);
+  }
 
   const [jikanResult, kitsuResult, anilistResult] = await Promise.allSettled([
     jikanPromise, kitsuPromise, anilistPromise
-  ]);
+  ].filter(Boolean)); // Filter out null promise if anilistPromise is null
 
   const jikanData =
     jikanResult.status === 'fulfilled' ? jikan.normalizeJikan(jikanResult.value) : null;
   const kitsuData =
     kitsuResult.status === 'fulfilled' ? kitsu.normalizeKitsu(kitsuResult.value) : null;
   const anilistData =
-    anilistResult.status === 'fulfilled' ? anilist.normalizeAniList(anilistResult.value) : null;
+    anilistResult && anilistResult.status === 'fulfilled' ? anilist.normalizeAniList(anilistResult.value) : null;
 
   if (jikanResult.status === 'rejected') {
     errors.push({ id, source: 'Jikan', message: jikanResult.reason.message, status: jikanResult.reason.status ?? null });
@@ -174,9 +192,12 @@ export async function fetchAnime(malId, options = {}) {
     errors.push({ id, source: 'Kitsu', message: kitsuResult.reason.message, status: kitsuResult.reason.status ?? null });
     missingSources.push('kitsu');
   }
-  if (anilistResult.status === 'rejected') {
+  if (anilistPromise && anilistResult.status === 'rejected') {
     errors.push({ id, source: 'AniList', message: anilistResult.reason.message, status: anilistResult.reason.status ?? null });
     missingSources.push('anilist');
+  } else if (!anilistPromise) {
+    // We skipped the AniList call because mappings.anilist was null
+    missingSources.push('anilist (not in ID mappings)');
   }
 
   // Hard failure: both designated primary sources are unavailable for this title.
@@ -192,7 +213,7 @@ export async function fetchAnime(malId, options = {}) {
     return { ok: false, malId: id, errors };
   }
 
-  // --- 3. Episodes via Zenshin (needs an AniList id) -----------------------
+  // --- 3. Episodes via Zenshin (needs an AniList id) or Jikan fallback -------
   const anilistIdForEpisodes = mappings.anilist ?? anilistData?.anilistId ?? null;
   let episodes = {};
   if (anilistIdForEpisodes) {
@@ -205,7 +226,19 @@ export async function fetchAnime(malId, options = {}) {
       missingSources.push('zenshin');
     }
   } else {
-    missingSources.push('zenshin (no AniList id resolved)');
+    // Fallback: fetch episodes from Jikan when no AniList ID is available
+    try {
+      const rawEpisodes = await jikan.getAllEpisodes(id);
+      episodes = jikan.normalizeJikanEpisodes(rawEpisodes);
+      if (Object.keys(episodes).length > 0) {
+        missingSources.push('jikan-episodes (fallback)');
+      } else {
+        missingSources.push('episodes (no data from Zenshin or Jikan)');
+      }
+    } catch (err) {
+      errors.push({ id, source: 'Jikan episodes', message: err.message, status: err.status ?? null });
+      missingSources.push('jikan-episodes');
+    }
   }
 
   // --- 4. Merge into final schema -----------------------------------------

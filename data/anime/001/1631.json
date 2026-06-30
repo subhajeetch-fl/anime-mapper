@@ -45,7 +45,7 @@
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.94,
+    "malScore": 6.93,
     "anilistScore": null,
     "kitsuRating": 7.04
   },
@@ -68,16 +68,16 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-26T13:53:16.605Z",
+    "lastFetched": "2026-06-30T07:04:50.854Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
       "animeapi.my.id",
-      "simkl"
+      "zenshin"
     ],
     "missingSources": [
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
     ],
     "dataVersion": 1
   }

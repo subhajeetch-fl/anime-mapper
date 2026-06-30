@@ -7,6 +7,7 @@
  * (see scripts/lib/rateLimiter.js) rather than firing concurrently.
  */
 import { fetchJson } from './httpClient.js';
+import { jikanLimiter } from './rateLimiter.js';
 
 const BASE_URL = 'https://api.jikan.moe/v4';
 
@@ -39,6 +40,67 @@ export async function getEpisodesPage(malId, page = 1) {
     baseDelayMs: 1500,
   });
   return json; // { data: [...], pagination: {...} } or null if 404
+}
+
+/**
+ * Fetch all episodes for an anime from Jikan with pagination.
+ * Jikan returns paginated results with `pagination.last_visible_page` and `pagination.has_next_page`.
+ * @param {number|string} malId
+ * @returns {Promise<Array>} Array of all episode objects from all pages
+ */
+export async function getAllEpisodes(malId) {
+  const allEpisodes = [];
+  let page = 1;
+  let hasNextPage = true;
+
+  while (hasNextPage) {
+    await jikanLimiter();
+    const json = await getEpisodesPage(malId, page);
+    if (!json || !json.data || json.data.length === 0) {
+      break;
+    }
+    allEpisodes.push(...json.data);
+    hasNextPage = json.pagination?.has_next_page === true;
+    page++;
+  }
+
+  return allEpisodes;
+}
+
+/**
+ * Normalizes Jikan episode data into our episode schema.
+ * Jikan episodes have: mal_id, url, title, title_japanese, title_romanji, aired, score, filler, recap, forum_url
+ * Our schema expects: episode, length, airDate, title {en, romaji, ja}, tvdbShowId, tvdbId, seasonNumber, episodeNumber, absoluteEpisodeNumber, runtime, image
+ * Fields we CAN'T get from Jikan are set to null.
+ * @param {Array} rawEpisodes - Array of raw Jikan episode objects
+ * @returns {Record<string, object>} Episodes keyed by episode number string
+ */
+export function normalizeJikanEpisodes(rawEpisodes) {
+  const result = {};
+  if (!rawEpisodes || !Array.isArray(rawEpisodes)) return result;
+
+  for (const ep of rawEpisodes) {
+    const epNum = String(ep.mal_id ?? ep.episode ?? '0');
+    result[epNum] = {
+      episode: epNum,
+      length: null, // Jikan doesn't provide episode length
+      airDate: ep.aired ?? null,
+      title: {
+        en: ep.title ?? null,
+        romaji: ep.title_romanji ?? null,
+        ja: ep.title_japanese ?? null,
+      },
+      tvdbShowId: null,
+      tvdbId: null,
+      seasonNumber: null,
+      episodeNumber: ep.mal_id ?? null,
+      absoluteEpisodeNumber: null,
+      runtime: null,
+      image: null,
+    };
+  }
+
+  return result;
 }
 
 /** Normalizes a Jikan `data` object into our internal shape. */

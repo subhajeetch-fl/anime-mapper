@@ -72,17 +72,52 @@
   "trailer": null,
   "synopsis": "Two summary episodes of the TV series that are airing prior to Blood-C: The Last Dark.  They will feature secret content that was never aired during the TV series' run.",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": "2012-05-27T00:00:00+00:00",
+      "title": {
+        "en": "Part 1",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": "2012-05-31T00:00:00+00:00",
+      "title": {
+        "en": "Part 2",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-27T15:08:33.874Z",
+    "lastFetched": "2026-06-30T07:06:56.383Z",
     "sourcesUsed": [
-      "jikan",
       "kitsu",
-      "animeapi.my.id"
+      "animeapi.my.id",
+      "zenshin"
     ],
     "missingSources": [
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "jikan-episodes (fallback)"
     ],
     "dataVersion": 1
   }

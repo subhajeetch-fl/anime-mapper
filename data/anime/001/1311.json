@@ -18,43 +18,52 @@
     "notify": "XhybcKimR"
   },
   "title": {
-    "romaji": null,
-    "english": null,
-    "native": null,
-    "synonyms": []
+    "romaji": "Chobits Recap",
+    "english": "Chobits: Hibiya and Kotoko Chat",
+    "native": "ちょびっツ",
+    "synonyms": [
+      "Chobits Episode 27: Hibiya and Kotoko Tell the Story",
+      "Chobits Special"
+    ]
   },
-  "type": null,
-  "source": null,
-  "status": "finished",
+  "type": "Special",
+  "source": "Manga",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 24,
   "aired": {
-    "from": "2003-02-21",
+    "from": "2003-02-21T00:00:00+00:00",
     "to": "2003-02-21"
   },
   "season": null,
   "year": null,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 6.92,
     "anilistScore": null,
-    "kitsuRating": 6.96
+    "kitsuRating": 6.95
   },
   "genres": [
     "Comedy",
-    "Sci-Fi",
     "Drama",
     "Romance",
+    "Sci-Fi",
     "Ecchi",
     "Science Fiction"
   ],
-  "studios": [],
+  "studios": [
+    "Madhouse"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/1176/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/10/22857l.jpg",
     "banner": null,
     "color": null
   },
@@ -63,16 +72,16 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-26T13:22:44.956Z",
+    "lastFetched": "2026-06-30T07:04:42.269Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
       "animeapi.my.id",
-      "simkl"
+      "zenshin"
     ],
     "missingSources": [
-      "jikan",
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
     ],
     "dataVersion": 1
   }

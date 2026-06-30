@@ -72,17 +72,52 @@
   "trailer": null,
   "synopsis": "Specials aired between episodes five and six and episodes ten and eleven, both recapitulation episodes.",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": "2012-11-13T00:00:00+00:00",
+      "title": {
+        "en": "Introductions!",
+        "romaji": "Shoukai Shimasu! ",
+        "ja": "紹介します！"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": "2012-12-25T00:00:00+00:00",
+      "title": {
+        "en": "Introductions 2!",
+        "romaji": "Shoukai Shimasu 2! ",
+        "ja": "紹介します２！"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-27T15:22:07.445Z",
+    "lastFetched": "2026-06-30T07:07:40.166Z",
     "sourcesUsed": [
-      "jikan",
       "kitsu",
-      "animeapi.my.id"
+      "animeapi.my.id",
+      "zenshin"
     ],
     "missingSources": [
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "jikan-episodes (fallback)"
     ],
     "dataVersion": 1
   }
