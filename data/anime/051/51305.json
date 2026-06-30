@@ -1,0 +1,180 @@
+{
+  "id": 51305,
+  "idMal": 51305,
+  "mappings": {
+    "mal": 51305,
+    "anilist": 146473,
+    "anidb": 17265,
+    "kitsu": 45976,
+    "simkl": 1870072,
+    "tmdb": 5895,
+    "tvdb": 78878,
+    "trakt": 5857,
+    "traktType": "shows",
+    "shikimori": 51305,
+    "livechart": 11137,
+    "animeplanet": "flcl-shoegaze",
+    "anisearch": 17248,
+    "notify": "o1Ekr_6Vg"
+  },
+  "title": {
+    "romaji": "FLCL: Shoegaze",
+    "english": "FLCL: Shoegaze",
+    "native": "フリクリ シューゲイザー",
+    "synonyms": [
+      "FLCL 5",
+      "Fooly Cooly Shoegaze"
+    ]
+  },
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 3,
+  "episodeLength": 23,
+  "aired": {
+    "from": "2023-10-01T00:00:00+00:00",
+    "to": "2023-10-15T00:00:00+00:00"
+  },
+  "season": "fall",
+  "year": 2023,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.16,
+    "anilistScore": 5.9,
+    "kitsuRating": 6.72
+  },
+  "genres": [
+    "Avant Garde",
+    "Comedy",
+    "Sci-Fi",
+    "Action",
+    "Mecha",
+    "Science Fiction"
+  ],
+  "studios": [
+    "Production I.G",
+    "Nut",
+    "Akatsuki"
+  ],
+  "producers": [
+    "Revoroot",
+    "CLAP",
+    "Crew-Cell"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1540/121528l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146473-ZGM6oxWdskDa.jpg",
+    "color": "#f1e400"
+  },
+  "trailer": null,
+  "synopsis": "The anime will take place 10 years after FLCL Alternative and will center on a high school boy and girl.",
+  "sequence": [
+    {
+      "malId": 35842,
+      "title": {
+        "romaji": "FLCL Alternative",
+        "english": "FLCL Alternative",
+        "native": "フリクリ オルタナ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21748-ZOusM9wb6Pln.png",
+      "format": "TV",
+      "episodes": 6,
+      "seasonYear": 2018,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 51304,
+      "title": {
+        "romaji": "FLCL: Grunge",
+        "english": "FLCL: Grunge",
+        "native": "フリクリ グランジ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146472-1Www8Sr5n3f4.jpg",
+      "format": "TV",
+      "episodes": 3,
+      "seasonYear": 2023,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2023-10-01",
+      "title": {
+        "en": "Full Barricade"
+      },
+      "tvdbShowId": 78878,
+      "tvdbId": 9061506,
+      "seasonNumber": 5,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9061506/screencap/65dba7e604f99.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2023-10-08",
+      "title": {
+        "en": "Generational Battle"
+      },
+      "tvdbShowId": 78878,
+      "tvdbId": 9589988,
+      "seasonNumber": 5,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9589988/screencap/65dba7c591a03.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2023-10-15",
+      "title": {
+        "en": "Far Friend"
+      },
+      "tvdbShowId": 78878,
+      "tvdbId": 9589989,
+      "seasonNumber": 5,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9589989/screencap/65dba7ac2d3b1.jpg"
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "2023-10-01",
+      "title": {
+        "en": "About a Rock`n`Roll Band (1-3)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-30T10:27:45.433Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

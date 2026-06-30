@@ -1,0 +1,133 @@
+{
+  "id": 50587,
+  "idMal": 50587,
+  "mappings": {
+    "mal": 50587,
+    "anilist": 142684,
+    "anidb": 17037,
+    "kitsu": 45583,
+    "simkl": 1806408,
+    "tmdb": 915403,
+    "tvdb": null,
+    "trakt": 733345,
+    "traktType": "movies",
+    "shikimori": 50587,
+    "livechart": 10942,
+    "animeplanet": "gridman-universe",
+    "anisearch": 16915,
+    "notify": "hpZ2NgTnR"
+  },
+  "title": {
+    "romaji": "GRIDMAN UNIVERSE",
+    "english": "Gridman Universe",
+    "native": "グリッドマン ユニバース",
+    "synonyms": [
+      "Gridman×Dynazenon",
+      " GRIDMAN×DYNAZENON"
+    ]
+  },
+  "type": "Movie",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 118,
+  "aired": {
+    "from": "2023-03-24T00:00:00+00:00",
+    "to": "2023-03-24"
+  },
+  "season": "winter",
+  "year": 2023,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 8.04,
+    "anilistScore": 8.1,
+    "kitsuRating": 8.05
+  },
+  "genres": [
+    "Sci-Fi",
+    "Action",
+    "Mecha",
+    "Romance",
+    "Science Fiction",
+    "Henshin",
+    "Super Robot"
+  ],
+  "studios": [
+    "Trigger"
+  ],
+  "producers": [
+    "Pony Canyon",
+    "Tsuburaya Productions"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1897/133657l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142684-bP6AQuVuEDxy.jpg",
+    "color": "#3578e4"
+  },
+  "trailer": null,
+  "synopsis": "A year has passed since the events of SSSS.Gridman. The world is at peace and no one except for Rikka and Utsumi remembers the kaiju, Gridman, or Akane Shinjou. This includes Yuuta, who despite serving as Gridman's host, has no memory of the most important moments of his life. So when a new Kaiju appears, he leaps at the chance to prove to himself that he too can be the hero by merging with Gridman once more.\n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 40870,
+      "title": {
+        "romaji": "SSSS.DYNAZENON",
+        "english": "SSSS.DYNAZENON",
+        "native": "SSSS.DYNAZENON"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113950-XqVhfpSccNuJ.png",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2021,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 53851,
+      "title": {
+        "romaji": "SSSS.DYNAZENON Movie",
+        "english": "SSSS.DYNAZENON Grand Episode",
+        "native": "SSSS.DYNAZENON Movie"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158991-NQ7Li3cCoVKb.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2023,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "120m",
+      "airDate": "2023-03-24",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-30T10:18:41.402Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

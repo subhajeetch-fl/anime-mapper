@@ -1,0 +1,439 @@
+{
+  "id": 50559,
+  "idMal": 50559,
+  "mappings": {
+    "mal": 50559,
+    "anilist": 142541,
+    "anidb": 17027,
+    "kitsu": 45580,
+    "simkl": 1803046,
+    "tmdb": 129553,
+    "tvdb": 402182,
+    "trakt": 184511,
+    "traktType": "shows",
+    "shikimori": 50559,
+    "livechart": 10930,
+    "animeplanet": "megaton-musashi-2nd-season",
+    "anisearch": 16905,
+    "notify": "LWsCAl27R"
+  },
+  "title": {
+    "romaji": "Megaton-kyuu Musashi Season 2",
+    "english": "Megaton Musashi Season 2",
+    "native": "メガトン級ムサシ シーズン2",
+    "synonyms": []
+  },
+  "type": "TV",
+  "source": "Mixed media",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 15,
+  "episodeLength": null,
+  "aired": {
+    "from": "2022-10-07T00:00:00+00:00",
+    "to": "2023-03-17T00:00:00+00:00"
+  },
+  "season": "fall",
+  "year": 2022,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 6.65,
+    "anilistScore": 6.4,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Sci-Fi",
+    "Mecha"
+  ],
+  "studios": [
+    "OLM"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1207/127832l.jpg",
+    "banner": null,
+    "color": "#f1bb1a"
+  },
+  "trailer": null,
+  "synopsis": "Second season of Megaton-kyuu Musashi.",
+  "sequence": [
+    {
+      "malId": 33737,
+      "title": {
+        "romaji": "Megaton-kyuu Musashi",
+        "english": "MEGATON MUSASHI",
+        "native": "メガトン級ムサシ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87502-IukO9bOX8G7V.jpg",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2021,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "30m",
+      "airDate": "2022-10-07",
+      "title": {
+        "en": "Cosmic Call"
+      },
+      "tvdbShowId": 402182,
+      "tvdbId": 9390706,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 27,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9390706/screencap/6559014642151.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2022-10-14",
+      "title": {
+        "en": "Live"
+      },
+      "tvdbShowId": 402182,
+      "tvdbId": 9390707,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9390707/screencap/655900c31358a.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2022-10-21",
+      "title": {
+        "en": "Justice"
+      },
+      "tvdbShowId": 402182,
+      "tvdbId": 9402515,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9402515/screencap/6558fef255d92.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "30m",
+      "airDate": "2022-10-28",
+      "title": {
+        "en": "Atonement"
+      },
+      "tvdbShowId": 402182,
+      "tvdbId": 9415071,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9415071/screencap/6558fe333ff69.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "30m",
+      "airDate": "2022-11-18",
+      "title": {
+        "en": "Collapse"
+      },
+      "tvdbShowId": 402182,
+      "tvdbId": 9425459,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9425459/screencap/6558fd682e14e.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2022-12-02",
+      "title": {
+        "en": "A Tiny Hand"
+      },
+      "tvdbShowId": 402182,
+      "tvdbId": 9461982,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9461982/screencap/655901b7270cb.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "30m",
+      "airDate": "2022-12-09",
+      "title": {
+        "en": "The Lost Village"
+      },
+      "tvdbShowId": 402182,
+      "tvdbId": 9485126,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9485126/screencap/65590240759af.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "30m",
+      "airDate": "2022-12-16",
+      "title": {
+        "en": "To the Stronghold"
+      },
+      "tvdbShowId": 402182,
+      "tvdbId": 9498265,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9498265/screencap/655902907edb2.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "30m",
+      "airDate": "2022-12-23",
+      "title": {
+        "en": "Giant Deity"
+      },
+      "tvdbShowId": 402182,
+      "tvdbId": 9509545,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9509545/screencap/6559030411d09.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "30m",
+      "airDate": "2022-12-30",
+      "title": {
+        "en": "Festival"
+      },
+      "tvdbShowId": 402182,
+      "tvdbId": 9520897,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9520897/screencap/65590359b6372.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "30m",
+      "airDate": "2023-02-03",
+      "title": {
+        "en": "Holy Ground"
+      },
+      "tvdbShowId": 402182,
+      "tvdbId": 9520898,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9520898/screencap/655903c072c95.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "30m",
+      "airDate": "2023-02-10",
+      "title": {
+        "en": "Ameno-Murakumo"
+      },
+      "tvdbShowId": 402182,
+      "tvdbId": 9520900,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9520900/screencap/65590463884d1.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "30m",
+      "airDate": "2023-02-17",
+      "title": {
+        "en": "Flash"
+      },
+      "tvdbShowId": 402182,
+      "tvdbId": 9520901,
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9520901/screencap/655904efe2067.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "30m",
+      "airDate": "2023-03-10",
+      "title": {
+        "en": "Succession"
+      },
+      "tvdbShowId": 402182,
+      "tvdbId": 9520902,
+      "seasonNumber": 2,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9520902/screencap/655905721e63b.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "35m",
+      "airDate": "2023-03-17",
+      "title": {
+        "en": "Reunited"
+      },
+      "tvdbShowId": 402182,
+      "tvdbId": 9520903,
+      "seasonNumber": 2,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9520903/screencap/655905c8274c4.jpg"
+    },
+    "C1": {
+      "episode": "C1",
+      "length": "2m",
+      "airDate": "2022-10-07",
+      "title": {
+        "en": "Opening"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C2": {
+      "episode": "C2",
+      "length": "2m",
+      "airDate": "2022-10-14",
+      "title": {
+        "en": "Ending 1a"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C3": {
+      "episode": "C3",
+      "length": "2m",
+      "airDate": "2022-11-18",
+      "title": {
+        "en": "Ending 1b"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C4": {
+      "episode": "C4",
+      "length": "2m",
+      "airDate": "2022-12-09",
+      "title": {
+        "en": "Ending 1c"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C5": {
+      "episode": "C5",
+      "length": "2m",
+      "airDate": "2022-12-23",
+      "title": {
+        "en": "Ending 1d"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C6": {
+      "episode": "C6",
+      "length": "2m",
+      "airDate": "2023-02-17",
+      "title": {
+        "en": "Ending 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C7": {
+      "episode": "C7",
+      "length": "2m",
+      "airDate": "2023-03-10",
+      "title": {
+        "en": "Ending 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C8": {
+      "episode": "C8",
+      "length": "2m",
+      "airDate": "2023-03-17",
+      "title": {
+        "en": "Ending 4"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-30T10:18:11.594Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}
