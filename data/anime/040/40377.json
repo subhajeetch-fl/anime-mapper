@@ -66,17 +66,154 @@
   "trailer": null,
   "synopsis": "Astro Boy appears to be a normal, playful kid, yet he is a robot capable of both flying and incredible strength. Living with his parents in a small town where humans and robots coexist, he has many friends thanks to his cheerful nature. Eager to learn and try new things, Astro and his companions often embark on exciting adventures. But their explorations are met with unexpected troubles when the wicked criminal Hamegg—joined by his accomplices Gora, a pink gorilla robot, and Professor Flau—interferes with their endeavors. \n\nAs the little robot boy and his group bravely face challenges, their efforts become part of a journey to discover the world's values and wonders.\n\n[Written by MAL Rewrite]",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": "2014-03-22T00:00:00+00:00",
+      "title": {
+        "en": "Astro Becomes a Racer!",
+        "romaji": "Atom, Racer ni Naru!? ",
+        "ja": "アトム、レーサーになる！？"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": "2014-03-22T00:00:00+00:00",
+      "title": {
+        "en": "Recycling Gone Wild",
+        "romaji": "Bousou Recycling ",
+        "ja": "暴走リサイクル"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": null,
+      "airDate": "2014-03-29T00:00:00+00:00",
+      "title": {
+        "en": "Astro Goes to Space",
+        "romaji": "Atom, Uchuu e Iku ",
+        "ja": "アトム、宇宙へ行く"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": null,
+      "airDate": "2014-03-29T00:00:00+00:00",
+      "title": {
+        "en": "We Love Cleaning",
+        "romaji": "Osouji Daisuki ",
+        "ja": "おそうじ大好き"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": null,
+      "airDate": "2014-04-12T00:00:00+00:00",
+      "title": {
+        "en": "Fly! Mitchy",
+        "romaji": "Tobe! Mitchy ",
+        "ja": "飛べ！ミッチ―"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": null,
+      "airDate": "2014-04-12T00:00:00+00:00",
+      "title": {
+        "en": "Heart on Fire",
+        "romaji": null,
+        "ja": "ハートに火がついた"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": null,
+      "airDate": "2014-04-26T00:00:00+00:00",
+      "title": {
+        "en": "I'm Moler, You See?",
+        "romaji": null,
+        "ja": "オ、オイラはモーグラーなんだな"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": null,
+      "airDate": "2014-04-26T00:00:00+00:00",
+      "title": {
+        "en": "Astro and The 5 Adventures",
+        "romaji": "Jikan wo Nusunda Otoko vs Atom to 5-ri to Bouken-tai ",
+        "ja": "時間を盗んだ男vsアトムと5人と冒険隊"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-29T08:42:54.054Z",
+    "lastFetched": "2026-06-30T11:18:25.498Z",
     "sourcesUsed": [
-      "jikan",
       "kitsu",
-      "animeapi.my.id"
+      "animeapi.my.id",
+      "zenshin"
     ],
     "missingSources": [
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "jikan-episodes (fallback)"
     ],
     "dataVersion": 1
   }

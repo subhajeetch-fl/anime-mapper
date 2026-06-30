@@ -65,17 +65,52 @@
   "trailer": null,
   "synopsis": "A new mini season of Ninja Box. They expand upon the random everyday encounters of the kids. According to the official YouTube channels, this is the \"season 3\" of the franchise and the episodes will have irregular release schedule.",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": "2020-03-26T00:00:00+00:00",
+      "title": {
+        "en": "New Anime Start-Dacchi!",
+        "romaji": "Shin Anime Start Dacchi! ",
+        "ja": "新アニメスタートだッチ！"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": null,
+      "airDate": "2021-01-07T00:00:00+00:00",
+      "title": {
+        "en": "Is the Era of Tapioca Ending? Dacchi!",
+        "romaji": "Tapioca Boom Shuuen? Dacchi! ",
+        "ja": "タピオカブーム終焉？だッチ！"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-29T09:36:54.038Z",
+    "lastFetched": "2026-06-30T11:23:33.447Z",
     "sourcesUsed": [
-      "jikan",
       "kitsu",
-      "animeapi.my.id"
+      "animeapi.my.id",
+      "zenshin"
     ],
     "missingSources": [
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "jikan-episodes (fallback)"
     ],
     "dataVersion": 1
   }

@@ -64,15 +64,16 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-29T00:13:23.265Z",
+    "lastFetched": "2026-06-30T11:15:33.944Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
-      "animeapi.my.id"
+      "animeapi.my.id",
+      "zenshin"
     ],
     "missingSources": [
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
     ],
     "dataVersion": 1
   }

@@ -45,7 +45,7 @@
   "nextAiringEpisode": null,
   "rating": "PG - Children",
   "score": {
-    "malScore": 6.33,
+    "malScore": 6.34,
     "anilistScore": null,
     "kitsuRating": null
   },
@@ -67,15 +67,16 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-29T09:52:01.570Z",
+    "lastFetched": "2026-06-30T11:25:07.463Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
-      "animeapi.my.id"
+      "animeapi.my.id",
+      "zenshin"
     ],
     "missingSources": [
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
     ],
     "dataVersion": 1
   }
