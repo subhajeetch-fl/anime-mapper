@@ -37,4 +37,4 @@ jobs:
 
       - name: Commit and push safely
         run: |
-          bash .github/scripts/commit-and-push.sh "chore(data): update homepage [skip ci]"
+          bash .github/scripts/commit-and-push.sh "chore(data): update homepage"

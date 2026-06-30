@@ -66,4 +66,4 @@ jobs:
 
       - name: Commit and push safely
         run: |
-          bash .github/scripts/commit-and-push.sh "chore(data): discover MAL ids [skip ci]"
+          bash .github/scripts/commit-and-push.sh "chore(data): discover MAL ids"

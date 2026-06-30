@@ -55,4 +55,4 @@ jobs:
 
       - name: Commit and push safely
         run: |
-          bash .github/scripts/commit-and-push.sh "chore(data): auto add anime [skip ci]" rebuild-indexes
+          bash .github/scripts/commit-and-push.sh "chore(data): auto add anime" rebuild-indexes
