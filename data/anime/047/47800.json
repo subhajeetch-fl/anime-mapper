@@ -1,0 +1,111 @@
+{
+  "id": 47800,
+  "idMal": 47800,
+  "mappings": {
+    "mal": 47800,
+    "anilist": 129584,
+    "anidb": null,
+    "kitsu": 44044,
+    "simkl": null,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 47800,
+    "livechart": null,
+    "animeplanet": "seer",
+    "anisearch": null,
+    "notify": null
+  },
+  "title": {
+    "romaji": "Seer",
+    "english": "Seer",
+    "native": "赛尔号",
+    "synonyms": [
+      "赛尔号 第一季",
+      "赛尔号之雷伊传说",
+      "赛尔号之雷神传说"
+    ]
+  },
+  "type": "TV",
+  "source": "Game",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 52,
+  "episodeLength": null,
+  "aired": {
+    "from": "2012-01-10T00:00:00+00:00",
+    "to": "2013-01-01T00:00:00+00:00"
+  },
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": null,
+    "anilistScore": null,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "studios": [
+    "Taomee"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1100/117983l.jpg",
+    "banner": null,
+    "color": "#1abbf1"
+  },
+  "trailer": null,
+  "synopsis": null,
+  "sequence": [
+    {
+      "malId": 43975,
+      "title": {
+        "romaji": "Seer Da Dianying: Xunzhao Fenghuang Shenshou",
+        "english": null,
+        "native": "赛尔号大电影: 寻找凤凰神兽"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129550-poZRgR8HyJMO.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 44144,
+      "title": {
+        "romaji": "Seer 2",
+        "english": null,
+        "native": "赛尔号 第二季"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129586-HvcdQj7uJmxD.jpg",
+      "format": "TV_SHORT",
+      "episodes": 40,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-06-30T08:00:25.846Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

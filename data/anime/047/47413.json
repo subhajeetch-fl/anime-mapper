@@ -1,0 +1,127 @@
+{
+  "id": 47413,
+  "idMal": 47413,
+  "mappings": {
+    "mal": 47413,
+    "anilist": 131770,
+    "anidb": 15999,
+    "kitsu": 44243,
+    "simkl": 1542439,
+    "tmdb": 801293,
+    "tvdb": null,
+    "trakt": 636259,
+    "traktType": "movies",
+    "shikimori": 47413,
+    "livechart": 10359,
+    "animeplanet": "detective-conan-hiiro-no-fuzai-shoumei",
+    "anisearch": 15913,
+    "notify": null
+  },
+  "title": {
+    "romaji": "Meitantei Conan: Hiiro no Fuzai Shoumei",
+    "english": "Detective Conan: The Scarlet Alibi",
+    "native": "名探偵コナン 緋色の不在証明",
+    "synonyms": [
+      "Case Closed: The Scarlet Alibi",
+      "Detective Conan: The Scarlet Alibi"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": null,
+  "aired": {
+    "from": "2021-02-11T00:00:00+00:00",
+    "to": null
+  },
+  "season": "winter",
+  "year": 2021,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.4,
+    "anilistScore": 7,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "studios": [
+    "TMS Entertainment"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1234/117118l.jpg",
+    "banner": null,
+    "color": "#ae4335"
+  },
+  "trailer": null,
+  "synopsis": "Compilation film combining footage from various television anime episodes that center on the Akai family.\n\n(Source: ANN)",
+  "sequence": [
+    {
+      "malId": 235,
+      "title": {
+        "romaji": "Meitantei Conan",
+        "english": "Detective Conan",
+        "native": "名探偵コナン"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": 1996,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 39764,
+      "title": {
+        "romaji": "Meitantei Conan: Hiiro no Dangan",
+        "english": "Case Closed: The Scarlet Bullet",
+        "native": "名探偵コナン 緋色の弾丸"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113653-HY0suLnhIlA6.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2021,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "95m",
+      "airDate": "2021-02-11",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-30T07:51:03.831Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

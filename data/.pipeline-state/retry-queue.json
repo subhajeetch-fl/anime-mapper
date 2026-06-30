@@ -34747,5 +34747,57 @@
     "attempts": 1,
     "firstFailedAt": "2026-06-30T02:27:24.261Z",
     "lastAttempt": "2026-06-30T02:27:24.261Z"
+  },
+  {
+    "id": 46596,
+    "reasons": [
+      {
+        "source": "Jikan episodes",
+        "message": "Jikan episodes server error (500)",
+        "status": 500
+      }
+    ],
+    "attempts": 1,
+    "firstFailedAt": "2026-06-30T08:35:15.751Z",
+    "lastAttempt": "2026-06-30T08:35:15.751Z"
+  },
+  {
+    "id": 47441,
+    "reasons": [
+      {
+        "source": "AniList",
+        "message": "AniList returned 404",
+        "status": 404
+      }
+    ],
+    "attempts": 1,
+    "firstFailedAt": "2026-06-30T08:35:15.751Z",
+    "lastAttempt": "2026-06-30T08:35:15.751Z"
+  },
+  {
+    "id": 47890,
+    "reasons": [
+      {
+        "source": "AniList",
+        "message": "AniList returned 404",
+        "status": 404
+      }
+    ],
+    "attempts": 1,
+    "firstFailedAt": "2026-06-30T08:35:15.751Z",
+    "lastAttempt": "2026-06-30T08:35:15.751Z"
+  },
+  {
+    "id": 49326,
+    "reasons": [
+      {
+        "source": "AniList",
+        "message": "AniList returned 404",
+        "status": 404
+      }
+    ],
+    "attempts": 1,
+    "firstFailedAt": "2026-06-30T08:35:15.751Z",
+    "lastAttempt": "2026-06-30T08:35:15.751Z"
   }
 ]
