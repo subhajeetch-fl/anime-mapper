@@ -1,0 +1,150 @@
+{
+  "id": 56175,
+  "idMal": 56175,
+  "mappings": {
+    "mal": 56175,
+    "anilist": 167984,
+    "anidb": 18146,
+    "kitsu": 47834,
+    "simkl": 2223476,
+    "tmdb": 1177096,
+    "tvdb": null,
+    "trakt": 949162,
+    "traktType": "movies",
+    "shikimori": 56175,
+    "livechart": 12284,
+    "animeplanet": null,
+    "anisearch": 18584,
+    "notify": "hEese_eVR"
+  },
+  "title": {
+    "romaji": "Oomuro-ke: dear sisters",
+    "english": null,
+    "native": "大室家 dear sisters",
+    "synonyms": [
+      "Ohmuro Family",
+      "Oomuroke",
+      "OMRK",
+      "The Omuro Family"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 40,
+  "aired": {
+    "from": "2024-02-02T00:00:00+00:00",
+    "to": "2024-06-21"
+  },
+  "season": "winter",
+  "year": 2024,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.82,
+    "anilistScore": 7.8,
+    "kitsuRating": 7.71
+  },
+  "genres": [
+    "Comedy",
+    "Girls Love",
+    "Slice of Life",
+    "Family"
+  ],
+  "studios": [
+    "Passione",
+    "Studio Lings"
+  ],
+  "producers": [
+    "Lantis",
+    "Ichijinsha",
+    "Cloud22",
+    "Bandai Namco Filmworks"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1401/140053l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167984-yLABbuvPkrCT.jpg",
+    "color": "#f1d6ae"
+  },
+  "trailer": null,
+  "synopsis": "A spin-off of Yuru Yuri featuring Sakurako and her sisters.",
+  "sequence": [
+    {
+      "malId": 10495,
+      "title": {
+        "romaji": "Yuru Yuri",
+        "english": "YuruYuri",
+        "native": "ゆるゆり"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10495-FbK4ybSp2DNG.jpg",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2011,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 57993,
+      "title": {
+        "romaji": "Oomuro-ke: dear friends",
+        "english": null,
+        "native": "大室家 dear friends"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174383-WIAKPEGRV4b8.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2024,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "45m",
+      "airDate": "2024-02-02",
+      "title": {
+        "en": "Dear Sisters"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "0m",
+      "airDate": "2024-06-21",
+      "title": {
+        "en": "Dear Friends"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-30T15:31:13.654Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

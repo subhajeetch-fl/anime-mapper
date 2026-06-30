@@ -1,0 +1,2293 @@
+{
+  "id": 56566,
+  "idMal": 56566,
+  "mappings": {
+    "mal": 56566,
+    "anilist": 165159,
+    "anidb": 18181,
+    "kitsu": 47546,
+    "simkl": 2249414,
+    "tmdb": 226688,
+    "tvdb": 435020,
+    "trakt": 207316,
+    "traktType": "shows",
+    "shikimori": 56566,
+    "livechart": 12038,
+    "animeplanet": "beyblade-x",
+    "anisearch": 18438,
+    "notify": "DazbblkSg"
+  },
+  "title": {
+    "romaji": "BEYBLADE X",
+    "english": "Beyblade X",
+    "native": "BEYBLADE X",
+    "synonyms": [
+      "ベイブレードエックス",
+      "ベイブレイド X"
+    ]
+  },
+  "type": "TV",
+  "source": "Manga",
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": null,
+  "episodeLength": null,
+  "aired": {
+    "from": "2023-10-06T00:00:00+00:00",
+    "to": null
+  },
+  "season": "fall",
+  "year": 2023,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "18:25",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": {
+    "episode": 129,
+    "airingAt": 1787304300
+  },
+  "rating": "PG - Children",
+  "score": {
+    "malScore": 6.88,
+    "anilistScore": 6.4,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Adventure",
+    "Sports",
+    "Action"
+  ],
+  "studios": [
+    "OLM"
+  ],
+  "producers": [
+    "TV Tokyo"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
+    "banner": "https://media.kitsu.app/anime/47546/cover_image/58ce51a940e1f68c988d7d3575ed4573.png",
+    "color": "#28aee4"
+  },
+  "trailer": null,
+  "synopsis": "At the heart of X City stands the impressive X Tower, an interconnected twin-skyscraper structure that symbolizes the pinnacle of every Beyblade player's dream. The building serves as the official headquarters for professional Beybattles, where competitors strive to ascend all one hundred floors; at its summit, the reigning champions, Team Pendragon, await contenders worthy of challenging their title.\n\nBird Kazami, an amateur Blader, arrives in the city eager to turn professional. However, he and his teammates are crushed in their first qualifying match, prompting his companions to give up and disband their team. Fortunately, Bird is soon approached by the easygoing Ekusu Kurosu. In disguise as \"Kamen X\" to hide his identity as a former member of the undefeated Team Pendragon, Ekusu wants to climb the tower all over again. To complete their new group, they recruit skilled Beyblade expert and savvy social media influencer Multi Nanairo.\n\nDriven by their individual goals, the trio wins their preliminary rounds, launching their careers as Team Persona. Bird and his new friends must navigate the world of corporate sponsorships, earn the fickle public's support, and defeat many formidable opponents—all in their quest to reach X Tower's peak.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 288,
+      "title": {
+        "romaji": "Bakuten Shoot Beyblade",
+        "english": "Beyblade",
+        "native": "爆転シュート　ベイブレード"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b288-QLBdXz8n34yP.png",
+      "format": "TV",
+      "episodes": 51,
+      "seasonYear": 2001,
+      "relationType": "OTHER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2023-10-06",
+      "title": {
+        "en": "X"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 9794301,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9794301/screencap/6523518d5e9e6.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2023-10-13",
+      "title": {
+        "en": "Multi-Colored Ambush"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10078290,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10078290/screencap/65341dbdd6d32.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2023-10-20",
+      "title": {
+        "en": "Team Persona"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10078291,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10078291/screencap/65342169e1908.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2023-10-27",
+      "title": {
+        "en": "Bey Sponsor"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10078292,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10078292/screencap/653d5569729ef.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2023-11-03",
+      "title": {
+        "en": "To the X"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10118674,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10118674/screencap/6547a9fd24030.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2023-11-10",
+      "title": {
+        "en": "Lion`s Jungle"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10143463,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10143463/screencap/6552364121949.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2023-11-17",
+      "title": {
+        "en": "Team Zooganic"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10156054,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10156054/screencap/655ca886ab9df.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2023-11-24",
+      "title": {
+        "en": "The Mask and the King"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10076429,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10076429/screencap/65662e9dd4265.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": "25m",
+      "airDate": "2023-12-01",
+      "title": {
+        "en": "Beycrafter"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10076430,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10076430/screencap/656f149bd9cad.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": "25m",
+      "airDate": "2023-12-08",
+      "title": {
+        "en": "The Pro Realm"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10188325,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10188325/screencap/6577aa720a35f.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": "25m",
+      "airDate": "2023-12-15",
+      "title": {
+        "en": "Warden`s Exam"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10201004,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10201004/screencap/6581d7e5117d1.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": "25m",
+      "airDate": "2023-12-22",
+      "title": {
+        "en": "The Final Battle"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10208789,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10208789/screencap/658d98c0a70b8.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": "25m",
+      "airDate": "2024-01-05",
+      "title": {
+        "en": "The First Fan"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10235061,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10235061/screencap/65a9ef5361e9d.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": "25m",
+      "airDate": "2024-01-12",
+      "title": {
+        "en": "Jax-ercise"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10235062,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10235062/screencap/65a9f20cc4260.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": "25m",
+      "airDate": "2024-01-19",
+      "title": {
+        "en": "Riddles and Beys"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10271298,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10271298/screencap/65b3cddad0d77.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": "25m",
+      "airDate": "2024-01-26",
+      "title": {
+        "en": "Noblesse Oblige"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10271317,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10271317/screencap/65b3d3a3ce465.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "2024-02-02",
+      "title": {
+        "en": "Bey Timeshift"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10311695,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10311695/screencap/65ccdd47018c4.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "2024-02-09",
+      "title": {
+        "en": "Pride"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10311696,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10311696/screencap/65ccdda80a7da.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "2024-02-16",
+      "title": {
+        "en": "Zip and Zoom"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10325251,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10325251/screencap/65d6ad054f4b5.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "2024-02-23",
+      "title": {
+        "en": "Memories of Sushi"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10346271,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10346271/screencap/65e0c5187d53e.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": "25m",
+      "airDate": "2024-03-01",
+      "title": {
+        "en": "Pop Production"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10354818,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10354818/screencap/65f0859cb6bf2.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": "25m",
+      "airDate": "2024-03-08",
+      "title": {
+        "en": "Black and White"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10372665,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10372665/screencap/65f0868a11152.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": "25m",
+      "airDate": "2024-03-15",
+      "title": {
+        "en": "True Heart"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10383470,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383470/screencap/65f5a4823cf94.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": "25m",
+      "airDate": "2024-03-22",
+      "title": {
+        "en": "Arrival of the Fastest"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10411303,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10411303/screencap/667ebc0c8229b.jpg"
+    },
+    "25": {
+      "episode": "25",
+      "length": "25m",
+      "airDate": "2024-03-29",
+      "title": {
+        "en": "Proof of the Fastest"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10413460,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10413460/screencap/667ebc4b34529.jpg"
+    },
+    "26": {
+      "episode": "26",
+      "length": "25m",
+      "airDate": "2024-04-05",
+      "title": {
+        "en": "Invitation"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10428125,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10428125/screencap/66104fdabe755.jpg"
+    },
+    "27": {
+      "episode": "27",
+      "length": "25m",
+      "airDate": "2024-04-12",
+      "title": {
+        "en": "The End of Persistence"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10446564,
+      "seasonNumber": 1,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10446564/screencap/661d359f24393.jpg"
+    },
+    "28": {
+      "episode": "28",
+      "length": "25m",
+      "airDate": "2024-04-19",
+      "title": {
+        "en": "The King and the Phoenix"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10459522,
+      "seasonNumber": 1,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10459522/screencap/6626a80bb25de.jpg"
+    },
+    "29": {
+      "episode": "29",
+      "length": "25m",
+      "airDate": "2024-04-26",
+      "title": {
+        "en": "Mask and Meat Buns"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10470601,
+      "seasonNumber": 1,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10470601/screencap/662d47127165c.jpg"
+    },
+    "30": {
+      "episode": "30",
+      "length": "25m",
+      "airDate": "2024-05-03",
+      "title": {
+        "en": "Riddles and Pop"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10483026,
+      "seasonNumber": 1,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10483026/screencap/6637dbf21862e.jpg"
+    },
+    "31": {
+      "episode": "31",
+      "length": "25m",
+      "airDate": "2024-05-10",
+      "title": {
+        "en": "My Teammates"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10491390,
+      "seasonNumber": 1,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10491390/screencap/663fbf410d59a.jpg"
+    },
+    "32": {
+      "episode": "32",
+      "length": "25m",
+      "airDate": "2024-05-17",
+      "title": {
+        "en": "New Partner"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10491391,
+      "seasonNumber": 1,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10491391/screencap/6648ed3210ba9.jpg"
+    },
+    "33": {
+      "episode": "33",
+      "length": "25m",
+      "airDate": "2024-05-24",
+      "title": {
+        "en": "Our Promise"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10491392,
+      "seasonNumber": 1,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10491392/screencap/66586851b3b08.jpg"
+    },
+    "34": {
+      "episode": "34",
+      "length": "25m",
+      "airDate": "2024-05-31",
+      "title": {
+        "en": "A Rainbow Guest"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10491393,
+      "seasonNumber": 1,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10491393/screencap/665cbe405ec28.jpg"
+    },
+    "35": {
+      "episode": "35",
+      "length": "25m",
+      "airDate": "2024-06-07",
+      "title": {
+        "en": "The Dream Contest"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10520050,
+      "seasonNumber": 1,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10520050/screencap/66644860a77c1.jpg"
+    },
+    "36": {
+      "episode": "36",
+      "length": "25m",
+      "airDate": "2024-06-14",
+      "title": {
+        "en": "Bladership"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10520051,
+      "seasonNumber": 1,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10520051/screencap/666dc6fbd17fe.jpg"
+    },
+    "37": {
+      "episode": "37",
+      "length": "25m",
+      "airDate": "2024-06-21",
+      "title": {
+        "en": "Unpredictable"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10520053,
+      "seasonNumber": 1,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 37,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10520053/screencap/6675c1235e011.jpg"
+    },
+    "38": {
+      "episode": "38",
+      "length": "25m",
+      "airDate": "2024-06-28",
+      "title": {
+        "en": "Return of the Queen"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10520054,
+      "seasonNumber": 1,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 38,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10520054/screencap/668169c4d9515.jpg"
+    },
+    "39": {
+      "episode": "39",
+      "length": "25m",
+      "airDate": "2024-07-05",
+      "title": {
+        "en": "The Greatest Blader"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10569164,
+      "seasonNumber": 1,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": 39,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10569164/screencap/66883a6e4c7e0.jpg"
+    },
+    "40": {
+      "episode": "40",
+      "length": "25m",
+      "airDate": "2024-07-12",
+      "title": {
+        "en": "The Other Mask"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10569165,
+      "seasonNumber": 1,
+      "episodeNumber": 40,
+      "absoluteEpisodeNumber": 40,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10569165/screencap/6692d2141b2dc.jpg"
+    },
+    "41": {
+      "episode": "41",
+      "length": "25m",
+      "airDate": "2024-07-19",
+      "title": {
+        "en": "The Three Masks"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10569166,
+      "seasonNumber": 1,
+      "episodeNumber": 41,
+      "absoluteEpisodeNumber": 41,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10569166/screencap/669aedb5890c2.jpg"
+    },
+    "42": {
+      "episode": "42",
+      "length": "25m",
+      "airDate": "2024-07-26",
+      "title": {
+        "en": "XYZ"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10569167,
+      "seasonNumber": 1,
+      "episodeNumber": 42,
+      "absoluteEpisodeNumber": 42,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10569167/screencap/66a3f759ef26b.jpg"
+    },
+    "43": {
+      "episode": "43",
+      "length": "25m",
+      "airDate": "2024-08-09",
+      "title": {
+        "en": "Pendragon, Back Then"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10626688,
+      "seasonNumber": 1,
+      "episodeNumber": 43,
+      "absoluteEpisodeNumber": 43,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10626688/screencap/66b672b57f9ba.jpg"
+    },
+    "44": {
+      "episode": "44",
+      "length": "25m",
+      "airDate": "2024-08-16",
+      "title": {
+        "en": "Family, Back Then"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10626689,
+      "seasonNumber": 1,
+      "episodeNumber": 44,
+      "absoluteEpisodeNumber": 44,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10626689/screencap/66be4a244cf6f.jpg"
+    },
+    "45": {
+      "episode": "45",
+      "length": "25m",
+      "airDate": "2024-08-23",
+      "title": {
+        "en": "You, Back Then"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10626690,
+      "seasonNumber": 1,
+      "episodeNumber": 45,
+      "absoluteEpisodeNumber": 45,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10626690/screencap/66c92ec176b06.jpg"
+    },
+    "46": {
+      "episode": "46",
+      "length": "25m",
+      "airDate": "2024-08-30",
+      "title": {
+        "en": "Time Off"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10626691,
+      "seasonNumber": 1,
+      "episodeNumber": 46,
+      "absoluteEpisodeNumber": 46,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10626691/screencap/66da20bed340b.jpg"
+    },
+    "47": {
+      "episode": "47",
+      "length": "25m",
+      "airDate": "2024-09-06",
+      "title": {
+        "en": "Battle at the Top"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10684378,
+      "seasonNumber": 1,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": 47,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10684378/screencap/66ddfc1ae17dd.jpg"
+    },
+    "48": {
+      "episode": "48",
+      "length": "25m",
+      "airDate": "2024-09-13",
+      "title": {
+        "en": "The Nana-iro Showdown"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10684379,
+      "seasonNumber": 1,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": 48,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10684379/screencap/66e59de3d370f.jpg"
+    },
+    "49": {
+      "episode": "49",
+      "length": "25m",
+      "airDate": "2024-09-20",
+      "title": {
+        "en": "Something Xtraordinary"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10707701,
+      "seasonNumber": 1,
+      "episodeNumber": 49,
+      "absoluteEpisodeNumber": 49,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10707701/screencap/66ef40f557f91.jpg"
+    },
+    "50": {
+      "episode": "50",
+      "length": "25m",
+      "airDate": "2024-09-27",
+      "title": {
+        "en": "The Two Xs"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10707702,
+      "seasonNumber": 1,
+      "episodeNumber": 50,
+      "absoluteEpisodeNumber": 50,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10707702/screencap/66f86d693197a.jpg"
+    },
+    "51": {
+      "episode": "51",
+      "length": "25m",
+      "airDate": "2024-10-04",
+      "title": {
+        "en": "The Most Fun Ever"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10733546,
+      "seasonNumber": 1,
+      "episodeNumber": 51,
+      "absoluteEpisodeNumber": 51,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10733546/screencap/6702e740d5d82.jpg"
+    },
+    "52": {
+      "episode": "52",
+      "length": "25m",
+      "airDate": "2024-10-18",
+      "title": {
+        "en": "Restart"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10733547,
+      "seasonNumber": 1,
+      "episodeNumber": 52,
+      "absoluteEpisodeNumber": 52,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10733547/screencap/67115d1118ab6.jpg"
+    },
+    "53": {
+      "episode": "53",
+      "length": "25m",
+      "airDate": "2024-10-25",
+      "title": {
+        "en": "Signs of a New Era"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10733548,
+      "seasonNumber": 1,
+      "episodeNumber": 53,
+      "absoluteEpisodeNumber": 53,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10733548/screencap/671d21dcd3bce.jpg"
+    },
+    "54": {
+      "episode": "54",
+      "length": "25m",
+      "airDate": "2024-11-01",
+      "title": {
+        "en": "Path of Resolve"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10763486,
+      "seasonNumber": 1,
+      "episodeNumber": 54,
+      "absoluteEpisodeNumber": 54,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10763486/screencap/672e70f72bbc9.jpg"
+    },
+    "55": {
+      "episode": "55",
+      "length": "25m",
+      "airDate": "2024-11-08",
+      "title": {
+        "en": "Advance Bey Timeshift"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10763487,
+      "seasonNumber": 1,
+      "episodeNumber": 55,
+      "absoluteEpisodeNumber": 55,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10763487/screencap/672e740645e5d.jpg"
+    },
+    "56": {
+      "episode": "56",
+      "length": "25m",
+      "airDate": "2024-11-15",
+      "title": {
+        "en": "Star Plot"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10763488,
+      "seasonNumber": 1,
+      "episodeNumber": 56,
+      "absoluteEpisodeNumber": 56,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10763488/screencap/673cd705e3813.jpg"
+    },
+    "57": {
+      "episode": "57",
+      "length": "25m",
+      "airDate": "2024-11-22",
+      "title": {
+        "en": "Tri-Blader Battle"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10763490,
+      "seasonNumber": 1,
+      "episodeNumber": 57,
+      "absoluteEpisodeNumber": 57,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10763490/screencap/67419e45369da.jpg"
+    },
+    "58": {
+      "episode": "58",
+      "length": "25m",
+      "airDate": "2024-11-29",
+      "title": {
+        "en": "Triple Battle"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10763492,
+      "seasonNumber": 1,
+      "episodeNumber": 58,
+      "absoluteEpisodeNumber": 58,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10763492/screencap/674b6a815cdd1.jpg"
+    },
+    "59": {
+      "episode": "59",
+      "length": "25m",
+      "airDate": "2024-12-06",
+      "title": {
+        "en": "Blader S"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10833046,
+      "seasonNumber": 1,
+      "episodeNumber": 59,
+      "absoluteEpisodeNumber": 59,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10833046/screencap/6751ad5dc879b.jpg"
+    },
+    "60": {
+      "episode": "60",
+      "length": "25m",
+      "airDate": "2024-12-13",
+      "title": {
+        "en": "Multi-Colored Trial"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10833047,
+      "seasonNumber": 1,
+      "episodeNumber": 60,
+      "absoluteEpisodeNumber": 60,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10833047/screencap/675f7b418cb52.jpg"
+    },
+    "61": {
+      "episode": "61",
+      "length": "25m",
+      "airDate": "2024-12-20",
+      "title": {
+        "en": "Invincible"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10833048,
+      "seasonNumber": 1,
+      "episodeNumber": 61,
+      "absoluteEpisodeNumber": 61,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10833048/screencap/67683be5b7982.jpg"
+    },
+    "62": {
+      "episode": "62",
+      "length": "25m",
+      "airDate": "2024-12-27",
+      "title": {
+        "en": "The Prestigious Bey Academy"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10833049,
+      "seasonNumber": 1,
+      "episodeNumber": 62,
+      "absoluteEpisodeNumber": 62,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10833049/screencap/6770a051c2a7e.jpg"
+    },
+    "63": {
+      "episode": "63",
+      "length": "25m",
+      "airDate": "2025-01-10",
+      "title": {
+        "en": "The Manju Clan"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10875954,
+      "seasonNumber": 1,
+      "episodeNumber": 63,
+      "absoluteEpisodeNumber": 63,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10875954/screencap/67881085abe23.jpg"
+    },
+    "64": {
+      "episode": "64",
+      "length": "25m",
+      "airDate": "2025-01-17",
+      "title": {
+        "en": "The Shapeless Shadow"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10875955,
+      "seasonNumber": 1,
+      "episodeNumber": 64,
+      "absoluteEpisodeNumber": 64,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10875955/screencap/678abcb4d32d0.jpg"
+    },
+    "65": {
+      "episode": "65",
+      "length": "25m",
+      "airDate": "2025-01-24",
+      "title": {
+        "en": "First Flight"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10875956,
+      "seasonNumber": 1,
+      "episodeNumber": 65,
+      "absoluteEpisodeNumber": 65,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10875956/screencap/67992467f1383.jpg"
+    },
+    "66": {
+      "episode": "66",
+      "length": "25m",
+      "airDate": "2025-01-31",
+      "title": {
+        "en": "Something Captivating"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10875957,
+      "seasonNumber": 1,
+      "episodeNumber": 66,
+      "absoluteEpisodeNumber": 66,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10875957/screencap/679d125d5df14.jpg"
+    },
+    "67": {
+      "episode": "67",
+      "length": "25m",
+      "airDate": "2025-02-07",
+      "title": {
+        "en": "Silver Wolf"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10933125,
+      "seasonNumber": 1,
+      "episodeNumber": 67,
+      "absoluteEpisodeNumber": 67,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10933125/screencap/67a4fef8946e0.jpg"
+    },
+    "68": {
+      "episode": "68",
+      "length": "25m",
+      "airDate": "2025-02-14",
+      "title": {
+        "en": "Light and Dark"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10933126,
+      "seasonNumber": 1,
+      "episodeNumber": 68,
+      "absoluteEpisodeNumber": 68,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10933126/screencap/67af92092096a.jpg"
+    },
+    "69": {
+      "episode": "69",
+      "length": "25m",
+      "airDate": "2025-02-21",
+      "title": {
+        "en": "Shadowy Underground"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10933127,
+      "seasonNumber": 1,
+      "episodeNumber": 69,
+      "absoluteEpisodeNumber": 69,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10933127/screencap/67bb0b8562ab1.jpg"
+    },
+    "70": {
+      "episode": "70",
+      "length": "25m",
+      "airDate": "2025-02-28",
+      "title": {
+        "en": "Dread Dragon"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10933128,
+      "seasonNumber": 1,
+      "episodeNumber": 70,
+      "absoluteEpisodeNumber": 70,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10933128/screencap/67c05544190b5.jpg"
+    },
+    "71": {
+      "episode": "71",
+      "length": "25m",
+      "airDate": "2025-03-07",
+      "title": {
+        "en": "To That Place"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10988266,
+      "seasonNumber": 1,
+      "episodeNumber": 71,
+      "absoluteEpisodeNumber": 71,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10988266/screencap/67c9fdddeec65.jpg"
+    },
+    "72": {
+      "episode": "72",
+      "length": "25m",
+      "airDate": "2025-03-14",
+      "title": {
+        "en": "Labyrinth of Riddles and Terror"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10988267,
+      "seasonNumber": 1,
+      "episodeNumber": 72,
+      "absoluteEpisodeNumber": 72,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10988267/screencap/67d34bfa1cfec.jpg"
+    },
+    "73": {
+      "episode": "73",
+      "length": "25m",
+      "airDate": "2025-03-21",
+      "title": {
+        "en": "The Star Battle"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10988268,
+      "seasonNumber": 1,
+      "episodeNumber": 73,
+      "absoluteEpisodeNumber": 73,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10988268/screencap/67dc80da0aeaf.jpg"
+    },
+    "74": {
+      "episode": "74",
+      "length": "25m",
+      "airDate": "2025-03-28",
+      "title": {
+        "en": "Cursed"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10988269,
+      "seasonNumber": 1,
+      "episodeNumber": 74,
+      "absoluteEpisodeNumber": 74,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10988269/screencap/67e55378106d7.jpg"
+    },
+    "75": {
+      "episode": "75",
+      "length": "25m",
+      "airDate": "2025-04-04",
+      "title": {
+        "en": "Return of the Knight"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11054296,
+      "seasonNumber": 1,
+      "episodeNumber": 75,
+      "absoluteEpisodeNumber": 75,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054296/screencap/67f041504bacd.jpg"
+    },
+    "76": {
+      "episode": "76",
+      "length": "25m",
+      "airDate": "2025-04-11",
+      "title": {
+        "en": "White Nova"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11054297,
+      "seasonNumber": 1,
+      "episodeNumber": 76,
+      "absoluteEpisodeNumber": 76,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054297/screencap/67f828951f82c.jpg"
+    },
+    "77": {
+      "episode": "77",
+      "length": "25m",
+      "airDate": "2025-04-18",
+      "title": {
+        "en": "Blue Dragon and Dread Dragon"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11054298,
+      "seasonNumber": 1,
+      "episodeNumber": 77,
+      "absoluteEpisodeNumber": 77,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054298/screencap/68013e50f3a38.jpg"
+    },
+    "78": {
+      "episode": "78",
+      "length": "25m",
+      "airDate": "2025-04-25",
+      "title": {
+        "en": "Customization"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11054299,
+      "seasonNumber": 1,
+      "episodeNumber": 78,
+      "absoluteEpisodeNumber": 78,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054299/screencap/680a7993bb534.jpg"
+    },
+    "79": {
+      "episode": "79",
+      "length": "25m",
+      "airDate": "2025-05-02",
+      "title": {
+        "en": "King and Queen"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11102351,
+      "seasonNumber": 1,
+      "episodeNumber": 79,
+      "absoluteEpisodeNumber": 79,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11102351/screencap/6813f589cf89f.jpg"
+    },
+    "80": {
+      "episode": "80",
+      "length": "25m",
+      "airDate": "2025-05-09",
+      "title": {
+        "en": "The Gradual One"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11102352,
+      "seasonNumber": 1,
+      "episodeNumber": 80,
+      "absoluteEpisodeNumber": 80,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11102352/screencap/681cb91cc5922.jpg"
+    },
+    "81": {
+      "episode": "81",
+      "length": "25m",
+      "airDate": "2025-05-16",
+      "title": {
+        "en": "All In"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11102353,
+      "seasonNumber": 1,
+      "episodeNumber": 81,
+      "absoluteEpisodeNumber": 81,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11102353/screencap/6827aed1464e0.jpg"
+    },
+    "82": {
+      "episode": "82",
+      "length": "25m",
+      "airDate": "2025-05-23",
+      "title": {
+        "en": "Multi-Colored Decision"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11102354,
+      "seasonNumber": 1,
+      "episodeNumber": 82,
+      "absoluteEpisodeNumber": 82,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11102354/screencap/6832616d774dd.jpg"
+    },
+    "83": {
+      "episode": "83",
+      "length": "25m",
+      "airDate": "2025-05-30",
+      "title": {
+        "en": "Partner"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11102355,
+      "seasonNumber": 1,
+      "episodeNumber": 83,
+      "absoluteEpisodeNumber": 83,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11102355/screencap/6838aed9efdc0.jpg"
+    },
+    "84": {
+      "episode": "84",
+      "length": "25m",
+      "airDate": "2025-06-06",
+      "title": {
+        "en": "Proxy Conflict"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11167488,
+      "seasonNumber": 1,
+      "episodeNumber": 84,
+      "absoluteEpisodeNumber": 84,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11167488/screencap/685d56815f03a.jpg"
+    },
+    "85": {
+      "episode": "85",
+      "length": "25m",
+      "airDate": "2025-06-13",
+      "title": {
+        "en": "Pop vs Curse"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11167489,
+      "seasonNumber": 1,
+      "episodeNumber": 85,
+      "absoluteEpisodeNumber": 85,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11167489/screencap/685d56f46bec0.jpg"
+    },
+    "86": {
+      "episode": "86",
+      "length": "25m",
+      "airDate": "2025-06-20",
+      "title": {
+        "en": "Red Confrontation"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11167490,
+      "seasonNumber": 1,
+      "episodeNumber": 86,
+      "absoluteEpisodeNumber": 86,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11167490/screencap/685807fd5789c.jpg"
+    },
+    "87": {
+      "episode": "87",
+      "length": "25m",
+      "airDate": "2025-06-27",
+      "title": {
+        "en": "Path of the Dread Dragon"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11167491,
+      "seasonNumber": 1,
+      "episodeNumber": 87,
+      "absoluteEpisodeNumber": 87,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11167491/screencap/685d4bc010b57.jpg"
+    },
+    "88": {
+      "episode": "88",
+      "length": "25m",
+      "airDate": "2025-07-04",
+      "title": {
+        "en": "Blading Soul"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11167492,
+      "seasonNumber": 1,
+      "episodeNumber": 88,
+      "absoluteEpisodeNumber": 88,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11167492/screencap/68686d98c8dc8.jpg"
+    },
+    "89": {
+      "episode": "89",
+      "length": "25m",
+      "airDate": "2025-07-18",
+      "title": {
+        "en": "What Must Be Done"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11167493,
+      "seasonNumber": 1,
+      "episodeNumber": 89,
+      "absoluteEpisodeNumber": 89,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11167493/screencap/687ac867c0044.jpg"
+    },
+    "90": {
+      "episode": "90",
+      "length": "25m",
+      "airDate": "2025-07-25",
+      "title": {
+        "en": "Nine-Tailed Fox"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11167494,
+      "seasonNumber": 1,
+      "episodeNumber": 90,
+      "absoluteEpisodeNumber": 90,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11167494/screencap/6883f20aa761f.jpg"
+    },
+    "91": {
+      "episode": "91",
+      "length": "25m",
+      "airDate": "2025-08-01",
+      "title": {
+        "en": "Dream Match"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11260207,
+      "seasonNumber": 1,
+      "episodeNumber": 91,
+      "absoluteEpisodeNumber": 91,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11260207/screencap/688df1e399c5c.jpg"
+    },
+    "92": {
+      "episode": "92",
+      "length": "25m",
+      "airDate": "2025-08-08",
+      "title": {
+        "en": "Perseus the Messenger"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11260208,
+      "seasonNumber": 1,
+      "episodeNumber": 92,
+      "absoluteEpisodeNumber": 92,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11260208/screencap/68951eb199ae0.jpg"
+    },
+    "93": {
+      "episode": "93",
+      "length": "25m",
+      "airDate": "2025-08-15",
+      "title": {
+        "en": "Super Champion Challenger Chooser Match"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11260209,
+      "seasonNumber": 1,
+      "episodeNumber": 93,
+      "absoluteEpisodeNumber": 93,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11260209/screencap/68a08cf073e6f.jpg"
+    },
+    "94": {
+      "episode": "94",
+      "length": "25m",
+      "airDate": "2025-08-22",
+      "title": {
+        "en": "Unknown"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11260210,
+      "seasonNumber": 1,
+      "episodeNumber": 94,
+      "absoluteEpisodeNumber": 94,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11260210/screencap/68af61e8c2898.jpg"
+    },
+    "95": {
+      "episode": "95",
+      "length": "25m",
+      "airDate": "2025-08-29",
+      "title": {
+        "en": "Foxes Enchant, Tanukis Bewitch"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11260211,
+      "seasonNumber": 1,
+      "episodeNumber": 95,
+      "absoluteEpisodeNumber": 95,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11260211/screencap/68b0df85bc96c.jpg"
+    },
+    "96": {
+      "episode": "96",
+      "length": "25m",
+      "airDate": "2025-09-05",
+      "title": {
+        "en": "Shiroboshi, Back Then"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11330068,
+      "seasonNumber": 1,
+      "episodeNumber": 96,
+      "absoluteEpisodeNumber": 96,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11330068/screencap/68c0824c8753d.jpg"
+    },
+    "97": {
+      "episode": "97",
+      "length": "25m",
+      "airDate": "2025-09-12",
+      "title": {
+        "en": "Star Battle Grand Final"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11330069,
+      "seasonNumber": 1,
+      "episodeNumber": 97,
+      "absoluteEpisodeNumber": 97,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11330069/screencap/68cf01737c1d3.jpg"
+    },
+    "98": {
+      "episode": "98",
+      "length": "25m",
+      "airDate": "2025-09-19",
+      "title": {
+        "en": "Never Defeated"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11330070,
+      "seasonNumber": 1,
+      "episodeNumber": 98,
+      "absoluteEpisodeNumber": 98,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11330070/screencap/68cf02b99cecb.jpg"
+    },
+    "99": {
+      "episode": "99",
+      "length": "25m",
+      "airDate": "2025-09-26",
+      "title": {
+        "en": "Supernova"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11330071,
+      "seasonNumber": 1,
+      "episodeNumber": 99,
+      "absoluteEpisodeNumber": 99,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11330071/screencap/68d70936d00cc.jpg"
+    },
+    "100": {
+      "episode": "100",
+      "length": "25m",
+      "airDate": "2025-10-03",
+      "title": {
+        "en": "Star Devourer"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11330072,
+      "seasonNumber": 1,
+      "episodeNumber": 100,
+      "absoluteEpisodeNumber": 100,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11330072/screencap/68e01c77caf12.jpg"
+    },
+    "101": {
+      "episode": "101",
+      "length": "25m",
+      "airDate": "2025-10-24",
+      "title": {
+        "en": "Annihilation"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11335184,
+      "seasonNumber": 1,
+      "episodeNumber": 101,
+      "absoluteEpisodeNumber": 101,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11335184/screencap/690105b6ef68b.jpg"
+    },
+    "102": {
+      "episode": "102",
+      "length": "25m",
+      "airDate": "2025-10-31",
+      "title": {
+        "en": "Another X"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11335185,
+      "seasonNumber": 1,
+      "episodeNumber": 102,
+      "absoluteEpisodeNumber": 102,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11335185/screencap/690a4e527c85f.jpg"
+    },
+    "103": {
+      "episode": "103",
+      "length": "25m",
+      "airDate": "2025-11-07",
+      "title": {
+        "en": "Bey of the Future"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11335186,
+      "seasonNumber": 1,
+      "episodeNumber": 103,
+      "absoluteEpisodeNumber": 103,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11335186/screencap/691711ab5a57d.jpg"
+    },
+    "104": {
+      "episode": "104",
+      "length": "25m",
+      "airDate": "2025-11-14",
+      "title": {
+        "en": "Wolf and Sun"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11423030,
+      "seasonNumber": 1,
+      "episodeNumber": 104,
+      "absoluteEpisodeNumber": 104,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11423030/screencap/6917121ac4f9e.jpg"
+    },
+    "105": {
+      "episode": "105",
+      "length": "25m",
+      "airDate": "2025-11-21",
+      "title": {
+        "en": "Challenge from the Future"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11423031,
+      "seasonNumber": 1,
+      "episodeNumber": 105,
+      "absoluteEpisodeNumber": 105,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11423031/screencap/6920764764e4b.jpg"
+    },
+    "106": {
+      "episode": "106",
+      "length": "25m",
+      "airDate": "2025-11-28",
+      "title": {
+        "en": "As the Super-Champions"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11423032,
+      "seasonNumber": 1,
+      "episodeNumber": 106,
+      "absoluteEpisodeNumber": 106,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11423032/screencap/69299006179d9.jpg"
+    },
+    "107": {
+      "episode": "107",
+      "length": "25m",
+      "airDate": "2025-12-05",
+      "title": {
+        "en": "The Dyed Phoenix"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11423033,
+      "seasonNumber": 1,
+      "episodeNumber": 107,
+      "absoluteEpisodeNumber": 107,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11423033/screencap/69348b501ca2c.jpg"
+    },
+    "108": {
+      "episode": "108",
+      "length": "25m",
+      "airDate": "2025-12-12",
+      "title": {
+        "en": "The Saviour of X City"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11423034,
+      "seasonNumber": 1,
+      "episodeNumber": 108,
+      "absoluteEpisodeNumber": 108,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11423034/screencap/693ea02ae9935.jpg"
+    },
+    "109": {
+      "episode": "109",
+      "length": "25m",
+      "airDate": "2025-12-19",
+      "title": {
+        "en": "The End of the Demon Dragon"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11423035,
+      "seasonNumber": 1,
+      "episodeNumber": 109,
+      "absoluteEpisodeNumber": 109,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11423035/screencap/6945c0ddaab54.jpg"
+    },
+    "110": {
+      "episode": "110",
+      "length": "25m",
+      "airDate": "2025-12-26",
+      "title": {
+        "en": "The Counterattack Signal"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11423036,
+      "seasonNumber": 1,
+      "episodeNumber": 110,
+      "absoluteEpisodeNumber": 110,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11423036/screencap/69503b66abe28.jpg"
+    },
+    "111": {
+      "episode": "111",
+      "length": "25m",
+      "airDate": "2026-01-09",
+      "title": {
+        "en": "Pro Blader"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11523014,
+      "seasonNumber": 1,
+      "episodeNumber": 111,
+      "absoluteEpisodeNumber": 111,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523014/screencap/696258fb0bd6b.jpg"
+    },
+    "112": {
+      "episode": "112",
+      "length": "25m",
+      "airDate": "2026-01-16",
+      "title": {
+        "en": "Crafter vs. Crafter"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11523015,
+      "seasonNumber": 1,
+      "episodeNumber": 112,
+      "absoluteEpisodeNumber": 112,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523015/screencap/696aad53d04de.jpg"
+    },
+    "113": {
+      "episode": "113",
+      "length": "25m",
+      "airDate": "2026-01-23",
+      "title": {
+        "en": "Phoenix`s Choice"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11523016,
+      "seasonNumber": 1,
+      "episodeNumber": 113,
+      "absoluteEpisodeNumber": 113,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523016/screencap/6973c73fbed00.jpg"
+    },
+    "114": {
+      "episode": "114",
+      "length": "25m",
+      "airDate": "2026-01-30",
+      "title": {
+        "en": "Towards the Future"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11523017,
+      "seasonNumber": 1,
+      "episodeNumber": 114,
+      "absoluteEpisodeNumber": 114,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523017/screencap/697dfa913a19e.jpg"
+    },
+    "115": {
+      "episode": "115",
+      "length": "25m",
+      "airDate": "2026-02-06",
+      "title": {
+        "en": "Transfer or Disband?"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11523018,
+      "seasonNumber": 1,
+      "episodeNumber": 115,
+      "absoluteEpisodeNumber": 115,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523018/screencap/69863ce67d987.jpg"
+    },
+    "116": {
+      "episode": "116",
+      "length": "25m",
+      "airDate": "2026-02-13",
+      "title": {
+        "en": "Future Pros"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11523019,
+      "seasonNumber": 1,
+      "episodeNumber": 116,
+      "absoluteEpisodeNumber": 116,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523019/screencap/698f68f72139e.jpg"
+    },
+    "117": {
+      "episode": "117",
+      "length": "25m",
+      "airDate": "2026-02-20",
+      "title": {
+        "en": "Expanding Power"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11523020,
+      "seasonNumber": 1,
+      "episodeNumber": 117,
+      "absoluteEpisodeNumber": 117,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523020/screencap/6999b24ee9266.jpg"
+    },
+    "118": {
+      "episode": "118",
+      "length": "25m",
+      "airDate": "2026-02-27",
+      "title": {
+        "en": "Intertwining Intentions"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11523021,
+      "seasonNumber": 1,
+      "episodeNumber": 118,
+      "absoluteEpisodeNumber": 118,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523021/screencap/69a1d72f3e084.jpg"
+    },
+    "119": {
+      "episode": "119",
+      "length": "25m",
+      "airDate": "2026-03-06",
+      "title": {
+        "en": "To That Distant Place"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11523022,
+      "seasonNumber": 1,
+      "episodeNumber": 119,
+      "absoluteEpisodeNumber": 119,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523022/screencap/69ab29e35a999.jpg"
+    },
+    "120": {
+      "episode": "120",
+      "length": "25m",
+      "airDate": "2026-03-13",
+      "title": {
+        "en": "X Tower War"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11523023,
+      "seasonNumber": 1,
+      "episodeNumber": 120,
+      "absoluteEpisodeNumber": 120,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523023/screencap/69b59ed783b4c.jpg"
+    },
+    "121": {
+      "episode": "121",
+      "length": "25m",
+      "airDate": "2026-03-20",
+      "title": {
+        "en": "Where the Dragon Goes"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10406092,
+      "seasonNumber": 1,
+      "episodeNumber": 121,
+      "absoluteEpisodeNumber": 121,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10406092/screencap/69bea63584c58.jpg"
+    },
+    "122": {
+      "episode": "122",
+      "length": "25m",
+      "airDate": "2026-03-27",
+      "title": {
+        "en": "The Future Beyond"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 10406093,
+      "seasonNumber": 1,
+      "episodeNumber": 122,
+      "absoluteEpisodeNumber": 122,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10406093/screencap/69c6d15df2cd4.jpg"
+    },
+    "123": {
+      "episode": "123",
+      "length": "25m",
+      "airDate": "2026-04-17",
+      "title": {
+        "en": "One Percent of Hope"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11701200,
+      "seasonNumber": 1,
+      "episodeNumber": 123,
+      "absoluteEpisodeNumber": 123,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11701200/screencap/69da5562714da.jpg"
+    },
+    "124": {
+      "episode": "124",
+      "length": "25m",
+      "airDate": "2026-04-17",
+      "title": {
+        "en": "True X Tower War"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11701201,
+      "seasonNumber": 1,
+      "episodeNumber": 124,
+      "absoluteEpisodeNumber": 124,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11701201/screencap/69da56c0a949e.jpg"
+    },
+    "125": {
+      "episode": "125",
+      "length": "25m",
+      "airDate": "2026-05-01",
+      "title": {
+        "en": "The Strongest Without Desire"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11701202,
+      "seasonNumber": 1,
+      "episodeNumber": 125,
+      "absoluteEpisodeNumber": 125,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11701202/screencap/69f546a7e22f5.jpg"
+    },
+    "126": {
+      "episode": "126",
+      "length": "25m",
+      "airDate": "2026-05-15",
+      "title": {
+        "en": "The Traitor Who Betrayed"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11701203,
+      "seasonNumber": 1,
+      "episodeNumber": 126,
+      "absoluteEpisodeNumber": 126,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11701203/screencap/6a088ee304f61.jpg"
+    },
+    "127": {
+      "episode": "127",
+      "length": "25m",
+      "airDate": "2026-06-05",
+      "title": {
+        "en": "The Kurosu Clan`s Strategy"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11701204,
+      "seasonNumber": 1,
+      "episodeNumber": 127,
+      "absoluteEpisodeNumber": 127,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11701204/screencap/6a2309ed1a702.jpg"
+    },
+    "128": {
+      "episode": "128",
+      "length": "25m",
+      "airDate": "2026-06-19",
+      "title": {
+        "en": "X Tower`s Guardian"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11809218,
+      "seasonNumber": 1,
+      "episodeNumber": 128,
+      "absoluteEpisodeNumber": 128,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11809218/screencap/6a35ee7d407b0.jpg"
+    },
+    "129": {
+      "episode": "129",
+      "length": "25m",
+      "airDate": "2026-07-03",
+      "title": {
+        "en": "Episode 129"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11809219,
+      "seasonNumber": 1,
+      "episodeNumber": 129,
+      "absoluteEpisodeNumber": 129,
+      "runtime": 24,
+      "image": null
+    },
+    "130": {
+      "episode": "130",
+      "length": "25m",
+      "airDate": "2026-07-17",
+      "title": {
+        "en": "Episode 130"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11809220,
+      "seasonNumber": 1,
+      "episodeNumber": 130,
+      "absoluteEpisodeNumber": 130,
+      "runtime": 24,
+      "image": null
+    },
+    "131": {
+      "episode": "131",
+      "length": "25m",
+      "airDate": "2026-08-07",
+      "title": {
+        "en": "Episode 131"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 131,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "132": {
+      "episode": "132",
+      "length": "25m",
+      "airDate": "2026-08-21",
+      "title": {
+        "en": "Episode 132"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 132,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "25m",
+      "airDate": "2024-10-11",
+      "title": {
+        "en": "New Chapter Celebration! Grand Reopening of Beyblade Sushi - Go Shoot!"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": "25m",
+      "airDate": "2025-07-11",
+      "title": {
+        "en": "Episode S2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": "25m",
+      "airDate": "2025-10-10",
+      "title": {
+        "en": "Episode S3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S4": {
+      "episode": "S4",
+      "length": "25m",
+      "airDate": "2025-10-17",
+      "title": {
+        "en": "Episode S4"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1a": {
+      "episode": "OP1a",
+      "length": "2m",
+      "airDate": "2023-10-06",
+      "title": {
+        "en": "Prove (1-51)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP1b": {
+      "episode": "OP1b",
+      "length": "2m",
+      "airDate": "2024-03-15",
+      "title": {
+        "en": "Prove (1-51)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
+      "airDate": "2023-10-06",
+      "title": {
+        "en": "Zoom Zoom (1-51)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP2": {
+      "episode": "OP2",
+      "length": "2m",
+      "airDate": "2024-10-18",
+      "title": {
+        "en": "You Gotta Run (52-74)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED2": {
+      "episode": "ED2",
+      "length": "2m",
+      "airDate": "2024-10-18",
+      "title": {
+        "en": "Cosmic Treat (52-74)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP3": {
+      "episode": "OP3",
+      "length": "2m",
+      "airDate": "2025-04-04",
+      "title": {
+        "en": "Rise (75-100)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED3": {
+      "episode": "ED3",
+      "length": "2m",
+      "airDate": "2025-04-04",
+      "title": {
+        "en": "Stay Gold (75-100)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "OP4": {
+      "episode": "OP4",
+      "length": "2m",
+      "airDate": "2025-10-24",
+      "title": {
+        "en": "Invincible (101)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED4": {
+      "episode": "ED4",
+      "length": "2m",
+      "airDate": "2025-10-24",
+      "title": {
+        "en": "Uzu (101)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "T1": {
+      "episode": "T1",
+      "length": "2m",
+      "airDate": "2023-09-07",
+      "title": {
+        "en": "PV (1:30)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-30T15:40:12.737Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": 53780,
+  "idMal": 53780,
+  "mappings": {
+    "mal": 53780,
+    "anilist": 158997,
+    "anidb": 17755,
+    "kitsu": null,
+    "simkl": 2052664,
+    "tmdb": 1058906,
+    "tvdb": null,
+    "trakt": 852380,
+    "traktType": "movies",
+    "shikimori": 53780,
+    "livechart": 11715,
+    "animeplanet": "detective-conan-haibara-ai-monogatari-kurogane-no-mystery-train",
+    "anisearch": 17917,
+    "notify": "oJGZsPAVR"
+  },
+  "title": {
+    "romaji": "Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
+    "english": "Detective Conan: Ai Haibara's Story - Jet-Black Mystery Train",
+    "native": "名探偵コナン 灰原哀物語～黒鉄のミステリートレイン～",
+    "synonyms": [
+      "名探偵コナン 灰原哀物語～黒鉄（くろがね）のミステリートレイン～",
+      "Detective Conan Ai Habara's Story ~Jet-Black Mystery Train~"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": null,
+  "aired": {
+    "from": "2023-01-06T00:00:00+00:00",
+    "to": null
+  },
+  "season": "winter",
+  "year": 2023,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.39,
+    "anilistScore": 7.2,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Mystery"
+  ],
+  "studios": [
+    "TMS Entertainment"
+  ],
+  "producers": [
+    "Yomiuri Telecasting",
+    "TOHO",
+    "Shogakukan"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1285/131672l.jpg",
+    "banner": null,
+    "color": "#f19350"
+  },
+  "trailer": null,
+  "synopsis": "The movie will focus on Ai Haibara's past and will reconstruct the Mystery Train arc from the television anime, which shows Haibara and Conan meeting for the first time. The movie will also include scenes from the Kurogane no Submarine (Black Iron Submarine) movie.\n\n(Source: MAL News)",
+  "sequence": [
+    {
+      "malId": 235,
+      "title": {
+        "romaji": "Meitantei Conan",
+        "english": "Detective Conan",
+        "native": "名探偵コナン"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": 1996,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 53540,
+      "title": {
+        "romaji": "Meitantei Conan: Kurogane no Submarine",
+        "english": "Detective Conan: Black Iron Submarine",
+        "native": "名探偵コナン 黒鉄の魚影"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156841-eCdzTqfaqNb7.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2023,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "90m",
+      "airDate": "2023-01-06",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-06-30T14:43:49.321Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

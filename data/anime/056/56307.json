@@ -1,0 +1,78 @@
+{
+  "id": 56307,
+  "idMal": 56307,
+  "mappings": {
+    "mal": 56307,
+    "anilist": null,
+    "anidb": null,
+    "kitsu": null,
+    "simkl": null,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 56307,
+    "livechart": null,
+    "animeplanet": "hello-carbot-season-12",
+    "anisearch": null,
+    "notify": null
+  },
+  "title": {
+    "romaji": "Hello Carbot Season 12",
+    "english": null,
+    "native": "헬로 카봇 시즌12",
+    "synonyms": [
+      "Hello Carbot: Boom Bar"
+    ]
+  },
+  "type": "TV",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 39,
+  "episodeLength": null,
+  "aired": {
+    "from": "2022-04-03T00:00:00+00:00",
+    "to": "2023-03-26T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 2022,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG - Children",
+  "score": {
+    "malScore": null,
+    "anilistScore": null,
+    "kitsuRating": null
+  },
+  "genres": [],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1259/137817l.jpg",
+    "banner": null,
+    "color": null
+  },
+  "trailer": null,
+  "synopsis": null,
+  "sequence": [],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-06-30T15:33:44.506Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
+    ],
+    "dataVersion": 1
+  }
+}
