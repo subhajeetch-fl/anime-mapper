@@ -61,17 +61,35 @@
   "trailer": null,
   "synopsis": "Assorted animated videos for Cygames' Shadowverse digital TCG. Japanese and English versions of these animated features were released on the same day on Cygames' official YouTube channel and at a later date on the Shadowverse's official YouTube channel.",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": "2015-10-16T00:00:00+00:00",
+      "title": {
+        "en": "Shadowverse - Launch Trailer",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-28T19:40:57.115Z",
+    "lastFetched": "2026-06-30T08:39:48.437Z",
     "sourcesUsed": [
-      "jikan",
       "kitsu",
-      "animeapi.my.id"
+      "animeapi.my.id",
+      "zenshin"
     ],
     "missingSources": [
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "jikan-episodes (fallback)"
     ],
     "dataVersion": 1
   }

@@ -78,17 +78,69 @@
   "trailer": null,
   "synopsis": "Recaps of the JoJo no Kimyou na Bouken: Ougon no Kaze series.",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": "2019-01-05T00:00:00+00:00",
+      "title": {
+        "en": "Inizio del Vento Aureo",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": "2019-03-09T00:00:00+00:00",
+      "title": {
+        "en": "Determination",
+        "romaji": "Determinazione ",
+        "ja": "Determinazione"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": null,
+      "airDate": "2019-05-04T00:00:00+00:00",
+      "title": {
+        "en": "Destiny",
+        "romaji": "Destino ",
+        "ja": "Destino"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-28T23:15:42.216Z",
+    "lastFetched": "2026-06-30T08:50:37.797Z",
     "sourcesUsed": [
-      "jikan",
       "kitsu",
-      "animeapi.my.id"
+      "animeapi.my.id",
+      "zenshin"
     ],
     "missingSources": [
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "jikan-episodes (fallback)"
     ],
     "dataVersion": 1
   }

@@ -18,14 +18,16 @@
     "notify": "2wIXpKmmg"
   },
   "title": {
-    "romaji": null,
+    "romaji": "Jidou Bungaku Library",
     "english": null,
-    "native": null,
-    "synonyms": []
+    "native": "児童文学ライブラリー　",
+    "synonyms": [
+      "Jidou Bungaku Anime"
+    ]
   },
-  "type": null,
-  "source": null,
-  "status": "Not yet aired",
+  "type": "OVA",
+  "source": "Unknown",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 6,
   "episodeLength": 17,
@@ -35,47 +37,52 @@
   },
   "season": null,
   "year": null,
-  "broadcast": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
   "nextAiringEpisode": null,
-  "rating": "G",
+  "rating": "G - All Ages",
   "score": {
     "malScore": null,
     "anilistScore": null,
     "kitsuRating": null
   },
   "genres": [
-    "Demons",
     "Drama",
     "Fantasy",
+    "Romance",
+    "Demons",
     "Historical",
     "Kids",
     "Magic",
     "Samurai",
-    "Romance",
     "Supernatural",
     "Demon"
   ],
   "studios": [],
   "producers": [],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/11061/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/10/74512l.jpg",
     "banner": null,
     "color": null
   },
   "trailer": null,
-  "synopsis": "A series of children's OVAs covering various stories from old folk tales, books, and historical events. Each OVA has a various amount of stories featured.\n",
+  "synopsis": "A series of children's OVAs covering various stories from old folk tales, books, and historical events. Each OVA has a various amount of stories featured.",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-28T05:38:46.909Z",
+    "lastFetched": "2026-06-30T08:39:15.934Z",
     "sourcesUsed": [
+      "jikan",
       "kitsu",
-      "animeapi.my.id"
+      "animeapi.my.id",
+      "zenshin"
     ],
     "missingSources": [
-      "jikan",
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
     ],
     "dataVersion": 1
   }

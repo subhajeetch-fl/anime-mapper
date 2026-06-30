@@ -68,17 +68,35 @@
   "trailer": null,
   "synopsis": "Chinese streaming platform bilibili is hosting exclusive Re:Zero footage--of the two protagonists enjoying cup ramen. The ad is in Japanese with Chinese subtitles and show Subaru introducing Emilia to Cup Noodles' Chinese brand, Hé Wèi Dào, after a study session. The pair enjoy a cup of the seafood flavor Cup Noodle, China's most popular flavor.\n\nRe:Zero kara Hajimeru Isekai Seikatsu is titled and marketed as Re:Cong Ling Kaishi De Yi Shijie Shenghuo in China.\n\n(Source: ANN)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": "2018-09-21T00:00:00+00:00",
+      "title": {
+        "en": "He Wei Dao x Re:ZERO",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-28T22:39:56.601Z",
+    "lastFetched": "2026-06-30T08:46:37.018Z",
     "sourcesUsed": [
-      "jikan",
       "kitsu",
-      "animeapi.my.id"
+      "animeapi.my.id",
+      "zenshin"
     ],
     "missingSources": [
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "jikan-episodes (fallback)"
     ],
     "dataVersion": 1
   }

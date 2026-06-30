@@ -72,17 +72,86 @@
   "trailer": null,
   "synopsis": "Recap episodes of Beatless.",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": "2018-02-17T00:00:00+00:00",
+      "title": {
+        "en": "Intermission 01",
+        "romaji": "Intermission 01 ",
+        "ja": "Intermission_01"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": "2018-03-24T00:00:00+00:00",
+      "title": {
+        "en": "Intermission 02",
+        "romaji": "Intermission 02 ",
+        "ja": "Intermission_02"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": null,
+      "airDate": "2018-05-11T00:00:00+00:00",
+      "title": {
+        "en": "Intermission 03",
+        "romaji": "Intermission 03 ",
+        "ja": "Intermission_03"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": null,
+      "airDate": "2018-06-01T00:00:00+00:00",
+      "title": {
+        "en": "Intermission 04",
+        "romaji": "Intermission 04 ",
+        "ja": "Intermission_04"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-28T21:40:50.961Z",
+    "lastFetched": "2026-06-30T08:41:16.842Z",
     "sourcesUsed": [
-      "jikan",
       "kitsu",
-      "animeapi.my.id"
+      "animeapi.my.id",
+      "zenshin"
     ],
     "missingSources": [
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "jikan-episodes (fallback)"
     ],
     "dataVersion": 1
   }

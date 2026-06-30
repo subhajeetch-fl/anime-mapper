@@ -60,17 +60,137 @@
   "trailer": null,
   "synopsis": "A music video direct-to-DVD release of Hamtarou. 7 songs were included with brand new animations.",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": "2003-03-29T00:00:00+00:00",
+      "title": {
+        "en": "Hamtaro Tottokota",
+        "romaji": "Hamtarou Tottokouta ",
+        "ja": "ハム太郎とっとこうた"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": "2003-03-29T00:00:00+00:00",
+      "title": {
+        "en": "So Many Mufflers",
+        "romaji": "Muffler ga Ippai ",
+        "ja": "マフラーがいっぱい"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": null,
+      "airDate": "2003-03-29T00:00:00+00:00",
+      "title": {
+        "en": "Love Love Attack Daisakusen!",
+        "romaji": "Love Love Attack Daisakusen! ",
+        "ja": "らぶらぶアタック大作戦！"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": null,
+      "airDate": "2003-03-29T00:00:00+00:00",
+      "title": {
+        "en": "Song of the Wind",
+        "romaji": "Kaze no Uta wo Utaou ",
+        "ja": "風の歌をうたおう"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": null,
+      "airDate": "2003-03-29T00:00:00+00:00",
+      "title": {
+        "en": "Lovely Summer Gift ~Ham-Ham Holiday, Forever~",
+        "romaji": "Suteki na Natsu no Okurimono ~ Ham-Ham Holiday, Itsumademo ~ ",
+        "ja": "すてきな なつの おくりもの〜ハムハムホリデイ、いつまでも〜"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": null,
+      "airDate": "2003-03-29T00:00:00+00:00",
+      "title": {
+        "en": "Happy Ham-Ham Birthday",
+        "romaji": "Happy Ham-Ham Birthday ",
+        "ja": "ハッピーハムハムバースデイ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": null,
+      "airDate": "2003-03-29T00:00:00+00:00",
+      "title": {
+        "en": "Te wo Tsunago",
+        "romaji": "Te wo Tsunagou ",
+        "ja": "てをつなごう"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-28T23:25:42.402Z",
+    "lastFetched": "2026-06-30T08:51:43.567Z",
     "sourcesUsed": [
-      "jikan",
       "kitsu",
-      "animeapi.my.id"
+      "animeapi.my.id",
+      "zenshin"
     ],
     "missingSources": [
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "jikan-episodes (fallback)"
     ],
     "dataVersion": 1
   }

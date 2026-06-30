@@ -62,17 +62,120 @@
   "trailer": null,
   "synopsis": "Suntory commercials for their oolong tea bottles featuring Sandwhichman, a comedy duo from Japan. The commercials were shown on television and streamed on Suntroy's official YouTube channel. The theme is Touhoku love, Touhoku is the Northeast region of Japan composed of 6 prefectures. Each commercial focuses on one of the prefectures in that region (respectively Miyagi, Fukushima, Aomori, Yamagata, Iwate, and Akita).",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": "2018-01-16T00:00:00+00:00",
+      "title": {
+        "en": "Masamune Date",
+        "romaji": "Masamune Date ",
+        "ja": "伊達政宗篇"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": "2018-01-16T00:00:00+00:00",
+      "title": {
+        "en": "Akabeko",
+        "romaji": "Akabeko ",
+        "ja": "赤べこ篇"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": null,
+      "airDate": "2018-04-25T00:00:00+00:00",
+      "title": {
+        "en": "Nebuta",
+        "romaji": "Nebuta ",
+        "ja": "ねぶた篇"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": null,
+      "airDate": "2018-04-25T00:00:00+00:00",
+      "title": {
+        "en": "Shogi",
+        "romaji": "Shogi ",
+        "ja": "将棋篇"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": null,
+      "airDate": "2018-09-18T00:00:00+00:00",
+      "title": {
+        "en": "Suntory Oolong Tea \"Sandwich Man Tohoku Ai Bottle\" 3rd edition \"Ama\"",
+        "romaji": null,
+        "ja": "サントリー烏龍茶「サンドウィッチマン 東北愛ボトル」第３弾『海女』篇"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": null,
+      "airDate": "2018-09-18T00:00:00+00:00",
+      "title": {
+        "en": "Suntory Oolong Tea \"Sandwich Man Tohoku Ai Bottle\" 3rd edition \"Namahage\"",
+        "romaji": null,
+        "ja": "サントリー烏龍茶「サンドウィッチマン 東北愛ボトル」第３弾『なまはげ』篇"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-28T22:36:58.330Z",
+    "lastFetched": "2026-06-30T08:46:17.098Z",
     "sourcesUsed": [
-      "jikan",
       "kitsu",
-      "animeapi.my.id"
+      "animeapi.my.id",
+      "zenshin"
     ],
     "missingSources": [
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "jikan-episodes (fallback)"
     ],
     "dataVersion": 1
   }
