@@ -61,17 +61,52 @@
   "trailer": null,
   "synopsis": null,
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": "2020-01-20T00:00:00+00:00",
+      "title": {
+        "en": "McDull: Niu Hua Che Chinese New Year Special",
+        "romaji": null,
+        "ja": "麥太扭花臣 新春特輯 拜神雞"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": "2020-02-12T00:00:00+00:00",
+      "title": {
+        "en": "McDull: Niu Hua Che Valentine Special",
+        "romaji": null,
+        "ja": "麥太扭花臣 情人節特輯 天荒地滷水香蕉"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-29T10:40:44.739Z",
+    "lastFetched": "2026-06-30T14:06:31.696Z",
     "sourcesUsed": [
-      "jikan",
       "kitsu",
-      "animeapi.my.id"
+      "animeapi.my.id",
+      "zenshin"
     ],
     "missingSources": [
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "jikan-episodes (fallback)"
     ],
     "dataVersion": 1
   }

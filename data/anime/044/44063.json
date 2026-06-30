@@ -68,17 +68,120 @@
   "trailer": null,
   "synopsis": "Animated commercials for Tamaya pawnshop located in Kounanku Ward, Yokohama.",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": "2020-10-27T00:00:00+00:00",
+      "title": {
+        "en": "Birthday",
+        "romaji": "Tanjoubi-hen ",
+        "ja": "誕生日篇"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": "2020-12-24T00:00:00+00:00",
+      "title": {
+        "en": "Entrusted Thoughts",
+        "romaji": "Takusareta Omoi-hen ",
+        "ja": "託された想い篇"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": null,
+      "airDate": "2022-08-07T00:00:00+00:00",
+      "title": {
+        "en": "Beyond it",
+        "romaji": "Sono Saki e-hen ",
+        "ja": "その先へ篇"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": null,
+      "airDate": "2023-03-20T00:00:00+00:00",
+      "title": {
+        "en": "Wakuwaku-hen",
+        "romaji": "Wakuwaku-hen ",
+        "ja": "わくわく篇"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": null,
+      "airDate": "2024-02-02T00:00:00+00:00",
+      "title": {
+        "en": "I♡BRAND",
+        "romaji": "I♡BRAND ",
+        "ja": "I♡BRAND"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": null,
+      "airDate": "2025-04-01T00:00:00+00:00",
+      "title": {
+        "en": "My Colors",
+        "romaji": "Jibuniro ",
+        "ja": "ジブンイロ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-29T12:10:59.365Z",
+    "lastFetched": "2026-06-30T14:18:14.810Z",
     "sourcesUsed": [
-      "jikan",
       "kitsu",
-      "animeapi.my.id"
+      "animeapi.my.id",
+      "zenshin"
     ],
     "missingSources": [
-      "anilist",
-      "zenshin (no AniList id resolved)"
+      "anilist (not in ID mappings)",
+      "jikan-episodes (fallback)"
     ],
     "dataVersion": 1
   }
