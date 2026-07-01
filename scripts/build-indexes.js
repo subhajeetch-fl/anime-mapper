@@ -5,7 +5,7 @@
  *
  * Generates:
  *   data/anime-index.json   - lightweight, one entry per anime (search/lists)
- *   data/search-index.json  - flattened array with every filterable field,
+ *   data/other-data-api/search-index.json  - flattened array with every filterable field,
  *                             used by the future Cloudflare Worker for
  *                             advanced search (see README "Advanced search")
  *
@@ -24,6 +24,7 @@ import { pathToFileURL } from 'node:url';
 
 const ANIME_DIR = path.resolve('data/anime');
 const DATA_DIR = path.resolve('data');
+const OTHER_DATA_API_DIR = path.resolve('data/other-data-api');
 
 /** Index files that were removed — deleted on the next build if they still exist. */
 const REMOVED_INDEX_FILES = [
@@ -130,7 +131,7 @@ export async function buildIndexes() {
   const searchIndex = animeList.map(toSearchEntry).sort((a, b) => a.id - b.id);
 
   await writeJson(path.join(DATA_DIR, 'anime-index.json'), animeIndex);
-  await writeJson(path.join(DATA_DIR, 'search-index.json'), searchIndex);
+  await writeJson(path.join(OTHER_DATA_API_DIR, 'search-index.json'), searchIndex);
 
   await cleanRemovedIndexes();
 

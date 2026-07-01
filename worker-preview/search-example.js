@@ -5,7 +5,7 @@
  * Phase 5, kept here so the design is written down while it's fresh.
  *
  * Where the data comes from:
- *   The Worker fetches data/search-index.json from your GitHub repo (via
+ *   The Worker fetches data/other-data-api/search-index.json from your GitHub repo (via
  *   jsdelivr's GitHub CDN, which is faster and better-cached than raw
  *   GitHub URLs) and caches it in the Workers Cache API for a few minutes.
  *   At 10,000-50,000 entries, filtering/sorting that array in plain JS on
@@ -38,7 +38,7 @@
  */
 
 const SEARCH_INDEX_URL =
-  'https://cdn.jsdelivr.net/gh/subhajeetch-fl/anime-mapper@main/data/search-index.json';
+  'https://cdn.jsdelivr.net/gh/subhajeetch-fl/anime-mapper@main/data/other-data-api/search-index.json';
 const CACHE_TTL_SECONDS = 300;
 const MAX_LIMIT = 50;
 
