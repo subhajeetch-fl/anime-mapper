@@ -1,13 +1,16 @@
 {
   "version": 2,
   "name": "anime-search-api",
-  "functions": {
-    "index.js": {
-      "includeFiles": "search-index.json",
-      "maxDuration": 30,
-      "memory": 1024
+  "builds": [
+    {
+      "src": "index.js",
+      "use": "@vercel/node",
+      "config": {
+        "includeFiles": ["search-index.json"],
+        "maxLambdaSize": "50mb"
+      }
     }
-  },
+  ],
   "routes": [
     {
       "src": "/api/(.*)",
