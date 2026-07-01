@@ -6,6 +6,9 @@
       "includeFiles": "search-index.json"
     }
   },
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "/api/index" }
+  ],
   "headers": [
     {
       "source": "/api/search",
