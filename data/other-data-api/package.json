@@ -3,9 +3,9 @@
   "version": "1.1.0",
   "description": "Advanced anime search API for Vercel with Hono — supports filtering, pagination, metadata, and caching",
   "type": "module",
-  "main": "index.js",
+  "main": "api/index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node api/index.js",
     "dev": "vercel dev"
   },
   "engines": {

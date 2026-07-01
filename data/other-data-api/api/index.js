@@ -31,7 +31,7 @@ import { LRUCache } from 'lru-cache';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const DATA_FILE = join(__dirname, 'search-index.json');
+const DATA_FILE = join(__dirname, '..', 'search-index.json');
 const MAX_LIMIT = 24;
 const DEFAULT_LIMIT = 20;
 
@@ -96,10 +96,19 @@ async function loadSearchIndex() {
   if (searchIndexCache && now - lastLoadTime < 300000) {
     return searchIndexCache;
   }
-  const raw = await readFile(DATA_FILE, 'utf-8');
-  searchIndexCache = JSON.parse(raw);
-  lastLoadTime = now;
-  return searchIndexCache;
+  try {
+    console.log('[API] Loading search index from:', DATA_FILE);
+    const t0 = Date.now();
+    const raw = await readFile(DATA_FILE, 'utf-8');
+    console.log(`[API] Read ${raw.length} bytes in ${Date.now() - t0}ms`);
+    searchIndexCache = JSON.parse(raw);
+    lastLoadTime = now;
+    console.log(`[API] Parsed ${searchIndexCache.length} entries, total ${Date.now() - t0}ms`);
+    return searchIndexCache;
+  } catch (err) {
+    console.error('[API] FAILED to load search index:', err.code, err.message, 'path was:', DATA_FILE);
+    throw err;
+  }
 }
 
 function buildFilterOptions(index) {
