@@ -1,18 +1,19 @@
 {
   "name": "anime-search-api",
-  "version": "1.0.0",
-  "description": "Advanced anime search API for Vercel - supports filtering by genre, studio, producer, type, status, year, score, rating, and free-text search with pagination",
+  "version": "1.1.0",
+  "description": "Advanced anime search API for Vercel with Hono — supports filtering, pagination, metadata, and caching",
   "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "vercel dev",
-    "test": "node --test index.test.js"
+    "dev": "vercel dev"
   },
   "engines": {
     "node": ">=20"
   },
   "dependencies": {
-    "fast-levenshtein": "^3.0.0"
+    "fast-levenshtein": "^3.0.0",
+    "hono": "^4.7.7",
+    "lru-cache": "^11.1.0"
   }
 }
