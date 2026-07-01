@@ -24,6 +24,7 @@ import { dirname, join } from 'node:path';
 import { readFile } from 'node:fs/promises';
 import { createServer } from 'node:http';
 import { Hono } from 'hono';
+import { handle } from 'hono/vercel';
 import levenshtein from 'fast-levenshtein';
 import { LRUCache } from 'lru-cache';
 
@@ -43,7 +44,7 @@ let filterOptionsCache = null;
 let indexMetaCache = null;
 let lastLoadTime = 0;
 
-/** Response cache — identical requests served from memory */
+/** Response cache - identical requests served from memory */
 const responseCache = new LRUCache({
   max: 500,
   ttl: 1000 * 60 * 2, // 2 minutes
@@ -238,13 +239,13 @@ function paginateCursor(results, cursor, limit) {
 }
 
 // ============================================================================
-// Hono App
+// Hono App (basePath /api — Hono strips it before matching routes below)
 // ============================================================================
 
-const app = new Hono();
+const app = new Hono().basePath('/api');
 
-/** CORS + timing + cache header middleware */
-app.use(async (c, next) => {
+/** CORS middleware */
+app.use('*', async (c, next) => {
   if (c.req.method === 'OPTIONS') {
     return new Response(null, {
       status: 204,
@@ -256,12 +257,11 @@ app.use(async (c, next) => {
       },
     });
   }
-  c.set('startTime', performance.now());
   await next();
 });
 
 // ─── GET /api ─────────────────────────────────────────────────────────────
-app.get('/api', (c) => {
+app.get('/', (c) => {
   return c.json({
     name: 'Anime Search API',
     version: '1.1.0',
@@ -278,7 +278,7 @@ app.get('/api', (c) => {
 });
 
 // ─── GET /api/search ───────────────────────────────────────────────────────
-app.get('/api/search', async (c) => {
+app.get('/search', async (c) => {
   const url = c.req.url;
   const cached = responseCache.get(url);
   if (cached) return cached.clone();
@@ -319,15 +319,12 @@ app.get('/api/search', async (c) => {
     pagination = paginateResults(results, Math.max(1, parseIntSafe(params.page, 1)), limit);
   }
 
-  const executionTime = Math.round(performance.now() - c.get('startTime'));
-
   const response = c.json({
     data: pagination.items,
     pagination: pagination.pagination,
     meta: {
       query: { ...filters, sort, order, limit },
       filterOptions: buildFilterOptions(index),
-      executionTimeMs: executionTime,
     },
   });
 
@@ -336,7 +333,7 @@ app.get('/api/search', async (c) => {
 });
 
 // ─── GET /api/anime/:id ───────────────────────────────────────────────────
-app.get('/api/anime/:id', async (c) => {
+app.get('/anime/:id', async (c) => {
   const id = parseInt(c.req.param('id'), 10);
   if (Number.isNaN(id)) return c.json({ error: 'Invalid anime ID' }, 400);
 
@@ -349,7 +346,7 @@ app.get('/api/anime/:id', async (c) => {
 });
 
 // ─── GET /api/meta/:type ──────────────────────────────────────────────────
-app.get('/api/meta/:type', async (c) => {
+app.get('/meta/:type', async (c) => {
   const metaType = c.req.param('type');
   const index = await loadSearchIndex();
   const options = buildFilterOptions(index);
@@ -397,7 +394,7 @@ app.get('/api/meta/:type', async (c) => {
 });
 
 // ─── GET /api/stats ────────────────────────────────────────────────────────
-app.get('/api/stats', async (c) => {
+app.get('/stats', async (c) => {
   const index = await loadSearchIndex();
 
   const byType = {}, byStatus = {}, byRating = {}, byYear = {}, bySeason = {};
@@ -457,9 +454,9 @@ app.onError((err, c) => {
 });
 
 // ============================================================================
-// Export for Vercel (Fetch API handler)
+// Export for Vercel (using Hono's official Vercel adapter)
 // ============================================================================
-export default app.fetch.bind(app);
+export default handle(app);
 
 // ============================================================================
 // Local Development Server
@@ -473,10 +470,14 @@ if (import.meta.url === `file://${process.argv[1]}`) {
 
       const PORT = process.env.PORT || 3000;
       const server = createServer(async (req, res) => {
-        const request = new Request(`http://localhost:${PORT}${req.url}`, {
+        const url = new URL(req.url, `http://localhost:${PORT}`);
+        const request = new Request(url, {
           method: req.method,
-          headers: req.headers,
+          headers: Object.fromEntries(
+            Object.entries(req.headers).filter(([_, v]) => v != null)
+          ),
         });
+        // Use app.fetch directly for local dev (same as handle() does)
         const response = await app.fetch(request);
 
         res.writeHead(response.status, Object.fromEntries(response.headers.entries()));
