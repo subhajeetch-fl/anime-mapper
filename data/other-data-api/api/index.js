@@ -24,7 +24,6 @@ import { dirname, join } from 'node:path';
 import { readFile } from 'node:fs/promises';
 import { createServer } from 'node:http';
 import { Hono } from 'hono';
-import { handle } from 'hono/vercel';
 import levenshtein from 'fast-levenshtein';
 import { LRUCache } from 'lru-cache';
 
@@ -463,9 +462,18 @@ app.onError((err, c) => {
 });
 
 // ============================================================================
-// Export for Vercel (using Hono's official Vercel adapter)
+// Export for Vercel Node.js runtime
 // ============================================================================
-export default handle(app);
+// hono/vercel's `handle()` targets Vercel's Edge runtime, which has no
+// filesystem access — incompatible with our fs.readFile(search-index.json)
+// data loading. Edge Functions are also deprecated in favor of the Node.js
+// runtime. Vercel's Node.js runtime auto-detects a Web Standard handler when
+// the default export is an object with a `fetch` method — so we wire Hono's
+// own `app.fetch` (already a (Request) => Promise<Response> function)
+// directly into that shape, skipping the Vercel adapter entirely.
+export default {
+  fetch: app.fetch,
+};
 
 // ============================================================================
 // Local Development Server
@@ -486,7 +494,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
             Object.entries(req.headers).filter(([_, v]) => v != null)
           ),
         });
-        // Use app.fetch directly for local dev (same as handle() does)
+        // app.fetch is also what's wired into the default export below
         const response = await app.fetch(request);
 
         res.writeHead(response.status, Object.fromEntries(response.headers.entries()));
