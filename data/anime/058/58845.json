@@ -3,7 +3,7 @@
   "idMal": 58845,
   "mappings": {
     "mal": 58845,
-    "anilist": 12657,
+    "anilist": null,
     "anidb": 2040,
     "kitsu": 6780,
     "simkl": 37057,
@@ -15,7 +15,7 @@
     "livechart": 8743,
     "animeplanet": "tongari-boushi-no-memoru-1985",
     "anisearch": 3134,
-    "notify": "AWsHpFiig"
+    "notify": null
   },
   "title": {
     "romaji": "Tongari Boushi no Memole (Movie)",
@@ -62,25 +62,9 @@
   "trailer": null,
   "synopsis": "After the series, a 15-minute \"movie\" was released combining parts of Episodes 1, 2, 7, 24 and 25.\n\n(Source: AniDB)",
   "sequence": [],
-  "episodes": {
-    "1": {
-      "episode": "1",
-      "length": "20m",
-      "airDate": "1985-03-16",
-      "title": {
-        "en": "Complete Movie"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    }
-  },
+  "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T19:56:39.851Z",
+    "lastFetched": "2026-07-02T10:47:12.852Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
@@ -88,7 +72,8 @@
       "zenshin"
     ],
     "missingSources": [
-      "anilist"
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
     ],
     "dataVersion": 1
   }
