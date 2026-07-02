@@ -1,0 +1,116 @@
+{
+  "id": 62421,
+  "idMal": 62421,
+  "mappings": {
+    "mal": 62421,
+    "anilist": 198373,
+    "anidb": 19567,
+    "kitsu": 50568,
+    "simkl": 2875718,
+    "tmdb": 1542877,
+    "tvdb": null,
+    "trakt": 1266022,
+    "traktType": "movies",
+    "shikimori": 62421,
+    "livechart": 13310,
+    "animeplanet": "assassination-classroom-everyones-time",
+    "anisearch": 20872,
+    "notify": null
+  },
+  "title": {
+    "romaji": "Ansatsu Kyoushitsu: Minna no Jikan",
+    "english": "Assassination Classroom the Movie: Our Time",
+    "native": "暗殺教室 みんなの時間",
+    "synonyms": [
+      "Assassination Classroom Movie: Our Time",
+      "Assassination Classroom: Everyone's Time",
+      "Ansatsu Kyoushitsu Movie 2",
+      "Assassination Classroom Movie 2"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": null,
+  "aired": {
+    "from": "2026-03-20T00:00:00+00:00",
+    "to": null
+  },
+  "season": "winter",
+  "year": 2026,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.61,
+    "anilistScore": 7.2,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi",
+    "Supernatural"
+  ],
+  "studios": [
+    "Lerche"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1198/154288l.jpg",
+    "banner": null,
+    "color": "#f15d5d"
+  },
+  "trailer": null,
+  "synopsis": "Ansatsu Kyoushitsu Movie: Minna no Jikan adapts episodes which were omitted in the original anime series.",
+  "sequence": [
+    {
+      "malId": 24833,
+      "title": {
+        "romaji": "Ansatsu Kyoushitsu",
+        "english": "Assassination Classroom",
+        "native": "暗殺教室"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20755-dWrhs569YGUO.jpg",
+      "format": "TV",
+      "episodes": 22,
+      "seasonYear": 2015,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "0m",
+      "airDate": "2026-03-20",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-07-02T07:54:48.876Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

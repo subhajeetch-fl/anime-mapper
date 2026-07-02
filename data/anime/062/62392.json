@@ -1,0 +1,125 @@
+{
+  "id": 62392,
+  "idMal": 62392,
+  "mappings": {
+    "mal": 62392,
+    "anilist": 204066,
+    "anidb": null,
+    "kitsu": 50373,
+    "simkl": 2989924,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 62392,
+    "livechart": 13300,
+    "animeplanet": "jujutsu-kaisen-execution-shibuya-incident-x-the-culling-game-begins",
+    "anisearch": 20983,
+    "notify": null
+  },
+  "title": {
+    "romaji": "Jujutsu Kaisen: Shibuya Jihen Tokubetsu Henshuu-ban x Shimetsu Kaiyuu Senkou Jouei",
+    "english": "Jujutsu Kaisen: Execution",
+    "native": "呪術廻戦『渋谷事変 特別編集版』×『死滅回游 先行上映』",
+    "synonyms": [
+      "JJK Movie",
+      "JUJUTSU KAISEN: Execution"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": null,
+  "aired": {
+    "from": "2025-11-07T00:00:00+00:00",
+    "to": null
+  },
+  "season": "fall",
+  "year": 2025,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "R - 17+ (violence & profanity)",
+  "score": {
+    "malScore": 7.33,
+    "anilistScore": 7.6,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Action",
+    "Supernatural",
+    "Drama"
+  ],
+  "studios": [
+    "MAPPA"
+  ],
+  "producers": [
+    "dugout"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1438/154138l.jpg",
+    "banner": null,
+    "color": "#e49335"
+  },
+  "trailer": null,
+  "synopsis": "Compilation of the Shibuya Incident from the second season and the first two episodes of Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen.",
+  "sequence": [
+    {
+      "malId": 51009,
+      "title": {
+        "romaji": "Jujutsu Kaisen 2nd Season",
+        "english": "JUJUTSU KAISEN Season 2",
+        "native": "呪術廻戦 第2期"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145064-hSNRJM03pvv1.jpg",
+      "format": "TV",
+      "episodes": 23,
+      "seasonYear": 2023,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 59654,
+      "title": {
+        "romaji": "Jujutsu Kaisen: Kaigyoku・Gyokusetsu",
+        "english": "JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie",
+        "native": "呪術廻戦 懐玉・玉折"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192809-wRlqABGsx2Qs.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2025,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 57658,
+      "title": {
+        "romaji": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+        "english": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
+        "native": "呪術廻戦 死滅回游 前編"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-LnXqHzt74SJL.jpg",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2026,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-07-02T07:54:01.269Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}
