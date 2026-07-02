@@ -7,7 +7,7 @@
 // ============================================================================
 
 const SEARCH_INDEX_URL =
-  'https://cdn.jsdelivr.net/gh/subhajeetch-fl/anime-mapper@main/data/other-data-api/search-index.json';
+  'https://pub-986f8236d2c7439dbc1bf3babc33865f.r2.dev/search-index.json';
 
 const CACHE = {
   rawDataMaxAge: 1200,
