@@ -28,8 +28,8 @@
   },
   "type": "TV",
   "source": "Mixed media",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
@@ -44,8 +44,8 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1783000800
+    "episode": 4,
+    "airingAt": 1783605600
   },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -91,7 +91,7 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:55:00.741Z",
+    "lastFetched": "2026-07-02T18:07:36.014Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",

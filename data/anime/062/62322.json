@@ -25,8 +25,8 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": 12,
   "episodeLength": null,
   "aired": {
@@ -44,9 +44,9 @@
     "episode": 3,
     "airingAt": 1783522800
   },
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 6.7,
     "anilistScore": 6.3,
     "kitsuRating": null
   },
@@ -60,7 +60,9 @@
     "Brain's Base"
   ],
   "producers": [
+    "MediaNet",
     "Bit grooove promotion",
+    "Imagine",
     "GREE Entertainment"
   ],
   "images": {
@@ -134,7 +136,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-02T11:04:35.280Z",
+    "lastFetched": "2026-07-02T18:07:16.184Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
