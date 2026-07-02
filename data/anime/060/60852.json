@@ -44,15 +44,12 @@
     "time": "23:56",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 14,
-    "airingAt": 1783004160
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": 8.06,
     "anilistScore": 8,
-    "kitsuRating": 7.83
+    "kitsuRating": 7.8
   },
   "genres": [
     "Drama",
@@ -92,6 +89,19 @@
       "episodes": 12,
       "seasonYear": 2026,
       "relationType": "CHARACTER"
+    },
+    {
+      "malId": 64534,
+      "title": {
+        "romaji": "Koori no Jouheki 2nd Season",
+        "english": null,
+        "native": "氷の城壁 第2期"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213805-kQXiLbsLBkX4.png",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": 2026,
+      "relationType": "SEQUEL"
     }
   ],
   "episodes": {
@@ -292,7 +302,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-02T14:19:27.121Z",
+    "lastFetched": "2026-07-02T21:28:01.138Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
