@@ -34,6 +34,26 @@ const DATA_FILE = join(__dirname, '..', 'search-index.json');
 const MAX_LIMIT = 24;
 const DEFAULT_LIMIT = 20;
 
+// Short <-> Long key mapping for compact search-index.json
+const SHORT_TO_LONG = {
+  id: 'id', t: 'title', rT: 'romajiTitle', nT: 'nativeTitle',
+  y: 'year', s: 'season', ty: 'type', st: 'status', eC: 'episodeCount',
+  img: 'image', sc: 'score', uA: 'updatedAt', g: 'genres', stu: 'studios',
+  pro: 'producers', r: 'rating', se: 'searchTitle', pop: 'popularity',
+};
+
+function expandShortKeys(entry) {
+  if (!entry || typeof entry !== 'object') return entry;
+  const out = {};
+  for (const [shortKey, value] of Object.entries(entry)) {
+    const longKey = SHORT_TO_LONG[shortKey];
+    if (longKey) {
+      out[longKey] = value;
+    }
+  }
+  return out;
+}
+
 // ============================================================================
 // Caches (persist across warm invocations)
 // ============================================================================
@@ -100,7 +120,9 @@ async function loadSearchIndex() {
     const t0 = Date.now();
     const raw = await readFile(DATA_FILE, 'utf-8');
     console.log(`[API] Read ${raw.length} bytes in ${Date.now() - t0}ms`);
-    searchIndexCache = JSON.parse(raw);
+    const parsed = JSON.parse(raw);
+    // Expand short keys to long keys for backward-compatible API responses
+    searchIndexCache = Array.isArray(parsed) ? parsed.map(expandShortKeys) : parsed;
     lastLoadTime = now;
     console.log(`[API] Parsed ${searchIndexCache.length} entries, total ${Date.now() - t0}ms`);
     return searchIndexCache;

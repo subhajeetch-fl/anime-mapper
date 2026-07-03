@@ -87,15 +87,30 @@ function toIndexEntry(anime) {
   };
 }
 
+// Short-key search entry (saves storage in D1 and JSON on disk/GH).
+// Mapping: id=id, t=title, rT=romajiTitle, nT=nativeTitle, y=year,
+//          s=season, ty=type, st=status, eC=episodeCount, img=image,
+//          sc=score, uA=updatedAt, g=genres, stu=studios, pro=producers,
+//          r=rating, se=searchTitle
 function toSearchEntry(anime) {
   return {
-    ...toIndexEntry(anime),
-    genres: anime.genres ?? [],
-    studios: anime.studios ?? [],
-    producers: anime.producers ?? [],
-    rating: anime.rating ?? null,
-    // lowercased, accent-free-ish field purely for substring title search
-    searchTitle: [anime.title?.english, anime.title?.romaji, anime.title?.native]
+    id: anime.id,
+    t: anime.title?.english ?? anime.title?.romaji ?? null,
+    rT: anime.title?.romaji ?? null,
+    nT: anime.title?.native ?? null,
+    y: anime.year ?? null,
+    s: anime.season ?? null,
+    ty: anime.type ?? null,
+    st: anime.status ?? null,
+    eC: anime.episodeCount ?? null,
+    img: anime.images?.poster ?? null,
+    sc: anime.score?.malScore ?? null,
+    uA: anime.meta?.lastFetched ?? null,
+    g: anime.genres ?? [],
+    stu: anime.studios ?? [],
+    pro: anime.producers ?? [],
+    r: anime.rating ?? null,
+    se: [anime.title?.english, anime.title?.romaji, anime.title?.native]
       .filter(Boolean)
       .join(' ')
       .normalize('NFD')

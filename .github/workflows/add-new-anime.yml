@@ -77,3 +77,10 @@ jobs:
       - name: Commit and push safely
         run: |
           bash .github/scripts/commit-and-push.sh "chore(data): add new anime" rebuild-indexes
+
+      - name: Sync search index to D1
+        env:
+          API_BASE_URL: ${{ secrets.API_BASE_URL }}
+          WORKER_API_KEY: ${{ secrets.WORKER_API_KEY }}
+        run: bash .github/scripts/sync-d1.sh
+        continue-on-error: true

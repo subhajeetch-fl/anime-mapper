@@ -42,12 +42,33 @@ const SEARCH_INDEX_URL =
 const CACHE_TTL_SECONDS = 300;
 const MAX_LIMIT = 50;
 
+// Short-key search-index.json support
+const SHORT_TO_LONG = {
+  id: 'id', t: 'title', rT: 'romajiTitle', nT: 'nativeTitle',
+  y: 'year', s: 'season', ty: 'type', st: 'status', eC: 'episodeCount',
+  img: 'image', sc: 'score', uA: 'updatedAt', g: 'genres', stu: 'studios',
+  pro: 'producers', r: 'rating', se: 'searchTitle',
+};
+
+function expandKeys(entry) {
+  if (!entry || typeof entry !== 'object') return entry;
+  const out = {};
+  for (const [shortKey, value] of Object.entries(entry)) {
+    const longKey = SHORT_TO_LONG[shortKey];
+    if (longKey) out[longKey] = value;
+  }
+  return out;
+}
+
 async function loadSearchIndex(ctx) {
   const cache = caches.default;
   const cacheKey = new Request(SEARCH_INDEX_URL);
 
   const cached = await cache.match(cacheKey);
-  if (cached) return cached.json();
+  if (cached) {
+    const raw = await cached.json();
+    return raw.map(expandKeys);
+  }
 
   const res = await fetch(SEARCH_INDEX_URL);
   if (!res.ok) {
@@ -59,7 +80,8 @@ async function loadSearchIndex(ctx) {
   cacheable.headers.set('Cache-Control', `public, max-age=${CACHE_TTL_SECONDS}`);
   ctx.waitUntil(cache.put(cacheKey, cacheable.clone()));
 
-  return cacheable.json();
+  const raw = await cacheable.json();
+  return raw.map(expandKeys);
 }
 
 function parseList(value) {

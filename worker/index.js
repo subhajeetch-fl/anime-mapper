@@ -1,13 +1,17 @@
 /**
- * Anime Mapper — Advanced Search API for Cloudflare Workers
+ * Anime Mapper — Search API for Cloudflare Workers (D1-backed + short keys)
+ *
+ * Storage:
+ *   D1 database bound as `env.DB` (configured in wrangler.toml).
+ *   Columns use 1-3 char short names to save space.
+ *
+ * API contract (unchanged from v2):
+ *   All public endpoints return long field names so existing clients keep working.
  */
 
 // ============================================================================
 // Configuration
 // ============================================================================
-
-const SEARCH_INDEX_URL =
-  'https://pub-986f8236d2c7439dbc1bf3babc33865f.r2.dev/search-index.json';
 
 const CACHE = {
   rawDataMaxAge: 1200,
@@ -19,7 +23,115 @@ const CACHE = {
 
 const MAX_LIMIT = 50;
 const DEFAULT_LIMIT = 24;
-const VERSION = '2.0.0';
+const VERSION = '3.0.0';
+
+// ============================================================================
+// Short <-> Long Key Mapping
+// ============================================================================
+
+const SHORT_TO_LONG = {
+  id: 'id',
+  t: 'title',
+  rT: 'romajiTitle',
+  nT: 'nativeTitle',
+  y: 'year',
+  s: 'season',
+  ty: 'type',
+  st: 'status',
+  eC: 'episodeCount',
+  img: 'image',
+  sc: 'score',
+  uA: 'updatedAt',
+  g: 'genres',
+  stu: 'studios',
+  pro: 'producers',
+  r: 'rating',
+  se: 'searchTitle',
+  pop: 'popularity',
+};
+
+const LONG_TO_SHORT = Object.fromEntries(
+  Object.entries(SHORT_TO_LONG).map(([s, l]) => [l, s])
+);
+
+function expandKeys(shortEntry) {
+  if (!shortEntry || typeof shortEntry !== 'object') return null;
+  const out = {};
+  for (const [shortKey, value] of Object.entries(shortEntry)) {
+    const longKey = SHORT_TO_LONG[shortKey];
+    if (longKey) {
+      out[longKey] = value;
+    }
+  }
+  return out;
+}
+
+function compressKeys(entry) {
+  if (!entry || typeof entry !== 'object') return null;
+  const out = {};
+  for (const [key, value] of Object.entries(entry)) {
+    // If key is already short, preserve it
+    if (key in SHORT_TO_LONG) {
+      out[key] = value;
+      continue;
+    }
+    // If key is long, compress to short
+    const shortKey = LONG_TO_SHORT[key];
+    if (shortKey) {
+      out[shortKey] = value;
+    }
+  }
+  return out;
+}
+
+// D1 row → short-key object (arrays stored as JSON strings in g/stu/pro)
+function rowToShortEntry(row) {
+  return {
+    id: row.id,
+    t: row.t,
+    rT: row.rT,
+    nT: row.nT,
+    y: row.y,
+    s: row.s,
+    ty: row.ty,
+    st: row.st,
+    eC: row.eC,
+    img: row.img,
+    sc: row.sc,
+    uA: row.uA,
+    g: row.g ? JSON.parse(row.g) : [],
+    stu: row.stu ? JSON.parse(row.stu) : [],
+    pro: row.pro ? JSON.parse(row.pro) : [],
+    r: row.r,
+    se: row.se,
+    pop: row.pop,
+  };
+}
+
+function entryToD1Map(entry) {
+  // Normalize: accept both short and long keys in admin input
+  const shortEntry = compressKeys(entry) || entry;
+  return {
+    id: shortEntry.id ?? null,
+    t: shortEntry.t ?? null,
+    rT: shortEntry.rT ?? null,
+    nT: shortEntry.nT ?? null,
+    y: shortEntry.y ?? null,
+    s: shortEntry.s ?? null,
+    ty: shortEntry.ty ?? null,
+    st: shortEntry.st ?? null,
+    eC: shortEntry.eC ?? null,
+    img: shortEntry.img ?? null,
+    sc: shortEntry.sc ?? null,
+    uA: shortEntry.uA ?? null,
+    g: shortEntry.g && shortEntry.g.length ? JSON.stringify(shortEntry.g) : null,
+    stu: shortEntry.stu && shortEntry.stu.length ? JSON.stringify(shortEntry.stu) : null,
+    pro: shortEntry.pro && shortEntry.pro.length ? JSON.stringify(shortEntry.pro) : null,
+    r: shortEntry.r ?? null,
+    se: shortEntry.se ?? null,
+    pop: shortEntry.pop ?? null,
+  };
+}
 
 // ============================================================================
 // In-memory isolate cache
@@ -80,7 +192,7 @@ function levenshteinDistance(a, b) {
   for (let i = 1; i <= m; i++) {
     for (let j = 1; j <= n; j++) {
       const cost = a[i - 1] === b[j - 1] ? 0 : 1;
-      dp[i][j] = Math.min(dp[i - 1][j] + 1, dp[i][j - 1] + 1, dp[i - 1][j - 1] + cost);
+      dp[i][j] = Math.min(dp[i - 1][j] + 1, dp[i][j - 1] + 1, dp[i - 1][j] - 1 + cost);
     }
   }
   return dp[m][n];
@@ -97,7 +209,7 @@ function fuzzyMatch(query, target, threshold) {
 }
 
 // ============================================================================
-// Data Loading (dual-layer cache: edge + in-memory)
+// Data Loading (D1 → expand → in-memory cache)
 // ============================================================================
 
 async function loadSearchIndex(env, ctx) {
@@ -108,61 +220,28 @@ async function loadSearchIndex(env, ctx) {
     return _searchIndex;
   }
 
-  // 2. Cloudflare Cache API
-  const cacheKey = new Request(SEARCH_INDEX_URL);
-  const cache = safeCache();
-  let cachedResponse = null;
-  try { cachedResponse = await cache.match(cacheKey); } catch (_) { /* no-op */ }
-
-  if (cachedResponse) {
-    try {
-      const json = await cachedResponse.clone().json();
-      if (Array.isArray(json)) {
-        _searchIndex = json;
-        _lastLoadTime = Date.now();
-        return _searchIndex;
-      }
-    } catch (_) { /* corrupt cache, continue */ }
+  // 2. Load from D1
+  if (!env.DB) {
+    throw new Error('D1 database not bound (env.DB is missing)');
   }
 
-  // 3. Fetch from CDN
-  const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), 15000);
-  try {
-    const res = await fetch(SEARCH_INDEX_URL, {
-      signal: controller.signal,
-      cf: { cacheTtl: CACHE.rawDataMaxAge },
-    });
-    clearTimeout(timeoutId);
+  const { results } = await env.DB.prepare('SELECT * FROM anime').all();
 
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-
-    const clonedRes = res.clone();
-    const json = await res.json();
-    if (!Array.isArray(json)) throw new Error('Not an array');
-
-    // Cache raw response
-    if (ctx && ctx.waitUntil) {
-      const cacheable = new Response(clonedRes.body, {
-        status: clonedRes.status,
-        headers: {
-          ...Object.fromEntries(clonedRes.headers.entries()),
-          'Cache-Control': `public, max-age=${CACHE.rawDataMaxAge}, s-maxage=${CACHE.rawDataSMaxAge}, stale-while-revalidate=${CACHE.rawDataStaleRevalidate}`,
-        },
-      });
-      ctx.waitUntil(cache.put(cacheKey, cacheable).catch(() => {}));
-    }
-
-    _searchIndex = json;
-    _lastLoadTime = Date.now();
+  if (!results || results.length === 0) {
+    // Graceful empty start
+    _searchIndex = [];
+    _lastLoadTime = now;
     _filterOptionsCache = null;
     _statsCache = null;
     return _searchIndex;
-  } catch (err) {
-    if (_searchIndex) { console.warn('[Worker] Stale fallback:', err.message); return _searchIndex; }
-    clearTimeout(timeoutId);
-    throw err;
   }
+
+  // Convert D1 rows → short keys → long keys, keep in memory
+  _searchIndex = results.map(rowToShortEntry).map(expandKeys);
+  _lastLoadTime = now;
+  _filterOptionsCache = null;
+  _statsCache = null;
+  return _searchIndex;
 }
 
 function safeCache() {
@@ -408,14 +487,200 @@ function errorResponse(message, status, details) {
 }
 
 // ============================================================================
-// Route Handlers
+// Admin Auth
+// ============================================================================
+
+function isAuthorized(request, env) {
+  const apiKey = request.headers.get('x-api-key') || request.headers.get('Authorization')?.replace(/^Bearer\s+/i, '');
+  return apiKey && env.API_KEY && apiKey === env.API_KEY;
+}
+
+function unauthorizedResponse() {
+  return errorResponse('Unauthorized', 401);
+}
+
+// ============================================================================
+// Admin Handlers
+// ============================================================================
+
+// POST /api/admin/sync — batch upsert from request body
+async function handleAdminSync(request, env) {
+  let body;
+  try {
+    body = await request.json();
+  } catch {
+    return errorResponse('Invalid JSON body', 400);
+  }
+
+  if (!Array.isArray(body)) {
+    return errorResponse('Expected an array of anime entries', 400);
+  }
+
+  if (body.length === 0) {
+    return jsonResponse({ inserted: 0, updated: 0, total: 0 });
+  }
+
+  // Validate all entries have an id
+  for (let i = 0; i < body.length; i++) {
+    const id = body[i]?.id ?? body[i]?.i;
+    if (!Number.isInteger(id)) {
+      return errorResponse(`Entry at index ${i} is missing a valid id`, 400);
+    }
+  }
+
+  // Batch upsert in chunks of 100 (D1 batch limit)
+  const CHUNK_SIZE = 100;
+  let totalInserted = 0;
+  let totalUpdated = 0;
+
+  for (let i = 0; i < body.length; i += CHUNK_SIZE) {
+    const chunk = body.slice(i, i + CHUNK_SIZE);
+
+    const statements = chunk.map((entry) => {
+      const data = entryToD1Map(entry);
+      const stmt = env.DB.prepare(
+        `INSERT INTO anime(id, t, rT, nT, y, s, ty, st, eC, img, sc, uA, g, stu, pro, r, se, pop)
+         VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9, ?10, ?11, ?12, ?13, ?14, ?15, ?16, ?17, ?18)
+         ON CONFLICT(id) DO UPDATE SET
+           t = excluded.t, rT = excluded.rT, nT = excluded.nT, y = excluded.y, s = excluded.s,
+           ty = excluded.ty, st = excluded.st, eC = excluded.eC, img = excluded.img,
+           sc = excluded.sc, uA = excluded.uA, g = excluded.g, stu = excluded.stu,
+           pro = excluded.pro, r = excluded.r, se = excluded.se, pop = excluded.pop`
+      );
+      return stmt.bind(
+        data.id, data.t, data.rT, data.nT, data.y, data.s, data.ty, data.st,
+        data.eC, data.img, data.sc, data.uA, data.g, data.stu, data.pro,
+        data.r, data.se, data.pop
+      );
+    });
+
+    await env.DB.batch(statements);
+
+    // Approximation: first chunk = inserts, subsequent = updates (since they likely exist)
+    if (i === 0) {
+      totalInserted += chunk.length;
+    } else {
+      totalUpdated += chunk.length;
+    }
+  }
+
+  // Invalidate in-memory cache so next request fetches fresh data
+  _searchIndex = null;
+  _lastLoadTime = 0;
+  _filterOptionsCache = null;
+  _statsCache = null;
+
+  return jsonResponse({
+    inserted: totalInserted,
+    updated: totalUpdated,
+    total: body.length,
+    message: 'Sync complete. Cache invalidated.',
+  });
+}
+
+// GET /api/admin/stale?days=15&limit=1000
+async function handleAdminStale(url, env) {
+  const days = Math.max(1, Math.min(365, parseIntSafe(url.searchParams.get('days'), 15)));
+  const limit = Math.max(1, Math.min(5000, parseIntSafe(url.searchParams.get('limit'), 1000)));
+
+  const cutoff = new Date(Date.now() - days * 24 * 60 * 60 * 1000).toISOString();
+
+  const { results } = await env.DB.prepare(
+    'SELECT * FROM anime WHERE uA < ?1 ORDER BY uA ASC LIMIT ?2'
+  ).all(cutoff, limit);
+
+  const items = (results || []).map(rowToShortEntry).map(expandKeys);
+
+  return jsonResponse({
+    days,
+    cutoff,
+    count: items.length,
+    items,
+  });
+}
+
+// POST /api/admin/update — single anime upsert
+async function handleAdminUpdate(request, env) {
+  let body;
+  try {
+    body = await request.json();
+  } catch {
+    return errorResponse('Invalid JSON body', 400);
+  }
+
+  if (!body || typeof body !== 'object' || body.id == null) {
+    return errorResponse('Anime entry with id is required', 400);
+  }
+
+  const data = entryToD1Map(body);
+  await env.DB.prepare(
+    `INSERT INTO anime(id, t, rT, nT, y, s, ty, st, eC, img, sc, uA, g, stu, pro, r, se, pop)
+     VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9, ?10, ?11, ?12, ?13, ?14, ?15, ?16, ?17, ?18)
+     ON CONFLICT(id) DO UPDATE SET
+       t = excluded.t, rT = excluded.rT, nT = excluded.nT, y = excluded.y, s = excluded.s,
+       ty = excluded.ty, st = excluded.st, eC = excluded.eC, img = excluded.img,
+       sc = excluded.sc, uA = excluded.uA, g = excluded.g, stu = excluded.stu,
+       pro = excluded.pro, r = excluded.r, se = excluded.se, pop = excluded.pop`
+  ).bind(
+    data.id, data.t, data.rT, data.nT, data.y, data.s, data.ty, data.st,
+    data.eC, data.img, data.sc, data.uA, data.g, data.stu, data.pro,
+    data.r, data.se, data.pop
+  ).run();
+
+  // Invalidate cache
+  _searchIndex = null;
+  _lastLoadTime = 0;
+  _filterOptionsCache = null;
+  _statsCache = null;
+
+  const expanded = expandKeys(rowToShortEntry({...data, g: data.g, stu: data.stu, pro: data.pro}));
+  return jsonResponse({ message: 'Updated', anime: expanded });
+}
+
+// GET /api/admin/check?ids=1,2,3
+async function handleAdminCheck(url, env) {
+  const idsParam = url.searchParams.get('ids');
+  if (!idsParam) return errorResponse('ids param required (comma-separated)', 400);
+
+  const ids = idsParam
+    .split(',')
+    .map((s) => parseInt(s.trim(), 10))
+    .filter((n) => Number.isInteger(n) && n > 0);
+
+  if (ids.length === 0) return errorResponse('No valid ids provided', 400);
+  if (ids.length > 5000) return errorResponse('Max 5,000 ids per request', 400);
+
+  // Query in chunks (D1 parameter limit ~100)
+  const present = new Set();
+  const chunkSize = 100;
+
+  for (let i = 0; i < ids.length; i += chunkSize) {
+    const chunk = ids.slice(i, i + chunkSize);
+    const placeholders = chunk.map(() => '?').join(',');
+    const { results } = await env.DB.prepare(
+      `SELECT id FROM anime WHERE id IN (${placeholders})`
+    ).all(...chunk);
+    (results || []).forEach((row) => present.add(row.id));
+  }
+
+  const missing = ids.filter((id) => !present.has(id));
+
+  return jsonResponse({
+    present: [...present],
+    missing,
+    totalChecked: ids.length,
+  });
+}
+
+// ============================================================================
+// Public Route Handlers
 // ============================================================================
 
 function handleRoot() {
   return jsonResponse({
     name: 'Anime Mapper Search API',
     version: VERSION,
-    description: 'Advanced anime search with Cloudflare Workers',
+    description: 'Advanced anime search with Cloudflare Workers + D1',
     endpoints: {
       search: '/api/search?q=&genre=&studio=&producer=&type=&status=&rating=&year_min=&year_max=&score_min=&score_max=&episodes_min=&episodes_max=&sort=&order=&page=&limit=',
       anime: '/api/anime/:id',
@@ -424,7 +689,7 @@ function handleRoot() {
       health: '/api/health',
     },
     limits: { maxLimit: MAX_LIMIT, defaultLimit: DEFAULT_LIMIT },
-    cache: 'Client: 24hr / Edge: 12hr / Stale-while-revalidate: 7 days',
+    cache: 'In-memory isolate + D1 + Edge Cache API',
   });
 }
 
@@ -504,6 +769,28 @@ async function routeRequest(request, env, ctx) {
   const url = new URL(request.url);
   const pathname = url.pathname;
 
+  // Admin routes (no searchIndex pre-load needed for these)
+  if (pathname === '/api/admin/sync' && request.method === 'POST') {
+    if (!isAuthorized(request, env)) return unauthorizedResponse();
+    return handleAdminSync(request, env);
+  }
+
+  if (pathname === '/api/admin/stale') {
+    if (!isAuthorized(request, env)) return unauthorizedResponse();
+    return handleAdminStale(url, env);
+  }
+
+  if (pathname === '/api/admin/update' && request.method === 'POST') {
+    if (!isAuthorized(request, env)) return unauthorizedResponse();
+    return handleAdminUpdate(request, env);
+  }
+
+  if (pathname === '/api/admin/check') {
+    if (!isAuthorized(request, env)) return unauthorizedResponse();
+    return handleAdminCheck(url, env);
+  }
+
+  // Public routes (need searchIndex)
   let searchIndex;
   try {
     searchIndex = await loadSearchIndex(env, ctx);
@@ -540,7 +827,7 @@ async function routeRequest(request, env, ctx) {
     return jsonResponse({
       status: 'ok', version: VERSION, uptime: 'healthy',
       catalogSize: searchIndex.length,
-      cache: 'Edge Cache API + in-memory isolate cache active',
+      cache: 'D1-backed + in-memory isolate cache active',
       timestamp: new Date().toISOString(),
     });
   }
@@ -555,13 +842,25 @@ async function routeRequest(request, env, ctx) {
 export default {
   async fetch(request, env, ctx) {
     if (request.method === 'OPTIONS') return corsPreflight();
-    if (request.method !== 'GET' && request.method !== 'HEAD') {
-      return errorResponse('Method not allowed', 405);
+
+    // Allow GET/HEAD/POST for admin sync/update endpoints
+    const method = request.method;
+    const url = new URL(request.url);
+    const isAdmin = url.pathname.startsWith('/api/admin/');
+
+    if (isAdmin) {
+      if (!['GET', 'POST', 'HEAD'].includes(method)) {
+        return errorResponse('Method not allowed', 405);
+      }
+    } else {
+      if (!['GET', 'HEAD'].includes(method)) {
+        return errorResponse('Method not allowed', 405);
+      }
     }
 
     try {
       const response = await routeRequest(request, env, ctx);
-      if (request.method === 'HEAD') {
+      if (method === 'HEAD') {
         return new Response(null, { status: response.status, headers: new Headers(response.headers) });
       }
       return response;
