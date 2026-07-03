@@ -7,6 +7,28 @@
  *
  * API contract (unchanged from v2):
  *   All public endpoints return long field names so existing clients keep working.
+ *
+ * v3.1.0 changelog (fixes /api/search 500 + related bugs):
+ *   - rowToShortEntry: JSON.parse on g/stu/pro no longer throws on malformed data.
+ *     A single corrupt row used to abort the ENTIRE catalog load (loadSearchIndex
+ *     rejects -> every endpoint 503s). Now it logs a warning and falls back to []
+ *     for that field only, so one bad row can't take the whole API down.
+ *   - handleSearch: was reading params.sort / params.order / params.page / params.limit
+ *     directly off a URLSearchParams object, which has no such properties (only
+ *     .get()). Those always evaluated to undefined and silently fell back to
+ *     defaults -- so ?sort=year, ?order=asc, ?page=2, ?limit=10 were all being
+ *     ignored. Fixed to use params.get(...) consistently, same as parseFilters.
+ *   - searchTitle ('se') matching: query text was normalized (lowercased, accents
+ *     stripped) via normalizeText(), but anime.searchTitle was compared raw. Since
+ *     se is inconsistently cased/scripted in the data, this silently missed
+ *     matches. Fixed by precomputing a normalized se once per row at load time
+ *     (cheap, done once per 5-min cache window) and comparing normalized-to-normalized.
+ *   - sortResults: numeric fields (score/popularity/year/episodes) are now coerced
+ *     with Number(...) before comparison, so a field that's accidentally stored as
+ *     a string in D1 (e.g. "7.2") sorts numerically instead of lexicographically.
+ *   - Errors are now logged server-side with context (which endpoint, which row id
+ *     if applicable) before returning the generic client-facing message, so future
+ *     issues are diagnosable from `wrangler tail` instead of being a black box.
  */
 
 // ============================================================================
@@ -23,7 +45,7 @@ const CACHE = {
 
 const MAX_LIMIT = 50;
 const DEFAULT_LIMIT = 24;
-const VERSION = '3.0.0';
+const VERSION = '3.1.0';
 
 // ============================================================================
 // Short <-> Long Key Mapping
@@ -84,6 +106,24 @@ function compressKeys(entry) {
   return out;
 }
 
+// Safely parse a JSON array column (g/stu/pro). D1 can return malformed,
+// truncated, or non-array JSON in these columns if a bad sync ever slipped
+// through -- this must NEVER throw, since it runs on every row on every
+// catalog load. A single corrupt row falling back to [] is far better than
+// the entire catalog (and every endpoint) going down.
+function safeParseArray(value, context) {
+  if (!value) return [];
+  try {
+    const parsed = JSON.parse(value);
+    if (Array.isArray(parsed)) return parsed;
+    console.warn(`[safeParseArray] Expected array but got ${typeof parsed} for ${context}. Raw: ${String(value).slice(0, 120)}`);
+    return [];
+  } catch (e) {
+    console.warn(`[safeParseArray] JSON.parse failed for ${context}: ${e.message}. Raw: ${String(value).slice(0, 120)}`);
+    return [];
+  }
+}
+
 // D1 row → short-key object (arrays stored as JSON strings in g/stu/pro)
 function rowToShortEntry(row) {
   return {
@@ -99,9 +139,9 @@ function rowToShortEntry(row) {
     img: row.img,
     sc: row.sc,
     uA: row.uA,
-    g: row.g ? JSON.parse(row.g) : [],
-    stu: row.stu ? JSON.parse(row.stu) : [],
-    pro: row.pro ? JSON.parse(row.pro) : [],
+    g: safeParseArray(row.g, `genres (id=${row.id})`),
+    stu: safeParseArray(row.stu, `studios (id=${row.id})`),
+    pro: safeParseArray(row.pro, `producers (id=${row.id})`),
     r: row.r,
     se: row.se,
     pop: row.pop,
@@ -148,10 +188,16 @@ const ISOLATE_CACHE_TTL = 300000; // 5 min
 // Utility functions
 // ============================================================================
 
+// NOTE: uses the explicit \u0300-\u036f unicode range for combining diacritical
+// marks. A literal character in this spot (rather than the escape) can silently
+// stop matching entirely depending on how the file gets saved/transferred, so
+// the escape form is used everywhere below to guarantee it survives intact.
+const DIACRITICS_RE = /[\u0300-\u036f]/g;
+
 function toKebabCase(str) {
   if (!str) return '';
   return str
-    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .normalize('NFD').replace(DIACRITICS_RE, '')
     .replace(/[^a-zA-Z0-9\s-]/g, ' ')
     .trim()
     .toLowerCase()
@@ -162,7 +208,7 @@ function toKebabCase(str) {
 
 function normalizeText(str) {
   if (!str) return '';
-  return str.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim();
+  return String(str).normalize('NFD').replace(DIACRITICS_RE, '').toLowerCase().trim();
 }
 
 function parseList(val) {
@@ -182,6 +228,16 @@ function parseFloatSafe(val, fallback) {
   return Number.isNaN(n) ? fallback : n;
 }
 
+// Coerce a value that's SUPPOSED to be numeric but might have been stored/passed
+// as a string (D1 columns are dynamically typed; a bad admin sync could insert
+// "7.2" instead of 7.2). Returns null (not NaN) for anything unusable so callers
+// can treat it the same as a missing value.
+function toNumberOrNull(val) {
+  if (val === null || val === undefined || val === '') return null;
+  const n = Number(val);
+  return Number.isFinite(n) ? n : null;
+}
+
 function levenshteinDistance(a, b) {
   const m = a.length, n = b.length;
   if (m === 0) return n;
@@ -198,19 +254,35 @@ function levenshteinDistance(a, b) {
   return dp[m][n];
 }
 
-function fuzzyMatch(query, target, threshold) {
-  if (!query || !target) return false;
-  const q = normalizeText(query);
-  const t = normalizeText(target);
-  if (t.includes(q)) return true;
-  if (q.length <= 3) return false;
-  const dist = levenshteinDistance(q, t);
-  return dist / Math.max(q.length, t.length) <= (threshold || 0.3);
+// query and target are expected to ALREADY be normalizeText()'d by the caller.
+// Kept this way so normalization happens once per row at load time (see
+// buildNormalizedSearchFields) rather than being recomputed on every fuzzyMatch
+// call across every search request.
+function fuzzyMatchNormalized(normQuery, normTarget, threshold) {
+  if (!normQuery || !normTarget) return false;
+  if (normTarget.includes(normQuery)) return true;
+  if (normQuery.length <= 3) return false;
+  const dist = levenshteinDistance(normQuery, normTarget);
+  return dist / Math.max(normQuery.length, normTarget.length) <= (threshold || 0.3);
 }
 
 // ============================================================================
 // Data Loading (D1 → expand → in-memory cache)
 // ============================================================================
+
+// Precompute normalized versions of every searchable text field, once per row,
+// once per cache window -- instead of re-normalizing on every fuzzyMatch call
+// for every request. This is also the fix for the "se is sometimes lowercase,
+// sometimes Japanese, sometimes capital" issue: both sides of every comparison
+// go through the exact same normalizeText(), so casing/script differences in
+// the stored data no longer cause missed matches.
+function attachNormalizedSearchFields(entry) {
+  entry._normSe = normalizeText(entry.searchTitle);
+  entry._normTitle = normalizeText(entry.title);
+  entry._normRomaji = normalizeText(entry.romajiTitle);
+  entry._normNative = normalizeText(entry.nativeTitle);
+  return entry;
+}
 
 async function loadSearchIndex(env, ctx) {
   const now = Date.now();
@@ -225,7 +297,14 @@ async function loadSearchIndex(env, ctx) {
     throw new Error('D1 database not bound (env.DB is missing)');
   }
 
-  const { results } = await env.DB.prepare('SELECT * FROM anime').all();
+  let results;
+  try {
+    const queryResult = await env.DB.prepare('SELECT * FROM anime').all();
+    results = queryResult.results;
+  } catch (e) {
+    console.error('[loadSearchIndex] D1 query failed:', e.message || e);
+    throw new Error(`D1 query failed: ${e.message || 'unknown error'}`);
+  }
 
   if (!results || results.length === 0) {
     // Graceful empty start
@@ -236,8 +315,33 @@ async function loadSearchIndex(env, ctx) {
     return _searchIndex;
   }
 
-  // Convert D1 rows → short keys → long keys, keep in memory
-  _searchIndex = results.map(rowToShortEntry).map(expandKeys);
+  // Convert D1 rows → short keys → long keys, keep in memory.
+  // Each row is processed independently so one malformed row (bad JSON in
+  // g/stu/pro, unexpected null, etc.) can't abort the load for every other
+  // row. rowToShortEntry itself no longer throws on bad JSON (see
+  // safeParseArray), but this per-row try/catch is a second layer of defense
+  // in case of some other unexpected shape -- a row that fails is logged and
+  // skipped rather than taking down the whole catalog.
+  const index = [];
+  let skipped = 0;
+  for (const row of results) {
+    try {
+      const shortEntry = rowToShortEntry(row);
+      const longEntry = expandKeys(shortEntry);
+      if (longEntry) {
+        index.push(attachNormalizedSearchFields(longEntry));
+      }
+    } catch (e) {
+      skipped++;
+      console.error(`[loadSearchIndex] Skipping row id=${row?.id ?? 'unknown'} due to processing error:`, e.message || e);
+    }
+  }
+
+  if (skipped > 0) {
+    console.warn(`[loadSearchIndex] Loaded ${index.length} rows, skipped ${skipped} malformed row(s).`);
+  }
+
+  _searchIndex = index;
   _lastLoadTime = now;
   _filterOptionsCache = null;
   _statsCache = null;
@@ -278,12 +382,15 @@ function parseFilters(params) {
 
 function matchesFilters(anime, filters) {
   if (filters.q) {
-    const searchText = anime.searchTitle || '';
+    // filters.q is already normalizeText()'d in parseFilters. Compare against
+    // the precomputed normalized fields (see attachNormalizedSearchFields) so
+    // casing/script inconsistencies in the stored data (se sometimes lowercase,
+    // sometimes Japanese, sometimes capitalized) no longer cause missed matches.
     const hasMatch =
-      searchText.includes(filters.q) ||
-      fuzzyMatch(filters.q, anime.title) ||
-      fuzzyMatch(filters.q, anime.romajiTitle) ||
-      fuzzyMatch(filters.q, anime.nativeTitle);
+      (anime._normSe && anime._normSe.includes(filters.q)) ||
+      fuzzyMatchNormalized(filters.q, anime._normTitle) ||
+      fuzzyMatchNormalized(filters.q, anime._normRomaji) ||
+      fuzzyMatchNormalized(filters.q, anime._normNative);
     if (!hasMatch) return false;
   }
 
@@ -320,12 +427,16 @@ function matchesFilters(anime, filters) {
     if (!ar.includes(nr)) return false;
   }
 
-  if (filters.yearMin != null && (anime.year == null || anime.year < filters.yearMin)) return false;
-  if (filters.yearMax != null && (anime.year == null || anime.year > filters.yearMax)) return false;
-  if (filters.scoreMin != null && (anime.score == null || anime.score < filters.scoreMin)) return false;
-  if (filters.scoreMax != null && (anime.score == null || anime.score > filters.scoreMax)) return false;
-  if (filters.episodesMin != null && (anime.episodeCount == null || anime.episodeCount < filters.episodesMin)) return false;
-  if (filters.episodesMax != null && (anime.episodeCount == null || anime.episodeCount > filters.episodesMax)) return false;
+  const year = toNumberOrNull(anime.year);
+  const score = toNumberOrNull(anime.score);
+  const episodes = toNumberOrNull(anime.episodeCount);
+
+  if (filters.yearMin != null && (year == null || year < filters.yearMin)) return false;
+  if (filters.yearMax != null && (year == null || year > filters.yearMax)) return false;
+  if (filters.scoreMin != null && (score == null || score < filters.scoreMin)) return false;
+  if (filters.scoreMax != null && (score == null || score > filters.scoreMax)) return false;
+  if (filters.episodesMin != null && (episodes == null || episodes < filters.episodesMin)) return false;
+  if (filters.episodesMax != null && (episodes == null || episodes > filters.episodesMax)) return false;
 
   return true;
 }
@@ -338,23 +449,30 @@ const VALID_SORTS = ['score', 'popularity', 'year', 'title', 'episodes', 'update
 
 function sortResults(results, sortKey, order) {
   const direction = order === 'asc' ? 1 : -1;
+  // Numeric fields are coerced with toNumberOrNull so a value that's accidentally
+  // stored as a string in D1 (e.g. "7.2") still sorts numerically instead of
+  // lexicographically (which would put "10" before "9").
   const getValue = (a, key) => {
     switch (key) {
-      case 'score': return a.score ?? -Infinity;
-      case 'popularity': return a.popularity ?? -Infinity;
-      case 'year': return a.year ?? -Infinity;
+      case 'score': return toNumberOrNull(a.score) ?? -Infinity;
+      case 'popularity': return toNumberOrNull(a.popularity) ?? -Infinity;
+      case 'year': return toNumberOrNull(a.year) ?? -Infinity;
       case 'title': return (a.title || '').toLowerCase();
-      case 'episodes': return a.episodeCount ?? -Infinity;
-      case 'updatedAt': return a.updatedAt ? new Date(a.updatedAt).getTime() : -Infinity;
-      case 'id': return a.id ?? -Infinity;
-      default: return a.score ?? -Infinity;
+      case 'episodes': return toNumberOrNull(a.episodeCount) ?? -Infinity;
+      case 'updatedAt': {
+        if (!a.updatedAt) return -Infinity;
+        const t = new Date(a.updatedAt).getTime();
+        return Number.isFinite(t) ? t : -Infinity;
+      }
+      case 'id': return toNumberOrNull(a.id) ?? -Infinity;
+      default: return toNumberOrNull(a.score) ?? -Infinity;
     }
   };
 
   results.sort((a, b) => {
     const av = getValue(a, sortKey);
     const bv = getValue(b, sortKey);
-    if (av === bv) return (a.id ?? 0) - (b.id ?? 0);
+    if (av === bv) return (toNumberOrNull(a.id) ?? 0) - (toNumberOrNull(b.id) ?? 0);
     return direction * (av > bv ? 1 : -1);
   });
   return results;
@@ -380,6 +498,19 @@ function paginateResults(results, page, limit) {
   };
 }
 
+// Strip the internal _norm* fields (and any other underscore-prefixed internal
+// fields) before sending an entry back to the client -- they're an
+// implementation detail of the search index, not part of the public API
+// contract.
+function stripInternalFields(entry) {
+  if (!entry || typeof entry !== 'object') return entry;
+  const out = {};
+  for (const [key, value] of Object.entries(entry)) {
+    if (!key.startsWith('_')) out[key] = value;
+  }
+  return out;
+}
+
 // ============================================================================
 // Metadata builders
 // ============================================================================
@@ -398,9 +529,14 @@ function buildFilterOptions(index) {
     if (anime.type) types.add(anime.type);
     if (anime.status) statuses.add(anime.status);
     if (anime.rating) ratings.add(anime.rating);
-    if (anime.year != null) { minYear = Math.min(minYear, anime.year); maxYear = Math.max(maxYear, anime.year); }
-    if (anime.score != null) { minScore = Math.min(minScore, anime.score); maxScore = Math.max(maxScore, anime.score); }
-    if (anime.episodeCount != null) { minEpisodes = Math.min(minEpisodes, anime.episodeCount); maxEpisodes = Math.max(maxEpisodes, anime.episodeCount); }
+
+    const year = toNumberOrNull(anime.year);
+    const score = toNumberOrNull(anime.score);
+    const episodes = toNumberOrNull(anime.episodeCount);
+
+    if (year != null) { minYear = Math.min(minYear, year); maxYear = Math.max(maxYear, year); }
+    if (score != null) { minScore = Math.min(minScore, score); maxScore = Math.max(maxScore, score); }
+    if (episodes != null) { minEpisodes = Math.min(minEpisodes, episodes); maxEpisodes = Math.max(maxEpisodes, episodes); }
   }
 
   _filterOptionsCache = {
@@ -424,11 +560,15 @@ function buildStats(index) {
     if (anime.type) byType[anime.type] = (byType[anime.type] || 0) + 1;
     if (anime.status) byStatus[anime.status] = (byStatus[anime.status] || 0) + 1;
     if (anime.rating) byRating[anime.rating] = (byRating[anime.rating] || 0) + 1;
-    if (anime.year) byYear[anime.year] = (byYear[anime.year] || 0) + 1;
+
+    const year = toNumberOrNull(anime.year);
+    const score = toNumberOrNull(anime.score);
+
+    if (year != null) byYear[year] = (byYear[year] || 0) + 1;
     if (anime.season) bySeason[anime.season] = (bySeason[anime.season] || 0) + 1;
     anime.genres?.forEach((g) => { genreCounts[g] = (genreCounts[g] || 0) + 1; });
     anime.studios?.forEach((s) => { studioCounts[s] = (studioCounts[s] || 0) + 1; });
-    if (anime.score != null) { totalScore += anime.score; scoreCount++; minScore = Math.min(minScore, anime.score); maxScore = Math.max(maxScore, anime.score); }
+    if (score != null) { totalScore += score; scoreCount++; minScore = Math.min(minScore, score); maxScore = Math.max(maxScore, score); }
   }
 
   const topGenres = Object.entries(genreCounts).sort((a, b) => b[1] - a[1]).slice(0, 30).map(([genre, count]) => ({ genre, count }));
@@ -539,35 +679,40 @@ async function handleAdminSync(request, env) {
   let totalInserted = 0;
   let totalUpdated = 0;
 
-  for (let i = 0; i < body.length; i += CHUNK_SIZE) {
-    const chunk = body.slice(i, i + CHUNK_SIZE);
+  try {
+    for (let i = 0; i < body.length; i += CHUNK_SIZE) {
+      const chunk = body.slice(i, i + CHUNK_SIZE);
 
-    const statements = chunk.map((entry) => {
-      const data = entryToD1Map(entry);
-      const stmt = env.DB.prepare(
-        `INSERT INTO anime(id, t, rT, nT, y, s, ty, st, eC, img, sc, uA, g, stu, pro, r, se, pop)
-         VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9, ?10, ?11, ?12, ?13, ?14, ?15, ?16, ?17, ?18)
-         ON CONFLICT(id) DO UPDATE SET
-           t = excluded.t, rT = excluded.rT, nT = excluded.nT, y = excluded.y, s = excluded.s,
-           ty = excluded.ty, st = excluded.st, eC = excluded.eC, img = excluded.img,
-           sc = excluded.sc, uA = excluded.uA, g = excluded.g, stu = excluded.stu,
-           pro = excluded.pro, r = excluded.r, se = excluded.se, pop = excluded.pop`
-      );
-      return stmt.bind(
-        data.id, data.t, data.rT, data.nT, data.y, data.s, data.ty, data.st,
-        data.eC, data.img, data.sc, data.uA, data.g, data.stu, data.pro,
-        data.r, data.se, data.pop
-      );
-    });
+      const statements = chunk.map((entry) => {
+        const data = entryToD1Map(entry);
+        const stmt = env.DB.prepare(
+          `INSERT INTO anime(id, t, rT, nT, y, s, ty, st, eC, img, sc, uA, g, stu, pro, r, se, pop)
+           VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9, ?10, ?11, ?12, ?13, ?14, ?15, ?16, ?17, ?18)
+           ON CONFLICT(id) DO UPDATE SET
+             t = excluded.t, rT = excluded.rT, nT = excluded.nT, y = excluded.y, s = excluded.s,
+             ty = excluded.ty, st = excluded.st, eC = excluded.eC, img = excluded.img,
+             sc = excluded.sc, uA = excluded.uA, g = excluded.g, stu = excluded.stu,
+             pro = excluded.pro, r = excluded.r, se = excluded.se, pop = excluded.pop`
+        );
+        return stmt.bind(
+          data.id, data.t, data.rT, data.nT, data.y, data.s, data.ty, data.st,
+          data.eC, data.img, data.sc, data.uA, data.g, data.stu, data.pro,
+          data.r, data.se, data.pop
+        );
+      });
 
-    await env.DB.batch(statements);
+      await env.DB.batch(statements);
 
-    // Approximation: first chunk = inserts, subsequent = updates (since they likely exist)
-    if (i === 0) {
-      totalInserted += chunk.length;
-    } else {
-      totalUpdated += chunk.length;
+      // Approximation: first chunk = inserts, subsequent = updates (since they likely exist)
+      if (i === 0) {
+        totalInserted += chunk.length;
+      } else {
+        totalUpdated += chunk.length;
+      }
     }
+  } catch (e) {
+    console.error('[handleAdminSync] D1 batch write failed:', e.message || e);
+    return errorResponse('Database write failed during sync', 500);
   }
 
   // Invalidate in-memory cache so next request fetches fresh data
@@ -591,11 +736,25 @@ async function handleAdminStale(url, env) {
 
   const cutoff = new Date(Date.now() - days * 24 * 60 * 60 * 1000).toISOString();
 
-  const { results } = await env.DB.prepare(
-    'SELECT * FROM anime WHERE uA < ?1 ORDER BY uA ASC LIMIT ?2'
-  ).all(cutoff, limit);
+  let results;
+  try {
+    const queryResult = await env.DB.prepare(
+      'SELECT * FROM anime WHERE uA < ?1 ORDER BY uA ASC LIMIT ?2'
+    ).all(cutoff, limit);
+    results = queryResult.results;
+  } catch (e) {
+    console.error('[handleAdminStale] D1 query failed:', e.message || e);
+    return errorResponse('Database query failed', 500);
+  }
 
-  const items = (results || []).map(rowToShortEntry).map(expandKeys);
+  const items = [];
+  for (const row of results || []) {
+    try {
+      items.push(expandKeys(rowToShortEntry(row)));
+    } catch (e) {
+      console.error(`[handleAdminStale] Skipping row id=${row?.id ?? 'unknown'}:`, e.message || e);
+    }
+  }
 
   return jsonResponse({
     days,
@@ -619,19 +778,25 @@ async function handleAdminUpdate(request, env) {
   }
 
   const data = entryToD1Map(body);
-  await env.DB.prepare(
-    `INSERT INTO anime(id, t, rT, nT, y, s, ty, st, eC, img, sc, uA, g, stu, pro, r, se, pop)
-     VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9, ?10, ?11, ?12, ?13, ?14, ?15, ?16, ?17, ?18)
-     ON CONFLICT(id) DO UPDATE SET
-       t = excluded.t, rT = excluded.rT, nT = excluded.nT, y = excluded.y, s = excluded.s,
-       ty = excluded.ty, st = excluded.st, eC = excluded.eC, img = excluded.img,
-       sc = excluded.sc, uA = excluded.uA, g = excluded.g, stu = excluded.stu,
-       pro = excluded.pro, r = excluded.r, se = excluded.se, pop = excluded.pop`
-  ).bind(
-    data.id, data.t, data.rT, data.nT, data.y, data.s, data.ty, data.st,
-    data.eC, data.img, data.sc, data.uA, data.g, data.stu, data.pro,
-    data.r, data.se, data.pop
-  ).run();
+
+  try {
+    await env.DB.prepare(
+      `INSERT INTO anime(id, t, rT, nT, y, s, ty, st, eC, img, sc, uA, g, stu, pro, r, se, pop)
+       VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9, ?10, ?11, ?12, ?13, ?14, ?15, ?16, ?17, ?18)
+       ON CONFLICT(id) DO UPDATE SET
+         t = excluded.t, rT = excluded.rT, nT = excluded.nT, y = excluded.y, s = excluded.s,
+         ty = excluded.ty, st = excluded.st, eC = excluded.eC, img = excluded.img,
+         sc = excluded.sc, uA = excluded.uA, g = excluded.g, stu = excluded.stu,
+         pro = excluded.pro, r = excluded.r, se = excluded.se, pop = excluded.pop`
+    ).bind(
+      data.id, data.t, data.rT, data.nT, data.y, data.s, data.ty, data.st,
+      data.eC, data.img, data.sc, data.uA, data.g, data.stu, data.pro,
+      data.r, data.se, data.pop
+    ).run();
+  } catch (e) {
+    console.error(`[handleAdminUpdate] D1 write failed for id=${data.id}:`, e.message || e);
+    return errorResponse('Database write failed', 500);
+  }
 
   // Invalidate cache
   _searchIndex = null;
@@ -639,7 +804,15 @@ async function handleAdminUpdate(request, env) {
   _filterOptionsCache = null;
   _statsCache = null;
 
-  const expanded = expandKeys(rowToShortEntry({...data, g: data.g, stu: data.stu, pro: data.pro}));
+  let expanded;
+  try {
+    expanded = expandKeys(rowToShortEntry({ ...data, g: data.g, stu: data.stu, pro: data.pro }));
+  } catch (e) {
+    console.error(`[handleAdminUpdate] Write succeeded but failed to build response for id=${data.id}:`, e.message || e);
+    // The write itself succeeded -- don't fail the request over a response-formatting issue.
+    expanded = { id: data.id };
+  }
+
   return jsonResponse({ message: 'Updated', anime: expanded });
 }
 
@@ -660,13 +833,18 @@ async function handleAdminCheck(url, env) {
   const present = new Set();
   const chunkSize = 100;
 
-  for (let i = 0; i < ids.length; i += chunkSize) {
-    const chunk = ids.slice(i, i + chunkSize);
-    const placeholders = chunk.map(() => '?').join(',');
-    const { results } = await env.DB.prepare(
-      `SELECT id FROM anime WHERE id IN (${placeholders})`
-    ).all(...chunk);
-    (results || []).forEach((row) => present.add(row.id));
+  try {
+    for (let i = 0; i < ids.length; i += chunkSize) {
+      const chunk = ids.slice(i, i + chunkSize);
+      const placeholders = chunk.map(() => '?').join(',');
+      const { results } = await env.DB.prepare(
+        `SELECT id FROM anime WHERE id IN (${placeholders})`
+      ).all(...chunk);
+      (results || []).forEach((row) => present.add(row.id));
+    }
+  } catch (e) {
+    console.error('[handleAdminCheck] D1 query failed:', e.message || e);
+    return errorResponse('Database query failed', 500);
   }
 
   const missing = ids.filter((id) => !present.has(id));
@@ -699,22 +877,26 @@ function handleRoot() {
   });
 }
 
-async function handleSearch(params, searchIndex) {
-  const filters = parseFilters(params);
+async function handleSearch(searchParams, searchIndex) {
+  const filters = parseFilters(searchParams);
 
-  const rawSort = (params.sort || 'popularity').toLowerCase();
+  // Fixed: was reading params.sort / params.order / params.page / params.limit
+  // as plain properties on a URLSearchParams object (always undefined, since
+  // URLSearchParams only exposes values via .get()). Now consistently uses
+  // .get(), matching how parseFilters already reads every other param.
+  const rawSort = (searchParams.get('sort') || 'popularity').toLowerCase();
   const sort = VALID_SORTS.includes(rawSort) ? rawSort : 'popularity';
-  const order = (params.order || 'desc').toLowerCase() === 'asc' ? 'asc' : 'desc';
+  const order = (searchParams.get('order') || 'desc').toLowerCase() === 'asc' ? 'asc' : 'desc';
 
-  const page = Math.max(1, parseIntSafe(params.page, 1));
-  const limit = Math.min(MAX_LIMIT, Math.max(1, parseIntSafe(params.limit, DEFAULT_LIMIT)));
+  const page = Math.max(1, parseIntSafe(searchParams.get('page'), 1));
+  const limit = Math.min(MAX_LIMIT, Math.max(1, parseIntSafe(searchParams.get('limit'), DEFAULT_LIMIT)));
 
   let results = searchIndex.filter((anime) => matchesFilters(anime, filters));
   results = sortResults(results, sort, order);
   const paginated = paginateResults(results, page, limit);
 
   return jsonResponse({
-    data: paginated.items,
+    data: paginated.items.map(stripInternalFields),
     pagination: paginated.pagination,
     meta: { query: { ...filters, sort, order, limit, page } },
   });
@@ -730,7 +912,7 @@ async function handleAnimeById(path, searchIndex) {
   const anime = searchIndex.find((a) => a.id === id);
   if (!anime) return jsonResponse({ error: 'Anime not found', id }, 404);
 
-  return jsonResponse({ data: anime });
+  return jsonResponse({ data: stripInternalFields(anime) });
 }
 
 async function handleMeta(path, searchIndex) {
@@ -750,7 +932,12 @@ async function handleMeta(path, searchIndex) {
         data: {
           min: options.yearRange.min,
           max: options.yearRange.max,
-          decades: [...new Set(searchIndex.map((a) => a.year).filter((y) => y).map((y) => Math.floor(y / 10) * 10))].sort((a, b) => b - a),
+          decades: [...new Set(
+            searchIndex
+              .map((a) => toNumberOrNull(a.year))
+              .filter((y) => y != null)
+              .map((y) => Math.floor(y / 10) * 10)
+          )].sort((a, b) => b - a),
         },
       });
     case 'all':
@@ -871,7 +1058,9 @@ export default {
       }
       return response;
     } catch (err) {
-      console.error('[Worker] Unhandled error:', err);
+      // Always log the real error server-side (visible via `wrangler tail`),
+      // even though the client only ever sees the generic message below.
+      console.error(`[Worker] Unhandled error on ${method} ${url.pathname}:`, err.stack || err.message || err);
       return errorResponse('Internal server error', 500, env.DEBUG ? err.message : undefined);
     }
   },
