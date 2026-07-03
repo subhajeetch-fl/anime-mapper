@@ -192,7 +192,7 @@ function levenshteinDistance(a, b) {
   for (let i = 1; i <= m; i++) {
     for (let j = 1; j <= n; j++) {
       const cost = a[i - 1] === b[j - 1] ? 0 : 1;
-      dp[i][j] = Math.min(dp[i - 1][j] + 1, dp[i][j - 1] + 1, dp[i - 1][j] - 1 + cost);
+      dp[i][j] = Math.min(dp[i - 1][j] + 1, dp[i][j - 1] + 1, dp[i - 1][j - 1] + cost);
     }
   }
   return dp[m][n];
@@ -253,20 +253,26 @@ function safeCache() {
 // ============================================================================
 
 function parseFilters(params) {
+  // Support both URLSearchParams (Cloudflare Workers) and plain objects
+  const get = (key) => {
+    if (params && typeof params.get === 'function') return params.get(key);
+    return params[key];
+  };
+
   return {
-    q: normalizeText(params.q || ''),
-    genres: parseList(params.genre).map(toKebabCase),
-    studios: parseList(params.studio).map(toKebabCase),
-    producers: parseList(params.producer).map(toKebabCase),
-    type: params.type || null,
-    status: params.status || null,
-    rating: params.rating || null,
-    yearMin: parseIntSafe(params.year_min, null),
-    yearMax: parseIntSafe(params.year_max, null),
-    scoreMin: parseFloatSafe(params.score_min, null),
-    scoreMax: parseFloatSafe(params.score_max, null),
-    episodesMin: parseIntSafe(params.episodes_min, null),
-    episodesMax: parseIntSafe(params.episodes_max, null),
+    q: normalizeText(get('q') || ''),
+    genres: parseList(get('genre')).map(toKebabCase),
+    studios: parseList(get('studio')).map(toKebabCase),
+    producers: parseList(get('producer')).map(toKebabCase),
+    type: get('type') || null,
+    status: get('status') || null,
+    rating: get('rating') || null,
+    yearMin: parseIntSafe(get('year_min'), null),
+    yearMax: parseIntSafe(get('year_max'), null),
+    scoreMin: parseFloatSafe(get('score_min'), null),
+    scoreMax: parseFloatSafe(get('score_max'), null),
+    episodesMin: parseIntSafe(get('episodes_min'), null),
+    episodesMax: parseIntSafe(get('episodes_max'), null),
   };
 }
 
