@@ -30,8 +30,8 @@
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": 26,
   "episodeLength": null,
   "aired": {
@@ -49,9 +49,9 @@
     "episode": 2,
     "airingAt": 1783610760
   },
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 7.05,
     "anilistScore": 6.6,
     "kitsuRating": null
   },
@@ -64,7 +64,8 @@
     "GoHands"
   ],
   "producers": [
-    "Glovision"
+    "Glovision",
+    "Shochiku Music Publishing"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1322/158711l.jpg",
@@ -137,7 +138,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-03T10:57:47.762Z",
+    "lastFetched": "2026-07-03T17:52:50.807Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
