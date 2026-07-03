@@ -710,7 +710,7 @@ async function handleSearch(params, searchIndex) {
   return jsonResponse({
     data: paginated.items,
     pagination: paginated.pagination,
-    meta: { query: { ...filters, sort, order, limit, page }, filterOptions: buildFilterOptions(searchIndex) },
+    meta: { query: { ...filters, sort, order, limit, page } },
   });
 }
 

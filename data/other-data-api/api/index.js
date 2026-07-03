@@ -354,7 +354,7 @@ app.get('/search', async (c) => {
     pagination: pagination.pagination,
     meta: {
       query: { ...filters, sort, order, limit },
-      filterOptions: buildFilterOptions(index),
+      // filterOptions removed from search response — use /api/meta/all instead
     },
   });
 
