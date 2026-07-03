@@ -1,0 +1,115 @@
+{
+  "id": 63830,
+  "idMal": 63830,
+  "mappings": {
+    "mal": 63830,
+    "anilist": 210687,
+    "anidb": null,
+    "kitsu": null,
+    "simkl": null,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 63830,
+    "livechart": null,
+    "animeplanet": null,
+    "anisearch": null,
+    "notify": null
+  },
+  "title": {
+    "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+    "english": "Re:ZERO ~Starting Break Time From Zero~ Season 4",
+    "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 4th Season",
+    "synonyms": [
+      "Re:ZERO ~Starting Break Time From Zero~ 3rd Season",
+      "Re:Zero kara Hajimeru Kyuukei Jikan 4",
+      "Re:ZERO ~Starting Break Time From Zero~ Season 4"
+    ]
+  },
+  "type": "Special",
+  "source": "Light novel",
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": null,
+  "episodeLength": null,
+  "aired": {
+    "from": "2026-04-08T00:00:00+00:00",
+    "to": null
+  },
+  "season": "spring",
+  "year": 2026,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": {
+    "episode": 12,
+    "airingAt": 1786541400
+  },
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 7.28,
+    "anilistScore": 6.6,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Comedy",
+    "Adventure",
+    "Fantasy",
+    "Super Deformed"
+  ],
+  "studios": [
+    "Studio PuYUKAI"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1014/156363l.jpg",
+    "banner": null,
+    "color": "#a1e4c9"
+  },
+  "trailer": null,
+  "synopsis": "Fourth season of Re:Zero kara Hajimeru Kyuukei Jikan Break Time.",
+  "sequence": [
+    {
+      "malId": 60012,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+        "english": null,
+        "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182417-zKlgy4KbGj1H.jpg",
+      "format": "ONA",
+      "episodes": 16,
+      "seasonYear": 2024,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": 61316,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+        "english": "Re:ZERO -Starting Life in Another World- Season 4",
+        "native": "Re:ゼロから始める異世界生活 4th season"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg",
+      "format": "TV",
+      "episodes": 19,
+      "seasonYear": 2026,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-07-03T07:03:56.541Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}

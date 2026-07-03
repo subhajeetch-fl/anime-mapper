@@ -1,0 +1,94 @@
+{
+  "id": 63326,
+  "idMal": 63326,
+  "mappings": {
+    "mal": 63326,
+    "anilist": 206298,
+    "anidb": 19843,
+    "kitsu": 50482,
+    "simkl": 2996988,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 63326,
+    "livechart": 13489,
+    "animeplanet": "medalist-movie",
+    "anisearch": 21169,
+    "notify": null
+  },
+  "title": {
+    "romaji": "Medalist Movie",
+    "english": null,
+    "native": "劇場版 メダリスト",
+    "synonyms": [
+      "Medalist"
+    ]
+  },
+  "type": "Movie",
+  "source": "Manga",
+  "status": "Not yet aired",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": null,
+  "aired": {
+    "from": "2027-01-01T00:00:00+00:00",
+    "to": null
+  },
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null
+  },
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": null,
+    "anilistScore": null,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Drama",
+    "Sports",
+    "Psychological"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1429/156214l.jpg",
+    "banner": null,
+    "color": "#f15d78"
+  },
+  "trailer": null,
+  "synopsis": "Sequel to Medalist 2nd Season.",
+  "sequence": [
+    {
+      "malId": 61335,
+      "title": {
+        "romaji": "Medalist 2nd Season",
+        "english": "Medalist Season 2",
+        "native": "メダリスト 第2期"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189275-eHsK0lNnFfXH.jpg",
+      "format": "TV",
+      "episodes": 9,
+      "seasonYear": 2026,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-07-03T06:53:59.511Z",
+    "sourcesUsed": [
+      "jikan",
+      "kitsu",
+      "anilist",
+      "animeapi.my.id",
+      "zenshin"
+    ],
+    "missingSources": [],
+    "dataVersion": 1
+  }
+}
