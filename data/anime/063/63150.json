@@ -29,8 +29,8 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
@@ -48,9 +48,9 @@
     "episode": 2,
     "airingAt": 1783614480
   },
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 7.64,
     "anilistScore": 7.2,
     "kitsuRating": null
   },
@@ -63,6 +63,8 @@
     "LIDENFILMS"
   ],
   "producers": [
+    "Pony Canyon",
+    "Glovision",
     "Good Smile Company",
     "Good Smile Film"
   ],
@@ -76,7 +78,7 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T14:17:48.502Z",
+    "lastFetched": "2026-07-03T21:32:21.108Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
