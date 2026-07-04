@@ -2,7 +2,7 @@ name: Smart Update Anime
 
 on:
   schedule:
-    - cron: "0 */4 * * *"
+    - cron: "0 */10 * * *"
   workflow_dispatch:
     inputs:
       force:
