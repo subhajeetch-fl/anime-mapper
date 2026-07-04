@@ -25,8 +25,8 @@
   },
   "type": "TV",
   "source": "Original",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
@@ -41,8 +41,8 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1783177200
+    "episode": 2,
+    "airingAt": 1783782000
   },
   "rating": null,
   "score": {
@@ -50,7 +50,9 @@
     "anilistScore": null,
     "kitsuRating": null
   },
-  "genres": [],
+  "genres": [
+    "Historical"
+  ],
   "studios": [
     "A-1 Pictures",
     "Psyde Kick Studio"
@@ -66,9 +68,85 @@
   "trailer": null,
   "synopsis": "In Japan during the height of its economic boom in the mid-1950s, the circus was a form of entertainment that became a central part of many people's lives. The best troupes are permitted to participate in the world-renowned \"Circus Collection\" festival, and many come from all over Japan to compete daily.\n\nThe story centers on the struggling \"Sunflower Circus\" troupe, led by ringmaster Maria, and a new prodigy that joins their ranks for unknown reasons: Mizuka Tsurumaki.\n\nIs her encounter with the highly individual members of the Sunflower Circus troupe a coincidence or destiny? This one-of-a-kind circus show depicting young girls chasing their dreams begins!\n\n(Source: Official site, translated)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": "2026-07-05",
+      "title": {
+        "en": "Welcome to the Sunflower Circus!"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": "2026-07-12",
+      "title": {
+        "en": "Episode 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": "2026-07-19",
+      "title": {
+        "en": "Episode 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": "2026-07-26",
+      "title": {
+        "en": "Episode 4"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": "55m",
+      "airDate": "2026-06-13",
+      "title": {
+        "en": "Episode S1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-02T07:46:11.857Z",
+    "lastFetched": "2026-07-04T21:43:38.527Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
