@@ -30,8 +30,8 @@
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": 12,
   "episodeLength": null,
   "aired": {
@@ -49,10 +49,10 @@
     "episode": 2,
     "airingAt": 1783701000
   },
-  "rating": null,
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.1,
+    "anilistScore": 5.3,
     "kitsuRating": null
   },
   "genres": [
@@ -66,6 +66,7 @@
     "ZG-R"
   ],
   "producers": [
+    "Saber Links",
     "WWWave",
     "Deregula"
   ],
@@ -93,7 +94,7 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T21:34:13.346Z",
+    "lastFetched": "2026-07-04T17:29:04.708Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",

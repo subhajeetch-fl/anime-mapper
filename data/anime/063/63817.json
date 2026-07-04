@@ -27,8 +27,8 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": 13,
   "episodeLength": null,
   "aired": {
@@ -48,7 +48,7 @@
   },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 7.13,
     "anilistScore": 6.9,
     "kitsuRating": null
   },
@@ -61,7 +61,10 @@
   "studios": [
     "Yokohama Animation Lab"
   ],
-  "producers": [],
+  "producers": [
+    "Nichion",
+    "Bit grooove promotion"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1534/156314l.jpg",
     "banner": null,
@@ -86,7 +89,7 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-04T10:32:41.327Z",
+    "lastFetched": "2026-07-04T17:30:46.643Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
