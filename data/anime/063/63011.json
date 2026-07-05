@@ -3,7 +3,7 @@
   "idMal": 63011,
   "mappings": {
     "mal": 63011,
-    "anilist": 202717,
+    "anilist": null,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -11,22 +11,17 @@
     "tvdb": null,
     "trakt": null,
     "traktType": null,
-    "shikimori": 63011,
-    "livechart": 13401,
-    "animeplanet": "eiga-chiikawa-ningyo-no-shima-no-himitsu",
-    "anisearch": 21019,
+    "shikimori": null,
+    "livechart": null,
+    "animeplanet": null,
+    "anisearch": null,
     "notify": null
   },
   "title": {
-    "romaji": "Chiikawa: Ningyo no Shima no Himitsu",
+    "romaji": "Chiikawa Movie: Ningyo no Shima no Himitsu",
     "english": "Chiikawa Movie: The Secret of the Mermaid Island",
     "native": "映画ちいかわ 人魚の島のひみつ",
-    "synonyms": [
-      "Chiikawa the Movie: The Secret of Mermaid Island",
-      "ちいかわ セイレーン編",
-      "Chiikawa: Siren Arc",
-      "劇場版 CHIIKAWA 人魚島的秘密"
-    ]
+    "synonyms": []
   },
   "type": "Movie",
   "source": "Web manga",
@@ -38,17 +33,14 @@
     "from": "2026-07-24T00:00:00+00:00",
     "to": null
   },
-  "season": "summer",
-  "year": 2026,
+  "season": null,
+  "year": null,
   "broadcast": {
     "day": null,
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1784818800
-  },
+  "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
     "malScore": null,
@@ -56,8 +48,7 @@
     "kitsuRating": null
   },
   "genres": [
-    "Slice of Life",
-    "Comedy"
+    "Slice of Life"
   ],
   "studios": [
     "Cypic"
@@ -65,37 +56,25 @@
   "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1761/157085l.jpg",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202717-CuvdrT9VX9Gr.jpg",
-    "color": "#43bbe4"
+    "banner": null,
+    "color": null
   },
   "trailer": null,
   "synopsis": "Anime adaptation of the Siren arc.",
-  "sequence": [
-    {
-      "malId": 50250,
-      "title": {
-        "romaji": "Chiikawa",
-        "english": "Chiikawa",
-        "native": "ちいかわ"
-      },
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
-      "format": "TV_SHORT",
-      "episodes": null,
-      "seasonYear": 2022,
-      "relationType": "PARENT"
-    }
-  ],
+  "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:09:00.446Z",
+    "lastFetched": "2026-07-05T22:17:17.713Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
-      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
+    ],
     "dataVersion": 1
   }
 }
