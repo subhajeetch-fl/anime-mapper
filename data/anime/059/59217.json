@@ -41,14 +41,17 @@
     "from": "2026-01-01T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "fall",
+  "year": 2026,
   "broadcast": {
     "day": null,
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1793890800
+  },
   "rating": null,
   "score": {
     "malScore": null,
@@ -67,14 +70,14 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1173/144034l.jpg",
     "banner": null,
-    "color": "#50e40d"
+    "color": "#5de4f1"
   },
   "trailer": null,
   "synopsis": "The film features three distinct segments, each with its own unique setting and premise, blending together into a single cohesive anthology. The first segment, titled Ellians, follows an alien girl who teams up with a space agency civil servant on a frantic search for friends.\n\nFollowing that is Yoroshiku★Shoujo, a chaotic battle royale narrative that centers on a group of girls competing in a fierce game known as \"Queen of Butterfly.\"\n\nThe final story, Nocturne ~In This Grotesque Night~, chronicles the journey of a pureblood vampire and three girls who managed to survive by becoming infected after she fed on them.",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-04T21:37:29.313Z",
+    "lastFetched": "2026-07-05T12:14:36.289Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",

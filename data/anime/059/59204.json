@@ -43,7 +43,10 @@
     "time": "23:45",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1791384360
+  },
   "rating": null,
   "score": {
     "malScore": null,
@@ -65,7 +68,7 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1349/156364l.jpg",
     "banner": null,
-    "color": "#9343e4"
+    "color": "#fe9328"
   },
   "trailer": null,
   "synopsis": "New anime project for Magic Knight Rayearth to celebrate the anime's 30th anniversary.",
@@ -86,7 +89,7 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T20:03:54.624Z",
+    "lastFetched": "2026-07-05T12:14:34.089Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
