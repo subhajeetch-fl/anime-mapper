@@ -3,7 +3,7 @@
   "idMal": 64529,
   "mappings": {
     "mal": 64529,
-    "anilist": null,
+    "anilist": 213686,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -11,17 +11,19 @@
     "tvdb": null,
     "trakt": null,
     "traktType": null,
-    "shikimori": null,
+    "shikimori": 64529,
     "livechart": null,
     "animeplanet": null,
-    "anisearch": null,
+    "anisearch": 21765,
     "notify": null
   },
   "title": {
     "romaji": "NTR Kishi",
     "english": null,
     "native": "NTR騎士",
-    "synonyms": []
+    "synonyms": [
+      "the fallen knight"
+    ]
   },
   "type": "OVA",
   "source": "Game",
@@ -33,14 +35,17 @@
     "from": "2026-09-25T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "summer",
+  "year": 2026,
   "broadcast": {
     "day": null,
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1790262000
+  },
   "rating": "Rx - Hentai",
   "score": {
     "malScore": null,
@@ -52,30 +57,29 @@
     "Hentai"
   ],
   "studios": [
-    "Majin"
+    "Majin",
+    "Majin petit"
   ],
   "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1352/158824l.jpg",
     "banner": null,
-    "color": null
+    "color": "#e4aebb"
   },
   "trailer": null,
   "synopsis": null,
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-05T06:55:18.847Z",
+    "lastFetched": "2026-07-06T14:24:14.467Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

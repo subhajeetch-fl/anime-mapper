@@ -3,24 +3,24 @@
   "idMal": 64537,
   "mappings": {
     "mal": 64537,
-    "anilist": null,
+    "anilist": 213861,
     "anidb": null,
-    "kitsu": null,
+    "kitsu": 50833,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
-    "shikimori": null,
+    "shikimori": 64537,
     "livechart": null,
     "animeplanet": null,
     "anisearch": null,
     "notify": null
   },
   "title": {
-    "romaji": "Let's Roll, Cinnamoroll! 2nd Season",
+    "romaji": "Let's Roll, Cinnamoroll! 2",
     "english": "Let's Roll, Cinnamoroll! 2nd Season",
-    "native": "Let's Roll, Cinnamoroll!",
+    "native": "レッツロールシナモロール",
     "synonyms": []
   },
   "type": "ONA",
@@ -33,8 +33,8 @@
     "from": "2026-06-02T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "summer",
+  "year": 2026,
   "broadcast": {
     "day": null,
     "time": null,
@@ -59,24 +59,36 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1513/158872l.jpg",
     "banner": null,
-    "color": null
+    "color": "#f1bb43"
   },
   "trailer": null,
   "synopsis": "Second season of Let's Roll, Cinnamoroll!.",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 61151,
+      "title": {
+        "romaji": "Let's Roll, Cinnamoroll!",
+        "english": "Let's Roll, Cinnamoroll!",
+        "native": "レッツロール！シナモロール"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187514-NvIkv0KVoYBF.jpg",
+      "format": "ONA",
+      "episodes": 12,
+      "seasonYear": 2025,
+      "relationType": "PREQUEL"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-05T06:55:33.235Z",
+    "lastFetched": "2026-07-06T14:24:24.997Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

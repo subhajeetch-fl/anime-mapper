@@ -3,7 +3,7 @@
   "idMal": 64433,
   "mappings": {
     "mal": 64433,
-    "anilist": null,
+    "anilist": 213428,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -11,7 +11,7 @@
     "tvdb": null,
     "trakt": null,
     "traktType": null,
-    "shikimori": null,
+    "shikimori": 64433,
     "livechart": null,
     "animeplanet": null,
     "anisearch": null,
@@ -35,8 +35,8 @@
     "from": "2021-12-12T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "fall",
+  "year": 2021,
   "broadcast": {
     "day": null,
     "time": null,
@@ -60,24 +60,22 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1729/158572l.jpg",
     "banner": null,
-    "color": null
+    "color": "#f1935d"
   },
   "trailer": null,
   "synopsis": "Yuri anime about live streamers.",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:12:37.534Z",
+    "lastFetched": "2026-07-06T14:22:33.490Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

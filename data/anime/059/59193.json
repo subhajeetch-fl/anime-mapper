@@ -30,12 +30,12 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": 14,
   "episodeLength": null,
   "aired": {
-    "from": "2026-07-06T00:00:00+00:00",
+    "from": "2026-07-04T00:00:00+00:00",
     "to": null
   },
   "season": "summer",
@@ -51,9 +51,9 @@
   },
   "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
+    "malScore": 9.03,
     "anilistScore": 8.6,
-    "kitsuRating": 8.22
+    "kitsuRating": 8.33
   },
   "genres": [
     "Adventure",
@@ -66,9 +66,15 @@
     "Studio Bind"
   ],
   "producers": [
+    "Frontier Works",
+    "TOHO",
     "Magic Capsule",
-    "TOHO animation",
-    "Egg Firm"
+    "Hakuhodo DY Music & Pictures",
+    "BS11",
+    "Egg Firm",
+    "Kadokawa",
+    "TOHO Music",
+    "GREE Entertainment"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1527/158340l.jpg",
@@ -275,7 +281,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-05T12:14:31.821Z",
+    "lastFetched": "2026-07-06T14:31:42.046Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",

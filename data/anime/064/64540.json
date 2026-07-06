@@ -3,22 +3,22 @@
   "idMal": 64540,
   "mappings": {
     "mal": 64540,
-    "anilist": null,
-    "anidb": null,
+    "anilist": 213815,
+    "anidb": 20159,
     "kitsu": null,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
-    "shikimori": null,
-    "livechart": null,
+    "shikimori": 64540,
+    "livechart": 12921,
     "animeplanet": null,
     "anisearch": null,
     "notify": null
   },
   "title": {
-    "romaji": "Mamonotsukai no Musume",
+    "romaji": "Mamono Tsukai no Musume",
     "english": "Monster Master Girl",
     "native": "魔物使いの娘",
     "synonyms": [
@@ -51,7 +51,12 @@
   },
   "genres": [
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Action",
+    "Comedy",
+    "Drama",
+    "Mystery",
+    "Romance"
   ],
   "studios": [
     "Project No.9"
@@ -62,24 +67,22 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1358/158846l.jpg",
     "banner": null,
-    "color": null
+    "color": "#f1e493"
   },
   "trailer": null,
   "synopsis": "Veteran adventurer Hakura has overcome countless trials, but his latest fight with a deadly hydra nearly costs him his life. In the nick of time, he is saved by an intriguing young lady named Leen, who, to his surprise, possesses the rare ability to tame any and all monsters! Now indebted to this unscrupulous monstermancer, Hakura decides to join her in her travels, the two of them arguing and bickering every step of the way. What has drawn them together, and what adventures await this unlikely pair?\n\n(Source: J-Novel Club)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-05T06:55:36.190Z",
+    "lastFetched": "2026-07-06T14:24:26.652Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

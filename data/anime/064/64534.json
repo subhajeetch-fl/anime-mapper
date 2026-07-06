@@ -3,16 +3,16 @@
   "idMal": 64534,
   "mappings": {
     "mal": 64534,
-    "anilist": null,
+    "anilist": 213805,
     "anidb": null,
-    "kitsu": null,
+    "kitsu": 50827,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
-    "shikimori": null,
-    "livechart": null,
+    "shikimori": 64534,
+    "livechart": 13712,
     "animeplanet": null,
     "anisearch": null,
     "notify": null
@@ -40,7 +40,10 @@
     "time": "23:56",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1790823360
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
@@ -49,7 +52,9 @@
   },
   "genres": [
     "Drama",
-    "Romance"
+    "Romance",
+    "Comedy",
+    "Slice of Life"
   ],
   "studios": [
     "Studio KAI"
@@ -60,24 +65,36 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1859/158835l.jpg",
     "banner": null,
-    "color": null
+    "color": "#35bbe4"
   },
   "trailer": null,
   "synopsis": "Second season of Koori no Jouheki.",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 60852,
+      "title": {
+        "romaji": "Koori no Jouheki",
+        "english": "The Ramparts of Ice",
+        "native": "氷の城壁"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186497-uwPrNPphXvjP.jpg",
+      "format": "TV",
+      "episodes": 14,
+      "seasonYear": 2026,
+      "relationType": "PREQUEL"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-05T06:55:26.140Z",
+    "lastFetched": "2026-07-06T14:24:21.059Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -13,7 +13,7 @@
     "traktType": "shows",
     "shikimori": 58878,
     "livechart": 12668,
-    "animeplanet": "sayonara-lara",
+    "animeplanet": "goodbye-lara",
     "anisearch": 19300,
     "notify": "1FynncsIg"
   },
@@ -28,10 +28,10 @@
   },
   "type": "TV",
   "source": "Original",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 23,
   "aired": {
     "from": "2026-07-06T00:00:00+00:00",
     "to": null
@@ -44,13 +44,13 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1783265400
+    "episode": 2,
+    "airingAt": 1783870200
   },
   "rating": null,
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.61,
+    "anilistScore": 7.3,
     "kitsuRating": null
   },
   "genres": [
@@ -63,6 +63,7 @@
     "Kinema Citrus"
   ],
   "producers": [
+    "Sound Team Don Juan",
     "Kadokawa"
   ],
   "images": {
@@ -151,7 +152,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-30T19:57:11.120Z",
+    "lastFetched": "2026-07-06T14:31:22.150Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",

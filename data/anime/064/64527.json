@@ -3,16 +3,16 @@
   "idMal": 64527,
   "mappings": {
     "mal": 64527,
-    "anilist": null,
-    "anidb": null,
+    "anilist": 213782,
+    "anidb": 20152,
     "kitsu": null,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
-    "shikimori": null,
-    "livechart": null,
+    "shikimori": 64527,
+    "livechart": 13709,
     "animeplanet": null,
     "anisearch": null,
     "notify": null
@@ -22,7 +22,8 @@
     "english": "Soara and Monster's House",
     "native": "ソアラと魔物の家",
     "synonyms": [
-      "Soara and the House of Monsters"
+      "Soara and the House of Monsters",
+      "Soara and the Monster's House"
     ]
   },
   "type": "TV",
@@ -51,7 +52,8 @@
   },
   "genres": [
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Action"
   ],
   "studios": [
     "Felix Film"
@@ -62,24 +64,22 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1812/158813l.jpg",
     "banner": null,
-    "color": null
+    "color": "#e4d6ae"
   },
   "trailer": null,
   "synopsis": "Soara is a young orphan girl who was raised by knights and trained to battle the monsters that constantly attacked their kingdom. But by the time Soara is ready to join the fight herself, peace has been declared and her blade is no longer needed. Searching for a new home and a new purpose, Soara stumbles across Krik the dwarf, leader of the Monster Architects. Suddenly, instead of fighting monsters, Soara finds herself working with Krik to build comfortable homes for them! In the process, will she discover a new home and family for herself?\n\n(Source: Seven Seas Entertainment)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-05T06:55:14.131Z",
+    "lastFetched": "2026-07-06T14:24:10.029Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

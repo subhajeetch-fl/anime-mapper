@@ -29,8 +29,8 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": 12,
   "episodeLength": 24,
   "aired": {
@@ -50,8 +50,8 @@
   },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": 6.1,
+    "malScore": 6.99,
+    "anilistScore": 6.4,
     "kitsuRating": null
   },
   "genres": [
@@ -66,7 +66,9 @@
   "studios": [
     "J.C.Staff"
   ],
-  "producers": [],
+  "producers": [
+    "Glovision"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1917/156186l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185692-FLmhWYEAA7IY.jpg",
@@ -107,7 +109,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-05T12:16:20.048Z",
+    "lastFetched": "2026-07-06T14:33:34.099Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",

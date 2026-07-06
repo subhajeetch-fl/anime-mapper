@@ -3,7 +3,7 @@
   "idMal": 64555,
   "mappings": {
     "mal": 64555,
-    "anilist": null,
+    "anilist": 213877,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -11,17 +11,19 @@
     "tvdb": null,
     "trakt": null,
     "traktType": null,
-    "shikimori": null,
-    "livechart": null,
+    "shikimori": 64555,
+    "livechart": 13723,
     "animeplanet": null,
     "anisearch": null,
     "notify": null
   },
   "title": {
-    "romaji": "Murcielago",
+    "romaji": "MURCIÉLAGO",
     "english": null,
     "native": "ムルシエラゴ",
-    "synonyms": []
+    "synonyms": [
+      "Murcielago"
+    ]
   },
   "type": "TV",
   "source": "Manga",
@@ -51,29 +53,30 @@
     "Action",
     "Girls Love"
   ],
-  "studios": [],
+  "studios": [
+    "Satelight",
+    "Staple Entertainment"
+  ],
   "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1585/158886l.jpg",
     "banner": null,
-    "color": null
+    "color": "#e45035"
   },
   "trailer": null,
   "synopsis": "For those who've killed as much as Kuroko Koumori, there is no doubt that they've lost their sanity. In fact, by proving that she is still sane even after killing as many as 715 people, Kuroko avoids death row. Now given a second chance to remain in society as a State-Appointed Executioner, Kuroko and a girl named Hinako Tozakura are charged with hunting down other killers.\n\nWhile Hinako is a rather happy-go-lucky girl that drives ferraris without a care for the rules of the road (or gravity, for that matter), Kuroko—who Hinako affectionately addresses as \"Kuu-chan\"—is more of a lascivious lesbian with razor sharp instincts and an impressive aptitude for murder.\n\nThe two seem like the most unlikely of duos. However, saddled with the gruesome job of ridding the country of vicious serial killers, it only makes sense for the executioners to be anything but normal!\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-05T06:55:48.308Z",
+    "lastFetched": "2026-07-06T14:24:49.103Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }
