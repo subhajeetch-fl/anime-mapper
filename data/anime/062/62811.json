@@ -6,7 +6,7 @@
     "anilist": 200637,
     "anidb": null,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 2906736,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
@@ -28,8 +28,8 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
@@ -44,8 +44,8 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1783258200
+    "episode": 2,
+    "airingAt": 1783863000
   },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -89,7 +89,7 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T11:09:09.676Z",
+    "lastFetched": "2026-07-06T04:38:18.149Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",

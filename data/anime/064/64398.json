@@ -3,8 +3,8 @@
   "idMal": 64398,
   "mappings": {
     "mal": 64398,
-    "anilist": null,
-    "anidb": null,
+    "anilist": 213356,
+    "anidb": 20115,
     "kitsu": null,
     "simkl": null,
     "tmdb": null,
@@ -46,7 +46,10 @@
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 4,
+    "airingAt": 1783764000
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": 7.51,
@@ -60,7 +63,8 @@
   ],
   "studios": [
     "Yien Animation Studio",
-    "Flying Fish Studio"
+    "Flying Fish Studio",
+    "Yien Animation"
   ],
   "producers": [
     "Youku",
@@ -69,24 +73,36 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1190/158569l.jpg",
     "banner": null,
-    "color": null
+    "color": "#f19335"
   },
   "trailer": null,
   "synopsis": "Second season of Guangyin Zhi Wai.",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 62340,
+      "title": {
+        "romaji": "Guangyin Zhi Wai",
+        "english": "Beyond Time's Gaze",
+        "native": "光阴之外"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205905-lbDVh7foIfjt.jpg",
+      "format": "ONA",
+      "episodes": 26,
+      "seasonYear": null,
+      "relationType": "PREQUEL"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-05T04:39:48.157Z",
+    "lastFetched": "2026-07-06T04:51:21.556Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

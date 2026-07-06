@@ -3,7 +3,7 @@
   "idMal": 62948,
   "mappings": {
     "mal": 62948,
-    "anilist": null,
+    "anilist": 213703,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -23,7 +23,8 @@
     "native": "胶囊计划 奇迹",
     "synonyms": [
       "Jiaonang Jihua 4th Season",
-      "胶囊计划 第四季"
+      "胶囊计划 第四季",
+      "CAPSULES: Miracle"
     ]
   },
   "type": "ONA",
@@ -43,7 +44,10 @@
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1783479600
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
@@ -61,24 +65,36 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1035/153596l.jpg",
     "banner": null,
-    "color": null
+    "color": "#f1bb0d"
   },
   "trailer": null,
   "synopsis": "\"Capsules Project\" is a collection of domestically produced animated short films created by a professional team with mature animation production experience. With the creative theme of \"extreme emotion + independent theme,\" it does not restrict the creative form, exploring the possibilities of animation together with the team. The aim is to collaboratively create original short films with diverse styles and characteristics, and to help Chinese animators reach the world stage. \"Miracle\" represents transcending conventions and breaking through limitations to achieve extraordinary success, often accompanied by a sense of mystery that inspires awe and curiosity. What miracles will occur in these 10 stories?\n\n(Source: Bilibili, translated)",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 60442,
+      "title": {
+        "romaji": "Jiaonang Jihua Yingxiong",
+        "english": null,
+        "native": "胶囊计划 英雄"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187833-a5X3z4s4JlEK.jpg",
+      "format": "ONA",
+      "episodes": 11,
+      "seasonYear": null,
+      "relationType": "PREQUEL"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:07:46.204Z",
+    "lastFetched": "2026-07-06T04:39:08.674Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

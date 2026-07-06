@@ -3,7 +3,7 @@
   "idMal": 62922,
   "mappings": {
     "mal": 62922,
-    "anilist": null,
+    "anilist": 202250,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -18,14 +18,19 @@
     "notify": null
   },
   "title": {
-    "romaji": "Kashita Maryoku wa \"Revo Barai\" de Kyousei Choushuu",
+    "romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
     "english": null,
     "native": "貸した魔力は【リボ払い】で強制徴収",
     "synonyms": [
       "Magic Repo Man: Dumped by My Party",
       "I'll Cash In With a Cute Support Fairy to Become the Strongest!",
       "Lent Magic Point Is Forcibly Collected by Revolving Payment",
-      "Unlimited Vault: The Magic They Borrowed Will Be Their Downfall"
+      "Unlimited Vault: The Magic They Borrowed Will Be Their Downfall",
+      "Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!",
+      "貸した魔力は【リボ払い】で強制徴収～用済みとパーティー追放された俺は、可愛いサポート妖精と一緒に取り立てた魔力を運用して最強を目指す。～",
+      "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu ~Youzumi to Party Tsuihou sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku wo Unyou shite Saikyou wo Mezasu.",
+      "Maryoku Revo",
+      "魔力リボ"
     ]
   },
   "type": "TV",
@@ -54,7 +59,8 @@
   },
   "genres": [
     "Action",
-    "Fantasy"
+    "Fantasy",
+    "Adventure"
   ],
   "studios": [
     "SynergySP"
@@ -63,24 +69,22 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1050/158789l.jpg",
     "banner": null,
-    "color": null
+    "color": "#f17843"
   },
   "trailer": null,
   "synopsis": "Lent is part of the up-and-coming party known as the \"Skypiercers,\" and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious...until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!\n\n(Source: Seven Seas Entertainment)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:07:04.927Z",
+    "lastFetched": "2026-07-06T04:38:37.938Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

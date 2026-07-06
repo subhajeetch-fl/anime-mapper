@@ -3,7 +3,7 @@
   "idMal": 64105,
   "mappings": {
     "mal": 64105,
-    "anilist": 211710,
+    "anilist": null,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -11,16 +11,16 @@
     "tvdb": null,
     "trakt": null,
     "traktType": null,
-    "shikimori": 64105,
-    "livechart": 13627,
+    "shikimori": null,
+    "livechart": null,
     "animeplanet": null,
     "anisearch": null,
     "notify": null
   },
   "title": {
-    "romaji": "Go-toubun no Hanayome (Shinsaku OVA)",
+    "romaji": "5-toubun no Hanayome OVA",
     "english": null,
-    "native": "五等分の花嫁 新作OVA",
+    "native": "五等分の花嫁 OVA",
     "synonyms": []
   },
   "type": "OVA",
@@ -50,7 +50,6 @@
   "genres": [
     "Comedy",
     "Romance",
-    "Drama",
     "Slice of Life",
     "Harem"
   ],
@@ -59,49 +58,24 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1531/157221l.jpg",
     "banner": null,
-    "color": "#f17850"
+    "color": null
   },
   "trailer": null,
   "synopsis": "OVA featuring more stories from the manga not adapted in the main anime.",
-  "sequence": [
-    {
-      "malId": 38101,
-      "title": {
-        "romaji": "Go-toubun no Hanayome",
-        "english": "The Quintessential Quintuplets",
-        "native": "五等分の花嫁"
-      },
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103572-cchriAdH95cQ.png",
-      "format": "TV",
-      "episodes": 12,
-      "seasonYear": 2019,
-      "relationType": "PARENT"
-    },
-    {
-      "malId": 39783,
-      "title": {
-        "romaji": "Go-toubun no Hanayome ∬",
-        "english": "The Quintessential Quintuplets 2",
-        "native": "五等分の花嫁∬"
-      },
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109261-65rKxMDlcU9r.png",
-      "format": "TV",
-      "episodes": 12,
-      "seasonYear": 2021,
-      "relationType": "PARENT"
-    }
-  ],
+  "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:07:35.448Z",
+    "lastFetched": "2026-07-06T04:49:44.796Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
-      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
+    ],
     "dataVersion": 1
   }
 }

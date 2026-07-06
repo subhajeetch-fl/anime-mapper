@@ -3,7 +3,7 @@
   "idMal": 63813,
   "mappings": {
     "mal": 63813,
-    "anilist": null,
+    "anilist": 212555,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -18,7 +18,7 @@
     "notify": null
   },
   "title": {
-    "romaji": "Danzai sareta Akuyaku Reijou wa, Gyakkou shite Kanpeki na Akujo wo Mezasu",
+    "romaji": "Danzaisareta Akuyaku Reijou wa, Gyakkoushite Kanpeki na Akujo wo Mezasu",
     "english": null,
     "native": "断罪された悪役令嬢は、逆行して完璧な悪女を目指す",
     "synonyms": [
@@ -50,31 +50,31 @@
     "kitsuRating": null
   },
   "genres": [
-    "Romance"
+    "Romance",
+    "Drama",
+    "Fantasy"
   ],
   "studios": [],
   "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1049/156307l.jpg",
     "banner": null,
-    "color": null
+    "color": "#d6ae78"
   },
   "trailer": null,
   "synopsis": "Claudia, daughter of a duke, is tricked by her wicked half-sister and sold off to a brothel. Unwilling to accept defeat, Claudia uses the tools at her disposal and becomes one of the most successful sex workers in her new home. That's when she dies—only to be thrust back in time to age fourteen! Gone is the gullible girl of her academy days now that she's got street savvy and hard-won seductive skills. It's Claudia's turn to play the evil villainess, and there's nothing she won't do to protect what's hers!\n\n(Source: Seven Seas Entertainment)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:03:37.990Z",
+    "lastFetched": "2026-07-06T04:46:15.926Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

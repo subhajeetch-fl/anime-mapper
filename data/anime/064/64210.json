@@ -3,18 +3,18 @@
   "idMal": 64210,
   "mappings": {
     "mal": 64210,
-    "anilist": null,
-    "anidb": null,
-    "kitsu": null,
-    "simkl": null,
-    "tmdb": null,
-    "tvdb": null,
+    "anilist": 212308,
+    "anidb": 20054,
+    "kitsu": 50799,
+    "simkl": 3120598,
+    "tmdb": 327228,
+    "tvdb": 479365,
     "trakt": null,
     "traktType": null,
-    "shikimori": null,
-    "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
+    "shikimori": 64210,
+    "livechart": 13632,
+    "animeplanet": "pan-no-akachan",
+    "anisearch": 19926,
     "notify": null
   },
   "title": {
@@ -22,7 +22,9 @@
     "english": "Babies of Bread",
     "native": "パンの赤ちゃん",
     "synonyms": [
-      "Hey! Pan no Akachan"
+      "Hey! Pan no Akachan",
+      "Babies of Bread",
+      "Hey! パンの赤ちゃん"
     ]
   },
   "type": "TV",
@@ -42,7 +44,10 @@
     "time": "08:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 2,
+    "airingAt": 1783726200
+  },
   "rating": "G - All Ages",
   "score": {
     "malScore": null,
@@ -60,24 +65,36 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1713/158586l.jpg",
     "banner": null,
-    "color": null
+    "color": "#1abbd6"
   },
   "trailer": null,
   "synopsis": null,
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 61462,
+      "title": {
+        "romaji": "Pan no Akachan",
+        "english": "The Baby Bread",
+        "native": "パンの赤ちゃん "
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206844-fwxMH4uj96zM.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "ALTERNATIVE"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-04T17:32:22.803Z",
+    "lastFetched": "2026-07-06T04:49:59.554Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

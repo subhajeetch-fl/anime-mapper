@@ -3,9 +3,9 @@
   "idMal": 63878,
   "mappings": {
     "mal": 63878,
-    "anilist": null,
+    "anilist": 213665,
     "anidb": null,
-    "kitsu": null,
+    "kitsu": 50649,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
@@ -61,24 +61,22 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1491/157799l.jpg",
     "banner": null,
-    "color": null
+    "color": "#1aaed6"
   },
   "trailer": null,
   "synopsis": "As the illegitimate daughter of a count and his maid, Katrina was born into miserable circumstances. And now that she's lost her mother, the treatment from her stepsister and stepmother the countess has only grown worse. One day, her stepsister receives a royal order to move to the northern outskirts due to her unseemly behavior at a recent party. There, she is to learn proper conduct under the tutelage of the resident prince, rumored to be a cruel man. Not wanting to subject her daughter to such punishment, the countess decides to send Katrina instead. Katrina arrives in the north shaking in fear. But contrary to the stories, the \"merciless and cold-hearted\" prince is kinder than she believed. Might the pure-hearted Katrina find love in the wintry countryside?\n\n(Source: MangaPlaza)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:04:24.104Z",
+    "lastFetched": "2026-07-06T04:46:40.097Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

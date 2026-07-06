@@ -3,7 +3,7 @@
   "idMal": 62707,
   "mappings": {
     "mal": 62707,
-    "anilist": null,
+    "anilist": 212969,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -52,7 +52,8 @@
     "Fantasy"
   ],
   "studios": [
-    "Qingxiang Culture"
+    "Qingxiang Culture",
+    "Qingxiang"
   ],
   "producers": [
     "Youku"
@@ -60,24 +61,22 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1967/158692l.jpg",
     "banner": null,
-    "color": null
+    "color": "#1a86e4"
   },
   "trailer": null,
   "synopsis": "Orphan Qin Yu was specially admitted to the top cultivation academy, Dongda Martial Academy. Behind the city's calm, a demonic threat quietly approached. Qin Yu vowed to lead his fellow disciples to resist the invading demons.\n\n(Source: Youku)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:01:10.475Z",
+    "lastFetched": "2026-07-06T04:36:24.198Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

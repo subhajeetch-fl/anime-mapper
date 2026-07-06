@@ -3,7 +3,7 @@
   "idMal": 61994,
   "mappings": {
     "mal": 61994,
-    "anilist": null,
+    "anilist": 213102,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -57,24 +57,22 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1413/150896l.jpg",
     "banner": null,
-    "color": null
+    "color": "#43bbe4"
   },
   "trailer": null,
   "synopsis": "Two seals, Eru and Aru, spend their days together in a gentle and warm atmosphere. They play at home, relax watching TV, and sometimes get tired from playing and fall asleep.\n\n(Source: U-NEXT, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:44:46.469Z",
+    "lastFetched": "2026-07-06T04:31:26.168Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

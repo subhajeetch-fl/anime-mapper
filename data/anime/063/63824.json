@@ -3,7 +3,7 @@
   "idMal": 63824,
   "mappings": {
     "mal": 63824,
-    "anilist": null,
+    "anilist": 209895,
     "anidb": 19975,
     "kitsu": null,
     "simkl": null,
@@ -20,10 +20,12 @@
   "title": {
     "romaji": "Jujutsu Kaisen: Shimetsu Kaiyuu - Kouhen",
     "english": "Jujutsu Kaisen: The Culling Game Part 2",
-    "native": "呪術廻戦 「死滅回游 後編」",
+    "native": "呪術廻戦 死滅回游 後編",
     "synonyms": [
       "Jujutsu Kaisen Season 4",
-      "Jujutsu Kaisen 4th Season"
+      "Jujutsu Kaisen 4th Season",
+      "呪術廻戦 第4期",
+      "JUJUTSU KAISEN Season 4: The Culling Game Part 2"
     ]
   },
   "type": "TV",
@@ -52,7 +54,8 @@
   },
   "genres": [
     "Action",
-    "Supernatural"
+    "Supernatural",
+    "Drama"
   ],
   "studios": [
     "MAPPA"
@@ -65,20 +68,32 @@
   },
   "trailer": null,
   "synopsis": "Part two of Jujutsu Kaisen: Shimetsu Kaiyuu.",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 57658,
+      "title": {
+        "romaji": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+        "english": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
+        "native": "呪術廻戦 死滅回游 前編"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-LnXqHzt74SJL.jpg",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2026,
+      "relationType": "PREQUEL"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:03:49.485Z",
+    "lastFetched": "2026-07-06T04:46:29.137Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

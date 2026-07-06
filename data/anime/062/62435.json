@@ -6,14 +6,14 @@
     "anilist": 198409,
     "anidb": 19569,
     "kitsu": 50139,
-    "simkl": 2877684,
+    "simkl": null,
     "tmdb": 300267,
     "tvdb": 467882,
     "trakt": 298339,
     "traktType": "shows",
     "shikimori": 62435,
-    "livechart": 13312,
-    "animeplanet": "the-worlds-strongest-rearguard-labyrinth-countrys-novice-seeker",
+    "livechart": null,
+    "animeplanet": null,
     "anisearch": 20869,
     "notify": null
   },
@@ -27,8 +27,8 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": 12,
   "episodeLength": null,
   "aired": {
@@ -43,8 +43,8 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1783256400
+    "episode": 2,
+    "airingAt": 1783861200
   },
   "rating": null,
   "score": {
@@ -73,7 +73,7 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:55:06.718Z",
+    "lastFetched": "2026-07-06T04:34:29.563Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
