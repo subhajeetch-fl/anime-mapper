@@ -27,8 +27,8 @@
   },
   "type": "TV",
   "source": "Original",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
@@ -78,12 +78,12 @@
       "format": "TV_SHORT",
       "episodes": 230,
       "seasonYear": 2016,
-      "relationType": "PARENT"
+      "relationType": "PREQUEL"
     }
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T04:42:03.369Z",
+    "lastFetched": "2026-07-06T22:22:32.869Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",

@@ -32,9 +32,9 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 13,
   "episodeLength": null,
   "aired": {
     "from": "2026-07-05T00:00:00+00:00",
@@ -53,8 +53,8 @@
   },
   "rating": "PG",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.66,
+    "anilistScore": 7.3,
     "kitsuRating": null
   },
   "genres": [
@@ -72,8 +72,10 @@
   "producers": [
     "Lantis",
     "Pony Canyon",
+    "Rakuonsha",
     "ABC Animation",
-    "Heart Company"
+    "Heart Company",
+    "Bandai Namco Music Live"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1068/158475l.jpg",
@@ -99,7 +101,7 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T04:38:24.706Z",
+    "lastFetched": "2026-07-06T22:20:04.363Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",

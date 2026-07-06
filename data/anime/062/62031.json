@@ -28,8 +28,8 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
@@ -44,8 +44,8 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1783346400
+    "episode": 2,
+    "airingAt": 1783951200
   },
   "rating": null,
   "score": {
@@ -193,7 +193,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-04T21:43:32.003Z",
+    "lastFetched": "2026-07-06T22:15:25.736Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
