@@ -29,8 +29,8 @@
   },
   "type": "TV",
   "source": "Other",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
@@ -82,7 +82,7 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-05T04:39:20.507Z",
+    "lastFetched": "2026-07-07T04:31:47.380Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
