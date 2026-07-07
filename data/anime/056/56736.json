@@ -30,8 +30,8 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": 12,
   "episodeLength": null,
   "aired": {
@@ -51,8 +51,8 @@
   },
   "rating": null,
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.57,
+    "anilistScore": 6.3,
     "kitsuRating": null
   },
   "genres": [
@@ -141,7 +141,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-06T14:30:07.240Z",
+    "lastFetched": "2026-07-07T13:03:06.364Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
