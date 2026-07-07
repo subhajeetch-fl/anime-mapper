@@ -1,128 +1,136 @@
-# Anime Metadata API — Data Pipeline
+![Home Page](/images/made-in-abyss.jpg)
 
-A GitHub-hosted anime database (target: 10,000+ titles) stored as JSON files
-and kept up to date by GitHub Actions. This repo is **data pipeline only**
-(Phases 1–4). The Cloudflare Workers/Pages API (Phase 5) is intentionally
-not built yet — see `worker-preview/` for a design sketch you can pick up
-when you get there.
+<div align="center">
+<h1>Anime Mapper</h1>
+	<p>
+		<a href="https://discord.gg/6DhssCN2Ph"><img src="https://img.shields.io/badge/join_our-discord-5865F2?logo=discord&logoColor=white" alt="Discord server" /></a>
+        <a href="https://github.com/subhajeetch-fl/anime-mapper"><img src="https://img.shields.io/github/last-commit/subhajeetch-fl/anime-mapper.svg?logo=github&logoColor=ffffff" alt="Last commit." /></a>
+</div>
 
-## What changed from the original spec, and why
+A GitHub-hosted anime database of 30,000+ titles stored as plain JSON files. No API server is needed — consume the data directly from [jsDelivr](https://www.jsdelivr.com/?docs=gh) or GitHub's raw CDN.
 
-You asked me to find bugs/gaps and fill them in. Here's everything that
-was added, fixed, or flagged, so nothing is a surprise:
+---
 
-1. **The episode schema's actual source.** Fields like `anidbEid`,
-   `isFiller`, `tvdbShowId`, `tvdbId`, and the `artworks.thetvdb.com`
-   screencap URL are **not produced by Jikan, AniList, Kitsu, or
-   animeapi.my.id** — none of those four expose AniDB filler flags or TVDB
-   episode ids. That exact shape comes from **Zenshin** (`api.ani.zip`), a
-   free aggregator that merges AniDB + TVDB + dub-availability data per
-   episode. I added it as a fifth source (`scripts/lib/zenshin.js`). I
-   verified this against zenshin's public usage (it's used by several
-   self-hosted anime apps specifically "to provision episode data"), but I
-   couldn't hit the live endpoint from this sandbox (network is firewalled
-   here), so **test it for real before relying on it** — see "Testing
-   this yourself" below.
-2. **`themes` and `demographics` were initially being mishandled** — the
-   first draft merged Jikan's `themes` (Pirates, School, Military…) into
-   `genres`, and silently dropped `demographics` (Shounen/Shoujo/Seinen/
-   Josei) entirely. That was fixed by separating them out — and then, per
-   a later request to trim the per-anime file, **removed entirely** along
-   with `tags`, `licensors`, `background`, `externalLinks`, and
-   `streaming` (see item 7 below). `genres` alone is kept.
-3. **A real bug in the retry-queue logic**, caught by actually running it:
-   when one anime failed against multiple sources in the same run (e.g.
-   Jikan _and_ Kitsu _and_ AniList all failed), the `attempts` counter was
-   incrementing once _per failed source_ instead of once _per run_, and
-   only the last failure reason was kept. Fixed in `scripts/lib/state.js`
-   — see "What I actually tested" below for the before/after.
-4. **animeapi.my.id's real response shape**, confirmed from its own docs:
-   no `mappings` wrapper, no guaranteed `tmdb`/`tvdb` keys (those were
-   added to the live dataset later than the rest and aren't in every
-   response) — `scripts/lib/idMapping.js` treats every mapping field as
-   nullable rather than assuming it's always there.
-5. **Webhook URL security.** You pasted a live Discord webhook URL in
-   plaintext. Webhook URLs are bearer credentials — anyone who has the URL
-   can post to your channel. I didn't hardcode it anywhere; the workflows
-   read it from `secrets.DISCORD_WEBHOOK_URL`. **You should regenerate
-   that webhook** (Discord channel → Integrations → Webhooks → delete and
-   recreate it) since it's now been shared outside your repo, then add the
-   new URL as a GitHub Actions secret.
-6. Added: retry queue, last-updated cache, per-source rate limiting,
-   structured Discord error reporting with a JSON log attachment, and a
-   hard-failure vs soft-failure distinction (see below).
-7. **Trimmed the per-anime record** (per request, after seeing real output
-   for Attack on Titan): removed `themes`, `demographics`, `tags`,
-   `licensors`, `background`, `externalLinks`, and `streaming` everywhere
-   (not just from the output - the Jikan client no longer even parses
-   them, so there's no dead weight sitting in memory either).
-   `relations` was also **switched from Jikan to AniList as its source,
-   renamed to `sequence`, filtered to anime-only, and sorted
-   chronologically**: Jikan only gives `{ malId, type, name }` grouped by
-   relation type, which isn't enough to render a "related anime" card
-   without a follow-up lookup per entry, and includes manga/light-novel
-   source material mixed in with actual anime. AniList's relations query
-   returns title/image/format/episodes/seasonYear/release-date per
-   related entry directly, so `sequence` is now: (a) filtered to
-   `node.type === "ANIME"` only - manga/novel/one-shot adaptations are
-   excluded entirely, not just their `type` field; (b) sorted oldest-first
-   by release date (falling back to season year, then to "unknown" sorted
-   last) so the array order itself shows watch/release order; (c) shaped
-   exactly like you asked, with no `type` field in the output:
-   `{ malId, title: { romaji, english, native }, image, format, episodes,
-seasonYear, relationType }`. Trade-off worth knowing: since this comes
-   only from AniList now, a transient AniList failure means
-   `sequence: []` for that run rather than a degraded Jikan fallback —
-   but that's not silent, it's tracked in `meta.missingSources` and
-   retried next run like everything else. I unit-tested the filter+sort
-   together with a deliberately out-of-order, mixed anime/manga sample
-   (including an entry with only a year and one with no date at all) to
-   confirm the ordering logic is actually correct, not just "looks right
-   on one example" — see "What I actually tested" below.
+> [!NOTE]
+> This repository does not provide, host, or distribute streaming links. It only provides publicly available anime data for informational and development purposes. Any misuse of this repository or its data is solely the responsibility of the user. The repository owner shall not be held liable for any unauthorized, unlawful, or malicious use of the repository or its contents.
 
-## Repository structure
+## Support
 
-```
-data/
-├── anime-index.json          # lightweight, list/search-friendly
-├── homepage.json            # comprehensive homepage data (generated by fetch-homepage.js)
-├── .pipeline-state/
-│   ├── last-updated.json     # { "21": "2026-06-21T...Z" } - freshness cache
-│   └── retry-queue.json      # anime that failed last run, retried first next run
-├── other-data-api/
-│   └── search-index.json     # flattened, every filterable field (advanced search)
-└── anime/
-    ├── 1.json
-    ├── 21.json                # full record, MAL id = filename = canonical id
-    └── ...
+If you like this project, consider giving it a <strong>star 🌟</strong>
 
-scripts/
-├── lib/
-│   ├── httpClient.js          # retry/backoff/timeout fetch wrapper
-│   ├── rateLimiter.js         # per-source pacing (Jikan/AniList/Kitsu/...)
-│   ├── jikan.js                # PRIMARY metadata source
-│   ├── kitsu.js                # FALLBACK metadata source
-│   ├── anilist.js              # enrichment (banner art, sequence, next airing ep)
-│   ├── idMapping.js            # animeapi.my.id - cross-platform id mapping
-│   ├── zenshin.js               # episode data (the schema you specified)
-│   ├── discord.js              # webhook error reporting
-│   └── state.js                # last-updated cache + retry queue
-├── fetch-anime.js              # fetch + merge ONE anime -> data/anime/{id}.json
-├── build-indexes.js            # rebuild all precomputed list/index files
-├── update-airing.js            # scheduled job: retry queue + airing anime only
-└── add-anime.js                # manual onboarding: single id / list / range
+Connect with me on X (Twitter): [@subhajeetch](https://x.com/subhajeetch)  
+Join the Discord community: [Animekun](https://discord.gg/6DhssCN2Ph)
 
-.github/workflows/
-├── update-airing.yml           # cron, every 4h
-└── add-new-anime.yml           # workflow_dispatch, for Phase 2/3 growth
+## Table of Contents
 
-worker-preview/
-└── search-example.js           # Phase 5 design reference, NOT deployed
+- [Quick Start](#quick-start)
+- [Data Access](#data-access)
+  - [Homepage Data](#homepage-data)
+  - [Individual Anime](#individual-anime)
+  - [Anime Index](#anime-index)
+  - [Search Index](#search-index)
+- [File Structure](#file-structure)
+  - [Bucket Layout](#bucket-layout)
+  - [The `getBucketName` function](#the-getbucketname-function)
+- [Data Schema](#data-schema)
+  - [Anime Entry](#anime-entry)
+  - [Homepage](#homepage)
+  - [Anime Index Entry](#anime-index-entry)
+  - [Search Index Entry](#search-index-entry)
+- [Update Pipeline](#update-pipeline)
+- [License](#license)
+
+---
+
+## Quick Start
+
+Fetch the homepage:
+
+```bash
+curl -s https://cdn.jsdelivr.net/gh/subhajeetch-fl/anime-mapper@main/data/homepage.json | head -c 500
 ```
 
-## Data schema
+Fetch a single anime (One Piece, MAL id 21):
 
-### `data/anime-index.json` (and `trending.json` / `popular.json` / `top-rated.json` — same shape)
+```bash
+curl -s https://cdn.jsdelivr.net/gh/subhajeetch-fl/anime-mapper@main/data/anime/000/21.json
+```
+
+> [!NOTE]
+> jsdelivr caches files for 12 hours. If you need the bleeding-edge latest commit, use `https://raw.githubusercontent.com/subhajeetch-fl/anime-mapper/main/...` instead (slower, no CDN).
+
+---
+
+## Data Access
+
+All data lives under the `data/` directory and is served as static JSON via jsdelivr.
+
+> **jsDelivr base URL:**
+>
+> ```
+> https://cdn.jsdelivr.net/gh/subhajeetch-fl/anime-mapper@main/data/
+> ```
+
+### Homepage Data
+
+| Endpoint                 | Description                                                                       |
+| ------------------------ | --------------------------------------------------------------------------------- |
+| **`data/homepage.json`** | Curated homepage sections (spotlight, trending, top-rated, latest episodes, etc.) |
+
+Example:
+
+```bash
+curl -s https://cdn.jsdelivr.net/gh/subhajeetch-fl/anime-mapper@main/data/homepage.json
+```
+
+The `homepage.json` payload contains these top-level keys:
+
+| Section             | Type          | Description                                   |
+| ------------------- | ------------- | --------------------------------------------- |
+| `spotlight`         | `AnimeCard[]` | Featured / banner anime                       |
+| `trending`          | `AnimeCard[]` | Currently popular anime                       |
+| `topByTime`         | `object`      | `{ byDay, byWeek, byMonth }` — most discussed |
+| `mostWatched`       | `AnimeCard[]` | Highest viewer counts                         |
+| `mostPopular`       | `AnimeCard[]` | Long-term popular titles                      |
+| `latestEpisodes`    | `AnimeCard[]` | Episodes that aired most recently             |
+| `topRated`          | `AnimeCard[]` | Highest-scoring anime                         |
+| `thisSeasonPopular` | `AnimeCard[]` | Top titles for the current season             |
+
+Each `AnimeCard` follows the same shape as the full anime entry described below, but you are free to cherry-pick the fields you need.
+
+---
+
+### Individual Anime
+
+| Endpoint                            | Description                             |
+| ----------------------------------- | --------------------------------------- |
+| **`data/anime/{bucket}/{id}.json`** | Full metadata record for a single anime |
+
+The **bucket** is derived from the MAL id with the `getBucketName()` function (see [Bucket Layout](#bucket-layout) below).
+
+Example for `id = 21` (One Piece):
+
+```bash
+# bucket for id 21  →  getBucketName(21) = "000"
+curl -s https://cdn.jsdelivr.net/gh/subhajeetch-fl/anime-mapper@main/data/anime/000/21.json
+```
+
+Example for `id = 52991` (Frieren: Beyond Journey's End):
+
+```bash
+# bucket for id 52991  →  getBucketName(52991) = "052"
+curl -s https://cdn.jsdelivr.net/gh/subhajeetch-fl/anime-mapper@main/data/anime/052/52991.json
+```
+
+---
+
+### Anime Index
+
+| Endpoint                    | Description                                              |
+| --------------------------- | -------------------------------------------------------- |
+| **`data/anime-index.json`** | Lightweight array — one entry per anime (search/list UI) |
+
+Each entry is a small, flat object with just the essential display fields:
 
 ```json
 {
@@ -137,15 +145,109 @@ worker-preview/
   "episodeCount": null,
   "image": "https://cdn.myanimelist.net/images/anime/21l.jpg",
   "score": 8.69,
-  "updatedAt": "2026-06-21T00:00:00.000Z"
+  "updatedAt": "2026-07-01T00:00:00.000Z"
 }
 ```
 
-### `data/anime/{id}.json`
+---
 
-The canonical id is the **MyAnimeList id** (`mal_id` from Jikan), matching
-your spec. Full shape — see `data/anime/21.json` for a real (hand-checked)
-example:
+### Search Index
+
+| Endpoint                     | Description                                                      |
+| ---------------------------- | ---------------------------------------------------------------- |
+| **`data/search-index.json`** | Flattened array with every filterable/searchable field per anime |
+
+This index is rebuilt automatically by the pipeline (`scripts/build-indexes.js`) every time anime data changes. It contains the full set of filterable fields (genres, studios, producers, scores, years, etc.) for every anime in the catalog.
+
+> [!WARNING]
+> **jsDelivr enforces a 20 MB file size limit.** `data/search-index.json` is typically **larger than 20 MB**, so it **cannot be fetched directly from jsdelivr.**
+>
+> You have a few options for using it:
+>
+> - Clone the repository and read the file locally.
+> - Use [raw.githubusercontent.com](https://raw.githubusercontent.com/subhajeetch-fl/anime-mapper@main/data/search-index.json) (slower, no CDN).
+> - Build your own search index from the `data/anime/` directory using `scripts/build-indexes.js`.
+> - Fork this repo and host your own mirror on a platform that supports large files (e.g., Cloudflare R2, AWS S3, or your own backend). The `search-index.json` is just a static file — download it once, host it, and serve it however works for your stack.
+
+---
+
+## File Structure
+
+We are using a structured file hierarchy because GitHub recommends keeping no more than 1,000 JSON files in a single folder.
+
+```
+data/
+├── anime-index.json          # Lightweight list/search index (all anime, minimal fields)
+├── search-index.json         # Full search index (every filterable field, >20 MB)
+├── homepage.json             # Curated homepage sections
+├── .pipeline-state/          # Pipeline state for automated updates
+│   ├── last-updated.json
+│   ├── retry-queue.json
+│   └── ...
+└── anime/
+    ├── 000/                  # IDs 0–999
+    │   ├── 1.json
+    │   ├── 21.json
+    │   └── ...
+    ├── 001/                  # IDs 1000–1999
+    ├── 002/                  # IDs 2000–2999
+    ├── ...
+    └── other/                # IDs ≥ 1,000,000
+```
+
+### Bucket Layout
+
+The `data/anime/` directory is divided into **buckets** of 1,000 MAL IDs each. This keeps any single directory from growing too large and makes the structure predictable.
+
+| ID Range                   | Bucket Directory    |
+| -------------------------- | ------------------- |
+| `0` – `999`                | `data/anime/000/`   |
+| `1000` – `1999`            | `data/anime/001/`   |
+| `2999` – `2000` - wait, no | ...                 |
+| `999000` – `999999`        | `data/anime/999/`   |
+| `≥ 1000000`                | `data/anime/other/` |
+
+### The `getBucketName` function
+
+Use this exact logic to compute the bucket folder from any MAL id:
+
+```javascript
+function getBucketName(id) {
+  if (id >= 1000000) return "other";
+  const bucket = Math.floor(id / 1000);
+  return String(bucket).padStart(3, "0");
+}
+```
+
+**Examples:**
+
+```javascript
+getBucketName(21); // "000"
+getBucketName(1500); // "001"
+getBucketName(52991); // "052"
+getBucketName(999000); // "999"
+getBucketName(1500000); // "other"
+```
+
+**Building the full URL:**
+
+```javascript
+function getAnimeUrl(id) {
+  const bucket = getBucketName(id);
+  return `https://cdn.jsdelivr.net/gh/subhajeetch-fl/anime-mapper@main/data/anime/${bucket}/${id}.json`;
+}
+
+getAnimeUrl(52991);
+// → "https://cdn.jsdelivr.net/gh/subhajeetch-fl/anime-mapper@main/data/anime/052/52991.json"
+```
+
+---
+
+## Data Schema
+
+### Anime Entry
+
+A full anime record (`data/anime/{bucket}/{id}.json`) follows this structure:
 
 ```json
 {
@@ -159,43 +261,66 @@ example:
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
-    "trakt": null,
-    "traktType": null,
-    "shikimori": 21,
-    "livechart": null,
     "animeplanet": "one-piece",
     "anisearch": null,
-    "notify": null
+    "notify": null,
+    "shikimori": 21,
+    "trakt": null,
+    "traktType": null,
+    "livechart": null
   },
   "title": {
-    "romaji": "...",
-    "english": "...",
-    "native": "...",
+    "romaji": "One Piece",
+    "english": "One Piece",
+    "native": "ワンピース",
     "synonyms": []
   },
   "type": "TV",
   "source": "Manga",
   "status": "Currently Airing",
   "airing": true,
-  "episodeCount": 1100,
+  "episodeCount": null,
   "episodeLength": 24,
-  "aired": { "from": "1999-10-20", "to": null },
+  "aired": {
+    "from": "1999-10-20",
+    "to": null
+  },
   "season": "fall",
   "year": 1999,
-  "broadcast": { "day": "Sundays", "time": "09:30", "timezone": "Asia/Tokyo" },
-  "nextAiringEpisode": { "episode": 1136, "airingAt": 1750000000 },
+  "broadcast": {
+    "day": "Sundays",
+    "time": "09:30",
+    "timezone": "Asia/Tokyo"
+  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": 8.69,
     "anilistScore": 8.7,
     "kitsuRating": 8.69
   },
-  "genres": ["Action", "Adventure", "Fantasy"],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Shounen",
+    "Super Power"
+  ],
   "studios": ["Toei Animation"],
   "producers": ["Fuji TV", "TAP", "Shueisha"],
-  "images": { "poster": "...", "banner": "...", "color": "#e4a127" },
-  "trailer": { "youtubeId": "...", "url": "...", "thumbnail": "..." },
-  "synopsis": "...",
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/21l.jpg",
+    "banner": "https://cdn.myanimelist.net/images/anime/21_1920x1080.jpg",
+    "color": "#e4a127"
+  },
+  "trailer": {
+    "youtubeId": "...",
+    "url": "https://www.youtube.com/watch?v=...",
+    "thumbnail": "https://img.youtube.com/vi/.../maxresdefault.jpg"
+  },
+  "synopsis": "Gol D. Roger was known as the Pirate King...",
   "sequence": [
     {
       "malId": 466,
@@ -218,20 +343,22 @@ example:
       "isFiller": false,
       "isDubbed": true,
       "length": "25m",
-      "airdate": "2024-10-03",
-      "title": { "en": "Chinatsu Senpai" },
+      "airdate": "1999-10-20",
+      "title": {
+        "en": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!"
+      },
       "tvdbShowId": 429934,
       "tvdbId": 10152847,
       "seasonNumber": 1,
       "episodeNumber": 1,
       "absoluteEpisodeNumber": 1,
       "runtime": 24,
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/10152847/screencap/...jpg",
-      "airDate": "2024-09-27"
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10152847/screencap/...",
+      "airDate": "1999-10-20"
     }
   },
   "meta": {
-    "lastFetched": "2026-06-21T14:00:00.000Z",
+    "lastFetched": "2026-07-01T00:00:00.000Z",
     "sourcesUsed": ["jikan", "kitsu", "anilist", "animeapi.my.id", "zenshin"],
     "missingSources": [],
     "dataVersion": 1
@@ -239,192 +366,106 @@ example:
 }
 ```
 
-`sequence` is anime-only (manga/novel/one-shot source material and
-adaptations are filtered out) and sorted **oldest release first**, so the
-array order itself tells you what came before what — see "Source
-priority" below for exactly how that ordering is computed.
+### Homepage
 
-`meta.missingSources` is how a partially-failed fetch stays visible without
-blocking the whole pipeline — see "Error handling" below.
+`data/homepage.json` is a single JSON file containing curated sections for a homepage / dashboard UI. Each section is an array of anime objects that match the **Anime Entry** schema above.
 
-## Source priority (per your spec: "mostly from MAL/Jikan or Kitsu")
+Available sections: `spotlight`, `trending`, `topByTime`, `mostWatched`, `mostPopular`, `latestEpisodes`, `topRated`, `thisSeasonPopular`.
 
-| Source             | Role       | Notes                                                              |
-| ------------------ | ---------- | ------------------------------------------------------------------ |
-| **Jikan**          | Primary    | synopsis, genres, studios, score, broadcast                        |
-| **Kitsu**          | Fallback   | used when Jikan is down/missing fields; also supplies `ageRating`  |
-| **AniList**        | Enrichment | banner image, `nextAiringEpisode`, `sequence` (anime-only, sorted) |
-| **animeapi.my.id** | ID mapping | the `mappings` block + the AniList id zenshin needs                |
-| **Zenshin**        | Episodes   | the per-episode schema you specified                               |
+---
 
-A title is a **hard failure** (→ retry queue + Discord alert) only if
-**both** Jikan and Kitsu fail — those are your two designated primary
-sources. If AniList, animeapi.my.id, or Zenshin fail, the file is still
-written with whatever it has; the gap is recorded in `meta.missingSources`
-so a later retry can backfill it without you having to notice manually.
+### Anime Index Entry
 
-## Rate-limit strategy
-
-- `update-airing.yml` runs every 4 hours and only touches anime where
-  `status === "Currently Airing"` (read from `anime-index.json`) — never
-  the whole catalog.
-- `data/.pipeline-state/last-updated.json` skips anything updated in the
-  last 4 hours, so a manual re-run or overlapping trigger doesn't double up.
-- Catalog growth (Phase 2/3 — adding new titles) is a **separate** workflow
-  (`add-new-anime.yml`, manual trigger) so it never collides with or slows
-  down the airing-update schedule.
-- Each API gets its own pacing in `scripts/lib/rateLimiter.js`, based on
-  published/observed limits (Jikan ~3 req/s, AniList ~30 req/min in
-  degraded mode, others paced conservatively since they don't publish a
-  hard number). The crawler processes anime **sequentially**, not in
-  parallel — parallel hammering of 4–5 free APIs is the fastest way to get
-  an IP banned and isn't worth the speedup for an incremental job.
-
-## Error handling ("even if an error happens, do it later")
-
-1. Every source call goes through `httpClient.js`, which retries with
-   exponential backoff and respects `Retry-After` on 429s.
-2. If a call still fails after retries, it's caught and pushed into an
-   `errors` array — **it never throws and kills the whole run.**
-3. At the end of a run, all failed ids go into
-   `data/.pipeline-state/retry-queue.json` (committed to the repo like
-   everything else), and the **next** run processes that queue first.
-4. Once per run (not once per failure — that was the bug I fixed), all
-   accumulated errors are sent to Discord as one organized report: a
-   summary embed (grouped by source, with a sample of failures) plus a
-   full JSON log attached as a file, so nothing gets lost even if there
-   are 50 failures in one run.
-5. **Set up the secret before relying on this:** GitHub repo → Settings →
-   Secrets and variables → Actions → New repository secret →
-   `DISCORD_WEBHOOK_URL`. If it's unset, the pipeline logs a warning and
-   continues — it never crashes because Discord is unreachable.
-
-## Commit strategy
-
-Both workflows: `git add -A`, check `git diff --cached --quiet`, skip the
-commit/push entirely if nothing changed, otherwise commit as
-`github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>`
-and push. `[skip ci]` in the commit message avoids the commit re-triggering
-another workflow run.
-
-## Advanced search — how it's designed to work
-
-Search/filter dimensions: **genre, studio, producer, score range,
-popularity, year range, season, status, type, free-text title.** All
-combinable (`genre=Action,Adventure&studio=Toei+Animation&
-score_min=7.5&sort=score`).
-
-**Where the data lives:** `data/other-data-api/search-index.json` is a flattened array —
-one object per anime with every filterable field already at the top level
-(no nested lookups needed). It's rebuilt by `build-indexes.js` every time
-the pipeline runs.
-
-**Why not a real database:** at 10,000–50,000 entries, filtering and
-sorting that array in plain JS, in-memory, inside a Cloudflare Worker is a
-few milliseconds — nowhere near the CPU budget. A Worker fetches
-`search-index.json` once (via jsdelivr's GitHub CDN, not raw.githubusercontent.com
-— jsdelivr is faster and better-cached for this), caches it in the Workers
-Cache API for ~5 minutes, and filters/sorts in JS on each request. This
-keeps the data layer's "no database, just JSON + git" philosophy intact
-all the way through the API, which is what you said you wanted
-(architecture independent of API implementation).
-
-**When to actually add a database:** if the catalog grows past roughly
-100k entries, or you want fuzzy/typo-tolerant text search ("One Pece" still
-finding One Piece) — at that point look at Cloudflare D1 (it's just SQLite,
-easy to slot in under the same query interface) or a hosted search service
-like Meilisearch/Typesense. Not before; it'd be premature complexity for a
-~10k-title catalog.
-
-See `worker-preview/search-example.js` for the filter/sort implementation
-(`filterAndSort()`), already unit-tested with sample data — genre+studio
-combos, score ranges, year ranges, producer filtering, and sorting all
-verified to return correct results before being included here.
-
-## Testing this yourself
-
-This was built and syntax-checked in a sandboxed environment that **can't
-reach** api.jikan.moe, kitsu.io, graphql.anilist.co, animeapi.my.id, or
-api.ani.zip (network egress is restricted here). What I could and did
-verify for real:
-
-- Every script passes `node --check` (no syntax errors).
-- `build-indexes.js` actually runs end-to-end against `data/anime/21.json`
-  and produces correct `anime-index.json` / `trending.json` /
-  `genre-index.json` / `search-index.json` output (included in this repo,
-  not hand-written).
-- `fetch-anime.js` and `update-airing.js` were run for real against the
-  blocked network: confirmed they fail **gracefully** (structured errors,
-  retry queue populated correctly, Discord skip-without-crashing when the
-  secret is unset) instead of throwing and killing the process.
-- Every per-source normalizer (`normalizeJikan`, `normalizeKitsu`,
-  `normalizeAniList`, `normalizeMappings`, `normalizeEpisodes`) was unit
-  tested against realistic sample payloads matching each API's documented
-  real response shape — including animeapi.my.id's actual published
-  Cowboy Bebop example and your exact episode schema — and all produced
-  correct output.
-- The advanced-search `filterAndSort()` function was unit tested with
-  sample anime objects across every filter type (genre, studio, producer,
-  score range, year range, text search, sorting) — all returned correct
-  results.
-
-What I could **not** test here: an actual live HTTP round-trip to Jikan/
-Kitsu/AniList/animeapi.my.id/Zenshin. Before turning on the scheduled
-workflow, run this locally (or in a GitHub Actions test run) where the
-network isn't restricted:
-
-```bash
-node scripts/fetch-anime.js 21
-cat data/anime/21.json   # check it actually populated, not just shaped right
-node scripts/build-indexes.js
+```json
+{
+  "id": 52991,
+  "title": "Frieren: Beyond Journey's End",
+  "romajiTitle": "Sousou no Frieren",
+  "nativeTitle": "葬送のフリーレン",
+  "year": 2023,
+  "season": "fall",
+  "type": "TV",
+  "status": "Finished Airing",
+  "episodeCount": 28,
+  "image": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
+  "score": 9.26,
+  "updatedAt": "2026-07-01T00:00:00.000Z"
+}
 ```
 
-## Running it
+### Search Index Entry
 
-```bash
-# Phase 1: one anime
-node scripts/fetch-anime.js 21
-node scripts/build-indexes.js
+The search index (`data/search-index.json`) uses short keys to minimize file size. Each entry looks like:
 
-# Phase 2: ~100 anime
-node scripts/add-anime.js --range=1-100
-
-# Phase 3: thousands (run in chunks - this hits 5 APIs per id, sequentially,
-# so a few thousand ids will take hours, not minutes - that's intentional,
-# see "Rate-limit strategy")
-node scripts/add-anime.js --range=1-3000
-
-# Phase 4: automation
-# Push this repo to GitHub, add the DISCORD_WEBHOOK_URL secret, the two
-# workflows in .github/workflows/ take it from there.
-
-# Phase 5: not yet - see worker-preview/search-example.js when you're ready
+```json
+{
+  "id": 52991,
+  "t": "Frieren: Beyond Journey's End",
+  "rT": "Sousou no Frieren",
+  "nT": "葬送のフリーレン",
+  "y": 2023,
+  "s": "fall",
+  "ty": "TV",
+  "st": "Finished Airing",
+  "eC": 28,
+  "img": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
+  "sc": 9.26,
+  "uA": "2026-07-01T00:00:00.000Z",
+  "g": ["Adventure", "Award Winning", "Drama", "Fantasy"],
+  "stu": ["Madhouse"],
+  "pro": ["Aniplex", "Dentsu", "Shogakukan-Shueisha Productions"],
+  "r": "PG-13 - Teens 13 or older",
+  "se": "frieren: beyond journey's end sousou no frieren 葬送のフリーレン"
+}
 ```
 
-## Known limitations / things to revisit
+**Short key mapping:**
 
-- `trending.json` is sorted by AniList's `popularity` field among
-  currently-airing titles, since true "trending" (week-over-week
-  popularity delta) isn't something any of these APIs hand you directly —
-  computing a real delta would mean storing yesterday's popularity number
-  per anime and diffing, which is straightforward to add later if you want
-  it more accurate.
-- `top-rated.json` uses a minimum vote-count threshold (1000) so a title
-  with three 10/10 ratings can't outrank One Piece — tune
-  `TOP_RATED_MIN_VOTES` in `build-indexes.js` as the catalog grows.
-- Zenshin's exact rate limit and uptime guarantees aren't published
-  anywhere I could find — it's a free community service, treat it as
-  best-effort and lean on the retry queue rather than assuming it's always
-  reachable.
-- `animeapi.my.id`'s `tmdb`/`tvdb` fields are newer additions to their
-  dataset and not guaranteed present for every title — `mappings.tmdb`/
-  `mappings.tvdb` will legitimately be `null` for a lot of anime even once
-  this is working correctly.
+| Short Key | Long Field     |
+| --------- | -------------- |
+| `id`      | `id`           |
+| `t`       | `title`        |
+| `rT`      | `romajiTitle`  |
+| `nT`      | `nativeTitle`  |
+| `y`       | `year`         |
+| `s`       | `season`       |
+| `ty`      | `type`         |
+| `st`      | `status`       |
+| `eC`      | `episodeCount` |
+| `img`     | `image`        |
+| `sc`      | `score`        |
+| `uA`      | `updatedAt`    |
+| `g`       | `genres`       |
+| `stu`     | `studios`      |
+| `pro`     | `producers`    |
+| `r`       | `rating`       |
+| `se`      | `searchTitle`  |
 
-```
+---
 
-```
+## Update Pipeline
 
-## Homepage data
+The data is kept fresh by GitHub Actions workflows:
 
-The pipeline now generates `data/homepage.json` (via `scripts/fetch-homepage.js`). This file contains all homepage sections in a single JSON payload, using the same card format as individual anime files. Sections include `spotlight`, `trending`, `topByTime` (byDay/byWeek/byMonth), `mostWatched`, `mostPopular`, `latestEpisodes`, `topRated`, and `thisSeasonPopular`. It is refreshed every 12 hours by the `homepage.yml` workflow.
+| Workflow           | Trigger               | What it does                   |
+| ------------------ | --------------------- | ------------------------------ |
+| `homepage.yml`     | Every 12 hours        | Refreshes `data/homepage.json` |
+| `smart-update.yml` | Every 10 hours        | Updates stale or airing anime  |
+| `auto-add.yml`     | Daily at 03:30 UTC    | Discovers and adds new anime   |
+| `discover-ids.yml` | Weekly (Sunday 02:15) | Discovers new MAL IDs to add   |
+
+Each fetch pulls from multiple sources with automatic fallback:
+
+| Source             | Role                                                     |
+| ------------------ | -------------------------------------------------------- |
+| **Jikan**          | Primary metadata (synopsis, genres, studios, score, ...) |
+| **Kitsu**          | Fallback when Jikan is down/missing fields               |
+| **AniList**        | Enrichment (banner art, sequence, next airing episode)   |
+| **animeapi.my.id** | Cross-platform ID mappings                               |
+| **Zenshin**        | Per-episode data (filler flags, TVDB IDs, etc.)          |
+
+---
+
+## License
+
+MIT — The anime metadata is sourced from public APIs (Jikan, Kitsu, AniList, etc.). Use responsibly and respect the terms of each service.
