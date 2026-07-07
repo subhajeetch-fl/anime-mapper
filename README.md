@@ -7,7 +7,7 @@
         <a href="https://github.com/subhajeetch-fl/anime-mapper"><img src="https://img.shields.io/github/last-commit/subhajeetch-fl/anime-mapper.svg?logo=github&logoColor=ffffff" alt="Last commit." /></a>
 </div>
 
-A GitHub-hosted anime database of 30,000+ titles stored as plain JSON files. No API server is needed — consume the data directly from [jsDelivr](https://www.jsdelivr.com/?docs=gh) or GitHub's raw CDN.
+A GitHub-hosted anime database of 30,000+ titles stored as plain JSON files. No API server is needed — consume Anime data by Myanimelist ID directly from [jsDelivr](https://www.jsdelivr.com/?docs=gh) or GitHub's raw CDN.
 
 ---
 
@@ -199,20 +199,20 @@ data/
 
 The `data/anime/` directory is divided into **buckets** of 1,000 MAL IDs each. This keeps any single directory from growing too large and makes the structure predictable.
 
-| ID Range                   | Bucket Directory    |
-| -------------------------- | ------------------- |
-| `0` – `999`                | `data/anime/000/`   |
-| `1000` – `1999`            | `data/anime/001/`   |
-| `2999` – `2000` - wait, no | ...                 |
-| `999000` – `999999`        | `data/anime/999/`   |
-| `≥ 1000000`                | `data/anime/other/` |
+| ID Range            | Bucket Directory    |
+| ------------------- | ------------------- |
+| `0` – `999`         | `data/anime/000/`   |
+| `1000` – `1999`     | `data/anime/001/`   |
+| `50000` – `50999`   | `data/anime/050/`   |
+| `999000` – `999999` | `data/anime/999/`   |
+| `≥ 1000000`         | `data/anime/other/` |
 
 ### The `getBucketName` function
 
 Use this exact logic to compute the bucket folder from any MAL id:
 
 ```javascript
-function getBucketName(id) {
+function getBucketName(malId) {
   if (id >= 1000000) return "other";
   const bucket = Math.floor(id / 1000);
   return String(bucket).padStart(3, "0");
@@ -232,9 +232,9 @@ getBucketName(1500000); // "other"
 **Building the full URL:**
 
 ```javascript
-function getAnimeUrl(id) {
-  const bucket = getBucketName(id);
-  return `https://cdn.jsdelivr.net/gh/subhajeetch-fl/anime-mapper@main/data/anime/${bucket}/${id}.json`;
+function getAnimeUrl(malId) {
+  const bucket = getBucketName(malId);
+  return `https://cdn.jsdelivr.net/gh/subhajeetch-fl/anime-mapper@main/data/anime/${bucket}/${malId}.json`;
 }
 
 getAnimeUrl(52991);
@@ -368,7 +368,7 @@ A full anime record (`data/anime/{bucket}/{id}.json`) follows this structure:
 
 ### Homepage
 
-`data/homepage.json` is a single JSON file containing curated sections for a homepage / dashboard UI. Each section is an array of anime objects that match the **Anime Entry** schema above.
+`data/homepage.json` is a single JSON file containing curated sections for a homepage UI. Each section is an array of anime objects that match the **Anime Entry** schema above.
 
 Available sections: `spotlight`, `trending`, `topByTime`, `mostWatched`, `mostPopular`, `latestEpisodes`, `topRated`, `thisSeasonPopular`.
 

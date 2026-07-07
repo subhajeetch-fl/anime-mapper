@@ -1,17 +1,8 @@
-/**
- * AniList public GraphQL API client.
- * Docs: https://docs.anilist.co/
- *
- * AniList's degraded-mode rate limit is ~30 req/min (used to be 90/min).
- * We treat it as enrichment (banner images, next-airing-episode, and
- * detailed relations data) rather than the primary source, since Jikan
- * covers most of the same ground and is friendlier to crawl at scale.
- */
 import { fetchJson } from './httpClient.js';
 
 const ENDPOINT = 'https://graphql.anilist.co';
 
-const QUERY = /* GraphQL */ `
+const QUERY =  `
   query ($idMal: Int) {
     Media(idMal: $idMal, type: ANIME) {
       id
