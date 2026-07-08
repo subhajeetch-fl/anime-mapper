@@ -25,9 +25,9 @@
   },
   "type": "TV",
   "source": "Original",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
   "episodeLength": null,
   "aired": {
     "from": "2026-07-07T00:00:00+00:00",
@@ -59,7 +59,11 @@
   "studios": [
     "Sunrise"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Namco Filmworks",
+    "Bandai Namco Music Live",
+    "Cruise"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1996/158323l.jpg",
     "banner": null,
@@ -84,7 +88,7 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-07T22:13:01.235Z",
+    "lastFetched": "2026-07-08T21:50:38.882Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
