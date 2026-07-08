@@ -30,9 +30,9 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 13,
   "episodeLength": null,
   "aired": {
     "from": "2026-07-07T00:00:00+00:00",
@@ -52,7 +52,7 @@
   "rating": null,
   "score": {
     "malScore": null,
-    "anilistScore": null,
+    "anilistScore": 7.5,
     "kitsuRating": null
   },
   "genres": [
@@ -155,7 +155,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-07T13:07:41.012Z",
+    "lastFetched": "2026-07-08T12:28:50.453Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
