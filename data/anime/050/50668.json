@@ -35,16 +35,19 @@
   "episodeLength": null,
   "aired": {
     "from": "2026-01-01T00:00:00+00:00",
-    "to": "2026-12-31"
+    "to": "2026-11-20"
   },
-  "season": null,
-  "year": null,
+  "season": "fall",
+  "year": 2026,
   "broadcast": {
     "day": null,
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1795100400
+  },
   "rating": "PG",
   "score": {
     "malScore": null,
@@ -120,7 +123,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-30T10:20:00.631Z",
+    "lastFetched": "2026-07-08T04:25:36.583Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
