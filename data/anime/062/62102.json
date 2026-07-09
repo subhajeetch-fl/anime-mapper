@@ -30,8 +30,8 @@
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
@@ -49,10 +49,10 @@
     "episode": 2,
     "airingAt": 1784125800
   },
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.86,
+    "anilistScore": 6,
     "kitsuRating": null
   },
   "genres": [
@@ -65,7 +65,9 @@
     "Newon"
   ],
   "producers": [
-    "NBCUniversal Entertainment Japan"
+    "NBCUniversal Entertainment Japan",
+    "Bit grooove promotion",
+    "Imagine"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1912/157082l.jpg",
@@ -77,7 +79,7 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-08T21:45:00.336Z",
+    "lastFetched": "2026-07-09T22:04:44.732Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",

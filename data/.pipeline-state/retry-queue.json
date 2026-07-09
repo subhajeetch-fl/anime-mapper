@@ -3,14 +3,19 @@
     "id": 3401,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 15711,
@@ -22,8 +27,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 17167,
@@ -35,73 +40,88 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 35853,
     "reasons": [
       {
         "source": "Jikan",
-        "message": "Jikan server error (500)",
-        "status": 500
+        "message": "Jikan server error (504)",
+        "status": 504
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 35854,
     "reasons": [
       {
         "source": "Jikan",
-        "message": "Jikan server error (500)",
-        "status": 500
+        "message": "Jikan server error (504)",
+        "status": 504
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 38870,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 39150,
     "reasons": [
       {
-        "source": "AniList",
-        "message": "AniList returned 404",
-        "status": 404
-      }
-    ],
-    "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
-  },
-  {
-    "id": 39360,
-    "reasons": [
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 39360,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
+        "source": "AniList",
+        "message": "AniList returned 404",
+        "status": 404
+      }
+    ],
+    "attempts": 2,
+    "firstFailedAt": "2026-07-09T04:32:14.275Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 41227,
@@ -113,25 +133,35 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 42008,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 42913,
     "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
@@ -139,8 +169,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 44285,
@@ -152,21 +182,26 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 44861,
     "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 45220,
@@ -178,34 +213,44 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 45268,
     "reasons": [
       {
-        "source": "AniList",
-        "message": "AniList returned 404",
-        "status": 404
-      }
-    ],
-    "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
-  },
-  {
-    "id": 45780,
-    "reasons": [
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 45780,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
+        "source": "AniList",
+        "message": "AniList returned 404",
+        "status": 404
+      }
+    ],
+    "attempts": 2,
+    "firstFailedAt": "2026-07-09T04:32:14.275Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 47441,
@@ -217,21 +262,26 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 47890,
     "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 49326,
@@ -243,8 +293,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 51325,
@@ -256,8 +306,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 51387,
@@ -269,8 +319,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 51389,
@@ -282,38 +332,35 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 51577,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 51608,
     "reasons": [
       {
-        "source": "AniList",
-        "message": "AniList returned 404",
-        "status": 404
-      }
-    ],
-    "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
-  },
-  {
-    "id": 52057,
-    "reasons": [
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
@@ -321,8 +368,26 @@
       }
     ],
     "attempts": 1,
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 52057,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
+        "source": "AniList",
+        "message": "AniList returned 404",
+        "status": 404
+      }
+    ],
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 52146,
@@ -334,34 +399,44 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 52190,
     "reasons": [
       {
-        "source": "AniList",
-        "message": "AniList returned 404",
-        "status": 404
-      }
-    ],
-    "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
-  },
-  {
-    "id": 52824,
-    "reasons": [
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 52824,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
+        "source": "AniList",
+        "message": "AniList returned 404",
+        "status": 404
+      }
+    ],
+    "attempts": 2,
+    "firstFailedAt": "2026-07-09T04:32:14.275Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 54245,
@@ -373,8 +448,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 54419,
@@ -386,77 +461,107 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 54899,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 55043,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 55421,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 55459,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 55851,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 55881,
     "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
@@ -464,8 +569,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 55954,
@@ -477,25 +582,17 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 56089,
     "reasons": [
       {
-        "source": "AniList",
-        "message": "AniList returned 404",
-        "status": 404
-      }
-    ],
-    "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
-  },
-  {
-    "id": 56117,
-    "reasons": [
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
@@ -503,8 +600,26 @@
       }
     ],
     "attempts": 1,
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 56117,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
+        "source": "AniList",
+        "message": "AniList returned 404",
+        "status": 404
+      }
+    ],
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 56118,
@@ -516,60 +631,80 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 56125,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 56161,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 56162,
     "reasons": [
       {
-        "source": "AniList",
-        "message": "AniList returned 404",
-        "status": 404
-      }
-    ],
-    "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
-  },
-  {
-    "id": 56636,
-    "reasons": [
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 56636,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
+        "source": "AniList",
+        "message": "AniList returned 404",
+        "status": 404
+      }
+    ],
+    "attempts": 2,
+    "firstFailedAt": "2026-07-09T04:32:14.275Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 56929,
@@ -581,8 +716,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 56993,
@@ -594,125 +729,170 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 57072,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 57073,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 57142,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 58062,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 58249,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 58328,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 58429,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 58539,
     "reasons": [
       {
-        "source": "AniList",
-        "message": "AniList returned 404",
-        "status": 404
-      }
-    ],
-    "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
-  },
-  {
-    "id": 58562,
-    "reasons": [
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 58562,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
+        "source": "AniList",
+        "message": "AniList returned 404",
+        "status": 404
+      }
+    ],
+    "attempts": 2,
+    "firstFailedAt": "2026-07-09T04:32:14.275Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 58598,
@@ -724,8 +904,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 58599,
@@ -737,51 +917,53 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 58653,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 58677,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 58695,
     "reasons": [
       {
-        "source": "AniList",
-        "message": "AniList returned 404",
-        "status": 404
-      }
-    ],
-    "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
-  },
-  {
-    "id": 58701,
-    "reasons": [
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
@@ -789,8 +971,26 @@
       }
     ],
     "attempts": 1,
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 58701,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
+        "source": "AniList",
+        "message": "AniList returned 404",
+        "status": 404
+      }
+    ],
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 58740,
@@ -802,125 +1002,170 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 58752,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 58791,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59057,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59059,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59077,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59271,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59291,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59374,
     "reasons": [
       {
-        "source": "AniList",
-        "message": "AniList returned 404",
-        "status": 404
-      }
-    ],
-    "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
-  },
-  {
-    "id": 59386,
-    "reasons": [
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 59386,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
+        "source": "AniList",
+        "message": "AniList returned 404",
+        "status": 404
+      }
+    ],
+    "attempts": 2,
+    "firstFailedAt": "2026-07-09T04:32:14.275Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59455,
@@ -932,8 +1177,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59468,
@@ -945,8 +1190,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59469,
@@ -958,34 +1203,44 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59513,
     "reasons": [
       {
-        "source": "AniList",
-        "message": "AniList returned 404",
-        "status": 404
-      }
-    ],
-    "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
-  },
-  {
-    "id": 59535,
-    "reasons": [
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 59535,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
+        "source": "AniList",
+        "message": "AniList returned 404",
+        "status": 404
+      }
+    ],
+    "attempts": 2,
+    "firstFailedAt": "2026-07-09T04:32:14.275Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59541,
@@ -997,25 +1252,35 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59657,
     "reasons": [
       {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59707,
     "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
@@ -1023,8 +1288,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59774,
@@ -1036,12 +1301,17 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59785,
     "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
@@ -1049,8 +1319,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59789,
@@ -1062,8 +1332,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59795,
@@ -1075,21 +1345,26 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59797,
     "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59874,
@@ -1101,34 +1376,39 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 59890,
     "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
         "status": 404
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 60044,
     "reasons": [
       {
         "source": "Jikan",
-        "message": "Jikan returned invalid JSON (terminated)",
-        "status": 200
+        "message": "Jikan server error (504)",
+        "status": 504
       }
     ],
-    "attempts": 1,
+    "attempts": 2,
     "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 60348,
@@ -1140,8 +1420,34 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 60421,
+    "reasons": [
+      {
+        "source": "Jikan episodes",
+        "message": "Jikan episodes server error (504)",
+        "status": 504
+      }
+    ],
+    "attempts": 1,
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 60495,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      }
+    ],
+    "attempts": 1,
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 60598,
@@ -1153,8 +1459,21 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 60700,
+    "reasons": [
+      {
+        "source": "Jikan episodes",
+        "message": "Jikan episodes server error (504)",
+        "status": 504
+      }
+    ],
+    "attempts": 1,
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 61073,
@@ -1166,8 +1485,21 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 61354,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      }
+    ],
+    "attempts": 1,
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 61495,
@@ -1179,8 +1511,21 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 61538,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      }
+    ],
+    "attempts": 1,
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 61634,
@@ -1192,8 +1537,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 61651,
@@ -1205,8 +1550,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 61652,
@@ -1218,8 +1563,21 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 61656,
+    "reasons": [
+      {
+        "source": "Jikan episodes",
+        "message": "Jikan episodes server error (504)",
+        "status": 504
+      }
+    ],
+    "attempts": 1,
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 61658,
@@ -1231,8 +1589,60 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 61788,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      }
+    ],
+    "attempts": 1,
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 61790,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      }
+    ],
+    "attempts": 1,
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 61816,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      }
+    ],
+    "attempts": 1,
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 61888,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      }
+    ],
+    "attempts": 1,
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 61911,
@@ -1244,12 +1654,17 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 62082,
     "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
       {
         "source": "AniList",
         "message": "AniList returned 404",
@@ -1257,8 +1672,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 62187,
@@ -1270,8 +1685,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 62206,
@@ -1283,8 +1698,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 62234,
@@ -1296,8 +1711,39 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 62373,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      },
+      {
+        "source": "Jikan episodes",
+        "message": "Jikan episodes server error (504)",
+        "status": 504
+      }
+    ],
+    "attempts": 1,
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 62382,
+    "reasons": [
+      {
+        "source": "Jikan episodes",
+        "message": "Jikan episodes server error (504)",
+        "status": 504
+      }
+    ],
+    "attempts": 1,
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 62606,
@@ -1309,8 +1755,21 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 62686,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      }
+    ],
+    "attempts": 1,
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 62722,
@@ -1322,8 +1781,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 62723,
@@ -1335,8 +1794,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 62745,
@@ -1348,8 +1807,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 62748,
@@ -1361,8 +1820,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 62750,
@@ -1374,8 +1833,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 62932,
@@ -1387,8 +1846,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 63021,
@@ -1400,8 +1859,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 63038,
@@ -1413,8 +1872,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 63045,
@@ -1426,8 +1885,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 63121,
@@ -1439,8 +1898,21 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
+  },
+  {
+    "id": 63284,
+    "reasons": [
+      {
+        "source": "Jikan",
+        "message": "Jikan server error (504)",
+        "status": 504
+      }
+    ],
+    "attempts": 1,
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 63325,
@@ -1452,8 +1924,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 63418,
@@ -1465,8 +1937,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 63536,
@@ -1478,8 +1950,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 63697,
@@ -1491,8 +1963,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 63956,
@@ -1504,8 +1976,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 63973,
@@ -1517,8 +1989,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 63998,
@@ -1530,8 +2002,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 64297,
@@ -1543,8 +2015,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 64317,
@@ -1556,8 +2028,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 64348,
@@ -1569,8 +2041,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 64430,
@@ -1582,8 +2054,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 64439,
@@ -1595,8 +2067,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 64462,
@@ -1608,8 +2080,8 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   },
   {
     "id": 64544,
@@ -1621,7 +2093,7 @@
       }
     ],
     "attempts": 1,
-    "firstFailedAt": "2026-07-09T04:32:14.275Z",
-    "lastAttempt": "2026-07-09T04:32:14.275Z"
+    "firstFailedAt": "2026-07-09T22:12:04.251Z",
+    "lastAttempt": "2026-07-09T22:12:04.251Z"
   }
 ]
