@@ -28,8 +28,8 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": 12,
   "episodeLength": 23,
   "aired": {
@@ -49,8 +49,8 @@
   },
   "rating": "PG",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.4,
+    "anilistScore": 7.1,
     "kitsuRating": null
   },
   "genres": [
@@ -64,7 +64,10 @@
   "studios": [
     "Diomedéa"
   ],
-  "producers": [],
+  "producers": [
+    "Kadokawa",
+    "Bit grooove promotion"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1343/156268l.jpg",
     "banner": "https://media.kitsu.app/anime/44021/cover_image/6f3746f415ecbb54b1d2f75f2ae06c1c.png",
@@ -151,7 +154,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-08T04:24:00.567Z",
+    "lastFetched": "2026-07-09T04:25:48.888Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
