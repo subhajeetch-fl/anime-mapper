@@ -29,13 +29,13 @@
   },
   "type": "TV",
   "source": "Other",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 30,
   "episodeLength": 1,
   "aired": {
     "from": "2022-11-11T00:00:00+00:00",
-    "to": null
+    "to": "2026-05-05T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2022,
@@ -47,7 +47,7 @@
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
-    "malScore": 6.65,
+    "malScore": 6.66,
     "anilistScore": 6.2,
     "kitsuRating": null
   },
@@ -595,7 +595,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-30T14:46:23.436Z",
+    "lastFetched": "2026-07-10T13:01:53.448Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",

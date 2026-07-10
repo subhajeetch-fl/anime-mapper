@@ -32,8 +32,8 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": 12,
   "episodeLength": null,
   "aired": {
@@ -53,8 +53,8 @@
   },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.88,
+    "anilistScore": 6.9,
     "kitsuRating": null
   },
   "genres": [
@@ -70,7 +70,11 @@
     "ENGI"
   ],
   "producers": [
-    "Kadokawa"
+    "AT-X",
+    "Magic Capsule",
+    "Sammy",
+    "Kadokawa",
+    "Micro Magazine Publishing"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1285/158337l.jpg",
@@ -157,7 +161,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-09T04:27:35.055Z",
+    "lastFetched": "2026-07-10T13:01:57.712Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
