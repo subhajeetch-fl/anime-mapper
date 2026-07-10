@@ -3,44 +3,51 @@
   "idMal": 63619,
   "mappings": {
     "mal": 63619,
-    "anilist": null,
-    "anidb": null,
+    "anilist": 208685,
+    "anidb": 19927,
     "kitsu": null,
-    "simkl": null,
-    "tmdb": null,
-    "tvdb": null,
+    "simkl": 3174684,
+    "tmdb": 325473,
+    "tvdb": 474990,
     "trakt": null,
     "traktType": null,
     "shikimori": 63619,
-    "livechart": null,
-    "animeplanet": null,
+    "livechart": 13613,
+    "animeplanet": "onaji-semi-no-someya-san-ga-sexy-joyuu-datta-hanashi",
     "anisearch": 21548,
     "notify": null
   },
   "title": {
-    "romaji": "Onaji Semi no Someya-san ga Sexy Joyuu datta Hanashi.",
+    "romaji": "Onaji Zemi no Someya-san ga Sexy Joyuu Datta Hanashi.",
     "english": "My Classmate's a Sexy Actress, and Now We Live Together?!",
     "native": "同じゼミの染谷さんがセクシー女優だった話。",
-    "synonyms": []
+    "synonyms": [
+      "A Story about How Someya-san, a Girl from My College Seminar, Turned out to Be an AV Actress.",
+      "Onaji Zemi no Someya-san ga AV Joyuu Datta Hanashi.",
+      "Someyasan"
+    ]
   },
   "type": "ONA",
   "source": "Web manga",
   "status": "Currently Airing",
   "airing": true,
-  "episodeCount": null,
+  "episodeCount": 8,
   "episodeLength": null,
   "aired": {
     "from": "2026-07-06T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "summer",
+  "year": 2026,
   "broadcast": {
     "day": null,
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 2,
+    "airingAt": 1783872000
+  },
   "rating": "Rx - Hentai",
   "score": {
     "malScore": null,
@@ -48,33 +55,32 @@
     "kitsuRating": null
   },
   "genres": [
-    "Erotica"
+    "Hentai"
   ],
   "studios": [
-    "Studio Hokiboshi"
+    "Studio Hokiboshi",
+    "Studio Houkiboshi"
   ],
   "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1617/157159l.jpg",
     "banner": null,
-    "color": null
+    "color": "#f1c9bb"
   },
   "trailer": null,
   "synopsis": "Ryousuke Kamiya, who notices while watching porn one day that his college classmate Ruuka Someya is starring in the video he is watching. When Ryousuke privately asks Ruuka about it, she tells him that she will have sex with him if he doesn't tell anyone.\n\n(Source: ANN, edited)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-07T04:27:59.391Z",
+    "lastFetched": "2026-07-10T21:49:11.512Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }
