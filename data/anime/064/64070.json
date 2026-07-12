@@ -3,7 +3,7 @@
   "idMal": 64070,
   "mappings": {
     "mal": 64070,
-    "anilist": 211557,
+    "anilist": null,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -21,23 +21,20 @@
     "romaji": "Furachi",
     "english": null,
     "native": "フラチ",
-    "synonyms": [
-      "Outrageous",
-      "Unforgivable"
-    ]
+    "synonyms": []
   },
   "type": "OVA",
   "source": "Manga",
   "status": "Currently Airing",
   "airing": true,
-  "episodeCount": 2,
+  "episodeCount": null,
   "episodeLength": null,
   "aired": {
     "from": "2026-06-26T00:00:00+00:00",
     "to": null
   },
-  "season": "spring",
-  "year": 2026,
+  "season": null,
+  "year": null,
   "broadcast": {
     "day": null,
     "time": null,
@@ -46,8 +43,8 @@
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 7.21,
-    "anilistScore": 6.2,
+    "malScore": 7.2,
+    "anilistScore": null,
     "kitsuRating": null
   },
   "genres": [
@@ -62,22 +59,24 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1960/157146l.jpg",
     "banner": null,
-    "color": "#f1c9ae"
+    "color": null
   },
   "trailer": null,
   "synopsis": null,
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-10T21:51:44.925Z",
+    "lastFetched": "2026-07-12T11:56:06.479Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
-      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
+    ],
     "dataVersion": 1
   }
 }

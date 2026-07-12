@@ -3,7 +3,7 @@
   "idMal": 64292,
   "mappings": {
     "mal": 64292,
-    "anilist": 212574,
+    "anilist": null,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -18,32 +18,29 @@
     "notify": null
   },
   "title": {
-    "romaji": "Pure x Holic: Junketsu Otome to Kon’in Kankei!? The Animation",
+    "romaji": "Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation",
     "english": null,
-    "native": "ピュアホリック ～純潔乙女と婚姻カンケイ！？～ The Animation",
+    "native": "ピュアホリック ～純潔乙女と婚姻カンケイ！？～ THE ANIMATION",
     "synonyms": []
   },
   "type": "OVA",
   "source": "Game",
   "status": "Not yet aired",
   "airing": false,
-  "episodeCount": 2,
+  "episodeCount": null,
   "episodeLength": null,
   "aired": {
     "from": "2026-08-28T00:00:00+00:00",
     "to": null
   },
-  "season": "summer",
-  "year": 2026,
+  "season": null,
+  "year": null,
   "broadcast": {
     "day": null,
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1787842800
-  },
+  "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
     "malScore": null,
@@ -51,8 +48,7 @@
     "kitsuRating": null
   },
   "genres": [
-    "Hentai",
-    "Fantasy"
+    "Hentai"
   ],
   "studios": [
     "Seven"
@@ -63,36 +59,24 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1197/158236l.jpg",
     "banner": null,
-    "color": "#f1bb50"
+    "color": null
   },
   "trailer": null,
   "synopsis": null,
-  "sequence": [
-    {
-      "malId": 49762,
-      "title": {
-        "romaji": "Mama x Holic: Miwaku no Mama to Ama Ama Kankei The Animation",
-        "english": null,
-        "native": "ママホリック～魅惑のママと甘々カンケイ～ The Animation"
-      },
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138411-32pOSnmsh98G.jpg",
-      "format": "OVA",
-      "episodes": 2,
-      "seasonYear": 2021,
-      "relationType": "ALTERNATIVE"
-    }
-  ],
+  "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T04:50:19.345Z",
+    "lastFetched": "2026-07-12T11:56:42.932Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
-      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
+    ],
     "dataVersion": 1
   }
 }

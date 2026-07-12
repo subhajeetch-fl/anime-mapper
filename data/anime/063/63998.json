@@ -3,9 +3,9 @@
   "idMal": 63998,
   "mappings": {
     "mal": 63998,
-    "anilist": 211258,
+    "anilist": null,
     "anidb": 20020,
-    "kitsu": 50682,
+    "kitsu": null,
     "simkl": null,
     "tmdb": 320589,
     "tvdb": null,
@@ -74,7 +74,7 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:06:09.394Z",
+    "lastFetched": "2026-07-12T11:45:23.934Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
@@ -82,7 +82,8 @@
       "zenshin"
     ],
     "missingSources": [
-      "anilist"
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
     ],
     "dataVersion": 1
   }

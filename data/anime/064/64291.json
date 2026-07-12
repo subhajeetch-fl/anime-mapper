@@ -3,7 +3,7 @@
   "idMal": 64291,
   "mappings": {
     "mal": 64291,
-    "anilist": 212575,
+    "anilist": null,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -33,17 +33,14 @@
     "from": "2026-08-28T00:00:00+00:00",
     "to": null
   },
-  "season": "summer",
-  "year": 2026,
+  "season": null,
+  "year": null,
   "broadcast": {
     "day": null,
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1787842800
-  },
+  "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
     "malScore": null,
@@ -53,31 +50,31 @@
   "genres": [
     "Hentai"
   ],
-  "studios": [
-    "Nur"
-  ],
+  "studios": [],
   "producers": [
     "Nur"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1911/158239l.jpg",
     "banner": null,
-    "color": "#f1a15d"
+    "color": null
   },
   "trailer": null,
   "synopsis": null,
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T04:50:17.124Z",
+    "lastFetched": "2026-07-12T11:56:42.032Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
-      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
+    ],
     "dataVersion": 1
   }
 }

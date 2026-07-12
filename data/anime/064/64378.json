@@ -3,22 +3,22 @@
   "idMal": 64378,
   "mappings": {
     "mal": 64378,
-    "anilist": 213506,
+    "anilist": null,
     "anidb": null,
-    "kitsu": 50803,
+    "kitsu": null,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64378,
-    "livechart": 13663,
+    "livechart": null,
     "animeplanet": null,
-    "anisearch": 21736,
+    "anisearch": null,
     "notify": null
   },
   "title": {
-    "romaji": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2",
+    "romaji": "Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2",
     "english": "Elegy for the Henchmen: Fist of the North Star Part 2",
     "native": "北斗の拳 拳王軍ザコたちの挽歌 第2クール",
     "synonyms": [
@@ -59,36 +59,24 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1167/158432l.jpg",
     "banner": null,
-    "color": "#febb50"
+    "color": null
   },
   "trailer": null,
   "synopsis": "Second part of Hokuto no Ken: Kenougun Zako-tachi no Banka.",
-  "sequence": [
-    {
-      "malId": 62987,
-      "title": {
-        "romaji": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka",
-        "english": null,
-        "native": "北斗の拳 拳王軍ザコたちの挽歌"
-      },
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198720-khTq51fpDDUZ.jpg",
-      "format": "TV_SHORT",
-      "episodes": 12,
-      "seasonYear": 2026,
-      "relationType": "PREQUEL"
-    }
-  ],
+  "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-07T04:31:56.169Z",
+    "lastFetched": "2026-07-12T11:57:01.774Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
-      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
+    ],
     "dataVersion": 1
   }
 }

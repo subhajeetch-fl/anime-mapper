@@ -3,7 +3,7 @@
   "idMal": 64373,
   "mappings": {
     "mal": 64373,
-    "anilist": 212617,
+    "anilist": null,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -18,12 +18,10 @@
     "notify": null
   },
   "title": {
-    "romaji": "Inaka ni wa Kore Kurai Shika Goraku ga nai",
+    "romaji": "Inaka ni wa Kore Kurai Shika Goraku ga Nai",
     "english": null,
     "native": "田舎にはこれくらいしか娯楽がない",
-    "synonyms": [
-      "Not Much Else to Do in the Countryside"
-    ]
+    "synonyms": []
   },
   "type": "OVA",
   "source": "Manga",
@@ -35,17 +33,14 @@
     "from": "2026-07-31T00:00:00+00:00",
     "to": null
   },
-  "season": "summer",
-  "year": 2026,
+  "season": null,
+  "year": null,
   "broadcast": {
     "day": null,
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1785423600
-  },
+  "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
     "malScore": null,
@@ -64,22 +59,24 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1865/158417l.jpg",
     "banner": null,
-    "color": "#f15d93"
+    "color": null
   },
   "trailer": null,
   "synopsis": null,
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T04:50:56.708Z",
+    "lastFetched": "2026-07-12T11:56:58.936Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
-      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
+    ],
     "dataVersion": 1
   }
 }

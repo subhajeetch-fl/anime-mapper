@@ -3,7 +3,7 @@
   "idMal": 64404,
   "mappings": {
     "mal": 64404,
-    "anilist": 213066,
+    "anilist": null,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -27,23 +27,20 @@
   "source": "Manga",
   "status": "Not yet aired",
   "airing": false,
-  "episodeCount": 3,
+  "episodeCount": null,
   "episodeLength": null,
   "aired": {
     "from": "2026-09-11T00:00:00+00:00",
     "to": null
   },
-  "season": "summer",
-  "year": 2026,
+  "season": null,
+  "year": null,
   "broadcast": {
     "day": null,
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1789052400
-  },
+  "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
     "malScore": null,
@@ -65,32 +62,20 @@
   },
   "trailer": null,
   "synopsis": null,
-  "sequence": [
-    {
-      "malId": 42031,
-      "title": {
-        "romaji": "Muramata-san no Himitsu",
-        "english": null,
-        "native": "村又さんの秘密"
-      },
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118656-Q0oESm5v9J7X.jpg",
-      "format": "OVA",
-      "episodes": 2,
-      "seasonYear": 2020,
-      "relationType": "PREQUEL"
-    }
-  ],
+  "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-10T04:29:58.583Z",
+    "lastFetched": "2026-07-12T11:57:20.031Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
-      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
+    ],
     "dataVersion": 1
   }
 }
