@@ -3,16 +3,16 @@
   "idMal": 64546,
   "mappings": {
     "mal": 64546,
-    "anilist": 213846,
-    "anidb": 20162,
+    "anilist": null,
+    "anidb": null,
     "kitsu": null,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
-    "shikimori": 64546,
-    "livechart": 13718,
+    "shikimori": null,
+    "livechart": null,
     "animeplanet": null,
     "anisearch": null,
     "notify": null
@@ -20,7 +20,7 @@
   "title": {
     "romaji": "Ore dake Level Up na Ken: Beyond the System",
     "english": "Solo Leveling: Beyond the System",
-    "native": "俺だけレベルアップな件 - Beyond the System -",
+    "native": "劇場版 俺だけレベルアップな件 -Beyond the System-",
     "synonyms": []
   },
   "type": "Movie",
@@ -63,32 +63,20 @@
   },
   "trailer": null,
   "synopsis": "Sequel to  Ore dake Level Up na Ken Season 2: Arise from the Shadow.",
-  "sequence": [
-    {
-      "malId": 58567,
-      "title": {
-        "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
-        "english": "Solo Leveling Season 2 -Arise from the Shadow-",
-        "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
-      },
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176496-9BDMjAZGEbq4.png",
-      "format": "TV",
-      "episodes": 13,
-      "seasonYear": 2025,
-      "relationType": "PREQUEL"
-    }
-  ],
+  "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-10T04:31:48.000Z",
+    "lastFetched": "2026-07-12T21:30:58.883Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
-      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
+    ],
     "dataVersion": 1
   }
 }

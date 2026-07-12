@@ -3,8 +3,8 @@
   "idMal": 64466,
   "mappings": {
     "mal": 64466,
-    "anilist": 213498,
-    "anidb": 20127,
+    "anilist": null,
+    "anidb": null,
     "kitsu": null,
     "simkl": null,
     "tmdb": null,
@@ -12,13 +12,13 @@
     "trakt": null,
     "traktType": null,
     "shikimori": 64466,
-    "livechart": 13687,
+    "livechart": null,
     "animeplanet": null,
     "anisearch": null,
     "notify": null
   },
   "title": {
-    "romaji": "Nabe ni Dangan wo Uke Nagara",
+    "romaji": "Nabe ni Tama wo Ukenagara",
     "english": "Getting Shots on a Frying Pan",
     "native": "鍋に弾丸を受けながら",
     "synonyms": [
@@ -55,29 +55,29 @@
     "Gourmet",
     "Slice of Life"
   ],
-  "studios": [
-    "J.C.STAFF"
-  ],
+  "studios": [],
   "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1103/158697l.jpg",
     "banner": null,
-    "color": "#fec928"
+    "color": null
   },
   "trailer": null,
   "synopsis": "Meet Juntaro, a Japanese fishing addict who was born and raised in what is perceived to be one of the roughest parts of Japan. It is through his lens where you can experience various parts of the world, their culture, and of course their food. He particularly loves to visit countries and cities that are also believed to be highly dangerous due to his personal belief that they will absolutely have delicious food. Because this was intended for a Japanese audience, you will also get to witness various worldviews unique to Japan alongside it all. There's just one problem: he has extreme brainrot and views the world through a cute anime girl filter.\n\n(Source: MU)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:13:45.268Z",
+    "lastFetched": "2026-07-12T21:30:03.470Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
-      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
+    ],
     "dataVersion": 1
   }
 }

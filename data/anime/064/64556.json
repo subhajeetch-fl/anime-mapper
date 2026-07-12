@@ -3,7 +3,7 @@
   "idMal": 64556,
   "mappings": {
     "mal": 64556,
-    "anilist": null,
+    "anilist": 213879,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -11,8 +11,8 @@
     "tvdb": null,
     "trakt": null,
     "traktType": null,
-    "shikimori": null,
-    "livechart": null,
+    "shikimori": 64556,
+    "livechart": 13724,
     "animeplanet": null,
     "anisearch": null,
     "notify": null
@@ -47,7 +47,9 @@
     "anilistScore": null,
     "kitsuRating": null
   },
-  "genres": [],
+  "genres": [
+    "Action"
+  ],
   "studios": [
     "Cannon Code"
   ],
@@ -58,24 +60,22 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1721/158888l.jpg",
     "banner": null,
-    "color": null
+    "color": "#e45028"
   },
   "trailer": null,
   "synopsis": "Tokyo, 2029. Long believed to have vanished after the asteroid impact that caused their extinction, dinosaurs secretly survived by passing their DNA into humanity through interbreeding. Hidden among ordinary people, they now prey upon humans while living unnoticed within society.\n\nStanding against them is a covert order of ninjas who wield Ryugesho, a special pigment infused with ancient memories. By applying this mysterious pigment, they awaken the powers of dinosaurs within themselves and fight back against the predators threatening humanity.\n\nAs the dinosaurs launch their campaign to wipe out humankind, the ninjas rise to stop them. The battle for the survival of two species begins.\n\n(Source: Official website)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-05T06:55:50.771Z",
+    "lastFetched": "2026-07-12T21:31:04.430Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

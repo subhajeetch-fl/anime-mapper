@@ -3,8 +3,8 @@
   "idMal": 64553,
   "mappings": {
     "mal": 64553,
-    "anilist": 213860,
-    "anidb": 20167,
+    "anilist": null,
+    "anidb": null,
     "kitsu": null,
     "simkl": null,
     "tmdb": null,
@@ -18,13 +18,12 @@
     "notify": null
   },
   "title": {
-    "romaji": "Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life 2nd Season",
+    "romaji": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life 2nd Season",
     "english": "Chillin' in Another World with Level 2 Super Cheat Powers Season 2",
     "native": "Lv2からチートだった元勇者候補のまったり異世界ライフ 第2期",
     "synonyms": [
       "The Laid-back Life in Another World of the Ex-Hero Candidate Who Turned out to be a Cheat from Level 2",
-      "Chillin Different World Life of the Ex-Brave Candidate was Cheat from Lv2",
-      "Chillin' in Another World with Level 2 Super Cheat Powers Season 2"
+      "Chillin Different World Life of the Ex-Brave Candidate was Cheat from Lv2"
     ]
   },
   "type": "TV",
@@ -61,36 +60,24 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1503/158878l.jpg",
     "banner": null,
-    "color": "#f1865d"
+    "color": null
   },
   "trailer": null,
   "synopsis": "Second season of Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life.",
-  "sequence": [
-    {
-      "malId": 56923,
-      "title": {
-        "romaji": "Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life",
-        "english": "Chillin' in Another World with Level 2 Super Cheat Powers",
-        "native": "Lv2からチートだった元勇者候補のまったり異世界ライフ"
-      },
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170130-tvhn13WYQ2qM.jpg",
-      "format": "TV",
-      "episodes": 12,
-      "seasonYear": 2024,
-      "relationType": "PREQUEL"
-    }
-  ],
+  "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T14:24:46.913Z",
+    "lastFetched": "2026-07-12T21:31:01.664Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
-      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
+    ],
     "dataVersion": 1
   }
 }

@@ -3,9 +3,9 @@
   "idMal": 64481,
   "mappings": {
     "mal": 64481,
-    "anilist": 213580,
+    "anilist": null,
     "anidb": null,
-    "kitsu": 50814,
+    "kitsu": null,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
@@ -13,17 +13,15 @@
     "traktType": null,
     "shikimori": 64481,
     "livechart": 13693,
-    "animeplanet": "record-of-ragnarok-iv",
-    "anisearch": null,
+    "animeplanet": null,
+    "anisearch": 21754,
     "notify": null
   },
   "title": {
-    "romaji": "Shuumatsu no Valkyrie IV",
+    "romaji": "Shuumatsu no Walküre IV",
     "english": "Record of Ragnarok IV",
-    "native": "終末のワルキューレⅣ",
-    "synonyms": [
-      "Record of Ragnarok Season 4"
-    ]
+    "native": "終末のワルキューレIV",
+    "synonyms": []
   },
   "type": null,
   "source": "Manga",
@@ -53,8 +51,8 @@
     "Action",
     "Drama",
     "Fantasy",
-    "Supernatural",
-    "Seinen"
+    "Seinen",
+    "Supernatural"
   ],
   "studios": [],
   "producers": [
@@ -67,32 +65,20 @@
   },
   "trailer": null,
   "synopsis": "Fourth season of Shuumatsu no Walküre.",
-  "sequence": [
-    {
-      "malId": 61200,
-      "title": {
-        "romaji": "Shuumatsu no Valkyrie III",
-        "english": "Record of Ragnarok III",
-        "native": "終末のワルキューレ III"
-      },
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187921-jHCMGThdJtS6.jpg",
-      "format": "ONA",
-      "episodes": 15,
-      "seasonYear": 2025,
-      "relationType": "PREQUEL"
-    }
-  ],
+  "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-11T21:34:41.966Z",
+    "lastFetched": "2026-07-12T21:30:07.874Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
-      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
+    ],
     "dataVersion": 1
   }
 }

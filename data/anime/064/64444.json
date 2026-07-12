@@ -3,7 +3,7 @@
   "idMal": 64444,
   "mappings": {
     "mal": 64444,
-    "anilist": 213874,
+    "anilist": null,
     "anidb": null,
     "kitsu": 50788,
     "simkl": null,
@@ -66,22 +66,24 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1711/158589l.jpg",
     "banner": null,
-    "color": "#e4ae5d"
+    "color": null
   },
   "trailer": null,
   "synopsis": "The story tells of how the protagonist, Su Ming, suffers a sudden upheaval in his hometown and embarks on a journey of cultivation, seeking enlightenment and love on a strange continent, fighting against fate in order to find his way home.\n\n(Source: Tencent, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T04:51:49.386Z",
+    "lastFetched": "2026-07-12T21:29:32.012Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
-      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "anilist (not in ID mappings)",
+      "episodes (no data from Zenshin or Jikan)"
+    ],
     "dataVersion": 1
   }
 }
