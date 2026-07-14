@@ -27,8 +27,8 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
@@ -46,9 +46,9 @@
     "episode": 2,
     "airingAt": 1784394000
   },
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 7.07,
     "anilistScore": 6.6,
     "kitsuRating": null
   },
@@ -63,7 +63,10 @@
   ],
   "producers": [
     "Pony Canyon",
-    "Studio Mausu"
+    "Studio Mausu",
+    "Crunchyroll",
+    "ABC Animation",
+    "BS NTV"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1944/156331l.jpg",
@@ -136,7 +139,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-13T04:11:10.669Z",
+    "lastFetched": "2026-07-14T21:50:09.701Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
