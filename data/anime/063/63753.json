@@ -36,14 +36,17 @@
     "from": "2026-01-01T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "fall",
+  "year": 2026,
   "broadcast": {
     "day": null,
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1791126000
+  },
   "rating": null,
   "score": {
     "malScore": null,
@@ -55,21 +58,23 @@
     "Fantasy",
     "Romance"
   ],
-  "studios": [],
+  "studios": [
+    "Studio DEEN"
+  ],
   "producers": [
     "NBCUniversal Entertainment Japan"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1559/156153l.jpg",
     "banner": null,
-    "color": "#fe6b28"
+    "color": "#f1f135"
   },
   "trailer": null,
   "synopsis": "Noriko Tachiki has dreamt of a beautiful fantasy land for some time, though her friends think it is only her imagination. One day, on her way home, Noriko stumbles upon a bomb disguised as a paper bag that explodes right in front of her. However, instead of dying, she is transported to a mysterious forest full of strange plants and creatures.\n\nAs she begins navigating through the woods, Noriko is suddenly attacked by a giant, worm-like monster. Fortunately, she is saved by Izark Kia Tarj, a swordsman who does not speak her language. Lacking the strength to survive on her own, Noriko decides to follow her stoic savior, taking the opportunity to learn the foreign land's language and be more useful to Izark.\n\nUnbeknownst to her, Noriko is a crucial piece of an ancient prophecy. She is \"The Awakening\"—a being destined to unleash the greatest evil known as the \"Sky Demon.\" With influential people plotting to capture Noriko for her supposed powers, both she and Izark must fend for themselves and overcome a future laced with chaos.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:02:52.108Z",
+    "lastFetched": "2026-07-15T03:34:50.130Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
