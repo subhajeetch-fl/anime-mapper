@@ -19,16 +19,16 @@
   },
   "title": {
     "romaji": "Thunder 3",
-    "english": null,
-    "native": "サンダー3",
+    "english": "Thunder 3",
+    "native": "サンダー３",
     "synonyms": [
       "Thunder Three"
     ]
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
@@ -42,44 +42,61 @@
     "time": "00:45",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 3,
+    "airingAt": 1784735040
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.17,
+    "anilistScore": 5.1,
     "kitsuRating": null
   },
   "genres": [
     "Mystery",
     "Sci-Fi",
     "Supernatural",
+    "Adventure",
+    "Drama",
     "Science Fiction",
     "Shounen"
   ],
-  "studios": [],
+  "studios": [
+    "Unend"
+  ],
   "producers": [
-    "Fuji TV"
+    "Animax",
+    "Kodansha",
+    "Fuji TV",
+    "KlockWorx",
+    "Slow Curve",
+    "Fujipacific Music",
+    "BS Fuji",
+    "Glovision",
+    "Kansai TV",
+    "Hakuhodo",
+    "NewGin",
+    "arma bianca"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1338/155283l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1084/158946l.jpg",
     "banner": null,
-    "color": null
+    "color": "#1a93e4"
   },
   "trailer": null,
   "synopsis": "Three ordinary schoolboys come into possession of a DVD that supposedly opens a gateway to a parallel universe, but when their backs are turned Pyontarou's little sister Futaba passes through and gets kidnapped by the aliens that have overrun that version of Earth! Discovering that their cartoonish bodies make them supermen in the hyper-realistic parallel universe, the boys set out to rescue Futaba.\n\n(Source: Kodansha USA)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T06:55:43.638Z",
+    "lastFetched": "2026-07-15T21:42:16.663Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }
