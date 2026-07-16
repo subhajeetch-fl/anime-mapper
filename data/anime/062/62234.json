@@ -18,12 +18,13 @@
     "notify": null
   },
   "title": {
-    "romaji": "Zhan Shen: Fanchen Shenyu II",
-    "english": null,
+    "romaji": "Zhan Shen: Fanchen Shen Yu 2",
+    "english": "Slay The Gods 2",
     "native": "斩神之凡尘神域 第2季",
     "synonyms": [
-      "Zhan Shen: Fanchen Shenyu 2nd Season",
       "Slay The Gods 2nd Season",
+      "斩神之凡尘神域 第2季",
+      "Zhan Shen: Fanchen Shenyu 2nd Season",
       "I Learn To Kill Gods in an Asylum",
       "Wo Zai Jingshenbing Yuan Xue Zhan Shen",
       "我在精神病院学斩神"
@@ -68,23 +69,36 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1456/153408l.jpg",
     "banner": null,
-    "color": null
+    "color": "#931a0d"
   },
   "trailer": null,
-  "synopsis": "After the Cangnan crisis was resolved, Lin Qiye completed the year-long Night Watchman training and assessment at Jinnan Mountain and became a formal Night Watchman. He then returned to Squad 136 and, together with his partners, embarked on a new battle against the Church of the Ancient Gods... A new Western evil god made his debut, and the pinnacle of humanity gathered in Cangnan, where a massive storm of disaster was quietly brewing.\n\n(Source: Tencent, translated)",
-  "sequence": [],
+  "synopsis": "After the crisis in Cangnan was resolved, Lin Qiye completed a one-year Night Watcher training and assessment at Jinnan Mountain, officially becoming a Night Watcher. He then returned to Team 136 and, together with his teammates, began a new battle against the Ancient God Church… New evil gods from the West appear, humanity’s strongest fighters gather in Cangnan, and a massive disaster is quietly taking shape.\n\n(Source: WeTV)",
+  "sequence": [
+    {
+      "malId": 59306,
+      "title": {
+        "romaji": "Zhan Shen: Fanchen Shen Yu",
+        "english": "Slay The Gods",
+        "native": "斩神之凡尘神域"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168105-NH0EUR2yHH3M.png",
+      "format": "ONA",
+      "episodes": 15,
+      "seasonYear": null,
+      "relationType": "PREQUEL"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:49:59.360Z",
+    "lastFetched": "2026-07-16T12:16:20.873Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }
