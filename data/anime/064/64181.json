@@ -43,7 +43,10 @@
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 5,
+    "airingAt": 1784682000
+  },
   "rating": "PG - Children",
   "score": {
     "malScore": null,
@@ -84,7 +87,7 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-15T03:36:57.812Z",
+    "lastFetched": "2026-07-16T03:54:52.631Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
