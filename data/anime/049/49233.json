@@ -53,7 +53,7 @@
   "score": {
     "malScore": 8.45,
     "anilistScore": 8.2,
-    "kitsuRating": 8.02
+    "kitsuRating": 8.04
   },
   "genres": [
     "Action",
@@ -116,7 +116,7 @@
       "length": "25m",
       "airDate": "2026-07-08",
       "title": {
-        "en": "Episode 1"
+        "en": "Salamander Combat Team"
       },
       "tvdbShowId": 315500,
       "tvdbId": 8498902,
@@ -124,22 +124,22 @@
       "episodeNumber": 1,
       "absoluteEpisodeNumber": 15,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8498902/screencap/6a4e425cc56c1.jpg"
     },
     "2": {
       "episode": "2",
       "length": "25m",
       "airDate": "2026-07-15",
       "title": {
-        "en": "Episode 2"
+        "en": "A Strange Friendship"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 315500,
+      "tvdbId": 11876778,
+      "seasonNumber": 2,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876778/screencap/6a50cabc97b17.jpg"
     },
     "3": {
       "episode": "3",
@@ -148,13 +148,13 @@
       "title": {
         "en": "Episode 3"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 315500,
+      "tvdbId": 11876779,
+      "seasonNumber": 2,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876779/screencap/6a5a239e005c7.jpg"
     },
     "4": {
       "episode": "4",
@@ -163,10 +163,100 @@
       "title": {
         "en": "Episode 4"
       },
+      "tvdbShowId": 315500,
+      "tvdbId": 11876780,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": "2026-08-05",
+      "title": {
+        "en": "Episode 5"
+      },
+      "tvdbShowId": 315500,
+      "tvdbId": 11876781,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": "2026-08-12",
+      "title": {
+        "en": "Episode 6"
+      },
+      "tvdbShowId": 315500,
+      "tvdbId": 11876782,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": "2026-08-19",
+      "title": {
+        "en": "Episode 7"
+      },
+      "tvdbShowId": 315500,
+      "tvdbId": 11876783,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "25m",
+      "airDate": "2026-08-26",
+      "title": {
+        "en": "Episode 8"
+      },
+      "tvdbShowId": 315500,
+      "tvdbId": 11876784,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": null
+    },
+    "C1": {
+      "episode": "C1",
+      "length": "2m",
+      "airDate": "2026-07-15",
+      "title": {
+        "en": "Opening"
+      },
       "tvdbShowId": null,
       "tvdbId": null,
       "seasonNumber": null,
-      "episodeNumber": 4,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C2": {
+      "episode": "C2",
+      "length": "2m",
+      "airDate": "2026-07-15",
+      "title": {
+        "en": "Ending"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null
@@ -203,7 +293,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-17T04:00:38.302Z",
+    "lastFetched": "2026-07-17T21:50:23.555Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
