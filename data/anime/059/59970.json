@@ -47,8 +47,8 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 15,
-    "airingAt": 1784296800
+    "episode": 16,
+    "airingAt": 1784901600
   },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -303,7 +303,7 @@
       "length": "25m",
       "airDate": "2026-07-10",
       "title": {
-        "en": "Black Numbers"
+        "en": "The Black Numbers"
       },
       "tvdbShowId": 352408,
       "tvdbId": 11696742,
@@ -311,14 +311,14 @@
       "episodeNumber": 14,
       "absoluteEpisodeNumber": 86,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696742/screencap/6a50306197727.jpg"
     },
     "15": {
       "episode": "15",
       "length": "25m",
       "airDate": "2026-07-17",
       "title": {
-        "en": "Episode 15"
+        "en": "An Unsettling Feeling"
       },
       "tvdbShowId": 352408,
       "tvdbId": 11696744,
@@ -326,20 +326,80 @@
       "episodeNumber": 15,
       "absoluteEpisodeNumber": 87,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696744/screencap/6a55acfacf3f0.jpg"
     },
     "16": {
       "episode": "16",
       "length": "25m",
       "airDate": "2026-07-24",
       "title": {
-        "en": "Episode 16"
+        "en": "Gran, the Hero of Dawn"
       },
       "tvdbShowId": 352408,
       "tvdbId": 11696745,
       "seasonNumber": 4,
       "episodeNumber": 16,
       "absoluteEpisodeNumber": 88,
+      "runtime": 24,
+      "image": null
+    },
+    "17": {
+      "episode": "17",
+      "length": "25m",
+      "airDate": "2026-07-31",
+      "title": {
+        "en": "Episode 17"
+      },
+      "tvdbShowId": 352408,
+      "tvdbId": 11696747,
+      "seasonNumber": 4,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 89,
+      "runtime": 24,
+      "image": null
+    },
+    "18": {
+      "episode": "18",
+      "length": "25m",
+      "airDate": "2026-08-07",
+      "title": {
+        "en": "Episode 18"
+      },
+      "tvdbShowId": 352408,
+      "tvdbId": 11696750,
+      "seasonNumber": 4,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 90,
+      "runtime": 24,
+      "image": null
+    },
+    "19": {
+      "episode": "19",
+      "length": "25m",
+      "airDate": "2026-08-14",
+      "title": {
+        "en": "Episode 19"
+      },
+      "tvdbShowId": 352408,
+      "tvdbId": 11696752,
+      "seasonNumber": 4,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 91,
+      "runtime": 24,
+      "image": null
+    },
+    "20": {
+      "episode": "20",
+      "length": "25m",
+      "airDate": "2026-08-21",
+      "title": {
+        "en": "Episode 20"
+      },
+      "tvdbShowId": 352408,
+      "tvdbId": 11696754,
+      "seasonNumber": 4,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 92,
       "runtime": 24,
       "image": null
     },
@@ -358,12 +418,12 @@
       "runtime": null,
       "image": null
     },
-    "C1": {
-      "episode": "C1",
+    "OP1": {
+      "episode": "OP1",
       "length": "2m",
       "airDate": "2026-04-03",
       "title": {
-        "en": "Opening"
+        "en": "Esoragoto (1-12)"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -376,9 +436,39 @@
     "C2": {
       "episode": "C2",
       "length": "2m",
+      "airDate": "2026-07-03",
+      "title": {
+        "en": "Opening 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "ED1": {
+      "episode": "ED1",
+      "length": "2m",
       "airDate": "2026-04-03",
       "title": {
-        "en": "Ending"
+        "en": "Katsubou (1-10)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C4": {
+      "episode": "C4",
+      "length": "2m",
+      "airDate": "2026-07-03",
+      "title": {
+        "en": "Ending 2"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -390,7 +480,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-17T04:05:21.176Z",
+    "lastFetched": "2026-07-18T03:39:03.415Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",

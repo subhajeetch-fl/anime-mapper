@@ -341,66 +341,6 @@
       "runtime": 24,
       "image": null
     },
-    "16": {
-      "episode": "16",
-      "length": "25m",
-      "airDate": "2026-09-09",
-      "title": {
-        "en": "Episode 16"
-      },
-      "tvdbShowId": 305089,
-      "tvdbId": 11714318,
-      "seasonNumber": 4,
-      "episodeNumber": 16,
-      "absoluteEpisodeNumber": 82,
-      "runtime": 24,
-      "image": null
-    },
-    "17": {
-      "episode": "17",
-      "length": "25m",
-      "airDate": "2026-09-16",
-      "title": {
-        "en": "Episode 17"
-      },
-      "tvdbShowId": 305089,
-      "tvdbId": 11714319,
-      "seasonNumber": 4,
-      "episodeNumber": 17,
-      "absoluteEpisodeNumber": 83,
-      "runtime": 24,
-      "image": null
-    },
-    "18": {
-      "episode": "18",
-      "length": "25m",
-      "airDate": "2026-09-23",
-      "title": {
-        "en": "Episode 18"
-      },
-      "tvdbShowId": 305089,
-      "tvdbId": 11714320,
-      "seasonNumber": 4,
-      "episodeNumber": 18,
-      "absoluteEpisodeNumber": 84,
-      "runtime": 24,
-      "image": null
-    },
-    "19": {
-      "episode": "19",
-      "length": "25m",
-      "airDate": "2026-09-30",
-      "title": {
-        "en": "Episode 19"
-      },
-      "tvdbShowId": 305089,
-      "tvdbId": 11714321,
-      "seasonNumber": 4,
-      "episodeNumber": 19,
-      "absoluteEpisodeNumber": 85,
-      "runtime": 24,
-      "image": null
-    },
     "S1": {
       "episode": "S1",
       "length": "3m",
@@ -583,10 +523,40 @@
     },
     "S21": {
       "episode": "S21",
-      "length": "30m",
+      "length": "25m",
       "airDate": "2026-07-01",
       "title": {
         "en": "Episode S21"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C1": {
+      "episode": "C1",
+      "length": "2m",
+      "airDate": "2026-04-15",
+      "title": {
+        "en": "Opening"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "C2": {
+      "episode": "C2",
+      "length": "2m",
+      "airDate": "2026-04-22",
+      "title": {
+        "en": "Ending"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -673,7 +643,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-17T12:05:12.803Z",
+    "lastFetched": "2026-07-18T03:41:44.046Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
