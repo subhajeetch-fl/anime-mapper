@@ -44,7 +44,10 @@
     "time": "09:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 40,
+    "airingAt": 1785024000
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": 7.13,
@@ -813,7 +816,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-19T04:10:36.514Z",
+    "lastFetched": "2026-07-20T04:21:16.051Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
