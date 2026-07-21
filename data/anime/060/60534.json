@@ -23,30 +23,26 @@
     "native": "コウペンちゃん",
     "synonyms": []
   },
-  "type": "TV",
-  "source": "Original",
+  "type": "TV_SHORT",
+  "source": null,
   "status": "Currently Airing",
-  "airing": true,
+  "airing": false,
   "episodeCount": null,
   "episodeLength": 1,
   "aired": {
-    "from": "2025-04-06T00:00:00+00:00",
+    "from": "2025-04-06",
     "to": null
   },
   "season": "spring",
   "year": 2025,
-  "broadcast": {
-    "day": "Sundays",
-    "time": "08:00",
-    "timezone": "Asia/Tokyo"
-  },
+  "broadcast": null,
   "nextAiringEpisode": {
     "episode": 69,
     "airingAt": 1785020400
   },
-  "rating": "G - All Ages",
+  "rating": "G",
   "score": {
-    "malScore": 7.56,
+    "malScore": null,
     "anilistScore": 6.9,
     "kitsuRating": null
   },
@@ -57,16 +53,14 @@
   "studios": [
     "Lesprit"
   ],
-  "producers": [
-    "Stay Luck"
-  ],
+  "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1533/146981l.jpg",
+    "poster": "https://media.kitsu.app/anime/49842/poster_image/021aaa833252e046aab79b8d4ed9054c.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185646-69FyAu3rfhEC.jpg",
     "color": "#aed643"
   },
   "trailer": null,
-  "synopsis": "A baby emperor penguin, Koupen-chan, always makes sure everyone feels included. As it meets its newest friend, Koupen-chan wishes to spend as much time as possible with them and brighten up their day.\n\n[Written by MAL Rewrite]",
+  "synopsis": "Follows the everyday adventures of Koupen-chan and their friends as they enjoy the little things in life.\n\n(Source: Crunchyroll)",
   "sequence": [
     {
       "malId": 38658,
@@ -1403,7 +1397,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-19T21:46:27.819Z",
+    "lastFetched": "2026-07-21T21:59:18.885Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
