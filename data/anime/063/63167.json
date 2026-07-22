@@ -32,20 +32,23 @@
   "source": "Original",
   "status": "Not yet aired",
   "airing": false,
-  "episodeCount": null,
+  "episodeCount": 1,
   "episodeLength": null,
   "aired": {
     "from": "2026-11-13T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "fall",
+  "year": 2026,
   "broadcast": {
     "day": null,
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1794495600
+  },
   "rating": null,
   "score": {
     "malScore": null,
@@ -65,7 +68,7 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1006/156292l.jpg",
     "banner": null,
-    "color": "#f1c943"
+    "color": "#5dc9f1"
   },
   "trailer": null,
   "synopsis": "A new original video anime for Mahou no Princess Minky Momo.",
@@ -86,7 +89,7 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T06:50:47.747Z",
+    "lastFetched": "2026-07-22T04:02:20.363Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
