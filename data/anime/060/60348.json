@@ -18,9 +18,9 @@
     "notify": null
   },
   "title": {
-    "romaji": "Disney Twisted-Wonderland The Animation: Episode of Savanaclaw",
+    "romaji": "Disney Twisted-Wonderland: THE ANIMATION - Season 2: EPISODE of SAVANACLAW",
     "english": null,
-    "native": "ディズニー ツイステッドワンダーランド ザ アニメーション エピソード オブ サバナクロー",
+    "native": "ディズニー ツイステッドワンダーランド ザ アニメーション シーズン2「エピソード オブ サバナクロー」",
     "synonyms": []
   },
   "type": "ONA",
@@ -33,8 +33,8 @@
     "from": null,
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "winter",
+  "year": 2027,
   "broadcast": {
     "day": null,
     "time": null,
@@ -48,30 +48,47 @@
     "kitsuRating": null
   },
   "genres": [
-    "Fantasy"
+    "Fantasy",
+    "Adventure"
   ],
-  "studios": [],
+  "studios": [
+    "Yumeta Company",
+    "Graphinica"
+  ],
   "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1428/146593l.jpg",
     "banner": null,
-    "color": null
+    "color": "#e4c928"
   },
   "trailer": null,
   "synopsis": "One day, high school student Yuuka \"Yuu\" Hirasaka finds herself transported to the world of Twisted Wonderland after a black carriage crashes into her. Though she hopes to return home to Tochigi in Japan, the magicless judo practitioner ends up enrolling in the prestigious magic academy Night Raven College.\n\nAs Yuu acclimates to her new life, the annual interdorm Spelldrive tournament at the school is set to begin. The team-based game tests the physical and magical strength of each dorm's seven best athletes, all while being broadcast throughout the magical world. For the past two years, the Diasomnia dorm has crushed the competition thanks solely to their powerful housewarden, Malleus Draconia.\n\nAmidst the excitement, a series of incidents across campus befalling the top Spelldrive players from all dorms is rendering them unable to compete. Concerned that these are no mere accidents, the headmage of the academy tasks Yuu and her dormmate Grim to investigate. While the pair dives deeper into the matter, one housewarden in particular is determined to defeat Diasomnia—even if he must use underhanded methods to do so.\n\n[Written by MAL Rewrite]",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 50139,
+      "title": {
+        "romaji": "Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL",
+        "english": "Disney Twisted-Wonderland: The Animation",
+        "native": "ディズニー ツイステッドワンダーランド ザ アニメーション シーズン1「エピソード オブ ハーツラビュル」"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140291-RAwYjwC9vWDR.png",
+      "format": "ONA",
+      "episodes": 8,
+      "seasonYear": 2025,
+      "relationType": "PREQUEL"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:04:15.574Z",
+    "lastFetched": "2026-07-29T21:32:29.856Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

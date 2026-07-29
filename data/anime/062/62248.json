@@ -24,14 +24,15 @@
     "synonyms": [
       "AWE",
       "A Will Eternal 4",
-      "一念永恒 第4季"
+      "一念永恒 第4季",
+      "一念永恒 完结季"
     ]
   },
   "type": "ONA",
   "source": "Web novel",
   "status": "Not yet aired",
   "airing": false,
-  "episodeCount": null,
+  "episodeCount": 46,
   "episodeLength": null,
   "aired": {
     "from": "2026-07-22T00:00:00+00:00",
@@ -44,7 +45,10 @@
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 5,
+    "airingAt": 1785895200
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
@@ -89,7 +93,7 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-21T22:04:15.424Z",
+    "lastFetched": "2026-07-29T21:54:41.301Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
