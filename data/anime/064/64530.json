@@ -3,7 +3,7 @@
   "idMal": 64530,
   "mappings": {
     "mal": 64530,
-    "anilist": null,
+    "anilist": 213732,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -18,7 +18,7 @@
     "notify": null
   },
   "title": {
-    "romaji": "Mujikaku na Osananajimi to Kyoumi Honi de Yattemitara The Animation",
+    "romaji": "Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara THE ANIMATION",
     "english": null,
     "native": "無自覚な幼馴染と興味本位でヤってみたら THE ANIMATION",
     "synonyms": []
@@ -33,14 +33,17 @@
     "from": "2026-09-25T00:00:00+00:00",
     "to": "2026-10-30T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
+  "season": "summer",
+  "year": 2026,
   "broadcast": {
     "day": null,
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1790262000
+  },
   "rating": "Rx - Hentai",
   "score": {
     "malScore": null,
@@ -59,24 +62,22 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1265/158825l.jpg",
     "banner": null,
-    "color": null
+    "color": "#d61a43"
   },
   "trailer": null,
   "synopsis": null,
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-12T21:30:41.398Z",
+    "lastFetched": "2026-07-31T12:47:05.109Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

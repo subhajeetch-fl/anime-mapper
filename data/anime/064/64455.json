@@ -3,7 +3,7 @@
   "idMal": 64455,
   "mappings": {
     "mal": 64455,
-    "anilist": null,
+    "anilist": 214259,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -18,19 +18,20 @@
     "notify": null
   },
   "title": {
-    "romaji": "Yao Shen Ji 10th Season",
+    "romaji": "Yao Shen Ji 10",
     "english": "Tales of Demon and God 10th Season",
     "native": "妖神记 第十季",
     "synonyms": [
       "妖神记 第10季",
-      "Tales of Demons and Gods 10th Season"
+      "Tales of Demons and Gods 10th Season",
+      "Tales of Demons and Gods Season 10"
     ]
   },
   "type": "ONA",
   "source": "Web novel",
   "status": "Not yet aired",
   "airing": false,
-  "episodeCount": null,
+  "episodeCount": 52,
   "episodeLength": null,
   "aired": {
     "from": null,
@@ -66,24 +67,36 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1170/158631l.jpg",
     "banner": null,
-    "color": null
+    "color": "#e4a150"
   },
   "trailer": null,
   "synopsis": "Nie Li travels to the Demon God Sect, makes new friends, embarks on a new journey, and vows to overthrow the Holy Emperor and protect the City of Glory!\n\n(Source: Tencent Weibo Account)",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 62026,
+      "title": {
+        "romaji": "Yao Shen Ji 9",
+        "english": null,
+        "native": "妖神记 第9季"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195916-pYvupya4Eckd.jpg",
+      "format": "ONA",
+      "episodes": 52,
+      "seasonYear": null,
+      "relationType": "PREQUEL"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:13:16.960Z",
+    "lastFetched": "2026-07-31T12:46:12.257Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }
