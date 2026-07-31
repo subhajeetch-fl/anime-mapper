@@ -3,19 +3,19 @@
   "idMal": 61469,
   "mappings": {
     "mal": 61469,
-    "anilist": 190327,
-    "anidb": 19287,
-    "kitsu": 49847,
-    "simkl": 2754038,
+    "anilist": 210482,
+    "anidb": null,
+    "kitsu": null,
+    "simkl": null,
     "tmdb": 45790,
     "tvdb": 262954,
     "trakt": 45537,
     "traktType": "shows",
     "shikimori": 61469,
-    "livechart": 13139,
-    "animeplanet": "jojos-bizarre-adventure-steel-ball-run-1st-stage",
-    "anisearch": 20466,
-    "notify": "YqDKq41NR"
+    "livechart": null,
+    "animeplanet": null,
+    "anisearch": null,
+    "notify": null
   },
   "title": {
     "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 1st STAGE",
@@ -112,70 +112,9 @@
       "relationType": "SEQUEL"
     }
   ],
-  "episodes": {
-    "1": {
-      "episode": "1",
-      "length": "50m",
-      "airDate": "2026-03-19",
-      "title": {
-        "en": "Steel Ball Run"
-      },
-      "tvdbShowId": 262954,
-      "tvdbId": 11104777,
-      "seasonNumber": 6,
-      "episodeNumber": 1,
-      "absoluteEpisodeNumber": 191,
-      "runtime": 49,
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/11104777/screencap/69bc2f454350c.jpg"
-    },
-    "2": {
-      "episode": "2",
-      "length": "25m",
-      "airDate": "2026-09-25",
-      "title": {
-        "en": "Episode 2"
-      },
-      "tvdbShowId": 262954,
-      "tvdbId": 11871657,
-      "seasonNumber": 6,
-      "episodeNumber": 2,
-      "absoluteEpisodeNumber": 0,
-      "runtime": null,
-      "image": null
-    },
-    "3": {
-      "episode": "3",
-      "length": "25m",
-      "airDate": "2026-10-02",
-      "title": {
-        "en": "Episode 3"
-      },
-      "tvdbShowId": 262954,
-      "tvdbId": 11872174,
-      "seasonNumber": 6,
-      "episodeNumber": 3,
-      "absoluteEpisodeNumber": 0,
-      "runtime": null,
-      "image": null
-    },
-    "4": {
-      "episode": "4",
-      "length": "25m",
-      "airDate": "2026-10-09",
-      "title": {
-        "en": "Episode 4"
-      },
-      "tvdbShowId": 262954,
-      "tvdbId": 11872175,
-      "seasonNumber": 6,
-      "episodeNumber": 4,
-      "absoluteEpisodeNumber": 0,
-      "runtime": null,
-      "image": null
-    }
-  },
+  "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-29T21:51:57.720Z",
+    "lastFetched": "2026-07-31T21:55:33.632Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",

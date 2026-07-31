@@ -45,7 +45,10 @@
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1791118800
+  },
   "rating": null,
   "score": {
     "malScore": null,
@@ -67,14 +70,14 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1842/153411l.jpg",
     "banner": null,
-    "color": "#f1c950"
+    "color": "#f1ae35"
   },
   "trailer": null,
   "synopsis": "Mitsutaka Oji is a 40-year-old, handsome office worker that is admired by his colleagues. Of course, he has a secret he is trying to hide from everyone: he loves cute things. But with his nephew going to his apartment, Mitsutaka's secret is now in danger!\n\n(Source: MU)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:06:37.631Z",
+    "lastFetched": "2026-07-31T22:01:57.033Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",

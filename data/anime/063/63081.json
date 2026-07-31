@@ -3,7 +3,7 @@
   "idMal": 63081,
   "mappings": {
     "mal": 63081,
-    "anilist": null,
+    "anilist": 213465,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -18,10 +18,12 @@
     "notify": null
   },
   "title": {
-    "romaji": "Saijaku na Boku wa \"Kabenuke Bug\" de Nariagaru",
+    "romaji": "Saijaku na Boku wa \"Kabenuke Bug\" de Nariagaru: Kabe wo Surinuketara Shokai Clear Houshuu wo Mugen Kaishuu Dekimashita!",
     "english": null,
-    "native": "最弱な僕は〈壁抜けバグ〉で成り上がる",
-    "synonyms": []
+    "native": "最弱な僕は＜壁抜けバグ＞で成り上がる ～壁をすり抜けたら、初回クリア報酬を無限回収できました！～",
+    "synonyms": [
+      "I, The Weakest Player, Will Rise to the Top Using a \"Wall-Clipping Glitch\" – By Clipping Through Walls, I Earned the First-Time Clear Reward Infinite Times!"
+    ]
   },
   "type": "TV",
   "source": "Light novel",
@@ -57,24 +59,22 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1495/154134l.jpg",
     "banner": null,
-    "color": null
+    "color": "#aee4f1"
   },
   "trailer": null,
   "synopsis": "The series follows Henri Cleats, an adventurer who only has a single skill: Evasion. Wanting to take care of his sickly younger sister Colette, he joins a party. However, due to weak attack power and lack of skills, he is expelled from this party. However, it turns out that his evasion skill comes with a bonus: he is able to pass through walls and reach the end of dungeons without defeating the boss. Thus, he is able to claim a dungeon's First Clear bonus more than once. With his newfound knowledge, Henri sets out to clear as many dungeons as he can while also leveling up his power.\n\n(Source: Wikipedia)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T06:49:08.860Z",
+    "lastFetched": "2026-07-31T22:03:07.380Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

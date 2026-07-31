@@ -3,7 +3,7 @@
   "idMal": 62727,
   "mappings": {
     "mal": 62727,
-    "anilist": null,
+    "anilist": 213362,
     "anidb": null,
     "kitsu": 50282,
     "simkl": null,
@@ -18,10 +18,12 @@
     "notify": null
   },
   "title": {
-    "romaji": "Zhan Shen Movie: Cangnan Zhi Shang",
+    "romaji": "Zhan Shen: Fanchen Shen Yu Movie - Cangnan Zhi Shang",
     "english": "Slay the Gods Movie: The Dead of Cangnan",
-    "native": "斩神剧场版 沧南之殇",
-    "synonyms": []
+    "native": "斩神之凡尘神域剧场版 沧南之殇",
+    "synonyms": [
+      "Slay The Gods Movie: The Dead of Cangnan"
+    ]
   },
   "type": "ONA",
   "source": "Web novel",
@@ -51,6 +53,7 @@
     "Action",
     "Fantasy",
     "Suspense",
+    "Supernatural",
     "Psychological"
   ],
   "studios": [
@@ -63,24 +66,36 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1679/152581l.jpg",
     "banner": null,
-    "color": null
+    "color": "#e47843"
   },
   "trailer": null,
   "synopsis": "After the release of the divine artifact Shiva's Wrath, Cangnan City faces an unprecedented crisis. With the Western evil gods lurking in their wake, are the Chinese gods about to awaken? Infused with the power of the twin gods, Lin Qiye joins the Night Watchmen of Cangnan City in fighting against the Western evil gods and defending Cangnan! The Second War of the Gods is about to begin!\n\n(Source: Tencent, translated)",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 59306,
+      "title": {
+        "romaji": "Zhan Shen: Fanchen Shen Yu",
+        "english": "Slay The Gods",
+        "native": "斩神之凡尘神域"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168105-NH0EUR2yHH3M.png",
+      "format": "ONA",
+      "episodes": 15,
+      "seasonYear": null,
+      "relationType": "PARENT"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:02:00.543Z",
+    "lastFetched": "2026-07-31T22:00:40.135Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

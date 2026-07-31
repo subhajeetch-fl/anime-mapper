@@ -3,7 +3,7 @@
   "idMal": 61619,
   "mappings": {
     "mal": 61619,
-    "anilist": null,
+    "anilist": 214260,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -19,7 +19,7 @@
   },
   "title": {
     "romaji": "Zeri Feisheng",
-    "english": null,
+    "english": "A Good Day to Ascend",
     "native": "择日飞升",
     "synonyms": [
       "Ascend Another Day"
@@ -29,7 +29,7 @@
   "source": "Web novel",
   "status": "Not yet aired",
   "airing": false,
-  "episodeCount": null,
+  "episodeCount": 30,
   "episodeLength": null,
   "aired": {
     "from": "2026-07-18T00:00:00+00:00",
@@ -42,7 +42,10 @@
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 5,
+    "airingAt": 1785546000
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
@@ -70,17 +73,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-05T12:19:14.907Z",
+    "lastFetched": "2026-07-31T21:56:10.121Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }
