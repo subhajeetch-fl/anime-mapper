@@ -3,7 +3,7 @@
   "idMal": 63298,
   "mappings": {
     "mal": 63298,
-    "anilist": null,
+    "anilist": 214075,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -54,30 +54,29 @@
     "Fantasy"
   ],
   "studios": [
-    "Locus Corporation"
+    "Locus Corporation",
+    "LOCUS Animation"
   ],
   "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1563/154980l.jpg",
     "banner": null,
-    "color": null
+    "color": "#5dbbe4"
   },
   "trailer": null,
   "synopsis": "Jacob, an 11-year-old boy who is looking for kokdu dolls to remember his last moments with his grandmother, accidentally enters the world of these dolls.\n\nThe \"kokdu\", literally \"funeral doll\", a key element in the work, is a wooden doll that adorned the bier (a carriage that carried a coffin) in the funeral culture of the Joseon Dynasty. It was considered a being that accompanied and protected the deceased, so that they would not feel lonely on their way to the afterlife. These dolls, which appeared in various forms, such as warriors, servants, clowns, and guides, embody the philosophy of Joseon-era Koreans, who viewed death not as something to be feared, but as a warm farewell and a new journey.\n\n(Sources: etoday.co.kr)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T06:53:15.570Z",
+    "lastFetched": "2026-08-01T04:12:53.142Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

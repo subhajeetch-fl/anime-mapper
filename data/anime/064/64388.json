@@ -3,7 +3,7 @@
   "idMal": 64388,
   "mappings": {
     "mal": 64388,
-    "anilist": null,
+    "anilist": 213188,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -18,13 +18,14 @@
     "notify": null
   },
   "title": {
-    "romaji": "Jueshi Zhan Hun 2nd Season",
+    "romaji": "Jueshi Zhan Hun 2",
     "english": "Super Heroic Spirit Season 2",
     "native": "绝世战魂 第2季",
     "synonyms": [
       "Super Heroic Spirit 2nd Season",
       "Super Heroic 2nd Season",
-      "Peerless Battle Spirit 2nd Season"
+      "Peerless Battle Spirit 2nd Season",
+      "Peerless Battle Spirit 2"
     ]
   },
   "type": "ONA",
@@ -44,7 +45,10 @@
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 9,
+    "airingAt": 1785808800
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
@@ -66,24 +70,36 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1920/158455l.jpg",
     "banner": null,
-    "color": null
+    "color": "#f1e4c9"
   },
   "trailer": null,
   "synopsis": "In the Canglan Continent, strength is determined by martial spirits. Qin Nan, the young master of the Qin family, was originally a useless soul, suffering endless scorn. By chance, he awakened the soul of an ancient war god, thus defying fate. He swept through sect geniuses, overcame powerful enemies and obstacles, encountered a soulmate, used his battle spirit to break all laws, and forged a legend with his blood. From a humble young master, he rose through the ranks to become an invincible supreme celestial being who shakes the nine realms.\n\n(Source: iQIYI, translated)",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 58711,
+      "title": {
+        "romaji": "Jueshi Zhan Hun",
+        "english": null,
+        "native": "绝世战魂"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179807-jWSQWQ9xj1Qr.jpg",
+      "format": "ONA",
+      "episodes": 180,
+      "seasonYear": null,
+      "relationType": "PREQUEL"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-04T17:33:22.057Z",
+    "lastFetched": "2026-08-01T04:18:17.480Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

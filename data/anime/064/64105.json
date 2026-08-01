@@ -3,7 +3,7 @@
   "idMal": 64105,
   "mappings": {
     "mal": 64105,
-    "anilist": null,
+    "anilist": 211710,
     "anidb": null,
     "kitsu": 50727,
     "simkl": null,
@@ -18,9 +18,9 @@
     "notify": null
   },
   "title": {
-    "romaji": "5-toubun no Hanayome OVA",
+    "romaji": "Go-toubun no Hanayome (Shinsaku OVA)",
     "english": null,
-    "native": "五等分の花嫁 OVA",
+    "native": "五等分の花嫁 新作OVA",
     "synonyms": []
   },
   "type": "OVA",
@@ -50,6 +50,7 @@
   "genres": [
     "Comedy",
     "Romance",
+    "Drama",
     "Slice of Life",
     "Harem"
   ],
@@ -58,24 +59,49 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1531/157221l.jpg",
     "banner": null,
-    "color": null
+    "color": "#f17850"
   },
   "trailer": null,
   "synopsis": "OVA featuring more stories from the manga not adapted in the main anime.",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 38101,
+      "title": {
+        "romaji": "Go-toubun no Hanayome",
+        "english": "The Quintessential Quintuplets",
+        "native": "五等分の花嫁"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103572-cchriAdH95cQ.png",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2019,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 39783,
+      "title": {
+        "romaji": "Go-toubun no Hanayome ∬",
+        "english": "The Quintessential Quintuplets 2",
+        "native": "五等分の花嫁∬"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109261-65rKxMDlcU9r.png",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2021,
+      "relationType": "PARENT"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-12T11:56:16.265Z",
+    "lastFetched": "2026-08-01T04:17:04.570Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

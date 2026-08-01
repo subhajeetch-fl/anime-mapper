@@ -3,7 +3,7 @@
   "idMal": 64095,
   "mappings": {
     "mal": 64095,
-    "anilist": null,
+    "anilist": 211338,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -18,29 +18,35 @@
     "notify": null
   },
   "title": {
-    "romaji": "Harem Shima e Youkoso!",
+    "romaji": "Harem-tou e Youkoso!",
     "english": null,
-    "native": "ハーレム島へようこそ!",
-    "synonyms": []
+    "native": "ハーレム島へようこそ！",
+    "synonyms": [
+      "Welcome to Paradise Island!",
+      "Harem Shima e Youkoso!"
+    ]
   },
   "type": "OVA",
   "source": "Visual novel",
   "status": "Not yet aired",
   "airing": false,
-  "episodeCount": null,
+  "episodeCount": 1,
   "episodeLength": null,
   "aired": {
     "from": "2026-07-31T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "summer",
+  "year": 2026,
   "broadcast": {
     "day": null,
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 2,
+    "airingAt": 1793286000
+  },
   "rating": "Rx - Hentai",
   "score": {
     "malScore": null,
@@ -51,30 +57,29 @@
     "Hentai"
   ],
   "studios": [
-    "Collaboration Works"
+    "Collaboration Works",
+    "Collaboration Works petit"
   ],
   "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1803/157178l.jpg",
     "banner": null,
-    "color": null
+    "color": "#e4ae50"
   },
   "trailer": null,
   "synopsis": null,
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-12T11:56:11.922Z",
+    "lastFetched": "2026-08-01T04:17:00.161Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

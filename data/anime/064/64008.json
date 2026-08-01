@@ -3,25 +3,29 @@
   "idMal": 64008,
   "mappings": {
     "mal": 64008,
-    "anilist": null,
+    "anilist": 208105,
     "anidb": null,
-    "kitsu": null,
+    "kitsu": 50552,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64008,
-    "livechart": 13529,
+    "livechart": null,
     "animeplanet": null,
     "anisearch": null,
     "notify": null
   },
   "title": {
-    "romaji": "Yani Neko Mini Anime",
+    "romaji": "Yani Neko Mini",
     "english": null,
-    "native": "『ヤニねこ』ミニアニメ",
-    "synonyms": []
+    "native": "ヤニねこ ミニ",
+    "synonyms": [
+      "Yani Neko Mini Anime",
+      "ヤニねこ ミニアニメ",
+      "Chainsmoker Cat Minis"
+    ]
   },
   "type": "ONA",
   "source": "Manga",
@@ -33,8 +37,8 @@
     "from": "2026-02-21T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "winter",
+  "year": 2026,
   "broadcast": {
     "day": null,
     "time": null,
@@ -44,7 +48,7 @@
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
-    "anilistScore": null,
+    "anilistScore": 5.2,
     "kitsuRating": null
   },
   "genres": [
@@ -55,24 +59,36 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1255/156995l.jpg",
     "banner": null,
-    "color": null
+    "color": "#865028"
   },
   "trailer": null,
   "synopsis": "Mini anime of Yani Neko released on YouTube.",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 63403,
+      "title": {
+        "romaji": "Yani Neko",
+        "english": "Chainsmoker Cat",
+        "native": "ヤニねこ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207141-h5q5KJPd6vaX.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": 2026,
+      "relationType": "PARENT"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T04:49:21.764Z",
+    "lastFetched": "2026-08-01T04:16:38.151Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

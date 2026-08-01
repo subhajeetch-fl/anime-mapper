@@ -3,7 +3,7 @@
   "idMal": 64104,
   "mappings": {
     "mal": 64104,
-    "anilist": null,
+    "anilist": 211709,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -18,14 +18,15 @@
     "notify": null
   },
   "title": {
-    "romaji": "5-toubun no Hanayome: [Shunkashuutou]",
+    "romaji": "Go-toubun no Hanayome: Shunkashuutou",
     "english": null,
     "native": "五等分の花嫁【春夏秋冬】",
     "synonyms": [
       "The Quintessential Quintuplets: [Spring",
       "Summer",
       "Fall",
-      "Winter]"
+      "Winter]",
+      "The Quintessential Quintuplets: Spring, Summer, Fall, Winter"
     ]
   },
   "type": "TV",
@@ -56,32 +57,44 @@
     "Comedy",
     "Romance",
     "Drama",
-    "Harem",
-    "Slice of Life"
+    "Slice of Life",
+    "Harem"
   ],
   "studios": [],
   "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1589/157220l.jpg",
     "banner": null,
-    "color": null
+    "color": "#f17850"
   },
   "trailer": null,
   "synopsis": "Anime adaptation 5-toubun no Hanayome: [Shunkashuutou], portraying stories from January of their third year of high school to December after graduation.",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 48548,
+      "title": {
+        "romaji": "Go-toubun no Hanayome Movie",
+        "english": "The Quintessential Quintuplets Movie",
+        "native": "映画 五等分の花嫁"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131520-89Qfo8JnGHI3.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2022,
+      "relationType": "PARENT"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-10T21:51:52.206Z",
+    "lastFetched": "2026-08-01T04:17:02.356Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

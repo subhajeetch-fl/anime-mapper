@@ -3,9 +3,9 @@
   "idMal": 64357,
   "mappings": {
     "mal": 64357,
-    "anilist": null,
+    "anilist": 213097,
     "anidb": null,
-    "kitsu": null,
+    "kitsu": 50802,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
@@ -18,11 +18,13 @@
     "notify": null
   },
   "title": {
-    "romaji": "Tomica to Tom (TV) Season 2",
+    "romaji": "TOMICA & TOM Season 2",
     "english": "Tomica & Tom (TV) Season 2",
     "native": "トミカとトム シーズン2",
     "synonyms": [
-      "Tomica and Tom (TV) Season 2"
+      "Tomica and Tom (TV) Season 2",
+      "Tomica to Tom 2",
+      "Tomica and Tom"
     ]
   },
   "type": "TV",
@@ -59,24 +61,36 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1218/158374l.jpg",
     "banner": null,
-    "color": null
+    "color": "#f1ae35"
   },
   "trailer": null,
   "synopsis": "Second season of Tomica to Tom.",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 62083,
+      "title": {
+        "romaji": "TOMICA & TOM",
+        "english": null,
+        "native": "トミカとトム"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196227-B9kbcrGihskA.png",
+      "format": "TV_SHORT",
+      "episodes": 9,
+      "seasonYear": 2025,
+      "relationType": "PREQUEL"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-12T11:56:56.766Z",
+    "lastFetched": "2026-08-01T04:17:59.567Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

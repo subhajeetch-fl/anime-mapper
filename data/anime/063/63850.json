@@ -3,7 +3,7 @@
   "idMal": 63850,
   "mappings": {
     "mal": 63850,
-    "anilist": null,
+    "anilist": 210073,
     "anidb": 19986,
     "kitsu": null,
     "simkl": null,
@@ -18,11 +18,12 @@
     "notify": null
   },
   "title": {
-    "romaji": "Golden Kamuy: Bousou Ressha-hen",
+    "romaji": "Golden Kamuy: Saishuushou - Bousou Ressha-hen",
     "english": null,
-    "native": "ゴールデンカムイ 暴走列車編",
+    "native": "ゴールデンカムイ 最終章 暴走列車編",
     "synonyms": [
-      "Golden Kamuy: Runaway Train Arc"
+      "Golden Kamuy: Runaway Train Arc",
+      "Golden Kamuy Final Season - Runaway Train Arc"
     ]
   },
   "type": null,
@@ -35,8 +36,8 @@
     "from": null,
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "winter",
+  "year": 2027,
   "broadcast": {
     "day": null,
     "time": null,
@@ -51,31 +52,44 @@
   },
   "genres": [
     "Action",
-    "Adventure"
+    "Adventure",
+    "Comedy"
   ],
   "studios": [],
   "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1664/156412l.jpg",
     "banner": null,
-    "color": null
+    "color": "#e4a11a"
   },
   "trailer": null,
   "synopsis": "Sequel for Golden Kamuy: Saishuushou.",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 55772,
+      "title": {
+        "romaji": "Golden Kamuy: Saishuushou",
+        "english": "Golden Kamuy Final Season",
+        "native": "ゴールデンカムイ 最終章"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166521-yvCHzltGGU2X.jpg",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2026,
+      "relationType": "PREQUEL"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:04:08.333Z",
+    "lastFetched": "2026-08-01T04:15:49.158Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -3,7 +3,7 @@
   "idMal": 64250,
   "mappings": {
     "mal": 64250,
-    "anilist": null,
+    "anilist": 212272,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -18,7 +18,7 @@
     "notify": null
   },
   "title": {
-    "romaji": "Deco x Deco The Animation",
+    "romaji": "Deco x Deco THE ANIMATION",
     "english": null,
     "native": "デコ×デコ THE ANIMATION",
     "synonyms": []
@@ -33,8 +33,8 @@
     "from": "2026-07-31T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "summer",
+  "year": 2026,
   "broadcast": {
     "day": null,
     "time": null,
@@ -48,7 +48,9 @@
     "kitsuRating": null
   },
   "genres": [
-    "Hentai"
+    "Hentai",
+    "Comedy",
+    "Romance"
   ],
   "studios": [
     "Seven"
@@ -57,24 +59,22 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1129/158130l.jpg",
     "banner": null,
-    "color": null
+    "color": "#e4ae86"
   },
   "trailer": null,
   "synopsis": null,
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-12T11:56:33.226Z",
+    "lastFetched": "2026-08-01T04:17:26.562Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

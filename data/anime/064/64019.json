@@ -3,9 +3,9 @@
   "idMal": 64019,
   "mappings": {
     "mal": 64019,
-    "anilist": null,
+    "anilist": 194116,
     "anidb": null,
-    "kitsu": null,
+    "kitsu": 49971,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
@@ -18,10 +18,12 @@
     "notify": null
   },
   "title": {
-    "romaji": "Saishuu Gakushou Hibike! Euphonium: Kouhen",
+    "romaji": "Saishuu Gakushou Hibike! Euphonium - Kouhen",
     "english": "Sound! Euphonium: The Final Movie Part 2",
-    "native": "最終楽章 響け！ユーフォニアム 後編",
-    "synonyms": []
+    "native": "最終楽章 響け！ユーフォニアム後編",
+    "synonyms": [
+      "Sound! Euphonium, The Final Movie Part 2"
+    ]
   },
   "type": "Movie",
   "source": "Novel",
@@ -33,14 +35,17 @@
     "from": "2026-09-11T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "fall",
+  "year": 2026,
   "broadcast": {
     "day": null,
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1789052400
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
@@ -48,7 +53,9 @@
     "kitsuRating": null
   },
   "genres": [
-    "Drama"
+    "Drama",
+    "Music",
+    "Slice of Life"
   ],
   "studios": [
     "Kyoto Animation"
@@ -60,24 +67,49 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1735/158372l.jpg",
     "banner": null,
-    "color": null
+    "color": "#e4c95d"
   },
   "trailer": null,
   "synopsis": "Second half of Saishuu Gakushou Hibike! Euphonium.",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 39894,
+      "title": {
+        "romaji": "Hibike! Euphonium 3",
+        "english": "Sound! Euphonium 3",
+        "native": "響け！ユーフォニアム３"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109731-EwHzbtywdcyG.png",
+      "format": "TV",
+      "episodes": 13,
+      "seasonYear": 2024,
+      "relationType": "PARENT"
+    },
+    {
+      "malId": 61230,
+      "title": {
+        "romaji": "Saishuu Gakushou Hibike! Euphonium - Zenpen",
+        "english": null,
+        "native": "最終楽章 響け！ユーフォニアム 前編"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188035-wTA4Yse8APa1.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2026,
+      "relationType": "PREQUEL"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:06:36.428Z",
+    "lastFetched": "2026-08-01T04:16:42.554Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

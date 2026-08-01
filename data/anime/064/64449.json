@@ -3,9 +3,9 @@
   "idMal": 64449,
   "mappings": {
     "mal": 64449,
-    "anilist": null,
+    "anilist": 213396,
     "anidb": null,
-    "kitsu": null,
+    "kitsu": 50777,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
@@ -18,9 +18,9 @@
     "notify": null
   },
   "title": {
-    "romaji": "Higurashi no Naku Koro ni (Shinsaku TV Animation)",
+    "romaji": "Higurashi no Naku Koro ni (Shin Anime)",
     "english": null,
-    "native": "「ひぐらしのなく頃に」新作TVアニメーション",
+    "native": "ひぐらしのなく頃に (新アニメ)",
     "synonyms": [
       "Higurashi: When They Cry (New TV Animation)"
     ]
@@ -68,20 +68,45 @@
   },
   "trailer": null,
   "synopsis": "A new TV anime project to celebrate the 20th anniversary of the Higurashi no Naku Koro ni anime.",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 934,
+      "title": {
+        "romaji": "Higurashi no Naku Koro ni",
+        "english": "When They Cry",
+        "native": "ひぐらしのなく頃に"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx934-wjMlVEl4CWwg.jpg",
+      "format": "TV",
+      "episodes": 26,
+      "seasonYear": 2006,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 48488,
+      "title": {
+        "romaji": "Higurashi no Naku Koro ni Sotsu",
+        "english": "Higurashi: When They Cry - SOTSU",
+        "native": "ひぐらしのなく頃に卒"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131149-Yx4j5dfb3494.jpg",
+      "format": "TV",
+      "episodes": 15,
+      "seasonYear": 2021,
+      "relationType": "OTHER"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-12T21:29:40.901Z",
+    "lastFetched": "2026-08-01T04:18:44.110Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

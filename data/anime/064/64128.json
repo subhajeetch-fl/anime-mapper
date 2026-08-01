@@ -3,7 +3,7 @@
   "idMal": 64128,
   "mappings": {
     "mal": 64128,
-    "anilist": null,
+    "anilist": 202895,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -18,7 +18,7 @@
     "notify": null
   },
   "title": {
-    "romaji": "Otaku no Boku ga Ichigun Gal to Tsukiaerumade no Hanashi",
+    "romaji": "Otaku no Boku ga Ichigun Gal to Tsukiaeru Made no Hanashi",
     "english": null,
     "native": "オタクの僕が一軍ギャルと付き合えるまでの話",
     "synonyms": []
@@ -33,8 +33,8 @@
     "from": "2026-04-29T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "spring",
+  "year": 2026,
   "broadcast": {
     "day": null,
     "time": null,
@@ -44,7 +44,7 @@
   "rating": "Rx - Hentai",
   "score": {
     "malScore": 6.61,
-    "anilistScore": null,
+    "anilistScore": 5.8,
     "kitsuRating": null
   },
   "genres": [
@@ -57,24 +57,22 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1758/157317l.jpg",
     "banner": null,
-    "color": null
+    "color": "#e4bba1"
   },
   "trailer": null,
   "synopsis": null,
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-12T11:56:18.889Z",
+    "lastFetched": "2026-08-01T04:17:08.950Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }
