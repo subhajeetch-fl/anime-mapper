@@ -31,7 +31,7 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-05T00:00:00+00:00",
     "to": null
@@ -44,8 +44,8 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 5,
-    "airingAt": 1785675600
+    "episode": 6,
+    "airingAt": 1786280400
   },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -56,7 +56,8 @@
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Comedy"
   ],
   "studios": [
     "Maho Film"
@@ -140,7 +141,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-28T03:43:51.680Z",
+    "lastFetched": "2026-08-03T21:55:00.919Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
