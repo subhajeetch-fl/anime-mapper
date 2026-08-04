@@ -20,7 +20,7 @@
   "title": {
     "romaji": "Kinnikuman: Kanpeki Choujin Shiso-hen Season 3",
     "english": "Kinnikuman: Perfect Origin Arc Season 3",
-    "native": "キン肉マン 完璧超人始祖編 Season3",
+    "native": "キン肉マン 完璧超人始祖編 Season 3",
     "synonyms": [
       "Muscleman",
       "Musculman"
@@ -52,30 +52,44 @@
   },
   "genres": [
     "Comedy",
-    "Sports"
+    "Sports",
+    "Action"
   ],
   "studios": [],
   "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1004/151372l.jpg",
     "banner": null,
-    "color": null
+    "color": "#e45d6b"
   },
   "trailer": null,
   "synopsis": "Third season of Kinnikuman: Kanpeki Chоujin Shiso-hen.",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 59914,
+      "title": {
+        "romaji": "Kinnikuman: Kanpeki Choujin Shiso-hen Season 2",
+        "english": "Kinnikuman Perfect Origin Arc Season 2",
+        "native": "キン肉マン 完璧超人始祖編 Season 2"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181886-gEqtKp6Wt2U2.jpg",
+      "format": "TV",
+      "episodes": 11,
+      "seasonYear": 2025,
+      "relationType": "PREQUEL"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:49:20.851Z",
+    "lastFetched": "2026-08-04T21:53:16.337Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

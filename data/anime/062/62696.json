@@ -42,7 +42,10 @@
     "time": "23:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1791295200
+  },
   "rating": null,
   "score": {
     "malScore": null,
@@ -67,7 +70,7 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:01:00.903Z",
+    "lastFetched": "2026-08-04T22:02:59.468Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
