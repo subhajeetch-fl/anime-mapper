@@ -33,7 +33,7 @@
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 120,
   "aired": {
     "from": "2026-08-28T00:00:00+00:00",
     "to": "2026-08-28"
@@ -45,14 +45,11 @@
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1787842800
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
-    "anilistScore": null,
+    "anilistScore": 8.2,
     "kitsuRating": null
   },
   "genres": [
@@ -231,7 +228,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-05T12:10:06.689Z",
+    "lastFetched": "2026-09-01T05:55:25.398Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
