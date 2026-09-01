@@ -19,9 +19,13 @@
   },
   "title": {
     "romaji": "Wanmei Shijie Movie: Jiu Jie Fen Tian",
-    "english": null,
-    "native": "完美世界 剧场版 九劫焚天",
-    "synonyms": []
+    "english": "Perfect World Movie: Ninefold The Burning Sky",
+    "native": "完美世界剧场版 九劫焚天",
+    "synonyms": [
+      "Perfect World Movie 2",
+      "​完美世界剧场版 第二部",
+      "Wanmei Shijie Movie: 2"
+    ]
   },
   "type": "ONA",
   "source": "Web novel",
@@ -53,7 +57,8 @@
     "Fantasy"
   ],
   "studios": [
-    "Foch Film"
+    "Foch Film",
+    "Foch"
   ],
   "producers": [
     "Tencent Video"
@@ -61,23 +66,49 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1981/158644l.jpg",
     "banner": null,
-    "color": null
+    "color": "#28aefe"
   },
   "trailer": null,
   "synopsis": "The story focuses on the final battle of the Immortal Ancient Era. The ancestral spirit, the Willow God, steps forward to lead the people in their search for hope. The Desolate Emperor, Shi Hao, uses a drop of his true blood to create a clone, reversing time and space to descend into the Immortal Ancient Era. In a shared struggle of life and death, he seeks the ultimate remedy to eradicate darkness. A great catastrophe of darkness descends, marking the tragic final chapter of the Immortal Ancient Era!\n\n(Source: Tencent, translated)",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 58797,
+      "title": {
+        "romaji": "Wanmei Shijie Movie: Huo Zhi Huijin",
+        "english": null,
+        "native": "完美世界剧场版 火之灰烬"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182563-p2dSeX3ai5fQ.png",
+      "format": "ONA",
+      "episodes": 3,
+      "seasonYear": null,
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": null,
+      "title": {
+        "romaji": "Wanmei Shijie 5",
+        "english": null,
+        "native": "完美世界 第五季"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182562-qjNVhqM5hTuG.jpg",
+      "format": "ONA",
+      "episodes": 52,
+      "seasonYear": null,
+      "relationType": "ALTERNATIVE"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:01:58.722Z",
+    "lastFetched": "2026-09-01T00:34:18.080Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
+      "anilist",
       "animeapi.my.id",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

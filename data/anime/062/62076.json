@@ -38,10 +38,10 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 23,
   "aired": {
     "from": "2026-07-09T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-24"
   },
   "season": "summer",
   "year": 2026,
@@ -51,19 +51,21 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 5,
-    "airingAt": 1786028160
+    "episode": 9,
+    "airingAt": 1788447360
   },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": 8.44,
     "anilistScore": 8.2,
-    "kitsuRating": null
+    "kitsuRating": 8.25
   },
   "genres": [
     "Romance",
     "Comedy",
-    "Slice of Life"
+    "Slice of Life",
+    "Working Life",
+    "Seinen"
   ],
   "studios": [
     "Asahi Production"
@@ -328,7 +330,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-30T22:04:31.984Z",
+    "lastFetched": "2026-09-01T00:23:43.410Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",

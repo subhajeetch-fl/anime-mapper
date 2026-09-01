@@ -40,7 +40,10 @@
     "time": null,
     "timezone": null
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 5,
+    "airingAt": 1793286000
+  },
   "rating": "Rx - Hentai",
   "score": {
     "malScore": 7.56,
@@ -64,7 +67,7 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-13T04:10:23.116Z",
+    "lastFetched": "2026-09-01T00:26:31.981Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
