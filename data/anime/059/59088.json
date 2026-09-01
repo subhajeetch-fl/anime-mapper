@@ -43,7 +43,10 @@
     "time": "01:53",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1790959980
+  },
   "rating": "R - 17+ (violence & profanity)",
   "score": {
     "malScore": null,
@@ -65,7 +68,7 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1340/148694l.jpg",
     "banner": null,
-    "color": null
+    "color": "#c99350"
   },
   "trailer": null,
   "synopsis": "Sequel to Tokyo Revengers: Tenjiku-hen.",
@@ -99,7 +102,7 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T20:01:47.036Z",
+    "lastFetched": "2026-09-01T16:12:59.178Z",
     "sourcesUsed": [
       "jikan",
       "kitsu",
