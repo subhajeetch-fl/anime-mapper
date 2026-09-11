@@ -19,7 +19,7 @@
  */
 import { fetchJson } from './httpClient.js';
 
-const BASE_URL = 'https://zenshin-supabase-api.onrender.com/mappings';
+const BASE_URL = 'https://api.ani.zip/mappings';
 
 /**
  * @param {number|string} anilistId
