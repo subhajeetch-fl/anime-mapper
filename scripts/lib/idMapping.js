@@ -1,9 +1,9 @@
 /**
- * animeapi.my.id client (nattadasu/animeApi v3).
- * Docs: https://github.com/nattadasu/animeApi
+ * animeApi database client (nattadasu/animeApi v3).
+ * Source: https://raw.githubusercontent.com/nattadasu/animeApi/v3/database/animeapi.json
  *
- * Given a MyAnimeList id, returns the same title's id on ~19 other
- * platforms (AniList, AniDB, Kitsu, Simkl, TVDB, Trakt, etc.) in one call.
+ * Given a MyAnimeList id, returns the same title's ids on other platforms
+ * (AniList, AniDB, Kitsu, Simkl, TVDB, Trakt, etc.).
  * This is what powers the `mappings` block in every anime/[id].json file,
  * and supplies the AniList id we need to query AniZip for episodes.
  *
@@ -18,26 +18,103 @@
  *   "trakt": 30857, "trakt_type": "shows", "trakt_season": 1
  * }
  *
- * NOTE: themoviedb/thetvdb/simkl fields have been added to the live
- * dataset over time (animeapi.my.id's indexed-platform count includes
- * both). Treat any field as OPTIONAL/nullable - don't assume every key
- * exists on every response, and don't fail the whole anime if one is
- * missing.
+ * NOTE: Treat every field as OPTIONAL/nullable. The database schema can
+ * gain providers over time, so don't fail the whole anime if one is missing.
  */
 import { fetchJson } from './httpClient.js';
+import { readFile, rename, writeFile } from 'node:fs/promises';
+import os from 'node:os';
+import path from 'node:path';
 
-const BASE_URL = 'https://animeapi.my.id';
+const DATABASE_URL =
+  'https://raw.githubusercontent.com/nattadasu/animeApi/v3/database/animeapi.json';
+const CACHE_TTL_MS = 6 * 60 * 60 * 1000;
+const CACHE_PATH = process.env.ANIMEAPI_CACHE_PATH ??
+  path.join(os.tmpdir(), 'anime-mapper-animeapi-v3.json');
+
+// The source is one large JSON database, so download and index it once per
+// process instead of downloading the entire file for every anime id. A short
+// disk cache also lets separate pipeline processes reuse the same download.
+let databasePromise = null;
+
+async function readCachedDatabase() {
+  try {
+    const cached = JSON.parse(await readFile(CACHE_PATH, 'utf8'));
+    if (
+      cached &&
+      Number.isFinite(cached.cachedAt) &&
+      Date.now() - cached.cachedAt < CACHE_TTL_MS &&
+      Array.isArray(cached.database)
+    ) {
+      return cached.database;
+    }
+  } catch {
+    // Missing, expired, or invalid cache: fetch a fresh copy below.
+  }
+  return null;
+}
+
+async function writeCachedDatabase(database) {
+  const temporaryPath = `${CACHE_PATH}.${process.pid}.tmp`;
+  await writeFile(
+    temporaryPath,
+    JSON.stringify({ cachedAt: Date.now(), database }),
+    'utf8'
+  );
+  await rename(temporaryPath, CACHE_PATH);
+}
+
+async function loadDatabaseIndex() {
+  if (!databasePromise) {
+    databasePromise = (async () => {
+      const cachedDatabase = await readCachedDatabase();
+      if (cachedDatabase) {
+        console.log(`[animeApi database] using cached database (${CACHE_PATH})`);
+        return cachedDatabase;
+      }
+
+      const database = await fetchJson(DATABASE_URL, {
+        label: 'animeApi database',
+        retries: 3,
+        baseDelayMs: 1500,
+        timeoutMs: 120000,
+      });
+      if (!Array.isArray(database)) {
+        throw new Error('animeApi database returned an invalid JSON array');
+      }
+      try {
+        await writeCachedDatabase(database);
+        console.log(`[animeApi database] downloaded and cached (${CACHE_PATH})`);
+      } catch (err) {
+        console.warn(`[animeApi database] cache write skipped: ${err.message}`);
+      }
+      return database;
+    })().then((database) => {
+
+      const index = new Map();
+      for (const record of database) {
+        const malId = Number(record?.myanimelist);
+        if (Number.isInteger(malId) && malId > 0 && !index.has(malId)) {
+          index.set(malId, record);
+        }
+      }
+      return index;
+    });
+  }
+
+  return databasePromise;
+}
 
 /**
  * @param {number|string} malId
  * @returns {Promise<object|null>} raw mapping object, or null if untracked
  */
 export async function getMappingsByMalId(malId) {
-  return fetchJson(`${BASE_URL}/myanimelist/${malId}`, {
-    label: 'animeapi.my.id',
-    retries: 3,
-    baseDelayMs: 1500,
-  });
+  const id = Number(malId);
+  if (!Number.isInteger(id) || id <= 0) return null;
+
+  const index = await loadDatabaseIndex();
+  return index.get(id) ?? null;
 }
 
 /** Normalizes the raw mapping payload into the `mappings` block we store. */
@@ -59,7 +136,7 @@ export function normalizeMappings(raw, malId) {
     notify: null,
   };
 
-  if (!raw) return base; // animeapi.my.id has no record - still return the shape, all null
+  if (!raw) return base; // The database has no record - still return the shape.
 
   return {
     ...base,

@@ -68,7 +68,7 @@ for attempt in 1 2 3 4 5; do
   echo "Push was rejected or interrupted. Syncing with origin/$BRANCH and retrying ($attempt/5)."
   git fetch origin "$BRANCH"
 
-  if ! git rebase -X theirs "origin/$BRANCH"; then
+  if ! git rebase "origin/$BRANCH"; then
     echo "::error::Could not automatically rebase workflow changes on top of origin/$BRANCH."
     git status --short
     exit 1

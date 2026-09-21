@@ -19,7 +19,7 @@
  *                   entry directly, which Jikan's relations don't, and
  *                   lets us filter to anime-only entries and sort them
  *                   chronologically).
- *   4. animeapi.my.id - the `mappings` block (also supplies the AniList id
+ *   4. animeApi database - the `mappings` block (also supplies the AniList id
  *                   Zenshin needs).
  *   5. Zenshin     - per-episode data (the schema given in the spec).
  *   6. Jikan Episodes - FALLBACK per-episode data when no AniList ID isList ID is
@@ -35,7 +35,7 @@
  * tracked as a soft error -> `meta.missingSources` includes "anilist" and
  * the id goes into the retry queue, so the next run backfills it.
  *
- * WHEN ANILIST ID IS MISSING: If animeapi.my.id returns no AniList mapping,
+ * WHEN ANILIST ID IS MISSING: If the animeApi database has no AniList mapping,
  * we skip the AniList API call entirely (saves a wasted 404) and use Jikan
  * for episode data. AniList-only fields (coverColor, bannerImage,
  * nextAiringEpisode, sequence, anilistScore) become null. On future runs,
@@ -44,7 +44,7 @@
  *
  * A single anime is considered a hard FAILURE (-> retry queue + Discord)
  * only if BOTH Jikan and Kitsu fail, since those are the two designated
- * primary sources. AniList/animeapi.my.id/Zenshin/Jikan-episodes failures
+ * primary sources. AniList/animeApi database/Zenshin/Jikan-episodes failures
  * are logged as soft errors - the file is still written, just missing that
  * enrichment, and `meta.missingSources` records what's absent so a later
  * run can backfill it.
@@ -61,7 +61,7 @@ import * as jikan from './lib/jikan.js';
 import * as kitsu from './lib/kitsu.js';
 import * as anilist from './lib/anilist.js';
 import * as idMapping from './lib/idMapping.js';
-import * as Zenshin from './lib/zenshin.js';
+import * as Zenshin from './lib/anizip.js';
 import {
   jikanLimiter,
   kitsuLimiter,
@@ -145,6 +145,20 @@ export async function fetchAnime(malId, options = {}) {
   const { skipUnchanged = false, skipWriteOnSoftError = false } = options;
   const errors = [];
   const missingSources = [];
+  const recordError = (source, err) => {
+    const error = {
+      id,
+      source,
+      message: err?.message ?? String(err),
+      status: err?.status ?? null,
+    };
+    errors.push(error);
+    console.error(
+      `  [error] MAL #${id} | ${source} | ` +
+      `${error.status ? `HTTP ${error.status}` : 'no HTTP status'} | ${error.message}`
+    );
+    return error;
+  };
 
   // --- 1. ID mapping (also unlocks Zenshin) -------------------------------
   await idMappingLimiter();
@@ -152,10 +166,18 @@ export async function fetchAnime(malId, options = {}) {
   try {
     mappingRaw = await idMapping.getMappingsByMalId(id);
   } catch (err) {
-    errors.push({ id, source: 'animeapi.my.id', message: err.message, status: err.status ?? null });
-    missingSources.push('animeapi.my.id');
+    recordError('animeApi database', err);
+    missingSources.push('animeApi database');
   }
   const mappings = idMapping.normalizeMappings(mappingRaw, id);
+  if (mappingRaw) {
+    console.log(
+      `  [source] MAL #${id} | animeApi database | AniList ID: ${mappings.anilist ?? 'none'}`
+    );
+  } else {
+    console.warn(`  [warn] MAL #${id} | no ID mapping returned; AniList lookup will be skipped`);
+    missingSources.push('animeApi database (no record)');
+  }
 
   // --- 2. Primary + fallback metadata, fetched concurrently --------------
   await jikanLimiter();
@@ -166,7 +188,7 @@ export async function fetchAnime(malId, options = {}) {
 
   // Skip AniList API call if we already know from mappings that there's no AniList ID.
   // This saves unnecessary 404 calls for anime not indexed on AniList (hentai, children's shows, etc.).
-  // If animeapi.my.id later adds the AniList mapping, the next run will pick it up automatically.
+  // If the database later adds the AniList mapping, the next run will pick it up automatically.
   let anilistPromise = null;
   if (mappings.anilist) {
     await aniListLimiter();
@@ -185,18 +207,19 @@ export async function fetchAnime(malId, options = {}) {
     anilistResult && anilistResult.status === 'fulfilled' ? anilist.normalizeAniList(anilistResult.value) : null;
 
   if (jikanResult.status === 'rejected') {
-    errors.push({ id, source: 'Jikan', message: jikanResult.reason.message, status: jikanResult.reason.status ?? null });
+    recordError('Jikan', jikanResult.reason);
     missingSources.push('jikan');
   }
   if (kitsuResult.status === 'rejected') {
-    errors.push({ id, source: 'Kitsu', message: kitsuResult.reason.message, status: kitsuResult.reason.status ?? null });
+    recordError('Kitsu', kitsuResult.reason);
     missingSources.push('kitsu');
   }
   if (anilistPromise && anilistResult.status === 'rejected') {
-    errors.push({ id, source: 'AniList', message: anilistResult.reason.message, status: anilistResult.reason.status ?? null });
+    recordError('AniList', anilistResult.reason);
     missingSources.push('anilist');
   } else if (!anilistPromise) {
     // We skipped the AniList call because mappings.anilist was null
+    console.warn(`  [warn] MAL #${id} | AniList skipped because no AniList mapping is available`);
     missingSources.push('anilist (not in ID mappings)');
   }
 
@@ -217,26 +240,30 @@ export async function fetchAnime(malId, options = {}) {
   const anilistIdForEpisodes = mappings.anilist ?? anilistData?.anilistId ?? null;
   let episodes = {};
   if (anilistIdForEpisodes) {
+    console.log(`  [source] MAL #${id} | fetching episodes from Zenshin/AniZip using AniList ID ${anilistIdForEpisodes}`);
     try {
       await zenshinLimiter();
       const rawEpisodes = await Zenshin.getEpisodesByAniListId(anilistIdForEpisodes);
       episodes = Zenshin.normalizeEpisodes(rawEpisodes);
+      console.log(`  [episodes] MAL #${id} | Zenshin/AniZip returned ${Object.keys(episodes).length} episode(s)`);
     } catch (err) {
-      errors.push({ id, source: 'Zenshin', message: err.message, status: err.status ?? null });
+      recordError('Zenshin', err);
       missingSources.push('zenshin');
     }
   } else {
     // Fallback: fetch episodes from Jikan when no AniList ID is available
+    console.warn(`  [warn] MAL #${id} | falling back to Jikan episode pagination`);
     try {
       const rawEpisodes = await jikan.getAllEpisodes(id);
       episodes = jikan.normalizeJikanEpisodes(rawEpisodes);
+      console.log(`  [episodes] MAL #${id} | Jikan returned ${Object.keys(episodes).length} episode(s)`);
       if (Object.keys(episodes).length > 0) {
         missingSources.push('jikan-episodes (fallback)');
       } else {
         missingSources.push('episodes (no data from Zenshin or Jikan)');
       }
     } catch (err) {
-      errors.push({ id, source: 'Jikan episodes', message: err.message, status: err.status ?? null });
+      recordError('Jikan episodes', err);
       missingSources.push('jikan-episodes');
     }
   }
@@ -302,7 +329,7 @@ export async function fetchAnime(malId, options = {}) {
     episodes,
     meta: {
       lastFetched: new Date().toISOString(),
-      sourcesUsed: ['jikan', 'kitsu', 'anilist', 'animeapi.my.id', 'zenshin'].filter(
+      sourcesUsed: ['jikan', 'kitsu', 'anilist', 'animeApi database', 'zenshin'].filter(
         (s) => !missingSources.includes(s) && !missingSources.some((m) => m.startsWith(s))
       ),
       missingSources,

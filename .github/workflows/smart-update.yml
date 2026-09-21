@@ -50,7 +50,7 @@ jobs:
           set -euo pipefail
 
           LIMIT="$LIMIT_INPUT"
-          ARGS=("--limit=$LIMIT" "--max-runtime-minutes=170")
+          ARGS=("--limit=$LIMIT" "--max-runtime-minutes=150")
 
           if ! [[ "$LIMIT" =~ ^[0-9]+$ ]] || [ "$LIMIT" -lt 1 ] || [ "$LIMIT" -gt 2000 ]; then
             echo "::error::limit must be an integer from 1 to 2000."
@@ -66,4 +66,3 @@ jobs:
       - name: Commit and push safely
         run: |
           bash .github/scripts/commit-and-push.sh "chore(data): smart update anime" rebuild-indexes
-

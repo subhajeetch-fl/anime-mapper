@@ -51,9 +51,8 @@ jobs:
             exit 1
           fi
 
-          node scripts/auto-add.js --batch-size="$BATCH_SIZE" --max-runtime-minutes=330
+          node scripts/auto-add.js --batch-size="$BATCH_SIZE" --max-runtime-minutes=300
 
       - name: Commit and push safely
         run: |
           bash .github/scripts/commit-and-push.sh "chore(data): auto add anime" rebuild-indexes
-

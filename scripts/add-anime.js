@@ -75,7 +75,16 @@ async function run() {
   const succeededIds = [];
 
   for (const id of ids) {
-    const result = await fetchAnime(id);
+    let result;
+    try {
+      result = await fetchAnime(id);
+    } catch (err) {
+      result = {
+        ok: false,
+        malId: id,
+        errors: [{ id, source: 'add-anime', message: err.message, status: err.status ?? null }],
+      };
+    }
     if (result.ok) {
       succeededIds.push(id);
       console.log(`  [ok] #${id} ${result.record.title?.english ?? result.record.title?.romaji ?? ''}`);
