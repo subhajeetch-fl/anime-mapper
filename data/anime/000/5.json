@@ -19,10 +19,9 @@
   },
   "title": {
     "romaji": "Cowboy Bebop: Tengoku no Tobira",
-    "english": "Cowboy Bebop: The Movie",
+    "english": "Cowboy Bebop: The Movie - Knockin' on Heaven's Door",
     "native": "カウボーイビバップ天国の扉",
     "synonyms": [
-      "Cowboy Bebop: Knockin' on Heaven's Door",
       "Cowboy Bebop Movie",
       "Cowboy Bebop: The Movie",
       "Cowboy Bebop: O Filme",
@@ -30,35 +29,31 @@
       "Cowboy Bebop: Pukając do nieba bram"
     ]
   },
-  "type": "Movie",
-  "source": "Original",
+  "type": "MOVIE",
+  "source": null,
   "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 114,
   "aired": {
-    "from": "2001-09-01T00:00:00+00:00",
+    "from": "2001-09-01",
     "to": "2001-09-01"
   },
   "season": "summer",
   "year": 2001,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
-  "rating": "R - 17+ (violence & profanity)",
+  "rating": "R",
   "score": {
-    "malScore": 8.38,
+    "malScore": null,
     "anilistScore": 8.2,
     "kitsuRating": 8.2
   },
   "genres": [
     "Action",
-    "Sci-Fi",
     "Drama",
     "Mystery",
+    "Sci-Fi",
     "Space",
     "Science Fiction",
     "Gunfights",
@@ -68,20 +63,17 @@
     "Future"
   ],
   "studios": [
-    "Bones",
+    "bones",
     "Sunrise"
   ],
-  "producers": [
-    "Sunrise",
-    "Bandai Visual"
-  ],
+  "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1439/93480l.jpg",
+    "poster": "https://media.kitsu.app/anime/poster_images/2/original.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5-VOcSZFepDDhm.jpg",
     "color": "#f13500"
   },
   "trailer": null,
-  "synopsis": "Another day, another bounty—such is the life of the often unlucky crew of the Bebop. However, this routine is interrupted when Faye, who is chasing a fairly worthless target on Mars, witnesses an oil tanker suddenly explode, causing mass hysteria. As casualties mount due to a strange disease spreading through the smoke from the blast, a whopping three hundred million woolong price is placed on the head of the supposed perpetrator.\n\nWith lives at stake and a solution to their money problems in sight, the Bebop crew springs into action. Spike, Jet, Faye, and Edward, followed closely by Ein, split up to pursue different leads across Alba City. Through their individual investigations, they discover a cover-up scheme involving a pharmaceutical company, revealing a plot that reaches much further than the ragtag team of bounty hunters could have realized.\n\n[Written by MAL Rewrite]",
+  "synopsis": "Another day, another bounty—such is the life of the often unlucky crew of the Bebop. However, this routine is interrupted when Faye, who is chasing a fairly worthless target on Mars, witnesses an oil tanker suddenly explode, causing mass hysteria. As casualties mount due to a strange disease spreading through the smoke from the blast, a whopping three hundred million woolong price is placed on the head of the supposed perpetrator.\nWith lives at stake and a solution to their money problems in sight, the Bebop crew springs into action. Spike, Jet, Faye, and Edward, followed closely by Ein, split up to pursue different leads across Alba City. Through their individual investigations, they discover a cover-up scheme involving a pharmaceutical company, revealing a plot that reaches much further than the ragtag team of bounty hunters could have realized.\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 1,
@@ -100,22 +92,22 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "115m",
+      "length": 115,
       "airDate": "2001-09-01",
       "title": {
         "en": "Complete Movie"
       },
-      "tvdbShowId": 76885,
-      "tvdbId": 360926,
-      "seasonNumber": 0,
-      "episodeNumber": 3,
-      "absoluteEpisodeNumber": 0,
-      "runtime": 115,
-      "image": "https://artworks.thetvdb.com/banners/episodes/76885/360926.jpg"
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
     },
     "2": {
       "episode": "2",
-      "length": "60m",
+      "length": 60,
       "airDate": "2001-09-01",
       "title": {
         "en": "Part 1 of 2"
@@ -130,7 +122,7 @@
     },
     "3": {
       "episode": "3",
-      "length": "60m",
+      "length": 60,
       "airDate": "2001-09-01",
       "title": {
         "en": "Part 2 of 2"
@@ -145,7 +137,7 @@
     },
     "4": {
       "episode": "4",
-      "length": "0m",
+      "length": 0,
       "airDate": "2001-09-01",
       "title": {
         "en": "Part 1 of 3"
@@ -160,7 +152,7 @@
     },
     "5": {
       "episode": "5",
-      "length": "0m",
+      "length": 0,
       "airDate": "2001-09-01",
       "title": {
         "en": "Part 2 of 3"
@@ -175,7 +167,7 @@
     },
     "6": {
       "episode": "6",
-      "length": "0m",
+      "length": 0,
       "airDate": "2001-09-01",
       "title": {
         "en": "Part 3 of 3"
@@ -190,7 +182,7 @@
     },
     "S1": {
       "episode": "S1",
-      "length": "6m",
+      "length": 6,
       "airDate": "",
       "title": {
         "en": "Movie Commentary"
@@ -205,7 +197,7 @@
     },
     "S2": {
       "episode": "S2",
-      "length": "7m",
+      "length": 7,
       "airDate": "",
       "title": {
         "en": "Soundtrack Commentary"
@@ -220,7 +212,7 @@
     },
     "S3": {
       "episode": "S3",
-      "length": "7m",
+      "length": 7,
       "airDate": "",
       "title": {
         "en": "Character Profile - Spike"
@@ -235,7 +227,7 @@
     },
     "S4": {
       "episode": "S4",
-      "length": "7m",
+      "length": 7,
       "airDate": "",
       "title": {
         "en": "Character Profile - Faye"
@@ -250,7 +242,7 @@
     },
     "S5": {
       "episode": "S5",
-      "length": "7m",
+      "length": 7,
       "airDate": "",
       "title": {
         "en": "Character Profile - Ed"
@@ -265,7 +257,7 @@
     },
     "S6": {
       "episode": "S6",
-      "length": "5m",
+      "length": 5,
       "airDate": "",
       "title": {
         "en": "Character Profile - Jet"
@@ -280,7 +272,7 @@
     },
     "S7": {
       "episode": "S7",
-      "length": "15m",
+      "length": 15,
       "airDate": "",
       "title": {
         "en": "Storyboard Comparison"
@@ -295,7 +287,7 @@
     },
     "S8": {
       "episode": "S8",
-      "length": "4m",
+      "length": 4,
       "airDate": "",
       "title": {
         "en": "AMV - Into the Darkness"
@@ -310,7 +302,7 @@
     },
     "S9": {
       "episode": "S9",
-      "length": "15m",
+      "length": 15,
       "airDate": "",
       "title": {
         "en": "Cowboy Bebop the Movie - English Voice Cast Reunion"
@@ -322,94 +314,19 @@
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null
-    },
-    "C1": {
-      "episode": "C1",
-      "length": "2m",
-      "airDate": "",
-      "title": {
-        "en": "Opening"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "C2": {
-      "episode": "C2",
-      "length": "4m",
-      "airDate": "",
-      "title": {
-        "en": "Ending"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T1": {
-      "episode": "T1",
-      "length": "2m",
-      "airDate": "",
-      "title": {
-        "en": "Trailer"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T2": {
-      "episode": "T2",
-      "length": "2m",
-      "airDate": "",
-      "title": {
-        "en": "Trailer"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T3": {
-      "episode": "T3",
-      "length": "2m",
-      "airDate": "",
-      "title": {
-        "en": "Trailer"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:08:13.626Z",
+    "lastFetched": "2026-09-21T13:56:57.303Z",
     "sourcesUsed": [
-      "jikan",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "animeApi database",
+      "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "jikan"
+    ],
     "dataVersion": 1
   }
 }

@@ -26,52 +26,45 @@
     ]
   },
   "type": "TV",
-  "source": "Manga",
+  "source": null,
   "status": "Finished Airing",
   "airing": false,
   "episodeCount": 52,
   "episodeLength": null,
   "aired": {
-    "from": "2004-09-30T00:00:00+00:00",
-    "to": "2005-09-29T00:00:00+00:00"
+    "from": "2004-09-30",
+    "to": "2005-09-29"
   },
   "season": "fall",
   "year": 2004,
-  "broadcast": {
-    "day": "Thursdays",
-    "time": "18:30",
-    "timezone": "Asia/Tokyo"
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
-  "rating": "PG - Children",
+  "rating": "PG",
   "score": {
-    "malScore": 6.97,
-    "anilistScore": 6.5,
-    "kitsuRating": 6.94
+    "malScore": null,
+    "anilistScore": 6.6,
+    "kitsuRating": 6.92
   },
   "genres": [
-    "Action",
     "Adventure",
     "Fantasy",
     "Supernatural",
     "Fantasy World",
+    "Action",
     "Magic",
     "Super Power"
   ],
   "studios": [
     "Toei Animation"
   ],
-  "producers": [
-    "TV Tokyo",
-    "Dentsu"
-  ],
+  "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/7/21569l.jpg",
+    "poster": "https://media.kitsu.app/anime/poster_images/5/original.jpg",
     "banner": null,
     "color": "#e46b50"
   },
   "trailer": null,
-  "synopsis": "It is the dark century and the people are suffering under the rule of the devil, Vandel, who is able to manipulate monsters. The Vandel Busters are a group of people who hunt these devils, and among them, the Zenon Squad is known to be the strongest busters on the continent. A young boy, Beet, dreams of joining the Zenon Squad. However, one day, as a result of Beet's fault, the Zenon squad was defeated by the devil, Beltose. The five dying busters sacrificed their life power into their five weapons, Saiga. After giving their weapons to Beet, they passed away. Years have passed since then and the young Vandel Buster, Beet, begins his adventure to carry out the Zenon Squad's will to put an end to the dark century.",
+  "synopsis": "It is the dark century and the people are suffering under the rule of the devil, Vandel, who is able to manipulate monsters. The Vandel Busters are a group of people who hunt these devils, and among them, the Zenon Squad is known to be the strongest busters on the continent. A young boy, Beet, dreams of joining the Zenon Squad. However, one day, as a result of Beet's fault, the Zenon squad was defeated by the devil, Beltose. The five dying busters sacrificed their life power into their five weapons, Saiga. After giving their weapons to Beet, they passed away. Years have passed since then and the young Vandel Buster, Beet, begins his adventure to carry out the Zenon Squad's will to put an end to the dark century. ",
   "sequence": [
     {
       "malId": 1123,
@@ -90,10 +83,12 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2004-09-30",
       "title": {
-        "en": "Beet!! A Boy Who Holds Great Ambition!!"
+        "en": "Beet!! A Boy Who Holds Great Ambition!!",
+        "romaji": "Beet!! Shounen yo Taishi o Idake!!",
+        "ja": "ビィト!! 少年よ大志を抱け!!"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166401,
@@ -105,10 +100,12 @@
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2004-10-07",
       "title": {
-        "en": "The Zenon Warriors! The End of the Proud Struggle to the Death..."
+        "en": "The Zenon Warriors! The End of the Proud Struggle to the Death...",
+        "romaji": "Zenon Senshidan! Hokori Takaki Shitou no Hate...",
+        "ja": "ゼノン戦士団! 誇り高き死闘の果て..."
       },
       "tvdbShowId": 75205,
       "tvdbId": 166402,
@@ -120,10 +117,12 @@
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2004-10-14",
       "title": {
-        "en": "Poala! The Battle of the Swamp of the Dead"
+        "en": "Poala! The Battle of the Swamp of the Dead",
+        "romaji": "Poala Shibito Numa no Kettou",
+        "ja": "ポアラ! 死人沼の決闘"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166403,
@@ -135,10 +134,12 @@
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2004-10-21",
       "title": {
-        "en": "Burning Lance! The Burning Saiga of Fire Roars"
+        "en": "Burning Lance! The Burning Saiga of Fire Roars",
+        "romaji": "Burning Lance! Unare Atsuki Honoo no Saiga",
+        "ja": "バーニングランス! うなれ熱き炎の才牙"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166404,
@@ -150,10 +151,12 @@
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2004-10-28",
       "title": {
-        "en": "Beet Warriors! Their Great Journey Starts"
+        "en": "Beet Warriors! Their Great Journey Starts",
+        "romaji": "Beet Senshidan! Sono Ooinaru Tabidachi",
+        "ja": "ビィト戦士団! その大いなる旅立ち"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166405,
@@ -165,10 +168,12 @@
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2004-11-04",
       "title": {
-        "en": "Jeek! Passionate Buster Arrives"
+        "en": "Jeek! Passionate Buster Arrives",
+        "romaji": "Jeek! Jounetsu no Buster Kitaru",
+        "ja": "ジーク! 情熱のバスター来たる"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166406,
@@ -180,10 +185,12 @@
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2004-11-11",
       "title": {
-        "en": "Melmond! The Shivering Saiga Collector"
+        "en": "Melmond! The Shivering Saiga Collector",
+        "romaji": "Melmond! Senritsu no Saiga Collector",
+        "ja": "メルモンド! 戦慄の才牙コレクター"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166407,
@@ -195,10 +202,12 @@
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2004-11-11",
       "title": {
-        "en": "Excellion Blade! The Inherited Soul"
+        "en": "Excellion Blade! The Inherited Soul",
+        "romaji": "Excellion Blade! Uketsugareta Tamashii",
+        "ja": "エクセリオンブレード! 受け継がれた魂"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166408,
@@ -210,10 +219,12 @@
     },
     "9": {
       "episode": "9",
-      "length": "25m",
+      "length": 25,
       "airDate": "2004-11-25",
       "title": {
-        "en": "Sled! The Lonely Assassin"
+        "en": "Sled! The Lonely Assassin",
+        "romaji": "Sled! Kodoku na Ansatsusha",
+        "ja": "スレッド! 孤独な暗殺者"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166409,
@@ -225,10 +236,12 @@
     },
     "10": {
       "episode": "10",
-      "length": "25m",
+      "length": 25,
       "airDate": "2004-12-02",
       "title": {
-        "en": "Grunide! The Dark Green Tactician Attacks!"
+        "en": "Grunide! The Dark Green Tactician Attacks!",
+        "romaji": "Grunide! Osoi Kuru Shinryoku no Chishou",
+        "ja": "グリニデ! 襲い来る深緑の智将"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166410,
@@ -240,10 +253,12 @@
     },
     "11": {
       "episode": "11",
-      "length": "25m",
+      "length": 25,
       "airDate": "2004-12-09",
       "title": {
-        "en": "Zenon Winzard! Fly The Special Kill Blade of Fate"
+        "en": "Zenon Winzard! Fly The Special Kill Blade of Fate",
+        "romaji": "Zenon Winzard! Habatake Shukumei no Hissatsu Ken",
+        "ja": "ゼノンウィンザード! 羽ばたけ宿命の必殺剣"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166411,
@@ -255,10 +270,12 @@
     },
     "12": {
       "episode": "12",
-      "length": "25m",
+      "length": 25,
       "airDate": "2004-12-16",
       "title": {
-        "en": "Belltoze! Snarling Tragic King"
+        "en": "Belltoze! Snarling Tragic King",
+        "romaji": "Belltoze! Kiba o Muku Sangeki no Ouja",
+        "ja": "ベルトーゼ! 牙をむく惨劇の王者"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166412,
@@ -270,10 +287,12 @@
     },
     "13": {
       "episode": "13",
-      "length": "25m",
+      "length": 25,
       "airDate": "2004-12-23",
       "title": {
-        "en": "Silent Glaive! The Sword of Gale Dances!"
+        "en": "Silent Glaive! The Sword of Gale Dances!",
+        "romaji": "Silent Glaive! Shippuu no Yaiba Mau",
+        "ja": "サイレントグレイブ! 疾風の刃舞う"
       },
       "tvdbShowId": 75205,
       "tvdbId": 419744,
@@ -285,10 +304,12 @@
     },
     "14": {
       "episode": "14",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-01-06",
       "title": {
-        "en": "Crown Shield! Awaken a New Power"
+        "en": "Crown Shield! Awaken a New Power",
+        "romaji": "Crown Shield!! Mezame yo Arata Naru Chikara",
+        "ja": "クラウンシールド!! 目覚めよ新たなる力"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166413,
@@ -300,10 +321,12 @@
     },
     "15": {
       "episode": "15",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-01-13",
       "title": {
-        "en": "Decisive Battle! Beet vs Belltoze!!"
+        "en": "Decisive Battle! Beet vs Belltoze!!",
+        "romaji": "Kessen! Beet vs Belltoze!!",
+        "ja": "決戦! ビィトvsベルトーゼ!!"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166414,
@@ -315,10 +338,12 @@
     },
     "16": {
       "episode": "16",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-01-20",
       "title": {
-        "en": "Black Ground Level! To a Tumultuous New World"
+        "en": "Black Ground Level! To a Tumultuous New World",
+        "romaji": "Kuro no Chihei! Gekidou no Shin Tenchi e",
+        "ja": "黒の地平! 激動の新天地へ"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166415,
@@ -330,10 +355,12 @@
     },
     "17": {
       "episode": "17",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-01-27",
       "title": {
-        "en": "Milfa! Super Heroine of Electric Shock"
+        "en": "Milfa! Super Heroine of Electric Shock",
+        "romaji": "Milfa! Dengeki no Super Heroine!!",
+        "ja": "ミルファ! 電撃のスーパーヒロイン!!"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166416,
@@ -345,10 +372,12 @@
     },
     "18": {
       "episode": "18",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-02-03",
       "title": {
-        "en": "Beet Jiiku Warrior Team! Attack the Den of the Demon"
+        "en": "Beet Jiiku Warrior Team! Attack the Den of the Demon",
+        "romaji": "Beet Jiiku Senshidan! Ma no Soukutsu o Ute",
+        "ja": "ビィト・ジーク戦士団! 魔の巣窟を討て"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166417,
@@ -360,10 +389,12 @@
     },
     "19": {
       "episode": "19",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-02-10",
       "title": {
-        "en": "Gourmet Ant! Threat of the Evil Underground System"
+        "en": "Gourmet Ant! Threat of the Evil Underground System",
+        "romaji": "Gourmet Ant! Kyou Shiki Chichuu no Kyoui",
+        "ja": "グルメアント! 凶々しき地中の脅威"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166418,
@@ -375,10 +406,12 @@
     },
     "20": {
       "episode": "20",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-02-17",
       "title": {
-        "en": "Crash! Terselon Final Defense Game"
+        "en": "Crash! Terselon Final Defense Game",
+        "romaji": "Gekitotsu! Terselon Saishuu Boueisen",
+        "ja": "激突! テルセロン最終防衛戦"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166419,
@@ -390,10 +423,12 @@
     },
     "21": {
       "episode": "21",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-02-24",
       "title": {
-        "en": "Benchura! Counterattack of the 3 Stars"
+        "en": "Benchura! Counterattack of the 3 Stars",
+        "romaji": "Benchura! Mitsuboshi no Gyakushuu",
+        "ja": "ベンチュラ! 三つ星の逆襲"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166420,
@@ -405,10 +440,12 @@
     },
     "22": {
       "episode": "22",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-03-03",
       "title": {
-        "en": "Hurausuki! Professional Killer Laughs at the Game"
+        "en": "Hurausuki! Professional Killer Laughs at the Game",
+        "romaji": "Hurausuki! Koroshiya wa Emono o Warau",
+        "ja": "フラウスキー! 殺し屋は獲物を笑う"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166421,
@@ -420,10 +457,12 @@
     },
     "23": {
       "episode": "23",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-03-10",
       "title": {
-        "en": "Kiss! Resumption and the Oath on that Day"
+        "en": "Kiss! Resumption and the Oath on that Day",
+        "romaji": "Kiss! Saikai to Ano Hi no Chikai",
+        "ja": "キッス! 再開とあの日の誓い"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166422,
@@ -435,10 +474,12 @@
     },
     "24": {
       "episode": "24",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-03-17",
       "title": {
-        "en": "Another War! Hurausuki of Immortality"
+        "en": "Another War! Hurausuki of Immortality",
+        "romaji": "Saisen! Fujimi no Hurausuki",
+        "ja": "再戦! 不死身のフラウスキー"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166423,
@@ -450,10 +491,12 @@
     },
     "25": {
       "episode": "25",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-03-24",
       "title": {
-        "en": "Grunide Castle! The Crime and Punishment of Betrayal"
+        "en": "Grunide Castle! The Crime and Punishment of Betrayal",
+        "romaji": "Gurinide Jou! Uragiri no Tsumi to Batsu",
+        "ja": "グリニデ城! 裏切りの罪と罰"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166424,
@@ -465,10 +508,12 @@
     },
     "26": {
       "episode": "26",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-03-31",
       "title": {
-        "en": "Cyclone Gunner! Release the Gun of the Wind"
+        "en": "Cyclone Gunner! Release the Gun of the Wind",
+        "romaji": "Cyclone Gunner! Tokihanate Kaze no Juu",
+        "ja": "サイクロンガンナー! 解き放て風の銃"
       },
       "tvdbShowId": 75205,
       "tvdbId": 166425,
@@ -480,10 +525,12 @@
     },
     "27": {
       "episode": "27",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-04-07",
       "title": {
-        "en": "Rozzgoat! The One Who Follows the Power"
+        "en": "Rozzgoat! The One Who Follows the Power",
+        "romaji": "Rozzgoat! Chikara e no Shinbousha",
+        "ja": "ロズゴート! 力への信奉者"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983331,
@@ -495,10 +542,12 @@
     },
     "28": {
       "episode": "28",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-04-14",
       "title": {
-        "en": "Meigeki of Grand Flame Stream! The Time Limit of Decision"
+        "en": "Meigeki of Grand Flame Stream! The Time Limit of Decision",
+        "romaji": "Gouka no Meigekiryuu! Semarareru Ketsudan no Koku",
+        "ja": "業火の冥激流! 迫られる決断の刻"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983332,
@@ -510,10 +559,12 @@
     },
     "29": {
       "episode": "29",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-04-21",
       "title": {
-        "en": "Fight Back! Genious Kiss of Burning Life"
+        "en": "Fight Back! Genious Kiss of Burning Life",
+        "romaji": "Hangeki! Inochi Moyasu Tensai Kiss",
+        "ja": "反撃! 命燃やす天才キッス"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983333,
@@ -525,10 +576,12 @@
     },
     "30": {
       "episode": "30",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-04-28",
       "title": {
-        "en": "Tensei of Ice Shockwave! Change the Tears into Strength"
+        "en": "Tensei of Ice Shockwave! Change the Tears into Strength",
+        "romaji": "Tensei no Hyouketsuba! Namida o Chikara ni Kaete",
+        "ja": "天青の氷結波! 涙を力に変えて"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983334,
@@ -540,10 +593,12 @@
     },
     "31": {
       "episode": "31",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-05-05",
       "title": {
-        "en": "Batton! A Lone Sniper"
+        "en": "Batton! A Lone Sniper",
+        "romaji": "Batton! Nushi Naki Sogekishu",
+        "ja": "バットン! 主亡き狙撃手"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983335,
@@ -555,10 +610,12 @@
     },
     "32": {
       "episode": "32",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-05-12",
       "title": {
-        "en": "The Great Escape! While Beet is Asleep..."
+        "en": "The Great Escape! While Beet is Asleep...",
+        "romaji": "Daidasshutsu! Beet no Neteru Aida ni...",
+        "ja": "大脱出! ビィトの寝てる間に..."
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983336,
@@ -570,10 +627,12 @@
     },
     "33": {
       "episode": "33",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-05-19",
       "title": {
-        "en": "Milfa! BB of Love and Justice Reappears"
+        "en": "Milfa! BB of Love and Justice Reappears",
+        "romaji": "Milfa! Ai to Seigi no BB Futabi",
+        "ja": "ミルファ! 愛と正義のBB再び"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983337,
@@ -585,10 +644,12 @@
     },
     "34": {
       "episode": "34",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-05-26",
       "title": {
-        "en": "Lightbolt Grasper! Come Forth, Lightning of Beauty"
+        "en": "Lightbolt Grasper! Come Forth, Lightning of Beauty",
+        "romaji": "Lightbolt Grasper! Raitare Otome no Ikazuchi yo",
+        "ja": "ライボルトグラスパー! 来たれ乙女の雷[いかずち]よ"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983338,
@@ -600,10 +661,12 @@
     },
     "35": {
       "episode": "35",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-06-02",
       "title": {
-        "en": "Ganeel! Dark Currency is Everything in This World"
+        "en": "Ganeel! Dark Currency is Everything in This World",
+        "romaji": "Ganeel! Konoyo wa Masatsu ga Subete",
+        "ja": "ガネール! この世は魔札がすべて"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983339,
@@ -615,10 +678,12 @@
     },
     "36": {
       "episode": "36",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-06-09",
       "title": {
-        "en": "Warship Tortoise! Chase the Mobile Fortress"
+        "en": "Warship Tortoise! Chase the Mobile Fortress",
+        "romaji": "Gunkan Tortoise! Idou Yousai o Oe",
+        "ja": "軍艦トータス! 移動要塞を追え"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983340,
@@ -630,10 +695,12 @@
     },
     "37": {
       "episode": "37",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-06-16",
       "title": {
-        "en": "Zenir! The Soundless Fear"
+        "en": "Zenir! The Soundless Fear",
+        "romaji": "Zenir! Shizuka Naru Kyoufu",
+        "ja": "ゼニア! 静かなる恐怖"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983341,
@@ -645,10 +712,12 @@
     },
     "38": {
       "episode": "38",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-06-23",
       "title": {
-        "en": "Jiiku! The Path that Busters Follow"
+        "en": "Jiiku! The Path that Busters Follow",
+        "romaji": "Jiiku! Senshi-tachi no Seikumichi",
+        "ja": "ジーク! 戦士たちの征く道"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983342,
@@ -660,10 +729,12 @@
     },
     "39": {
       "episode": "39",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-06-30",
       "title": {
-        "en": "Charge! The Nightmare of Grunide`s Castle"
+        "en": "Charge! The Nightmare of Grunide`s Castle",
+        "romaji": "Chinurareta Shishi! Grunide Jou",
+        "ja": "強襲! 悪夢のグリニデ城"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983343,
@@ -675,10 +746,12 @@
     },
     "40": {
       "episode": "40",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-07-06",
       "title": {
-        "en": "Bloody Beast! The True Form of Grunide"
+        "en": "Bloody Beast! The True Form of Grunide",
+        "romaji": "Chinurareta Kemono! Grunide no Shin no Sugata",
+        "ja": "血塗られた獣! グリニデの真の姿"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983344,
@@ -690,10 +763,12 @@
     },
     "41": {
       "episode": "41",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-07-14",
       "title": {
-        "en": "Peak Infuriation! The Roar of the Thrashing Beast"
+        "en": "Peak Infuriation! The Roar of the Thrashing Beast",
+        "romaji": "Ika Tsuyoshisaba! Bousou Suru Yaijuu no Sakebi",
+        "ja": "怒剛裂波! 暴走する野獣の叫び"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983347,
@@ -705,10 +780,12 @@
     },
     "42": {
       "episode": "42",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-07-21",
       "title": {
-        "en": "Boltic Axe! The Raging Axe of Thunder"
+        "en": "Boltic Axe! The Raging Axe of Thunder",
+        "romaji": "Boltic Axe! Takerikuruu Kaminari no Ono",
+        "ja": "ボルティックアックス! 猛りくるう雷の斧"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983349,
@@ -720,10 +797,12 @@
     },
     "43": {
       "episode": "43",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-07-28",
       "title": {
-        "en": "Devastation! The Last Counterattack"
+        "en": "Devastation! The Last Counterattack",
+        "romaji": "Zettaizetsumei! Saigo no Mou Hangeki",
+        "ja": "絶体絶命! 最後の猛反撃"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983350,
@@ -735,10 +814,12 @@
     },
     "44": {
       "episode": "44",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-08-04",
       "title": {
-        "en": "Miracle Team! Strike! The Miracle Triple Attack"
+        "en": "Miracle Team! Strike! The Miracle Triple Attack",
+        "romaji": "Miracle Team! Kimero! Kiseki no Sanrengeki",
+        "ja": "ミラクルチーム! 決めろ! 奇跡の三連撃"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983351,
@@ -750,10 +831,12 @@
     },
     "45": {
       "episode": "45",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-08-11",
       "title": {
-        "en": "The Last of Grunide! Farewell, Dark Green Tactician"
+        "en": "The Last of Grunide! Farewell, Dark Green Tactician",
+        "romaji": "Grunide no Saigo! Saraba Shinryoku no Chishou",
+        "ja": "グリニデの最期! さらば深緑の智将"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983352,
@@ -765,10 +848,12 @@
     },
     "46": {
       "episode": "46",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-08-18",
       "title": {
-        "en": "Awake, Busters! Reach for the Light of Hope"
+        "en": "Awake, Busters! Reach for the Light of Hope",
+        "romaji": "Tate Buster! Kibou no Hikari o Tsukame",
+        "ja": "起てバスター! 希望の光をつかめ"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983353,
@@ -780,10 +865,12 @@
     },
     "47": {
       "episode": "47",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-08-25",
       "title": {
-        "en": "Wanted! Kiss is Under Arrest!"
+        "en": "Wanted! Kiss is Under Arrest!",
+        "romaji": "Shimei Tehai! Kiss Taihosareru!?",
+        "ja": "指名手配! キッス逮捕される!?"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983354,
@@ -795,10 +882,12 @@
     },
     "48": {
       "episode": "48",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-09-01",
       "title": {
-        "en": "Emergency! Dazed Milfa"
+        "en": "Emergency! Dazed Milfa",
+        "romaji": "Ichidaiji!? Kurakura no Milfa",
+        "ja": "一大事!? クラクラのミルファ?"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983355,
@@ -810,10 +899,12 @@
     },
     "49": {
       "episode": "49",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-09-08",
       "title": {
-        "en": "Sled! The Independent Buster!"
+        "en": "Sled! The Independent Buster!",
+        "romaji": "Sled! Kokou Naru Buster!",
+        "ja": "スレッド! 孤高なるバスター!"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983356,
@@ -825,10 +916,12 @@
     },
     "50": {
       "episode": "50",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-09-15",
       "title": {
-        "en": "Beet And Kiss! The Symbol Of Friendship!"
+        "en": "Beet And Kiss! The Symbol Of Friendship!",
+        "romaji": "Beet to Kiss! Yuujou no Akashi!",
+        "ja": "ビィトとキッス! 友情の証!"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983357,
@@ -840,10 +933,12 @@
     },
     "51": {
       "episode": "51",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-09-22",
       "title": {
-        "en": "Captured City! Defend Port Termits!"
+        "en": "Captured City! Defend Port Termits!",
+        "romaji": "Toraware no Minato! Termits Koubousen!",
+        "ja": "囚われの港! ターミッツ攻防戦!"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983358,
@@ -855,10 +950,12 @@
     },
     "52": {
       "episode": "52",
-      "length": "25m",
+      "length": 25,
       "airDate": "2005-09-29",
       "title": {
-        "en": "The Last Battle! Farewell, Black Horizon!!"
+        "en": "The Last Battle! Farewell, Black Horizon!!",
+        "romaji": "Saigo no Tatakai! Kuro no Chihei yo Saraba!!",
+        "ja": "最後の戦い! 黒の地平よさらば!!"
       },
       "tvdbShowId": 75205,
       "tvdbId": 4983361,
@@ -867,124 +964,19 @@
       "absoluteEpisodeNumber": 52,
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/episodes/75205/4983361.jpg"
-    },
-    "OP1": {
-      "episode": "OP1",
-      "length": "2m",
-      "airDate": "2004-09-30",
-      "title": {
-        "en": "Emotion (1-26)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "OP2": {
-      "episode": "OP2",
-      "length": "2m",
-      "airDate": "2005-04-07",
-      "title": {
-        "en": "Wish Men (27-52)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "ED1": {
-      "episode": "ED1",
-      "length": "2m",
-      "airDate": "2004-09-30",
-      "title": {
-        "en": "Pureness (1-13)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "ED2": {
-      "episode": "ED2",
-      "length": "2m",
-      "airDate": "2005-01-06",
-      "title": {
-        "en": "Dreaming Under the Moon (14-26)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "ED3": {
-      "episode": "ED3",
-      "length": "2m",
-      "airDate": "2005-04-07",
-      "title": {
-        "en": "The Bee of Love: Aru Hachi no Ai no Monogatari (27-39)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "ED4": {
-      "episode": "ED4",
-      "length": "2m",
-      "airDate": "2005-07-09",
-      "title": {
-        "en": "Tsukiakari (Full Moon Version) (40-52)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T1": {
-      "episode": "T1",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "Promo"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-06-26T12:08:20.254Z",
+    "lastFetched": "2026-09-21T13:57:33.276Z",
     "sourcesUsed": [
-      "jikan",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
-      "zenshin",
-      "simkl"
+      "animeApi database",
+      "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "jikan"
+    ],
     "dataVersion": 1
   }
 }
