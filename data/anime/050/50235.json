@@ -39,11 +39,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -64,17 +60,21 @@
     "banner": null,
     "color": "#e48643"
   },
-  "trailer": null,
-  "synopsis": null,
+  "trailer": {
+    "youtubeId": "xkdqK9pPxu0",
+    "url": "https://www.youtube.com/watch?v=xkdqK9pPxu0",
+    "thumbnail": "https://i.ytimg.com/vi/xkdqK9pPxu0/hqdefault.jpg"
+  },
+  "synopsis": "Adapted from the picture book 鬼列车 (Gui Lieche - Ghost Train).",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T10:13:10.935Z",
+    "lastFetched": "2026-11-21T13:51:48.891Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

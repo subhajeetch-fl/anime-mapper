@@ -4,15 +4,15 @@
   "mappings": {
     "mal": 63181,
     "anilist": 204650,
-    "anidb": null,
-    "kitsu": null,
-    "simkl": null,
-    "tmdb": null,
+    "anidb": 19795,
+    "kitsu": 51018,
+    "simkl": 2977040,
+    "tmdb": 253811,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 63181,
-    "livechart": null,
+    "livechart": 13454,
     "animeplanet": "tougen-anki-nikko-kegon-falls-arc",
     "anisearch": 21138,
     "notify": null
@@ -23,36 +23,42 @@
     "native": "桃源暗鬼 日光・華厳の滝編",
     "synonyms": [
       "桃源暗鬼 2期",
-      "Tougen Anki Season 2"
+      "Tougen Anki Season 2",
+      "Tougen Anki: Arco das Cataratas Kegon em Nikko"
     ]
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 23,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-02T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Fridays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 9,
+    "airingAt": 1795789800
+  },
   "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.28,
+    "anilistScore": 7.3,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Fantasy",
+    "Mythology",
+    "Shounen",
     "Mystery",
     "Supernatural"
   ],
@@ -60,14 +66,22 @@
     "Studio Hibari"
   ],
   "producers": [
-    "Pony Canyon"
+    "Pony Canyon",
+    "Dentsu",
+    "Nippon Television Network",
+    "Akita Shoten",
+    "Studio Hibari"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
-    "banner": null,
-    "color": "#c9f1f1"
+    "poster": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204650-MpownoVlYv69.jpg",
+    "color": "#4393e4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "upBWYExYoYc",
+    "url": "https://www.youtube.com/watch?v=upBWYExYoYc",
+    "thumbnail": "https://i.ytimg.com/vi/upBWYExYoYc/hqdefault.jpg"
+  },
   "synopsis": "Sequel of Tougen Anki.",
   "sequence": [
     {
@@ -84,17 +98,224 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-03T06:51:06.832Z",
+    "lastFetched": "2026-11-21T14:18:16.708Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -65,20 +61,26 @@
     "banner": null,
     "color": "#00bbff"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "cMJUAPXKb70",
+    "url": "https://www.youtube.com/watch?v=cMJUAPXKb70",
+    "thumbnail": "https://i.ytimg.com/vi/cMJUAPXKb70/hqdefault.jpg"
+  },
   "synopsis": "People become ‘ghouls’ upon dying, and will enter the physical world through a door to cause chaos. Zhang Zha, a mere delivery boy, accidentally entered a haunted house, and resulted in a crisis— a ‘ghoul’ breakout. As such, people from all factions began to make an appearance in the story, while Zhang Zha continues to grow upon experiencing a series of adventures and fights with a mysterious scroll about modern Jianghu slowly unfolding alongside.\n\n(Source: MU)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:01:04.768Z",
+    "lastFetched": "2026-11-21T14:14:50.766Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

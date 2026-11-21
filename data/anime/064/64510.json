@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 64510,
     "livechart": null,
-    "animeplanet": null,
+    "animeplanet": "ruguo-lishi-shi-yiqun-miao-13",
     "anisearch": null,
     "notify": null
   },
@@ -28,21 +28,17 @@
   },
   "type": "ONA",
   "source": "Web manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 10,
   "aired": {
     "from": "2026-07-11T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-19T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -51,9 +47,14 @@
     "kitsuRating": null
   },
   "genres": [
-    "Comedy"
+    "Comedy",
+    "Educational",
+    "Historical",
+    "Kids"
   ],
-  "studios": [],
+  "studios": [
+    "Moxie Studio"
+  ],
   "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1409/158784l.jpg",
@@ -65,16 +66,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-12T21:30:30.132Z",
+    "lastFetched": "2026-11-21T14:23:44.574Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

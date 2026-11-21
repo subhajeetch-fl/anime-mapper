@@ -4,78 +4,89 @@
   "mappings": {
     "mal": 63381,
     "anilist": 206774,
-    "anidb": null,
+    "anidb": 19858,
     "kitsu": null,
-    "simkl": null,
-    "tmdb": null,
-    "tvdb": null,
-    "trakt": null,
-    "traktType": null,
+    "simkl": 3004128,
+    "tmdb": 334779,
+    "tvdb": 473125,
+    "trakt": 328254,
+    "traktType": "shows",
     "shikimori": 63381,
-    "livechart": null,
-    "animeplanet": "click-me-all-over",
-    "anisearch": null,
+    "livechart": 13494,
+    "animeplanet": "now-that-i-can-control-reality-with-a-mouse-cursor-im-gonna-click-away-on-the-girls",
+    "anisearch": 21185,
     "notify": null
   },
   "title": {
     "romaji": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu",
-    "english": null,
+    "english": "Now That I Can Control Reality with a Mouse Cursor, I'm Gonna Click Away on the Girls!",
     "native": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
     "synonyms": [
-      "Click Me All Over"
+      "Click Me All Over",
+      "Now That I Can Control the Real World with My Mouse Cursor, I Click on a Lot of Girls.",
+      "Mouse Cursor, I'm Gonna Click Away On The Girls!"
     ]
   },
-  "type": "TV",
+  "type": "ONA",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 8,
+  "episodeLength": 7,
   "aired": {
-    "from": null,
+    "from": "2026-10-05T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+  "season": "fall",
+  "year": 2026,
+  "broadcast": null,
+  "nextAiringEpisode": {
+    "episode": 7,
+    "airingAt": 1795964400
   },
-  "nextAiringEpisode": null,
-  "rating": "R+ - Mild Nudity",
+  "rating": "Rx - Hentai",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 5.66,
+    "anilistScore": 5.2,
     "kitsuRating": null
   },
   "genres": [
-    "Erotica",
+    "Hentai",
     "Ecchi",
     "Romance",
     "Supernatural"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Studio Hokiboshi",
+    "Studio Houkiboshi"
+  ],
+  "producers": [
+    "Suiseisha"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1096/155160l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1498/159767l.jpg",
     "banner": null,
-    "color": "#d6ae1a"
+    "color": "#f1c9ae"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "2zhlC9mffas",
+    "url": "https://www.youtube.com/watch?v=2zhlC9mffas",
+    "thumbnail": "https://i.ytimg.com/vi/2zhlC9mffas/hqdefault.jpg"
+  },
   "synopsis": "What if you could actually use a mouse cursor in real life? Takumi, the nerdy outcast, harbors unrequited feelings for his first love, Mone, who treats him with disdain. During computer class, Takumi discovers that his mouse cursor extends beyond the screen and into the physical world...?! With this newfound power visible only to him, Takumi sees an opportunity for mischief. He uses the cursor to get revenge on Mone, clicking on sensitive areas and reveling in her reactions. But when an \"Intercourse\" button appears unexpectedly, Takumi is thrust into a reality he never imagined possible...\"Intercourse\"?! Could this really be...?!\n\n(Source: Coolmic)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T06:54:45.885Z",
+    "lastFetched": "2026-11-21T14:19:12.875Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

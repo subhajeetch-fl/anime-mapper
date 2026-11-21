@@ -13,47 +13,53 @@
     "traktType": null,
     "shikimori": 59787,
     "livechart": 13383,
-    "animeplanet": "romelia-senki-hakushaku-reijou-maou-wo-taoshita-ato-mo-jinrui-yabasou-dakara-guntai-soshikisuru",
+    "animeplanet": "romelia-war-chronicle",
     "anisearch": 19585,
     "notify": "0eS5SX6Sg"
   },
   "title": {
-    "romaji": "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
+    "romaji": "Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
     "english": "Romelia War Chronicle",
     "native": "ロメリア戦記 〜魔王を倒した後も人類やばそうだから軍隊組織した〜",
     "synonyms": [
       "Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshiki shita",
       "Romelia Senki: Forming a Military Organization Because Humanity Still Looks Screwed After Defeating the Demon King",
-      "A History of the Romelia"
+      "A History of the Romelia",
+      "ロメリア戦記",
+      "Romelia Senki"
     ]
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-01-01T00:00:00+00:00",
+    "from": "2026-10-05T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "fall",
+  "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Mondays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 9,
+    "airingAt": 1795867200
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.3,
+    "anilistScore": 7.3,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Fantasy",
+    "Military",
     "Adventure",
     "Drama"
   ],
@@ -62,27 +68,248 @@
   ],
   "producers": [
     "Pony Canyon",
+    "Rakuten",
+    "TOKYO MX",
+    "BS11",
+    "Movic",
+    "SANKYO",
     "Bit grooove promotion"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1112/156366l.jpg",
-    "banner": null,
-    "color": "#e4c9ae"
+    "poster": "https://cdn.myanimelist.net/images/anime/1208/160008l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180894-msSUHJ5Qejvf.jpg",
+    "color": "#4393e4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "PxXPcoo8uGM",
+    "url": "https://www.youtube.com/watch?v=PxXPcoo8uGM",
+    "thumbnail": "https://i.ytimg.com/vi/PxXPcoo8uGM/hqdefault.jpg"
+  },
   "synopsis": "Rising from the ashes, a fallen noblewoman stands to save humanity!\n\nAfter the Demon King's defeat, Countess Romelia's world is shattered when Prince Henri, her fiancé, publicly breaks off their engagement, dismissing her as \"useless\" alongside his new allies: Saint Elizabeth, the sage Ekaterina, and the swordswoman Lu Hime. What they don't realize is that Romelia possesses a secret power called \"Grace,\" which brings her extraordinary luck. Left abandoned and humiliated, Romelia refuses to give up. With her homeland still under siege by the remnants of the demon army and her people enslaved, she embarks on a desperate mission to save them.\n\nFacing overwhelming challenges—no army, no healers, no funds, and only inexperienced recruits—Romelia uses her wit and determination to turn the odds in her favor. She seizes fortresses from local lords to build her forces, negotiates with the church for healing, secures funds from merchants, and has her soldiers gain experience through monster hunting. Against all expectations, Romelia rises from the ashes, leading her loyal followers in a daring campaign to rescue her people and prove her worth.\n\n(Source: MAL News)",
-  "sequence": [],
-  "episodes": {},
+  "sequence": [
+    {
+      "malId": 65298,
+      "title": {
+        "romaji": "Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita Part II",
+        "english": null,
+        "native": "ロメリア戦記 〜魔王を倒した後も人類やばそうだから軍隊組織した〜 第IIクール"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx219243-o9iT7Rl7vB4k.png",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2027,
+      "relationType": "SEQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-05",
+      "title": {
+        "en": "The Girl Named Romelia",
+        "romaji": "Romelia to Iu Shoujo",
+        "ja": "ロメリアという少女"
+      },
+      "tvdbShowId": 470269,
+      "tvdbId": 11447613,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11447613/screencap/6ac0fe8f1dfe6.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-12",
+      "title": {
+        "en": "Fortress Takeover",
+        "romaji": "Toride Kouryaku Kaishi",
+        "ja": "砦攻略開始"
+      },
+      "tvdbShowId": 470269,
+      "tvdbId": 11974986,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11974986/screencap/6ac9822098198.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-19",
+      "title": {
+        "en": "The Name of That Miracle",
+        "romaji": "Sono Kiseki no Na wa",
+        "ja": "その奇跡の名は"
+      },
+      "tvdbShowId": 470269,
+      "tvdbId": 11974987,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11974987/screencap/6ad2ef9328d03.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-26",
+      "title": {
+        "en": "The Troubles of a Young Man",
+        "romaji": "Seinen no Kunou",
+        "ja": "青年の苦悩"
+      },
+      "tvdbShowId": 470269,
+      "tvdbId": 12017023,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017023/screencap/6adc94b349fdd.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-02",
+      "title": {
+        "en": "The Line Between Courage and Recklessness",
+        "romaji": "Yuuki to Mubou no Kyoukaisen",
+        "ja": "勇気と無謀の境界線"
+      },
+      "tvdbShowId": 470269,
+      "tvdbId": 12017024,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017024/screencap/6ae3f5d0a7478.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-09",
+      "title": {
+        "en": "Each of Their Resolves",
+        "romaji": "Sorezore no Kakugo",
+        "ja": "それぞれの覚悟"
+      },
+      "tvdbShowId": 470269,
+      "tvdbId": 12017025,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017025/screencap/6aed5ec556a67.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-16",
+      "title": {
+        "en": "Musical Chairs",
+        "romaji": "Isutori Game",
+        "ja": "椅子取りゲーム"
+      },
+      "tvdbShowId": 470269,
+      "tvdbId": 12017026,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017026/screencap/6af620d717ac2.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-23",
+      "title": {
+        "en": null,
+        "romaji": "Mezasu Saki",
+        "ja": "目指す先"
+      },
+      "tvdbShowId": 470269,
+      "tvdbId": 12017027,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017027/screencap/6affa6a527d06.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-11-30",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 470269,
+      "tvdbId": 12017028,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-07",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 470269,
+      "tvdbId": 12017029,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-14",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 470269,
+      "tvdbId": 12017030,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-21",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 470269,
+      "tvdbId": 12017031,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-12T21:39:13.102Z",
+    "lastFetched": "2026-11-21T14:09:30.435Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

@@ -3,31 +3,27 @@
   "idMal": 35854,
   "mappings": {
     "mal": 35854,
-    "anilist": 100148,
+    "anilist": null,
     "anidb": null,
-    "kitsu": 13629,
+    "kitsu": null,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
-    "shikimori": 35854,
-    "livechart": 2779,
-    "animeplanet": "the-zero-century-herlock",
-    "anisearch": 13006,
-    "notify": "d7aV2Fmig"
+    "shikimori": null,
+    "livechart": null,
+    "animeplanet": null,
+    "anisearch": null,
+    "notify": null
   },
   "title": {
-    "romaji": "Zero Seiki Movie 2: Herlock",
+    "romaji": "The Zero Century Movie 2: Herlock",
     "english": null,
     "native": "零世紀 ハーロック",
-    "synonyms": [
-      "The Zero Century: Harlock",
-      " The Zero Century Movie 2: Herlock",
-      " The Zero Century: Herlock"
-    ]
+    "synonyms": []
   },
-  "type": "MOVIE",
+  "type": null,
   "source": null,
   "status": "Not yet aired",
   "airing": false,
@@ -48,9 +44,9 @@
     "kitsuRating": null
   },
   "genres": [
+    "Sci-Fi",
     "Action",
     "Adventure",
-    "Sci-Fi",
     "Science Fiction",
     "Space",
     "Pirate"
@@ -60,62 +56,41 @@
   "images": {
     "poster": "https://media.kitsu.app/anime/poster_images/13629/original.jpg",
     "banner": null,
-    "color": "#e4785d"
+    "color": null
   },
   "trailer": null,
   "synopsis": "",
-  "sequence": [
-    {
-      "malId": 1000,
+  "sequence": [],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
       "title": {
-        "romaji": "Uchuu Kaizoku Captain Harlock",
-        "english": "Captain Harlock Space Pirate",
-        "native": "宇宙海賊キャプテンハーロック"
+        "en": null,
+        "romaji": null,
+        "ja": null
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1000-Xpeob9jND2tg.jpg",
-      "format": "TV",
-      "episodes": 42,
-      "seasonYear": 1978,
-      "relationType": "ALTERNATIVE"
-    },
-    {
-      "malId": 35853,
-      "title": {
-        "romaji": "Zero Seiki Movie 1: Emeraldas",
-        "english": null,
-        "native": "零世紀 エメラルダス"
-      },
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100081-SkiKHz5hPTtD.jpg",
-      "format": "MOVIE",
-      "episodes": 1,
-      "seasonYear": null,
-      "relationType": "PREQUEL"
-    },
-    {
-      "malId": 35855,
-      "title": {
-        "romaji": "Zero Seiki Movie 3: Maetel",
-        "english": null,
-        "native": "零世紀 メーテル"
-      },
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107623-tC5mDZOUEPMz.jpg",
-      "format": "MOVIE",
-      "episodes": 1,
-      "seasonYear": null,
-      "relationType": "SEQUEL"
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
     }
-  ],
-  "episodes": {},
+  },
   "meta": {
-    "lastFetched": "2026-06-28T19:03:53.843Z",
+    "lastFetched": "2026-11-21T13:46:56.615Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "anilist",
-      "animeapi.my.id",
+      "mal",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "animeApi database (no record)",
+      "anilist (not in ID mappings)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

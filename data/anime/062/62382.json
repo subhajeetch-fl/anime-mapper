@@ -28,18 +28,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 2,
   "aired": {
     "from": "2024-04-05T00:00:00+00:00",
     "to": null
   },
   "season": "spring",
   "year": 2024,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -48,14 +44,15 @@
     "kitsuRating": null
   },
   "genres": [
-    "Sci-Fi"
+    "Anthropomorphic",
+    "Kids",
+    "Sci-Fi",
+    "Space"
   ],
   "studios": [
     "Fugaku"
   ],
-  "producers": [
-    "NHK"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1114/151777l.jpg",
     "banner": null,
@@ -66,16 +63,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:53:47.574Z",
+    "lastFetched": "2026-11-21T14:13:57.762Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

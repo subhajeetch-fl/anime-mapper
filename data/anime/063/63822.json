@@ -4,24 +4,25 @@
   "mappings": {
     "mal": 63822,
     "anilist": 209980,
-    "anidb": null,
+    "anidb": 19980,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 3064460,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 63822,
     "livechart": 13582,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-2nd-season",
+    "anisearch": 21340,
     "notify": null
   },
   "title": {
     "romaji": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta 2nd Season",
     "english": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too Season 2",
-    "native": "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ 第2期",
+    "native": "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ 2nd Season",
     "synonyms": [
+      "Iseleve",
       "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too Season 2"
     ]
   },
@@ -32,16 +33,12 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-01-01T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "winter",
+  "year": 2027,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -52,17 +49,27 @@
   "genres": [
     "Action",
     "Fantasy",
+    "Isekai",
     "Adventure",
     "Romance"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Millepensee"
+  ],
+  "producers": [
+    "KADOKAWA",
+    "UNLIMITED PRODUCE by TMS"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1632/156344l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1605/160555l.jpg",
     "banner": null,
-    "color": "#5d93e4"
+    "color": "#5da1e4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "twGVFfRI-7s",
+    "url": "https://www.youtube.com/watch?v=twGVFfRI-7s",
+    "thumbnail": "https://i.ytimg.com/vi/twGVFfRI-7s/hqdefault.jpg"
+  },
   "synopsis": "Second season of Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta.",
   "sequence": [
     {
@@ -81,12 +88,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:03:47.682Z",
+    "lastFetched": "2026-11-21T14:20:33.643Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

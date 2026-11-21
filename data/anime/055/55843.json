@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG",
   "score": {
@@ -54,27 +50,34 @@
     "Post Apocalypse",
     "Gunfights"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Raging Bull",
+    "RagingBull"
+  ],
+  "producers": [
+    "KADOKAWA"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1071/137194l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1854/160372l.webp",
     "banner": null,
-    "color": "#e4d65d"
+    "color": "#e4c928"
   },
   "trailer": null,
   "synopsis": "The pinnacle of human civilization has come and gone, leaving only ruins in its wake. Society and science now struggle to rebuild, rediscovering scraps of knowledge from powerful ancient artifacts that defy comprehension. These relics of the \"Old World\" can make the fortunes of those who find them—if ancient security systems and rogue bioweapons don't kill the relic hunters first.\n\nAkira, a young street orphan, sets out to become one such hunter to escape his brutal life in the slums. Untrained, malnourished, and poorly armed, Akira would be lucky to make it back from the ruins alive—until an encounter with Alpha, a mysterious, ghostly woman, changes his fate forever. Alpha needs a hunter, and she's willing to train Akira to get one.\n\nWill her support be enough to help a penniless kid from the slums climb to the top of a crushing and merciless world?\n\n(Source: J-Novel Club)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T15:22:39.015Z",
+    "lastFetched": "2026-11-21T13:56:57.757Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

@@ -13,27 +13,28 @@
     "traktType": null,
     "shikimori": 62524,
     "livechart": 13327,
-    "animeplanet": "zombie-sagashitemasu",
+    "animeplanet": "im-looking-for-a-zombie",
     "anisearch": 20901,
     "notify": null
   },
   "title": {
     "romaji": "#Zombie Sagashitemasu",
-    "english": "#I'm Looking for Zombie",
+    "english": "#I'm Looking For a Zombie",
     "native": "#ゾンビさがしてます",
     "synonyms": [
-      "#I'm Looking for Zombie"
+      "Zommasu",
+      "ゾンます"
     ]
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
-    "to": null
+    "from": "2026-10-03T00:00:00+00:00",
+    "to": "2026-12-26T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
@@ -42,48 +43,181 @@
     "time": "23:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 7,
+    "airingAt": 1795271400
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.6,
+    "anilistScore": 5.8,
     "kitsuRating": null
   },
   "genres": [
     "Adventure",
+    "Shounen",
+    "Survival",
     "Action",
     "Comedy",
     "Horror",
     "Mystery",
-    "Supernatural",
-    "Zombie",
-    "Post Apocalypse"
+    "Supernatural"
   ],
   "studios": [
     "Studio Comet"
   ],
   "producers": [
-    "Kadokawa"
+    "KADOKAWA",
+    "TV Asahi",
+    "arma bianca",
+    "Studio Comet",
+    "Jinnan Studio"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1479/156166l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1151/160025l.jpg",
     "banner": null,
-    "color": "#5d93f1"
+    "color": "#5078e4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "Q72YGjPWpRc",
+    "url": "https://www.youtube.com/watch?v=Q72YGjPWpRc",
+    "thumbnail": "https://i.ytimg.com/vi/Q72YGjPWpRc/hqdefault.jpg"
+  },
   "synopsis": "Set in a world where 90% of humanity has contracted and died from a deadly, virulent disease, only to rise again as attacking zombies, thirteen years have passed since the \"Red Day\" of societal collapse. The surviving humans now live away from the big cities, still hoping to reclaim them one day. An entirely new generation, unaware of the pre-Red Day world, is coming into its own.\n\nThe story begins when Aki, who has no memories of the world before its fall, escapes her village with her close friends Haru and Natsuki to search for her missing father. As they venture into the outside world, they find themselves surrounded by zombies on all sides! Along the way, they rescue Yuu and Sakura and take refuge in a home improvement store. They regroup, and now the counterattack begins—!!\n\n(Source: Kadokawa, edited)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-03",
+      "title": {
+        "en": "I`m Looking For My Dad"
+      },
+      "tvdbShowId": 468324,
+      "tvdbId": 11345578,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11345578/screencap/6aba37366c981.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-10",
+      "title": {
+        "en": "I`m Looking For My Friends"
+      },
+      "tvdbShowId": 468324,
+      "tvdbId": 12017009,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017009/screencap/6ac36f0cae5ce.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-17",
+      "title": {
+        "en": "I`m Looking For a Photo Shop"
+      },
+      "tvdbShowId": 468324,
+      "tvdbId": 12017010,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017010/screencap/6acca7cba2411.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-24",
+      "title": {
+        "en": "I`m Looking For a Hospital"
+      },
+      "tvdbShowId": 468324,
+      "tvdbId": 12017011,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017011/screencap/6ad5e41ed2473.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-10-31",
+      "title": {
+        "en": "I`m Looking For a Mechanic"
+      },
+      "tvdbShowId": 468324,
+      "tvdbId": 12017012,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017012/screencap/6adf2462b3cb8.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-14",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 468324,
+      "tvdbId": 12017013,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017013/screencap/6af19107a20ad.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-21",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 468324,
+      "tvdbId": 12017014,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017014/screencap/6afac89d8d15d.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-28",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 468324,
+      "tvdbId": 12017015,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-02T07:57:07.068Z",
+    "lastFetched": "2026-11-21T14:14:05.423Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

@@ -4,29 +4,26 @@
   "mappings": {
     "mal": 62922,
     "anilist": 202250,
-    "anidb": null,
-    "kitsu": null,
-    "simkl": null,
-    "tmdb": null,
+    "anidb": 19714,
+    "kitsu": 50993,
+    "simkl": 2932220,
+    "tmdb": 333622,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 62922,
     "livechart": null,
-    "animeplanet": null,
+    "animeplanet": "magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest",
     "anisearch": null,
     "notify": null
   },
   "title": {
     "romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
-    "english": null,
+    "english": "Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!",
     "native": "貸した魔力は【リボ払い】で強制徴収",
     "synonyms": [
-      "Magic Repo Man: Dumped by My Party",
-      "I'll Cash In With a Cute Support Fairy to Become the Strongest!",
       "Lent Magic Point Is Forcibly Collected by Revolving Payment",
       "Unlimited Vault: The Magic They Borrowed Will Be Their Downfall",
-      "Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!",
       "貸した魔力は【リボ払い】で強制徴収～用済みとパーティー追放された俺は、可愛いサポート妖精と一緒に取り立てた魔力を運用して最強を目指す。～",
       "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu ~Youzumi to Party Tsuihou sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku wo Unyou shite Saikyou wo Mezasu.",
       "Maryoku Revo",
@@ -35,13 +32,13 @@
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 23,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
-    "to": null
+    "from": "2026-10-04T00:00:00+00:00",
+    "to": "2026-12-20T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
@@ -50,11 +47,14 @@
     "time": "01:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795278600
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.25,
+    "anilistScore": 6.2,
     "kitsuRating": null
   },
   "genres": [
@@ -65,26 +65,247 @@
   "studios": [
     "SynergySP"
   ],
-  "producers": [],
+  "producers": [
+    "TV Asahi",
+    "TV Asahi Music",
+    "Flex Comics",
+    "SynergySP",
+    "Kotobukiya",
+    "BS Asahi",
+    "Bushiroad Move",
+    "AbemaTV",
+    "Ray"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1050/158789l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1498/159735l.jpg",
     "banner": null,
-    "color": "#f17843"
+    "color": "#bbe45d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "kXqx3rFSkxc",
+    "url": "https://www.youtube.com/watch?v=kXqx3rFSkxc",
+    "thumbnail": "https://i.ytimg.com/vi/kXqx3rFSkxc/hqdefault.jpg"
+  },
   "synopsis": "Lent is part of the up-and-coming party known as the \"Skypiercers,\" and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious...until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!\n\n(Source: Seven Seas Entertainment)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-06T04:38:37.938Z",
+    "lastFetched": "2026-11-21T14:16:25.269Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

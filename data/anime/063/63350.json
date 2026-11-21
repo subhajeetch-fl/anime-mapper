@@ -6,7 +6,7 @@
     "anilist": 206798,
     "anidb": 19839,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 2995880,
     "tmdb": 312047,
     "tvdb": null,
     "trakt": null,
@@ -19,12 +19,9 @@
   },
   "title": {
     "romaji": "Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu",
-    "english": null,
+    "english": "My Sword Saint Master Is Too Cute to Live With!",
     "native": "同居している剣聖の女師匠が可愛すぎて毎日幸せです",
     "synonyms": [
-      "My Female Sword Master",
-      "Who I Live with",
-      "Is So Cute That I’m Happy Every Day",
       "My Female Sword Master, Who I Live with, Is So Cute That I’m Happy Every Day"
     ]
   },
@@ -35,16 +32,12 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-01-01T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "winter",
+  "year": 2027,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -53,30 +46,40 @@
     "kitsuRating": null
   },
   "genres": [
-    "Fantasy",
     "Erotica",
+    "Fantasy",
     "Comedy",
     "Ecchi",
     "Romance"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Wolfsbane",
+    "Light Box",
+    "LIGHTBOX"
+  ],
+  "producers": [
+    "WWWave"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1623/155080l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1445/159984l.jpg",
     "banner": null,
-    "color": "#fff135"
+    "color": "#e4bb86"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "Bh4XDVDUZKc",
+    "url": "https://www.youtube.com/watch?v=Bh4XDVDUZKc",
+    "thumbnail": "https://i.ytimg.com/vi/Bh4XDVDUZKc/hqdefault.jpg"
+  },
   "synopsis": "Eugene Dawson, a lad who aims to get stronger, is currently training under his master, Liza Pulsandra, who is extolled as the Sword Saint. His days are spent happily with his master, who is the strongest in terms of physical strength, but whose private life is a bit of a mess. Or so one would think, but her undefended and erotic body and unconscious physical contact make something like training seem impossible...!? Can he really get stronger like this?\n\n(Source: Kadokawa, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T06:54:24.809Z",
+    "lastFetched": "2026-11-21T14:19:07.723Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

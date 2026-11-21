@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -58,7 +54,7 @@
     "color": "#e45d5d"
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "New short film by Saku Sakamoto announced during the screening of Amrita no Kyouen.",
   "sequence": [
     {
       "malId": 41029,
@@ -76,12 +72,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T19:34:25.403Z",
+    "lastFetched": "2026-11-21T14:01:34.158Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

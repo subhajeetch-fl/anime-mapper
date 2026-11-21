@@ -5,7 +5,7 @@
     "mal": 63382,
     "anilist": 206949,
     "anidb": 19865,
-    "kitsu": null,
+    "kitsu": 50764,
     "simkl": 3007186,
     "tmdb": 312850,
     "tvdb": null,
@@ -19,68 +19,571 @@
   },
   "title": {
     "romaji": "Kyouran Reijou Nia Liston",
-    "english": null,
+    "english": "Nia Liston: The Merciless Maiden",
     "native": "凶乱令嬢ニア・リストン",
-    "synonyms": [
-      "Nia Liston: The Merciless Maiden"
-    ]
+    "synonyms": []
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 25,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-06T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Tuesdays",
+    "time": "21:25",
+    "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1791289560
+    "episode": 8,
+    "airingAt": 1795523160
   },
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.4,
+    "anilistScore": 7.4,
     "kitsuRating": null
   },
   "genres": [
-    "Fantasy"
+    "Fantasy",
+    "Reincarnation",
+    "Action"
   ],
   "studios": [
     "Konami animation"
   ],
   "producers": [
+    "Mainichi Broadcasting System",
+    "SANKYO",
+    "JR Higashi Nihon Kikaku",
     "Konami Digital Entertainment",
+    "VAP",
+    "BS Nittele",
+    "Pia",
+    "Hobby Japan",
+    "Movic",
     "TO Books"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
-    "banner": null,
+    "poster": "https://cdn.myanimelist.net/images/anime/1000/159223l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206949-c5hfhixdgvy5.jpg",
     "color": "#f15dbb"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "gxG4vntLtbk",
+    "url": "https://www.youtube.com/watch?v=gxG4vntLtbk",
+    "thumbnail": "https://i.ytimg.com/vi/gxG4vntLtbk/hqdefault.jpg"
+  },
   "synopsis": "Lying on her deathbed with seemingly no chance at recovery, a young Nia Liston is soon to succumb to her illness. Unable to give up hope, her parents desperately search for a cure in even the most obscure places, leading to the appearance of a hooded man claiming he can help rid Nia of her condition. But rather than curing her, the hooded man transplants the soul of a deceased hero who was undefeated in battle into the girl's frail body.\n\nGiven a second chance at life as Nia, the hero is determined to recover her new body's strength by using a technique known as chi to target and eliminate the illness at its roots. With her enthusiastic hunger for combat having also been carried over, Nia is eager to return to exploring the world. However, the hero's restless soul yearns to find a worthy opponent who can defeat her on the battlefield, sparking chaos wherever Nia may go.\n\n[Written by MAL Rewrite]",
-  "sequence": [],
-  "episodes": {},
+  "sequence": [
+    {
+      "malId": null,
+      "title": {
+        "romaji": "RESPAWN!!",
+        "english": "RESPAWN!!",
+        "native": "リスポーン!!"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218391-HcD57fIMYn5T.jpg",
+      "format": "MUSIC",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "OTHER"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-06",
+      "title": {
+        "en": "Rising from the Darkness",
+        "romaji": "Yami yori Ukabite",
+        "ja": "闇より浮かびて"
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 11582239,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11582239/screencap/6ac3ffdadf640.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-13",
+      "title": {
+        "en": "A Job in the Royal Capital",
+        "romaji": "Outo de no Shigoto",
+        "ja": "王都での仕事"
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12022165,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022165/screencap/6ace19a7399a1.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-20",
+      "title": {
+        "en": "After the Curtain Falls",
+        "romaji": "Butai no Maku ga Orita Ato",
+        "ja": "舞台の幕が下りた後"
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12022166,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022166/screencap/6ad6af4b2a1df.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-27",
+      "title": {
+        "en": "The Girls Meet",
+        "romaji": "Shoujo-tachi no Deai",
+        "ja": "少女たちの出会い"
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12022167,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022167/screencap/6adeaae04a7a0.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-03",
+      "title": {
+        "en": "Project Magivision Kickoff Meeting",
+        "romaji": "Magic Vision Fukyuu Katsudou Kaigi",
+        "ja": "魔法映像[マジックビジョン]普及活動会議"
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12022168,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022168/screencap/6ae944516d91b.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-10",
+      "title": {
+        "en": "The Academy Martial Arts Tournament Is On!",
+        "romaji": "Gakuin Butou Taikai, Kaisai!",
+        "ja": "学院武闘大会, 開催!"
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12022169,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022169/screencap/6ae9e5686a210.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-17",
+      "title": {
+        "en": "Infiltrating the Umbral Arena",
+        "romaji": "Sennyuu, Yami no Tougijou",
+        "ja": "潜入, 闇の闘技場"
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12022170,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022170/screencap/6afa5924723df.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-24",
+      "title": {
+        "en": "The Sword Demon`s Blade",
+        "romaji": "Kenki no Maken",
+        "ja": "剣鬼の魔剣"
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12022171,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-12-01",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12022172,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-08",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12022173,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-15",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12022174,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-22",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12022175,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    },
+    "S39": {
+      "episode": "S39",
+      "length": 35,
+      "airDate": "2026-10-02",
+      "title": {
+        "en": "Episode S39",
+        "romaji": "Fukyuu Katsudou Kaigi",
+        "ja": "普及活動会議"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S26": {
+      "episode": "S26",
+      "length": 2,
+      "airDate": "2026-10-15",
+      "title": {
+        "en": "Mini Anime 1",
+        "romaji": "Mini Anime Dai 1 Wa \"Bansen Rehearsal\"",
+        "ja": "ミニアニメ第1話『番宣リハーサル』"
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12039368,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12039368/screencap/6ad380b09e772.jpg"
+    },
+    "S27": {
+      "episode": "S27",
+      "length": 2,
+      "airDate": "2026-10-28",
+      "title": {
+        "en": "Mini Anime 2",
+        "romaji": "Mini Anime Dai 2 Wa \"Satsuei Chuu no Dekigoto\"",
+        "ja": "ミニアニメ第2話『撮影中の出来事』"
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12098995,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": 2,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": 1,
+      "airDate": "2026-10-07",
+      "title": {
+        "en": "Rinokis Saw 1",
+        "romaji": "Rinokis wa Mita Dai 1 Wa: Ojou-sama o Mamoritai",
+        "ja": "リノキスは見た 第1話 お嬢様を見守りたい"
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12098998,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": 1,
+      "airDate": "2026-10-14",
+      "title": {
+        "en": "Rinokis Saw 2",
+        "romaji": "Rinokis wa Mita Dai 2 Wa: Ojou-sama to Souji Shitai",
+        "ja": "リノキスは見た 第2話 お嬢様と掃除したい"
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12098999,
+      "seasonNumber": 0,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": 1,
+      "airDate": "2026-10-21",
+      "title": {
+        "en": "Rinokis Saw 3",
+        "romaji": "Rinokis wa Mita Dai 3 Wa: Ojou-sama o Mimikaki Shitai",
+        "ja": "リノキスは見た 第3話 お嬢様を耳かきしたい"
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12099000,
+      "seasonNumber": 0,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": null
+    },
+    "S4": {
+      "episode": "S4",
+      "length": 1,
+      "airDate": "2026-10-28",
+      "title": {
+        "en": "Rinokis Saw 4",
+        "romaji": "Rinokis wa Mita Dai 4 Wa: Ojou-sama ni Oshiete Agetai",
+        "ja": "リノキスは見た 第4話 お嬢様に教えてあげたい"
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12099001,
+      "seasonNumber": 0,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": null
+    },
+    "S5": {
+      "episode": "S5",
+      "length": 1,
+      "airDate": "2026-11-04",
+      "title": {
+        "en": "Rinokis Saw 5",
+        "romaji": "Rinokis wa Mita Dai 5 Wa: Ojou-sama no Teryouri ga Tabetai",
+        "ja": "リノキスは見た 第5話 お嬢様の手料理が食べたい"
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12099002,
+      "seasonNumber": 0,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": null
+    },
+    "S6": {
+      "episode": "S6",
+      "length": 1,
+      "airDate": "2026-11-11",
+      "title": {
+        "en": "Rinokis Saw 6",
+        "romaji": "Rinokis wa Mita Dai 6 Wa: Yami Tougijou ni Nante Ikasenai",
+        "ja": "リノキスは見た 第6話 闇闘技場になんて行かせない"
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12099003,
+      "seasonNumber": 0,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": null
+    },
+    "S7": {
+      "episode": "S7",
+      "length": 1,
+      "airDate": "2026-11-18",
+      "title": {
+        "en": "Rinokis Saw 7",
+        "romaji": "Rinokis wa Mita Dai 7 Wa: Ojou-sama ni Mitoraretai",
+        "ja": "リノキスは見た 第7話 お嬢様に看取られたい"
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12099004,
+      "seasonNumber": 0,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": null
+    },
+    "S8": {
+      "episode": "S8",
+      "length": 1,
+      "airDate": "2026-11-25",
+      "title": {
+        "en": "Rinokis Saw 8"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S40": {
+      "episode": "S40",
+      "length": 55,
+      "airDate": "2026-11-07",
+      "title": {
+        "en": "Episode S40",
+        "romaji": "Fukyuu Katsudou Kaigi II",
+        "ja": "普及活動会議II"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S28": {
+      "episode": "S28",
+      "length": 2,
+      "airDate": "2026-11-12",
+      "title": {
+        "en": "Mini Anime 3",
+        "romaji": "Mini Anime Dai 3 Wa \"Interview Yokouenshuu\"",
+        "ja": "ミニアニメ第3話『インタビュー予行演習』"
+      },
+      "tvdbShowId": 473266,
+      "tvdbId": 12099005,
+      "seasonNumber": 0,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": null,
+      "runtime": 2,
+      "image": null
+    },
+    "S9": {
+      "episode": "S9",
+      "length": 1,
+      "airDate": "2026-12-02",
+      "title": {
+        "en": "Rinokis Saw 9"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S10": {
+      "episode": "S10",
+      "length": 1,
+      "airDate": "2026-12-09",
+      "title": {
+        "en": "Rinokis Saw 10"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S11": {
+      "episode": "S11",
+      "length": 1,
+      "airDate": "2026-12-16",
+      "title": {
+        "en": "Rinokis Saw 11"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S12": {
+      "episode": "S12",
+      "length": 1,
+      "airDate": "2026-12-23",
+      "title": {
+        "en": "Rinokis Saw 12"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-28T12:46:47.507Z",
+    "lastFetched": "2026-11-21T14:19:14.834Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

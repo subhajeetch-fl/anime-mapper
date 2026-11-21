@@ -25,26 +25,22 @@
   },
   "type": "OVA",
   "source": "Game",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 2,
-  "episodeLength": null,
+  "episodeLength": 15,
   "aired": {
     "from": "2025-04-25T00:00:00+00:00",
-    "to": null
+    "to": "2025-07-25T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2025,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 5.84,
-    "anilistScore": 5.2,
+    "malScore": 5.71,
+    "anilistScore": 5.5,
     "kitsuRating": null
   },
   "genres": [
@@ -65,15 +61,16 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-24T12:30:24.107Z",
+    "lastFetched": "2026-11-21T14:12:01.640Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

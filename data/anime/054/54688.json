@@ -6,22 +6,26 @@
     "anilist": 162561,
     "anidb": 17897,
     "kitsu": 47150,
-    "simkl": 2114824,
+    "simkl": 3281960,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 54688,
     "livechart": 11850,
-    "animeplanet": "naruto-new",
+    "animeplanet": "naruto-x-ninku",
     "anisearch": 18260,
     "notify": "dJApSh-4g"
   },
   "title": {
-    "romaji": "NARUTO (Shinsaku Anime)",
-    "english": null,
-    "native": "NARUTO -ナルト- (新作アニメ)",
-    "synonyms": []
+    "romaji": "NARUTO×NINKU",
+    "english": "Naruto×Ninku",
+    "native": "NARUTO-ナルト-×NINKU-忍空-",
+    "synonyms": [
+      "NARUTO -ナルト- (2026)",
+      "NARUTO (2026)",
+      "NARUTO×NINKŪ"
+    ]
   },
   "type": "TV",
   "source": "Manga",
@@ -30,16 +34,12 @@
   "episodeCount": 4,
   "episodeLength": null,
   "aired": {
-    "from": "2026-12-31",
+    "from": null,
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -51,22 +51,43 @@
     "Action",
     "Adventure",
     "Fantasy",
+    "Martial Arts",
+    "Shounen",
     "Comedy",
     "Ninja",
-    "Shounen"
+    "Isekai",
+    "Parallel Universe",
+    "Super Power"
   ],
   "studios": [
-    "Studio Pierrot"
+    "PIERROT FILMS"
   ],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1378/137310l.jpg",
-    "banner": null,
+    "poster": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg",
+    "banner": "https://media.kitsu.app/anime/47150/cover_image/90e3ecf4b6fb6e8b3a044a15476f6acd.jpg",
     "color": "#43bbe4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "hCZi_R0MnvE",
+    "url": "https://www.youtube.com/watch?v=hCZi_R0MnvE",
+    "thumbnail": "https://i.ytimg.com/vi/hCZi_R0MnvE/hqdefault.jpg"
+  },
   "synopsis": "A new anime project in celebration of Naruto's 20th anniversary.",
   "sequence": [
+    {
+      "malId": 912,
+      "title": {
+        "romaji": "NINKU",
+        "english": "NINKŪ",
+        "native": "NINKU -忍空-"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx912-3uK0m0NF29Br.jpg",
+      "format": "TV",
+      "episodes": 55,
+      "seasonYear": 1995,
+      "relationType": "CHARACTER"
+    },
     {
       "malId": 20,
       "title": {
@@ -78,7 +99,7 @@
       "format": "TV",
       "episodes": 220,
       "seasonYear": 2002,
-      "relationType": "OTHER"
+      "relationType": "CHARACTER"
     },
     {
       "malId": 53236,
@@ -97,10 +118,10 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "0m",
-      "airDate": "",
+      "length": 0,
+      "airDate": null,
       "title": {
-        "en": "Episode 1"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -112,10 +133,10 @@
     },
     "2": {
       "episode": "2",
-      "length": "0m",
-      "airDate": "",
+      "length": 0,
+      "airDate": null,
       "title": {
-        "en": "Episode 2"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -127,10 +148,10 @@
     },
     "3": {
       "episode": "3",
-      "length": "0m",
-      "airDate": "",
+      "length": 0,
+      "airDate": null,
       "title": {
-        "en": "Episode 3"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -142,10 +163,10 @@
     },
     "4": {
       "episode": "4",
-      "length": "0m",
-      "airDate": "",
+      "length": 0,
+      "airDate": null,
       "title": {
-        "en": "Episode 4"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -157,12 +178,12 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-30T15:01:07.880Z",
+    "lastFetched": "2026-11-21T13:55:23.389Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

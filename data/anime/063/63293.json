@@ -6,7 +6,7 @@
     "anilist": 205909,
     "anidb": 19823,
     "kitsu": 50471,
-    "simkl": null,
+    "simkl": 2990962,
     "tmdb": 320909,
     "tvdb": 472641,
     "trakt": 319695,
@@ -25,12 +25,12 @@
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 23,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-09T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
@@ -41,16 +41,17 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1791556200
+    "episode": 8,
+    "airingAt": 1795789800
   },
-  "rating": null,
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.74,
+    "anilistScore": 7.6,
     "kitsuRating": null
   },
   "genres": [
+    "Historical",
     "Romance",
     "Drama"
   ],
@@ -58,27 +59,268 @@
     "David Production"
   ],
   "producers": [
-    "Shogakukan"
+    "Fuji TV",
+    "Dentsu",
+    "Aniplex",
+    "Shogakukan",
+    "Shogakukan-Shueisha Productions",
+    "david production"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1889/156269l.jpg",
-    "banner": null,
+    "poster": "https://cdn.myanimelist.net/images/anime/1172/159893l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205909-hGeuFYrdhf9S.jpg",
     "color": "#aebb35"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "Ex9LrBK-7hk",
+    "url": "https://www.youtube.com/watch?v=Ex9LrBK-7hk",
+    "thumbnail": "https://i.ytimg.com/vi/Ex9LrBK-7hk/hqdefault.jpg"
+  },
   "synopsis": "Satoko, the eldest daughter of the honorable Kirigaya family, has received many marriage proposals from men captivated by her beauty and grace. However, she has turned them all down due to her secret heart defect. Despite her condition, Satoko is still willing to find a husband to ease her beloved father's concerns.\n\nWhile on a stroll, Satoko is kidnapped by a group of mercenaries, one of them being Shinpei Gotou—a legendary assassin tasked with executing her. Satoko tries to bribe Gotou into freeing her, but it proves unsuccessful. Out of options, Satoko makes a desperate gamble: under the pretense of love at first sight, she asks him to marry her.\n\nUnexpectedly, Gotou takes the bait and vows to protect her. As the couple escapes to freedom, Satoko struggles to keep up the ruse and make sense of the mysterious man she has eloped with.\n\n[Written by MAL Rewrite]",
-  "sequence": [],
-  "episodes": {},
+  "sequence": [
+    {
+      "malId": 65184,
+      "title": {
+        "romaji": "Hotaru no Yomeiri: Choitashi",
+        "english": null,
+        "native": "ホタルの嫁入り ちょいたし"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218938-i29Q90gbQcZQ.png",
+      "format": "ONA",
+      "episodes": null,
+      "seasonYear": 2026,
+      "relationType": "SIDE_STORY"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-09",
+      "title": {
+        "en": "An Unwanted Repayment",
+        "ja": "望まぬ恩返し"
+      },
+      "tvdbShowId": 472641,
+      "tvdbId": 11556112,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11556112/screencap/6ac7662e9fcf7.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-16",
+      "title": {
+        "en": "Tennyo Island",
+        "ja": "天女島"
+      },
+      "tvdbShowId": 472641,
+      "tvdbId": 12026019,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12026019/screencap/6ad09db94f3bd.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-23",
+      "title": {
+        "en": "A Watchful Rat",
+        "ja": "見守るネズミ"
+      },
+      "tvdbShowId": 472641,
+      "tvdbId": 12026020,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12026020/screencap/6ad9d6237f52f.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-30",
+      "title": {
+        "en": "I`ll Set You Free",
+        "ja": "自由にしてあげる"
+      },
+      "tvdbShowId": 472641,
+      "tvdbId": 12026021,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12026021/screencap/6ae32011a79d1.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-06",
+      "title": {
+        "en": "Hurt",
+        "ja": "痛み"
+      },
+      "tvdbShowId": 472641,
+      "tvdbId": 12026022,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12026022/screencap/6aec49dac287f.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-13",
+      "title": {
+        "en": "Honest Feelings",
+        "ja": "正直な気持ち"
+      },
+      "tvdbShowId": 472641,
+      "tvdbId": 12026023,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12026023/screencap/6af58ba4cf5d9.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-20",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 472641,
+      "tvdbId": 12026024,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12026024/screencap/6afebbcf0036f.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-27",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 472641,
+      "tvdbId": 12026025,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 23,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": 2,
+      "airDate": "2026-10-12",
+      "title": {
+        "en": "Mini Anime 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": 2,
+      "airDate": "2026-10-19",
+      "title": {
+        "en": "Mini Anime 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": 2,
+      "airDate": "2026-10-26",
+      "title": {
+        "en": "Mini Anime 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S4": {
+      "episode": "S4",
+      "length": 2,
+      "airDate": "2026-11-02",
+      "title": {
+        "en": "Mini Anime 4"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S5": {
+      "episode": "S5",
+      "length": 2,
+      "airDate": "2026-11-09",
+      "title": {
+        "en": "Mini Anime 5"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S6": {
+      "episode": "S6",
+      "length": 2,
+      "airDate": "2026-11-16",
+      "title": {
+        "en": "Mini Anime 6"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-08-03T04:13:02.017Z",
+    "lastFetched": "2026-11-21T14:18:36.265Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

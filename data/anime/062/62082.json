@@ -5,7 +5,7 @@
     "mal": 62082,
     "anilist": null,
     "anidb": null,
-    "kitsu": 50059,
+    "kitsu": 50058,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
@@ -14,7 +14,7 @@
     "shikimori": 62082,
     "livechart": null,
     "animeplanet": null,
-    "anisearch": 20660,
+    "anisearch": null,
     "notify": null
   },
   "title": {
@@ -30,18 +30,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": 1,
+  "episodeLength": 2,
   "aired": {
     "from": "2023-06-10T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "spring",
+  "year": 2023,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -50,9 +46,9 @@
     "kitsuRating": null
   },
   "genres": [
-    "Slice of Life",
+    "Anthropomorphic",
     "Kids",
-    "Anthropomorphism"
+    "Slice of Life"
   ],
   "studios": [
     "Tsumupapa"
@@ -68,16 +64,16 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:47:02.978Z",
+    "lastFetched": "2026-11-21T14:13:29.704Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)",
+      "episodes (no data from Zenshin or Kitsu)"
     ],
     "dataVersion": 1
   }

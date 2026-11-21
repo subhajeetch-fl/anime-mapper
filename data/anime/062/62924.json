@@ -39,11 +39,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -59,7 +55,7 @@
   "studios": [],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1015/153530l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1015/153530l.webp",
     "banner": null,
     "color": "#c9e443"
   },
@@ -82,12 +78,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:07:09.666Z",
+    "lastFetched": "2026-11-21T14:16:27.536Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

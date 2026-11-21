@@ -5,15 +5,15 @@
     "mal": 62241,
     "anilist": 168179,
     "anidb": 20099,
-    "kitsu": null,
-    "simkl": null,
-    "tmdb": null,
-    "tvdb": null,
-    "trakt": null,
-    "traktType": null,
+    "kitsu": 47954,
+    "simkl": 3152180,
+    "tmdb": 107463,
+    "tvdb": 419618,
+    "trakt": 206348,
+    "traktType": "shows",
     "shikimori": 62241,
     "livechart": 13694,
-    "animeplanet": null,
+    "animeplanet": "blades-of-the-guardians-2nd-season",
     "anisearch": 21590,
     "notify": null
   },
@@ -32,39 +32,35 @@
   },
   "type": "ONA",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 8,
-  "episodeLength": 27,
+  "episodeLength": 28,
   "aired": {
     "from": "2026-06-11T00:00:00+00:00",
-    "to": "2026-07-23"
+    "to": "2026-07-23T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "spring",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": 7.19,
-    "anilistScore": 6.5,
+    "malScore": 7.63,
+    "anilistScore": 7.1,
     "kitsuRating": null
   },
   "genres": [
     "Action",
+    "Historical",
     "Adventure",
-    "Drama",
-    "Historical"
+    "Drama"
   ],
   "studios": [
     "Colored Pencil Animation"
   ],
   "producers": [
-    "Tencent Video"
+    "Tencent Penguin Pictures"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1859/151421l.jpg",
@@ -88,17 +84,139 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 30,
+      "airDate": "2026-06-11",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": 30,
+      "airDate": "2026-06-11",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": 20,
+      "airDate": "2026-06-18",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": 0,
+      "airDate": "2026-06-25",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": 0,
+      "airDate": "2026-07-02",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": 0,
+      "airDate": "2026-07-09",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": 0,
+      "airDate": "2026-07-16",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": 0,
+      "airDate": "2026-07-23",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-08-05T12:50:55.431Z",
+    "lastFetched": "2026-11-21T14:13:39.293Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

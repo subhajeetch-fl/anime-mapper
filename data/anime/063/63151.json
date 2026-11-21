@@ -30,30 +30,27 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 1,
   "aired": {
     "from": "2025-12-22T00:00:00+00:00",
     "to": null
   },
-  "season": "winter",
-  "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "fall",
+  "year": 2025,
+  "broadcast": null,
   "nextAiringEpisode": {
-    "episode": 32,
-    "airingAt": 1786489200
+    "episode": 47,
+    "airingAt": 1795561200
   },
   "rating": "G - All Ages",
   "score": {
-    "malScore": 6.69,
-    "anilistScore": 6,
+    "malScore": 6.82,
+    "anilistScore": 6.5,
     "kitsuRating": null
   },
   "genres": [
     "Comedy",
+    "Pets",
     "Slice of Life"
   ],
   "studios": [
@@ -65,20 +62,883 @@
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204656-ECYkRJKBxTLj.jpg",
     "color": "#c9e443"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "Svh_xgdMWlU",
+    "url": "https://www.youtube.com/watch?v=Svh_xgdMWlU",
+    "thumbnail": "https://i.ytimg.com/vi/Svh_xgdMWlU/hqdefault.jpg"
+  },
   "synopsis": "Shark Meow is an orange tabby kitty who wears a shark suit.\nA little clumsy and always taking things at their own cozy pace,\nbut every day with their best kitty friends — and the rescued baby kitty, Little Meow —\nis filled with unexpected little mishaps and sweet adventures.\n \nA sunny warm spot in the park, the sparkle of the sea,\nsteam rising from freshly roasted sweet potatoes,\nthe fluttery feeling of the first snowfall…\nThese small everyday moments fill their world with warmth and delight.\n \nYou can’t help but smile and think, “So true!”\nA soft and snuggly kitty anime that brings joy to everyday moments.\n\n(Source: QTORY YouTube channel)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 1,
+      "airDate": "2025-12-22",
+      "title": {
+        "en": "Hungry Outburst",
+        "romaji": "Shokuyoku Bakuhatsu",
+        "ja": "食欲爆発"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": 1,
+      "airDate": "2026-01-14",
+      "title": {
+        "en": "My Own Style",
+        "romaji": "Kodawari",
+        "ja": "こだわり"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": 1,
+      "airDate": "2026-01-21",
+      "title": {
+        "en": "An Unexpected...!!",
+        "romaji": "Masaka no..!!",
+        "ja": "まさかの・・!!"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": 1,
+      "airDate": "2026-01-28",
+      "title": {
+        "en": "Sunny Spot",
+        "romaji": "Hidamari",
+        "ja": "陽だまり"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": 1,
+      "airDate": "2026-02-04",
+      "title": {
+        "en": "Bathtub Cleaning",
+        "romaji": "Ofuro Souji",
+        "ja": "お風呂掃除"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": 1,
+      "airDate": "2026-02-11",
+      "title": {
+        "en": "Looks Like a Little Cold",
+        "romaji": "Karui Kaze Desu nee",
+        "ja": "軽い風邪ですね~"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": 1,
+      "airDate": "2026-02-18",
+      "title": {
+        "en": "Orca Meow`s Caring Day",
+        "romaji": "Shachi Nyan, Kanbyou Suru",
+        "ja": "シャチにゃん, 看病する"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": 1,
+      "airDate": "2026-02-25",
+      "title": {
+        "en": "The Cushion Ruined by a Cat",
+        "romaji": "Neko ga Dame ni Shita Cushion",
+        "ja": "猫がダメにしたクッション"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": 1,
+      "airDate": "2026-03-04",
+      "title": {
+        "en": "Waiting in Line at a Popular Cafe",
+        "romaji": "Ninki no Cafe ni Narande Mita",
+        "ja": "人気のカフェに並んでみた"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 1,
+      "airDate": "2026-03-11",
+      "title": {
+        "en": "A Day Working at a Popular Cafe",
+        "romaji": "Ninki no Cafe de Hataraite Mita",
+        "ja": "人気のカフェで働いてみた"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 1,
+      "airDate": "2026-03-18",
+      "title": {
+        "en": "Product Planning",
+        "romaji": "Shouhin Kaihatsu",
+        "ja": "商品開発"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 1,
+      "airDate": "2026-03-25",
+      "title": {
+        "en": "Please Take Me Home",
+        "romaji": "Hirotte Kudasai",
+        "ja": "拾ってください"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": 1,
+      "airDate": "2026-04-01",
+      "title": {
+        "en": "A Kitten`s First Checkup",
+        "romaji": "Koneko, Shinsatsu ni Iku",
+        "ja": "子猫, 診察に行く"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "14": {
+      "episode": "14",
+      "length": 1,
+      "airDate": "2026-04-08",
+      "title": {
+        "en": "Tiny Troublemaker",
+        "romaji": "Itazurakko",
+        "ja": "いたずらっこ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "15": {
+      "episode": "15",
+      "length": 1,
+      "airDate": "2026-04-15",
+      "title": {
+        "en": "Hide-and-Seek",
+        "romaji": "Kakurenbo",
+        "ja": "かくれんぼ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "16": {
+      "episode": "16",
+      "length": 1,
+      "airDate": "2026-04-22",
+      "title": {
+        "en": "Toys",
+        "romaji": "Omocha",
+        "ja": "おもちゃ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "17": {
+      "episode": "17",
+      "length": 1,
+      "airDate": "2026-04-29",
+      "title": {
+        "en": "The Master of Fluff",
+        "romaji": "Kedama Shokunin",
+        "ja": "毛玉職人"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "18": {
+      "episode": "18",
+      "length": 1,
+      "airDate": "2026-05-06",
+      "title": {
+        "en": "Cuddle Bug",
+        "romaji": "Kuttsukimushi",
+        "ja": "くっつき虫"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "19": {
+      "episode": "19",
+      "length": 1,
+      "airDate": "2026-05-13",
+      "title": {
+        "en": "Thank You Always",
+        "romaji": "Itsumo Arigatou",
+        "ja": "いつもありがとう"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "20": {
+      "episode": "20",
+      "length": 1,
+      "airDate": "2026-05-20",
+      "title": {
+        "en": "Cleaning Day",
+        "romaji": "Osouji",
+        "ja": "お掃除"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "21": {
+      "episode": "21",
+      "length": 1,
+      "airDate": "2026-05-27",
+      "title": {
+        "en": "Little Meow`s First Challenge",
+        "romaji": "Orusuban Challenge",
+        "ja": "お留守番チャレンジ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "22": {
+      "episode": "22",
+      "length": 1,
+      "airDate": "2026-06-03",
+      "title": {
+        "en": "The Cream Bun Bakery",
+        "romaji": "Cream Pan`ya-san",
+        "ja": "クリームパン屋さん"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "23": {
+      "episode": "23",
+      "length": 1,
+      "airDate": "2026-06-10",
+      "title": {
+        "en": "I Hate Carrots",
+        "romaji": "Ninjin Kirai",
+        "ja": "にんじんきらい"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "24": {
+      "episode": "24",
+      "length": 1,
+      "airDate": "2026-06-17",
+      "title": {
+        "en": "The Bathroom",
+        "romaji": "Toilet",
+        "ja": "トイレ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "25": {
+      "episode": "25",
+      "length": 1,
+      "airDate": "2026-06-24",
+      "title": {
+        "en": "Sneak Attack",
+        "romaji": "Shuugeki",
+        "ja": "襲撃"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "26": {
+      "episode": "26",
+      "length": 1,
+      "airDate": "2026-07-01",
+      "title": {
+        "en": "Time for Summer Clothes!",
+        "romaji": "Koromogae",
+        "ja": "衣替え"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "27": {
+      "episode": "27",
+      "length": 1,
+      "airDate": "2026-07-08",
+      "title": {
+        "en": "The Shark Suit Thief",
+        "romaji": "Same Suit Dorobou",
+        "ja": "サメスーツ泥棒"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "28": {
+      "episode": "28",
+      "length": 1,
+      "airDate": "2026-07-15",
+      "title": {
+        "en": "I Want to Get in Too",
+        "romaji": "Issho ni Hairitai",
+        "ja": "一緒に入りたい"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "29": {
+      "episode": "29",
+      "length": 1,
+      "airDate": "2026-07-22",
+      "title": {
+        "en": "Please Don`t Go",
+        "romaji": "Ikanaidee",
+        "ja": "行かないで~"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "30": {
+      "episode": "30",
+      "length": 1,
+      "airDate": "2026-07-29",
+      "title": {
+        "en": "Practice Day at Daycare",
+        "romaji": "Otameshi Hoiku",
+        "ja": "お試し保育"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "31": {
+      "episode": "31",
+      "length": 1,
+      "airDate": "2026-08-05",
+      "title": {
+        "en": "Beach Time!",
+        "romaji": "Umi Daa!",
+        "ja": "海だー!"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "32": {
+      "episode": "32",
+      "length": 1,
+      "airDate": "2026-08-12",
+      "title": {
+        "en": "Look Behind You!",
+        "romaji": "Ushiro, Ushiro!",
+        "ja": "うしろ, うしろ!"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "33": {
+      "episode": "33",
+      "length": 1,
+      "airDate": "2026-08-19",
+      "title": {
+        "en": "Attack of the Hawk!",
+        "romaji": "Tonbi Shuurai",
+        "ja": "とんび襲来"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "34": {
+      "episode": "34",
+      "length": 1,
+      "airDate": "2026-08-26",
+      "title": {
+        "en": "The Purring Forest",
+        "romaji": "Gorogoro no Mori",
+        "ja": "ゴロゴロの森"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "35": {
+      "episode": "35",
+      "length": 1,
+      "airDate": "2026-09-02",
+      "title": {
+        "en": "The Interrogation",
+        "romaji": "Torishirabe",
+        "ja": "取り調べ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "36": {
+      "episode": "36",
+      "length": 1,
+      "airDate": "2026-09-09",
+      "title": {
+        "en": "Sunset",
+        "romaji": "Yuugure",
+        "ja": "夕暮れ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "37": {
+      "episode": "37",
+      "length": 1,
+      "airDate": "2026-09-16",
+      "title": {
+        "en": "It Looks Like Just a Case of the Lonely Pouts",
+        "romaji": "Sabishikute Suneteru dake Desu ne",
+        "ja": "さびしくてすねてるだけですね"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "38": {
+      "episode": "38",
+      "length": 1,
+      "airDate": "2026-09-23",
+      "title": {
+        "en": "Stuck",
+        "romaji": "Ugokenai",
+        "ja": "動けない"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "39": {
+      "episode": "39",
+      "length": 1,
+      "airDate": "2026-09-30",
+      "title": {
+        "en": "Cat GPT",
+        "romaji": "Cat GPT",
+        "ja": "CAT GPT"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "40": {
+      "episode": "40",
+      "length": 1,
+      "airDate": "2026-10-07",
+      "title": {
+        "en": "The Fur-ball Artist",
+        "romaji": "Kedama Artist",
+        "ja": "毛玉アーティスト"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 40,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "41": {
+      "episode": "41",
+      "length": 1,
+      "airDate": "2026-10-14",
+      "title": {
+        "en": "Monster",
+        "romaji": "Kaibutsu",
+        "ja": "怪物"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 41,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "42": {
+      "episode": "42",
+      "length": 1,
+      "airDate": "2026-10-21",
+      "title": {
+        "en": "Leaf Bonfire",
+        "romaji": "Ochibataki",
+        "ja": "落ち葉焚き"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 42,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "43": {
+      "episode": "43",
+      "length": 1,
+      "airDate": "2026-10-28",
+      "title": {
+        "en": "Say Cheese",
+        "romaji": "Shashin o Toritai",
+        "ja": "写真を撮りたい"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 43,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "44": {
+      "episode": "44",
+      "length": 1,
+      "airDate": "2026-11-04",
+      "title": {
+        "en": "Halloween",
+        "romaji": "Halloween",
+        "ja": "ハロウィン"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 44,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "45": {
+      "episode": "45",
+      "length": 1,
+      "airDate": "2026-11-11",
+      "title": {
+        "en": "Take Your Medicine",
+        "romaji": "Okusuri Nonde",
+        "ja": "おくすり飲んで"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 45,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "46": {
+      "episode": "46",
+      "length": 1,
+      "airDate": "2026-11-18",
+      "title": {
+        "en": "Please Let Me Under the Covers",
+        "romaji": "Ofuton ni Irete Kudasai",
+        "ja": "おふとんに入れてください"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 46,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "47": {
+      "episode": "47",
+      "length": 1,
+      "airDate": "2026-11-25",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "48": {
+      "episode": "48",
+      "length": 1,
+      "airDate": "2026-12-02",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "49": {
+      "episode": "49",
+      "length": 1,
+      "airDate": null,
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 49,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "50": {
+      "episode": "50",
+      "length": 1,
+      "airDate": null,
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 50,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "51": {
+      "episode": "51",
+      "length": 1,
+      "airDate": null,
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 51,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-08-05T22:01:22.151Z",
+    "lastFetched": "2026-11-21T14:18:05.502Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

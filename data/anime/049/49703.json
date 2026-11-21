@@ -13,37 +13,33 @@
     "traktType": null,
     "shikimori": 49703,
     "livechart": 10766,
-    "animeplanet": "fate-kaleid-liner-prisma-illya-new",
+    "animeplanet": "fatekaleid-liner-prisma-illya-finale",
     "anisearch": 16825,
     "notify": "vtFmiXeVg"
   },
   "title": {
-    "romaji": "Fate/kaleid liner Prisma☆Illya (Provisional Title)",
+    "romaji": "Fate/kaleid liner Prisma☆Illya: FINALE",
     "english": null,
-    "native": "Fate/kaleid liner プリズマ☆イリヤ（仮）",
+    "native": "Fate/kaleid liner プリズマ☆イリヤ FINALE",
     "synonyms": [
-      "Fate/Kaleid Liner Prisma Illya Sequel"
+      "Fate/Kaleid Liner Prisma Illya: Finale"
     ]
   },
-  "type": null,
+  "type": "TV",
   "source": "Manga",
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-01-01T00:00:00+00:00",
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
-  "rating": "R",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
     "anilistScore": null,
@@ -51,17 +47,19 @@
   },
   "genres": [
     "Action",
-    "Fantasy",
     "Mahou Shoujo",
+    "Fantasy",
     "Magical Girl",
     "Magic"
   ],
-  "studios": [],
+  "studios": [
+    "SILVER LINK."
+  ],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1747/137597l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1245/159065l.jpg",
     "banner": null,
-    "color": "#3578ae"
+    "color": "#5d6be4"
   },
   "trailer": null,
   "synopsis": "Sequel to Fate/kaleid liner Prisma☆Illya Movie: Licht - Namae no Nai Shoujo.",
@@ -82,15 +80,17 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T08:32:17.242Z",
+    "lastFetched": "2026-11-21T13:51:42.467Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

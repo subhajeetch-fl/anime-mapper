@@ -28,18 +28,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 1,
   "aired": {
     "from": "2025-07-01T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2025,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -48,6 +44,8 @@
     "kitsuRating": null
   },
   "genres": [
+    "Anthropomorphic",
+    "Iyashikei",
     "Slice of Life"
   ],
   "studios": [
@@ -59,20 +57,25 @@
     "banner": null,
     "color": "#43bbe4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "gE8ibb7hz8I",
+    "url": "https://www.youtube.com/watch?v=gE8ibb7hz8I",
+    "thumbnail": "https://i.ytimg.com/vi/gE8ibb7hz8I/hqdefault.jpg"
+  },
   "synopsis": "Two seals, Eru and Aru, spend their days together in a gentle and warm atmosphere. They play at home, relax watching TV, and sometimes get tired from playing and fall asleep.\n\n(Source: U-NEXT, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T04:31:26.168Z",
+    "lastFetched": "2026-11-21T14:13:25.914Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

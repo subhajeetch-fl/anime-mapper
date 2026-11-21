@@ -28,18 +28,14 @@
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": 26,
-  "episodeLength": null,
+  "episodeLength": 15,
   "aired": {
     "from": null,
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG - Children",
   "score": {
@@ -48,7 +44,9 @@
     "kitsuRating": null
   },
   "genres": [
-    "Adventure"
+    "Adventure",
+    "Kids",
+    "Mecha"
   ],
   "studios": [],
   "producers": [],
@@ -62,16 +60,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T19:22:25.936Z",
+    "lastFetched": "2026-11-21T14:01:23.544Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

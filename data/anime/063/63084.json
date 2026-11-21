@@ -30,23 +30,19 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 15,
   "aired": {
     "from": "2026-01-30T00:00:00+00:00",
     "to": null
   },
   "season": "winter",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 5.52,
-    "anilistScore": 4.7,
+    "malScore": 5.44,
+    "anilistScore": 5.2,
     "kitsuRating": null
   },
   "genres": [
@@ -63,19 +59,21 @@
     "color": "#e45086"
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "Based on the erotic doujin game by SukiyaKING.\n\n\n\nYui Morisaki is just a regular girl, busy with her regular everyday life like the Karate Club and an unrequited love... until one day she meets a little robot named Polka! Suddenly, she's granted the ability to transform into Radiant Princess Poni Ceres, just in time to fight against the evil forces of Zydarg, an alien organization hellbent on invading and enslaving all of humankind.\n\n\n\nFast forward a few months and Yui is coming to grips with her new life, though her heroic activities are starting to affect her grades. But just as she's getting used to dealing with the enemy's regular troops, it seems like Zydarg is escalating the conflict and attacking with monsters. It's time for Poni Ceres to up her game too!\n\n\n\n(Source: Steam)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-09T22:10:26.125Z",
+    "lastFetched": "2026-11-21T14:17:29.938Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

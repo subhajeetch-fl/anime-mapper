@@ -30,16 +30,12 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-01-01T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "winter",
+  "year": 2027,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -48,24 +44,33 @@
     "kitsuRating": null
   },
   "genres": [],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Yokohama Animation Lab"
+  ],
+  "producers": [
+    "Kotobukiya",
+    "TV Asahi"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1036/156074l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185697-wvEOagVz38ck.jpg",
     "color": "#5dbbf1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "sS9vinZEljw",
+    "url": "https://www.youtube.com/watch?v=sS9vinZEljw",
+    "thumbnail": "https://i.ytimg.com/vi/sS9vinZEljw/hqdefault.jpg"
+  },
   "synopsis": "The \"sci-fi x fantasy\" franchise takes place in the near future, where the world experienced rapid technological development thanks to a new energy called \"Arcana Particles\" that was discovered by Eden Industries. The new technology includes the largest virtual space server called Eden. The VRMMO \"ARCANADEA\" is a game people can play within the Eden server, and features a fantasy world. After an explosion occurred at Eden Industries one night during the maintenance of Eden, the world changed, including abnormal weather, communication issues, strange disappearances, and people gaining increased physical abilities.\n\n(Source: ANN)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:09:41.610Z",
+    "lastFetched": "2026-11-21T14:11:33.190Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

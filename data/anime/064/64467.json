@@ -13,13 +13,13 @@
     "traktType": null,
     "shikimori": 64467,
     "livechart": 13686,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "the-fledgling-demon-lords-starter-shop",
+    "anisearch": 21746,
     "notify": null
   },
   "title": {
     "romaji": "Sudachi no Maoujou",
-    "english": null,
+    "english": "The Fledgling Demon Lord's Starter Shop",
     "native": "すだちの魔王城",
     "synonyms": [
       "The Fledgling Demon Lord's Starter Shop"
@@ -37,11 +37,7 @@
   },
   "season": "winter",
   "year": 2027,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -53,31 +49,35 @@
     "Action",
     "Adventure",
     "Comedy",
-    "Fantasy"
+    "Fantasy",
+    "Shounen"
   ],
   "studios": [
     "Project No.9"
   ],
   "producers": [
-    "Avex Pictures",
-    "Bit grooove promotion"
+    "Avex Pictures"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1934/158698l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1970/160423l.jpg",
     "banner": null,
-    "color": "#43bbf1"
+    "color": "#50bbf1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "BXcu-Z3SEYo",
+    "url": "https://www.youtube.com/watch?v=BXcu-Z3SEYo",
+    "thumbnail": "https://i.ytimg.com/vi/BXcu-Z3SEYo/hqdefault.jpg"
+  },
   "synopsis": "After the hero defeated the demon lord, the world is finally at peace... leaving the young Villager of Beginnerville in a bind! Without a demon lord to defeat, people have no need for potions and items...leaving Villager's item shop, The Nest, empty and lifeless. At this rate, Villager might have to close The Nest...! But then suddenly a mysterious girl appears and everything changes...\n\n(Source: Kodansha)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-12T21:30:04.957Z",
+    "lastFetched": "2026-11-21T14:23:06.644Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

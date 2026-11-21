@@ -22,6 +22,7 @@
     "english": null,
     "native": "迷情",
     "synonyms": [
+      "Miqing",
       "Meijyou",
       "Infatuation"
     ]
@@ -31,23 +32,19 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 11,
   "aired": {
     "from": "2021-02-26T00:00:00+00:00",
-    "to": null
+    "to": "2021-02-26T00:00:00+00:00"
   },
   "season": "winter",
   "year": 2021,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 5.49,
-    "anilistScore": 4.6,
+    "malScore": 5.51,
+    "anilistScore": 4.9,
     "kitsuRating": null
   },
   "genres": [
@@ -81,15 +78,16 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-07T12:35:31.706Z",
+    "lastFetched": "2026-11-21T13:51:09.619Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

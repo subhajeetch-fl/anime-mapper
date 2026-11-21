@@ -13,8 +13,8 @@
     "traktType": null,
     "shikimori": 64483,
     "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "zombie-stage",
+    "anisearch": 21857,
     "notify": null
   },
   "title": {
@@ -36,28 +36,23 @@
     "from": "2026-06-26T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "spring",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": 7.85,
+    "malScore": 8.19,
     "anilistScore": null,
     "kitsuRating": null
   },
   "genres": [
     "Drama",
+    "High Stakes Game",
     "Horror",
-    "Suspense",
-    "Zombie",
     "Music",
-    "Violence",
-    "Battle Royale"
+    "Psychological",
+    "Suspense"
   ],
   "studios": [],
   "producers": [],
@@ -72,32 +67,67 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": null,
-      "airDate": "2026-06-26T00:00:00+00:00",
+      "length": "5m",
+      "airDate": null,
       "title": {
-        "en": "ROUND 1",
+        "en": null,
         "romaji": null,
         "ja": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
-      "seasonNumber": null,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 5,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "5m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 5,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "5m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 5,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-07-14T12:19:44.445Z",
+    "lastFetched": "2026-11-21T14:23:11.381Z",
     "sourcesUsed": [
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "jikan-episodes (fallback)"
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
     ],
     "dataVersion": 1
   }

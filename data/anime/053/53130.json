@@ -19,7 +19,7 @@
   },
   "title": {
     "romaji": "EISEN FLÜGEL",
-    "english": null,
+    "english": "Wings of Steel",
     "native": "アイゼンフリューゲル",
     "synonyms": [
       "Eisen Flugel"
@@ -37,20 +37,20 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
-  "rating": null,
+  "rating": "PG",
   "score": {
     "malScore": null,
     "anilistScore": null,
     "kitsuRating": null
   },
   "genres": [
-    "Fantasy"
+    "Fantasy",
+    "Military",
+    "Action",
+    "Drama",
+    "Seinen"
   ],
   "studios": [
     "A-1 Pictures"
@@ -59,24 +59,30 @@
     "Aniplex"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1788/150891l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1788/150891l.webp",
     "banner": null,
     "color": "#5daee4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "gb0GmBZU_lU",
+    "url": "https://www.youtube.com/watch?v=gb0GmBZU_lU",
+    "thumbnail": "https://i.ytimg.com/vi/gb0GmBZU_lU/hqdefault.jpg"
+  },
   "synopsis": "In a world where dragons rule the skies, mankind still dreams about taking to the skies and dominating the heavens in their place. Even during wartime, the passionate young pilot Karl Schuniz pursues his dreams, taking up his steel wings—the revolutionary new aircraft, the Blitz Vogel—to challenge the Kaiser Drache, the fastest dragon capable of supersonic flight.\n\n(Source: MAL News)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T11:00:47.606Z",
+    "lastFetched": "2026-11-21T13:54:32.735Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

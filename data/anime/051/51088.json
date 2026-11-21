@@ -27,26 +27,22 @@
   },
   "type": "OVA",
   "source": "Visual novel",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 4,
+  "episodeLength": 24,
   "aired": {
     "from": "2022-02-25T00:00:00+00:00",
-    "to": null
+    "to": "2025-06-27T00:00:00+00:00"
   },
   "season": "winter",
   "year": 2022,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 6.45,
-    "anilistScore": 6,
+    "malScore": 6.42,
+    "anilistScore": 6.1,
     "kitsuRating": null
   },
   "genres": [
@@ -81,15 +77,16 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-08T04:25:42.458Z",
+    "lastFetched": "2026-11-21T13:51:59.447Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

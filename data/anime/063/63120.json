@@ -27,7 +27,7 @@
       "AkaYona 2"
     ]
   },
-  "type": null,
+  "type": "unknown",
   "source": "Manga",
   "status": "Not yet aired",
   "airing": false,
@@ -39,11 +39,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -55,14 +51,17 @@
     "Adventure",
     "Fantasy",
     "Romance",
+    "Shoujo",
     "Action",
     "Comedy",
     "Drama"
   ],
-  "studios": [],
+  "studios": [
+    "Pierrot Films"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1098/154448l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1098/154448l.webp",
     "banner": null,
     "color": "#ffbb35"
   },
@@ -85,12 +84,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T06:49:41.301Z",
+    "lastFetched": "2026-11-21T14:17:33.915Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

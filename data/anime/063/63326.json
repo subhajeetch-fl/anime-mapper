@@ -32,17 +32,16 @@
   "episodeCount": 1,
   "episodeLength": null,
   "aired": {
-    "from": "2027-01-01T00:00:00+00:00",
-    "to": null
+    "from": "2027-02-19T00:00:00+00:00",
+    "to": "2027-02-19T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+  "season": "winter",
+  "year": 2027,
+  "broadcast": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1802962800
   },
-  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
@@ -51,17 +50,25 @@
   },
   "genres": [
     "Drama",
+    "Performing Arts",
+    "Seinen",
     "Sports",
     "Psychological"
   ],
-  "studios": [],
+  "studios": [
+    "ENGI"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1429/156214l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
     "banner": null,
-    "color": "#f15d78"
+    "color": "#f1865d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "FacTE-pO9dI",
+    "url": "https://www.youtube.com/watch?v=FacTE-pO9dI",
+    "thumbnail": "https://i.ytimg.com/vi/FacTE-pO9dI/hqdefault.jpg"
+  },
   "synopsis": "Sequel to Medalist 2nd Season.",
   "sequence": [
     {
@@ -78,14 +85,30 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 0,
+      "airDate": "2027-02-19",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-03T06:53:59.511Z",
+    "lastFetched": "2026-11-21T14:19:03.405Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
@@ -51,6 +47,7 @@
   },
   "genres": [
     "Action",
+    "Historical",
     "Mystery",
     "Adventure",
     "Sci-Fi"
@@ -81,12 +78,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T19:20:37.704Z",
+    "lastFetched": "2026-11-21T14:01:09.113Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

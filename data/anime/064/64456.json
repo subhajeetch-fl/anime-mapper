@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 64456,
     "livechart": null,
-    "animeplanet": null,
+    "animeplanet": "gu-wei-nan-ting-2nd-season",
     "anisearch": null,
     "notify": null
   },
@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -59,10 +55,7 @@
   "studios": [
     "2:10 Animation"
   ],
-  "producers": [
-    "Tencent Video",
-    "Kuaikan Manhua"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1534/158635l.jpg",
     "banner": null,
@@ -73,16 +66,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:13:19.392Z",
+    "lastFetched": "2026-11-21T14:22:38.663Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

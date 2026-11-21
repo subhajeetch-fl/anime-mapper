@@ -4,17 +4,17 @@
   "mappings": {
     "mal": 64534,
     "anilist": 213805,
-    "anidb": null,
+    "anidb": 20168,
     "kitsu": 50827,
-    "simkl": null,
-    "tmdb": null,
+    "simkl": 3173582,
+    "tmdb": 283428,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64534,
-    "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
+    "livechart": 13712,
+    "animeplanet": "the-ramparts-of-ice-season-2",
+    "anisearch": 21791,
     "notify": null
   },
   "title": {
@@ -25,13 +25,13 @@
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 13,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
-    "to": null
+    "from": "2026-10-02T00:00:00+00:00",
+    "to": "2026-12-24T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
@@ -41,18 +41,19 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1790823360
+    "episode": 9,
+    "airingAt": 1795704960
   },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 8.34,
+    "anilistScore": 8.2,
     "kitsuRating": null
   },
   "genres": [
     "Drama",
     "Romance",
+    "School",
     "Comedy",
     "Slice of Life"
   ],
@@ -60,14 +61,20 @@
     "Studio KAI"
   ],
   "producers": [
-    "Nichion"
+    "TBS",
+    "Universal Music",
+    "ADK Emotions"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1859/158835l.jpg",
-    "banner": null,
-    "color": "#35bbe4"
+    "poster": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213805-DKKoBepaY2bj.jpg",
+    "color": "#e4a143"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "VvzeL7UMCE8",
+    "url": "https://www.youtube.com/watch?v=VvzeL7UMCE8",
+    "thumbnail": "https://i.ytimg.com/vi/VvzeL7UMCE8/hqdefault.jpg"
+  },
   "synopsis": "Second season of Koori no Jouheki.",
   "sequence": [
     {
@@ -84,17 +91,241 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-12T21:30:44.297Z",
+    "lastFetched": "2026-11-21T14:24:03.797Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

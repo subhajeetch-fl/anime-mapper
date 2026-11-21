@@ -28,18 +28,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 30,
   "aired": {
     "from": "2015-12-29T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "fall",
+  "year": 2015,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -48,9 +44,7 @@
     "kitsuRating": null
   },
   "genres": [
-    "Fantasy",
-    "Action",
-    "Magic"
+    "Fantasy"
   ],
   "studios": [],
   "producers": [],
@@ -62,18 +56,116 @@
   "trailer": null,
   "synopsis": "In the Outside World, only a few people know of the hidden realm called Gensokyo. Two of those individuals are Maribel Hearn and Renko Usami—the sole members of the Secret Sealing Club. Together, they dedicate themselves to learning more about Gensokyo, ranging from the Genso-Lunar War thousands of years ago to the history of the Moriya Shrine. Whether it be small talk, in-depth discussions, or tracking people who may have connections to this mystical land, even the sky cannot limit their growing curiosity.\n\n[Written by MAL Rewrite]",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 30,
+      "airDate": "2015-12-29",
+      "title": {
+        "en": "Moon",
+        "romaji": "Tsuki",
+        "ja": "月"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": 50,
+      "airDate": "2017-08-11",
+      "title": {
+        "en": "Shrine Maiden",
+        "romaji": "Houri",
+        "ja": "祝"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": 30,
+      "airDate": null,
+      "title": {
+        "en": "Fate Part I",
+        "romaji": "Unmei: Jou",
+        "ja": "運命 上"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": 2,
+      "airDate": "2014-10-02",
+      "title": {
+        "en": "Prologue",
+        "romaji": "Jo",
+        "ja": "序"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": 2,
+      "airDate": null,
+      "title": {
+        "en": "Prologue (OP Version)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": 5,
+      "airDate": null,
+      "title": {
+        "en": "Prologue (Full Version)"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-30T08:39:50.738Z",
+    "lastFetched": "2026-11-21T13:47:08.814Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

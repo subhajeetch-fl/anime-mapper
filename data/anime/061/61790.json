@@ -27,26 +27,22 @@
   },
   "type": "OVA",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 26,
   "aired": {
     "from": "2025-09-26T00:00:00+00:00",
-    "to": null
+    "to": "2025-09-26T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2025,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 7.45,
-    "anilistScore": 7,
+    "malScore": 7.37,
+    "anilistScore": 7.1,
     "kitsuRating": null
   },
   "genres": [
@@ -64,7 +60,7 @@
     "color": "#e4ae50"
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "Kakurenbo\n\nOn the night of the school trip, Ryou sneaks into the girls' room alone, planning to have his first kiss with his girlfriend, Hina. However, everyone returns to their rooms and the kiss goes awry. The two decide to hide in the closet on the spur of the moment...\n\n\n\nMotto Kakurenbo\n\nSince their first time on the school trip, Hina and Ryou have maintained a good relationship as lovers. However, there is one problem: Ryou wants to have sex inside the school. One day during club activities, Hina is suddenly called by Ryou to the gym storage room, where he asks her for a favor...\n\n\n\n(Source: PinkPineapple, translated)",
   "sequence": [
     {
       "malId": 40023,
@@ -95,12 +91,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:40:09.933Z",
+    "lastFetched": "2026-11-21T14:13:09.737Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

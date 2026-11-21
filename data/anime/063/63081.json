@@ -4,17 +4,17 @@
   "mappings": {
     "mal": 63081,
     "anilist": 213465,
-    "anidb": null,
+    "anidb": 19760,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 2960894,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 63081,
     "livechart": 13422,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "saijaku-na-boku-wa-kabenuke-bugs-de-nariagaru-kabe-wo-surinuketara-shokai-clear-houshuu-wo-mugen-kaishuu-dekimashita",
+    "anisearch": 21095,
     "notify": null
   },
   "title": {
@@ -22,6 +22,7 @@
     "english": null,
     "native": "最弱な僕は＜壁抜けバグ＞で成り上がる ～壁をすり抜けたら、初回クリア報酬を無限回収できました！～",
     "synonyms": [
+      "No-Clipping My Way to Supremacy!",
       "I, The Weakest Player, Will Rise to the Top Using a \"Wall-Clipping Glitch\" – By Clipping Through Walls, I Earned the First-Time Clear Reward Infinite Times!"
     ]
   },
@@ -32,16 +33,12 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-01-01T00:00:00+00:00",
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -54,24 +51,27 @@
     "Adventure",
     "Fantasy"
   ],
-  "studios": [],
+  "studios": [
+    "Tengu Kobou",
+    "Durandal"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1495/154134l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1409/159670l.jpg",
     "banner": null,
-    "color": "#aee4f1"
+    "color": null
   },
   "trailer": null,
-  "synopsis": "The series follows Henri Cleats, an adventurer who only has a single skill: Evasion. Wanting to take care of his sickly younger sister Colette, he joins a party. However, due to weak attack power and lack of skills, he is expelled from this party. However, it turns out that his evasion skill comes with a bonus: he is able to pass through walls and reach the end of dungeons without defeating the boss. Thus, he is able to claim a dungeon's First Clear bonus more than once. With his newfound knowledge, Henri sets out to clear as many dungeons as he can while also leveling up his power.\n\n(Source: Wikipedia)",
+  "synopsis": "The series follows Henri Cleats, an adventurer who only has a single skill: Evasion. Wanting to take care of his sickly younger sister Ellelet, he joins a party. However, due to weak attack power and lack of skills, he is expelled from this party. However, it turns out that his evasion skill comes with a bonus: he is able to pass through walls and reach the end of dungeons without defeating the boss. Thus, he is able to claim a dungeon's First Clear bonus more than once. With his newfound knowledge, Henri sets out to clear as many dungeons as he can while also leveling up his power.\n\n(Source: Wikipedia)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-31T22:03:07.380Z",
+    "lastFetched": "2026-11-21T14:17:27.542Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

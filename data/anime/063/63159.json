@@ -30,46 +30,47 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 2,
-  "episodeLength": null,
+  "episodeLength": 20,
   "aired": {
     "from": "2026-03-20T00:00:00+00:00",
-    "to": null
+    "to": "2026-05-29T00:00:00+00:00"
   },
-  "season": "spring",
+  "season": "winter",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 6.11,
-    "anilistScore": 5.4,
+    "malScore": 6.03,
+    "anilistScore": 5.6,
     "kitsuRating": null
   },
   "genres": [
     "Hentai"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Anime Antenna Iinkai"
+  ],
+  "producers": [
+    "WHITE BEAR",
+    "Mediabank"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1166/154579l.jpg",
     "banner": null,
     "color": "#e4bba1"
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "Based on the CG collection by Pin-Point Quick (ピンポイントクイック).\n\n\n\nTakuma Ota is a perverted anal maniac who secretly films the school's toilets and ranks each girl's anus. One day, his secret is discovered by the school's idol, the rich girl Shizue Yukihira...! After learning the protagonist's secret, Shizue says... \"W-Would you please train my anus?!\" The words she utters are unimaginable. How far will Shizue's anal training rank rise?! This young lady, who we thought was very cute and innocent, is trained to become an anal freak!\n\n\n\n(Source: Mediabank, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-27T13:43:23.211Z",
+    "lastFetched": "2026-11-21T14:18:10.293Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

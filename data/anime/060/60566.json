@@ -39,11 +39,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -52,15 +48,14 @@
     "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
     "Romance",
     "Slice of Life"
   ],
   "studios": [
     "Pb Animation"
   ],
-  "producers": [
-    "bilibili"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1692/153716l.jpg",
     "banner": null,
@@ -71,12 +66,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:10:12.417Z",
+    "lastFetched": "2026-11-21T14:11:41.927Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

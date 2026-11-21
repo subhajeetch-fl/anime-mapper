@@ -30,18 +30,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 80,
-  "episodeLength": null,
+  "episodeLength": 1,
   "aired": {
     "from": "2023-03-16T00:00:00+00:00",
-    "to": null
+    "to": "2023-10-06T00:00:00+00:00"
   },
-  "season": "spring",
+  "season": "winter",
   "year": 2023,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -50,7 +46,9 @@
     "kitsuRating": null
   },
   "genres": [
-    "Comedy"
+    "Anthropomorphic",
+    "Comedy",
+    "Idols (Female)"
   ],
   "studios": [],
   "producers": [],
@@ -64,15 +62,16 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T15:05:19.261Z",
+    "lastFetched": "2026-11-21T13:55:44.216Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

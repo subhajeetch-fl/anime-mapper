@@ -4,45 +4,41 @@
   "mappings": {
     "mal": 62857,
     "anilist": 201140,
-    "anidb": null,
+    "anidb": 19679,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 2909616,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 62857,
     "livechart": 13373,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "kings-proposal",
+    "anisearch": 20999,
     "notify": null
   },
   "title": {
     "romaji": "Ousama no Propose",
-    "english": null,
+    "english": "King's Proposal",
     "native": "王様のプロポーズ",
     "synonyms": [
-      "King's Proposal",
-      "King Propose"
+      "King Propose",
+      "King's Proposal"
     ]
   },
-  "type": null,
+  "type": "TV",
   "source": "Light novel",
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-01-01T00:00:00+00:00",
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -53,27 +49,30 @@
   "genres": [
     "Action",
     "Fantasy",
+    "Magical Sex Shift",
     "Romance",
     "Drama"
   ],
   "studios": [],
-  "producers": [],
+  "producers": [
+    "Aniplex"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1106/152837l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1931/160698l.jpg",
     "banner": null,
-    "color": null
+    "color": "#aebbe4"
   },
   "trailer": null,
   "synopsis": "With looks to die for, Saika Kuozaki is the most powerful mage in existence and the only one who can thwart the annihilation factors that attempt to destroy the world once every three hundred hours. When Saika is mortally wounded, however, she bequeaths both her powers and body to the normal high school boy who happens to find her, Mushiki Kuga. Just because Mushiki inherits her abilities, though, doesn't mean he can control them. To stand a chance of saving the world, Mushiki will have to attend an academy for mages as Saika—while trying to keep his true identity under wraps!\n\n(Source: Yen Press)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T04:38:26.963Z",
+    "lastFetched": "2026-11-21T14:16:20.923Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

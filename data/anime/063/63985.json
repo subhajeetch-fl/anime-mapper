@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -51,9 +47,12 @@
   },
   "genres": [
     "Action",
-    "Fantasy"
+    "Fantasy",
+    "Psychological",
+    "Urban Fantasy"
   ],
   "studios": [
+    "Shenman Culture",
     "Shenman Entertainment"
   ],
   "producers": [
@@ -69,12 +68,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-07T04:30:13.419Z",
+    "lastFetched": "2026-11-21T14:21:13.710Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

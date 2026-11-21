@@ -3,46 +3,43 @@
   "idMal": 64509,
   "mappings": {
     "mal": 64509,
-    "anilist": null,
-    "anidb": null,
+    "anilist": 217246,
+    "anidb": 20213,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 3195850,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64509,
     "livechart": null,
-    "animeplanet": null,
+    "animeplanet": "shi-wangzhe-a-6th-season",
     "anisearch": null,
     "notify": null
   },
   "title": {
-    "romaji": "Shi Wangzhe A? 6th Season",
-    "english": null,
+    "romaji": "Shi Wang Zhe A? 6",
+    "english": "Is This Honor of Kings? Season 6",
     "native": "是王者啊？第六季",
     "synonyms": [
+      "Is This Honor of Kings? 6th Season",
       "是王者啊？第六季 学长驾到请指教",
       "Shi Wangzhe A? 6th Season: Xuezhang Jiadao Qing Zhijiao"
     ]
   },
   "type": "ONA",
   "source": "Game",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": 14,
-  "episodeLength": null,
+  "episodeLength": 9,
   "aired": {
     "from": "2026-07-23T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -53,32 +50,46 @@
   "genres": [
     "Action",
     "Comedy",
-    "Fantasy"
+    "Fantasy",
+    "School"
   ],
   "studios": [
     "Lingsanwu Animation"
   ],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1832/158783l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1593/159018l.jpg",
     "banner": null,
-    "color": null
+    "color": "#5086e4"
   },
   "trailer": null,
   "synopsis": "Jixia College has come up with a surprise move, inviting outstanding graduates to return as temporary \"substitute teachers\"! Zhou Yu and Zhuge Liang Zhan launch a \"dual-teacher showdown,\" with Yao and the \"Star Team\" and current students creating hilarious daily interactions with their seniors. When a mysterious crisis strikes, teachers and students set aside their identities and join forces to fight. Amid endless blunders and passionate moments of fighting side by side, the unique story of Jixia's legacy continues. \n\n(Source: Bangumi, translated)",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 63173,
+      "title": {
+        "romaji": "Shi Wang Zhe A? 5",
+        "english": null,
+        "native": "​是王者啊？ 第5季"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213697-0BZ167jT5JHu.png",
+      "format": "ONA",
+      "episodes": 13,
+      "seasonYear": null,
+      "relationType": "PREQUEL"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-05T06:54:53.279Z",
+    "lastFetched": "2026-11-21T14:23:44.518Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

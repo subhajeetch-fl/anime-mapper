@@ -4,9 +4,9 @@
   "mappings": {
     "mal": 60426,
     "anilist": 198708,
-    "anidb": null,
+    "anidb": 18928,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 2610628,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
@@ -14,7 +14,7 @@
     "shikimori": 60426,
     "livechart": null,
     "animeplanet": "fox-spirit-matchmaker-season-14",
-    "anisearch": null,
+    "anisearch": 21967,
     "notify": null
   },
   "title": {
@@ -30,21 +30,17 @@
   },
   "type": "ONA",
   "source": "Manga",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 16,
-  "episodeLength": null,
+  "episodeLength": 20,
   "aired": {
-    "from": null,
-    "to": null
+    "from": "2026-09-11T00:00:00+00:00",
+    "to": "2026-10-23T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -54,17 +50,14 @@
   },
   "genres": [
     "Comedy",
+    "Historical",
     "Romance",
     "Supernatural"
   ],
   "studios": [
     "Ke Yue Xue Zi"
   ],
-  "producers": [
-    "Tencent Animation & Comics",
-    "Tencent Video",
-    "China Literature Limited"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1813/158609l.jpg",
     "banner": null,
@@ -89,15 +82,16 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T10:55:11.411Z",
+    "lastFetched": "2026-11-21T14:11:24.284Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

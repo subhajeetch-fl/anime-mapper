@@ -29,35 +29,25 @@
   "source": "Game",
   "status": "Currently Airing",
   "airing": true,
-  "episodeCount": 4,
+  "episodeCount": null,
   "episodeLength": 22,
   "aired": {
     "from": "2008-12-29T00:00:00+00:00",
-    "to": "2021-10-24"
+    "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "fall",
+  "year": 2008,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.31,
+    "malScore": 7.33,
     "anilistScore": null,
-    "kitsuRating": 7.21
+    "kitsuRating": null
   },
   "genres": [
     "Fantasy",
-    "Magic",
-    "Vampire",
-    "Doujinshi",
-    "Fantasy World",
-    "Slice of Life",
-    "Juujin",
-    "Magical Girl"
+    "Vampire"
   ],
   "studios": [
     "Maikaze"
@@ -65,7 +55,7 @@
   "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/3/27302l.jpg",
-    "banner": "https://media.kitsu.app/anime/cover_images/5913/original.png",
+    "banner": null,
     "color": null
   },
   "trailer": null,
@@ -74,83 +64,100 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": null,
-      "airDate": "2008-12-29T00:00:00+00:00",
+      "length": 25,
+      "airDate": "2008-12-29",
       "title": {
-        "en": "A Summer Day's Dream",
-        "romaji": "Musou Kakyou ",
+        "en": "A Summer Day`s Dream",
+        "romaji": "Musou Kakyou",
         "ja": "夢想夏郷"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 260851,
+      "tvdbId": 4363550,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 20,
       "image": null
     },
     "2": {
       "episode": "2",
-      "length": null,
-      "airDate": "2012-08-12T00:00:00+00:00",
+      "length": 25,
+      "airDate": "2012-08-12",
       "title": {
         "en": "Pre-Established Harmony",
-        "romaji": "Yotei Chouwa ",
+        "romaji": "Yotei Chouwa",
         "ja": "予定調和"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 260851,
+      "tvdbId": 4407588,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 30,
       "image": null
     },
     "3": {
       "episode": "3",
-      "length": null,
-      "airDate": "2016-08-13T00:00:00+00:00",
+      "length": 15,
+      "airDate": "2014-05-11",
       "title": {
-        "en": "Unravelling Déjà Vu",
-        "romaji": "Hokorobi no Dejavu ",
-        "ja": "綻びのデジャヴ"
+        "en": "A Summer Day`s Dream 2.5",
+        "romaji": "Musou Kakyou 2.5",
+        "ja": "夢想夏郷2.5"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 3,
+      "tvdbShowId": 260851,
+      "tvdbId": 5303750,
+      "seasonNumber": 0,
+      "episodeNumber": 4,
       "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "runtime": 10,
       "image": null
     },
     "4": {
       "episode": "4",
-      "length": null,
-      "airDate": "2021-10-24T00:00:00+00:00",
+      "length": 25,
+      "airDate": "2016-03-08",
+      "title": {
+        "en": "Blooming Deja Vu",
+        "romaji": "Hokorobi no Dejavu",
+        "ja": "綻びのデジャヴ"
+      },
+      "tvdbShowId": 260851,
+      "tvdbId": 9304398,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2021-10-24",
       "title": {
         "en": "Beginning of Summer",
-        "romaji": "Natsu no Hajimari ",
+        "romaji": "Natsu no Hajimari",
         "ja": "夏の始まり"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 260851,
+      "tvdbId": 8933005,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 22,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-07-01T18:11:04.970Z",
+    "lastFetched": "2026-11-21T13:46:29.470Z",
     "sourcesUsed": [
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "jikan-episodes (fallback)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

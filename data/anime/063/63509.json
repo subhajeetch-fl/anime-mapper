@@ -5,15 +5,15 @@
     "mal": 63509,
     "anilist": 208025,
     "anidb": 19908,
-    "kitsu": null,
+    "kitsu": 50990,
     "simkl": 3029646,
-    "tmdb": null,
+    "tmdb": 335790,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 63509,
     "livechart": 13526,
-    "animeplanet": "dark-summoner-to-dekiteiru",
+    "animeplanet": "im-dating-a-dark-summoner",
     "anisearch": 21286,
     "notify": null
   },
@@ -23,34 +23,33 @@
     "native": "ダークサモナーとデキている",
     "synonyms": []
   },
-  "type": "TV",
+  "type": "ONA",
   "source": "Web manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 12,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
-    "to": null
+    "from": "2026-10-05T00:00:00+00:00",
+    "to": "2026-12-21T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+  "broadcast": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795364400
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.85,
+    "anilistScore": 6.7,
     "kitsuRating": null
   },
   "genres": [
     "Comedy",
-    "Fantasy",
     "Erotica",
+    "Fantasy",
     "Ecchi",
     "Romance"
   ],
@@ -59,28 +58,439 @@
     "Nyan Pollution-ω-"
   ],
   "producers": [
-    "WWWave",
-    "Deregula"
+    "WWWave"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1206/158453l.jpg",
-    "banner": null,
-    "color": "#9343f1"
+    "poster": "https://cdn.myanimelist.net/images/anime/1357/159860l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/208025-s7hcRQO7kwmH.jpg",
+    "color": "#fff1ae"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "-YCols5lYow",
+    "url": "https://www.youtube.com/watch?v=-YCols5lYow",
+    "thumbnail": "https://i.ytimg.com/vi/-YCols5lYow/hqdefault.jpg"
+  },
   "synopsis": "Amona, a dark summoner and demi-human who uses demonic powers, is the newest addition to the party of the uptight priest Roni. Everyone expected the two to dislike each other and to have nothing to do with each other. But to their surprise, on their first day together as an adventuring party, they had a one-night stand...!\n\n(Source: Kadokawa, translated)",
-  "sequence": [],
-  "episodes": {},
+  "sequence": [
+    {
+      "malId": 65169,
+      "title": {
+        "romaji": "JK Dark Summoner to Deki......Dei Nai!?",
+        "english": "I’m Dating a Dark Summoner Omake Shorts",
+        "native": "JKダークサモナーとデキ。。。。。。でいない!?"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218217-crIGlnQDg0bJ.png",
+      "format": "TV_SHORT",
+      "episodes": 12,
+      "seasonYear": 2026,
+      "relationType": "SPIN_OFF"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 15,
+      "airDate": "2026-10-05",
+      "title": {
+        "en": "The Dark Summoner and the Stubborn Priest",
+        "romaji": "Dark Summoner to Katabutsu Shinkan",
+        "ja": "ダークサモナーと堅物神官"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 11628246,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11628246/screencap/6abbb761e8a9e.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 15,
+      "airDate": "2026-10-12",
+      "title": {
+        "en": "The Dark Summoner Is Trapped in a Room",
+        "romaji": "Dark Summoner to Derarenai Heya",
+        "ja": "ダークサモナーと出られない部屋"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12018489,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018489/screencap/6acbba54a081f.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 15,
+      "airDate": "2026-10-19",
+      "title": {
+        "en": "The Dark Summoner and the Phantom S*men Thief",
+        "romaji": "Dark Summoner to **men Kaitou",
+        "ja": "ダークサモナーと〇ーメン怪盗"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12018490,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018490/screencap/6ad1edb247f16.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 15,
+      "airDate": "2026-10-26",
+      "title": {
+        "en": "The Dark Summoner and the Orc Nest",
+        "romaji": "Dark Summoner to Orc no Su",
+        "ja": "ダークサモナーとオークの巣"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12018491,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018491/screencap/6adb023e49d72.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 15,
+      "airDate": "2026-11-02",
+      "title": {
+        "en": "The Dark Summoner and the Elf`s Past",
+        "romaji": "Dark Summoner to Elf no Kako",
+        "ja": "ダークサモナーとエルフの過去"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12018492,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018492/screencap/6ae34adb39316.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 15,
+      "airDate": "2026-11-09",
+      "title": {
+        "en": "The Dark Summoner and the Mysterious Revenge-Seeker",
+        "romaji": "Dark Summoner to Nazo no Fukushuusha",
+        "ja": "ダークサモナーと謎の復讐者"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12018493,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018493/screencap/6aec7a1a796bb.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 15,
+      "airDate": "2026-11-16",
+      "title": {
+        "en": null,
+        "romaji": "Dark Summoner to Gobusaa no Hime",
+        "ja": "ダークサモナーとゴブサーの姫"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12018494,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018494/screencap/6af6e8d01dadc.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 15,
+      "airDate": "2026-11-23",
+      "title": {
+        "en": null,
+        "romaji": "Dark Summoner to Kyoukai no Shinmonkan",
+        "ja": "ダークサモナーと教会の審問官"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12018495,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018495/screencap/6b001157c624a.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 15,
+      "airDate": "2026-11-30",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12018496,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 12,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 15,
+      "airDate": "2026-12-07",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12018497,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 12,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 15,
+      "airDate": "2026-12-14",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12018498,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 12,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 15,
+      "airDate": "2026-12-21",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12018499,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 12,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": 15,
+      "airDate": "2026-10-05",
+      "title": {
+        "en": "I`m... Not Dating a High School Dark Summoner?! #1 / Dating a Dark Summoner at a Themed Cafe #1",
+        "romaji": "JK Dark Summoner to Deki...... te Inai!? #1 / Dark Summoner to Concept Cafe de Dekite Iru #1",
+        "ja": "JKダークサモナーとデキ...... ていない!? #1 / ダークサモナーとコンセプトカフェでデキている#1"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12023533,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": 11,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023533/screencap/6ac675bb7b6bd.jpg"
+    },
+    "S2": {
+      "episode": "S2",
+      "length": 15,
+      "airDate": "2026-10-12",
+      "title": {
+        "en": "For Some Reason, the Dark Summoner`s a Pre-Schooler #1 / Dating a Dark Summoner at a Themed Cafe #2",
+        "romaji": "Dark Summoner no Youchienji ni Nazeka Korogasarete Iru Ken #1 / Dark Summoner to Concept Cafe de Dekite Iru #2",
+        "ja": "ダークサモナーの幼稚園児になぜか転がされている件#1 / ダークサモナーとコンセプトカフェでデキている#2"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12028683,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": 10,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12028683/screencap/6ad0dfe3f4110.jpg"
+    },
+    "S3": {
+      "episode": "S3",
+      "length": 15,
+      "airDate": "2026-10-19",
+      "title": {
+        "en": "For Some Reason, the Dark Summoner`s a Pre-Schooler #2 / The Dark Summoner and Her Cheerful Coworkers #1",
+        "romaji": "Dark Summoner no Youchienji ni Nazeka Korogasarete Iru Ken #2 / Hataraku Dark Summoner to Yukai na Nakama-tachi #1",
+        "ja": "ダークサモナーの幼稚園児になぜか転がされている件#2 / 働くダークサモナーと愉快な仲間たち#1"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12037672,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": 11,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12037672/screencap/6ad97d2dc1c8c.jpg"
+    },
+    "S4": {
+      "episode": "S4",
+      "length": 15,
+      "airDate": "2026-10-26",
+      "title": {
+        "en": "The Dark Summoner and Her Cheerful Coworkers #2 / I`m... Not Dating a High School Dark Summoner?! #2",
+        "romaji": "Hataraku Dark Summoner to Yukai na Nakama-tachi #2 / JK Dark Summoner to Deki...... te Inai!? #2",
+        "ja": "働くダークサモナーと愉快な仲間たち#2 / JKダークサモナーとデキ...... ていない!? #2"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12052139,
+      "seasonNumber": 0,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": 10,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12052139/screencap/6ae237187b47e.jpg"
+    },
+    "S5": {
+      "episode": "S5",
+      "length": 15,
+      "airDate": "2026-11-02",
+      "title": {
+        "en": "Dating a Dark Summoner at a Themed Cafe #3 / For Some Reason, the Dark Summoner`s a Pre-Schooler #3",
+        "romaji": "Dark Summoner to Concept Cafe de Dekite Iru #3 / Dark Summoner no Youchienji ni Nazeka Korogasarete Iru Ken #3",
+        "ja": "ダークサモナーとコンセプトカフェでデキている#3 / ダークサモナーの幼稚園児になぜか転がされている件#3"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12065120,
+      "seasonNumber": 0,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": null,
+      "runtime": 10,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12065120/screencap/6aeb6c1a9aff0.jpg"
+    },
+    "S6": {
+      "episode": "S6",
+      "length": 15,
+      "airDate": "2026-11-09",
+      "title": {
+        "en": "I`m... Not Dating a High School Dark Summoner?! #3 / The Dark Summoner and Her Cheerful Coworkers #3",
+        "romaji": "JK Dark Summoner to Deki...... te Inai!? #3 / Hataraku Dark Summoner to Yukai na Nakama-tachi #3",
+        "ja": "JKダークサモナーとデキ...... ていない!? #3 / 働くダークサモナーと愉快な仲間たち#3"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12076066,
+      "seasonNumber": 0,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": null,
+      "runtime": 11,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12076066/screencap/6af4a56b0398f.jpg"
+    },
+    "S7": {
+      "episode": "S7",
+      "length": 15,
+      "airDate": "2026-11-16",
+      "title": {
+        "en": "For Some Reason, the Dark Summoner`s a Pre-Schooler #4 / Dating a Dark Summoner at a Themed Cafe #4",
+        "romaji": "Dark Summoner no Youchienji ni Nazeka Korogasarete Iru Ken #4 / Dark Summoner to Concept Cafe de Dekite Iru #4",
+        "ja": "ダークサモナーの幼稚園児になぜか転がされている件#4 / ダークサモナーとコンセプトカフェでデキている#4"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12087954,
+      "seasonNumber": 0,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": null,
+      "runtime": 10,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12087954/screencap/6afde0ff60e2f.jpg"
+    },
+    "S8": {
+      "episode": "S8",
+      "length": 15,
+      "airDate": "2026-11-23",
+      "title": {
+        "en": "I`m... Not Dating a High School Dark Summoner?! #4 / The Dark Summoner and Her Cheerful Coworkers #4",
+        "romaji": "JK Dark Summoner to Deki...... te Inai!? #4 / Hataraku Dark Summoner to Yukai na Nakama-tachi #4",
+        "ja": "JKダークサモナーとデキ...... ていない!? #4 / 働くダークサモナーと愉快な仲間たち#4"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12101555,
+      "seasonNumber": 0,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S9": {
+      "episode": "S9",
+      "length": 15,
+      "airDate": "2026-11-30",
+      "title": {
+        "en": "Omake Shorts 9"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12101990,
+      "seasonNumber": 0,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S10": {
+      "episode": "S10",
+      "length": 15,
+      "airDate": "2026-12-07",
+      "title": {
+        "en": "Omake Shorts 10"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12101991,
+      "seasonNumber": 0,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S11": {
+      "episode": "S11",
+      "length": 15,
+      "airDate": "2026-12-14",
+      "title": {
+        "en": "Omake Shorts 11"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12101992,
+      "seasonNumber": 0,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S12": {
+      "episode": "S12",
+      "length": 15,
+      "airDate": "2026-12-21",
+      "title": {
+        "en": "Omake Shorts 12"
+      },
+      "tvdbShowId": 474294,
+      "tvdbId": 12101993,
+      "seasonNumber": 0,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-03T06:57:29.743Z",
+    "lastFetched": "2026-11-21T14:19:32.692Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

@@ -3,7 +3,7 @@
   "idMal": 63598,
   "mappings": {
     "mal": 63598,
-    "anilist": null,
+    "anilist": 219063,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -18,37 +18,45 @@
     "notify": null
   },
   "title": {
-    "romaji": "Girls und Panzer: Motto Love Love Sakusen desu! Specials",
+    "romaji": "Girls und Panzer: Motto Love Love Sakusen desu! Mini Anime",
     "english": null,
-    "native": "「ガールズ＆パンツァー もっとらぶらぶ作戦です！」ミニアニメ",
-    "synonyms": []
+    "native": "ガールズ＆パンツァー もっとらぶらぶ作戦です！ ミニアニメ",
+    "synonyms": [
+      "Shin Iemoto, Toujou desu!",
+      "Shin Sensha, Hakken desu!",
+      "New Boko, desu!",
+      "新家元、登場です！",
+      "新戦車、発見です！",
+      "ニューボコ、です！"
+    ]
   },
   "type": "Special",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 3,
+  "episodeLength": 5,
   "aired": {
     "from": "2025-12-26T00:00:00+00:00",
-    "to": null
+    "to": "2026-04-10T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+  "season": "fall",
+  "year": 2025,
+  "broadcast": null,
+  "nextAiringEpisode": {
+    "episode": 3,
+    "airingAt": 1800975600
   },
-  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.88,
+    "malScore": 7.03,
     "anilistScore": null,
     "kitsuRating": null
   },
   "genres": [
-    "Comedy"
+    "Comedy",
+    "School",
+    "Seinen"
   ],
   "studios": [
     "Actas",
@@ -58,23 +66,36 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1076/155754l.jpg",
     "banner": null,
-    "color": null
+    "color": "#f1bb5d"
   },
   "trailer": null,
   "synopsis": "Original specials of mini-anime by Nii Marco presented after the premiere of the main movies. Also includes a pilot episode of the manga Ribbon no Musha.",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 61227,
+      "title": {
+        "romaji": "Girls und Panzer: Motto Love Love Sakusen desu!",
+        "english": null,
+        "native": "ガールズ＆パンツァー もっとらぶらぶ作戦です！"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188034-oRwVKBMezOOk.jpg",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2026,
+      "relationType": "PARENT"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-09T04:18:20.140Z",
+    "lastFetched": "2026-11-21T14:19:41.438Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

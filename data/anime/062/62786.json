@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -51,7 +47,8 @@
   },
   "genres": [
     "Action",
-    "Fantasy"
+    "Fantasy",
+    "Martial Arts"
   ],
   "studios": [
     "Qingkong Qian Li"
@@ -64,17 +61,21 @@
     "banner": null,
     "color": "#288693"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "f1U_zYVSO-0",
+    "url": "https://www.youtube.com/watch?v=f1U_zYVSO-0",
+    "thumbnail": "https://i.ytimg.com/vi/f1U_zYVSO-0/hqdefault.jpg"
+  },
   "synopsis": "The Ye family was suddenly massacred—Ye Beichen's parents and brothers were slaughtered, and he himself was ruthlessly thrown into the moat, clinging to life by a thread. Rescued by his senior sister, he was taken to Kunlun Mountain, where he spent five grueling years mastering martial arts. Five years later, he returned in full force, armed with the peerless skills taught by 99 invincible masters. Back in the mortal world, when faced with old enemies and powerful factions, Ye Beichen showed no fear. With extraordinary martial prowess and overwhelming strength, he unleashed chaos across the city, carving a path of revenge and dominance—turning the tables and crushing all who once sought his downfall.\n\n(Source: Youku)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:04:14.385Z",
+    "lastFetched": "2026-11-21T14:16:18.718Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

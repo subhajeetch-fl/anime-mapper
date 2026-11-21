@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 62967,
     "livechart": 13393,
-    "animeplanet": null,
+    "animeplanet": "gaea-tima-the-gigantis",
     "anisearch": 21017,
     "notify": null
   },
@@ -25,7 +25,7 @@
       "Gaea-tima the Gigantis"
     ]
   },
-  "type": null,
+  "type": "unknown",
   "source": "Manga",
   "status": "Not yet aired",
   "airing": false,
@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -52,6 +48,7 @@
   "genres": [
     "Action",
     "Sci-Fi",
+    "Seinen",
     "Drama"
   ],
   "studios": [],
@@ -66,12 +63,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:08:24.491Z",
+    "lastFetched": "2026-11-21T14:16:48.986Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

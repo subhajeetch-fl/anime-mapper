@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -59,21 +55,25 @@
     "bilibili"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1283/119631l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1283/119631l.webp",
     "banner": null,
     "color": "#e48628"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "xczESPiJSBA",
+    "url": "https://www.youtube.com/watch?v=xczESPiJSBA",
+    "thumbnail": "https://i.ytimg.com/vi/xczESPiJSBA/hqdefault.jpg"
+  },
   "synopsis": "A thousand years ago, the pieces of a meteorite with massive energy fell on multiple places in the world. They were called \"fragments of God\". Humans started wars for them. In a certain city, the lord sacrificed himself in resistance against the evil force to protect the residents. When the war came to an end, mechanics rebuilt the city and founded St. Beroro Academy, a dream school for mechanics to pursue their dreams...\n\n(Source: Bilibili)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T10:16:32.156Z",
+    "lastFetched": "2026-11-21T13:51:54.151Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

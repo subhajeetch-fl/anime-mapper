@@ -28,18 +28,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 4,
   "aired": {
     "from": "2024-03-28T00:00:00+00:00",
     "to": null
   },
   "season": "spring",
   "year": 2024,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -49,7 +45,9 @@
   },
   "genres": [
     "Comedy",
-    "Gourmet"
+    "Gag Humor",
+    "Gourmet",
+    "Kids"
   ],
   "studios": [],
   "producers": [],
@@ -63,16 +61,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T19:50:01.528Z",
+    "lastFetched": "2026-11-21T14:03:07.774Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

@@ -5,15 +5,15 @@
     "mal": 62907,
     "anilist": 202079,
     "anidb": 19705,
-    "kitsu": null,
+    "kitsu": 51021,
     "simkl": 2926050,
-    "tmdb": null,
-    "tvdb": null,
-    "trakt": null,
-    "traktType": null,
+    "tmdb": 330505,
+    "tvdb": 480889,
+    "trakt": 325675,
+    "traktType": "shows",
     "shikimori": 62907,
     "livechart": 13382,
-    "animeplanet": "oji-san-wa-kawaii-mono-ga-osuki",
+    "animeplanet": "uncles-obsession-with-cute-things",
     "anisearch": 21007,
     "notify": null
   },
@@ -25,37 +25,39 @@
       "Pops Loves Kawaii Stuff",
       "This Uncle Likes Cute Things",
       "Ojikawa",
-      "おじかわ"
+      "おじかわ",
+      "Om-Om Suka yang Unyu-Unyu"
     ]
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-04T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Sundays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1791118800
+    "episode": 8,
+    "airingAt": 1795352400
   },
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.56,
+    "anilistScore": 6.3,
     "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
     "Comedy",
     "Slice of Life"
   ],
@@ -63,29 +65,218 @@
     "LIDENFILMS"
   ],
   "producers": [
-    "Magic Capsule",
     "Yomiuri TV Enterprise",
-    "Futokorogatana"
+    "Flex Comics",
+    "AMUSE CREATIVE STUDIO",
+    "BookLive",
+    "A-Sketch",
+    "Ultra Super Pictures"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1842/153411l.jpg",
-    "banner": null,
+    "poster": "https://cdn.myanimelist.net/images/anime/1322/159256l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202079-oeULOdC1R1AR.jpg",
     "color": "#f1ae35"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "YKgjylmYeoA",
+    "url": "https://www.youtube.com/watch?v=YKgjylmYeoA",
+    "thumbnail": "https://i.ytimg.com/vi/YKgjylmYeoA/hqdefault.jpg"
+  },
   "synopsis": "Mitsutaka Oji is a 40-year-old, handsome office worker that is admired by his colleagues. Of course, he has a secret he is trying to hide from everyone: he loves cute things. But with his nephew going to his apartment, Mitsutaka's secret is now in danger!\n\n(Source: MU)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-04",
+      "title": {
+        "en": "Chief Oji and Cute Things"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-11",
+      "title": {
+        "en": "Chief Oji and the Gacha Guy"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-18",
+      "title": {
+        "en": "Chief Oji and His First Comrade"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-25",
+      "title": {
+        "en": "Chief Oji and Sweet Things"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-01",
+      "title": {
+        "en": "Chief Oji and the Home Drinking Party"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-08",
+      "title": {
+        "en": "Chief Oji and His Nephew`s Birthday"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-15",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-22",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-11-29",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-06",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-13",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-20",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-08-03T04:08:53.468Z",
+    "lastFetched": "2026-11-21T14:16:22.969Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

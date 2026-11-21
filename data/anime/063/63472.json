@@ -4,17 +4,17 @@
   "mappings": {
     "mal": 63472,
     "anilist": 207692,
-    "anidb": null,
+    "anidb": 19891,
     "kitsu": null,
-    "simkl": null,
-    "tmdb": null,
+    "simkl": 3019298,
+    "tmdb": 313966,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 63472,
     "livechart": 13521,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "namidaame-to-serenade",
+    "anisearch": 21262,
     "notify": null
   },
   "title": {
@@ -22,8 +22,7 @@
     "english": "Rainy Day Serenade",
     "native": "涙雨とセレナーデ",
     "synonyms": [
-      "The Rain of Teardrops",
-      "and Serenade.",
+      "The Rain of Teardrops, and Serenade.",
       "Rainy Day Serenade"
     ]
   },
@@ -34,16 +33,12 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": "2027-01-01T00:00:00+00:00",
+    "from": "2027-04-01T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "spring",
+  "year": 2027,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -52,29 +47,40 @@
     "kitsuRating": null
   },
   "genres": [
+    "Historical",
+    "Josei",
     "Romance",
+    "Time Travel",
     "Comedy",
     "Drama",
     "Supernatural"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Tezuka Productions"
+  ],
+  "producers": [
+    "Bandai Namco Filmworks"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1167/155430l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1424/160896l.jpg",
     "banner": null,
-    "color": "#f1ae43"
+    "color": null
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "UoP07Op8NSw",
+    "url": "https://www.youtube.com/watch?v=UoP07Op8NSw",
+    "thumbnail": "https://i.ytimg.com/vi/UoP07Op8NSw/hqdefault.jpg"
+  },
   "synopsis": "On rainy days, Hina Katagiri always dreams about her younger self playing with a mysterious boy, but she assumes these thoughts are nothing more than a childhood fantasy. Now a high school student, she focuses on her club activities and protecting her great-grandmother's necklace.\n\nWhile at school, Hina is inexplicably transported to the backyard of a mansion, where she is greeted by one of its inhabitants, Takaaki Hongou. He mistakes the girl for his fiancée, Hinako Kitamine, but Hina, believing she is in a dream, plays along with the misunderstanding. It is when Hina comes face-to-face with the real Hinako that she realizes the severity of her situation: somehow, she has been sent to the year 1907. In addition, she has lost her heirloom necklace at Takaaki's house. With Hinako's assistance, Hina continues to masquerade as her in order to access the Hongou household. However, Hina's plan begins to fall apart when she starts to develop feelings for Takaaki, all while the path to her former life becomes increasingly uncertain.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T06:56:53.691Z",
+    "lastFetched": "2026-11-21T14:19:28.598Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

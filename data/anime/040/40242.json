@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -54,39 +50,29 @@
   "studios": [
     "Twin Engine"
   ],
-  "producers": [],
+  "producers": [
+    "Twin Engine"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1059/102541l.jpg",
     "banner": null,
     "color": "#ffffbb"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "jeV-SxGKhzA",
+    "url": "https://www.youtube.com/watch?v=jeV-SxGKhzA",
+    "thumbnail": "https://i.ytimg.com/vi/jeV-SxGKhzA/hqdefault.jpg"
+  },
   "synopsis": "The story starts in a mysterious place in the future where \"boys and girls meet.\"\n\n(Source: ANN)",
   "sequence": [],
-  "episodes": {
-    "T1": {
-      "episode": "T1",
-      "length": "0m",
-      "airDate": "",
-      "title": {
-        "en": "PV"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    }
-  },
+  "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-29T08:34:28.727Z",
+    "lastFetched": "2026-11-21T13:48:02.519Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

@@ -40,11 +40,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -56,15 +52,16 @@
     "Action",
     "Adventure",
     "Comedy",
-    "Fantasy"
+    "Fantasy",
+    "Isekai",
+    "Martial Arts"
   ],
   "studios": [
     "Chongzhuo Animation"
   ],
   "producers": [
     "Tencent Animation & Comics",
-    "Tencent Video",
-    "China Literature Limited"
+    "Tencent Penguin Pictures"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1960/158620l.jpg",
@@ -72,16 +69,16 @@
     "color": "#e4ae5d"
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "Li Nianfan transmigrated into the world of immortal cultivation with a mortal body. After learning that he had no talent for cultivation, he settled down to live an ordinary life. But only to find...\n\n\n\nThe dog he adopted watched his writing and painting, and became the demon lord that ruled half the world. The tree he planted in the backyard listened to him play and sing, and grew into the world tree that held up the bridge between heaven and earth. A casual conversation enlightened a passing traveler to become the immortal sage that defined the era...\n\n\n\n(Source: Tencent, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:03:16.541Z",
+    "lastFetched": "2026-11-21T14:16:12.303Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

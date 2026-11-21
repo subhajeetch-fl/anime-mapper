@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -61,17 +57,21 @@
     "banner": null,
     "color": "#43c9bb"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "Ntrqql-K6zQ",
+    "url": "https://www.youtube.com/watch?v=Ntrqql-K6zQ",
+    "thumbnail": "https://i.ytimg.com/vi/Ntrqql-K6zQ/hqdefault.jpg"
+  },
   "synopsis": "In the high tower world where money is paramount, follow the grassroots male protagonist to climb to the top of the tower and realize his counterattack plan of becoming rich in 100 days!\n\n(Source: Bilibili, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:10:34.437Z",
+    "lastFetched": "2026-11-21T14:11:46.282Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

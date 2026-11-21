@@ -28,23 +28,22 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 2,
-  "episodeLength": null,
+  "episodeLength": 30,
   "aired": {
     "from": "2026-07-03T00:00:00+00:00",
-    "to": null
+    "to": "2027-02-05T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+  "broadcast": null,
+  "nextAiringEpisode": {
+    "episode": 2,
+    "airingAt": 1801753200
   },
-  "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 5.86,
+    "anilistScore": 5,
     "kitsuRating": null
   },
   "genres": [
@@ -55,8 +54,8 @@
     "Anime Antenna Iinkai"
   ],
   "producers": [
-    "Mediabank",
-    "Gold Bear"
+    "GOLD BEAR",
+    "Mediabank"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1413/157078l.jpg",
@@ -64,16 +63,16 @@
     "color": "#e48643"
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "Based on the erotic game by ZION.\n\n\n\nThe Orc King’s plan was to force the elven maidens to bear child after child, turning them into breeding machines, and subject them to every conceivable form of depravity. A massive orc army invades the kingdom. Female soldiers are captured one after another. Unable to halt their advance, Leona throws herself into the fray to protect the princess and buy her time to escape. Meanwhile, Clarice had supposedly fled to a neighboring country to seek help, but…\n\n\n\n(Source: Mediabank, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T04:49:28.257Z",
+    "lastFetched": "2026-11-21T14:21:18.227Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

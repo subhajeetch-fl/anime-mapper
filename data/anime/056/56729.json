@@ -39,11 +39,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -53,6 +49,7 @@
   },
   "genres": [
     "Adventure",
+    "Anthropomorphic",
     "Comedy"
   ],
   "studios": [
@@ -83,12 +80,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T15:44:10.352Z",
+    "lastFetched": "2026-11-21T13:59:40.486Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

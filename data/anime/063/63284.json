@@ -3,7 +3,7 @@
   "idMal": 63284,
   "mappings": {
     "mal": 63284,
-    "anilist": null,
+    "anilist": 214074,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -25,21 +25,17 @@
   },
   "type": "ONA",
   "source": "Other",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 5,
+  "episodeLength": 7,
   "aired": {
     "from": "2025-12-28T00:00:00+00:00",
-    "to": null
+    "to": "2026-08-30T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "fall",
+  "year": 2025,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -51,28 +47,32 @@
     "Comedy"
   ],
   "studios": [],
-  "producers": [],
+  "producers": [
+    "Toei"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1533/154945l.jpg",
     "banner": null,
-    "color": null
+    "color": "#e47850"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "jd1-6mVRQsk",
+    "url": "https://www.youtube.com/watch?v=jd1-6mVRQsk",
+    "thumbnail": "https://i.ytimg.com/vi/jd1-6mVRQsk/hqdefault.jpg"
+  },
   "synopsis": "Kamen Rider Zeztz shorts released on the Toei Tokusatsu Fan Club (TTFC) app.",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T06:53:01.026Z",
+    "lastFetched": "2026-11-21T14:18:34.402Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

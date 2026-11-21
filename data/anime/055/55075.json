@@ -19,7 +19,7 @@
   },
   "title": {
     "romaji": "Hina",
-    "english": null,
+    "english": "Hina is Beautiful",
     "native": "ひな",
     "synonyms": [
       "Hina is Beautiful",
@@ -34,16 +34,12 @@
   "episodeCount": 1,
   "episodeLength": null,
   "aired": {
-    "from": null,
-    "to": null
+    "from": "2026-01-01T00:00:00+00:00",
+    "to": "2026-01-01T00:00:00+00:00"
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -52,11 +48,14 @@
     "kitsuRating": null
   },
   "genres": [
+    "Seinen",
     "Action",
     "Drama"
   ],
   "studios": [],
-  "producers": [],
+  "producers": [
+    "ROCK'N ROLL MOUNTAIN"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1687/135463l.jpg",
     "banner": null,
@@ -65,17 +64,36 @@
   "trailer": null,
   "synopsis": "The \"highly entertaining action drama\" is set in Izu, Japan, where men are fighting over a woman called Hina. What is it exactly that makes Hina mislead men? As the men try to reveal their true feelings for Hina, strong, muscly men also get involved and the sound of the festival drum signals the start of a confrontation. \n\n(Source: Variety, edited)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-30T15:07:27.608Z",
+    "lastFetched": "2026-11-21T13:56:07.471Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

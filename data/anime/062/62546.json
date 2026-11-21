@@ -5,23 +5,25 @@
     "mal": 62546,
     "anilist": 195200,
     "anidb": null,
-    "kitsu": null,
+    "kitsu": 50005,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 62546,
-    "livechart": null,
+    "livechart": 13279,
     "animeplanet": null,
-    "anisearch": null,
+    "anisearch": 21375,
     "notify": null
   },
   "title": {
     "romaji": "Kimetsu no Yaiba: Mugenjou-hen Movie 2",
-    "english": "Demon Slayer: Kimetsu no Yaiba - The Movie 2: Infinity Castle",
+    "english": "Demon Slayer: Kimetsu no Yaiba Infinity Castle II",
     "native": "劇場版「鬼滅の刃」無限城編 第二章",
-    "synonyms": []
+    "synonyms": [
+      "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle - Part 2"
+    ]
   },
   "type": "Movie",
   "source": "Manga",
@@ -35,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
@@ -49,20 +47,24 @@
   },
   "genres": [
     "Action",
+    "Historical",
+    "Shounen",
     "Supernatural",
     "Adventure",
     "Drama",
     "Swordplay",
-    "Shounen",
     "Demon",
-    "Historical",
     "Fantasy",
     "Violence"
   ],
   "studios": [
     "ufotable"
   ],
-  "producers": [],
+  "producers": [
+    "Aniplex",
+    "Shueisha",
+    "ufotable"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg",
     "banner": "https://media.kitsu.app/anime/50005/cover_image/cd2a87faf7b43250242ff35c607ae19f.png",
@@ -98,17 +100,36 @@
       "relationType": "SEQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-02T11:05:25.977Z",
+    "lastFetched": "2026-11-21T14:14:11.244Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

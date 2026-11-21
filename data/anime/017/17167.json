@@ -3,7 +3,7 @@
   "idMal": 17167,
   "mappings": {
     "mal": 17167,
-    "anilist": 17167,
+    "anilist": null,
     "anidb": null,
     "kitsu": 7601,
     "simkl": null,
@@ -38,13 +38,9 @@
     "from": "1987-07-21T00:00:00+00:00",
     "to": "1988-08-21T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 1987,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -55,35 +51,84 @@
   "genres": [
     "Action",
     "Adventure",
-    "Sci-Fi",
-    "Science Fiction"
+    "Sci-Fi"
   ],
   "studios": [
     "Tatsunoko Production"
   ],
-  "producers": [
-    "Yomiko Advertising",
-    "Nippon Television Network"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/9/45843l.jpg",
     "banner": null,
     "color": null
   },
   "trailer": null,
-  "synopsis": "1. Akai Koudan Zillion: Emi Penguin's Diary (EMI♡PENGUIN'S DIARY)\n\nMusical retrospective of the TV series with circumstantial commentaries by Emi and JJ.\n\n2. Akai Koudan Zillion: J.J. vs. Ricks - Predestined Confrontation (JJ tai Ricks: Shukumei no Taiketsu)\n\n3. Akai Koudan Zillion: Champ &amp; Apple - Fantastic Memories (チャンプ&amp;アップル FANTASTIC MEMORIES)",
+  "synopsis": "1. Akai Koudan Zillion: Emi Penguin's Diary (EMI♡PENGUIN'S DIARY)\n\nMusical retrospective of the TV series with circumstantial commentaries by Emi and JJ.\n\n2. Akai Koudan Zillion: J.J. vs. Ricks - Predestined Confrontation (JJ tai Ricks: Shukumei no Taiketsu)\n\n3. Akai Koudan Zillion: Champ & Apple - Fantastic Memories (チャンプ&アップル FANTASTIC MEMORIES)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "42m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 42,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "42m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 42,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "42m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 42,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-27T15:30:54.499Z",
+    "lastFetched": "2026-11-21T13:46:30.561Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist"
+      "anilist (not in ID mappings)",
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
     ],
     "dataVersion": 1
   }

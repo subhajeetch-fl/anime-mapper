@@ -29,23 +29,26 @@
     ]
   },
   "type": "TV",
-  "source": "Light novel",
+  "source": "Web manga",
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 0,
   "aired": {
-    "from": "2027-01-01T00:00:00+00:00",
+    "from": "2027-01-07T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "winter",
+  "year": 2027,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Thursdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1798642800
+  },
   "rating": null,
   "score": {
     "malScore": null,
@@ -55,7 +58,11 @@
   "genres": [
     "Adventure",
     "Fantasy",
-    "Action"
+    "Isekai",
+    "Reincarnation",
+    "Action",
+    "Elf",
+    "Magic"
   ],
   "studios": [
     "Studio Palette"
@@ -64,24 +71,64 @@
     "Asmik Ace"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1904/158542l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1743/161250l.jpg",
     "banner": null,
-    "color": "#35bbff"
+    "color": "#d6f1ae"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "zRvOQb5Vic8",
+    "url": "https://www.youtube.com/watch?v=zRvOQb5Vic8",
+    "thumbnail": "https://i.ytimg.com/vi/zRvOQb5Vic8/hqdefault.jpg"
+  },
   "synopsis": "Minoru Kido, age 30, cause of death: traffic accident. As a Japanese, I died without leaving any evidence of my life. At the time of my death, I was thinking, \"Next time, I want to live a long life and leave behind some proof of my life,\" when I was reincarnated as an elf with a life span of 1,000 years! That's why I made a vow. I vowed that this time I would spend my whole life living in a way that would leave a mark on my life.\n\nAt the age of 20, I was able to use all of the healing magic that elves were originally equipped with at will. By the age of 30, I had mastered all attribute magic, and by the age of 100, I had deciphered all the ancient magic formulas. For the remaining 900 years of my life, all I have to do is run out of the Elven forest and become a warrior.\n\nOne day, I'll be missed by a fledgling adventurer who will eventually be called a hero. Sometimes, a country is founded in my name. Sometimes, I was called the founder of magic and became an object of worship. This is the story of a reincarnated elf who roars his name into history as a living legend.\n\n(Source: Kakuyomu, translated)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 0,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 0,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-02T08:08:33.905Z",
+    "lastFetched": "2026-11-21T14:16:52.745Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

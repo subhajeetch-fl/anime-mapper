@@ -28,18 +28,14 @@
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 92,
   "aired": {
     "from": null,
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG",
   "score": {
@@ -49,8 +45,8 @@
   },
   "genres": [
     "Action",
-    "Samurai",
     "Historical",
+    "Samurai",
     "Violence",
     "Human Enhancement",
     "Seinen",
@@ -65,7 +61,8 @@
   ],
   "producers": [
     "Whatever",
-    "Taiyo Kikaku"
+    "TECARAT",
+    "Taiyo Kikaku Co."
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1473/135777l.jpg",
@@ -89,17 +86,36 @@
       "relationType": "ALTERNATIVE"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-30T15:08:34.447Z",
+    "lastFetched": "2026-11-21T13:56:10.731Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

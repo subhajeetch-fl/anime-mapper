@@ -20,9 +20,10 @@
   "title": {
     "romaji": "Skip to Loafer 2nd Season",
     "english": "Skip and Loafer Season 2",
-    "native": "スキップとローファー 第2期",
+    "native": "スキップとローファー 2nd season",
     "synonyms": [
-      "スキロー 2"
+      "スキロー 2",
+      "スキップとローファー 第2期"
     ]
   },
   "type": "TV",
@@ -32,16 +33,12 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-04-01T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "spring",
+  "year": 2027,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -51,6 +48,8 @@
   },
   "genres": [
     "Drama",
+    "School",
+    "Seinen",
     "Comedy",
     "Romance",
     "Slice of Life"
@@ -59,13 +58,19 @@
     "P.A. Works",
     "P.A.WORKS"
   ],
-  "producers": [],
+  "producers": [
+    "DMM pictures"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1800/148268l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1917/161195l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185657-UTtsrhafCHsB.jpg",
-    "color": "#ffd6a1"
+    "color": "#c9f1c9"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "Mu1bChJEm1c",
+    "url": "https://www.youtube.com/watch?v=Mu1bChJEm1c",
+    "thumbnail": "https://i.ytimg.com/vi/Mu1bChJEm1c/hqdefault.jpg"
+  },
   "synopsis": "Second season of Skip to Loafer.",
   "sequence": [
     {
@@ -84,15 +89,17 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:09:39.480Z",
+    "lastFetched": "2026-11-21T14:11:31.597Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

@@ -5,49 +5,54 @@
     "mal": 63754,
     "anilist": 209502,
     "anidb": 19955,
-    "kitsu": null,
-    "simkl": null,
+    "kitsu": 51012,
+    "simkl": 3054050,
     "tmdb": 316891,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 63754,
     "livechart": 13559,
-    "animeplanet": "shio-taiou-no-sato-san-ga-ore-ni-dake-amai",
+    "animeplanet": "the-cold-sato-san-is-only-sweet-to-me",
     "anisearch": 21312,
     "notify": null
   },
   "title": {
     "romaji": "Shiotaiou no Satou-san ga Ore ni dake Amai",
-    "english": null,
+    "english": "The Cold Sato-san is Only Sweet to Me",
     "native": "塩対応の佐藤さんが俺にだけ甘い",
     "synonyms": [
-      "The Cold Sato-san is Only Sweet to Me",
-      "Aren't You Too Sweet Salt-God Sato-san"
+      "Aren't You Too Sweet Salt-God Sato-san",
+      "Shioama",
+      "しおあま",
+      "The Salty Koharu Has a Soft Spot for Me"
     ]
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
-    "to": null
+    "from": "2026-10-06T00:00:00+00:00",
+    "to": "2026-12-22T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Tuesdays",
+    "time": "20:30",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795525200
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.61,
+    "anilistScore": 6.7,
     "kitsuRating": null
   },
   "genres": [
@@ -58,27 +63,221 @@
     "Tezuka Productions"
   ],
   "producers": [
-    "Shochiku"
+    "Shouchiku",
+    "Good Smile Company",
+    "Pony Canyon",
+    "arma bianca",
+    "AT-X",
+    "TOKYO MX",
+    "81 Produce",
+    "WOWOW",
+    "BS-TBS"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1598/158730l.jpg",
-    "banner": null,
-    "color": "#86e45d"
+    "poster": "https://cdn.myanimelist.net/images/anime/1160/160129l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209502-TATgyznMxQOe.jpg",
+    "color": "#f1bb50"
   },
-  "trailer": null,
-  "synopsis": "Koharu Satou is known to her classmates as the \"unattainable flower\" a cold and distant girl whose refusal to smile keeps everyone at arm's length.\n\nHowever, Souta Oshio accidentally stumbles upon Satou's secret at her family's cafe. It turns out the \"icy Satou-san\" is actually an incredibly shy and clumsy girl who struggles even with something as simple as taking photos of sweets for the cafe's social media.\n\nBonding over their shared love for cameras and desserts, the distance between the two gradually shrinks. This charming romantic comedy follows two socially awkward people as they navigate their feelings in a story that is as sweet as it is endearing.\n\n(Source: MAL News)",
+  "trailer": {
+    "youtubeId": "8XgKVzuLmJw",
+    "url": "https://www.youtube.com/watch?v=8XgKVzuLmJw",
+    "thumbnail": "https://i.ytimg.com/vi/8XgKVzuLmJw/hqdefault.jpg"
+  },
+  "synopsis": "Koharu Satou is known to her classmates as the \"unattainable flower\": a cold and distant girl whose refusal to smile keeps everyone at arm's length.\n\nHowever, Souta Oshio accidentally stumbles upon Satou's secret at his family's cafe. It turns out the \"icy Satou-san\" is actually an incredibly shy and clumsy girl who struggles even with something as simple as taking photos of sweets.\n\nBonding over their shared love for cameras and desserts, the distance between the two gradually shrinks. This charming romantic comedy follows two socially awkward people as they navigate their feelings in a story that is as sweet as it is endearing.\n\n(Source: MAL News, edited)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-06",
+      "title": {
+        "en": "The Cold Sato-San"
+      },
+      "tvdbShowId": 475634,
+      "tvdbId": 11684474,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11684474/screencap/6ac47597cdcd7.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-13",
+      "title": {
+        "en": "A Second First Love"
+      },
+      "tvdbShowId": 475634,
+      "tvdbId": 12022133,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022133/screencap/6ace167f974f8.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-20",
+      "title": {
+        "en": "The End of Their Mutual Crush"
+      },
+      "tvdbShowId": 475634,
+      "tvdbId": 12022134,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022134/screencap/6ad6e4f553216.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-27",
+      "title": {
+        "en": "Magic"
+      },
+      "tvdbShowId": 475634,
+      "tvdbId": 12022135,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022135/screencap/6ae010a650257.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-03",
+      "title": {
+        "en": "Now Serving: Mutual Feelings"
+      },
+      "tvdbShowId": 475634,
+      "tvdbId": 12022136,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022136/screencap/6ae94227a1c49.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-10",
+      "title": {
+        "en": "The Beach, a Cat, and Love Talk"
+      },
+      "tvdbShowId": 475634,
+      "tvdbId": 12022137,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022137/screencap/6af2879a070b7.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-17",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475634,
+      "tvdbId": 12022138,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022138/screencap/6afbbf870934c.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-24",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475634,
+      "tvdbId": 12022139,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-12-01",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475634,
+      "tvdbId": 12022140,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-08",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475634,
+      "tvdbId": 12022141,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-15",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475634,
+      "tvdbId": 12022142,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-22",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475634,
+      "tvdbId": 12022143,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-03T07:02:54.274Z",
+    "lastFetched": "2026-11-21T14:20:11.398Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

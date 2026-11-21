@@ -28,52 +28,55 @@
   },
   "type": "Movie",
   "source": "Original",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 26,
-  "episodeLength": null,
+  "episodeLength": 110,
   "aired": {
     "from": "2024-07-19T00:00:00+00:00",
-    "to": null
+    "to": "2026-10-30T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2024,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.57,
-    "anilistScore": 6.1,
+    "malScore": 7.52,
+    "anilistScore": 6.6,
     "kitsuRating": null
   },
   "genres": [
     "Action",
+    "Adult Cast",
     "Drama",
-    "Sci-Fi"
+    "Military",
+    "Sci-Fi",
+    "Space"
   ],
   "studios": [
     "studio MOTHER",
     "Satelight"
   ],
   "producers": [
+    "Voyager Entertainment",
+    "Bandai Namco Music Live",
+    "Shouchiku",
     "Production I.G",
-    "Satelight",
-    "Shochiku",
-    "Bandai Spirits",
+    "BANDAI SPIRITS",
     "ADK Marketing Solutions",
-    "Bandai Namco Filmworks",
-    "Bandai Namco Music Live"
+    "Bandai Namco Filmworks"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1856/143246l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1856/143246l.webp",
     "banner": null,
     "color": "#4386f1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "73y6CAqPomE",
+    "url": "https://www.youtube.com/watch?v=73y6CAqPomE",
+    "thumbnail": "https://i.ytimg.com/vi/73y6CAqPomE/hqdefault.jpg"
+  },
   "synopsis": "Sequel to Uchuu Senkan Yamato 2205: Aratanaru Tabidachi.",
   "sequence": [
     {
@@ -93,10 +96,12 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-07-19",
       "title": {
-        "en": "Begin the Secret Operation! Head for the New Yamato!"
+        "en": "Begin the Secret Operation! Head for the New Yamato!",
+        "romaji": "Himitsu Sakusen Hatsudou! Shin Yamato e Mukae!!",
+        "ja": "秘密作戦発動! 新ヤマトへ向かえ!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -108,10 +113,12 @@
     },
     "2": {
       "episode": "2",
-      "length": "30m",
+      "length": 30,
       "airDate": "2024-07-19",
       "title": {
-        "en": "The Silent Invasion! Ginga, Take Up Your Arms!"
+        "en": "The Silent Invasion! Ginga, Take Up Your Arms!",
+        "romaji": "Shizuka naru Shinryaku: Ginga yo Buki o Tore!",
+        "ja": "静かなる侵略・銀河よ武器をとれ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -123,10 +130,12 @@
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-11-22",
       "title": {
-        "en": "Shocking! The Dezarium`s Dark Millennium of History"
+        "en": "Shocking! The Dezarium`s Dark Millennium of History",
+        "romaji": "Shougeki! Dezarium Ankoku no Sennenshi",
+        "ja": "衝撃! デザリアム暗黒の千年史"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -138,10 +147,12 @@
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-11-22",
       "title": {
-        "en": "Fire the Starting Gun! The New Battleship Yamato Comes to Life"
+        "en": "Fire the Starting Gun! The New Battleship Yamato Comes to Life",
+        "romaji": "Gouhou Ippatsu!! Shin Uchuu Senkan Yamato Shidou",
+        "ja": "号砲一発!! 新・宇宙戦艦ヤマト始動"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -153,10 +164,12 @@
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-11-22",
       "title": {
-        "en": "Fierce Clash! Destroy the Invisible Battleship!"
+        "en": "Fierce Clash! Destroy the Invisible Battleship!",
+        "romaji": "Gekitotsu! Toumei Senkan o Tatake!!",
+        "ja": "激突! 透明戦艦を叩け!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -168,10 +181,12 @@
     },
     "6": {
       "episode": "6",
-      "length": "30m",
+      "length": 30,
       "airDate": "2024-11-22",
       "title": {
-        "en": "Alphon Infiltrates! Get Back Sasha!"
+        "en": "Alphon Infiltrates! Get Back Sasha!",
+        "romaji": "Alphon Sennyuu! Sasha o Torimodose!!",
+        "ja": "アルフォン潜入! サーシャを取り戻せ!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -183,10 +198,12 @@
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-04-11",
       "title": {
-        "en": "The Terrible Orfevre Zone! Yamato, Bet It All on a Surprise Attack!"
+        "en": "The Terrible Orfevre Zone! Yamato, Bet It All on a Surprise Attack!",
+        "romaji": "Ma no Orfevre Chuuiki: Yamato, Kishuu ni Kakero!",
+        "ja": "魔のオルフェ宙域・ヤマト, 奇襲に賭けろ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -198,10 +215,12 @@
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-04-11",
       "title": {
-        "en": "Activate the Space Battleship Arizona! Reveal the True Nature of the Dezarium!"
+        "en": "Activate the Space Battleship Arizona! Reveal the True Nature of the Dezarium!",
+        "romaji": "Uchuu Senkan Arizona Shidou! Dezarium no Shoutai o Abake!!",
+        "ja": "宇宙戦艦アリゾナ始動! デザリアムの正体を暴け!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -213,10 +232,12 @@
     },
     "9": {
       "episode": "9",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-04-11",
       "title": {
-        "en": "Friendship Torn Apart! Yamato, Break Through the Subspace Gate at All Costs!"
+        "en": "Friendship Torn Apart! Yamato, Break Through the Subspace Gate at All Costs!",
+        "romaji": "Hikisakareta Yuujou! Yamato, Kesshi no Akuukan Toppa!!",
+        "ja": "引き裂かれた友情! ヤマト, 決死の亜空間突破!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -228,10 +249,12 @@
     },
     "10": {
       "episode": "10",
-      "length": "30m",
+      "length": 30,
       "airDate": "2025-04-11",
       "title": {
-        "en": "The Fierce Attack of the Deusura III! The Terrible Operation Asteroid!"
+        "en": "The Fierce Attack of the Deusura III! The Terrible Operation Asteroid!",
+        "romaji": "Deusura III Moukou! Kyoui no Asteroid Sakusen!!",
+        "ja": "デウスーラⅢ猛攻! 脅威のアステロイド作戦!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -243,10 +266,12 @@
     },
     "11": {
       "episode": "11",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-10",
       "title": {
-        "en": "Sasha, a Reunion Across Time"
+        "en": "Sasha, a Reunion Across Time",
+        "romaji": "Sasha: Toki o Koeta Saikai",
+        "ja": "サーシャ・時を超えた再会"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -258,10 +283,12 @@
     },
     "12": {
       "episode": "12",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-10",
       "title": {
-        "en": "Frulul`s Day Off"
+        "en": "Frulul`s Day Off",
+        "romaji": "Frulul no Kyuujitsu",
+        "ja": "フルールの休日"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -273,10 +300,12 @@
     },
     "13": {
       "episode": "13",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-10",
       "title": {
-        "en": "All Ships, Sortie! Eliminate the Planet Destroyer Missile!"
+        "en": "All Ships, Sortie! Eliminate the Planet Destroyer Missile!",
+        "romaji": "Zenkan Tai Shutsudou! Wakusei Hakai Missile o Gekimetsu Seyo!!",
+        "ja": "全艦隊出動! 惑星破壊ミサイルを撃滅せよ!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -288,10 +317,12 @@
     },
     "14": {
       "episode": "14",
-      "length": "30m",
+      "length": 30,
       "airDate": "2025-10-10",
       "title": {
-        "en": "Enter the Dark Gas Clouds! Chase the Witch of Uralia!"
+        "en": "Enter the Dark Gas Clouds! Chase the Witch of Uralia!",
+        "romaji": "Ankoku Gas Un Totsunyuu! Uralia no Majo o Oe!!",
+        "ja": "暗黒ガス雲突入! ウラリアの魔女を追え!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -303,10 +334,12 @@
     },
     "15": {
       "episode": "15",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-20",
       "title": {
-        "en": "Fight to the Last! Protect the Immigrant Fleet!"
+        "en": "Fight to the Last! Protect the Immigrant Fleet!",
+        "romaji": "Tettei Kousen: Imin Sendan o Mamore!",
+        "ja": "徹底抗戦・移民船団を守れ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -318,10 +351,12 @@
     },
     "16": {
       "episode": "16",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-20",
       "title": {
-        "en": "The Climactic Battle! Take Down the Dezarium Fortress"
+        "en": "The Climactic Battle! Take Down the Dezarium Fortress",
+        "romaji": "Kessen: Dezarium Yousai o Kouryaku Seyo!",
+        "ja": "決戦・デザリアム要塞を攻略せよ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -333,10 +368,12 @@
     },
     "17": {
       "episode": "17",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-20",
       "title": {
-        "en": "The Universe Revives, Awaken! Super Yamato!"
+        "en": "The Universe Revives, Awaken! Super Yamato!",
+        "romaji": "Yomigaeru Uchuu: Mezame yo Super Yamato",
+        "ja": "よみがえる宇宙・目覚めよ超[スーパー]ヤマト"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -348,10 +385,12 @@
     },
     "18": {
       "episode": "18",
-      "length": "30m",
+      "length": 30,
       "airDate": "2026-02-20",
       "title": {
-        "en": "Chain Warp! Yamato, Cross Over Time!"
+        "en": "Chain Warp! Yamato, Cross Over Time!",
+        "romaji": "Renzoku Warp! Yamato, Jikan o Koero!!",
+        "ja": "連続ワープ! ヤマト, 時間を超えろ!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -363,10 +402,12 @@
     },
     "19": {
       "episode": "19",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-26",
       "title": {
-        "en": "July 21, 2026: The Yamato Appears in Tokyo"
+        "en": "July 21, 2026: The Yamato Appears in Tokyo",
+        "romaji": "Reiwa Hachinen Shichigatsu Nijuuichinichi: Yamato Tokyo ni Arawaru",
+        "ja": "令和八年七月二十一日・ヤマト東京に現る"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -378,10 +419,12 @@
     },
     "20": {
       "episode": "20",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-26",
       "title": {
-        "en": "The Stolen Yamato - The Choice of 2026"
+        "en": "The Stolen Yamato - The Choice of 2026",
+        "romaji": "Ubawareta Yamato: Seireki 2026-nen no Sentaku",
+        "ja": "奪われたヤマト・西暦2026年の選択"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -393,10 +436,12 @@
     },
     "21": {
       "episode": "21",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-26",
       "title": {
-        "en": "Terrifying! The Black Space Battleship Yamato!"
+        "en": "Terrifying! The Black Space Battleship Yamato!",
+        "romaji": "Senritsu! Kuroi Uchuu Senkan Yamato!!",
+        "ja": "戦慄! 黒い宇宙戦艦ヤマト!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -408,10 +453,12 @@
     },
     "22": {
       "episode": "22",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-26",
       "title": {
-        "en": "Begin the Counterattack! Revive, Ginga!"
+        "en": "Begin the Counterattack! Revive, Ginga!",
+        "romaji": "Hangeki Kaishi! Yomigaere Ginga!!",
+        "ja": "反撃開始! よみがえれ銀河!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -423,10 +470,12 @@
     },
     "23": {
       "episode": "23",
-      "length": "0m",
+      "length": 25,
       "airDate": "2026-10-30",
       "title": {
-        "en": "Launch the Arizona! Defeat the Grand Reverse!"
+        "en": "Launch the Arizona! Defeat the Grand Reverse!",
+        "romaji": "Arizona Hasshin! Grand Reverse o Taose!!",
+        "ja": "アリゾナ発進! グランドリバースを倒せ!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -438,10 +487,12 @@
     },
     "24": {
       "episode": "24",
-      "length": "0m",
+      "length": 25,
       "airDate": "2026-10-30",
       "title": {
-        "en": "Episode 24"
+        "en": "All-Out Attack! Gather the Partisan Fleet!",
+        "romaji": "Soukougeki! Partisan Kantai Shuuketsu Seyo!!",
+        "ja": "総攻撃! パルチザン艦隊集結せよ!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -453,10 +504,12 @@
     },
     "25": {
       "episode": "25",
-      "length": "0m",
+      "length": 30,
       "airDate": "2026-10-30",
       "title": {
-        "en": "Episode 25"
+        "en": "Rise Up, Sasha! For the Sake of Love!",
+        "romaji": "Tate! Sasha: Ai no Tame ni",
+        "ja": "立て! サーシャ 愛のために"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -468,10 +521,12 @@
     },
     "26": {
       "episode": "26",
-      "length": "0m",
+      "length": 30,
       "airDate": "2026-10-30",
       "title": {
-        "en": "Episode 26"
+        "en": "Love, Until That Day",
+        "romaji": "Ai yo: Sono Hi made",
+        "ja": "愛よ その日まで"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -483,15 +538,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-23T12:36:43.995Z",
+    "lastFetched": "2026-11-21T13:51:57.399Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

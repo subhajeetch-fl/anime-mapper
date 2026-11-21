@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -50,7 +46,8 @@
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Urban Fantasy"
   ],
   "studios": [
     "Qingkong Qian Li"
@@ -63,17 +60,21 @@
     "banner": null,
     "color": "#50aee4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "ae6PIiJiAV8",
+    "url": "https://www.youtube.com/watch?v=ae6PIiJiAV8",
+    "thumbnail": "https://i.ytimg.com/vi/ae6PIiJiAV8/hqdefault.jpg"
+  },
   "synopsis": "The hero, gifted with extraordinary abilities and from a powerful Daoist sect, left his sect at his master's invitation to exorcise ghosts. After clearing two haunted houses, he became entangled in a series of bizarre events while facing challenges from various factions: he clashed with a Thai sorcerer, dealt a crushing blow to Japanese Onmyoji, fended off a Korean witch's challenge, and humiliated Western exorcists—defeating and banishing masters from across the world. In a realm where technology intertwined with the supernatural, he slayed demons and spirits, growing into a legendary Celestial Master.\n\n(Source: Youku)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:04:05.564Z",
+    "lastFetched": "2026-11-21T14:16:16.415Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

@@ -33,13 +33,9 @@
     "from": "2018-09-20T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2018,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -49,6 +45,7 @@
   },
   "genres": [
     "Comedy",
+    "Educational",
     "Parody",
     "Super Power"
   ],
@@ -64,16 +61,16 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T11:18:31.820Z",
+    "lastFetched": "2026-11-21T13:48:02.940Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)",
+      "episodes (no data from Zenshin or Kitsu)"
     ],
     "dataVersion": 1
   }

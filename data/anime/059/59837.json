@@ -23,7 +23,7 @@
     "native": "ボイスト Voice&Stories",
     "synonyms": []
   },
-  "type": null,
+  "type": "unknown",
   "source": "Mixed media",
   "status": "Not yet aired",
   "airing": false,
@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -51,25 +47,24 @@
   "studios": [],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1456/145492l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1456/145492l.webp",
     "banner": null,
     "color": null
   },
   "trailer": null,
-  "synopsis": "Anime adaptation of Voice &amp; Stories.",
+  "synopsis": "Anime adaptation of Voice & Stories.",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T20:20:55.109Z",
+    "lastFetched": "2026-11-21T14:10:08.054Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

@@ -5,7 +5,7 @@
     "mal": 62753,
     "anilist": 200455,
     "anidb": 19650,
-    "kitsu": null,
+    "kitsu": 51020,
     "simkl": 2901666,
     "tmdb": null,
     "tvdb": null,
@@ -13,46 +13,48 @@
     "traktType": null,
     "shikimori": 62753,
     "livechart": 13364,
-    "animeplanet": "yowaki-max-reijou-nano-ni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta",
+    "animeplanet": "even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance",
     "anisearch": 20986,
     "notify": null
   },
   "title": {
     "romaji": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
-    "english": null,
+    "english": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
     "native": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった",
-    "synonyms": [
-      "Even Though I'm a Super Timid Noble Girl",
-      "I Accepted the Bet From My Cunning Fiancé",
-      "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé"
-    ]
+    "synonyms": []
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-04T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Sundays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795357800
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.84,
+    "anilistScore": 6.7,
     "kitsuRating": null
   },
   "genres": [
+    "Isekai",
     "Romance",
+    "Shoujo",
+    "Villainess",
     "Comedy",
     "Fantasy"
   ],
@@ -60,27 +62,238 @@
     "Jumondou"
   ],
   "producers": [
-    "Kadokawa"
+    "KADOKAWA",
+    "Docomo Anime Store",
+    "Studio Flag",
+    "BS Asahi",
+    "AT-X",
+    "TOKYO MX",
+    "Sumiseki",
+    "Nippon Columbia",
+    "Sun Television",
+    "Jumondou"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1649/152609l.jpg",
-    "banner": null,
-    "color": "#f1865d"
+    "poster": "https://cdn.myanimelist.net/images/anime/1732/159886l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200455-rlIXyuk0jHE3.jpg",
+    "color": "#e45d35"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "e41RGxVwJRs",
+    "url": "https://www.youtube.com/watch?v=e41RGxVwJRs",
+    "thumbnail": "https://i.ytimg.com/vi/e41RGxVwJRs/hqdefault.jpg"
+  },
   "synopsis": "I was reborn as a villainous daughter in a reverse harem otome game.\n\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum, and then become a curator.\n\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.\n\nBut will her cunning fiancé let her go that easily?\n\n(Source: MU)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-04",
+      "title": {
+        "en": "I Was a Faceless, Evil NPC Heiress",
+        "romaji": "Silhouette Mob Akuyaku Reijo Datta Watashi",
+        "ja": "シルエットモブ悪役令嬢だった私"
+      },
+      "tvdbShowId": 469231,
+      "tvdbId": 11396042,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11396042/screencap/6ac179124bd1e.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-11",
+      "title": {
+        "en": "Tea Party with the Love Interests",
+        "romaji": "Kouryaku Kyara ga Tsudou Ochakai",
+        "ja": "攻略キャラが集うお茶会"
+      },
+      "tvdbShowId": 469231,
+      "tvdbId": 12017424,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017424/screencap/6acaec25a81ba.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-18",
+      "title": {
+        "en": "Enrolling on the Set of an Otome Game?!",
+        "romaji": "Otomege no Butai ni Nyuugaku!?",
+        "ja": "乙女ゲーの舞台に入学!?"
+      },
+      "tvdbShowId": 469231,
+      "tvdbId": 12017425,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017425/screencap/6ad4c37dcc2d9.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-25",
+      "title": {
+        "en": "The Overprotective, Cunning Fiance",
+        "romaji": "Kahogo na Ratsuwan Konyakusha-sama",
+        "ja": "過保護な辣腕婚約者様"
+      },
+      "tvdbShowId": 469231,
+      "tvdbId": 12017426,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017426/screencap/6add5bc727ab7.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-01",
+      "title": {
+        "en": "The Timid Villain and the Outgoing Heroine",
+        "romaji": "Yowaki na Akuyaku to Tsuyoki na Heroine",
+        "ja": "弱気な悪役と強気なヒロイン"
+      },
+      "tvdbShowId": 469231,
+      "tvdbId": 12017427,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017427/screencap/6ae54dc19a493.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-08",
+      "title": {
+        "en": "A Gameplay Item and the Heroine`s Secret",
+        "romaji": "Kouryaku Item to Heroine no Himitsu",
+        "ja": "攻略アイテムとヒロインのひみつ"
+      },
+      "tvdbShowId": 469231,
+      "tvdbId": 12017428,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017428/screencap/6aefdc2e4cf4d.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-15",
+      "title": {
+        "en": "The Fateful Condemnation Scene",
+        "romaji": "Unmei o Kessuru Danzai Event",
+        "ja": "運命を決する断罪イベント"
+      },
+      "tvdbShowId": 469231,
+      "tvdbId": 12017429,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017429/screencap/6af7ad2877370.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-22",
+      "title": {
+        "en": null,
+        "romaji": "Akuyaku Reijou de wa Nakunatta Watashi",
+        "ja": "悪役令嬢ではなくなった私"
+      },
+      "tvdbShowId": 469231,
+      "tvdbId": 12017430,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017430/screencap/6b00a7faf236c.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-11-29",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 469231,
+      "tvdbId": 12017431,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-06",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 469231,
+      "tvdbId": 12017432,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-13",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 469231,
+      "tvdbId": 12017433,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-20",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 469231,
+      "tvdbId": 12017434,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-02T08:03:18.358Z",
+    "lastFetched": "2026-11-21T14:16:14.288Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

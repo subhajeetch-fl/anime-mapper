@@ -25,55 +25,78 @@
   },
   "type": "Movie",
   "source": "Original",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 87,
   "aired": {
-    "from": "2027-01-01T00:00:00+00:00",
-    "to": "2027-12-31"
+    "from": "2026-07-19T00:00:00+00:00",
+    "to": "2026-07-19T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
     "anilistScore": null,
     "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
     "Romance",
     "Comedy"
   ],
-  "studios": [],
+  "studios": [
+    "Nekonigashi Inc."
+  ],
   "producers": [
     "Toei Video"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1155/114618l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1243/160123l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210309-dniMopiUzuSM.jpg",
     "color": null
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "OxZt56rZ-Tc",
+    "url": "https://www.youtube.com/watch?v=OxZt56rZ-Tc",
+    "thumbnail": "https://i.ytimg.com/vi/OxZt56rZ-Tc/hqdefault.jpg"
+  },
   "synopsis": "Cherry and Virgin is a romantic comedy featuring a 32-year-old \"eromanga\" author Ryou and a 28-year-old \"fujoshi'' Ami. Neither character is great at interacting with members of the opposite gender—Ryou is somewhat of an otaku and defenseless against women, and Ami does not have a good impression of 3D men. After a fateful encounter, the story follows the two as they learn to navigate a sea of interpersonal relationships and come to better understand the bitter and sweet aspects of modern relationships.\n\n(Source: MAL News)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-06T14:27:21.456Z",
+    "lastFetched": "2026-11-21T13:51:20.976Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

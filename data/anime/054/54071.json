@@ -28,18 +28,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 2,
   "aired": {
     "from": "2014-10-20T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "fall",
+  "year": 2014,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG - Children",
   "score": {
@@ -49,6 +45,7 @@
   },
   "genres": [
     "Comedy",
+    "Kids",
     "Supernatural"
   ],
   "studios": [
@@ -65,16 +62,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T14:50:30.334Z",
+    "lastFetched": "2026-11-21T13:54:38.851Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

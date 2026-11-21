@@ -4,31 +4,31 @@
   "mappings": {
     "mal": 63938,
     "anilist": 214536,
-    "anidb": null,
-    "kitsu": null,
-    "simkl": null,
+    "anidb": 20002,
+    "kitsu": 50965,
+    "simkl": 3078868,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 63938,
-    "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
+    "livechart": 13599,
+    "animeplanet": "cardfight-vanguard-divinez-unmei-seisen-hen",
+    "anisearch": 21901,
     "notify": null
   },
   "title": {
     "romaji": "Cardfight!! Vanguard Divinez Unmei Seisen-hen",
-    "english": "CARDFIGHT!! VANGUARD Divinez: Parallactic Fate",
+    "english": "Cardfight!! Vanguard: Divinez Parallactic Fate",
     "native": "カードファイト!! ヴァンガード Divinez 運命星戦編",
     "synonyms": []
   },
   "type": "TV",
   "source": "Original",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
-  "episodeLength": null,
+  "episodeLength": 27,
   "aired": {
     "from": "2026-11-07T00:00:00+00:00",
     "to": "2026-11-21T00:00:00+00:00"
@@ -36,37 +36,44 @@
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Saturdays",
+    "time": "08:00",
+    "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1794061800
+    "episode": 3,
+    "airingAt": 1795271400
   },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.81,
+    "anilistScore": 5.7,
     "kitsuRating": null
   },
   "genres": [
     "Action",
+    "Strategy Game",
     "Adventure",
     "Fantasy"
   ],
   "studios": [
     "Kinema Citrus",
     "Gift-o’-Animation",
-    "Studio JEMI"
+    "Studio Jemi"
   ],
-  "producers": [],
+  "producers": [
+    "Bushiroad"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1454/156802l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1380/159150l.jpg",
     "banner": null,
     "color": "#f14335"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "zxgmRfemSMI",
+    "url": "https://www.youtube.com/watch?v=zxgmRfemSMI",
+    "thumbnail": "https://i.ytimg.com/vi/zxgmRfemSMI/hqdefault.jpg"
+  },
   "synopsis": "Final Arc of Cardfight!! Vanguard: D Series.",
   "sequence": [
     {
@@ -83,17 +90,71 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-08-01T04:16:06.771Z",
+    "lastFetched": "2026-11-21T14:20:46.906Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

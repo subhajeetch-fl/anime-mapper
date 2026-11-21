@@ -35,21 +35,14 @@
   "episodeCount": 1,
   "episodeLength": null,
   "aired": {
-    "from": "2026-11-13T00:00:00+00:00",
+    "from": null,
     "to": null
   },
-  "season": "fall",
-  "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
-  "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1794495600
-  },
-  "rating": null,
+  "season": null,
+  "year": null,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "G - All Ages",
   "score": {
     "malScore": null,
     "anilistScore": null,
@@ -62,15 +55,17 @@
     "Ashi Productions",
     "Studio Live"
   ],
-  "producers": [
-    "Zack Promotion"
-  ],
+  "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1006/156292l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1011/159100l.jpg",
     "banner": null,
     "color": "#5dc9f1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "NUcm09SXrgA",
+    "url": "https://www.youtube.com/watch?v=NUcm09SXrgA",
+    "thumbnail": "https://i.ytimg.com/vi/NUcm09SXrgA/hqdefault.jpg"
+  },
   "synopsis": "A new original video anime for Mahou no Princess Minky Momo.",
   "sequence": [
     {
@@ -89,12 +84,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-22T04:02:20.363Z",
+    "lastFetched": "2026-11-21T14:18:12.502Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

@@ -37,11 +37,7 @@
   },
   "season": "winter",
   "year": 2027,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -52,30 +48,36 @@
   "genres": [
     "Drama",
     "Fantasy",
-    "Romance"
+    "Historical",
+    "Romance",
+    "Shoujo"
   ],
   "studios": [
     "Maho Film"
   ],
   "producers": [
-    "Kadokawa"
+    "KADOKAWA"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1327/155810l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1327/155810l.webp",
     "banner": null,
     "color": "#e4d6ae"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "7ja8PqzctBg",
+    "url": "https://www.youtube.com/watch?v=7ja8PqzctBg",
+    "thumbnail": "https://i.ytimg.com/vi/7ja8PqzctBg/hqdefault.jpg"
+  },
   "synopsis": "Matsurika, a lady-in-waiting in the imperial palace, has a special talent—an excellent memory. One day, she is asked to act as a practice partner for a nobleman's arranged meeting, only to discover that her partner is none other than Emperor Hakuyou himself, who wished to try a matchmaking meeting. Impressed by her skill, the emperor unexpectedly tells her to \"go pass the imperial examination first.\" Thus begins the tale of a girl singled out by the emperor in this Chinese-style Cinderella story.\n\n(Source: MAL News)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:58:39.821Z",
+    "lastFetched": "2026-11-21T14:14:29.972Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

@@ -28,18 +28,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 3,
   "aired": {
     "from": "2025-09-01T00:00:00+00:00",
     "to": null
   },
-  "season": "fall",
+  "season": "summer",
   "year": 2025,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -48,7 +44,8 @@
     "kitsuRating": null
   },
   "genres": [
-    "Comedy"
+    "Comedy",
+    "Gag Humor"
   ],
   "studios": [],
   "producers": [],
@@ -57,20 +54,25 @@
     "banner": null,
     "color": "#28f1e4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "plcwdL2jsvA",
+    "url": "https://www.youtube.com/watch?v=plcwdL2jsvA",
+    "thumbnail": "https://i.ytimg.com/vi/plcwdL2jsvA/hqdefault.jpg"
+  },
   "synopsis": "The anime is based on temp agency Improve's mascot Inpuru-kun. It centers on Inpuru-kun taking on absurd temp jobs.",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:00:07.640Z",
+    "lastFetched": "2026-11-21T14:14:40.810Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

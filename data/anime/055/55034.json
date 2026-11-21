@@ -22,12 +22,13 @@
     "english": null,
     "native": "고수",
     "synonyms": [
-      "The Master",
       "Gosu",
+      "고수",
+      "The Master",
       "高手"
     ]
   },
-  "type": null,
+  "type": "unknown",
   "source": "Web manga",
   "status": "Not yet aired",
   "airing": false,
@@ -39,11 +40,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -54,6 +51,8 @@
   "genres": [
     "Action",
     "Adventure",
+    "Historical",
+    "Martial Arts",
     "Comedy",
     "Supernatural"
   ],
@@ -61,7 +60,6 @@
     "Toei Animation"
   ],
   "producers": [
-    "Toei Animation",
     "Studio N"
   ],
   "images": {
@@ -74,12 +72,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T15:06:34.139Z",
+    "lastFetched": "2026-11-21T13:55:48.778Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

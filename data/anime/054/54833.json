@@ -23,7 +23,7 @@
     "native": "スペシャルキッド・ファクトリー",
     "synonyms": []
   },
-  "type": null,
+  "type": "unknown",
   "source": "Original",
   "status": "Not yet aired",
   "airing": false,
@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG",
   "score": {
@@ -48,6 +44,7 @@
     "kitsuRating": null
   },
   "genres": [
+    "Detective",
     "Mystery",
     "Sci-Fi",
     "Science Fiction"
@@ -61,20 +58,26 @@
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163072-HHGiEG1C1AZ3.jpg",
     "color": "#781a50"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "yHOtyBy6JOc",
+    "url": "https://www.youtube.com/watch?v=yHOtyBy6JOc",
+    "thumbnail": "https://i.ytimg.com/vi/yHOtyBy6JOc/hqdefault.jpg"
+  },
   "synopsis": "The suspense sci-fi anime takes place in a future where unbeknownst to the people of Earth, there wages an interstellar war spanning the entire universe. Alien arms dealers control our world from behind the scenes, using it as a supersoldier factory where \"special kids\" with unique abilities are abducted to fight in wars on the other side of the universe. When one \"special kid\" escapes captivity and journeys back to earth, a seemingly ordinary boy discovers he is a body double for the family all while being drawn unarmed into the heart of a space war.\n\n(Source: MAL News)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T15:03:14.758Z",
+    "lastFetched": "2026-11-21T13:55:25.949Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

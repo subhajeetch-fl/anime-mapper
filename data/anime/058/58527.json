@@ -24,22 +24,18 @@
     "synonyms": []
   },
   "type": "Movie",
-  "source": "Unknown",
+  "source": null,
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 45,
   "aired": {
     "from": "2022-12-01T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "fall",
+  "year": 2022,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -48,7 +44,8 @@
     "kitsuRating": null
   },
   "genres": [
-    "Drama"
+    "Drama",
+    "Historical"
   ],
   "studios": [
     "SEK Studios"
@@ -64,16 +61,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T19:48:47.476Z",
+    "lastFetched": "2026-11-21T14:02:37.117Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

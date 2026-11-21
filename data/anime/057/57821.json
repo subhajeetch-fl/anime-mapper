@@ -25,24 +25,27 @@
       "Mischievous! Touken Ranbu"
     ]
   },
-  "type": null,
+  "type": "TV",
   "source": "Game",
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-01-06T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "winter",
+  "year": 2027,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Wednesdays",
+    "time": "21:54",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1799196840
+  },
   "rating": null,
   "score": {
     "malScore": null,
@@ -50,19 +53,23 @@
     "kitsuRating": null
   },
   "genres": [
-    "Comedy"
+    "Anthropomorphic",
+    "Comedy",
+    "Historical"
   ],
-  "studios": [],
+  "studios": [
+    "Fanworks"
+  ],
   "producers": [
     "Sanrio"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1237/140883l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1700/161192l.jpg",
     "banner": null,
-    "color": "#f12828"
+    "color": "#e46b50"
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "Announced at Touken Ranbu Online Ninth Anniversary's Eve! Nine Big Announcements Starting at Nine.",
   "sequence": [
     {
       "malId": 33023,
@@ -80,12 +87,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T19:34:54.292Z",
+    "lastFetched": "2026-11-21T14:01:36.316Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

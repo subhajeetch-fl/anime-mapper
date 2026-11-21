@@ -25,23 +25,19 @@
       "Garena Free Fire"
     ]
   },
-  "type": null,
+  "type": "TV",
   "source": "Game",
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-04-01T00:00:00+00:00",
     "to": null
   },
   "season": "spring",
   "year": 2027,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -56,24 +52,29 @@
     "Studio CANDY BOX"
   ],
   "producers": [
-    "Kadokawa"
+    "KADOKAWA",
+    "KADOKAWA QINGYU"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1708/150892l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1300/159272l.jpg",
     "banner": null,
     "color": "#50bbe4"
   },
-  "trailer": null,
-  "synopsis": null,
+  "trailer": {
+    "youtubeId": "s3BpL7cvnc8",
+    "url": "https://www.youtube.com/watch?v=s3BpL7cvnc8",
+    "thumbnail": "https://i.ytimg.com/vi/s3BpL7cvnc8/hqdefault.jpg"
+  },
+  "synopsis": "In the near-future city of New Dawn, ruled by the powerful Horizon Corporation, 16-year-old Kelly becomes entangled in the experimental \"Project Bloom\" and awakens \"Limit Break\", an extraordinary ability capable of unlocking anything that has been sealed away.\n\nAs fragments of her past begin to resurface, Kelly joins newfound allies to uncover the conspiracy surrounding Horizon Corporation and confront the forces threatening the future of New Dawn.\n\nWhat fate lies ahead?\n\n(Source: Garena)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-08-01T12:07:10.989Z",
+    "lastFetched": "2026-11-21T14:05:26.526Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

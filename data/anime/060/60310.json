@@ -27,13 +27,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 24,
-  "episodeLength": null,
+  "episodeLength": 25,
   "aired": {
     "from": "2026-04-04T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-26T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2026,
@@ -42,19 +42,18 @@
     "time": "18:25",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 19,
-    "airingAt": 1786785960
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 8.12,
-    "anilistScore": 8,
+    "malScore": 8.08,
+    "anilistScore": 8.1,
     "kitsuRating": null
   },
   "genres": [
     "Comedy",
     "Fantasy",
+    "School",
+    "Shounen",
     "Supernatural"
   ],
   "studios": [
@@ -66,7 +65,11 @@
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
     "color": "#f1bb28"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "6Lo1DUCY9nY",
+    "url": "https://www.youtube.com/watch?v=6Lo1DUCY9nY",
+    "thumbnail": "https://i.ytimg.com/vi/6Lo1DUCY9nY/hqdefault.jpg"
+  },
   "synopsis": "Fourth season of Mairimashita! Iruma-kun.",
   "sequence": [
     {
@@ -81,12 +84,25 @@
       "episodes": 21,
       "seasonYear": 2022,
       "relationType": "PREQUEL"
+    },
+    {
+      "malId": 65076,
+      "title": {
+        "romaji": "Mairimashita! Iruma-kun Movie",
+        "english": null,
+        "native": "劇場版 魔入りました！入間くん"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217427-toXJgZ70AZe4.png",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "OTHER"
     }
   ],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-04",
       "title": {
         "en": "The Other Demon in the Misfit Class"
@@ -101,7 +117,7 @@
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-11",
       "title": {
         "en": "A Challenge to the Thirteen"
@@ -116,7 +132,7 @@
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-18",
       "title": {
         "en": "The Essence of a Dem-dol"
@@ -131,7 +147,7 @@
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-25",
       "title": {
         "en": "We Can`t See Him, But..."
@@ -146,7 +162,7 @@
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-02",
       "title": {
         "en": "Let`s Have a Chat"
@@ -161,7 +177,7 @@
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-09",
       "title": {
         "en": "The Music Festival: Showtime!!"
@@ -176,7 +192,7 @@
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-16",
       "title": {
         "en": "Lilith`s Carpet"
@@ -191,7 +207,7 @@
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-23",
       "title": {
         "en": "Victory Salute"
@@ -206,7 +222,7 @@
     },
     "9": {
       "episode": "9",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-30",
       "title": {
         "en": "Behind Those Eyes"
@@ -221,7 +237,7 @@
     },
     "10": {
       "episode": "10",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-06",
       "title": {
         "en": "Triple Love Squad"
@@ -236,7 +252,7 @@
     },
     "11": {
       "episode": "11",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-13",
       "title": {
         "en": "Best Friend Meeting / Lead`s Flirting Meeting"
@@ -251,7 +267,7 @@
     },
     "12": {
       "episode": "12",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-20",
       "title": {
         "en": "One-Year Distance and One-Centimeter Distance"
@@ -266,7 +282,7 @@
     },
     "13": {
       "episode": "13",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-27",
       "title": {
         "en": "Suzuki Iruma`s Exorcibration"
@@ -281,7 +297,7 @@
     },
     "14": {
       "episode": "14",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-04",
       "title": {
         "en": "Infiltrate the Teacher Dorms! / A New Member Joins the Girls?!"
@@ -296,7 +312,7 @@
     },
     "15": {
       "episode": "15",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-11",
       "title": {
         "en": "The Laws of the Netherworld Dictate That One Takes After Their Master / Even Among Those Who Are Close"
@@ -311,10 +327,10 @@
     },
     "16": {
       "episode": "16",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-18",
       "title": {
-        "en": "Episode 16"
+        "en": "A Misfit Casual Gathering / Netherworld Devotee"
       },
       "tvdbShowId": 369144,
       "tvdbId": 11655517,
@@ -326,10 +342,10 @@
     },
     "17": {
       "episode": "17",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-25",
       "title": {
-        "en": "Episode 17"
+        "en": "The Great Heroes Gather"
       },
       "tvdbShowId": 369144,
       "tvdbId": 11655518,
@@ -337,14 +353,14 @@
       "episodeNumber": 17,
       "absoluteEpisodeNumber": 82,
       "runtime": 25,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655518/screencap/6a6405770cb22.jpg"
     },
     "18": {
       "episode": "18",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-01",
       "title": {
-        "en": "Episode 18"
+        "en": "Give the Youth All the Nutrients They Need / Crossing the Sunbeams Shining Through the Trees"
       },
       "tvdbShowId": 369144,
       "tvdbId": 11655519,
@@ -352,19 +368,113 @@
       "episodeNumber": 18,
       "absoluteEpisodeNumber": 83,
       "runtime": 25,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655519/screencap/6a6d1c2514b5c.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": 25,
+      "airDate": "2026-08-22",
+      "title": {
+        "en": "The Dem-dol Games"
+      },
+      "tvdbShowId": 369144,
+      "tvdbId": 11655520,
+      "seasonNumber": 4,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 84,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655520/screencap/6a7de905c1cbf.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": 25,
+      "airDate": "2026-08-29",
+      "title": {
+        "en": "Team Devimuse"
+      },
+      "tvdbShowId": 369144,
+      "tvdbId": 11655521,
+      "seasonNumber": 4,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 85,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655521/screencap/6a9215c272165.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": 25,
+      "airDate": "2026-09-05",
+      "title": {
+        "en": "The Tycoon and the Jewel"
+      },
+      "tvdbShowId": 369144,
+      "tvdbId": 11655522,
+      "seasonNumber": 4,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 86,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655522/screencap/6a9b606f2a549.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": 25,
+      "airDate": "2026-09-12",
+      "title": {
+        "en": "The Proud Songstress"
+      },
+      "tvdbShowId": 369144,
+      "tvdbId": 11655523,
+      "seasonNumber": 4,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 87,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655523/screencap/6aa4b1f66bfcd.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": 25,
+      "airDate": "2026-09-19",
+      "title": {
+        "en": "The Road to the Demon King",
+        "ja": "魔王への道"
+      },
+      "tvdbShowId": 369144,
+      "tvdbId": 11655524,
+      "seasonNumber": 4,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 88,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655524/screencap/6aad9eee21259.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": 25,
+      "airDate": "2026-09-26",
+      "title": {
+        "en": "The Most Extravagant Farewell Party",
+        "romaji": "Ichiban Gouka na Hanamuke o",
+        "ja": "一番豪華な餞を"
+      },
+      "tvdbShowId": 369144,
+      "tvdbId": 11655525,
+      "seasonNumber": 4,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 89,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655525/screencap/6ab73ade2b2eb.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-08-07T11:44:38.455Z",
+    "lastFetched": "2026-11-21T14:11:13.282Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

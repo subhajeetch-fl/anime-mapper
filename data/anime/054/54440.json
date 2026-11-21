@@ -4,10 +4,10 @@
   "mappings": {
     "mal": 54440,
     "anilist": 161410,
-    "anidb": 17864,
+    "anidb": null,
     "kitsu": 47059,
-    "simkl": 2093848,
-    "tmdb": 154494,
+    "simkl": null,
+    "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
@@ -19,14 +19,14 @@
   },
   "title": {
     "romaji": "Lycoris Recoil (Shinsaku Animation)",
-    "english": null,
+    "english": "Lycoris Recoil 2",
     "native": "リコリス・リコイル 新作アニメーション",
     "synonyms": [
       "Lycoris Recoil (New Anime Project)",
       "LycoReco"
     ]
   },
-  "type": null,
+  "type": "unknown",
   "source": "Original",
   "status": "Not yet aired",
   "airing": false,
@@ -38,11 +38,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -55,14 +51,20 @@
   ],
   "studios": [],
   "producers": [
-    "Aniplex"
+    "BS11",
+    "Aniplex",
+    "ABC Animation"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1440/150731l.jpg",
     "banner": null,
     "color": "#e44386"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "8R365_tkFBg",
+    "url": "https://www.youtube.com/watch?v=8R365_tkFBg",
+    "thumbnail": "https://i.ytimg.com/vi/8R365_tkFBg/hqdefault.jpg"
+  },
   "synopsis": "Lycoris Recoil new anime project.",
   "sequence": [
     {
@@ -82,117 +84,114 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-04-16",
       "title": {
-        "en": "Take It Easy"
+        "en": "Take It Easy",
+        "romaji": "Take It Easy",
+        "ja": "Take it easy"
       },
       "tvdbShowId": 414057,
       "tvdbId": 11088308,
       "seasonNumber": 0,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": 0,
+      "absoluteEpisodeNumber": null,
       "runtime": 2,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/11088308/screencap/67ff97b876ce8.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "4m",
+      "length": 4,
       "airDate": "2025-04-23",
       "title": {
-        "en": "Miles Away"
+        "en": "Miles Away",
+        "romaji": "Miles Away",
+        "ja": "Miles away"
       },
       "tvdbShowId": 414057,
       "tvdbId": 11088309,
       "seasonNumber": 0,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": 0,
+      "absoluteEpisodeNumber": null,
       "runtime": 3,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/11088309/screencap/67ffad6b1135b.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "4m",
+      "length": 4,
       "airDate": "2025-04-30",
       "title": {
-        "en": "Scintillation of Genius"
+        "en": "Scintillation of Genius",
+        "romaji": "Scintillation of Genius",
+        "ja": "Scintillation of genius"
       },
       "tvdbShowId": 414057,
       "tvdbId": 11088310,
       "seasonNumber": 0,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": 0,
+      "absoluteEpisodeNumber": null,
       "runtime": 4,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/11088310/screencap/6808d9097fd72.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "4m",
+      "length": 4,
       "airDate": "2025-05-07",
       "title": {
-        "en": "Watch Out!"
+        "en": "Watch Out!",
+        "romaji": "Watch Out!",
+        "ja": "Watch out!"
       },
       "tvdbShowId": 414057,
       "tvdbId": 11088311,
       "seasonNumber": 0,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": 0,
+      "absoluteEpisodeNumber": null,
       "runtime": 4,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/11088311/screencap/6812140571d72.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "4m",
+      "length": 4,
       "airDate": "2025-05-14",
       "title": {
-        "en": "Bittersweet First Love"
+        "en": "Bittersweet First Love",
+        "romaji": "Bittersweet First Love",
+        "ja": "Bittersweet first love"
       },
       "tvdbShowId": 414057,
       "tvdbId": 11088312,
       "seasonNumber": 0,
       "episodeNumber": 9,
-      "absoluteEpisodeNumber": 0,
+      "absoluteEpisodeNumber": null,
       "runtime": 3,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/11088312/screencap/681b4d6b0e956.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "6m",
+      "length": 6,
       "airDate": "2025-05-21",
       "title": {
-        "en": "Brief Respite"
+        "en": "Brief Respite",
+        "romaji": "Brief Respite",
+        "ja": "Brief respite"
       },
       "tvdbShowId": 414057,
       "tvdbId": 11088313,
       "seasonNumber": 0,
       "episodeNumber": 10,
-      "absoluteEpisodeNumber": 0,
+      "absoluteEpisodeNumber": null,
       "runtime": 5,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/11088313/screencap/682488a1b8f29.jpg"
-    },
-    "ED1": {
-      "episode": "ED1",
-      "length": "2m",
-      "airDate": "2025-05-21",
-      "title": {
-        "en": "Hana no Tou (6)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-06-30T14:57:09.289Z",
+    "lastFetched": "2026-11-21T13:55:14.826Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

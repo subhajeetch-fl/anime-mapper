@@ -29,19 +29,15 @@
   "source": "Web novel",
   "status": "Not yet aired",
   "airing": false,
-  "episodeCount": null,
+  "episodeCount": 1,
   "episodeLength": null,
   "aired": {
-    "from": null,
-    "to": null
+    "from": "2027-01-01T00:00:00+00:00",
+    "to": "2027-01-01T00:00:00+00:00"
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -52,16 +48,17 @@
   "genres": [
     "Action",
     "Fantasy",
+    "Psychological",
     "Suspense",
-    "Supernatural",
-    "Psychological"
+    "Supernatural"
   ],
   "studios": [
+    "Shenman Culture",
     "Shenman Entertainment"
   ],
   "producers": [
-    "Tencent Video",
-    "Fanqie Animation & Comics"
+    "Tencent Penguin Pictures",
+    "Fanqie"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1679/152581l.jpg",
@@ -69,7 +66,7 @@
     "color": "#e47843"
   },
   "trailer": null,
-  "synopsis": "After the release of the divine artifact Shiva's Wrath, Cangnan City faces an unprecedented crisis. With the Western evil gods lurking in their wake, are the Chinese gods about to awaken? Infused with the power of the twin gods, Lin Qiye joins the Night Watchmen of Cangnan City in fighting against the Western evil gods and defending Cangnan! The Second War of the Gods is about to begin!\n\n(Source: Tencent, translated)",
+  "synopsis": "After the aura of the divine artifact Shiva's Wrath was leaked, Cangnan City faces an unprecedented crisis. With the Western evil gods lurking in their wake, are the Chinese gods about to awaken? Infused with the power of the two gods, Lin Qiye joins the Night Watchmen of Cangnan City in fighting against the Western evil gods and defending Cangnan! The Second War of the Gods is about to begin!\n\n(Source: Tencent, translated)",
   "sequence": [
     {
       "malId": 59306,
@@ -87,15 +84,17 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-31T22:00:40.135Z",
+    "lastFetched": "2026-11-21T14:15:20.290Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

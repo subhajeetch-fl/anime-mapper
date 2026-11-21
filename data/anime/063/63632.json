@@ -12,14 +12,14 @@
     "trakt": null,
     "traktType": null,
     "shikimori": 63632,
-    "livechart": null,
+    "livechart": 13767,
     "animeplanet": "lord-of-mysteries-2nd-season",
-    "anisearch": null,
+    "anisearch": 22082,
     "notify": null
   },
   "title": {
     "romaji": "Guimi Zhi Zhu: Wu Mian Ren Pian",
-    "english": null,
+    "english": "Lord of Mysteries: Faceless Arc",
     "native": "诡秘之主 无面人篇​",
     "synonyms": [
       "Lord of Mysteries: Faceless Arc",
@@ -42,11 +42,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
@@ -56,7 +52,9 @@
   },
   "genres": [
     "Action",
+    "Adult Cast",
     "Fantasy",
+    "Isekai",
     "Mystery",
     "Suspense",
     "Drama",
@@ -67,15 +65,19 @@
     "B.CMAY PICTURES"
   ],
   "producers": [
-    "Tencent Video"
+    "Tencent Penguin Pictures"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1756/158774l.jpg",
     "banner": null,
     "color": "#e4ae5d"
   },
-  "trailer": null,
-  "synopsis": "After his resurrection, Klein, now known as Sherlock, becomes a private detective. While taking on cases, he inadvertently provokes a spy organization. With the help of his bodyguard Sharron, as well as the assistance of Audrey and others, he faces many enemies, including the powerful Ambassador of Intis. In a later case, Klein unexpectedly discovers ruins from the Tudor dynasty. While continuing his detective work, Klein searches for clues to his advancement while also pursuing his enemies, Lanevus and Intis…\n\n(Source: Tencent, translated &amp; edited)",
+  "trailer": {
+    "youtubeId": "-bzrdf_MZiM",
+    "url": "https://www.youtube.com/watch?v=-bzrdf_MZiM",
+    "thumbnail": "https://i.ytimg.com/vi/-bzrdf_MZiM/hqdefault.jpg"
+  },
+  "synopsis": "After his resurrection, Klein, now known as Sherlock, becomes a private detective. While taking on cases, he inadvertently provokes a spy organization. With the help of his bodyguard Sharron, as well as the assistance of Audrey and others, he faces many enemies, including the powerful Ambassador of Intis. In a later case, Klein unexpectedly discovers ruins from the Tudor dynasty. While continuing his detective work, Klein searches for clues to his advancement while also pursuing his enemies, Lanevus and Ince…\n\n(Source: Tencent, translated & edited)",
   "sequence": [
     {
       "malId": 49818,
@@ -91,17 +93,87 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-03T07:01:15.121Z",
+    "lastFetched": "2026-11-21T14:19:48.824Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

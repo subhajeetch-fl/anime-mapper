@@ -25,21 +25,17 @@
   },
   "type": "ONA",
   "source": "Original",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": 3,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 6,
   "episodeLength": 1,
   "aired": {
     "from": "2018-01-03T00:00:00+00:00",
-    "to": "2018-01-03"
+    "to": "2019-01-09T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "winter",
+  "year": 2018,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -48,9 +44,8 @@
     "kitsuRating": null
   },
   "genres": [
-    "Comedy",
-    "Slice of Life",
-    "Anthropomorphism"
+    "Anthropomorphic",
+    "Comedy"
   ],
   "studios": [],
   "producers": [],
@@ -62,18 +57,70 @@
   "trailer": null,
   "synopsis": "A collaboration between the facial tissue company Elleair and the comedy anime franchise Kamiusagi Rope.",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "1m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 1,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "1m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 1,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "1m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 1,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-30T08:43:53.564Z",
+    "lastFetched": "2026-11-21T13:47:09.602Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
     ],
     "dataVersion": 1
   }

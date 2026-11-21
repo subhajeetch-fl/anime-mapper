@@ -21,7 +21,9 @@
     "romaji": "Hinagiku no Jinsei",
     "english": "Daisy's Life",
     "native": "ひな菊の人生",
-    "synonyms": []
+    "synonyms": [
+      "Daisy's Life"
+    ]
   },
   "type": "Movie",
   "source": "Novel",
@@ -31,15 +33,11 @@
   "episodeLength": null,
   "aired": {
     "from": "2026-01-01T00:00:00+00:00",
-    "to": null
+    "to": "2026-01-01T00:00:00+00:00"
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -47,12 +45,16 @@
     "anilistScore": null,
     "kitsuRating": null
   },
-  "genres": [],
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
   "studios": [
     "Miyu Productions",
     "ame pippin"
   ],
   "producers": [
+    "Miyu Productions",
     "Asmik Ace"
   ],
   "images": {
@@ -63,17 +65,35 @@
   "trailer": null,
   "synopsis": "Following the emotional journey of a six-year-old girl named Daisy, who loses her mother in a tragic accident and struggles to adapt to life with her aunt. One sleepless night, she encounters a mysterious girl named Dahlia at her window. Their days together begin to transcend time and space, bringing a cosmic perspective to Daisy’s modest life in a downtown yakisoba restaurant.\n\n(Source: Variety)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-02T07:33:11.915Z",
+    "lastFetched": "2026-11-21T14:12:20.760Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist"
+      "kitsu-episodes (fallback)"
     ],
     "dataVersion": 1
   }

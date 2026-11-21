@@ -5,7 +5,7 @@
     "mal": 59415,
     "anilist": 179876,
     "anidb": 18777,
-    "kitsu": null,
+    "kitsu": 50986,
     "simkl": 2526390,
     "tmdb": null,
     "tvdb": null,
@@ -19,36 +19,40 @@
   },
   "title": {
     "romaji": "DARK MACHINE: The Animation",
-    "english": null,
+    "english": "Dark Machine: The Animation",
     "native": "DARK MACHINE -The Animation-",
     "synonyms": []
   },
   "type": "TV",
   "source": "Mixed media",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": 11,
-  "episodeLength": null,
+  "episodeLength": 23,
   "aired": {
-    "from": "2026-01-01T00:00:00+00:00",
+    "from": "2026-10-14T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "fall",
+  "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Wednesdays",
+    "time": "01:45",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 7,
+    "airingAt": 1795538700
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 5.55,
+    "anilistScore": 5.3,
     "kitsuRating": null
   },
   "genres": [
     "Mecha",
+    "Video Game",
     "Sci-Fi"
   ],
   "studios": [
@@ -57,27 +61,156 @@
   ],
   "producers": [
     "Fuji TV",
-    "flying DOG"
+    "LIONA",
+    "ADK Emotions",
+    "Fuji Creative Corporation",
+    "Crowd Gate"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1465/153763l.jpg",
     "banner": null,
-    "color": "#43aee4"
+    "color": "#286ba1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "Tvvs_SlUYgA",
+    "url": "https://www.youtube.com/watch?v=Tvvs_SlUYgA",
+    "thumbnail": "https://i.ytimg.com/vi/Tvvs_SlUYgA/hqdefault.jpg"
+  },
   "synopsis": "In the near future, the e-sport Dark Machine has become a global phenomenon, reshaping society and even Japan's economy. The only region in Japan designated as a special economic zone for Dark Machine is Golden Valley, a city dominated by its reigning top player Ajima, the seventh person to inherit the title of Senki—the strongest player in the game.\n\nFollowing his late grandfather's last words, \"Find Senki,\" Kairi travels to Golden Valley. There, he unexpectedly meets Rudra, a girl being hunted by Ajima's group, the Aldabil. Drawn into her troubles, Kairi becomes a Dark Machine player himself. Through one intense battle after another, he begins to develop his own hidden talent.\n\nAs Kairi rises through the ranks, he moves closer to facing Senki—and to discovering the truth behind his grandfather's final message. His fight to reach the top of Dark Machine is about to begin.\n\n(Source: MAL News)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-14",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-21",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-28",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-11-04",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-11",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-18",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-25",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-12-02",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-30T20:09:00.447Z",
+    "lastFetched": "2026-11-21T14:07:04.471Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

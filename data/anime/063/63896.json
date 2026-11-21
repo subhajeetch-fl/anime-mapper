@@ -4,9 +4,9 @@
   "mappings": {
     "mal": 63896,
     "anilist": null,
-    "anidb": null,
+    "anidb": 20173,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 3174704,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
@@ -28,18 +28,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 6,
   "aired": {
     "from": "2026-03-06T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "winter",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG - Children",
   "score": {
@@ -47,7 +43,10 @@
     "anilistScore": null,
     "kitsuRating": null
   },
-  "genres": [],
+  "genres": [
+    "Kids",
+    "Mecha"
+  ],
   "studios": [],
   "producers": [],
   "images": {
@@ -60,16 +59,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:04:29.362Z",
+    "lastFetched": "2026-11-21T14:20:41.580Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

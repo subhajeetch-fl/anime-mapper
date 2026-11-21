@@ -30,18 +30,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 4,
   "aired": {
     "from": "2021-12-12T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2021,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -62,20 +58,25 @@
     "banner": null,
     "color": "#f1935d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "sW3mITN31vg",
+    "url": "https://www.youtube.com/watch?v=sW3mITN31vg",
+    "thumbnail": "https://i.ytimg.com/vi/sW3mITN31vg/hqdefault.jpg"
+  },
   "synopsis": "Yuri anime about live streamers.",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T14:22:33.490Z",
+    "lastFetched": "2026-11-21T14:22:34.079Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

@@ -28,29 +28,24 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 1,
   "aired": {
     "from": "2023-12-21T00:00:00+00:00",
-    "to": "2023-12-21"
+    "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "fall",
+  "year": 2023,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
-    "malScore": 5.89,
+    "malScore": 5.85,
     "anilistScore": null,
     "kitsuRating": null
   },
   "genres": [
     "Fantasy",
-    "Slice of Life",
-    "Kids"
+    "Slice of Life"
   ],
   "studios": [
     "Shirogumi",
@@ -70,48 +65,100 @@
     "1": {
       "episode": "1",
       "length": null,
-      "airDate": "2023-12-20T00:00:00+00:00",
+      "airDate": null,
       "title": {
-        "en": "Nao-san is Coming",
-        "romaji": "Nao-san Ittekimasu-hen ",
-        "ja": "奈緒さん　いってきます篇"
+        "en": null,
+        "romaji": null,
+        "ja": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
-      "seasonNumber": null,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 1,
       "runtime": null,
       "image": null
     },
     "2": {
       "episode": "2",
       "length": null,
-      "airDate": "2023-12-20T00:00:00+00:00",
+      "airDate": null,
       "title": {
-        "en": "Welcome",
-        "romaji": "Itterasshai-hen ",
-        "ja": "いってらっしゃい篇"
+        "en": null,
+        "romaji": null,
+        "ja": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
-      "seasonNumber": null,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 2,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": null,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
       "runtime": null,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-06-30T19:30:47.768Z",
+    "lastFetched": "2026-11-21T14:01:32.704Z",
     "sourcesUsed": [
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "jikan-episodes (fallback)"
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
     ],
     "dataVersion": 1
   }

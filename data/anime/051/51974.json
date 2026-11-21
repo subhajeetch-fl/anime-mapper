@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -50,28 +46,35 @@
     "kitsuRating": null
   },
   "genres": [
-    "Sports"
+    "Sports",
+    "Team Sports"
   ],
   "studios": [
     "Heart & Soul Animation"
   ],
-  "producers": [],
+  "producers": [
+    "LHL Culture"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1177/124186l.jpg",
     "banner": null,
     "color": "#e46b50"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "OoJ83qldAWc",
+    "url": "https://www.youtube.com/watch?v=OoJ83qldAWc",
+    "thumbnail": "https://i.ytimg.com/vi/OoJ83qldAWc/hqdefault.jpg"
+  },
   "synopsis": null,
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T10:40:26.608Z",
+    "lastFetched": "2026-11-21T13:53:24.363Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

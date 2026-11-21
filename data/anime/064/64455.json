@@ -4,16 +4,16 @@
   "mappings": {
     "mal": 64455,
     "anilist": 214259,
-    "anidb": null,
+    "anidb": 20200,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 3189996,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64455,
     "livechart": null,
-    "animeplanet": null,
+    "animeplanet": "tales-of-demon-and-god-10th-season",
     "anisearch": null,
     "notify": null
   },
@@ -29,25 +29,21 @@
   },
   "type": "ONA",
   "source": "Web novel",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
-  "episodeCount": 52,
-  "episodeLength": null,
+  "episodeCount": 56,
+  "episodeLength": 8,
   "aired": {
-    "from": null,
-    "to": null
+    "from": "2026-07-18T00:00:00+00:00",
+    "to": "2026-10-17T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 6.73,
     "anilistScore": null,
     "kitsuRating": null
   },
@@ -56,13 +52,15 @@
     "Adventure",
     "Comedy",
     "Fantasy",
+    "Historical",
+    "Martial Arts",
     "Romance"
   ],
   "studios": [
     "Ruo Hong Culture"
   ],
   "producers": [
-    "Tencent Video"
+    "Tencent Penguin Pictures"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1170/158631l.jpg",
@@ -88,15 +86,16 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-31T12:46:12.257Z",
+    "lastFetched": "2026-11-21T14:22:38.454Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

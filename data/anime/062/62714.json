@@ -26,7 +26,7 @@
     ]
   },
   "type": "ONA",
-  "source": "Unknown",
+  "source": "VIDEO_GAME",
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": null,
@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -60,7 +56,7 @@
     "YHKT Entertainment"
   ],
   "producers": [
-    "Tencent Video"
+    "Tencent Penguin Pictures"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1793/152568l.jpg",
@@ -72,12 +68,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:01:16.316Z",
+    "lastFetched": "2026-11-21T14:14:56.358Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

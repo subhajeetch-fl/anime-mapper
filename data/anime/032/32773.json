@@ -24,22 +24,18 @@
     "synonyms": []
   },
   "type": "TV Special",
-  "source": "Unknown",
+  "source": "VIDEO_GAME",
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 2,
   "episodeLength": 24,
   "aired": {
     "from": "2016-02-11T00:00:00+00:00",
-    "to": "2016-03-05"
+    "to": "2016-03-05T00:00:00+00:00"
   },
   "season": "winter",
   "year": 2016,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -50,16 +46,14 @@
   "genres": [
     "Adventure",
     "Comedy",
-    "Space",
-    "Kids"
+    "Kids",
+    "Space"
   ],
   "studios": [
     "Ajia-do",
     "Ajiado"
   ],
-  "producers": [
-    "NHK"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/12/78607l.jpg",
     "banner": null,
@@ -85,10 +79,12 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2016-02-11",
       "title": {
-        "en": "Episode 1"
+        "en": null,
+        "romaji": "Taiyoukei no Otomodachi no Dan",
+        "ja": "太陽系のお友だちの段"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -100,10 +96,12 @@
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2016-03-05",
       "title": {
-        "en": "Episode 2"
+        "en": null,
+        "romaji": "Tsuki Usagi ga Crater o Kakeru no Dan",
+        "ja": "月ウサギがクレーターをかけるの段"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -115,15 +113,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-28T07:32:43.845Z",
+    "lastFetched": "2026-11-21T13:46:50.235Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

@@ -13,64 +13,85 @@
     "traktType": null,
     "shikimori": 58879,
     "livechart": 12667,
-    "animeplanet": "ninja-skooler",
+    "animeplanet": "ninja-skooler-pilot-film",
     "anisearch": 19299,
     "notify": "TC0pHPESR"
   },
   "title": {
-    "romaji": "Ninja Skooler",
+    "romaji": "NINJA SKOOLER Pilot Film",
     "english": null,
-    "native": "ニンジャ スクーラー",
+    "native": "ニンジャ スクーラー パイロットフィルム",
     "synonyms": []
   },
-  "type": null,
+  "type": "unknown",
   "source": "Original",
   "status": "Not yet aired",
   "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "episodeCount": 1,
+  "episodeLength": 9,
   "aired": {
-    "from": null,
-    "to": null
+    "from": "2026-11-06T00:00:00+00:00",
+    "to": "2026-11-06T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "fall",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
     "malScore": null,
-    "anilistScore": null,
+    "anilistScore": 6.3,
     "kitsuRating": null
   },
   "genres": [
     "Action",
+    "Slice of Life",
     "Ninja"
   ],
   "studios": [
-    "Kinema Citrus"
+    "Kinema Citrus",
+    "breccia"
   ],
-  "producers": [],
+  "producers": [
+    "Studio Hale",
+    "BLUE RIGHTS"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1259/143187l.jpg",
-    "banner": null,
-    "color": null
+    "poster": "https://cdn.myanimelist.net/images/anime/1259/143187l.webp",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177636-hSmS5gUCnoox.jpg",
+    "color": "#e44343"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "hfrbzeG6v2I",
+    "url": "https://www.youtube.com/watch?v=hfrbzeG6v2I",
+    "thumbnail": "https://i.ytimg.com/vi/hfrbzeG6v2I/hqdefault.jpg"
+  },
   "synopsis": "Announced and revealed at Anime Central 2024's \"Kinema Citrus Sweet 16: My Happy Marriage and What's New\" panel, this light-hearted anime follows students at a ninja school.\n\n(Source: Anime News Network, edited)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "S1": {
+      "episode": "S1",
+      "length": 10,
+      "airDate": "2026-11-06",
+      "title": {
+        "en": "Pilot Film"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-30T19:57:13.662Z",
+    "lastFetched": "2026-11-21T14:05:29.043Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

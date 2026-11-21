@@ -28,18 +28,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": 0,
+  "episodeLength": 1,
   "aired": {
     "from": "2025-04-22T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "spring",
+  "year": 2025,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -53,9 +49,7 @@
   "studios": [
     "Noovo"
   ],
-  "producers": [
-    "Sotsu"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1630/149474l.jpg",
     "banner": null,
@@ -66,16 +60,16 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:34:57.165Z",
+    "lastFetched": "2026-11-21T14:12:24.116Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "episodes (no data from Zenshin or Kitsu)"
     ],
     "dataVersion": 1
   }

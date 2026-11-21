@@ -38,11 +38,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -52,11 +48,12 @@
   },
   "genres": [
     "Comedy",
-    "Drama",
     "Romance",
+    "School",
+    "Seinen",
     "Psychological",
     "Slice of Life",
-    "Seinen"
+    "Drama"
   ],
   "studios": [],
   "producers": [],
@@ -65,7 +62,11 @@
     "banner": null,
     "color": "#f15d86"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "Ze01UmWE4XU",
+    "url": "https://www.youtube.com/watch?v=Ze01UmWE4XU",
+    "thumbnail": "https://i.ytimg.com/vi/Ze01UmWE4XU/hqdefault.jpg"
+  },
   "synopsis": "The final chapters of Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen as a completely new theatrical movie based on an original story written by the original creator.",
   "sequence": [
     {
@@ -82,17 +83,36 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-03T06:51:56.380Z",
+    "lastFetched": "2026-11-21T14:18:21.439Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

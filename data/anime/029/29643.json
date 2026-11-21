@@ -31,24 +31,20 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 7,
-  "episodeLength": 25,
+  "episodeLength": 24,
   "aired": {
     "from": "2016-12-30T00:00:00+00:00",
     "to": "2019-09-21"
   },
   "season": "fall",
   "year": 2016,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.16,
-    "anilistScore": 5.3,
-    "kitsuRating": 6.81
+    "malScore": 6.18,
+    "anilistScore": 5.5,
+    "kitsuRating": 6.8
   },
   "genres": [
     "Mahou Shoujo",
@@ -90,10 +86,11 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2016-12-30",
       "title": {
-        "en": "Episode 1"
+        "en": null,
+        "ja": "然れども天地の御真名"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -105,10 +102,11 @@
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2017-12-23",
       "title": {
-        "en": "Episode 2"
+        "en": null,
+        "ja": "日の光の力等しき一日"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -120,10 +118,11 @@
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2018-06-17",
       "title": {
-        "en": "Episode 3"
+        "en": null,
+        "ja": "響け「義」の歌! 情熱の青牡丹"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -135,10 +134,11 @@
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2018-09-22",
       "title": {
-        "en": "Episode 4"
+        "en": null,
+        "ja": "謎の転校先生"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -150,10 +150,11 @@
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2019-03-31",
       "title": {
-        "en": "Episode 5"
+        "en": null,
+        "ja": "この世の果ての境界線"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -165,10 +166,11 @@
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2019-05-26",
       "title": {
-        "en": "Episode 6"
+        "en": null,
+        "ja": "信じるものは何ですか?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -180,10 +182,11 @@
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2019-09-21",
       "title": {
-        "en": "Episode 7"
+        "en": null,
+        "ja": "勿忘郷"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -195,7 +198,7 @@
     },
     "S1": {
       "episode": "S1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2017-06-24",
       "title": {
         "en": "Episode 1 Full CG Alternate Story"
@@ -210,25 +213,11 @@
     },
     "S2": {
       "episode": "S2",
-      "length": "30m",
+      "length": 30,
       "airDate": "2019-05-26",
       "title": {
-        "en": "Recap 1-5"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T1": {
-      "episode": "T1",
-      "length": "0m",
-      "airDate": "",
-      "title": {
-        "en": "PV"
+        "en": "Recap 1-5",
+        "ja": "要約 1-5"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -240,12 +229,12 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-28T03:46:59.361Z",
+    "lastFetched": "2026-11-21T13:46:34.548Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

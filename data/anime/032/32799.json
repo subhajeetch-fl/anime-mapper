@@ -29,19 +29,15 @@
   "source": "Music",
   "status": "Currently Airing",
   "airing": true,
-  "episodeCount": 1,
-  "episodeLength": 2,
+  "episodeCount": null,
+  "episodeLength": 3,
   "aired": {
     "from": "2011-04-06T00:00:00+00:00",
-    "to": "2016-02-10"
+    "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "spring",
+  "year": 2011,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -50,13 +46,11 @@
     "kitsuRating": null
   },
   "genres": [
-    "Music",
-    "Kids"
+    "Kids",
+    "Music"
   ],
   "studios": [],
-  "producers": [
-    "King Records"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/2/78642l.jpg",
     "banner": null,
@@ -65,18 +59,36 @@
   "trailer": null,
   "synopsis": "A series of animated music videos and short videos teaching children common everyday tasks, such as brushing teeth.",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "2m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 2,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-30T08:39:23.670Z",
+    "lastFetched": "2026-11-21T13:46:50.644Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
     ],
     "dataVersion": 1
   }

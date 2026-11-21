@@ -22,59 +22,71 @@
     "english": "Reincarnated as a Sword Season 2",
     "native": "転生したら剣でした 第2期",
     "synonyms": [
-      "I became the sword by transmigrating 2nd Season",
-      "TenKen 2",
-      "Reincarnated as a Sword Season 2",
+      "I became the sword by transmigrating 2nd Season, TenKen 2",
+      "Reincarnated as a Sword II",
       "I Became the Sword by Transmigrating 2",
+      "TenKen 2",
       "ซวยเหลือหลาย เกิดใหม่กลายเป็นดาบ ภาค 2",
       "TENKEN - Reincarnato in una spada"
     ]
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-08T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Thursdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 9,
+    "airingAt": 1795620600
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.51,
+    "anilistScore": 7.5,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Adventure",
     "Fantasy",
-    "Swordplay",
-    "Isekai"
+    "Isekai",
+    "Reincarnation"
   ],
   "studios": [
     "C2C"
   ],
   "producers": [
-    "Gentosha Comics",
     "NBCUniversal Entertainment Japan",
-    "Micro Magazine Publishing"
+    "GREE Entertainment",
+    "Micro Magazine Sha",
+    "JR Higashi Nihon Kikaku",
+    "BS Asahi",
+    "NK Animation",
+    "Gentosha Comics",
+    "Micro House"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1955/150906l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1725/160874l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159042-X0mqyaUFBkms.jpg",
-    "color": "#86d6ff"
+    "color": "#f19328"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "kbtRqqa2GyA",
+    "url": "https://www.youtube.com/watch?v=kbtRqqa2GyA",
+    "thumbnail": "https://i.ytimg.com/vi/kbtRqqa2GyA/hqdefault.jpg"
+  },
   "synopsis": "Second season of Tensei shitara Ken deshita.",
   "sequence": [
     {
@@ -91,17 +103,204 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-08",
+      "title": {
+        "en": "The Floating Island",
+        "ja": "空に浮かんでるのは島でした"
+      },
+      "tvdbShowId": 410378,
+      "tvdbId": 11877773,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877773/screencap/6abb35b33f50b.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-15",
+      "title": {
+        "en": "Jean du Vix Knows His Stuff",
+        "ja": "ジャン・ドゥービーは優秀でした"
+      },
+      "tvdbShowId": 410378,
+      "tvdbId": 12009468,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12009468/screencap/6acec7343afba.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-22",
+      "title": {
+        "en": "The Undead Monster Was Tough as Nails",
+        "ja": "アンデッドはガチガチでした"
+      },
+      "tvdbShowId": 410378,
+      "tvdbId": 12009469,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12009469/screencap/6ad8b3adb77ce.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-29",
+      "title": {
+        "en": "The Hopeless Battle Against the Undead King",
+        "ja": "死霊の王は絶望でした"
+      },
+      "tvdbShowId": 410378,
+      "tvdbId": 12012555,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12012555/screencap/6ae00bbb06bd7.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-05",
+      "title": {
+        "en": "A Smiling Farewell",
+        "ja": "別れの時は笑顔でした"
+      },
+      "tvdbShowId": 410378,
+      "tvdbId": 12012556,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12012556/screencap/6ae2153372741.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-12",
+      "title": {
+        "en": "The Briny Beach Experience"
+      },
+      "tvdbShowId": 410378,
+      "tvdbId": 12012557,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12012557/screencap/6af29a25b9a33.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-19",
+      "title": {
+        "en": "The Humungous Sea Monster"
+      },
+      "tvdbShowId": 410378,
+      "tvdbId": 12012558,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12012558/screencap/6afbb9a35335f.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-26",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 410378,
+      "tvdbId": 12012559,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12012559/screencap/6afdc4c226b38.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-12-03",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 410378,
+      "tvdbId": 12012560,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-10",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 410378,
+      "tvdbId": 12012561,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-17",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 410378,
+      "tvdbId": 12012562,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-24",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 410378,
+      "tvdbId": 12012563,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-30T14:46:34.368Z",
+    "lastFetched": "2026-11-21T13:54:38.792Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

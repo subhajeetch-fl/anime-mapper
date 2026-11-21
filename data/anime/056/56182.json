@@ -23,7 +23,7 @@
     "native": "URAHARA",
     "synonyms": []
   },
-  "type": null,
+  "type": "unknown",
   "source": "Original",
   "status": "Not yet aired",
   "airing": false,
@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG",
   "score": {
@@ -57,20 +53,26 @@
     "banner": null,
     "color": "#e41a50"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "_7SXGmJFPnA",
+    "url": "https://www.youtube.com/watch?v=_7SXGmJFPnA",
+    "thumbnail": "https://i.ytimg.com/vi/_7SXGmJFPnA/hqdefault.jpg"
+  },
   "synopsis": "At once stylish and surreal, URAHARA depicts a strange and dystopic world where modern civilization is visually compared to rapidly-reproducing bacteria and brief moments of wonder and beauty can be found amid the chaos of urban sprawl.\n\n(Source: Crunchyroll)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T15:31:20.260Z",
+    "lastFetched": "2026-11-21T13:59:21.795Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

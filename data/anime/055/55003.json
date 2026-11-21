@@ -20,31 +20,32 @@
   "title": {
     "romaji": "1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
     "english": null,
-    "native": "1LDK＋JK いきなり同居？密着！？初エッチ！！？",
-    "synonyms": []
+    "native": "1LDK＋J系 いきなり同居？密着！？初エッチ！！？",
+    "synonyms": [
+      "1 Room Apartment + HS Girl Suddenly Living Together? Close Contact!? First S!!?"
+    ]
   },
   "type": "OVA",
   "source": "Manga",
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 20,
   "aired": {
     "from": "2023-07-07T00:00:00+00:00",
     "to": null
   },
   "season": "summer",
   "year": 2023,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+  "broadcast": null,
+  "nextAiringEpisode": {
+    "episode": 9,
+    "airingAt": 1796914800
   },
-  "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 6.98,
-    "anilistScore": 6.6,
+    "malScore": 7.02,
+    "anilistScore": 6.7,
     "kitsuRating": null
   },
   "genres": [
@@ -55,11 +56,10 @@
     "Studio 1st"
   ],
   "producers": [
-    "King Bee",
-    "Mediabank"
+    "King Bee"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1788/150015l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1788/150015l.webp",
     "banner": null,
     "color": "#e4c9ae"
   },
@@ -68,15 +68,16 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-10T13:02:26.823Z",
+    "lastFetched": "2026-11-21T13:55:46.412Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

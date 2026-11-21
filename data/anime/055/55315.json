@@ -25,33 +25,26 @@
   },
   "type": "OVA",
   "source": "Game",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": 18,
-  "episodeLength": 15,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 20,
+  "episodeLength": 16,
   "aired": {
     "from": "2011-08-12T00:00:00+00:00",
-    "to": "2023-05-07"
+    "to": "2026-05-04T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2011,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.65,
+    "malScore": 7.68,
     "anilistScore": null,
-    "kitsuRating": 7.79
+    "kitsuRating": null
   },
   "genres": [
-    "Fantasy",
-    "Magic",
-    "Doujinshi",
-    "Action"
+    "Fantasy"
   ],
   "studios": [
     "Manpuku Jinja"
@@ -59,347 +52,503 @@
   "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1729/135900l.jpg",
-    "banner": "https://media.kitsu.app/anime/cover_images/11359/original.jpg",
+    "banner": null,
     "color": null
   },
   "trailer": null,
-  "synopsis": "Marisa, an ordinary magician, suspects a youkai is behind the winterly weather in the middle of spring. She goes off to investigate and soon arrives in the netherworld, facing the youkai behind the strange incident. Will her friend, the shrine maiden Reimu, arrive in time to save the day or will all be lost?\n\n(Source: AniDB)",
+  "synopsis": "The series addresses events from Perfect Cherry Blossom, Embodiment of Scarlet Devil, Phantasmagoria of Flower View, Mountain of Faith and Subterranean Animism. It also briefly delves into Cirno's story from Touhou Hisoutensoku.\n\n(Source: Touhou Wiki)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": null,
-      "airDate": "2011-08-12T00:00:00+00:00",
+      "length": 15,
+      "airDate": "2011-08-12",
       "title": {
-        "en": "The Spring Snow Incident",
-        "romaji": "Shunsetsu Ihen no Shou ",
+        "en": "The Spring Snow Incident Chapter",
+        "romaji": "Shunsetsu Ihen no Shou",
         "ja": "春雪異変の章"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 285209,
+      "tvdbId": 4975033,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 16,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4975033/screencap/6150239668d46.jpg"
     },
     "2": {
       "episode": "2",
-      "length": null,
-      "airDate": "2013-06-01T00:00:00+00:00",
+      "length": 20,
+      "airDate": "2013-05-26",
       "title": {
         "en": "The Scarlet Mist Incident (Part One)",
-        "romaji": "Koumu Ihen no Shou (Zenpen) ",
-        "ja": "紅霧異変の章（前編）"
+        "romaji": "Koumu Ihen no Shou (Zenpen)",
+        "ja": "紅霧異変の章 (前編)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 285209,
+      "tvdbId": 4975034,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 16,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4975034/screencap/6233c825e29a1.jpg"
     },
     "3": {
       "episode": "3",
-      "length": null,
-      "airDate": "2013-12-30T00:00:00+00:00",
+      "length": 20,
+      "airDate": "2013-12-30",
       "title": {
         "en": "The Scarlet Mist Incident (Part Two)",
-        "romaji": "Koumu Ihen no Shou (Chuuhen) ",
-        "ja": "紅霧異変の章（中編）"
+        "romaji": "Koumu Ihen no Shou (Chuuhen)",
+        "ja": "紅霧異変の章 (中編)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 285209,
+      "tvdbId": 4975035,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 16,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/4975035/screencap/6233c84f08645.jpg"
     },
     "4": {
       "episode": "4",
-      "length": null,
-      "airDate": "2014-11-24T00:00:00+00:00",
+      "length": 20,
+      "airDate": "2014-11-24",
       "title": {
         "en": "The Scarlet Mist Incident (Part Three)",
-        "romaji": "Koumu Ihen no Shou (Kouhen) ",
-        "ja": "紅霧異変の章（后編）"
+        "romaji": "Koumu Ihen no Shou (Kouhen)",
+        "ja": "紅霧異変の章 (後編)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 285209,
+      "tvdbId": 5388980,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 18,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/5388980/screencap/6233c86f2aee8.jpg"
     },
     "5": {
       "episode": "5",
-      "length": null,
-      "airDate": "2015-06-12T00:00:00+00:00",
+      "length": 15,
+      "airDate": "2015-06-12",
       "title": {
         "en": "The Flower Incident (Part One)",
-        "romaji": "Hana no Ihen no Shou (Zenpen) ",
-        "ja": "花の異変の章（前編）"
+        "romaji": "Hana no Ihen no Shou (Zenpen)",
+        "ja": "花の異変の章 (前編)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 285209,
+      "tvdbId": 5388981,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 13,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/5388981/screencap/6233c88b06c47.jpg"
     },
     "6": {
       "episode": "6",
-      "length": null,
-      "airDate": "2016-01-03T00:00:00+00:00",
+      "length": 20,
+      "airDate": "2015-12-18",
       "title": {
         "en": "The Flower Incident (Part Two)",
-        "romaji": "Hana no Ihen no Shou (Kouhen) ",
-        "ja": "花の異変の章（後編）"
+        "romaji": "Hana no Ihen no Shou (Kouhen)",
+        "ja": "花の異変の章 (後編)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 285209,
+      "tvdbId": 5627893,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 16,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/5627893/screencap/6233c8b67166e.jpg"
     },
     "7": {
       "episode": "7",
-      "length": null,
-      "airDate": "2016-05-22T00:00:00+00:00",
+      "length": 15,
+      "airDate": "2016-05-22",
       "title": {
-        "en": "Legend of the Giant Youkai",
-        "romaji": "Kyodai Youkai Densetsu no Shou ",
+        "en": "The Mysterious Giant Youkai Chapter",
+        "romaji": "Kyodai Youkai Densetsu no Shou",
         "ja": "巨大妖怪伝説の章"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 285209,
+      "tvdbId": 5627894,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 11,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/5627894/screencap/6233c8d121594.jpg"
     },
     "8": {
       "episode": "8",
-      "length": null,
-      "airDate": "2016-12-29T00:00:00+00:00",
+      "length": 15,
+      "airDate": "2016-12-29",
       "title": {
-        "en": "The Eternal Night Incident (Part One)",
-        "romaji": "Eiya Ihen no Shou (Zenpen) ",
-        "ja": "永夜異変の章（前編）"
+        "en": "Imperishable Night Incident (Part 1)",
+        "romaji": "Eiya Ihen no Shou (Zenpen)",
+        "ja": "永夜異変の章 (前編)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 285209,
+      "tvdbId": 6029684,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6029684/screencap/6233c8ec05ea7.jpg"
     },
     "9": {
       "episode": "9",
-      "length": null,
-      "airDate": "2017-08-11T00:00:00+00:00",
+      "length": 15,
+      "airDate": "2017-08-11",
       "title": {
-        "en": "The Eternal Night Incident (Part Two)",
-        "romaji": "Eiya Ihen no Shou (Chuuhen) ",
-        "ja": "永夜異変の章（中編）"
+        "en": "Imperishable Night Incident (Part 2)",
+        "romaji": "Eiya Ihen no Shou (Chuuhen)",
+        "ja": "永夜異変の章 (中編)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 285209,
+      "tvdbId": 6029686,
+      "seasonNumber": 1,
       "episodeNumber": 9,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 9,
+      "runtime": 13,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/6029686/screencap/6233c9122cca5.jpg"
     },
     "10": {
       "episode": "10",
-      "length": null,
-      "airDate": "2017-12-29T00:00:00+00:00",
+      "length": 15,
+      "airDate": "2017-12-29",
       "title": {
-        "en": "The Eternal Night Incident (Part Three)",
-        "romaji": "Eiya Ihen no Shou (Kouhen 1) (永夜異変の章 ",
-        "ja": "後編①)"
+        "en": "Imperishable Night Incident (Part 3: 1)",
+        "romaji": "Eiya Ihen no Shou (Kouhen 1)",
+        "ja": "永夜異変の章 (後編①)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 285209,
+      "tvdbId": 7002947,
+      "seasonNumber": 1,
       "episodeNumber": 10,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 10,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/7002947/screencap/6233c929ac2df.jpg"
     },
     "11": {
       "episode": "11",
-      "length": null,
-      "airDate": "2018-05-06T00:00:00+00:00",
+      "length": 15,
+      "airDate": "2018-05-06",
       "title": {
-        "en": "The Eternal Night Incident (Part Four)",
-        "romaji": "Eiya Ihen no Shou (Kouhen 2) ",
-        "ja": "永夜異変の章（後編②）"
+        "en": "Imperishable Night Incident (Part 3: 2)",
+        "romaji": "Eiya Ihen no Shou (Kouhen 2)",
+        "ja": "永夜異変の章 (後編②)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 285209,
+      "tvdbId": 7002949,
+      "seasonNumber": 1,
       "episodeNumber": 11,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 11,
+      "runtime": 13,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/7002949/screencap/6233c945bc0e2.jpg"
     },
     "12": {
       "episode": "12",
-      "length": null,
-      "airDate": "2018-12-30T00:00:00+00:00",
+      "length": 15,
+      "airDate": "2018-12-30",
       "title": {
         "en": "The Courage Test Incident (Part One)",
-        "romaji": "Kimodameshi no Shou (Zenpen) ",
-        "ja": "肝試しの章（前編）"
+        "romaji": "Kimodameshi no Shou (Zenpen)",
+        "ja": "肝試しの章 (前編)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 285209,
+      "tvdbId": 7229524,
+      "seasonNumber": 1,
       "episodeNumber": 12,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 12,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/7229524/screencap/6233c95fd7b56.jpg"
     },
     "13": {
       "episode": "13",
-      "length": null,
-      "airDate": "2019-05-05T00:00:00+00:00",
+      "length": 15,
+      "airDate": "2019-05-05",
       "title": {
         "en": "The Courage Test Incident (Part Two)",
-        "romaji": "Kimodameshi no Shou (Kouhen) ",
-        "ja": "肝試しの章（後編）"
+        "romaji": "Kimodameshi no Shou (Kouhen)",
+        "ja": "肝試しの章 (後編)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 285209,
+      "tvdbId": 7229527,
+      "seasonNumber": 1,
       "episodeNumber": 13,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 13,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/7229527/screencap/6233c97883e4f.jpg"
     },
     "14": {
       "episode": "14",
-      "length": null,
-      "airDate": "2019-12-31T00:00:00+00:00",
+      "length": 15,
+      "airDate": "2019-12-31",
       "title": {
         "en": "The Youkai Mountain Battle Incident (Part One)",
-        "romaji": "Youkai no Yama Kessen no Shou (Zenpen) ",
-        "ja": "妖怪の山決戦の章（前編）"
+        "romaji": "Youkai no Yama Kessen no Shou (Zenpen)",
+        "ja": "妖怪の山決戦の章 (前編)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 285209,
+      "tvdbId": 8034209,
+      "seasonNumber": 1,
       "episodeNumber": 14,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 14,
+      "runtime": 11,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8034209/screencap/6233c98f612f2.jpg"
     },
     "15": {
       "episode": "15",
-      "length": null,
-      "airDate": "2020-09-15T00:00:00+00:00",
+      "length": 15,
+      "airDate": "2020-09-15",
       "title": {
         "en": "The Youkai Mountain Battle Incident (Part Two)",
-        "romaji": "Youkai no Yama Kessen no Shou (Chuuhen) ",
-        "ja": "妖怪の山決戦の章（中編）"
+        "romaji": "Youkai no Yama Kessen no Shou (Chuuhen)",
+        "ja": "妖怪の山決戦の章 (中編)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 285209,
+      "tvdbId": 9060346,
+      "seasonNumber": 1,
       "episodeNumber": 15,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 15,
+      "runtime": 14,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9060346/screencap/6233c9a658171.jpg"
     },
     "16": {
       "episode": "16",
-      "length": null,
-      "airDate": "2021-05-01T00:00:00+00:00",
+      "length": 15,
+      "airDate": "2021-04-28",
       "title": {
         "en": "The Youkai Mountain Battle Incident (Part Three)",
-        "romaji": "Youkai no Yama Kessen no Shou (Kouhen 1) ",
-        "ja": "妖怪の山決戦の章（後編①）"
+        "romaji": "Youkai no Yama Kessen no Shou (Kouhen 1)",
+        "ja": "妖怪の山決戦の章 (後編①)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 285209,
+      "tvdbId": 9060347,
+      "seasonNumber": 1,
       "episodeNumber": 16,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 16,
+      "runtime": 11,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9060347/screencap/6233c9c095064.jpg"
     },
     "17": {
       "episode": "17",
-      "length": null,
-      "airDate": "2022-03-25T00:00:00+00:00",
+      "length": 15,
+      "airDate": "2022-03-20",
       "title": {
         "en": "The Youkai Mountain Battle Incident (Part Four)",
-        "romaji": "Youkai no Yama Kessen no Shou (Kouhen 2) ",
-        "ja": "妖怪の山決戦の章（後編②）"
+        "romaji": "Youkai no Yama Kessen no Shou (Kouhen 2)",
+        "ja": "妖怪の山決戦の章 (後編②)"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 285209,
+      "tvdbId": 9060355,
+      "seasonNumber": 1,
       "episodeNumber": 17,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 17,
+      "runtime": 14,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9060355/screencap/62c115aa66760.jpg"
     },
     "18": {
       "episode": "18",
-      "length": null,
-      "airDate": "2023-05-07T00:00:00+00:00",
+      "length": 15,
+      "airDate": "2023-05-07",
       "title": {
         "en": "The Reimu Assassination Plot",
-        "romaji": "Reimu Ansatsu Keikaku no Shou ",
+        "romaji": "Reimu Ansatsu Keikaku no Shou",
         "ja": "霊夢暗殺計画の章"
+      },
+      "tvdbShowId": 285209,
+      "tvdbId": 9840380,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 15,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9840380/screencap/695f803272053.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": 9,
+      "airDate": "2025-10-19",
+      "title": {
+        "en": "Volume 19",
+        "romaji": "Gensoukyou Jikan Sakusen no Shou (Zenpen)",
+        "ja": "幻想郷時間作戦の章 (前編)"
+      },
+      "tvdbShowId": 285209,
+      "tvdbId": 11546874,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 9,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11546874/screencap/695f804bd4dcb.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": 15,
+      "airDate": "2026-05-10",
+      "title": {
+        "en": "Volume 20",
+        "romaji": "Gensoukyou Jikan Sakusen no Shou (Kouhen)",
+        "ja": "幻想郷時間作戦の章 (後編)"
+      },
+      "tvdbShowId": 285209,
+      "tvdbId": 11546875,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 13,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": 4,
+      "airDate": "2012-05-27",
+      "title": {
+        "en": "Kachou Fuugetsu Music Video",
+        "romaji": "Kachou Fuugetsu",
+        "ja": "華鳥風月"
       },
       "tvdbShowId": null,
       "tvdbId": null,
       "seasonNumber": null,
-      "episodeNumber": 18,
+      "episodeNumber": null,
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null
     },
-    "19": {
-      "episode": "19",
-      "length": null,
-      "airDate": "2025-10-19T00:00:00+00:00",
+    "S5": {
+      "episode": "S5",
+      "length": 2,
+      "airDate": "",
       "title": {
-        "en": "The Gensokyo Time Operation Arc (Part One)",
-        "romaji": "Gensoukyou Jikan Sakusen no Shou (Zenpen) ",
-        "ja": "幻想郷時間作戦の章（前編）"
+        "en": "Opening - Storyboard V2"
       },
       "tvdbShowId": null,
       "tvdbId": null,
       "seasonNumber": null,
-      "episodeNumber": 19,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S6": {
+      "episode": "S6",
+      "length": 2,
+      "airDate": "",
+      "title": {
+        "en": "Opening - Storyboard V3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S4": {
+      "episode": "S4",
+      "length": 2,
+      "airDate": "",
+      "title": {
+        "en": "Opening - Storyboard V1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": 4,
+      "airDate": "2012-10-20",
+      "title": {
+        "en": "Utakata, Ai no Mahoroba Music Video",
+        "romaji": "Utakata, Ai no Mahoroba",
+        "ja": "泡沫, 哀のまほろば"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": 15,
+      "airDate": "",
+      "title": {
+        "en": "The Spring Snow Incident Chapter Storyboard Version"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S7": {
+      "episode": "S7",
+      "length": 2,
+      "airDate": "",
+      "title": {
+        "en": "Utakata, Ai no Mahoroba Storyboard Version"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S8": {
+      "episode": "S8",
+      "length": 2,
+      "airDate": "",
+      "title": {
+        "en": "Utakata, Ai no Mahoroba PV Ver.0.5"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S9": {
+      "episode": "S9",
+      "length": 4,
+      "airDate": "",
+      "title": {
+        "en": "Kachou Fuugetsu Storyboard Version"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-07-05T12:12:10.718Z",
+    "lastFetched": "2026-11-21T13:56:11.554Z",
     "sourcesUsed": [
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "jikan-episodes (fallback)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

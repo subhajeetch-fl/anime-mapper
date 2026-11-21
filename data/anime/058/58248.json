@@ -31,29 +31,24 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 1,
-  "episodeLength": 0,
+  "episodeLength": 2,
   "aired": {
     "from": "2019-12-05T00:00:00+00:00",
-    "to": "2024-02-27"
+    "to": "2024-02-27T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "fall",
+  "year": 2019,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
     "malScore": 6.03,
-    "anilistScore": 5.2,
+    "anilistScore": 5.5,
     "kitsuRating": null
   },
   "genres": [
     "Action",
-    "Fantasy",
-    "Proxy Battles"
+    "Fantasy"
   ],
   "studios": [
     "OLM Digital",
@@ -61,14 +56,18 @@
     "Liberty Animation Studio"
   ],
   "producers": [
-    ".MP"
+    "Ijigen TOKYO"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1885/151870l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176495-YEBuj29g8lLP.jpg",
     "color": "#4393f1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "NJBNwLGNkgY",
+    "url": "https://www.youtube.com/watch?v=NJBNwLGNkgY",
+    "thumbnail": "https://i.ytimg.com/vi/NJBNwLGNkgY/hqdefault.jpg"
+  },
   "synopsis": "Animated videos for Pokemon Masters EX.",
   "sequence": [
     {
@@ -85,17 +84,37 @@
       "relationType": "PARENT"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 0,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-30T19:42:25.870Z",
+    "lastFetched": "2026-11-21T14:01:47.337Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

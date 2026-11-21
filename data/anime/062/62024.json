@@ -38,11 +38,7 @@
   },
   "season": "spring",
   "year": 2027,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -52,7 +48,9 @@
   },
   "genres": [
     "Action",
+    "Kids",
     "Sci-Fi",
+    "Time Travel",
     "Drama",
     "Mystery"
   ],
@@ -60,55 +58,29 @@
     "Bones Film"
   ],
   "producers": [
-    "STORY"
+    "STORY Inc.",
+    "bones"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1585/158853l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195787-cRFhQhgYa103.jpg",
     "color": "#d6c91a"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "VJh4cyxN_sM",
+    "url": "https://www.youtube.com/watch?v=VJh4cyxN_sM",
+    "thumbnail": "https://i.ytimg.com/vi/VJh4cyxN_sM/hqdefault.jpg"
+  },
   "synopsis": "A secret organization known as the Spacetime Police Special Task Force, nicknamed the \"Rewinders,\" exists to save those who have died tragic, untimely death. Their weapon, the \"Retry Eye,\" is a time machine implanted in their right eye. To solve each case, they'll rewind time dozens, hundreds, even thousands of times, until the future is changed.\n\n(Source: MAL News)",
   "sequence": [],
-  "episodes": {
-    "T1": {
-      "episode": "T1",
-      "length": "1m",
-      "airDate": "2025-07-10",
-      "title": {
-        "en": "Super Teaser PV (0:44)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T2": {
-      "episode": "T2",
-      "length": "1m",
-      "airDate": "2026-07-04",
-      "title": {
-        "en": "Teaser PV (0:52)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    }
-  },
+  "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-04T21:43:29.807Z",
+    "lastFetched": "2026-11-21T14:13:29.044Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

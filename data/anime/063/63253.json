@@ -43,11 +43,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -62,13 +58,20 @@
     "Magic"
   ],
   "studios": [],
-  "producers": [],
+  "producers": [
+    "KADOKAWA",
+    "SB Creative"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1240/154845l.jpg",
     "banner": null,
     "color": null
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "vhqJ5SSjJZU",
+    "url": "https://www.youtube.com/watch?v=vhqJ5SSjJZU",
+    "thumbnail": "https://i.ytimg.com/vi/vhqJ5SSjJZU/hqdefault.jpg"
+  },
   "synopsis": "Movie for Majo no Tabitabi.",
   "sequence": [
     {
@@ -86,32 +89,35 @@
     }
   ],
   "episodes": {
-    "T1": {
-      "episode": "T1",
-      "length": "1m",
-      "airDate": "2026-01-04",
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
       "title": {
-        "en": "News Flash (1:04)"
+        "en": null,
+        "romaji": null,
+        "ja": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
       "runtime": null,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-07-03T06:52:34.214Z",
+    "lastFetched": "2026-11-21T14:18:28.121Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

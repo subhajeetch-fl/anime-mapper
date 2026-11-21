@@ -27,19 +27,15 @@
   "source": "Manga",
   "status": "Not yet aired",
   "airing": false,
-  "episodeCount": null,
+  "episodeCount": 8,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2026-12-23T00:00:00+00:00",
     "to": null
   },
-  "season": "winter",
-  "year": 2027,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "fall",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -49,19 +45,28 @@
   },
   "genres": [
     "Fantasy",
+    "Isekai",
+    "School",
+    "Shounen",
     "Adventure"
   ],
   "studios": [
     "Yumeta Company",
     "Graphinica"
   ],
-  "producers": [],
+  "producers": [
+    "Walt Disney Studios"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1428/146593l.jpg",
-    "banner": null,
-    "color": "#e4c928"
+    "poster": "https://cdn.myanimelist.net/images/anime/1700/160746l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202282-LY333a7emvcx.jpg",
+    "color": "#e4bb35"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "-NF3hbmXclE",
+    "url": "https://www.youtube.com/watch?v=-NF3hbmXclE",
+    "thumbnail": "https://i.ytimg.com/vi/-NF3hbmXclE/hqdefault.jpg"
+  },
   "synopsis": "One day, high school student Yuuka \"Yuu\" Hirasaka finds herself transported to the world of Twisted Wonderland after a black carriage crashes into her. Though she hopes to return home to Tochigi in Japan, the magicless judo practitioner ends up enrolling in the prestigious magic academy Night Raven College.\n\nAs Yuu acclimates to her new life, the annual interdorm Spelldrive tournament at the school is set to begin. The team-based game tests the physical and magical strength of each dorm's seven best athletes, all while being broadcast throughout the magical world. For the past two years, the Diasomnia dorm has crushed the competition thanks solely to their powerful housewarden, Malleus Draconia.\n\nAmidst the excitement, a series of incidents across campus befalling the top Spelldrive players from all dorms is rendering them unable to compete. Concerned that these are no mere accidents, the headmage of the academy tasks Yuu and her dormmate Grim to investigate. While the pair dives deeper into the matter, one housewarden in particular is determined to defeat Diasomnia—even if he must use underhanded methods to do so.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
@@ -80,12 +85,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-29T21:32:29.856Z",
+    "lastFetched": "2026-11-21T14:11:15.680Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

@@ -30,23 +30,19 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 2,
-  "episodeLength": null,
+  "episodeLength": 26,
   "aired": {
     "from": "2026-04-17T00:00:00+00:00",
-    "to": null
+    "to": "2026-05-22T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 5.69,
-    "anilistScore": 4.8,
+    "malScore": 5.61,
+    "anilistScore": 5.2,
     "kitsuRating": null
   },
   "genres": [
@@ -56,26 +52,23 @@
     "Blue bread",
     "Queen Bee"
   ],
-  "producers": [
-    "Queen Bee",
-    "Mediabank"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1041/155188l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206003-1RrPKeK9lYmQ.jpg",
     "color": null
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "Mesuchinpo Gari.",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-08-04T03:55:26.204Z",
+    "lastFetched": "2026-11-21T14:19:17.502Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

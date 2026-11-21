@@ -39,11 +39,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -55,9 +51,11 @@
     "Action",
     "Adventure",
     "Drama",
-    "Fantasy"
+    "Fantasy",
+    "Martial Arts"
   ],
   "studios": [
+    "Shenman Culture",
     "Shenman Entertainment"
   ],
   "producers": [
@@ -68,7 +66,11 @@
     "banner": null,
     "color": "#ff501a"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "Cmps4G9bDzk",
+    "url": "https://www.youtube.com/watch?v=Cmps4G9bDzk",
+    "thumbnail": "https://i.ytimg.com/vi/Cmps4G9bDzk/hqdefault.jpg"
+  },
   "synopsis": "Fate had never been kind to Ji Ning. Wracked by illnesses and infirm his entire life on Earth, Ning knew early on that he would die as a teenager. What he didn’t know was that there really was such a thing as life after death, and that the universe was a far larger place than he thought. A lucky twist of fate (one of the few in Ning’s life) meant that Ning was reborn into a world of Immortals and monsters, of Ki Refiners and powerful Fiendgods, a world where Dynasties lasted for millions of years. A world which is both greater and yet also smaller than he ever could imagine. He would have the opportunity to join them, and in this life, Ning swore to himself, he would never let himself be weak again! The Era he was born into was a Desolate one, but Ning would make it his era.\n\n(Source: Novel Update)",
   "sequence": [
     {
@@ -87,12 +89,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:00:52.092Z",
+    "lastFetched": "2026-11-21T14:14:44.412Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

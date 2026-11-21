@@ -5,7 +5,7 @@
     "mal": 39168,
     "anilist": 202390,
     "anidb": null,
-    "kitsu": null,
+    "kitsu": 50989,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
@@ -29,32 +29,28 @@
   },
   "type": "Movie",
   "source": "Original",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 55,
   "aired": {
     "from": "2026-10-09T00:00:00+00:00",
-    "to": null
+    "to": "2026-10-09T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
-  "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1791471600
-  },
+  "broadcast": null,
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.24,
+    "anilistScore": 7.2,
     "kitsuRating": null
   },
   "genres": [
+    "CGDCT",
+    "Military",
+    "School",
     "Action",
     "Sports"
   ],
@@ -65,12 +61,16 @@
     "Bandai Visual"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1767/158773l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1928/159811l.jpg",
     "banner": null,
     "color": null
   },
-  "trailer": null,
-  "synopsis": "The fifth film in the six-part Girls &amp; Panzer: Saishuushou film series.",
+  "trailer": {
+    "youtubeId": "yDRK9-yG9X8",
+    "url": "https://www.youtube.com/watch?v=yDRK9-yG9X8",
+    "thumbnail": "https://i.ytimg.com/vi/yDRK9-yG9X8/hqdefault.jpg"
+  },
+  "synopsis": "The fifth film in the six-part Girls & Panzer: Saishuushou film series.",
   "sequence": [
     {
       "malId": 39167,
@@ -86,17 +86,37 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-01T03:16:27.294Z",
+    "lastFetched": "2026-11-21T13:47:45.460Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

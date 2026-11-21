@@ -5,14 +5,14 @@
     "mal": 63098,
     "anilist": 204011,
     "anidb": 19765,
-    "kitsu": null,
+    "kitsu": 50392,
     "simkl": 2962972,
     "tmdb": 297903,
     "tvdb": 471609,
     "trakt": 294149,
     "traktType": "shows",
     "shikimori": 63098,
-    "livechart": null,
+    "livechart": 13426,
     "animeplanet": "psyren",
     "anisearch": 21084,
     "notify": null
@@ -22,37 +22,45 @@
     "english": "Psyren",
     "native": "PSYREN -サイレン-",
     "synonyms": [
-      "Siren"
+      "Siren",
+      "САЙРЕН"
     ]
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-05T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Mondays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 7,
+    "airingAt": 1796047200
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.8,
+    "anilistScore": 6.9,
     "kitsuRating": null
   },
   "genres": [
     "Action",
+    "High Stakes Game",
+    "Psychological",
     "Romance",
     "Sci-Fi",
+    "Shounen",
+    "Strategy Game",
     "Supernatural",
     "Suspense",
     "Adventure"
@@ -61,27 +69,158 @@
     "Satelight"
   ],
   "producers": [
-    "REMOW"
+    "Shueisha",
+    "REMOW",
+    "Studio Pierrot",
+    "KADOKAWA",
+    "Kadokawa Media House",
+    "KLOCKWORX"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1698/156325l.jpg",
-    "banner": null,
-    "color": "#ae5de4"
+    "poster": "https://cdn.myanimelist.net/images/anime/1000/160405l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204011-hBOwte9MzykA.jpg",
+    "color": "#0dd6e4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "fmUpSXFbSK0",
+    "url": "https://www.youtube.com/watch?v=fmUpSXFbSK0",
+    "thumbnail": "https://i.ytimg.com/vi/fmUpSXFbSK0/hqdefault.jpg"
+  },
   "synopsis": "Ageha Yoshina is a self-confident high school student who helps others for a fee. On his way back from a job, he finds a strange calling card with the word \"Psyren\" imprinted left behind in a phone booth and decides to keep it, unaware of its purpose. The very next day, Ageha discovers that his classmate Sakurako Amamiya has the exact same calling card in her possession. When he questions her, Sakurako asks him to save her, signaling the day his troubles begin.\n\nConfused by the circumstances of this encounter, Ageha realizes something is wrong when Sakurako goes missing. In an attempt to figure out what is happening, he decides to call the number provided on the calling card and is asked a series of questions by a mysterious voice, ending with a final, cryptic question: \"Would you like to go to Psyren?\" Thus begins two teenagers' participation in a game of life or death within a strange world inhabited by monsters called Taboo. Granted the ability to use psychic powers known as PSI, the duo fight to return to the place they call home.\n\n[Written by MAL Rewrite]",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-05",
+      "title": {
+        "en": "Urban Legend"
+      },
+      "tvdbShowId": 471609,
+      "tvdbId": 11580795,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11580795/screencap/6ac2f22faf598.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-12",
+      "title": {
+        "en": "Tavoo"
+      },
+      "tvdbShowId": 471609,
+      "tvdbId": 12016651,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016651/screencap/6accd40e1e0b5.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-19",
+      "title": {
+        "en": "Psi"
+      },
+      "tvdbShowId": 471609,
+      "tvdbId": 12016652,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016652/screencap/6ad565367f54d.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-26",
+      "title": {
+        "en": "Recall"
+      },
+      "tvdbShowId": 471609,
+      "tvdbId": 12016653,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016653/screencap/6adf564e0ea23.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-09",
+      "title": {
+        "en": "Those Gathered"
+      },
+      "tvdbShowId": 471609,
+      "tvdbId": 12016654,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016654/screencap/6af0eba6714e3.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-16",
+      "title": {
+        "en": "Memory"
+      },
+      "tvdbShowId": 471609,
+      "tvdbId": 12016655,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016655/screencap/6af874e250e70.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-30",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 471609,
+      "tvdbId": 12016656,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-12-07",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 471609,
+      "tvdbId": 12016657,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-03T06:49:28.245Z",
+    "lastFetched": "2026-11-21T14:17:31.792Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

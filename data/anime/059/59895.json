@@ -23,23 +23,19 @@
     "native": "단비와 깨비",
     "synonyms": []
   },
-  "type": null,
+  "type": "unknown",
   "source": "Original",
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": 52,
-  "episodeLength": null,
+  "episodeLength": 11,
   "aired": {
     "from": null,
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG - Children",
   "score": {
@@ -49,7 +45,8 @@
   },
   "genres": [
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Kids"
   ],
   "studios": [
     "Comma Studio"
@@ -65,16 +62,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T20:23:18.103Z",
+    "lastFetched": "2026-11-21T14:10:41.451Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

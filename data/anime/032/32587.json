@@ -28,26 +28,19 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 19,
   "aired": {
     "from": "2016-10-07T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2016,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
-  "nextAiringEpisode": {
-    "episode": 8,
-    "airingAt": 1788447600
-  },
+  "broadcast": null,
+  "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
     "malScore": 6.81,
-    "anilistScore": 6.5,
+    "anilistScore": 6.4,
     "kitsuRating": null
   },
   "genres": [
@@ -58,7 +51,8 @@
     "NewGeneration"
   ],
   "producers": [
-    "Mary Jane"
+    "Mary Jane",
+    "44℃ Baidoku"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1258/149953l.jpg",
@@ -70,15 +64,16 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-11T03:52:18.590Z",
+    "lastFetched": "2026-11-21T13:46:48.042Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

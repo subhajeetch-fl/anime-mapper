@@ -18,9 +18,9 @@
     "notify": null
   },
   "title": {
-    "romaji": null,
+    "romaji": "The Zero Century Movie 3: Maetel",
     "english": null,
-    "native": null,
+    "native": "零世紀 メーテル",
     "synonyms": []
   },
   "type": null,
@@ -60,18 +60,35 @@
   "trailer": null,
   "synopsis": "",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-31T12:48:14.908Z",
+    "lastFetched": "2026-11-21T13:46:57.733Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
       "zenshin"
     ],
     "missingSources": [
+      "animeApi database (no record)",
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu-episodes (fallback)"
     ],
     "dataVersion": 1
   }

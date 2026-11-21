@@ -6,15 +6,15 @@
     "anilist": 211070,
     "anidb": 20018,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 3087356,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 63970,
     "livechart": 13605,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "pen-to-wappa-to-jijitsu-kon",
+    "anisearch": 21486,
     "notify": null
   },
   "title": {
@@ -33,15 +33,15 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-01-10T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "winter",
+  "year": 2027,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Sundays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": null,
   "rating": null,
@@ -52,29 +52,35 @@
   },
   "genres": [
     "Comedy",
+    "Detective",
     "Mystery",
+    "Seinen",
     "Romance"
   ],
-  "studios": [],
-  "producers": [
-    "King Records"
+  "studios": [
+    "EMT Squared"
   ],
+  "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1014/156844l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1530/161268l.jpg",
     "banner": null,
-    "color": "#c9f1e4"
+    "color": "#5dbbf1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "GpsgYnS0p8I",
+    "url": "https://www.youtube.com/watch?v=GpsgYnS0p8I",
+    "thumbnail": "https://i.ytimg.com/vi/GpsgYnS0p8I/hqdefault.jpg"
+  },
   "synopsis": "Forty-year-old detective Eiji Kirisame has found maybe the strangest witness of his life: a silent high school girl named Tsugumi Kuchinashi who was at the scene of the crime. Her statements mostly consist of shoddy doodles on a drawing pad, but Eiji is no stranger to piecing together the truth from limited evidence. He'll take every page seriously if it might help solve the case. But why does the last page say... \"Will you marry me?!\"\n\n(Source: Yen Press)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-12T11:55:29.319Z",
+    "lastFetched": "2026-11-21T14:21:09.324Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

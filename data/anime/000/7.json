@@ -19,62 +19,58 @@
   },
   "title": {
     "romaji": "Witch Hunter ROBIN",
-    "english": "Witch Hunter ROBIN",
+    "english": "Witch Hunter Robin",
     "native": "Witch Hunter ROBIN",
     "synonyms": [
-      "ウイッチハンターロビン",
-      "WHR"
+      "WHR",
+      "ウイッチハンターロビン"
     ]
   },
   "type": "TV",
-  "source": null,
+  "source": "Original",
   "status": "Finished Airing",
   "airing": false,
   "episodeCount": 26,
   "episodeLength": 25,
   "aired": {
-    "from": "2002-07-02",
-    "to": "2002-12-24"
+    "from": "2002-07-03T00:00:00+00:00",
+    "to": "2002-12-25T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2002,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:25",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 7.24,
     "anilistScore": 6.8,
-    "kitsuRating": 7.21
+    "kitsuRating": null
   },
   "genres": [
     "Action",
+    "Detective",
     "Drama",
     "Mystery",
-    "Supernatural",
-    "Magic",
-    "Police",
-    "Earth",
-    "Science Fiction",
-    "Japan",
-    "Asia",
-    "Contemporary Fantasy",
-    "Fantasy",
-    "Special Squads",
-    "Detective",
-    "Coming Of Age",
-    "Cops"
+    "Supernatural"
   ],
   "studios": [
     "Sunrise"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Visual",
+    "Bandai Entertainment"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/poster_images/4/original.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/10/19969l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7-hjjlCe3yO7lO.jpg",
     "color": "#e4935d"
   },
   "trailer": null,
-  "synopsis": "Witches are individuals with special powers like ESP, telekinesis, mind control, etc. (not the typical hogwart and newt potions). Robin, a 15-year-old craft user, arrives from Italy to Japan to work for an organization named STN Japan Division (STN-J) as a replacement for one of STN-J's witch hunters who was recently killed. Unlike other divisions of STN, STN-J tries to capture the witches alive in order to learn why and how they became witches in the first place.\n(Source: ANN)",
+  "synopsis": "Though hidden away from the general public, Witches—those with supernatural powers—have always existed in human societies. Neither numerous nor inherently evil, Witches are nonetheless capable of creating disorder by misusing their powers for criminal means. The task of solving supernatural crimes falls outside of the jurisdiction of normal authorities and is instead handled by the Solomon organization.\n\nHaving finished her training in Italy, Robin Sena transfers to Solomon's local Japanese branch, STNJ. Possessing powerful pyrokinetic abilities, she is herself a Witch, putting her at odds with STNJ's methods of dealing with rogue Witches. In particular, Robin opposes the use of an elixir called Orbo, which can weaken or even neutralize a Witch's powers. If Robin wants to find her place within the organization, she must find a way to navigate the internal politics of Solomon while also handling the threat of hostile Witches—but both seem to be dangerous for very different reasons.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
@@ -626,15 +622,15 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-21T13:57:21.389Z",
+    "lastFetched": "2026-11-21T13:46:10.081Z",
     "sourcesUsed": [
-      "kitsu",
+      "mal",
       "anilist",
       "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "jikan"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

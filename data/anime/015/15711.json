@@ -3,7 +3,7 @@
   "idMal": 15711,
   "mappings": {
     "mal": 15711,
-    "anilist": 15711,
+    "anilist": null,
     "anidb": null,
     "kitsu": 7296,
     "simkl": null,
@@ -33,31 +33,26 @@
     "from": "2012-09-29T00:00:00+00:00",
     "to": "2013-01-02T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2012,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.16,
+    "malScore": 7.17,
     "anilistScore": null,
-    "kitsuRating": 7.2
+    "kitsuRating": null
   },
   "genres": [
     "Comedy",
+    "Otaku Culture",
     "School",
-    "School Life"
+    "Shounen"
   ],
   "studios": [
     "J.C.Staff"
   ],
-  "producers": [
-    "NHK"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/10/60857l.jpg",
     "banner": null,
@@ -66,17 +61,53 @@
   "trailer": null,
   "synopsis": "Summary of the previous two seasons of Bakuman.",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-27T15:17:46.712Z",
+    "lastFetched": "2026-11-21T13:46:30.318Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist"
+      "anilist (not in ID mappings)",
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
     ],
     "dataVersion": 1
   }

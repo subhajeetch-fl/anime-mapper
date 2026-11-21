@@ -3,7 +3,7 @@
   "idMal": 60214,
   "mappings": {
     "mal": 60214,
-    "anilist": null,
+    "anilist": 163790,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -18,15 +18,17 @@
     "notify": null
   },
   "title": {
-    "romaji": "Isekai Kenou Seizon-ki",
+    "romaji": "Igye Geomwang Saengjongi",
     "english": null,
-    "native": "異世界剣王生存記",
+    "native": "이계 검왕 생존기",
     "synonyms": [
+      "Igye Geomwang Saengjongi",
+      "이계 검왕 생존기",
       "Latna Saga: Survival of a Sword King",
       "Survival Story of a Sword King in a Fantasy World"
     ]
   },
-  "type": null,
+  "type": "unknown",
   "source": "Web manga",
   "status": "Not yet aired",
   "airing": false,
@@ -38,11 +40,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -53,15 +51,16 @@
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Isekai",
+    "Comedy"
   ],
-  "studios": [],
-  "producers": [
-    "Studio Pierrot",
+  "studios": [
     "Red Dog Culture House"
   ],
+  "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1064/146315l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1064/146315l.webp",
     "banner": null,
     "color": null
   },
@@ -70,17 +69,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:00:25.131Z",
+    "lastFetched": "2026-11-21T14:11:00.216Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

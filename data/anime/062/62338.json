@@ -32,16 +32,12 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2026-01-01T00:00:00+00:00",
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -50,16 +46,17 @@
     "kitsuRating": null
   },
   "genres": [
-    "Sports"
+    "Sports",
+    "Team Sports"
   ],
   "studios": [
     "Heart & Soul Animation"
   ],
   "producers": [
-    "Tencent Video"
+    "LHL Culture"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1501/153409l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1501/153409l.webp",
     "banner": null,
     "color": "#1aa1ff"
   },
@@ -82,12 +79,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:52:43.854Z",
+    "lastFetched": "2026-11-21T14:13:50.400Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

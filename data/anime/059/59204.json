@@ -7,7 +7,7 @@
     "anidb": 18729,
     "kitsu": 49008,
     "simkl": 2505906,
-    "tmdb": null,
+    "tmdb": 303272,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
@@ -19,7 +19,7 @@
   },
   "title": {
     "romaji": "Magic Knight Rayearth (2026)",
-    "english": null,
+    "english": "Magic Knight Rayearth (2026)",
     "native": "魔法騎士レイアース (2026)",
     "synonyms": [
       "Mahou Kishi Rayearth",
@@ -28,10 +28,10 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 23,
   "aired": {
     "from": "2026-10-07T00:00:00+00:00",
     "to": null
@@ -44,18 +44,20 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1791384360
+    "episode": 8,
+    "airingAt": 1795617960
   },
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.18,
+    "anilistScore": 6.8,
     "kitsuRating": null
   },
   "genres": [
     "Adventure",
     "Fantasy",
+    "Isekai",
+    "Shoujo",
     "Mahou Shoujo",
     "Mecha"
   ],
@@ -63,19 +65,21 @@
     "E&H Production"
   ],
   "producers": [
-    "TV Asahi",
     "TMS Entertainment",
     "Kodansha",
-    "TMS Music",
-    "Unlimited Produce by TMS"
+    "TV Asahi"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1232/158887l.jpg",
-    "banner": null,
-    "color": "#fe9328"
+    "poster": "https://cdn.myanimelist.net/images/anime/1478/160268l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178868-l7VyM7j7LRtH.jpg",
+    "color": "#e4a150"
   },
-  "trailer": null,
-  "synopsis": "New anime project for Magic Knight Rayearth to celebrate the anime's 30th anniversary.",
+  "trailer": {
+    "youtubeId": "67GqhfLw3ys",
+    "url": "https://www.youtube.com/watch?v=67GqhfLw3ys",
+    "thumbnail": "https://i.ytimg.com/vi/67GqhfLw3ys/hqdefault.jpg"
+  },
+  "synopsis": "Three high school girls—hot-blooded Hikaru Shidou, haughty Umi Ryuuzaki, and gentle Fuu Hououji—have just met at Tokyo Tower when they hear a call for help that pulls them into another world. They are soon greeted by Guru Clef, a youthful-looking man who informs them that they are the legendary Magic Knights summoned by Princess Emeraude to save this magical land known as Cephiro.\n\nWhile Hikaru finds the prospect exciting, Umi and Fuu simply want to return to their own world. Unfortunately for them, Clef explains that they cannot go home until they have saved Cephiro and banished the monsters plaguing it. In order to do so, they have to rescue Princess Emeraude from the clutches of the powerful Lord Zagato. To stand a chance against him, they must revive mysterious beings called Rune Gods.\n\nAs Clef grants the trio armor and magic, one of Zagato's servants attacks, forcing the guru to send the girls away to the weaponsmith Presea and the rabbit-like guide Mokona, who can further equip them for their journey. Though they have a long way to go, Hikaru, Umi, and Fuu will show that they have what it takes to live up to their titles as Magic Knights and bring salvation to Cephiro.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 435,
@@ -91,17 +95,213 @@
       "relationType": "ALTERNATIVE"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-07",
+      "title": {
+        "en": "From Another World",
+        "romaji": "Isekai yori",
+        "ja": "異世界より"
+      },
+      "tvdbShowId": 452013,
+      "tvdbId": 10651037,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10651037/screencap/6ac0d5dbd38d4.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-14",
+      "title": {
+        "en": "The Legend Begins",
+        "romaji": "Densetsu no Hajimari",
+        "ja": "伝説の始まり"
+      },
+      "tvdbShowId": 452013,
+      "tvdbId": 12023499,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023499/screencap/6aca078109306.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-21",
+      "title": {
+        "en": "All in the Same Boat",
+        "romaji": "Unmei Kyoudoutai",
+        "ja": "運命共同体"
+      },
+      "tvdbShowId": 452013,
+      "tvdbId": 12023500,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023500/screencap/6ad33d020810a.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-28",
+      "title": {
+        "en": "Our Battle",
+        "romaji": "Watashitachi no Tatakai",
+        "ja": "私たちの戦い"
+      },
+      "tvdbShowId": 452013,
+      "tvdbId": 12023501,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023501/screencap/6adc768c60e3e.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-04",
+      "title": {
+        "en": "One-of-a-Kind Weapons",
+        "romaji": "Kono Yo de Hitotsu no Buki",
+        "ja": "この世で一つの武器"
+      },
+      "tvdbShowId": 452013,
+      "tvdbId": 12023502,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023502/screencap/6ae5b3126d275.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-11",
+      "title": {
+        "en": "The Rune Gods",
+        "romaji": "Mashin",
+        "ja": "魔神"
+      },
+      "tvdbShowId": 452013,
+      "tvdbId": 12023503,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023503/screencap/6aeee976b9641.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-18",
+      "title": {
+        "en": null,
+        "romaji": "Cephiro yori Taisetsu na Mono",
+        "ja": "セフィーロより大切なもの"
+      },
+      "tvdbShowId": 452013,
+      "tvdbId": 12023504,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023504/screencap/6af8283ad63d4.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-25",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 452013,
+      "tvdbId": 12023505,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023505/screencap/6b01652c9da0d.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-12-02",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 452013,
+      "tvdbId": 12023506,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 23,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-09",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 452013,
+      "tvdbId": 12023507,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 23,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-16",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 452013,
+      "tvdbId": 12023508,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 23,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-23",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 452013,
+      "tvdbId": 12023509,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 23,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-06T14:31:44.222Z",
+    "lastFetched": "2026-11-21T14:06:05.048Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

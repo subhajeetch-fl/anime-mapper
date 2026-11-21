@@ -28,7 +28,7 @@
       "Revue Starlight (Shinsaku Animation)"
     ]
   },
-  "type": null,
+  "type": "unknown",
   "source": "Original",
   "status": "Not yet aired",
   "airing": false,
@@ -40,11 +40,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -62,7 +58,11 @@
     "banner": null,
     "color": null
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "7M6YUlbkA0E",
+    "url": "https://www.youtube.com/watch?v=7M6YUlbkA0E",
+    "thumbnail": "https://i.ytimg.com/vi/7M6YUlbkA0E/hqdefault.jpg"
+  },
   "synopsis": "A new anime sequel for the Starlight Project series.",
   "sequence": [
     {
@@ -94,12 +94,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T06:53:11.278Z",
+    "lastFetched": "2026-11-21T14:18:38.667Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

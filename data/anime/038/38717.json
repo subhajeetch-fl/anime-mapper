@@ -38,11 +38,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -52,9 +48,11 @@
   },
   "genres": [
     "Drama",
+    "Mecha",
+    "Military",
     "Sci-Fi",
-    "Action",
-    "Mecha"
+    "Space",
+    "Action"
   ],
   "studios": [
     "Sunrise"
@@ -66,7 +64,7 @@
     "color": null
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "Third movie in the Hathaway trilogy celebrating the Gundam franchise's 40th anniversary.",
   "sequence": [
     {
       "malId": 38716,
@@ -84,12 +82,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-28T22:57:18.782Z",
+    "lastFetched": "2026-11-21T13:47:10.732Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

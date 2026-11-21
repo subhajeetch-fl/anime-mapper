@@ -19,7 +19,7 @@
   },
   "title": {
     "romaji": "Saezuru Tori wa Habatakanai: The storm breaks",
-    "english": null,
+    "english": "Twittering Birds Never Fly: The Storm Breaks",
     "native": "囀る鳥は羽ばたかない The storm breaks",
     "synonyms": [
       "Twittering Birds Never Fly",
@@ -38,11 +38,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "R+ - Mild Nudity",
   "score": {
@@ -54,6 +50,7 @@
     "Boys Love",
     "Drama",
     "Erotica",
+    "Organized Crime",
     "Romance",
     "Yaoi",
     "Crime",
@@ -64,7 +61,7 @@
     "GRIZZLY"
   ],
   "producers": [
-    "Blue Lynx"
+    "BLUE LYNX"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1941/106062l.jpg",
@@ -88,17 +85,36 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-06T14:26:34.401Z",
+    "lastFetched": "2026-11-21T13:48:21.135Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

@@ -14,7 +14,7 @@
     "shikimori": 62406,
     "livechart": null,
     "animeplanet": null,
-    "anisearch": null,
+    "anisearch": 20921,
     "notify": null
   },
   "title": {
@@ -35,16 +35,12 @@
   },
   "season": "fall",
   "year": 2025,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 7.25,
-    "anilistScore": 6.6,
+    "malScore": 7.28,
+    "anilistScore": 6.9,
     "kitsuRating": null
   },
   "genres": [
@@ -67,15 +63,17 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-10T13:12:12.763Z",
+    "lastFetched": "2026-11-21T14:13:59.402Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

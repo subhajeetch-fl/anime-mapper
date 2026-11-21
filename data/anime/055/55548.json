@@ -27,29 +27,22 @@
   },
   "type": "OVA",
   "source": "Original",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": 3,
-  "episodeLength": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 4,
+  "episodeLength": 23,
   "aired": {
     "from": "2023-07-28T00:00:00+00:00",
-    "to": "2026-07-31T00:00:00+00:00"
+    "to": "2026-10-30T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2023,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
-  "nextAiringEpisode": {
-    "episode": 3,
-    "airingAt": 1785423600
-  },
+  "broadcast": null,
+  "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 6.2,
-    "anilistScore": 5.7,
+    "malScore": 6.16,
+    "anilistScore": 5.9,
     "kitsuRating": null
   },
   "genres": [
@@ -69,15 +62,16 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-07T12:39:47.861Z",
+    "lastFetched": "2026-11-21T13:56:42.948Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

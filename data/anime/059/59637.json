@@ -40,11 +40,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
@@ -62,27 +58,32 @@
     "Supernatural"
   ],
   "studios": [
+    "D.ROCK-ART ",
     "D.ROCK-ART"
   ],
   "producers": [
-    "Tencent Video"
+    "Tencent Penguin Pictures"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1652/158637l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1652/158637l.webp",
     "banner": null,
     "color": "#e43535"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "iNb0dE5Oqw4",
+    "url": "https://www.youtube.com/watch?v=iNb0dE5Oqw4",
+    "thumbnail": "https://i.ytimg.com/vi/iNb0dE5Oqw4/hqdefault.jpg"
+  },
   "synopsis": "The bizarre laws of Heaven, the extraordinary immortals and Buddhas—are they real? Or are they fake? Lost in confusion, Li Huowang couldn't tell.\n\n(Source: Tencent, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T20:14:34.309Z",
+    "lastFetched": "2026-11-21T14:08:38.173Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

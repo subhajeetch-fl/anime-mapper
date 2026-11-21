@@ -7,7 +7,7 @@
     "anidb": 19621,
     "kitsu": 50208,
     "simkl": 2890902,
-    "tmdb": null,
+    "tmdb": 276288,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
@@ -25,41 +25,52 @@
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 13,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-04T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Sundays",
+    "time": "23:45",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795358700
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.85,
+    "anilistScore": 6.1,
     "kitsuRating": null
   },
   "genres": [
     "Action",
-    "Drama"
+    "Drama",
+    "Organized Crime"
   ],
   "studios": [
     "Bridge",
     "Aisle"
   ],
-  "producers": [],
+  "producers": [
+    "TV Tokyo",
+    "DMM.com",
+    "Shogakukan",
+    "Good Smile Company",
+    "Dentsu",
+    "Bridge"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1990/155811l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1903/159928l.jpg",
     "banner": null,
-    "color": "#fe5078"
+    "color": "#e45d78"
   },
   "trailer": null,
   "synopsis": "Second season of Hotel Inhumans.",
@@ -68,7 +79,7 @@
       "malId": 60260,
       "title": {
         "romaji": "Hotel Inhumans",
-        "english": "Hotel Inhumans",
+        "english": "HOTEL INHUMANS",
         "native": "ホテル・インヒューマンズ"
       },
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184034-gjIi5TIHJpZv.jpg",
@@ -78,17 +89,154 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-04",
+      "title": {
+        "en": "Piano Lesson 1"
+      },
+      "tvdbShowId": 456463,
+      "tvdbId": 11365599,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11365599/screencap/6ac1802f74301.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-11",
+      "title": {
+        "en": "Piano Lesson 2"
+      },
+      "tvdbShowId": 456463,
+      "tvdbId": 12018430,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018430/screencap/6acaed25dc103.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-18",
+      "title": {
+        "en": "A Sweet Job 1"
+      },
+      "tvdbShowId": 456463,
+      "tvdbId": 12018431,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018431/screencap/6ad4cf83672ab.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-25",
+      "title": {
+        "en": "A Sweet Job 2, First Guest"
+      },
+      "tvdbShowId": 456463,
+      "tvdbId": 12018432,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018432/screencap/6add609f4f61e.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-01",
+      "title": {
+        "en": "Follow-up"
+      },
+      "tvdbShowId": 456463,
+      "tvdbId": 12018433,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018433/screencap/6ae54fea324b7.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-08",
+      "title": {
+        "en": "Don`t Cry, Baby"
+      },
+      "tvdbShowId": 456463,
+      "tvdbId": 12018434,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018434/screencap/6aefde8ed6c86.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-15",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 456463,
+      "tvdbId": 12018435,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018435/screencap/6af7a3342b21c.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-22",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 456463,
+      "tvdbId": 12018436,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018436/screencap/6b00941b22113.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-11-29",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 456463,
+      "tvdbId": 12018437,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-02T07:58:21.441Z",
+    "lastFetched": "2026-11-21T14:14:27.465Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

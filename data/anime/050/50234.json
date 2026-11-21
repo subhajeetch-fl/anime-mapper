@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -61,17 +57,21 @@
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/138563-lBQ4w6kuqRZ5.jpg",
     "color": "#e49328"
   },
-  "trailer": null,
-  "synopsis": null,
+  "trailer": {
+    "youtubeId": "QSBS3BvZV6c",
+    "url": "https://www.youtube.com/watch?v=QSBS3BvZV6c",
+    "thumbnail": "https://i.ytimg.com/vi/QSBS3BvZV6c/hqdefault.jpg"
+  },
+  "synopsis": "Adapted from the picture book of the same name.",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T10:13:08.748Z",
+    "lastFetched": "2026-11-21T13:51:46.399Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

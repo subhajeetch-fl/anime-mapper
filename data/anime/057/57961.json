@@ -24,26 +24,23 @@
     "synonyms": [
       "Liberated from Paradise: Resonance of the Heart",
       "Rakuen Tsuihou: Liberated from Paradise",
-      "Rakuen Tsuihou: Expelled From Paradise - Kokoro no Resonance"
+      "Rakuen Tsuihou: Expelled From Paradise - Kokoro no Resonance",
+      "Expelled from Paradise: Resonance"
     ]
   },
   "type": "Movie",
   "source": "Original",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 128,
   "aired": {
     "from": "2026-11-13T00:00:00+00:00",
-    "to": null
+    "to": "2026-11-13T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -52,23 +49,28 @@
     "kitsuRating": null
   },
   "genres": [
+    "Mecha",
     "Sci-Fi",
     "Action",
-    "Mecha",
     "Science Fiction"
   ],
   "studios": [
     "Toei Animation"
   ],
   "producers": [
-    "Toei Animation"
+    "Nitroplus",
+    "Aniplex"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1188/153747l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1987/160533l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/157330-aj6Wx9iSvuaV.jpg",
     "color": "#00f1ae"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "gdqs6y-6R3g",
+    "url": "https://www.youtube.com/watch?v=gdqs6y-6R3g",
+    "thumbnail": "https://i.ytimg.com/vi/gdqs6y-6R3g/hqdefault.jpg"
+  },
   "synopsis": "Sequel to Rakuen Tsuihou.",
   "sequence": [
     {
@@ -88,7 +90,7 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "0m",
+      "length": 0,
       "airDate": "2026-11-13",
       "title": {
         "en": "Complete Movie"
@@ -103,12 +105,12 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-23T12:39:08.452Z",
+    "lastFetched": "2026-11-21T14:01:38.620Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

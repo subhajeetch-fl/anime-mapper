@@ -30,18 +30,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 15,
-  "episodeLength": null,
+  "episodeLength": 1,
   "aired": {
     "from": "2024-03-02T00:00:00+00:00",
-    "to": null
+    "to": "2024-09-29T00:00:00+00:00"
   },
   "season": "winter",
   "year": 2024,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -50,6 +46,9 @@
     "kitsuRating": null
   },
   "genres": [
+    "Anthropomorphic",
+    "Kids",
+    "Music",
     "Comedy"
   ],
   "studios": [
@@ -63,17 +62,21 @@
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175513-JY07kswtCFpn.jpg",
     "color": "#e4c935"
   },
-  "trailer": null,
-  "synopsis": null,
+  "trailer": {
+    "youtubeId": "tbMp5NkayH0",
+    "url": "https://www.youtube.com/watch?v=tbMp5NkayH0",
+    "thumbnail": "https://i.ytimg.com/vi/tbMp5NkayH0/hqdefault.jpg"
+  },
+  "synopsis": "Satoshi Iriyama's Panda Taisou picture books are being adapted into a 3D CG animation series titled Panda Narikiri Taisou.\n\n\n\n(Source: Anime News Network)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T19:52:09.144Z",
+    "lastFetched": "2026-11-21T14:04:11.665Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

@@ -30,23 +30,19 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 20,
   "aired": {
     "from": "2025-11-28T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2025,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 6.34,
-    "anilistScore": 5.7,
+    "malScore": 6.39,
+    "anilistScore": 5.9,
     "kitsuRating": null
   },
   "genres": [
@@ -64,16 +60,16 @@
     "color": "#ffc9bb"
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "Based on the CG collection by Santa Tsuji (津路参汰).",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-08T21:46:00.637Z",
+    "lastFetched": "2026-11-21T14:13:55.367Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

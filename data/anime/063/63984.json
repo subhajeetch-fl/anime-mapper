@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -53,7 +49,8 @@
     "Action",
     "Adventure",
     "Fantasy",
-    "Psychological"
+    "Psychological",
+    "Urban Fantasy"
   ],
   "studios": [
     "Sparkly Key Animation Studio",
@@ -72,12 +69,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:05:34.502Z",
+    "lastFetched": "2026-11-21T14:21:11.457Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

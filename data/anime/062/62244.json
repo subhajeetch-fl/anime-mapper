@@ -32,16 +32,12 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2026-01-01T00:00:00+00:00",
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -50,22 +46,26 @@
     "kitsuRating": null
   },
   "genres": [
-    "Action"
+    "Action",
+    "Video Game"
   ],
   "studios": [
     "Lingsanwu Animation"
   ],
   "producers": [
     "Tencent Animation & Comics",
-    "Tencent Video",
-    "China Literature Limited"
+    "China Literature"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1861/151430l.jpg",
     "banner": null,
     "color": "#43aef1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "RJIClvJ6ynY",
+    "url": "https://www.youtube.com/watch?v=RJIClvJ6ynY",
+    "thumbnail": "https://i.ytimg.com/vi/RJIClvJ6ynY/hqdefault.jpg"
+  },
   "synopsis": "Fourth season of Quanzhi Gaoshou.",
   "sequence": [
     {
@@ -84,12 +84,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T04:33:26.959Z",
+    "lastFetched": "2026-11-21T14:13:41.667Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

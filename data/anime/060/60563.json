@@ -31,18 +31,14 @@
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 20,
   "aired": {
     "from": null,
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -53,6 +49,7 @@
   "genres": [
     "Action",
     "Adventure",
+    "Isekai",
     "Mystery",
     "Sci-Fi"
   ],
@@ -72,15 +69,16 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T14:33:39.117Z",
+    "lastFetched": "2026-11-21T14:11:39.710Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

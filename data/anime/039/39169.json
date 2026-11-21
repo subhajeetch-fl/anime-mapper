@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -49,31 +45,34 @@
     "anilistScore": null,
     "kitsuRating": null
   },
-  "genres": [],
+  "genres": [
+    "CGDCT",
+    "Military",
+    "School"
+  ],
   "studios": [
     "Actas"
   ],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "poster": null,
     "banner": null,
     "color": null
   },
   "trailer": null,
-  "synopsis": "The sixth and final film in the six-part Girls &amp; Panzer: Saishuushou film series.",
+  "synopsis": "The sixth and final film in the six-part Girls & Panzer: Saishuushou film series.",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T08:52:38.542Z",
+    "lastFetched": "2026-11-21T13:47:45.996Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

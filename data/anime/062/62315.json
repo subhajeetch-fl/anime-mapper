@@ -28,23 +28,19 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 20,
   "aired": {
     "from": "2025-10-24T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2025,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 7.46,
-    "anilistScore": 7.2,
+    "malScore": 7.48,
+    "anilistScore": 7.4,
     "kitsuRating": null
   },
   "genres": [
@@ -57,24 +53,26 @@
     "Pink Pineapple"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1578/151607l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1578/151607l.webp",
     "banner": null,
     "color": "#5093e4"
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "They say that ejaculating after three days of abstinence is like ascending to heaven! Therefore, the elegant maid Reika not only takes care of the daily needs of her master Reiji, but also controls his abstinence. And now comes the morning of the third day. What kind of extraordinary service will Reika provide on the promised third day!?",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-04T21:44:32.137Z",
+    "lastFetched": "2026-11-21T14:13:46.214Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

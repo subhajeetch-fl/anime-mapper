@@ -24,22 +24,18 @@
     "synonyms": []
   },
   "type": "ONA",
-  "source": "Unknown",
+  "source": null,
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 24,
-  "episodeLength": null,
+  "episodeLength": 6,
   "aired": {
     "from": "2025-06-06T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "spring",
+  "year": 2025,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -62,16 +58,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T14:15:36.987Z",
+    "lastFetched": "2026-11-21T14:13:10.541Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

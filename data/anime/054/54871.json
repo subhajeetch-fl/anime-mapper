@@ -22,8 +22,7 @@
     "english": null,
     "native": "新ニッポンヒストリー",
     "synonyms": [
-      "Shin Nippon History: Minna ga Shiranai",
-      "Atarashii Nihon no Rekishi."
+      "Shin Nippon History: Minna ga Shiranai, Atarashii Nihon no Rekishi."
     ]
   },
   "type": "TV",
@@ -31,7 +30,7 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 23,
   "aired": {
     "from": "2020-01-06T00:00:00+00:00",
     "to": null
@@ -51,7 +50,8 @@
     "kitsuRating": null
   },
   "genres": [
-    "Comedy"
+    "Comedy",
+    "Historical"
   ],
   "studios": [],
   "producers": [],
@@ -65,16 +65,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T15:04:11.116Z",
+    "lastFetched": "2026-11-21T13:55:26.504Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

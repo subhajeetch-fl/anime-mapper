@@ -38,11 +38,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -52,19 +48,27 @@
   },
   "genres": [
     "Comedy",
-    "Sports"
+    "School",
+    "Sports",
+    "Team Sports"
   ],
   "studios": [
     "Reiki Eyes Animation",
     "Reike Eyes Animation"
   ],
-  "producers": [],
+  "producers": [
+    "bilibili"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1244/130870l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1244/130870l.webp",
     "banner": null,
     "color": "#43aef1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "ZtFBmPZVMmo",
+    "url": "https://www.youtube.com/watch?v=ZtFBmPZVMmo",
+    "thumbnail": "https://i.ytimg.com/vi/ZtFBmPZVMmo/hqdefault.jpg"
+  },
   "synopsis": null,
   "sequence": [
     {
@@ -83,12 +87,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T08:16:52.576Z",
+    "lastFetched": "2026-11-21T13:51:13.934Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

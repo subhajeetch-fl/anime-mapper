@@ -32,18 +32,14 @@
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 90,
   "aired": {
     "from": null,
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -63,17 +59,21 @@
     "banner": null,
     "color": "#0d9378"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "zWcbA1mx7N0",
+    "url": "https://www.youtube.com/watch?v=zWcbA1mx7N0",
+    "thumbnail": "https://i.ytimg.com/vi/zWcbA1mx7N0/hqdefault.jpg"
+  },
   "synopsis": null,
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-29T12:10:38.515Z",
+    "lastFetched": "2026-11-21T13:48:56.712Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

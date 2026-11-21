@@ -28,26 +28,19 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2023-04-28T00:00:00+00:00",
     "to": null
   },
   "season": "spring",
   "year": 2023,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
-  "nextAiringEpisode": {
-    "episode": 4,
-    "airingAt": 1787842800
-  },
+  "broadcast": null,
+  "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
     "malScore": 5.97,
-    "anilistScore": 5.4,
+    "anilistScore": 5.5,
     "kitsuRating": null
   },
   "genres": [
@@ -67,12 +60,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-07T12:38:29.207Z",
+    "lastFetched": "2026-11-21T13:54:55.825Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

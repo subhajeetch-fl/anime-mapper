@@ -7,7 +7,7 @@
     "anidb": 19777,
     "kitsu": 50404,
     "simkl": 2970782,
-    "tmdb": null,
+    "tmdb": 280042,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
@@ -21,52 +21,65 @@
     "romaji": "Yasei no Last Boss ga Arawareta! 2nd Season",
     "english": "A Wild Last Boss Appeared! Season 2",
     "native": "野生のラスボスが現れた！ 第2期",
-    "synonyms": [
-      "A Wild Last Boss Appeared! Season 2"
-    ]
+    "synonyms": []
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
-    "from": null,
+    "from": "2026-10-03T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Saturdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 10,
+    "airingAt": 1795872600
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.49,
+    "anilistScore": 7.4,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Isekai"
   ],
   "studios": [
     "WAO World"
   ],
   "producers": [
-    "Tohokushinsha Film Corporation",
-    "WOWMAX"
+    "NBCUniversal Entertainment Japan",
+    "Sun Electronics",
+    "Touhouku Shinsha",
+    "Earth Star Entertainment",
+    "Kansai TV",
+    "BS Asahi",
+    "Bushiroad Move",
+    "KLOCKWORX",
+    "Sorajima Studio"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1617/154508l.jpg",
-    "banner": null,
-    "color": "#f15d93"
+    "poster": "https://cdn.myanimelist.net/images/anime/1689/160128l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204389-PFtzs8KcRzCz.jpg",
+    "color": "#e45dc9"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "LyDMSUR6_Q8",
+    "url": "https://www.youtube.com/watch?v=LyDMSUR6_Q8",
+    "thumbnail": "https://i.ytimg.com/vi/LyDMSUR6_Q8/hqdefault.jpg"
+  },
   "synopsis": "Second season of Yasei no Last Boss ga Arawareta!.",
   "sequence": [
     {
@@ -83,17 +96,215 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-03",
+      "title": {
+        "en": "Mobile Capital Blutgang Has Appeared!",
+        "romaji": "Kidou Outo Blutgang ga Arawareta!",
+        "ja": "機動王都ブルートガングが現れた!"
+      },
+      "tvdbShowId": 453694,
+      "tvdbId": 11516505,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11516505/screencap/6ab7b14c66648.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-10",
+      "title": {
+        "en": "A Rampant Scorpius Appeared!",
+        "romaji": "Bousou Suru Scorpius ga Arawareta!",
+        "ja": "暴走するスコルピウスが現れた!"
+      },
+      "tvdbShowId": 453694,
+      "tvdbId": 12003745,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12003745/screencap/6ac10c74867a1.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-17",
+      "title": {
+        "en": "A Flying, Handsome Man Appeared!",
+        "romaji": "Soratobu Ikemen ga Arawareta",
+        "ja": "空飛ぶイケメンが現れた!"
+      },
+      "tvdbShowId": 453694,
+      "tvdbId": 12003746,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12003746/screencap/6aca4551a2e5e.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-24",
+      "title": {
+        "en": "The Blacksmith King Mizar Appeared!",
+        "romaji": "Kaji Ou Mizar ga Arawareta!",
+        "ja": "鍛冶王ミザールが現れた!"
+      },
+      "tvdbShowId": 453694,
+      "tvdbId": 12003747,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12003747/screencap/6ad38c8148ca4.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-10-31",
+      "title": {
+        "en": "The Hunting Festival Contestants Have Appeared!",
+        "romaji": "Shuryousai no Sankasha-tachi ga Arawareta!",
+        "ja": "狩猟祭の参加者達が現れた!"
+      },
+      "tvdbShowId": 453694,
+      "tvdbId": 12003748,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12003748/screencap/6adcbc66b2886.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-07",
+      "title": {
+        "en": "The Twelve Heavenly Star, Sagittarius Appeared!",
+        "romaji": "Juuni Seiten Sagittarius ga Arawareta!",
+        "ja": "十二星天サジタリウスが現れた!"
+      },
+      "tvdbShowId": 453694,
+      "tvdbId": 12003749,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12003749/screencap/6ae61554b25b3.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-14",
+      "title": {
+        "en": "The Seven Luminary Mercurius Appeared!",
+        "romaji": "Shichiyou Mercurius ga Arawareta!",
+        "ja": "七曜のメルクリウスが現れた!"
+      },
+      "tvdbShowId": 453694,
+      "tvdbId": 12003750,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12003750/screencap/6aef343e3b2e0.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-21",
+      "title": {
+        "en": null,
+        "romaji": "\"Mamono\" ga Arawareta!",
+        "ja": "『魔物』が現れた!"
+      },
+      "tvdbShowId": 453694,
+      "tvdbId": 12003751,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12003751/screencap/6af869d42a35f.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-11-28",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 453694,
+      "tvdbId": 12003752,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-05",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 453694,
+      "tvdbId": 12003753,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-12",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 453694,
+      "tvdbId": 12003754,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-19",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 453694,
+      "tvdbId": 12003755,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-08-04T22:06:15.632Z",
+    "lastFetched": "2026-11-21T14:17:58.907Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

@@ -4,21 +4,21 @@
   "mappings": {
     "mal": 64466,
     "anilist": 213498,
-    "anidb": null,
+    "anidb": 20127,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 3164232,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64466,
     "livechart": 13687,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "nabe-ni-tama-wo-ukenagara",
+    "anisearch": 21747,
     "notify": null
   },
   "title": {
-    "romaji": "Nabe ni Dangan wo Uke Nagara",
+    "romaji": "Nabe ni Dangan wo Ukenagara",
     "english": "Getting Shots on a Frying Pan",
     "native": "鍋に弾丸を受けながら",
     "synonyms": [
@@ -37,13 +37,9 @@
     "from": "2027-01-01T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "winter",
+  "year": 2027,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -52,29 +48,36 @@
     "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
     "Gourmet",
     "Slice of Life"
   ],
   "studios": [
-    "J.C.STAFF"
+    "J.C.Staff"
   ],
-  "producers": [],
+  "producers": [
+    "Asmik Ace"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1103/158697l.jpg",
     "banner": null,
     "color": "#fec928"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "fmafMZNXeHw",
+    "url": "https://www.youtube.com/watch?v=fmafMZNXeHw",
+    "thumbnail": "https://i.ytimg.com/vi/fmafMZNXeHw/hqdefault.jpg"
+  },
   "synopsis": "Meet Juntaro, a Japanese fishing addict who was born and raised in what is perceived to be one of the roughest parts of Japan. It is through his lens where you can experience various parts of the world, their culture, and of course their food. He particularly loves to visit countries and cities that are also believed to be highly dangerous due to his personal belief that they will absolutely have delicious food. Because this was intended for a Japanese audience, you will also get to witness various worldviews unique to Japan alongside it all. There's just one problem: he has extreme brainrot and views the world through a cute anime girl filter.\n\n(Source: MU)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-31T12:46:25.502Z",
+    "lastFetched": "2026-11-21T14:23:04.280Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

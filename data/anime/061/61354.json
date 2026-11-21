@@ -28,22 +28,18 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 5,
   "aired": {
     "from": "2024-11-22T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "fall",
+  "year": 2024,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.78,
+    "malScore": 6.79,
     "anilistScore": null,
     "kitsuRating": null
   },
@@ -53,9 +49,7 @@
     "Sci-Fi"
   ],
   "studios": [],
-  "producers": [
-    "miHoYoAnime"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1051/148911l.jpg",
     "banner": null,
@@ -64,86 +58,17 @@
   "trailer": null,
   "synopsis": "Animated trailers that are part of the Golden Epic trailers featuring Amphoreus characters for the game Honkai: Star Rail, the animation is unique and is not present in the game.",
   "sequence": [],
-  "episodes": {
-    "1": {
-      "episode": "1",
-      "length": null,
-      "airDate": "2024-11-22T00:00:00+00:00",
-      "title": {
-        "en": "Amphoreus' Saga of Heroes",
-        "romaji": null,
-        "ja": null
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "2": {
-      "episode": "2",
-      "length": null,
-      "airDate": "2025-02-20T00:00:00+00:00",
-      "title": {
-        "en": "The First Dawn of Destiny",
-        "romaji": null,
-        "ja": null
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "3": {
-      "episode": "3",
-      "length": null,
-      "airDate": "2025-04-04T00:00:00+00:00",
-      "title": {
-        "en": "Life Awakens from the Night",
-        "romaji": null,
-        "ja": null
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "4": {
-      "episode": "4",
-      "length": null,
-      "airDate": "2025-10-30T00:00:00+00:00",
-      "title": {
-        "en": "Farewell, Cyrene",
-        "romaji": null,
-        "ja": null
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    }
-  },
+  "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:30:45.440Z",
+    "lastFetched": "2026-11-21T14:12:19.817Z",
     "sourcesUsed": [
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "jikan-episodes (fallback)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

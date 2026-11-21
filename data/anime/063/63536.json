@@ -4,17 +4,17 @@
   "mappings": {
     "mal": 63536,
     "anilist": 208204,
-    "anidb": null,
+    "anidb": 19907,
     "kitsu": null,
-    "simkl": null,
-    "tmdb": null,
+    "simkl": 3029644,
+    "tmdb": 314954,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 63536,
     "livechart": 13531,
     "animeplanet": "mahoutsukai-rose-no-sado-life",
-    "anisearch": null,
+    "anisearch": 21289,
     "notify": null
   },
   "title": {
@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -51,30 +47,30 @@
   },
   "genres": [
     "Slice of Life",
-    "Supernatural"
+    "Supernatural",
+    "Fantasy"
   ],
   "studios": [],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1976/155604l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1976/155604l.webp",
     "banner": null,
-    "color": null
+    "color": "#e4a150"
   },
   "trailer": null,
   "synopsis": "The story begins when Rosé is transported from another world to Japan. Right after arriving, she is attacked by a bird, but she's saved by a local resident named Sana Tsuchiya.\n\nSince Rosé has just arrived and lacks both money and any sense of her surroundings, she ends up moving in with Sana. At first, after watching TV at Sana's house, Rosé assumes she has been transported to Tokyo—but in reality, she is on Sado Island.\n\n(Source: MAL News)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T06:58:04.109Z",
+    "lastFetched": "2026-11-21T14:19:37.014Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -37,16 +37,12 @@
   },
   "season": "fall",
   "year": 2025,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
     "malScore": 6.19,
-    "anilistScore": 5.6,
+    "anilistScore": 6,
     "kitsuRating": null
   },
   "genres": [
@@ -63,19 +59,21 @@
     "color": "#e4ae93"
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "Based on the erotic doujin game by Ishikorodou (イシコロドウ).\n\n\n\nDue to the succubus curse, the \"Succubus Disease\" has spread. This disease causes people to lose control of their lust and transform into monster. The only way to confront the Disease is let the infected cum again and again! The main character, Aria, was attacked by an \"Succubus Infected\" in her childhood but was saved in the nick of time by a former Exorcist Nun. Ten years later, determined to rescue people, the grown-up Aria decides to become the Exorcist Nun, stepping forward to confront the spreading Succubus Disease.\n\n\n\n(Source: Steam)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:52:04.405Z",
+    "lastFetched": "2026-11-21T14:13:44.030Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

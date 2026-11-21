@@ -29,21 +29,17 @@
   },
   "type": "Movie",
   "source": "Original",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": 2,
-  "episodeLength": null,
+  "episodeLength": 100,
   "aired": {
     "from": "2026-11-20T00:00:00+00:00",
-    "to": null
+    "to": "2027-01-01T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -53,20 +49,29 @@
   },
   "genres": [
     "Drama",
+    "Mecha",
+    "Military",
     "Sci-Fi",
-    "Mecha"
+    "Space",
+    "Science Fiction"
   ],
   "studios": [
     "Sunrise",
     "Production I.G"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Namco Filmworks"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1557/157677l.jpg",
-    "banner": null,
-    "color": "#865028"
+    "poster": "https://cdn.myanimelist.net/images/anime/1974/160684l.jpg",
+    "banner": "https://media.kitsu.app/anime/50478/cover_image/7b2c61984d829863ef1ca49678791e23.jpeg",
+    "color": null
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "7NH-89IIBZ4",
+    "url": "https://www.youtube.com/watch?v=7NH-89IIBZ4",
+    "thumbnail": "https://i.ytimg.com/vi/7NH-89IIBZ4/hqdefault.jpg"
+  },
   "synopsis": "New Soukou Kihei Votoms anime, part of the Sunrise 50th Anniversary project.",
   "sequence": [
     {
@@ -81,16 +86,60 @@
       "episodes": 52,
       "seasonYear": 1983,
       "relationType": "PARENT"
+    },
+    {
+      "malId": null,
+      "title": {
+        "romaji": "Soukou Kihei Votoms: Haiiro no Hexe 2",
+        "english": null,
+        "native": "装甲騎兵ボトムズ 灰色の魔女 第2作"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx220101-hJc3K0VNp6N2.jpg",
+      "format": "MOVIE",
+      "episodes": null,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 0,
+      "airDate": "2026-11-20",
+      "title": {
+        "en": "Movie 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": 0,
+      "airDate": null,
+      "title": {
+        "en": "Movie 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-03T06:53:39.962Z",
+    "lastFetched": "2026-11-21T14:18:40.976Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

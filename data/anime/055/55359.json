@@ -30,18 +30,14 @@
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 137,
   "aired": {
     "from": "2024-12-31",
     "to": "2024-12-31"
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG",
   "score": {
@@ -57,24 +53,47 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1755/135983l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1755/135983l.webp",
     "banner": null,
     "color": null
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "UG6xuAAKvmY",
+    "url": "https://www.youtube.com/watch?v=UG6xuAAKvmY",
+    "thumbnail": "https://i.ytimg.com/vi/UG6xuAAKvmY/hqdefault.jpg"
+  },
   "synopsis": "New film from the director of Kono Sekai no Katasumi ni, Sunao Katabuchi. The setting takes place in the Heian period.",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-30T15:12:30.252Z",
+    "lastFetched": "2026-11-21T13:56:12.584Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

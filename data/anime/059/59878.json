@@ -24,22 +24,18 @@
     "synonyms": []
   },
   "type": "Movie",
-  "source": "Book",
-  "status": "Not yet aired",
+  "source": "Novel",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 104,
   "aired": {
-    "from": null,
-    "to": null
+    "from": "2026-09-09T00:00:00+00:00",
+    "to": "2026-09-09T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -56,26 +52,51 @@
   "studios": [
     "Studio Meditation With a Pencil"
   ],
-  "producers": [],
+  "producers": [
+    "Studio MWP"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1151/150084l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183418-JEqR1OmEo4vC.jpg",
     "color": "#35a1e4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "NYm03K5kvhE",
+    "url": "https://www.youtube.com/watch?v=NYm03K5kvhE",
+    "thumbnail": "https://i.ytimg.com/vi/NYm03K5kvhE/hqdefault.jpg"
+  },
   "synopsis": "A boy called Gon was on the verge of death, when suddenly gills started to grow and he could breathe again. Kang Ha and his grandpa rescue Gon and together they become an odd family. This film explores life's paradoxes, blessings and curses. It will encourage you to think about your own \"gills\" to help you get through your life.\n\n(Source: Annecy Festival)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "104m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 104,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-06T14:32:17.830Z",
+    "lastFetched": "2026-11-21T14:10:26.545Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

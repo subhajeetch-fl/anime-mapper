@@ -4,26 +4,24 @@
   "mappings": {
     "mal": 64059,
     "anilist": 211495,
-    "anidb": null,
+    "anidb": 20026,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 3098034,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64059,
     "livechart": 13616,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "berserk-of-gluttony-season-2",
+    "anisearch": 21504,
     "notify": null
   },
   "title": {
     "romaji": "Boushoku no Berserk 2nd Season",
     "english": "Berserk of Gluttony Season 2",
     "native": "暴食のベルセルク第2期",
-    "synonyms": [
-      "Berserk of Gluttony Season 2"
-    ]
+    "synonyms": []
   },
   "type": "TV",
   "source": "Light novel",
@@ -32,16 +30,12 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-04-01T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "spring",
+  "year": 2027,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
@@ -56,14 +50,22 @@
     "Drama",
     "Romance"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "A.C.G.T."
+  ],
+  "producers": [
+    "Genco"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1578/157088l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1644/160992l.jpg",
     "banner": null,
     "color": "#a1d6e4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "eLtR1zqUWws",
+    "url": "https://www.youtube.com/watch?v=eLtR1zqUWws",
+    "thumbnail": "https://i.ytimg.com/vi/eLtR1zqUWws/hqdefault.jpg"
+  },
   "synopsis": "Second season of Boushoku no Berserk.",
   "sequence": [
     {
@@ -82,12 +84,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-12T11:56:03.637Z",
+    "lastFetched": "2026-11-21T14:21:22.417Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

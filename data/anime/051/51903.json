@@ -42,11 +42,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -67,21 +63,25 @@
     "Youku"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1623/130044l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1623/130044l.webp",
     "banner": null,
     "color": "#e4a15d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "5SYBnwv7mOw",
+    "url": "https://www.youtube.com/watch?v=5SYBnwv7mOw",
+    "thumbnail": "https://i.ytimg.com/vi/5SYBnwv7mOw/hqdefault.jpg"
+  },
   "synopsis": null,
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T10:39:41.017Z",
+    "lastFetched": "2026-11-21T13:53:21.992Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],
