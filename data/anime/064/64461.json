@@ -4,9 +4,9 @@
   "mappings": {
     "mal": 64461,
     "anilist": 213486,
-    "anidb": null,
+    "anidb": 20248,
     "kitsu": 50815,
-    "simkl": null,
+    "simkl": 3206590,
     "tmdb": 139168,
     "tvdb": 439866,
     "trakt": 204577,
@@ -25,29 +25,22 @@
   },
   "type": "ONA",
   "source": "Web manga",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 6,
   "aired": {
     "from": "2026-08-05T00:00:00+00:00",
-    "to": null
+    "to": "2026-10-14T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
-  "nextAiringEpisode": {
-    "episode": 6,
-    "airingAt": 1788314400
-  },
+  "season": "summer",
+  "year": 2026,
+  "broadcast": null,
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.91,
+    "anilistScore": 6.4,
     "kitsuRating": null
   },
   "genres": [
@@ -66,7 +59,11 @@
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213486-I5RpUqCjdvfR.jpg",
     "color": "#43c9f1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "RbHjME7sxEw",
+    "url": "https://www.youtube.com/watch?v=RbHjME7sxEw",
+    "thumbnail": "https://i.ytimg.com/vi/RbHjME7sxEw/hqdefault.jpg"
+  },
   "synopsis": "Sixth season of You Shou Yan.",
   "sequence": [
     {
@@ -83,17 +80,224 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": null,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": null,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": null,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": null,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": null,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": null,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": null,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": null,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T05:44:38.472Z",
+    "lastFetched": "2026-11-21T17:51:25.882Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

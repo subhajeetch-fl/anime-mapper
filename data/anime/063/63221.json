@@ -5,7 +5,7 @@
     "mal": 63221,
     "anilist": 205289,
     "anidb": null,
-    "kitsu": null,
+    "kitsu": 51003,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
@@ -34,15 +34,11 @@
   "episodeLength": null,
   "aired": {
     "from": "2026-12-01T00:00:00+00:00",
-    "to": null
+    "to": "2026-12-01T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -52,20 +48,25 @@
   },
   "genres": [
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Kids"
   ],
   "studios": [
     "Tecarat"
   ],
   "producers": [
-    "Taiyo Kikaku"
+    "Taiyo Kikaku Co."
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1505/154780l.jpg",
     "banner": null,
     "color": "#003586"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "HZWfn56_vms",
+    "url": "https://www.youtube.com/watch?v=HZWfn56_vms",
+    "thumbnail": "https://i.ytimg.com/vi/HZWfn56_vms/hqdefault.jpg"
+  },
   "synopsis": "The boy has grown into a young man, living apart from his mother. Although he returned to his hometown, he is unable to be honest with her. After reuniting with Norman, a mysterious child searching for \"snow flowers\" suddenly appears before them. Norman and the young man venture into the snow-covered forest with the child.\n\n(Source: Official site, translated)",
   "sequence": [
     {
@@ -82,17 +83,36 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-06T22:22:35.037Z",
+    "lastFetched": "2026-11-21T17:43:54.065Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

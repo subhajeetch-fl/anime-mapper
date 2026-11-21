@@ -32,30 +32,26 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 3,
-  "episodeLength": null,
+  "episodeLength": 25,
   "aired": {
     "from": "2026-01-31T00:00:00+00:00",
     "to": null
   },
   "season": "winter",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.2,
-    "anilistScore": 6.4,
+    "malScore": 7.33,
+    "anilistScore": 7,
     "kitsuRating": null
   },
   "genres": [
     "Mystery",
+    "Psychological",
     "Supernatural",
     "Suspense",
-    "Psychological",
     "Thriller"
   ],
   "studios": [
@@ -67,16 +63,20 @@
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207084-QJoOYEulEDz5.jpg",
     "color": "#e45d50"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "Asmti3OS0W0",
+    "url": "https://www.youtube.com/watch?v=Asmti3OS0W0",
+    "thumbnail": "https://i.ytimg.com/vi/Asmti3OS0W0/hqdefault.jpg"
+  },
   "synopsis": "In the distant future, Kagami Village is a suburban mountain village that has been left behind by the highly developed science and technology in urban areas. \"If you're not well behaved, a look-alike will come.\" Higure Akane, a middle school student living in this village where an old legend still remains, was looking forward to being reunited with her older sister Higure Sui, who has been released from the hospital after a year. However, shortly after her sister's release from the hospital, Akane receives a phone call. \"The person in that house is not your older sister.\"\n\n(Source: Official site, translated)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-01-31",
       "title": {
-        "en": "Episode 1"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -86,32 +86,33 @@
       "runtime": null,
       "image": null
     },
-    "T1": {
-      "episode": "T1",
-      "length": "2m",
-      "airDate": "2026-01-16",
+    "2": {
+      "episode": "2",
+      "length": 22,
+      "airDate": "2026-10-15",
       "title": {
-        "en": "Teaser"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
       "seasonNumber": null,
-      "episodeNumber": null,
+      "episodeNumber": 2,
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-07-12T11:52:50.943Z",
+    "lastFetched": "2026-11-21T17:44:57.721Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

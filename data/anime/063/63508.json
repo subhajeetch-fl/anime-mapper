@@ -6,7 +6,7 @@
     "anilist": 208044,
     "anidb": 19896,
     "kitsu": 50793,
-    "simkl": null,
+    "simkl": 3025908,
     "tmdb": 314554,
     "tvdb": 474303,
     "trakt": 316861,
@@ -14,7 +14,7 @@
     "shikimori": 63508,
     "livechart": 13527,
     "animeplanet": "from-overshadowed-to-overpowered-second-reincarnation-of-a-talentless-sage",
-    "anisearch": null,
+    "anisearch": 21287,
     "notify": null
   },
   "title": {
@@ -28,13 +28,13 @@
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": 23,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-02T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-17T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -43,176 +43,265 @@
     "time": "00:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 11,
-    "airingAt": 1788447600
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.7,
+    "malScore": 6.19,
     "anilistScore": 6.2,
-    "kitsuRating": 6.87
+    "kitsuRating": null
   },
   "genres": [
     "Action",
     "Adventure",
     "Fantasy",
-    "Isekai"
+    "Isekai",
+    "Reincarnation"
   ],
   "studios": [
     "EMT Squared"
   ],
   "producers": [
-    "WOWOW",
-    "Square Enix",
-    "KlockWorx",
-    "BS Fuji",
     "ABC Animation",
+    "NBCUniversal Entertainment Japan",
     "D-techno",
+    "Square Enix",
     "arma bianca",
+    "WOWOW",
     "Bit grooove promotion",
-    "jeux d'eau"
+    "BS Fuji",
+    "EMT Squared",
+    "jeux d'eau",
+    "KLOCKWORX"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1319/158376l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/208044-JtlSTlmp5SmP.jpg",
     "color": "#f1d61a"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "QOeItd-RrVs",
+    "url": "https://www.youtube.com/watch?v=QOeItd-RrVs",
+    "thumbnail": "https://i.ytimg.com/vi/QOeItd-RrVs/hqdefault.jpg"
+  },
   "synopsis": "The Sage of Wind, Ephtal is a reincarnated human, coming from modern Earth. Reincarnated in a new world where magic is real, he decides to devote the entirety of his life in the pursuit of magic. Despite his efforts, though, he discovers that he is absolutely talentless in magic, and breathed his last in anguish.\n\nBut it isn't the end for him just yet! He reincarnates once again bearing the same name, Ephtal, 400 years later. Having retained his knowledge and power, he steels his resolve and once again sets his sights for the peak of magic!\n\nHowever, in a surprising turn of events, he discovers that magic has terribly declined. In this era where powerful spells are a rarity, his talentless self is now completely unmatched! From the depths of powerlessness to the peak of power, the talentless but peerless mage's journey to the top starts now!\n\n(Source: Manga UP!, edited)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
-      "airDate": "2026-06-26",
+      "length": 25,
+      "airDate": "2026-07-02",
       "title": {
-        "en": "Prologue"
+        "en": "Prologue",
+        "romaji": "Raijinkou -Prologue-",
+        "ja": "雷神皇 -PROLOGUE-"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474303,
+      "tvdbId": 11628538,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11628538/screencap/6a3d207cc8541.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
-      "airDate": "2026-07-03",
+      "length": 25,
+      "airDate": "2026-07-09",
       "title": {
-        "en": "Lost Technology"
+        "en": "Lost Technology",
+        "romaji": "Mudama no Tensai -Lost Technology-",
+        "ja": "無適の天才 -Lost Technology-"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474303,
+      "tvdbId": 11860855,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860855/screencap/6a464aabe53b7.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
-      "airDate": "2026-07-10",
+      "length": 25,
+      "airDate": "2026-07-16",
       "title": {
-        "en": "Overkill"
+        "en": "Overkill",
+        "romaji": "Gedou -Overkill-",
+        "ja": "外道 -OVERKILL-"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474303,
+      "tvdbId": 11860856,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860856/screencap/6a4f80ad9d0d1.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
-      "airDate": "2026-07-17",
+      "length": 25,
+      "airDate": "2026-07-23",
       "title": {
-        "en": "Seek Freedom"
+        "en": "Seek Freedom",
+        "romaji": "Tabidachi -Seek Freedom-",
+        "ja": "旅立ち -Seek Freedom-"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474303,
+      "tvdbId": 11860857,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860857/screencap/6a58f8a49642a.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
-      "airDate": "2026-07-24",
+      "length": 25,
+      "airDate": "2026-07-30",
       "title": {
-        "en": "Episode 5"
+        "en": "Through Her Eyes",
+        "romaji": "Saikai -Through Her Eyes-",
+        "ja": "再会 -Through Her Eyes-"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474303,
+      "tvdbId": 11860858,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860858/screencap/6a622e97ebd53.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
-      "airDate": "2026-07-31",
+      "length": 25,
+      "airDate": "2026-08-06",
       "title": {
-        "en": "Episode 6"
+        "en": "Dear Eftal",
+        "romaji": "Raijingeki -Dear Ephtal-",
+        "ja": "雷神撃 -Dear Ephtal-"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474303,
+      "tvdbId": 11860859,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860859/screencap/6a6b5c9f03208.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
-      "airDate": "2026-08-07",
+      "length": 25,
+      "airDate": "2026-08-13",
       "title": {
-        "en": "Episode 7"
+        "en": "Master Smile",
+        "romaji": "Shoujo no Omoi -Master Smile-",
+        "ja": "少女の想い -Master Smile-"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474303,
+      "tvdbId": 11869854,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869854/screencap/6a746e9aa8e83.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
-      "airDate": "2026-08-14",
+      "length": 25,
+      "airDate": "2026-08-20",
       "title": {
-        "en": "Episode 8"
+        "en": "No Escape",
+        "romaji": "Shukumei -No Escape-",
+        "ja": "宿命 -No Escape-"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474303,
+      "tvdbId": 11869855,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869855/screencap/6a7dd1922c708.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-27",
+      "title": {
+        "en": "Let Me Pay",
+        "romaji": "Dakkan -Let Me Pay-",
+        "ja": "奪還 -Let Me Pay-"
+      },
+      "tvdbShowId": 474303,
+      "tvdbId": 11869856,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869856/screencap/6a8719232f819.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-03",
+      "title": {
+        "en": "Veiled Truth",
+        "romaji": "Giman -Veiled Truth-",
+        "ja": "欺瞞 -Veiled Truth-"
+      },
+      "tvdbShowId": 474303,
+      "tvdbId": 11869857,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869857/screencap/6a90533e4cb09.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-10",
+      "title": {
+        "en": "False Dawn",
+        "romaji": "Dansa -False Dawn-",
+        "ja": "断鎖 -False Dawn-"
+      },
+      "tvdbShowId": 474303,
+      "tvdbId": 11869858,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869858/screencap/6a998cea312d8.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-17",
+      "title": {
+        "en": "I Am Eftal",
+        "romaji": "Kami o mo Koete -I am Ephtal-",
+        "ja": "神をも超えて -I am Ephtal-"
+      },
+      "tvdbShowId": 474303,
+      "tvdbId": 11869859,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869859/screencap/6aa2abe98c88e.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:50:28.187Z",
+    "lastFetched": "2026-11-21T17:45:29.379Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

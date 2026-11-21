@@ -5,15 +5,15 @@
     "mal": 64326,
     "anilist": 212799,
     "anidb": 20074,
-    "kitsu": null,
-    "simkl": null,
+    "kitsu": 51015,
+    "simkl": 3138482,
     "tmdb": 324326,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64326,
     "livechart": 13653,
-    "animeplanet": null,
+    "animeplanet": "the-seven-knights-of-the-marronnier-kingdom",
     "anisearch": 21585,
     "notify": null
   },
@@ -22,63 +22,258 @@
     "english": "The Seven Knights of the Marronnier Kingdom",
     "native": "マロニエ王国の七人の騎士",
     "synonyms": [
-      "The Seven Knights of the Marronnier Kingdom"
+      "Siedmiu Rycerzy Królestwa Marronnier",
+      "Os Sete Cavaleiros do Reino Marronnier",
+      "Los siete caballeros del Reino Marronnier"
     ]
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 20,
+  "episodeLength": 25,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-03T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Saturdays",
+    "time": "18:25",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 9,
+    "airingAt": 1795857900
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.43,
+    "anilistScore": 6.9,
     "kitsuRating": null
   },
   "genres": [
-    "Comedy",
     "Fantasy",
+    "Josei",
+    "Drama",
     "Romance"
   ],
   "studios": [
     "J.C.Staff"
   ],
   "producers": [
-    "Shogakukan"
+    "NHK",
+    "NHK Enterprises",
+    "Amazon MGM Studios"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1606/158311l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1678/160198l.jpg",
     "banner": null,
-    "color": "#f16b5d"
+    "color": "#e46b5d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "wk26nTxUzPY",
+    "url": "https://www.youtube.com/watch?v=wk26nTxUzPY",
+    "thumbnail": "https://i.ytimg.com/vi/wk26nTxUzPY/hqdefault.jpg"
+  },
   "synopsis": "At the center of a continent made up of eight kingdoms lies the Kingdom of Marronnier. Leading the nation is the female general Baribara, who has seven sons, each with a personality all his own.\n\nSleepy, benevolent, sensitive to heat, sensitive to cold, gifted with animals, proud of his swordsmanship, and always hungry—the brothers possess very different qualities, but they are united by a single goal: \"Someday, we'll rescue a princess in a cool way!\"\n\nBefore long, the brothers set out for the seven neighboring kingdoms as ambassadors. What encounters, trials, and destinies await them in these unfamiliar lands?\n\nSet in a medieval-inspired fantasy world, this tale of romance and adventure begins.\n\n(Source: MAL News)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-03",
+      "title": {
+        "en": null,
+        "ja": "七人の騎士"
+      },
+      "tvdbShowId": 478668,
+      "tvdbId": 11820419,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11820419/screencap/6aba38a903fc8.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-10",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 478668,
+      "tvdbId": 12016287,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016287/screencap/6ac4c3ad0faad.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-17",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 478668,
+      "tvdbId": 12017046,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017046/screencap/6acdf587aabf6.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-24",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 478668,
+      "tvdbId": 12017047,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017047/screencap/6ad73a9c36102.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-10-31",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 478668,
+      "tvdbId": 12017048,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017048/screencap/6ae06d8c308ba.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-07",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 478668,
+      "tvdbId": 12017049,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017049/screencap/6ae9a483714a7.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-14",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 478668,
+      "tvdbId": 12017050,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017050/screencap/6af2df964ed6e.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-21",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 478668,
+      "tvdbId": 12017051,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017051/screencap/6afc1908d54e3.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-11-28",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 478668,
+      "tvdbId": 12017052,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-05",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 478668,
+      "tvdbId": 12017053,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 25,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-12",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 478668,
+      "tvdbId": 12017054,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 25,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-19",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 478668,
+      "tvdbId": 12017055,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 25,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-03T07:10:22.037Z",
+    "lastFetched": "2026-11-21T17:49:56.333Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

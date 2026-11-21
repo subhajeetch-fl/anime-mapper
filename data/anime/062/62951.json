@@ -13,8 +13,8 @@
     "traktType": null,
     "shikimori": 62951,
     "livechart": 13555,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "shouzen",
+    "anisearch": 21335,
     "notify": null
   },
   "title": {
@@ -38,11 +38,7 @@
   },
   "season": "spring",
   "year": 2027,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -53,6 +49,7 @@
   "genres": [
     "Adventure",
     "Fantasy",
+    "Historical",
     "Slice of Life",
     "Supernatural"
   ],
@@ -61,25 +58,28 @@
     "Cannon Code"
   ],
   "producers": [
-    "bilibili",
-    "Aoni Production"
+    "bilibili"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1864/156144l.jpg",
     "banner": null,
     "color": "#5daee4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "HZ_YtbfYBLk",
+    "url": "https://www.youtube.com/watch?v=HZ_YtbfYBLk",
+    "thumbnail": "https://i.ytimg.com/vi/HZ_YtbfYBLk/hqdefault.jpg"
+  },
   "synopsis": "A Taoist priest, while tracking a demon, inadvertently discovered that a little girl in a certain family had been raised by the demon. She had consumed demon cores since childhood, altering her constitution, and the demon, due to a heavenly tribulation, could no longer care for her. The priest took the girl as his disciple, giving her the Taoist name Shang Shan, and the two began their journey through the human world, vanquishing demons and exorcising evil spirits.\n\n(Source: Bilibili, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-08-05T21:59:47.395Z",
+    "lastFetched": "2026-11-21T17:41:20.327Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

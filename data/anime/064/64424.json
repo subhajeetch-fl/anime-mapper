@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -50,6 +46,7 @@
     "kitsuRating": null
   },
   "genres": [
+    "Historical",
     "Supernatural"
   ],
   "studios": [
@@ -67,16 +64,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:12:00.152Z",
+    "lastFetched": "2026-11-21T17:50:39.095Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

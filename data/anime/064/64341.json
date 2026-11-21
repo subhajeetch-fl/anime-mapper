@@ -4,17 +4,17 @@
   "mappings": {
     "mal": 64341,
     "anilist": 212876,
-    "anidb": null,
+    "anidb": 20079,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 3140900,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64341,
-    "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
+    "livechart": 13654,
+    "animeplanet": "fired-but-i-maintain-all-the-software",
+    "anisearch": 21587,
     "notify": null
   },
   "title": {
@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -50,7 +46,9 @@
     "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
     "Comedy",
+    "Workplace",
     "Drama"
   ],
   "studios": [],
@@ -65,12 +63,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-08-01T04:17:50.764Z",
+    "lastFetched": "2026-11-21T17:50:01.496Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

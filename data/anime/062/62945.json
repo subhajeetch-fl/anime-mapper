@@ -4,16 +4,16 @@
   "mappings": {
     "mal": 62945,
     "anilist": 206283,
-    "anidb": null,
+    "anidb": 19264,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 2747926,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 62945,
     "livechart": null,
-    "animeplanet": null,
+    "animeplanet": "di-yi-xulie-2",
     "anisearch": 21535,
     "notify": null
   },
@@ -23,8 +23,7 @@
     "native": "第一序列2",
     "synonyms": [
       "Di Yi Xulie 2nd Season",
-      "第一序列 第二季",
-      "The First Order 2"
+      "第一序列 第二季"
     ]
   },
   "type": "ONA",
@@ -34,17 +33,16 @@
   "episodeCount": 26,
   "episodeLength": null,
   "aired": {
-    "from": "2026-01-01T00:00:00+00:00",
+    "from": "2026-12-17T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+  "season": "fall",
+  "year": 2026,
+  "broadcast": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1797476400
   },
-  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
@@ -62,9 +60,7 @@
     "Bu Keneng de Shijie"
   ],
   "producers": [
-    "Tencent Animation & Comics",
-    "bilibili",
-    "China Literature Limited"
+    "bilibili"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1205/153676l.jpg",
@@ -90,12 +86,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T22:20:28.628Z",
+    "lastFetched": "2026-11-21T17:40:57.755Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

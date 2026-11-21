@@ -4,17 +4,17 @@
   "mappings": {
     "mal": 64556,
     "anilist": 213879,
-    "anidb": null,
+    "anidb": 20171,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 3173590,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64556,
     "livechart": 13724,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "jurassic-shadows",
+    "anisearch": 21843,
     "notify": null
   },
   "title": {
@@ -23,7 +23,7 @@
     "native": "竜化粧の忍",
     "synonyms": []
   },
-  "type": null,
+  "type": "unknown",
   "source": "Original",
   "status": "Not yet aired",
   "airing": false,
@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -62,17 +58,21 @@
     "banner": null,
     "color": "#e45028"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "lhdW7sT5WSs",
+    "url": "https://www.youtube.com/watch?v=lhdW7sT5WSs",
+    "thumbnail": "https://i.ytimg.com/vi/lhdW7sT5WSs/hqdefault.jpg"
+  },
   "synopsis": "Tokyo, 2029. Long believed to have vanished after the asteroid impact that caused their extinction, dinosaurs secretly survived by passing their DNA into humanity through interbreeding. Hidden among ordinary people, they now prey upon humans while living unnoticed within society.\n\nStanding against them is a covert order of ninjas who wield Ryugesho, a special pigment infused with ancient memories. By applying this mysterious pigment, they awaken the powers of dinosaurs within themselves and fight back against the predators threatening humanity.\n\nAs the dinosaurs launch their campaign to wipe out humankind, the ninjas rise to stop them. The battle for the survival of two species begins.\n\n(Source: Official website)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-12T21:31:04.430Z",
+    "lastFetched": "2026-11-21T17:40:06.863Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

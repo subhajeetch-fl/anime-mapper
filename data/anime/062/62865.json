@@ -30,16 +30,12 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-01-01T00:00:00+00:00",
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
@@ -48,11 +44,12 @@
     "kitsuRating": null
   },
   "genres": [
+    "Gore",
     "Horror",
+    "Shounen",
     "Supernatural",
     "Adventure",
     "Violence",
-    "Shounen",
     "Ghost"
   ],
   "studios": [
@@ -83,15 +80,17 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:05:53.563Z",
+    "lastFetched": "2026-11-21T17:40:38.645Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

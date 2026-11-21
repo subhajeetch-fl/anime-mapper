@@ -6,14 +6,14 @@
     "anilist": 213020,
     "anidb": 20084,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 3143062,
     "tmdb": 324862,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64354,
-    "livechart": null,
-    "animeplanet": null,
+    "livechart": 13659,
+    "animeplanet": "juheiso-gata-joshikousei",
     "anisearch": null,
     "notify": null
   },
@@ -22,7 +22,8 @@
     "english": "Heavily Armed High School Girls",
     "native": "重兵装型女子高生",
     "synonyms": [
-      "Heavily Armed High School Girls"
+      "Heavily Armed High School Girls",
+      "JJK"
     ]
   },
   "type": "TV",
@@ -37,11 +38,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -60,17 +57,21 @@
     "banner": null,
     "color": "#f1e41a"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "cd4_L8CMuIc",
+    "url": "https://www.youtube.com/watch?v=cd4_L8CMuIc",
+    "thumbnail": "https://i.ytimg.com/vi/cd4_L8CMuIc/hqdefault.jpg"
+  },
   "synopsis": "As a mysterious girl gazes into the distant sky and a high school girl named Ichi stands still, the story follows what they will see within this devastated world and what kind of tale they will weave.\n\n(Source: MAL News)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-12T11:56:56.178Z",
+    "lastFetched": "2026-11-21T17:50:08.316Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

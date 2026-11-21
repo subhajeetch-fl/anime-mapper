@@ -38,11 +38,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -51,32 +47,39 @@
     "kitsuRating": null
   },
   "genres": [
-    "Drama",
     "Music",
+    "Otaku Culture",
+    "Shounen",
+    "Drama",
     "Romance"
   ],
   "studios": [
     "MAPPA"
   ],
   "producers": [
-    "dugout"
+    "Netflix",
+    "CyberAgent"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1982/158557l.jpg",
     "banner": null,
     "color": "#43a1ff"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "NMSPJoELxw4",
+    "url": "https://www.youtube.com/watch?v=NMSPJoELxw4",
+    "thumbnail": "https://i.ytimg.com/vi/NMSPJoELxw4/hqdefault.jpg"
+  },
   "synopsis": "Tatsuhiko Hirayama's love for drawing began at a young age, and his aspiration was to work in animation someday. But when the young boy is bullied for his art, Tatsuhiko swears to never draw in front of others ever again. Desperate to find something new to fill the void in his heart, he turns to music but eventually becomes jaded by his own mediocrity.\n\nWhile Tatsuhiko is out drinking with his friends, his sob story earns the ire of a drunk woman, who intimidates the young man into reassessing his attitude toward life. He decides to give animation another chance and soon rediscovers his love for the medium, pushing himself to publish a short video. Tatsuhiko is stunned when the video goes viral, even more so when his favorite singer, Nico Kashiwagi, requests a collaboration on her next music video!\n\nExcited to finally meet the artist he has admired for so long, the young man is shocked to discover that Nico is the same bar patron that gave him an earful, though she has no recollection of that drunken night. While initially hesitant of their new partnership, Tatsuhiko slowly learns that there is more to Nico's brutish passion than he realizes.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:12:03.038Z",
+    "lastFetched": "2026-11-21T17:50:39.928Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

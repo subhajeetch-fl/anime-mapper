@@ -13,7 +13,7 @@
     "traktType": "shows",
     "shikimori": 63061,
     "livechart": 13417,
-    "animeplanet": "uchi-no-otouto-domo-ga-sumimasen",
+    "animeplanet": "please-excuse-my-younger-brothers",
     "anisearch": 21096,
     "notify": null
   },
@@ -23,7 +23,8 @@
     "native": "うちの弟どもがすみません",
     "synonyms": [
       "Sorry About My Little Brothers",
-      "Uchioto"
+      "Uchioto",
+      "うち弟"
     ]
   },
   "type": "TV",
@@ -31,7 +32,7 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 24,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-04T00:00:00+00:00",
     "to": null
@@ -44,18 +45,19 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788534000
+    "episode": 21,
+    "airingAt": 1795791600
   },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.01,
-    "anilistScore": 6.8,
+    "malScore": 7.09,
+    "anilistScore": 6.9,
     "kitsuRating": null
   },
   "genres": [
     "Comedy",
     "Romance",
+    "Shoujo",
     "Slice of Life"
   ],
   "studios": [
@@ -63,149 +65,417 @@
   ],
   "producers": [
     "Aniplex",
-    "INSPION Edge",
+    "Shueisha",
+    "ABC Animation",
+    "TOKYO MX",
+    "BS11",
+    "Studio Flag",
+    "Movic",
+    "HIKE",
     "whomor"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1902/156345l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1474/160261l.jpg",
     "banner": null,
     "color": "#fef150"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "P927_ZvgUUg",
+    "url": "https://www.youtube.com/watch?v=P927_ZvgUUg",
+    "thumbnail": "https://i.ytimg.com/vi/P927_ZvgUUg/hqdefault.jpg"
+  },
   "synopsis": "During spring break at the end of her first year of high school, Ito learns she has to move because her mother is getting remarried. What she didn't expect is suddenly gaining four younger stepbrothers under the same roof.\n\nDetermined to get along with her new family, Ito does her best to adjust, but the eldest brother, Gen, is distant and hard to read. Yet as they spend more time together, she starts to see glimpses of kindness behind his cool exterior.\n\n(Source: MAL News)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-04",
       "title": {
         "en": "Welcome to the Narita Family"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 471296,
+      "tvdbId": 11496238,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11496238/screencap/6a41dfe760a4c.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-11",
       "title": {
         "en": "Lies Make Families"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 471296,
+      "tvdbId": 11864840,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864840/screencap/6a5030dc12e93.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-18",
       "title": {
-        "en": "Episode 3"
+        "en": "The Narita Family`s New Rule"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 471296,
+      "tvdbId": 11864841,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864841/screencap/6a598c12a8571.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-25",
       "title": {
-        "en": "Episode 4"
+        "en": "Unable to Be Honest"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 471296,
+      "tvdbId": 11864842,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864842/screencap/6a62c501c7f3b.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-01",
       "title": {
-        "en": "Episode 5"
+        "en": "Shut Away Angel"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 471296,
+      "tvdbId": 11864843,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864843/screencap/6a6a1778c8545.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-08",
       "title": {
-        "en": "Episode 6"
+        "en": "Sibling`s Feelings"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 471296,
+      "tvdbId": 11864844,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864844/screencap/6a73ba875f2c5.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-15",
       "title": {
-        "en": "Episode 7"
+        "en": "My Younger Brother Is a Prince?"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 471296,
+      "tvdbId": 11864845,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864845/screencap/6a7de6314cec4.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-22",
       "title": {
-        "en": "Episode 8"
+        "en": "What`ll Happen to the Cultural Festival?!"
+      },
+      "tvdbShowId": 471296,
+      "tvdbId": 11864846,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864846/screencap/6a877fc9494a8.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-29",
+      "title": {
+        "en": "The Birthday Present Bonus"
+      },
+      "tvdbShowId": 471296,
+      "tvdbId": 11864847,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864847/screencap/6a917e197c817.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-05",
+      "title": {
+        "en": "A Sign of Connection"
+      },
+      "tvdbShowId": 471296,
+      "tvdbId": 11864848,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864848/screencap/6a9a20b3ba854.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-12",
+      "title": {
+        "en": "The Hiroshima Onomichi Steam Incident"
+      },
+      "tvdbShowId": 471296,
+      "tvdbId": 11864849,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864849/screencap/6aa35f1feb7d7.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-19",
+      "title": {
+        "en": "Let the Memories Fall"
+      },
+      "tvdbShowId": 471296,
+      "tvdbId": 11864851,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864851/screencap/6aad46a764674.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": 25,
+      "airDate": "2026-10-03",
+      "title": {
+        "en": "Into the New Year! Valentines!"
+      },
+      "tvdbShowId": 471296,
+      "tvdbId": 11864852,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864852/screencap/6abfba4917c27.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": 25,
+      "airDate": "2026-10-10",
+      "title": {
+        "en": "This Love Can`t Be Suppressed"
+      },
+      "tvdbShowId": 471296,
+      "tvdbId": 11864853,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864853/screencap/6ac84833e638e.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": 25,
+      "airDate": "2026-10-17",
+      "title": {
+        "en": "How I Really Feel"
+      },
+      "tvdbShowId": 471296,
+      "tvdbId": 11864854,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864854/screencap/6ad2287c4f89c.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": 25,
+      "airDate": "2026-10-24",
+      "title": {
+        "en": "The Troubled Narita Brothers"
+      },
+      "tvdbShowId": 471296,
+      "tvdbId": 11864855,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864855/screencap/6adacb047d5e2.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": 25,
+      "airDate": "2026-10-31",
+      "title": {
+        "en": "Clashing Thoughts"
+      },
+      "tvdbShowId": 471296,
+      "tvdbId": 11864856,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864856/screencap/6ae2ada29d5c9.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": 25,
+      "airDate": "2026-11-07",
+      "title": {
+        "en": "Piggy-back Fight! Brother vs Brother"
+      },
+      "tvdbShowId": 471296,
+      "tvdbId": 11864857,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864857/screencap/6aedf8334161f.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": 25,
+      "airDate": "2026-11-14",
+      "title": {
+        "en": "The True Power of the Oldest Brother"
+      },
+      "tvdbShowId": 471296,
+      "tvdbId": 11865311,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11865311/screencap/6af50b007cd52.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": 25,
+      "airDate": "2026-11-21",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 471296,
+      "tvdbId": 11865312,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11865312/screencap/6afe641aa5e2a.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": 25,
+      "airDate": "2026-11-28",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 471296,
+      "tvdbId": 11865313,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": null
+    },
+    "22": {
+      "episode": "22",
+      "length": 25,
+      "airDate": "2026-12-05",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 471296,
+      "tvdbId": 11865314,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": null
+    },
+    "23": {
+      "episode": "23",
+      "length": 25,
+      "airDate": "2026-12-12",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 471296,
+      "tvdbId": 11865315,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": null
+    },
+    "24": {
+      "episode": "24",
+      "length": 25,
+      "airDate": "2026-12-19",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 471296,
+      "tvdbId": 11865316,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": 25,
+      "airDate": "2026-09-26",
+      "title": {
+        "en": "Episode S1",
+        "romaji": "Special Tokuban",
+        "ja": "スペシャル特番"
       },
       "tvdbShowId": null,
       "tvdbId": null,
       "seasonNumber": null,
-      "episodeNumber": 8,
+      "episodeNumber": null,
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:40:52.785Z",
+    "lastFetched": "2026-11-21T17:42:26.433Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

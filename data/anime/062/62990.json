@@ -3,85 +3,542 @@
   "idMal": 62990,
   "mappings": {
     "mal": 62990,
-    "anilist": null,
-    "anidb": null,
-    "kitsu": null,
-    "simkl": null,
+    "anilist": 206189,
+    "anidb": 20282,
+    "kitsu": 50936,
+    "simkl": 3224102,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 62990,
     "livechart": null,
-    "animeplanet": null,
+    "animeplanet": "jade-dynasty-final-season",
     "anisearch": null,
     "notify": null
   },
   "title": {
-    "romaji": "Zhu Xian: Zuizhong Ji",
+    "romaji": "Zhu Xian Final",
     "english": "Jade Dynasty Final Season",
     "native": "诛仙 最终季",
     "synonyms": [
       "诛仙 第四季",
       "Zhu Xian 4th Season",
-      "Jade Dynasty 4th Season"
+      "Jade Dynasty 4th Season",
+      "Jade Dynasty 4",
+      "Zhu Xian Zuizhong"
     ]
   },
   "type": "ONA",
   "source": "Web novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 26,
+  "episodeLength": 20,
   "aired": {
-    "from": null,
+    "from": "2026-08-21T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 7.24,
     "anilistScore": null,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Historical",
+    "Martial Arts"
   ],
   "studios": [
     "Cloud Art"
   ],
   "producers": [
-    "Tencent Video"
+    "Tencent Penguin Pictures"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1000/153727l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1754/159363l.jpg",
     "banner": null,
-    "color": null
+    "color": "#e4785d"
   },
   "trailer": null,
   "synopsis": "Final season of Zhu Xian.",
-  "sequence": [],
-  "episodes": {},
+  "sequence": [
+    {
+      "malId": 61784,
+      "title": {
+        "romaji": "Zhu Xian 3",
+        "english": null,
+        "native": "诛仙 第三季"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181181-rYDvM8aCeH4w.jpg",
+      "format": "ONA",
+      "episodes": 26,
+      "seasonYear": null,
+      "relationType": "PREQUEL"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 20,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 20,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 20,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 20,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 20,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 20,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 20,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 20,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 20,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 20,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 20,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 20,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 20,
+      "image": null
+    },
+    "14": {
+      "episode": "14",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 20,
+      "image": null
+    },
+    "15": {
+      "episode": "15",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 20,
+      "image": null
+    },
+    "16": {
+      "episode": "16",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 20,
+      "image": null
+    },
+    "17": {
+      "episode": "17",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 20,
+      "image": null
+    },
+    "18": {
+      "episode": "18",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 20,
+      "image": null
+    },
+    "19": {
+      "episode": "19",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 20,
+      "image": null
+    },
+    "20": {
+      "episode": "20",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 20,
+      "image": null
+    },
+    "21": {
+      "episode": "21",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 20,
+      "image": null
+    },
+    "22": {
+      "episode": "22",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 20,
+      "image": null
+    },
+    "23": {
+      "episode": "23",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 20,
+      "image": null
+    },
+    "24": {
+      "episode": "24",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 20,
+      "image": null
+    },
+    "25": {
+      "episode": "25",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 20,
+      "image": null
+    },
+    "26": {
+      "episode": "26",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 20,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-02T08:08:48.948Z",
+    "lastFetched": "2026-11-21T17:41:56.327Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
     ],
     "dataVersion": 1
   }

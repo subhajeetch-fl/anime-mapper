@@ -4,10 +4,10 @@
   "mappings": {
     "mal": 63367,
     "anilist": 206814,
-    "anidb": null,
+    "anidb": 19859,
     "kitsu": 50497,
-    "simkl": null,
-    "tmdb": null,
+    "simkl": 3281958,
+    "tmdb": 312359,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
@@ -21,47 +21,61 @@
     "romaji": "Dragon Ball Super: Beerus",
     "english": "Dragon Ball Super: Beerus",
     "native": "ドラゴンボール超 ビルス",
-    "synonyms": []
+    "synonyms": [
+      "DBS Beerus"
+    ]
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 23,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-11T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Sundays",
+    "time": "23:15",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 7,
+    "airingAt": 1795356960
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 8.14,
+    "anilistScore": 8,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Martial Arts",
+    "Shounen",
+    "Sci-Fi"
   ],
   "studios": [
     "Toei Animation"
   ],
-  "producers": [],
+  "producers": [
+    "Shueisha"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
-    "banner": null,
-    "color": "#43a1e4"
+    "poster": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206814-ARuwrZJAGONN.jpg",
+    "color": "#e48643"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "CFgEL7ei8VE",
+    "url": "https://www.youtube.com/watch?v=CFgEL7ei8VE",
+    "thumbnail": "https://i.ytimg.com/vi/CFgEL7ei8VE/hqdefault.jpg"
+  },
   "synopsis": "Dragon Ball Super: Beerus, a project that was started a few years ago, is the newly ENHANCED edition of the anime Dragon Ball Super. ENHANCED by the latest visual expression, every scene, especially the battle scenes, is even more immersive, providing a more faithful and detailed reproduction of the original work by Akira Toriyama, and it will deliver a quality that is sure to fully satisfy audiences.\n\n(Source: Official website)",
   "sequence": [
     {
@@ -115,19 +129,358 @@
       "episodes": 131,
       "seasonYear": 2015,
       "relationType": "PARENT"
+    },
+    {
+      "malId": 56894,
+      "title": {
+        "romaji": "Dragon Ball DAIMA",
+        "english": "Dragon Ball DAIMA",
+        "native": "ドラゴンボールDAIMA"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170083-GTwRrhTApcLR.png",
+      "format": "TV",
+      "episodes": 20,
+      "seasonYear": 2024,
+      "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "23m",
+      "airDate": "2026-10-11",
+      "title": {
+        "en": "The God Who Destroys",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 23,
+      "image": "https://media.kitsu.app/episode/393369/thumbnail/6564e0c3506571ff3ece5982b6552323.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": "23m",
+      "airDate": "2026-10-18",
+      "title": {
+        "en": "The God of Destruction Heads to the Planet of the Kai",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 23,
+      "image": "https://media.kitsu.app/episode/393370/thumbnail/2c60fab1312fb743fd4374eeab24abf7.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": "23m",
+      "airDate": "2026-10-25",
+      "title": {
+        "en": "The God of Destruction Heads to Earth",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 23,
+      "image": "https://media.kitsu.app/episode/393371/thumbnail/64d2eb53b704fc4ef9174175fdcec8ce.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": "23m",
+      "airDate": "2026-11-01",
+      "title": {
+        "en": "The God of Saiyans",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 23,
+      "image": "https://media.kitsu.app/episode/393372/thumbnail/ffd56c2dcfc05b1e229ddb76b3974b85.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": "23m",
+      "airDate": "2026-11-08",
+      "title": {
+        "en": "The God of Destruction and Son Goku",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 23,
+      "image": "https://media.kitsu.app/episode/393373/thumbnail/ca125efbe6e4b8226a3a0366090c7272.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": "23m",
+      "airDate": "2026-11-15",
+      "title": {
+        "en": "Battle of Gods",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 23,
+      "image": "https://media.kitsu.app/episode/393374/thumbnail/7c8d835c80beec0610389dabb3539ca1.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": "23m",
+      "airDate": "2026-11-22",
+      "title": {
+        "en": "Resurrection F",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 23,
+      "image": "https://media.kitsu.app/episode/409173/thumbnail/14d65415ff0e683bde50425d1282d205.png"
+    },
+    "8": {
+      "episode": "8",
+      "length": "23m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 23,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "23m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 23,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "23m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 23,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "23m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 23,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": "23m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 23,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": "23m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 23,
+      "image": null
+    },
+    "14": {
+      "episode": "14",
+      "length": "23m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 23,
+      "image": null
+    },
+    "15": {
+      "episode": "15",
+      "length": "23m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 23,
+      "image": null
+    },
+    "16": {
+      "episode": "16",
+      "length": "23m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 23,
+      "image": null
+    },
+    "17": {
+      "episode": "17",
+      "length": "23m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 23,
+      "image": null
+    },
+    "18": {
+      "episode": "18",
+      "length": "23m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 23,
+      "image": null
+    },
+    "19": {
+      "episode": "19",
+      "length": "23m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 23,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-06T04:43:18.947Z",
+    "lastFetched": "2026-11-21T17:44:44.868Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

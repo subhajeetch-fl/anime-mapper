@@ -6,15 +6,15 @@
     "anilist": 213507,
     "anidb": 20128,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 3164234,
     "tmdb": 326471,
     "tvdb": 479657,
     "trakt": 321149,
     "traktType": "shows",
     "shikimori": 64468,
     "livechart": 13688,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "gokigenyou-ikkyoku-ikaga",
+    "anisearch": 21750,
     "notify": null
   },
   "title": {
@@ -22,8 +22,6 @@
     "english": null,
     "native": "ごきげんよう、一局いかが？",
     "synonyms": [
-      "Good Day to You",
-      "How About a Game?",
       "Good Day to You, How About a Game?"
     ]
   },
@@ -39,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -53,12 +47,16 @@
   },
   "genres": [
     "Comedy",
+    "School",
+    "Strategy Game",
     "Slice of Life"
   ],
   "studios": [
     "Felix Film"
   ],
-  "producers": [],
+  "producers": [
+    "Yostar"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1796/158701l.jpg",
     "banner": null,
@@ -69,12 +67,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-12T21:30:07.140Z",
+    "lastFetched": "2026-11-21T17:51:35.800Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

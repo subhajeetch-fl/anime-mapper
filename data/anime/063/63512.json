@@ -4,17 +4,17 @@
   "mappings": {
     "mal": 63512,
     "anilist": 208829,
-    "anidb": null,
+    "anidb": 19766,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 2964676,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 63512,
-    "livechart": null,
+    "livechart": 13423,
     "animeplanet": "crayon-shin-chan-movie-33-kikikaikai-ora-no-youkai-vacation",
-    "anisearch": null,
+    "anisearch": 21194,
     "notify": null
   },
   "title": {
@@ -27,21 +27,17 @@
   },
   "type": "Movie",
   "source": "Manga",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 105,
   "aired": {
     "from": "2026-07-31T00:00:00+00:00",
-    "to": null
+    "to": "2026-07-31T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -52,18 +48,28 @@
   "genres": [
     "Adventure",
     "Comedy",
+    "Seinen",
     "Action"
   ],
   "studios": [
     "Shin-Ei Animation"
   ],
-  "producers": [],
+  "producers": [
+    "TV Asahi",
+    "Shin-Ei Animation",
+    "ADK Emotions",
+    "Futabasha"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1190/155540l.jpg",
     "banner": null,
     "color": "#e49343"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "ocDkvAT4J_A",
+    "url": "https://www.youtube.com/watch?v=ocDkvAT4J_A",
+    "thumbnail": "https://i.ytimg.com/vi/ocDkvAT4J_A/hqdefault.jpg"
+  },
   "synopsis": "The 34th Crayon Shin-chan movie.",
   "sequence": [
     {
@@ -95,15 +101,16 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-09-01T00:50:40.412Z",
+    "lastFetched": "2026-11-21T17:45:33.895Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

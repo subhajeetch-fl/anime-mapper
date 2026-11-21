@@ -14,7 +14,7 @@
     "shikimori": 63973,
     "livechart": 13540,
     "animeplanet": "shiranuhi",
-    "anisearch": null,
+    "anisearch": 21817,
     "notify": null
   },
   "title": {
@@ -27,21 +27,17 @@
   },
   "type": "Movie",
   "source": "Original",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 36,
   "aired": {
     "from": "2026-08-21T00:00:00+00:00",
-    "to": null
+    "to": "2026-08-21T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -51,6 +47,7 @@
   },
   "genres": [
     "Drama",
+    "Mythology",
     "Supernatural"
   ],
   "studios": [
@@ -61,24 +58,45 @@
     "GAGA"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1550/156857l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1618/159892l.jpg",
     "banner": null,
     "color": "#f1e4bb"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "ixva4keCFsU",
+    "url": "https://www.youtube.com/watch?v=ixva4keCFsU",
+    "thumbnail": "https://i.ytimg.com/vi/ixva4keCFsU/hqdefault.jpg"
+  },
   "synopsis": "The short is set in a coastal town in Kumamoto at the tail end of summer 1996. The 10-year-old boy Minato lives a precarious life with his drunkard father. Minato's only source of strength is Ben-chan, a goddess in the form of a young girl that appeared in Benten Island. The time he spends with her are the only times where he feels like himself. But when he is about to be separated from Ben-chan due to being sent to a children's home, Minato prays to a Shiranuhi, a mysterious light floating above the sea, to grant him one wish. His wish, filled with hatred towards his father, eventually becomes a curse.\n\n(Source: Anime News Network)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 0,
+      "airDate": "2026-08-21",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:58:00.616Z",
+    "lastFetched": "2026-11-21T17:47:47.996Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

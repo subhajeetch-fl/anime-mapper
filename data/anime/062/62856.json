@@ -4,18 +4,18 @@
   "mappings": {
     "mal": 62856,
     "anilist": 103303,
-    "anidb": null,
-    "kitsu": null,
-    "simkl": null,
-    "tmdb": null,
+    "anidb": 14236,
+    "kitsu": 41923,
+    "simkl": 867371,
+    "tmdb": 153217,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 62856,
-    "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
-    "notify": null
+    "livechart": 3434,
+    "animeplanet": "sparks-of-tomorrow",
+    "anisearch": 13774,
+    "notify": "PnD0qLomR"
   },
   "title": {
     "romaji": "Nijusseiki Denki Mokuroku: Eureka Evrika",
@@ -34,13 +34,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 13,
-  "episodeLength": 23,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-05T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-27T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -49,42 +49,41 @@
     "time": "23:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788703200
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.72,
-    "anilistScore": 7.5,
-    "kitsuRating": 7.58
+    "malScore": 7.43,
+    "anilistScore": 7.4,
+    "kitsuRating": null
   },
   "genres": [
     "Drama",
-    "Adventure",
-    "Romance",
-    "Bakumatsu   Meiji Period",
     "Historical",
-    "Kyoto",
-    "Japan"
+    "Adventure",
+    "Comedy",
+    "Romance"
   ],
   "studios": [
     "Kyoto Animation"
   ],
   "producers": [
-    "Lantis",
+    "Kyoto Animation",
     "Pony Canyon",
-    "Rakuonsha",
     "ABC Animation",
-    "Heart Company",
-    "Bandai Namco Music Live"
+    "Bandai Namco Music Live",
+    "Rakuonsha",
+    "Heart Company"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1068/158475l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
     "color": "#fec950"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "-W2vs2etG9o",
+    "url": "https://www.youtube.com/watch?v=-W2vs2etG9o",
+    "thumbnail": "https://i.ytimg.com/vi/-W2vs2etG9o/hqdefault.jpg"
+  },
   "synopsis": "In an alternate version of the early 20th century where technological progress evolved along a different path shaped by steam power, Kyoto is blanketed in constant smoke.\n\nA boy, hardened by the loss of his brother, grows distrustful after their shared dream of an \"Age of Electricity\" is cut short. A deeply devout girl hides her dreams and regrets for her deceased mother deep within her heart. When the two cross paths, they set about exploring the secrets of the 20th Century Electrical Catalog, a glimpse into the future they long for.\n\nTogether, they must confront their pasts and carve a path toward the future they once believed in.\n\n(Source: Press Release)",
   "sequence": [
     {
@@ -104,70 +103,233 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-05",
       "title": {
-        "en": "The Electric Boy"
+        "en": "The Electric Boy",
+        "romaji": "Denki Shounen",
+        "ja": "電氣少年"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 407704,
+      "tvdbId": 8586178,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8586178/screencap/6a3cf4d915378.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-12",
       "title": {
-        "en": "The Mysteries of the Catalog"
+        "en": "The Mysteries of the Catalog",
+        "romaji": "Mokuroku no Nazo",
+        "ja": "目録の謎"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 407704,
+      "tvdbId": 11873118,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11873118/screencap/6a4e1919b6a92.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-19",
       "title": {
-        "en": "Episode 3"
+        "en": "Their Dream",
+        "romaji": "Futari no Yume",
+        "ja": "二人の夢"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 407704,
+      "tvdbId": 11873119,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11873119/screencap/6a576132b55a4.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-26",
       "title": {
-        "en": "Episode 4"
+        "en": "The Steadfast Girl",
+        "romaji": "Shinjin no Musume",
+        "ja": "信心の娘"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 407704,
+      "tvdbId": 11886644,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11886644/screencap/6a60a78275294.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-02",
+      "title": {
+        "en": "Proof of Love",
+        "romaji": "Ai no Shoumei",
+        "ja": "愛の証明"
+      },
+      "tvdbShowId": 407704,
+      "tvdbId": 11886645,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11886645/screencap/6a6a0300816eb.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-09",
+      "title": {
+        "en": "The Sound of Innovation",
+        "romaji": "Kakushin no Oto",
+        "ja": "革新の音"
+      },
+      "tvdbShowId": 407704,
+      "tvdbId": 11886646,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11886646/screencap/6a72fcef0dd9c.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-16",
+      "title": {
+        "en": "Elopement",
+        "romaji": "Kakeochi",
+        "ja": "駆け落ち"
+      },
+      "tvdbShowId": 407704,
+      "tvdbId": 11886647,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11886647/screencap/6a807e32caa1c.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-23",
+      "title": {
+        "en": "His Brother`s Footsteps",
+        "romaji": "Ani no Sokuseki",
+        "ja": "兄の足跡"
+      },
+      "tvdbShowId": 407704,
+      "tvdbId": 11908162,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11908162/screencap/6a857a4f0f541.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-30",
+      "title": {
+        "en": "Time to Part",
+        "romaji": "Wakare no Toki",
+        "ja": "別れの時"
+      },
+      "tvdbShowId": 407704,
+      "tvdbId": 11908163,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11908163/screencap/6a8eb175467a7.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-06",
+      "title": {
+        "en": "Engagement Trouble",
+        "romaji": "Kyuukon Soudou",
+        "ja": "求婚騒動"
+      },
+      "tvdbShowId": 407704,
+      "tvdbId": 11908164,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11908164/screencap/6a97ec880efa9.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-13",
+      "title": {
+        "en": "The Enticing Circuit",
+        "romaji": "Izanau Kairo",
+        "ja": "誘う回路"
+      },
+      "tvdbShowId": 407704,
+      "tvdbId": 11908165,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11908165/screencap/6aa125eb66c41.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-20",
+      "title": {
+        "en": "Electric Brain",
+        "romaji": "Denki Zunou",
+        "ja": "電氣頭脳"
+      },
+      "tvdbShowId": 407704,
+      "tvdbId": 11908166,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11908166/screencap/6aaa61c159a98.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": 25,
+      "airDate": "2026-09-27",
+      "title": {
+        "en": "To the Future We Desire",
+        "romaji": "Nozomu Mirai e",
+        "ja": "望む未来へ"
+      },
+      "tvdbShowId": 407704,
+      "tvdbId": 11908167,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11908167/screencap/6ab0f7fa3e3c2.jpg"
     },
     "S1": {
       "episode": "S1",
-      "length": "60m",
+      "length": 60,
       "airDate": "2026-07-05",
       "title": {
-        "en": "Pre-Broadcast Special"
+        "en": "Pre-Broadcast Special",
+        "romaji": "Housou Chokuzen Namahaishin",
+        "ja": "放送直前生配信"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -179,15 +341,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:36:47.303Z",
+    "lastFetched": "2026-11-21T17:40:33.213Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

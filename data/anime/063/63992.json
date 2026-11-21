@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -52,14 +48,13 @@
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Psychological"
   ],
   "studios": [
     "Shengying Animation"
   ],
-  "producers": [
-    "iQIYI"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1123/156951l.jpg",
     "banner": null,
@@ -70,16 +65,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:05:44.185Z",
+    "lastFetched": "2026-11-21T17:48:12.493Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

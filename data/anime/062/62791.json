@@ -3,7 +3,7 @@
   "idMal": 62791,
   "mappings": {
     "mal": 62791,
-    "anilist": null,
+    "anilist": 217656,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -50,7 +46,8 @@
   "genres": [
     "Action",
     "Fantasy",
-    "Sci-Fi"
+    "Sci-Fi",
+    "Urban Fantasy"
   ],
   "studios": [
     "Original Force"
@@ -61,24 +58,22 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1439/153743l.jpg",
     "banner": null,
-    "color": null
+    "color": "#f1281a"
   },
   "trailer": null,
   "synopsis": "2283, in a post-nuclear wasteland, Fortress City 021 was controlled by Ark Corporation. Their so-called \"Savior Guardians\" appeared to protect humanity but secretly conducted human experiments using X chips and manipulated public opinion. Young Han Che witnessed his brother's murder by the false Guardians and unexpectedly awakened the \"1307 Source System\" within him, gaining superpowers. He joined the Yebushou organization, rebuilt by Guan Shanhu, and fought alongside hacker Tian Xin and engineer Kang Di. Yebushou infiltrated Ark training camps and Ghost Island Prison, exposing a plot to create a superpowered army using experiments and mutants. As Han Che unlocked new abilities and faced formidable enemies like Emperor Angel and Divine-Eye Immortal, he embarked on a path of vengeance, truth, and salvation. However, the hidden AI \"Lefu\" was plotting to control all human consciousness.\n\n(Source: Youku)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:04:20.189Z",
+    "lastFetched": "2026-11-21T17:40:15.389Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

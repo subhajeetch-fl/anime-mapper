@@ -32,7 +32,7 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 51,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-02-01T00:00:00+00:00",
     "to": null
@@ -45,36 +45,51 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 32,
-    "airingAt": 1788651000
+    "episode": 42,
+    "airingAt": 1795303800
   },
   "rating": "G - All Ages",
   "score": {
-    "malScore": 7.6,
-    "anilistScore": 7.5,
+    "malScore": 7.67,
+    "anilistScore": 7.6,
     "kitsuRating": null
   },
   "genres": [
     "Action",
+    "Detective",
+    "Mahou Shoujo",
     "Mystery",
-    "Mahou Shoujo"
+    "Time Travel"
   ],
   "studios": [
     "Toei Animation"
   ],
-  "producers": [
-    "TV Asahi",
-    "ABC Animation",
-    "ADK Emotions"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1706/154944l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202957-B9U0hNv2Dqap.jpg",
     "color": "#d6ae1a"
   },
-  "trailer": null,
-  "synopsis": "Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.\n\nMeanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?\n\n(Source: Official site, translated)",
+  "trailer": {
+    "youtubeId": "qjozo1fh7OI",
+    "url": "https://www.youtube.com/watch?v=qjozo1fh7OI",
+    "thumbnail": "https://i.ytimg.com/vi/qjozo1fh7OI/hqdefault.jpg"
+  },
+  "synopsis": "On her 14th birthday, Anna Akechi, a second-year junior high student from the town of Makoto Mirai, encounters a fairy named Pochitan, who suddenly sends her back from 2027 to the same town nearly three decades earlier. Stranded in 1999, Anna crosses paths with Mikuru Kobayashi, a girl her age who dreams of becoming a renowned detective.\n\nAlmost immediately, a bride becomes the victim of a mysterious theft when her tiara vanishes. Refusing to stand by, Anna and Mikuru awaken the ability to transform into magical girls known as Pretty Cure, taking it upon themselves to uncover the truth behind the incident. Their investigation leads them to an elusive group calling themselves the Phantom Thieves, whom they confront as the group continues their thievery.\n\nAs further incidents loom, Anna and Mikuru resolve to stand against the Phantom Thieves and prevent future crimes. They soon learn that the stolen items contain Makoto Jewels—sources of power the Phantom Thieves seek for their own ends. However, that same power is also vital to Pochitan, who needs it to return Anna to her original time. Hoping to prevent this power from falling into the wrong hands, the two press forward, balancing their duty to protect others with Anna's desire to find her way home.\n\n[Written by MAL Rewrite]",
   "sequence": [
+    {
+      "malId": 350,
+      "title": {
+        "romaji": "Ojamajo Doremi",
+        "english": "Magical DoReMi",
+        "native": "おジャ魔女どれみ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx350-iRi1NOntsTnG.jpg",
+      "format": "TV",
+      "episodes": 51,
+      "seasonYear": 1999,
+      "relationType": "OTHER"
+    },
     {
       "malId": 603,
       "title": {
@@ -357,7 +372,7 @@
       },
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198654-0Uvq9VnZWPtN.png",
       "format": "MOVIE",
-      "episodes": null,
+      "episodes": 1,
       "seasonYear": 2026,
       "relationType": "SIDE_STORY"
     }
@@ -365,435 +380,760 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-01",
       "title": {
-        "en": "Debut! Star Detective Precure!"
+        "en": "Debut! Star Detective Precure!",
+        "romaji": "Tanjou! Meitantei Precure!",
+        "ja": "誕生! 名探偵プリキュア!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11552221,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11552221/screencap/6980b79ecd064.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-08",
       "title": {
-        "en": "Introducing the Genius, Jett-senpai!"
+        "en": "Introducing the Genius, Jett-senpai!",
+        "romaji": "Tensai Toujou! Sono Na wa Jett-senpai!",
+        "ja": "天才登場! その名はジェット先輩!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11564830,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11564830/screencap/698a4881e5e25.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-15",
       "title": {
-        "en": "Everyone Come to the Curetto Detective Agency!"
+        "en": "Everyone Come to the Curetto Detective Agency!",
+        "romaji": "Minna Oide yo! Curetto Tantei Jimusho!",
+        "ja": "みんなおいでよ! キュアット探偵事務所!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11564831,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11564831/screencap/69961b1ad6bd7.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-22",
       "title": {
-        "en": "Exciting! Our First Client!"
+        "en": "Exciting! Our First Client!",
+        "romaji": "Dokidoki! Hajimete no Irai!",
+        "ja": "ドキドキ! 初めての依頼!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11564832,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11564832/screencap/699c9b75c09ea.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-01",
       "title": {
-        "en": "Star Detectives in Trouble?"
+        "en": "Star Detectives in Trouble?",
+        "romaji": "Meitantei no Dai Pinch!",
+        "ja": "名探偵の大ピンチ!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11645935,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11645935/screencap/69a6e961d3f28.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-08",
       "title": {
-        "en": "Miraculous Pre-Kit Mirror Loupe!"
+        "en": "Miraculous Pre-Kit Mirror Loupe!",
+        "romaji": "Kiseki no Pre-Kit Mirror Loupe!",
+        "ja": "奇跡のプリキットミラールーペ!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11656537,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11656537/screencap/69b13f843042a.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-15",
       "title": {
-        "en": "Yikes! The School Is a Maze?"
+        "en": "Yikes! The School Is a Maze?",
+        "romaji": "Taihen! Gakkou ga Meiro!?",
+        "ja": "大変! 学校が迷路!?"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11666017,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11666017/screencap/69ba968d5a20b.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-22",
       "title": {
-        "en": "Pretty Smiles at Pretty Holic!"
+        "en": "Pretty Smiles at Pretty Holic!",
+        "romaji": "Pretty Holic de Pretty Smile!",
+        "ja": "プリティホリックでプリティスマイル!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11666018,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11666018/screencap/69c4d8f70154c.jpg"
     },
     "9": {
       "episode": "9",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-29",
       "title": {
-        "en": "Don`t Make Assumptions!"
+        "en": "Don`t Make Assumptions!",
+        "romaji": "Kimetsukecha Dame!",
+        "ja": "決めつけちゃダメ!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11666019,
+      "seasonNumber": 1,
       "episodeNumber": 9,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11666019/screencap/69cd69fb21b46.jpg"
     },
     "10": {
       "episode": "10",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-05",
       "title": {
-        "en": "Solve the Mystery of the Painting!"
+        "en": "Solve the Mystery of the Painting!",
+        "romaji": "E no Nazo o Tokiakase!",
+        "ja": "絵の謎を解き明かせ!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11666020,
+      "seasonNumber": 1,
       "episodeNumber": 10,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 10,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11666020/screencap/69d3cfe5b2343.jpg"
     },
     "11": {
       "episode": "11",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-12",
       "title": {
-        "en": "Cure Arcana Shadow Appears!"
+        "en": "Cure Arcana Shadow Appears!",
+        "romaji": "Cure Arcana Shadow, Arawaru",
+        "ja": "キュアアルカナ・シャドウ, 現る"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11724393,
+      "seasonNumber": 1,
       "episodeNumber": 11,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 11,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11724393/screencap/69dff4949ce39.jpg"
     },
     "12": {
       "episode": "12",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-19",
       "title": {
-        "en": "The Secret of Cure Arcana Shadow!"
+        "en": "The Secret of Cure Arcana Shadow!",
+        "romaji": "Cure Arcana Shadow no Himitsu",
+        "ja": "キュアアルカナ・シャドウの秘密"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11731701,
+      "seasonNumber": 1,
       "episodeNumber": 12,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 12,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11731701/screencap/69e92212e6143.jpg"
     },
     "13": {
       "episode": "13",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-26",
       "title": {
-        "en": "Star Detectives vs Thieves"
+        "en": "Star Detectives vs Thieves",
+        "romaji": "Meitantei Versus Kaitou",
+        "ja": "名探偵 VS[ばーさす] 怪盗"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11731702,
+      "seasonNumber": 1,
       "episodeNumber": 13,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 13,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11731702/screencap/69f381bfb9108.jpg"
     },
     "14": {
       "episode": "14",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-03",
       "title": {
-        "en": "Pochitan`s First Outing!"
+        "en": "Pochitan`s First Outing!",
+        "romaji": "Pochitan, Hajimete no Odekake!",
+        "ja": "ポチタン, はじめてのおでかけ!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11772983,
+      "seasonNumber": 1,
       "episodeNumber": 14,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 14,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11772983/screencap/69f7c0c4b8931.jpg"
     },
     "15": {
       "episode": "15",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-10",
       "title": {
-        "en": "The Secret of Luluka Moria"
+        "en": "The Secret of Luluka Moria",
+        "romaji": "Moria Ruruka no Himitsu",
+        "ja": "森亜るるかの秘密"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11778305,
+      "seasonNumber": 1,
       "episodeNumber": 15,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 15,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11778305/screencap/6a088c5bd282a.jpg"
     },
     "16": {
       "episode": "16",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-17",
       "title": {
-        "en": "Detective Ellie`s Case Book?"
+        "en": "Detective Ellie`s Case Book?",
+        "romaji": "Tantei Ellie no Jikenbo!?",
+        "ja": "探偵エリーの事件簿!?"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11778306,
+      "seasonNumber": 1,
       "episodeNumber": 16,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 16,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11778306/screencap/6a0e0fb26776b.jpg"
     },
     "17": {
       "episode": "17",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-24",
       "title": {
-        "en": "Memories with Mom"
+        "en": "Memories with Mom",
+        "romaji": "Okaasan to no Omoide",
+        "ja": "お母さんとの思い出"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11778307,
+      "seasonNumber": 1,
       "episodeNumber": 17,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 17,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11778307/screencap/6a1292f4f25bc.jpg"
     },
     "18": {
       "episode": "18",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-31",
       "title": {
-        "en": "Star Detectives Assemble"
+        "en": "Star Detectives Assemble",
+        "romaji": "Meitantei no Assemble",
+        "ja": "名探偵の共演[アッセンブル]"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11778308,
+      "seasonNumber": 1,
       "episodeNumber": 18,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 18,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11778308/screencap/6a12906354220.jpg"
     },
     "19": {
       "episode": "19",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-07",
       "title": {
-        "en": "Invitation to the Labyrinth Train?!"
+        "en": "Invitation to the Labyrinth Train?!",
+        "romaji": "Meikyuu Train ni Goshoutai!?",
+        "ja": "迷宮トレインにご招待!?"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11778310,
+      "seasonNumber": 1,
       "episodeNumber": 19,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 19,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11778310/screencap/6a24eb85a1b79.jpg"
     },
     "20": {
       "episode": "20",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-14",
       "title": {
-        "en": "Legend from a Certain Island!"
+        "en": "Legend from a Certain Island!",
+        "romaji": "Toaru Shima no Densetsu",
+        "ja": "とある島の伝説"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11844168,
+      "seasonNumber": 1,
       "episodeNumber": 20,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 20,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11844168/screencap/6a2f02145284c.jpg"
     },
     "21": {
       "episode": "21",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-21",
       "title": {
-        "en": "Detective Ellie`s Case Book, Part 2?"
+        "en": "Detective Ellie`s Case Book, Part 2?",
+        "romaji": "Zoku: Tantei Ellie no Jikenbo!?",
+        "ja": "続・探偵エリーの事件簿!?"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11844758,
+      "seasonNumber": 1,
       "episodeNumber": 21,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 21,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11844758/screencap/6a37ffa2eee7f.jpg"
     },
     "22": {
       "episode": "22",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-28",
       "title": {
-        "en": "Shiruku`s Resolve"
+        "en": "Shiruku`s Resolve",
+        "romaji": "Shiruku no Kakugo",
+        "ja": "しるくの覚悟"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11844759,
+      "seasonNumber": 1,
       "episodeNumber": 22,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 22,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11844759/screencap/6a41e8b046d0d.jpg"
     },
     "23": {
       "episode": "23",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-05",
       "title": {
-        "en": "Kurea, Sleuthing, and Ice Cream!"
+        "en": "Kurea, Sleuthing, and Ice Cream!",
+        "romaji": "Kurea to Suiri to Ice Cream",
+        "ja": "くれあと推理とアイスクリーム"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11844760,
+      "seasonNumber": 1,
       "episodeNumber": 23,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 23,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11844760/screencap/6a4afec8bca7b.jpg"
     },
     "24": {
       "episode": "24",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-12",
       "title": {
-        "en": "Case Closed with Rei!"
+        "en": "Case Closed with Rei!",
+        "romaji": "Rei to Kaiketsu! Kaijiken!",
+        "ja": "れいと解決! 怪事件!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11844761,
+      "seasonNumber": 1,
       "episodeNumber": 24,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 24,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11844761/screencap/6a53af24ba947.jpg"
     },
     "25": {
       "episode": "25",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-19",
       "title": {
-        "en": "Episode 25"
+        "en": "Cure Eclair`s Identity",
+        "romaji": "Cure Eclair no Shoutai",
+        "ja": "キュアエクレールの正体"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11844762,
+      "seasonNumber": 1,
       "episodeNumber": 25,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 25,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11844762/screencap/6a670d828461e.jpg"
     },
     "26": {
       "episode": "26",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-26",
       "title": {
-        "en": "Episode 26"
+        "en": "Cure Eclair Returns!",
+        "romaji": "Cure Eclair no Fukkatsu!",
+        "ja": "キュアエクレールの復活!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11844763,
+      "seasonNumber": 1,
       "episodeNumber": 26,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 26,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11844763/screencap/6a670dd2e028e.jpg"
     },
     "27": {
       "episode": "27",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-02",
       "title": {
-        "en": "Episode 27"
+        "en": "I`m a Star Detective Now!",
+        "romaji": "Watashi, Meitantei ni Narimashita.",
+        "ja": "私, 名探偵になりました."
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11872300,
+      "seasonNumber": 1,
       "episodeNumber": 27,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 27,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872300/screencap/6a6f1eab91441.jpg"
     },
     "28": {
       "episode": "28",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-09",
       "title": {
-        "en": "Episode 28"
+        "en": "The Mysterious Thief Decchi Agein!",
+        "romaji": "Nazo no Kaitou Decchi Agein",
+        "ja": "謎の怪盗デッチ・アゲイン"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470961,
+      "tvdbId": 11884136,
+      "seasonNumber": 1,
       "episodeNumber": 28,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884136/screencap/6a78109ef029c.jpg"
+    },
+    "29": {
+      "episode": "29",
+      "length": 25,
+      "airDate": "2026-08-16",
+      "title": {
+        "en": "The Duo`s Past",
+        "romaji": "Futari no Kako",
+        "ja": "二人の過去"
+      },
+      "tvdbShowId": 470961,
+      "tvdbId": 11884155,
+      "seasonNumber": 1,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884155/screencap/6a8266010896c.jpg"
+    },
+    "30": {
+      "episode": "30",
+      "length": 25,
+      "airDate": "2026-08-23",
+      "title": {
+        "en": "Eclipse Shadow",
+        "romaji": "Eclipse Shadow",
+        "ja": "エクリプス・シャドウ"
+      },
+      "tvdbShowId": 470961,
+      "tvdbId": 11884138,
+      "seasonNumber": 1,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884138/screencap/6a8b9f4a34d32.jpg"
+    },
+    "31": {
+      "episode": "31",
+      "length": 25,
+      "airDate": "2026-08-30",
+      "title": {
+        "en": "Star Detective Cure Arcana",
+        "romaji": "Meitantei Cure Arcana",
+        "ja": "名探偵キュアアルカナ"
+      },
+      "tvdbShowId": 470961,
+      "tvdbId": 11884156,
+      "seasonNumber": 1,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884156/screencap/6a94d9cc2e3bf.jpg"
+    },
+    "32": {
+      "episode": "32",
+      "length": 25,
+      "airDate": "2026-09-06",
+      "title": {
+        "en": "I`m Back, Curetto Detective Agency",
+        "romaji": "Tadaima, Curetto Tantei Jimusho",
+        "ja": "ただいま, キュアット探偵事務所"
+      },
+      "tvdbShowId": 470961,
+      "tvdbId": 11884139,
+      "seasonNumber": 1,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884139/screencap/6a9e14220d426.jpg"
+    },
+    "33": {
+      "episode": "33",
+      "length": 25,
+      "airDate": "2026-09-13",
+      "title": {
+        "en": "The Path to Star Detective Starts with a Single Step",
+        "romaji": "Meitantei no Michi mo Ippo kara",
+        "ja": "名探偵の道も一歩から"
+      },
+      "tvdbShowId": 470961,
+      "tvdbId": 11884157,
+      "seasonNumber": 1,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884157/screencap/6aa74fdb1f1f0.jpg"
+    },
+    "34": {
+      "episode": "34",
+      "length": 25,
+      "airDate": "2026-09-20",
+      "title": {
+        "en": "Luluka and the Gold-Star Full Moon",
+        "romaji": "Ruruka to, Hanamaru na Mangetsu",
+        "ja": "るるかと, はなまるな満月"
+      },
+      "tvdbShowId": 470961,
+      "tvdbId": 11884158,
+      "seasonNumber": 1,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884158/screencap/6ab16d3826be1.jpg"
+    },
+    "35": {
+      "episode": "35",
+      "length": 25,
+      "airDate": "2026-09-27",
+      "title": {
+        "en": "Love Detectives",
+        "romaji": "Koi no Meitantei",
+        "ja": "恋の名探偵"
+      },
+      "tvdbShowId": 470961,
+      "tvdbId": 11884140,
+      "seasonNumber": 1,
+      "episodeNumber": 35,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884140/screencap/6ab9d2be313b9.jpg"
+    },
+    "36": {
+      "episode": "36",
+      "length": 25,
+      "airDate": "2026-10-04",
+      "title": {
+        "en": "The Gold Medal of Trials",
+        "romaji": "Shiren no Kin Medal",
+        "ja": "試練の金メダル"
+      },
+      "tvdbShowId": 470961,
+      "tvdbId": 11884159,
+      "seasonNumber": 1,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884159/screencap/6ac5633565841.jpg"
+    },
+    "37": {
+      "episode": "37",
+      "length": 25,
+      "airDate": "2026-10-11",
+      "title": {
+        "en": "Usonoir and Nijee`s Tea Time",
+        "romaji": "Usonoir to Nijee no Tea Time",
+        "ja": "ウソノワールとニジーのティータイム"
+      },
+      "tvdbShowId": 470961,
+      "tvdbId": 11884141,
+      "seasonNumber": 1,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": 37,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884141/screencap/6acc38cf9524a.jpg"
+    },
+    "38": {
+      "episode": "38",
+      "length": 25,
+      "airDate": "2026-10-18",
+      "title": {
+        "en": "Kurea`s Answer",
+        "romaji": "Kurea no Kotae",
+        "ja": "くれあの答え"
+      },
+      "tvdbShowId": 470961,
+      "tvdbId": 11884160,
+      "seasonNumber": 1,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": 38,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884160/screencap/6ad5734f29456.jpg"
+    },
+    "39": {
+      "episode": "39",
+      "length": 25,
+      "airDate": "2026-10-25",
+      "title": {
+        "en": "An Ojamajo Halloween",
+        "romaji": "Ojamajo na Halloween",
+        "ja": "おジャ魔女なハロウィン♪"
+      },
+      "tvdbShowId": 470961,
+      "tvdbId": 11884142,
+      "seasonNumber": 1,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": 39,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884142/screencap/6adeaeb8d0409.jpg"
+    },
+    "40": {
+      "episode": "40",
+      "length": 25,
+      "airDate": "2026-11-08",
+      "title": {
+        "en": "Luluka`s Answer",
+        "romaji": "Ruruka no Kotae",
+        "ja": "るるかの答え"
+      },
+      "tvdbShowId": 470961,
+      "tvdbId": 11884161,
+      "seasonNumber": 1,
+      "episodeNumber": 40,
+      "absoluteEpisodeNumber": 40,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884161/screencap/6af762f60c425.jpg"
+    },
+    "41": {
+      "episode": "41",
+      "length": 25,
+      "airDate": "2026-11-15",
+      "title": {
+        "en": "Mikuru`s Answer",
+        "romaji": "Mikuru no Kotae",
+        "ja": "みくるの答え"
+      },
+      "tvdbShowId": 470961,
+      "tvdbId": 11884143,
+      "seasonNumber": 1,
+      "episodeNumber": 41,
+      "absoluteEpisodeNumber": 41,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884143/screencap/6afa5d325a423.jpg"
+    },
+    "42": {
+      "episode": "42",
+      "length": 25,
+      "airDate": "2026-11-22",
+      "title": {
+        "en": "Sparkling Star Kiraring Brooch!",
+        "romaji": "Kagayaki no Star Kiraring Brooch!",
+        "ja": "輝きのスターキラリングブローチ!"
+      },
+      "tvdbShowId": 470961,
+      "tvdbId": 11884162,
+      "seasonNumber": 1,
+      "episodeNumber": 42,
+      "absoluteEpisodeNumber": 42,
+      "runtime": 25,
+      "image": null
+    },
+    "43": {
+      "episode": "43",
+      "length": 25,
+      "airDate": "2026-11-29",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 470961,
+      "tvdbId": 11884144,
+      "seasonNumber": 1,
+      "episodeNumber": 43,
+      "absoluteEpisodeNumber": 43,
+      "runtime": 25,
+      "image": null
+    },
+    "44": {
+      "episode": "44",
+      "length": 25,
+      "airDate": "2026-12-06",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 470961,
+      "tvdbId": 11884163,
+      "seasonNumber": 1,
+      "episodeNumber": 44,
+      "absoluteEpisodeNumber": 44,
+      "runtime": 25,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:40:20.176Z",
+    "lastFetched": "2026-11-21T17:42:14.260Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

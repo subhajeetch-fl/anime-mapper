@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -52,14 +48,13 @@
   "genres": [
     "Action",
     "Fantasy",
-    "Sci-Fi"
+    "Sci-Fi",
+    "Urban Fantasy"
   ],
   "studios": [
     "Yien Animation Studio"
   ],
-  "producers": [
-    "Youku"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1263/153752l.jpg",
     "banner": null,
@@ -70,16 +65,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:04:13.934Z",
+    "lastFetched": "2026-11-21T17:40:08.188Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

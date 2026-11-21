@@ -4,7 +4,7 @@
   "mappings": {
     "mal": 63762,
     "anilist": null,
-    "anidb": null,
+    "anidb": 20501,
     "kitsu": null,
     "simkl": null,
     "tmdb": null,
@@ -12,9 +12,9 @@
     "trakt": null,
     "traktType": null,
     "shikimori": 63762,
-    "livechart": null,
+    "livechart": 13380,
     "animeplanet": null,
-    "anisearch": null,
+    "anisearch": 21325,
     "notify": null
   },
   "title": {
@@ -30,7 +30,7 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 20,
   "aired": {
     "from": "2026-04-04T00:00:00+00:00",
     "to": null
@@ -51,7 +51,9 @@
   },
   "genres": [
     "Comedy",
+    "Detective",
     "Fantasy",
+    "Kids",
     "Mystery"
   ],
   "studios": [
@@ -68,16 +70,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:02:59.588Z",
+    "lastFetched": "2026-11-21T17:46:24.884Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

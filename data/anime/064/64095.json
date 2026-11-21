@@ -27,10 +27,10 @@
     ]
   },
   "type": "OVA",
-  "source": "Visual novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": 1,
+  "source": "Game",
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": null,
   "episodeLength": null,
   "aired": {
     "from": "2026-07-31T00:00:00+00:00",
@@ -38,19 +38,12 @@
   },
   "season": "summer",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
-  "nextAiringEpisode": {
-    "episode": 2,
-    "airingAt": 1793286000
-  },
+  "broadcast": null,
+  "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": null,
-    "anilistScore": 5,
+    "malScore": 6.16,
+    "anilistScore": 5.6,
     "kitsuRating": null
   },
   "genres": [
@@ -62,21 +55,21 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1803/157178l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1803/157178l.webp",
     "banner": null,
     "color": "#e4ae50"
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "Based on the erotic game by Resta.\n\n\n\nIt's summer. You and your friends are on vacation, when suddenly the sea carries your boat away to an unknown island in another world. This island—Paradisiem Island—is small, with one village. According to the village chief, the island's Guardian Deity foresaw the arrival of you and your friends, and they want you to help the island return to its former glory. Without more tourists, there aren't enough people to worship the Guardian Deity, whose powers you need to return to your home world. Work together with your friends, Sahoto, Mei, and Chiyo, as well as some new friends you make on the island, to help it grow and prosper into a popular tourist destination!\n\n\n\n(Source: Steam)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-09-01T00:59:46.198Z",
+    "lastFetched": "2026-11-21T17:49:11.391Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

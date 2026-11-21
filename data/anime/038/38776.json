@@ -28,7 +28,7 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 1,
   "aired": {
     "from": "2018-11-11T00:00:00+00:00",
     "to": null
@@ -36,9 +36,9 @@
   "season": "fall",
   "year": 2018,
   "broadcast": {
-    "day": null,
+    "day": "Sundays",
     "time": null,
-    "timezone": null
+    "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
@@ -51,9 +51,7 @@
     "Slice of Life"
   ],
   "studios": [],
-  "producers": [
-    "NHK"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1980/96936l.jpg",
     "banner": null,
@@ -64,16 +62,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T08:48:59.329Z",
+    "lastFetched": "2026-11-21T17:54:48.083Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

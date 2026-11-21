@@ -29,13 +29,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 24,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-04-10T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-18T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2026,
@@ -44,20 +44,19 @@
     "time": "23:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 22,
-    "airingAt": 1788532200
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 5.87,
-    "anilistScore": 5.4,
+    "malScore": 6.18,
+    "anilistScore": 5.8,
     "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
     "Drama",
     "Gourmet",
     "Mystery",
+    "Seinen",
     "Slice of Life"
   ],
   "studios": [
@@ -65,257 +64,445 @@
   ],
   "producers": [
     "Pony Canyon",
-    "Movic",
-    "Kansai TV",
     "Crunchyroll",
-    "BS NTV",
-    "Studio Sound Bee"
+    "Satelight",
+    "Kansai TV",
+    "Movic",
+    "BS Nittele"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1863/158831l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1045/155698l.webp",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202508-K276v0truxE0.jpg",
     "color": "#e44386"
   },
-  "trailer": null,
-  "synopsis": "Shizuku Kanzaki is the only son of world-renowned wine critic Yutaka Kanzaki. From a young age, Shizuku has been subjected to strange education from his father all for the sake of wine. From learning to gracefully decant a drink to intently remembering the smell of leather belts and pencils, the training causes him to grow resentful of everything related to wine. Discontent with his father, he leaves home to become an average sales representative for a beer company, refusing to ever touch wine again.\n\nWhen his father suddenly passes away, Shizuku finds himself being dragged back into the world he hates so much. As part of his father's will, the one who will inherit his prized wine collection and estate will be the person who can correctly identify the \"12 Apostles\" of wines as well as the legendary \"Drops of God.\" In order to inherit the assets, Shizuku has one year to complete the task, but he finds the proposition ridiculous when he is the only living relative of Yutaka.\n\nWhat Yutaka failed to tell his son before his death was that he had adopted Issei Tomine into the family a week prior to his passing. Issei is a famous veteran wine critic competing against Shizuku to claim the estate for himself. With no formal training in wine tasting, Shizuku stands no chance against \"The Prince of Wine\" and is at risk of losing everything in this competition. Will he be able to correctly identify the elusive \"Drops of God\" before he runs out of time?\n\n[Written by MAL Rewrite]",
+  "trailer": {
+    "youtubeId": "Oz5EkYVJbBc",
+    "url": "https://www.youtube.com/watch?v=Oz5EkYVJbBc",
+    "thumbnail": "https://i.ytimg.com/vi/Oz5EkYVJbBc/hqdefault.jpg"
+  },
+  "synopsis": "Over the course of history, thanks to its multifaceted scent, palette of warm colors, and spiritual texture, wine has become an endless source of discoveries for food enthusiasts, connoisseurs, and poets alike. On top of this world, Yutaka Kanzaki stands as the most refined wine critic of his generation. Upon his passing, he tasks his estranged son Shizuku to compete with his adoptive son Issei Tomine for his legacy, urging them to find 12 elusive wine bottles known as the Drops of God.\n\nDespite following intense oenology training as a child, Shizuku has no interest in wine and has always refused to taste it. Intrigued by the initial competition to win the right to live in his father's house, a previous chance encounter with apprentice sommelier Miyabi Shinohara helps him develop an interest in wine tasting. As Shizuku discovers his gift as an oenologist, he eventually decides to join the competition to discover the secret of his father's passion.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-10",
       "title": {
-        "en": "The Beginning of All Battles"
+        "en": "The Beginning of All Battles",
+        "romaji": "Subete no Tatakai no Hajimari ni",
+        "ja": "すべての闘いのはじまりに"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470659,
+      "tvdbId": 11466852,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11466852/screencap/69c7bbf40d027.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-17",
       "title": {
-        "en": "Prayers to a Fragrant Land"
+        "en": "Prayers to a Fragrant Land",
+        "romaji": "Houjounaru Daichi e no Inori",
+        "ja": "豊穣なる大地への祈り"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470659,
+      "tvdbId": 11704333,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704333/screencap/69e0d7afdc822.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-24",
       "title": {
-        "en": "Thus Spoke the Will"
+        "en": "Thus Spoke the Will",
+        "romaji": "Yuigonjou wa Kaku Katariki",
+        "ja": "遺言状はかく語りき"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470659,
+      "tvdbId": 11704334,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704334/screencap/69ea3495597f5.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-01",
       "title": {
-        "en": "Made by the Hand of Man"
+        "en": "Made by the Hand of Man",
+        "romaji": "Hito no Tsukuri Shi Mono",
+        "ja": "人の造りしもの"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470659,
+      "tvdbId": 11704335,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704335/screencap/69f3511355f56.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-08",
       "title": {
-        "en": "The Strange Man From the Wine Division"
+        "en": "The Strange Man From the Wine Division",
+        "romaji": "Wine Jigyoubu no Kaijin",
+        "ja": "ワイン事業部の怪人"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470659,
+      "tvdbId": 11704336,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704336/screencap/69fc943d59cdf.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-15",
       "title": {
-        "en": "Bring Back the Smile from That Day"
+        "en": "Bring Back the Smile from That Day",
+        "romaji": "Ano Hi no Egao o Mou Ichido",
+        "ja": "あの日の笑顔をもう一度"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470659,
+      "tvdbId": 11704337,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704337/screencap/6a05b30d55733.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-22",
       "title": {
-        "en": "Episode 7"
+        "en": "The Pegasus in the Heavens",
+        "romaji": "Toki o Kakeru Tenma",
+        "ja": "時を駆ける天馬"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470659,
+      "tvdbId": 11704338,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704338/screencap/6a0eef44c6df1.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-29",
       "title": {
-        "en": "Episode 8"
+        "en": "A Smile That`s Mysterious",
+        "romaji": "Hohoemi wa Mysterious",
+        "ja": "微笑みはミステリアス"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470659,
+      "tvdbId": 11704339,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704339/screencap/6a1822c1e628e.jpg"
     },
     "9": {
       "episode": "9",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-05",
       "title": {
-        "en": "Episode 9"
+        "en": "A Smile That`s Refreshing and Healing",
+        "romaji": "Uruoi to Iyashi no Hohoemi ni",
+        "ja": "潤いと癒しの微笑みに"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470659,
+      "tvdbId": 11704340,
+      "seasonNumber": 1,
       "episodeNumber": 9,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704340/screencap/6a216d80e2c1d.jpg"
     },
     "10": {
       "episode": "10",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-12",
       "title": {
-        "en": "Episode 10"
+        "en": "In the Great Flow of Time",
+        "romaji": "Ooinaru Toki no Nagare o",
+        "ja": "大いなる時の流れを"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470659,
+      "tvdbId": 11704341,
+      "seasonNumber": 1,
       "episodeNumber": 10,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704341/screencap/6a2aa7925a7fc.jpg"
     },
     "11": {
       "episode": "11",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-19",
       "title": {
-        "en": "Episode 11"
+        "en": "A Large Hand Met in a Nostalgic Place",
+        "romaji": "Kyoushuu no Basho de Deatta Ookina Te",
+        "ja": "郷愁の場所で出会った大きな手"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470659,
+      "tvdbId": 11704342,
+      "seasonNumber": 1,
       "episodeNumber": 11,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704342/screencap/6a33e5e0daa64.jpg"
     },
     "12": {
       "episode": "12",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-26",
       "title": {
-        "en": "Episode 12"
+        "en": "Take the Distant Path",
+        "romaji": "Harukanaru Michi o Yuke",
+        "ja": "遥かなる道を往け"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470659,
+      "tvdbId": 11704343,
+      "seasonNumber": 1,
       "episodeNumber": 12,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704343/screencap/6a3d0dd918208.jpg"
     },
     "13": {
       "episode": "13",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-03",
       "title": {
-        "en": "Episode 13"
+        "en": "You Remind Me of My First Love",
+        "romaji": "Hatsukoi no Hito ni Nishi Kimi wa",
+        "ja": "初恋の人に似し君は"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470659,
+      "tvdbId": 11704344,
+      "seasonNumber": 1,
       "episodeNumber": 13,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704344/screencap/6a47d541c7e81.jpg"
     },
     "14": {
       "episode": "14",
-      "length": "24m",
+      "length": 24,
       "airDate": "2026-07-10",
       "title": {
-        "en": "Wine, Served With Mystery"
+        "en": "The Missing Goddesses",
+        "romaji": "Shissou Shita Megami-tachi",
+        "ja": "失踪した女神たち"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470659,
+      "tvdbId": 11704345,
+      "seasonNumber": 1,
       "episodeNumber": 14,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704345/screencap/6a50f00eac99e.jpg"
     },
     "15": {
       "episode": "15",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-17",
       "title": {
-        "en": "Episode 15"
+        "en": "Wine, Served with Mystery",
+        "romaji": "Wine ni Mystery o Soete",
+        "ja": "ワインにミステリーを添えて"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470659,
+      "tvdbId": 11704346,
+      "seasonNumber": 1,
       "episodeNumber": 15,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 15,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704346/screencap/6a5988ed20782.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": 25,
+      "airDate": "2026-07-24",
+      "title": {
+        "en": "Beautiful Silver Goddess",
+        "romaji": "Utsukushiki Hakugin no Kami yo",
+        "ja": "美しき白銀の神よ"
+      },
+      "tvdbShowId": 470659,
+      "tvdbId": 11704347,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704347/screencap/6a62baff7d3d6.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": 25,
+      "airDate": "2026-07-31",
+      "title": {
+        "en": "A Voice, Strict but Gentle",
+        "romaji": "Kibishiku mo Yasashiki Sono Koe wa",
+        "ja": "厳しくも優しきその声は"
+      },
+      "tvdbShowId": 470659,
+      "tvdbId": 11704348,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704348/screencap/6a6bb06aabb32.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": 25,
+      "airDate": "2026-08-07",
+      "title": {
+        "en": "Embraced by the Eternal Universe",
+        "romaji": "Eiennaru Uchuu ni Idakarete",
+        "ja": "永遠なる宇宙に抱かれて"
+      },
+      "tvdbShowId": 470659,
+      "tvdbId": 11704349,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704349/screencap/6a75b85baebc2.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": 25,
+      "airDate": "2026-08-14",
+      "title": {
+        "en": "A Pale Moon Shines in the Distance",
+        "romaji": "Sougetsu wa Tooku Kagayaki",
+        "ja": "蒼月は遠く輝き"
+      },
+      "tvdbShowId": 470659,
+      "tvdbId": 11704350,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704350/screencap/6a7de2a95f779.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": 25,
+      "airDate": "2026-08-21",
+      "title": {
+        "en": "A New Hand, Shrouded in a Veil",
+        "romaji": "Atarashiki Te wa Veil ni Tsutsumarete",
+        "ja": "新しき手はベールに包まれて"
+      },
+      "tvdbShowId": 470659,
+      "tvdbId": 11704351,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704351/screencap/6a877dcae30b4.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": 25,
+      "airDate": "2026-08-28",
+      "title": {
+        "en": "Prayers and Wisdom Unending",
+        "romaji": "Inori to Eichi wa Taeru Koto Naku",
+        "ja": "祈りと叡智は絶えることなく"
+      },
+      "tvdbShowId": 470659,
+      "tvdbId": 11704352,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704352/screencap/6a917aefd5bf3.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": 25,
+      "airDate": "2026-09-04",
+      "title": {
+        "en": "Gentle Fragrance of Distant Days",
+        "romaji": "Tooki Hi no Yasashiki Kaori",
+        "ja": "遠き日の優しき香り"
+      },
+      "tvdbShowId": 470659,
+      "tvdbId": 11704353,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704353/screencap/6a9a1c18ac586.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": 25,
+      "airDate": "2026-09-11",
+      "title": {
+        "en": "Oh, Young One",
+        "romaji": "Osanaki Mono yo",
+        "ja": "幼き者よ"
+      },
+      "tvdbShowId": 470659,
+      "tvdbId": 11704354,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704354/screencap/6aa354bb1684f.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": 25,
+      "airDate": "2026-09-18",
+      "title": {
+        "en": "A Light on a Long Road",
+        "romaji": "Choukyuu no Tabiji ni Tomoru Hi",
+        "ja": "長久の旅路に燈る火"
+      },
+      "tvdbShowId": 470659,
+      "tvdbId": 11704355,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704355/screencap/6aad3f2989929.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:38:57.478Z",
+    "lastFetched": "2026-11-21T17:41:51.513Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

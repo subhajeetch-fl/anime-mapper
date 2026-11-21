@@ -34,7 +34,7 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 24,
-  "episodeLength": 24,
+  "episodeLength": 23,
   "aired": {
     "from": "2026-07-08T00:00:00+00:00",
     "to": null
@@ -47,113 +47,426 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 9,
-    "airingAt": 1788280500
+    "episode": 21,
+    "airingAt": 1795538100
   },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.52,
-    "anilistScore": 6.1,
+    "malScore": 5.66,
+    "anilistScore": 6.2,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Adventure",
     "Drama",
+    "Historical",
     "Romance",
+    "Shoujo",
     "Supernatural",
+    "Time Travel",
     "Fantasy"
   ],
   "studios": [
     "Tatsunoko Production"
   ],
   "producers": [
-    "VAP",
     "Nippon Television Network",
-    "Nippon Television Music",
-    "BS NTV",
-    "Team Kawadon"
+    "VAP",
+    "BS Nittele",
+    "NTV Music"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1158/158138l.jpg",
     "banner": null,
     "color": "#e4bb5d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "qpFcQ1Bek08",
+    "url": "https://www.youtube.com/watch?v=qpFcQ1Bek08",
+    "thumbnail": "https://i.ytimg.com/vi/qpFcQ1Bek08/hqdefault.jpg"
+  },
   "synopsis": "Yuri, a pretty Japanese girl, is ecstatic after passing her college entrance exam and having her first kiss with her childhood friend-turned boyfriend. However, her luck soon changes. She starts to notice that water becomes agitated whenever she goes near it. One night, hands appear out of a puddle on the street and drag her into the water! Transported to an ancient village in the Middle East, she is then captured by armed troops and taken to the Queen's palace for a human sacrifice.\n\n(Source: VIZ Media)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-08",
       "title": {
-        "en": "A Goodbye Kiss, A Hello Kiss"
+        "en": "A Goodbye Kiss, A Hello Kiss",
+        "romaji": "Wakare to Deai no Kiss",
+        "ja": "別れと出会いのキス"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474027,
+      "tvdbId": 11616849,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11616849/screencap/6a3638cbde6bc.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-15",
       "title": {
-        "en": "The Black Water"
+        "en": "The Black Water",
+        "romaji": "Kuroi Mizu",
+        "ja": "黒い水"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474027,
+      "tvdbId": 11876013,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876013/screencap/6a50e712b24d7.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-22",
       "title": {
-        "en": "Episode 3"
+        "en": "I Can`t Go Back, I Won`t Go Back",
+        "romaji": "Kaeranai, Kaerenai",
+        "ja": "還らない, 還れない"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474027,
+      "tvdbId": 11876014,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876014/screencap/6a5a2499b7147.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-29",
       "title": {
-        "en": "Episode 4"
+        "en": "Ishtar Incarnate"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474027,
+      "tvdbId": 11876015,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876015/screencap/6a635bdc19801.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-05",
+      "title": {
+        "en": "A Sword to Fight"
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11876016,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876016/screencap/6a6cacd94e2cd.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-12",
+      "title": {
+        "en": "The One I Can`t Love"
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11876017,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876017/screencap/6a75a7ec490c4.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-19",
+      "title": {
+        "en": "Cold Lips"
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11876018,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876018/screencap/6a7ee758464ea.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-26",
+      "title": {
+        "en": "Under the Apple Tree"
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11876019,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876019/screencap/6a88164b845cb.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-09-02",
+      "title": {
+        "en": "The Sign on the Palm"
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11876020,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876020/screencap/6a9152152e7b2.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-09",
+      "title": {
+        "en": "Ishtar the Purloined"
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11876021,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876021/screencap/6a9aa60bb8203.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-16",
+      "title": {
+        "en": "Where My Heart Is"
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11876022,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876022/screencap/6aa3cb8165985.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-23",
+      "title": {
+        "en": "The Appointed Time"
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11876023,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876023/screencap/6aad153c4a86c.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": 25,
+      "airDate": "2026-09-30",
+      "title": {
+        "en": "A Letter from Egypt"
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11939070,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11939070/screencap/6ab8dacd5f7c5.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": 25,
+      "airDate": "2026-10-07",
+      "title": {
+        "en": "The Arrow Wound of Grief"
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11939071,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11939071/screencap/6ac1a8c564141.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": 25,
+      "airDate": "2026-10-14",
+      "title": {
+        "en": "The False Ishtar"
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11939072,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11939072/screencap/6ac89e7d8f1e3.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": 25,
+      "airDate": "2026-10-21",
+      "title": {
+        "en": "The Oath at the Grave"
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11939073,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11939073/screencap/6ad1ef7204720.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": 25,
+      "airDate": "2026-10-28",
+      "title": {
+        "en": "A New Conspiracy"
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11939074,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11939074/screencap/6adb02c6cab93.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": 25,
+      "airDate": "2026-11-04",
+      "title": {
+        "en": "Proof of Innocence"
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11939075,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11939075/screencap/6ae464fba1999.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": 25,
+      "airDate": "2026-11-11",
+      "title": {
+        "en": "Dream of That Wonderful Day"
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11939076,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11939076/screencap/6aedadb78e2cd.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": 25,
+      "airDate": "2026-11-18",
+      "title": {
+        "en": "Divisions"
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11939077,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11939077/screencap/6af6ebaf129fa.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": 25,
+      "airDate": "2026-11-25",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11939078,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11939078/screencap/6b000e5706167.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": 25,
+      "airDate": "2026-12-02",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11939079,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 23,
+      "image": null
+    },
+    "23": {
+      "episode": "23",
+      "length": 25,
+      "airDate": "2026-12-09",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11939080,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 23,
+      "image": null
+    },
+    "24": {
+      "episode": "24",
+      "length": 25,
+      "airDate": "2026-12-16",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 474027,
+      "tvdbId": 11939081,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 23,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:50:15.501Z",
+    "lastFetched": "2026-11-21T17:45:25.006Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

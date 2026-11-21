@@ -30,7 +30,7 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-04-05T00:00:00+00:00",
     "to": null
@@ -43,16 +43,17 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 23,
-    "airingAt": 1788654600
+    "episode": 34,
+    "airingAt": 1795307400
   },
   "rating": "PG - Children",
   "score": {
-    "malScore": 5.93,
-    "anilistScore": 5.4,
+    "malScore": 6.11,
+    "anilistScore": 5.8,
     "kitsuRating": null
   },
   "genres": [
+    "Idols (Female)",
     "Music"
   ],
   "studios": [
@@ -61,16 +62,25 @@
     "Dongwoo Animation"
   ],
   "producers": [
-    "TV Tokyo",
     "Avex Pictures",
-    "Shogakukan"
+    "KYORAKU",
+    "Shogakukan",
+    "Takara Tomy",
+    "TV Tokyo",
+    "Dongwoo Animation",
+    "NAS",
+    "OLM"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1705/155680l.jpg",
     "banner": null,
     "color": "#0035ff"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "j5MgjyhhUBc",
+    "url": "https://www.youtube.com/watch?v=j5MgjyhhUBc",
+    "thumbnail": "https://i.ytimg.com/vi/j5MgjyhhUBc/hqdefault.jpg"
+  },
   "synopsis": "The new anime's story centers on Konomi Inori, a first year middle school student who just moved to the town of Onegai. At the town's plaza, Konomi prayed to the goddess statue to give her a chance to be an AiPri. After she prayed, she accidentally meets the famous AiPri Aoi Yumemiya and a mysterious talking stuffed toy with her named Fortu. It turns out that Fortu is looking for an AiPri who can make their wish come true, and when Konomi opened the special mirror pact that Aoi handed her, she gets the AiPri debut that she prayed for. \n\n(Source: ANN)",
   "sequence": [
     {
@@ -90,315 +100,683 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-05",
       "title": {
-        "en": "Please! Become an AiPri"
+        "en": "Please! Become an AiPri",
+        "romaji": "Onegai! AiPri ni Natte",
+        "ja": "おねがい! アイプリになって"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474655,
+      "tvdbId": 11651703,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11651703/screencap/69d3abdf29e63.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-12",
       "title": {
-        "en": "Let`s Make That Dream Come True"
+        "en": "Let`s Make That Dream Come True",
+        "romaji": "Sono Yume, Kanaechao",
+        "ja": "その夢, かなえちゃお♪"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474655,
+      "tvdbId": 11721770,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11721770/screencap/69d3ad5fc9ab8.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-19",
       "title": {
-        "en": "A Single Beloved One"
+        "en": "A Single Beloved One",
+        "romaji": "Tatta Hitotsu no Daisuki",
+        "ja": "たったひとつのだいすき"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474655,
+      "tvdbId": 11736672,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11736672/screencap/69e233665b6b0.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-26",
       "title": {
-        "en": "My Friend Is an AiPri!?"
+        "en": "My Friend Is an AiPri!?",
+        "romaji": "Otomodachi ga AiPri!?",
+        "ja": "おともだちがアイプリ!?"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474655,
+      "tvdbId": 11755737,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11755737/screencap/69ea2416e362f.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-03",
       "title": {
-        "en": "The First AiPri Fest!"
+        "en": "The First AiPri Fest!",
+        "romaji": "Hajimete no AiPri Fes!",
+        "ja": "はじめてのアイプリフェス!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474655,
+      "tvdbId": 11763779,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11763779/screencap/69ef6b9db6b66.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-10",
       "title": {
-        "en": "Connect! Love and Dreams"
+        "en": "Connect! Love and Dreams",
+        "romaji": "Tsunagou! Yume to Daisuki",
+        "ja": "つなごう! ゆめとだいすき"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474655,
+      "tvdbId": 11777751,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11777751/screencap/69f8bfd6d28a6.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-17",
       "title": {
-        "en": "Both Their Wishes"
+        "en": "Both Their Wishes",
+        "romaji": "Futatsu no Onegai",
+        "ja": "ふたつのおねがい"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474655,
+      "tvdbId": 11796653,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11796653/screencap/6a089c7014ff9.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-24",
       "title": {
-        "en": "What I Wanted to Say"
+        "en": "What I Wanted to Say",
+        "romaji": "Iitakatta Koto",
+        "ja": "いいたかったこと"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474655,
+      "tvdbId": 11801352,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11801352/screencap/6a0c564ff0bbc.jpg"
     },
     "9": {
       "episode": "9",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-31",
       "title": {
-        "en": "With Wings of Courage"
+        "en": "With Wings of Courage",
+        "romaji": "Yuuki no Tsubasa de",
+        "ja": "ゆうきのつばさで"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474655,
+      "tvdbId": 11810236,
+      "seasonNumber": 1,
       "episodeNumber": 9,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11810236/screencap/6a15dbab92266.jpg"
     },
     "10": {
       "episode": "10",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-07",
       "title": {
-        "en": "Little Friends"
+        "en": "Little Friends",
+        "romaji": "Chiisana Otomodachi",
+        "ja": "ちいさなおともだち"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474655,
+      "tvdbId": 11821542,
+      "seasonNumber": 1,
       "episodeNumber": 10,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11821542/screencap/6a1eddbda366e.jpg"
     },
     "11": {
       "episode": "11",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-14",
       "title": {
-        "en": "Inori`s Treasure"
+        "en": "Inori`s Treasure",
+        "romaji": "Inori no Takaramono",
+        "ja": "いのりのたからもの"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474655,
+      "tvdbId": 11846317,
+      "seasonNumber": 1,
       "episodeNumber": 11,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11846317/screencap/6a2fff7a062a6.jpg"
     },
     "12": {
       "episode": "12",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-21",
       "title": {
-        "en": "Gumi and Olivia"
+        "en": "Gumi and Olivia",
+        "romaji": "Gumi to Olivia",
+        "ja": "ぐみとおりびあ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474655,
+      "tvdbId": 11846318,
+      "seasonNumber": 1,
       "episodeNumber": 12,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11846318/screencap/6a314e538ab37.jpg"
     },
     "13": {
       "episode": "13",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-28",
       "title": {
-        "en": "Soar High! AiPri Fest!"
+        "en": "Soar High! AiPri Fest!",
+        "romaji": "Habatake! AiPri Fes!",
+        "ja": "はばたけ! アイプリフェス!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474655,
+      "tvdbId": 11846315,
+      "seasonNumber": 1,
       "episodeNumber": 13,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11846315/screencap/6a3a873a03a13.jpg"
     },
     "14": {
       "episode": "14",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-05",
       "title": {
-        "en": "My High Sense!"
+        "en": "My High Sense!",
+        "romaji": "Watashi no High Sense!",
+        "ja": "わたしのハイセンス!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474655,
+      "tvdbId": 11846316,
+      "seasonNumber": 1,
       "episodeNumber": 14,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11846316/screencap/6a43c4690e82f.jpg"
     },
     "15": {
       "episode": "15",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-12",
       "title": {
-        "en": "The AiPri of Passion"
+        "en": "The AiPri of Passion",
+        "romaji": "Jounetsu no AiPri",
+        "ja": "情熱のアイプリ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474655,
+      "tvdbId": 11881592,
+      "seasonNumber": 1,
       "episodeNumber": 15,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 15,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881592/screencap/6a6a1409eb1b7.jpg"
     },
     "16": {
       "episode": "16",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-19",
       "title": {
-        "en": "The Top Power of Passion"
+        "en": "The Top Power of Passion",
+        "romaji": "Jounetsu no Top Power",
+        "ja": "情熱のトップ・パワー"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474655,
+      "tvdbId": 11890364,
+      "seasonNumber": 1,
       "episodeNumber": 16,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11890364/screencap/6a6a22a8600ad.jpg"
     },
     "17": {
       "episode": "17",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-26",
       "title": {
-        "en": "Episode 17"
+        "en": "Aoi and the Wish Granting Squad",
+        "romaji": "Aoi to Onegai Kanae Tai",
+        "ja": "あおいとおねがいかなえ隊"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474655,
+      "tvdbId": 11890365,
+      "seasonNumber": 1,
       "episodeNumber": 17,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11890365/screencap/6a6a233754c9a.jpg"
     },
     "18": {
       "episode": "18",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-02",
       "title": {
-        "en": "Episode 18"
+        "en": "Emma Can See It",
+        "romaji": "Emma ni wa Miechaimashita",
+        "ja": "エマには見えちゃいました"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 474655,
+      "tvdbId": 11911576,
+      "seasonNumber": 1,
       "episodeNumber": 18,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11911576/screencap/6a734f4091812.jpg"
     },
     "19": {
       "episode": "19",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-09",
       "title": {
-        "en": "Episode 19"
+        "en": "The Mysteries of Onegai Town",
+        "romaji": "Onegai-chou no Fushigi",
+        "ja": "おねがい町のふしぎ"
+      },
+      "tvdbShowId": 474655,
+      "tvdbId": 11911577,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11911577/screencap/6a734f7488a3a.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": 25,
+      "airDate": "2026-08-16",
+      "title": {
+        "en": "Clash! Courage and Passion!",
+        "romaji": "Butsukare! Yuuki to Jounetsu!",
+        "ja": "ぶつかれ! 勇気と情熱!"
+      },
+      "tvdbShowId": 474655,
+      "tvdbId": 11917971,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11917971/screencap/6a79d6a0521cc.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": 25,
+      "airDate": "2026-08-23",
+      "title": {
+        "en": "Fortu Will Explain It All-chu",
+        "romaji": "Matomete Oshiete Fortu cchuu",
+        "ja": "まとめて教えてフォーチュっちゅー"
+      },
+      "tvdbShowId": 474655,
+      "tvdbId": 11928048,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11928048/screencap/6a832689631a8.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": 25,
+      "airDate": "2026-08-30",
+      "title": {
+        "en": "Dokidoki! Summer Fest Showdown",
+        "romaji": "Dokidoki! Natsu no Fes Taiketsu",
+        "ja": "ドキドキ! 夏のフェス対決"
+      },
+      "tvdbShowId": 474655,
+      "tvdbId": 11939394,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11939394/screencap/6a8c44c111dc6.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": 25,
+      "airDate": "2026-09-06",
+      "title": {
+        "en": "It`s Goodbye",
+        "romaji": "Sayounara, na no Desu",
+        "ja": "さようなら, なのです"
+      },
+      "tvdbShowId": 474655,
+      "tvdbId": 11955109,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11955109/screencap/6a957c0042c62.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": 25,
+      "airDate": "2026-09-13",
+      "title": {
+        "en": "The Whereabouts of the Letter",
+        "romaji": "Tegami no Yukue",
+        "ja": "てがみのゆくえ"
+      },
+      "tvdbShowId": 474655,
+      "tvdbId": 11965866,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11965866/screencap/6aa8013c6f5ae.jpg"
+    },
+    "25": {
+      "episode": "25",
+      "length": 25,
+      "airDate": "2026-09-20",
+      "title": {
+        "en": "The Little Ghost`s Wish",
+        "romaji": "Obake-chan no Onegai",
+        "ja": "おばけちゃんのおねがい"
+      },
+      "tvdbShowId": 474655,
+      "tvdbId": 11978173,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11978173/screencap/6aa8035692a4e.jpg"
+    },
+    "26": {
+      "episode": "26",
+      "length": 25,
+      "airDate": "2026-09-27",
+      "title": {
+        "en": "Let`s Pop On!",
+        "ja": "ポップにいこーん!"
+      },
+      "tvdbShowId": 474655,
+      "tvdbId": 11995827,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11995827/screencap/6ab13463bab5d.jpg"
+    },
+    "27": {
+      "episode": "27",
+      "length": 25,
+      "airDate": "2026-10-04",
+      "title": {
+        "en": "Six Wishes",
+        "romaji": "Muttsu no Onegai",
+        "ja": "六つのおねがい"
+      },
+      "tvdbShowId": 474655,
+      "tvdbId": 12007719,
+      "seasonNumber": 1,
+      "episodeNumber": 27,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12007719/screencap/6ac5272ed21ff.jpg"
+    },
+    "28": {
+      "episode": "28",
+      "length": 25,
+      "airDate": "2026-10-11",
+      "title": {
+        "en": "Convey It! Pure Heart",
+        "romaji": "Todoke! Pure Heart",
+        "ja": "とどけ! ピュアハート"
+      },
+      "tvdbShowId": 474655,
+      "tvdbId": 12022519,
+      "seasonNumber": 1,
+      "episodeNumber": 28,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022519/screencap/6ac528850b619.jpg"
+    },
+    "29": {
+      "episode": "29",
+      "length": 25,
+      "airDate": "2026-10-18",
+      "title": {
+        "en": "Teach Me Your Love",
+        "romaji": "Daisuki o Oshiete",
+        "ja": "だいすきをおしえて"
+      },
+      "tvdbShowId": 474655,
+      "tvdbId": 12043946,
+      "seasonNumber": 1,
+      "episodeNumber": 29,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12043946/screencap/6ad6792d8d6b1.jpg"
+    },
+    "30": {
+      "episode": "30",
+      "length": 25,
+      "airDate": "2026-10-25",
+      "title": {
+        "en": "Onegai! Happy Halloween",
+        "romaji": "Onegai! Happy Halloween",
+        "ja": "おねがい! ハッピーハロウィン"
+      },
+      "tvdbShowId": 474655,
+      "tvdbId": 12043947,
+      "seasonNumber": 1,
+      "episodeNumber": 30,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12043947/screencap/6ad67a1c823ef.jpg"
+    },
+    "31": {
+      "episode": "31",
+      "length": 25,
+      "airDate": "2026-11-01",
+      "title": {
+        "en": "Friends Forever Fest",
+        "romaji": "Zutto Otomodachi Fes",
+        "ja": "ずっとおともだちフェス"
+      },
+      "tvdbShowId": 474655,
+      "tvdbId": 12070338,
+      "seasonNumber": 1,
+      "episodeNumber": 31,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12070338/screencap/6af1c8ea564f3.jpg"
+    },
+    "32": {
+      "episode": "32",
+      "length": 25,
+      "airDate": "2026-11-08",
+      "title": {
+        "en": "The Wish Granting Channel!",
+        "romaji": "Onegai Kanae Channel!",
+        "ja": "おねがいかなえチャンネル!"
+      },
+      "tvdbShowId": 474655,
+      "tvdbId": 12070339,
+      "seasonNumber": 1,
+      "episodeNumber": 32,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12070339/screencap/6af1c935d7f1d.jpg"
+    },
+    "33": {
+      "episode": "33",
+      "length": 25,
+      "airDate": "2026-11-15",
+      "title": {
+        "en": "The First Wish",
+        "romaji": "Saisho no Onegai",
+        "ja": "さいしょのおねがい"
+      },
+      "tvdbShowId": 474655,
+      "tvdbId": 12080314,
+      "seasonNumber": 1,
+      "episodeNumber": 33,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12080314/screencap/6af1ca235bb8b.jpg"
+    },
+    "34": {
+      "episode": "34",
+      "length": 25,
+      "airDate": "2026-11-22",
+      "title": {
+        "en": "Shine! Wish Granting Squad",
+        "romaji": "Kagayake! Onegai Kanae Tai",
+        "ja": "輝け! おねがいかなえ隊"
+      },
+      "tvdbShowId": 474655,
+      "tvdbId": 12092916,
+      "seasonNumber": 1,
+      "episodeNumber": 34,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12092916/screencap/6afb10c269d41.jpg"
+    },
+    "35": {
+      "episode": "35",
+      "length": 25,
+      "airDate": "2026-11-29",
+      "title": {
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
       "seasonNumber": null,
-      "episodeNumber": 19,
+      "episodeNumber": 35,
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null
     },
-    "20": {
-      "episode": "20",
-      "length": "25m",
-      "airDate": "2026-08-16",
+    "36": {
+      "episode": "36",
+      "length": 25,
+      "airDate": "2026-12-06",
       "title": {
-        "en": "Episode 20"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
       "seasonNumber": null,
-      "episodeNumber": 20,
+      "episodeNumber": 36,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "37": {
+      "episode": "37",
+      "length": 25,
+      "airDate": "2026-12-13",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 37,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "38": {
+      "episode": "38",
+      "length": 25,
+      "airDate": "2026-12-20",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 38,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "39": {
+      "episode": "39",
+      "length": 25,
+      "airDate": "2026-12-27",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 39,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "40": {
+      "episode": "40",
+      "length": 25,
+      "airDate": "2027-01-03",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 40,
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:48:12.555Z",
+    "lastFetched": "2026-11-21T17:44:39.954Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

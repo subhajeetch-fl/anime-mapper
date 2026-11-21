@@ -22,35 +22,28 @@
     "english": null,
     "native": "君と花火と約束と",
     "synonyms": [
-      "You",
-      "Fireworks",
-      "and Our Promise",
-      "KimiHana",
-      "You, Fireworks, and Our Promise"
+      "You, Fireworks, and Our Promise",
+      "KimiHana"
     ]
   },
   "type": "Movie",
   "source": "Light novel",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 96,
   "aired": {
     "from": "2026-07-17T00:00:00+00:00",
-    "to": null
+    "to": "2026-07-17T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
-    "anilistScore": null,
+    "anilistScore": 6.1,
     "kitsuRating": null
   },
   "genres": [
@@ -61,20 +54,26 @@
     "The Answer Studio"
   ],
   "producers": [
-    "Shin-Ei Animation"
+    "Shin-Ei Animation",
+    "Shouchiku",
+    "Showgate"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1430/158086l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206819-4oLkAimSr18r.jpg",
     "color": "#d6a178"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "zwiemWqog74",
+    "url": "https://www.youtube.com/watch?v=zwiemWqog74",
+    "thumbnail": "https://i.ytimg.com/vi/zwiemWqog74/hqdefault.jpg"
+  },
   "synopsis": "Set around the Nagaoka Festival Grand Fireworks Show, one of Japan's three major fireworks displays, this story follows two high school students, Makoto and Akira.\n\nThough they live far apart in Tokyo and have never met, their lives are unexpectedly brought together by a single, mysterious painting of a firework. Drawn together by this strange connection, the two grow closer as time runs short. As the festival approaches, Makoto and Akira are faced with a decision that will change their futures forever.\n\n(Source: MAL News)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "0m",
+      "length": 0,
       "airDate": "2026-07-17",
       "title": {
         "en": "Complete Movie"
@@ -89,15 +88,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-16T21:51:37.344Z",
+    "lastFetched": "2026-11-21T17:44:42.340Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

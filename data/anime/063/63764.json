@@ -6,7 +6,7 @@
     "anilist": 209562,
     "anidb": 19957,
     "kitsu": 50711,
-    "simkl": null,
+    "simkl": 3055790,
     "tmdb": 317259,
     "tvdb": 475739,
     "trakt": 317718,
@@ -19,32 +19,35 @@
   },
   "title": {
     "romaji": "Vertex Force",
-    "english": null,
+    "english": "Vertex Force",
     "native": "バーテックスフォース",
     "synonyms": []
   },
   "type": "TV",
   "source": "Original",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-03T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Saturdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 9,
+    "airingAt": 1795876200
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 5.63,
+    "anilistScore": 5.5,
     "kitsuRating": null
   },
   "genres": [
@@ -57,27 +60,226 @@
   ],
   "producers": [
     "Aniplex",
-    "dugout"
+    "U-NEXT",
+    "SANKYO",
+    "TOKYO MX",
+    "BS11",
+    "Movic",
+    "ABC Animation",
+    "Nagoya TV Housou",
+    "Shogakukan Music & Digital Entertainment"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1851/157377l.jpg",
-    "banner": null,
-    "color": "#5d93e4"
+    "poster": "https://cdn.myanimelist.net/images/anime/1026/160012l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209562-dvyIvOOVgDNp.jpg",
+    "color": "#e4d650"
   },
-  "trailer": null,
-  "synopsis": null,
+  "trailer": {
+    "youtubeId": "JqjXaJysS5w",
+    "url": "https://www.youtube.com/watch?v=JqjXaJysS5w",
+    "thumbnail": "https://i.ytimg.com/vi/JqjXaJysS5w/hqdefault.jpg"
+  },
+  "synopsis": "Akira Toudou, a high schooler living in northern Okinawa, lives peacefully with his mother and his older sister, Haruka. However, behind their peaceful life lies a secret passed down through their family: Haruka has inherited a mysterious power from their father, known only as \"Engine,\" and she has lived her life hiding this power from others. Akira, however, inherited nothing. He harbors an inferiority complex due to his own weakness.\n\nThen, strange events began to occur all over the world. What is the purpose of the unknown enemy closing in on Akira and his friends? Now, with the fate of the universe at stake, a brother who has nothing and a sister who has everything must find out what they can really do together.\n\n(Source: MAL News)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-03",
+      "title": {
+        "en": "Engine, Ignition"
+      },
+      "tvdbShowId": 475739,
+      "tvdbId": 11688139,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11688139/screencap/6abf803c3da50.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-10",
+      "title": {
+        "en": "Vertex",
+        "romaji": "Vertex",
+        "ja": "バーテックス"
+      },
+      "tvdbShowId": 475739,
+      "tvdbId": 12017091,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017091/screencap/6ac76da2e383d.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-17",
+      "title": {
+        "en": "Ardent Feelings",
+        "romaji": "Atsui Omoi",
+        "ja": "熱い想い"
+      },
+      "tvdbShowId": 475739,
+      "tvdbId": 12017092,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017092/screencap/6ad0a029965fb.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-24",
+      "title": {
+        "en": "Brother and Sister",
+        "romaji": "Ane to Ototo",
+        "ja": "姉と弟"
+      },
+      "tvdbShowId": 475739,
+      "tvdbId": 12017093,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017093/screencap/6ad9d79842405.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-10-31",
+      "title": {
+        "en": "That`s the Answer"
+      },
+      "tvdbShowId": 475739,
+      "tvdbId": 12017094,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017094/screencap/6ae3219a44a5b.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-07",
+      "title": {
+        "en": "It`s No Mistake"
+      },
+      "tvdbShowId": 475739,
+      "tvdbId": 12017095,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017095/screencap/6aec4c4251809.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-14",
+      "title": {
+        "en": "Today Is the Day"
+      },
+      "tvdbShowId": 475739,
+      "tvdbId": 12017096,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017096/screencap/6af58d0943b2f.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-21",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475739,
+      "tvdbId": 12017097,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017097/screencap/6afebdd49a901.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-11-28",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475739,
+      "tvdbId": 12017098,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-05",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475739,
+      "tvdbId": 12017099,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-12",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475739,
+      "tvdbId": 12017100,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-19",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475739,
+      "tvdbId": 12017101,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-10T21:49:50.471Z",
+    "lastFetched": "2026-11-21T17:46:28.841Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

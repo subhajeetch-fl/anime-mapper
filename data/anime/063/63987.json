@@ -4,17 +4,17 @@
   "mappings": {
     "mal": 63987,
     "anilist": 211220,
-    "anidb": null,
-    "kitsu": null,
-    "simkl": null,
+    "anidb": 20232,
+    "kitsu": 50878,
+    "simkl": 3199702,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 63987,
     "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "raised-by-demons-panda-li",
+    "anisearch": 21878,
     "notify": null
   },
   "title": {
@@ -24,27 +24,23 @@
     "synonyms": []
   },
   "type": "ONA",
-  "source": "Novel",
-  "status": "Not yet aired",
+  "source": "Web novel",
+  "status": "Finished Airing",
   "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "episodeCount": 18,
+  "episodeLength": 20,
   "aired": {
-    "from": "2026-01-01T00:00:00+00:00",
-    "to": null
+    "from": "2026-07-29T00:00:00+00:00",
+    "to": "2026-11-11T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.01,
+    "anilistScore": 6.6,
     "kitsuRating": null
   },
   "genres": [
@@ -60,24 +56,337 @@
     "iQIYI"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1536/156930l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1862/159050l.jpg",
     "banner": null,
     "color": "#ff43c9"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "aUuiaKnLR1g",
+    "url": "https://www.youtube.com/watch?v=aUuiaKnLR1g",
+    "thumbnail": "https://i.ytimg.com/vi/aUuiaKnLR1g/hqdefault.jpg"
+  },
   "synopsis": "The story follows Li Xiongmao, a human boy raised by the demon race, who is ordered by his master to leave Black and White Mountain to kill three enemies who destroyed the demon race. In the process of investigating the truth, he gradually uncovers the conflict between humans and demons, the secrets of the dynasty, and the mystery of his own destiny.\n\n(Source: iQIYI, translated)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": null,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": null,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": null,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": null,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": null,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": null,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": null,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": null,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": null,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": null,
+      "image": null
+    },
+    "14": {
+      "episode": "14",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": null,
+      "image": null
+    },
+    "15": {
+      "episode": "15",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": null,
+      "image": null
+    },
+    "16": {
+      "episode": "16",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": null,
+      "image": null
+    },
+    "17": {
+      "episode": "17",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": null,
+      "image": null
+    },
+    "18": {
+      "episode": "18",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:58:24.510Z",
+    "lastFetched": "2026-11-21T17:47:54.619Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

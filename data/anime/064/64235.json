@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 64235,
     "livechart": 13637,
-    "animeplanet": null,
+    "animeplanet": "omae-tanuki-ni-naranee-ka",
     "anisearch": 21571,
     "notify": null
   },
@@ -40,11 +40,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -65,17 +61,21 @@
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/212456-ZainbEftuRqY.jpg",
     "color": "#c9e450"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "AEHAvcV7vKU",
+    "url": "https://www.youtube.com/watch?v=AEHAvcV7vKU",
+    "thumbnail": "https://i.ytimg.com/vi/AEHAvcV7vKU/hqdefault.jpg"
+  },
   "synopsis": "A series of encounters with Koganemaru, a magical tanuki that saves the hearts of those in need.",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T04:50:03.935Z",
+    "lastFetched": "2026-11-21T17:49:34.797Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

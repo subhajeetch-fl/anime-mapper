@@ -25,13 +25,13 @@
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 13,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-02T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-24T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -40,18 +40,16 @@
     "time": "21:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788438600
-  },
+  "nextAiringEpisode": null,
   "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": 6.65,
-    "anilistScore": 6.5,
+    "malScore": 7.58,
+    "anilistScore": 7.3,
     "kitsuRating": null
   },
   "genres": [
     "Comedy",
+    "Mythology",
     "Supernatural",
     "Horror"
   ],
@@ -59,95 +57,248 @@
     "Asahi Production"
   ],
   "producers": [
-    "Lantis",
-    "AT-X",
+    "KADOKAWA",
     "Docomo Anime Store",
+    "Asahi Production",
     "Kansai TV",
-    "BS NTV",
-    "Kadokawa",
     "Bandai Namco Music Live",
-    "INSPION Edge"
+    "BS Nittele",
+    "AT-X",
+    "INSPION EDGE"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1170/155761l.jpg",
     "banner": null,
     "color": null
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "AZKlUSu5tQ0",
+    "url": "https://www.youtube.com/watch?v=AZKlUSu5tQ0",
+    "thumbnail": "https://i.ytimg.com/vi/AZKlUSu5tQ0/hqdefault.jpg"
+  },
   "synopsis": "Clouds blacken the sky and sheets of rain turn the mountain forest into a treacherous maze... A landslide crushes a razor wire fence, and buries a \"NO TRESPASSING\" sign... Two young siblings wander into a dark world where they do not belong, and a long, horrid shadow rears up to meet them—Anyway, so that's how we met Dara-san! She might look kinda scary, but just wait until you get to know her!\n\n\"Look, I'm a god of misfortune, okay!? Aren't you kids gonna freak out about my grotesque visage!?\"\n\n(Source: Yen Press)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-02",
       "title": {
-        "en": "Yamatagi-Madara of the Accursed Land"
+        "en": "Yamatagi-Madara of the Accursed Land",
+        "ja": "忌み地の屋跨斑"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 471497,
+      "tvdbId": 11504126,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11504126/screencap/6a3e83ce86d07.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-09",
       "title": {
-        "en": "Visiting the School for the First Time"
+        "en": "Visiting the School for the First Time",
+        "ja": "初めての学校訪問"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 471497,
+      "tvdbId": 11869824,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869824/screencap/6a4f95e866b3f.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-16",
       "title": {
-        "en": "The Laws of Forbidden Ground"
+        "en": "The Laws of Forbidden Ground",
+        "ja": "禁足地の掟"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 471497,
+      "tvdbId": 11869825,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869825/screencap/6a58431cd316b.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-23",
       "title": {
-        "en": "Episode 4"
+        "en": "The Return of Yamatagi-Madara",
+        "ja": "復活の谷跨斑"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 471497,
+      "tvdbId": 11869826,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869826/screencap/6a696b01f1c3d.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-07-30",
+      "title": {
+        "en": "Genealogy of Mountain Stewards",
+        "ja": "山守の系譜"
+      },
+      "tvdbShowId": 471497,
+      "tvdbId": 11869827,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869827/screencap/6a696adba02e2.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-06",
+      "title": {
+        "en": "The Phantom Water God",
+        "ja": "幻影の水神様"
+      },
+      "tvdbShowId": 471497,
+      "tvdbId": 11869828,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869828/screencap/6a73b910b1d5a.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-13",
+      "title": {
+        "en": "A Picture Show of Bygone Days",
+        "ja": "在りし日の紙芝居"
+      },
+      "tvdbShowId": 471497,
+      "tvdbId": 11869829,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869829/screencap/6a7d2571892e8.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-20",
+      "title": {
+        "en": "A Serpent`s Struggles",
+        "ja": "奮闘のおろち"
+      },
+      "tvdbShowId": 471497,
+      "tvdbId": 11869830,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869830/screencap/6a834dccab3c5.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-27",
+      "title": {
+        "en": "Seven Wonders of the School",
+        "ja": "学校の七不思議"
+      },
+      "tvdbShowId": 471497,
+      "tvdbId": 11869831,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869831/screencap/6a9025e50344a.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-03",
+      "title": {
+        "en": "A Culture Festival for Two",
+        "ja": "二人だけの文化祭"
+      },
+      "tvdbShowId": 471497,
+      "tvdbId": 11869832,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869832/screencap/6a995eae7170e.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-10",
+      "title": {
+        "en": "The Taboo Test of Courage"
+      },
+      "tvdbShowId": 471497,
+      "tvdbId": 11869833,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869833/screencap/6aa2a0cb29942.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-17",
+      "title": {
+        "en": "How to Spend New Years",
+        "ja": "年末年始の過ごし方"
+      },
+      "tvdbShowId": 471497,
+      "tvdbId": 11869834,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869834/screencap/6aabdd3452cd5.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": 25,
+      "airDate": "2026-09-24",
+      "title": {
+        "en": "Dara-san of the Reiwa Era",
+        "romaji": "Reiwa no Dara-san",
+        "ja": "令和のダラさん"
+      },
+      "tvdbShowId": 471497,
+      "tvdbId": 11869835,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869835/screencap/6ab4879ec8c68.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:41:29.919Z",
+    "lastFetched": "2026-11-21T17:42:38.736Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

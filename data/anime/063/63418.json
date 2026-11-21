@@ -27,13 +27,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
+  "episodeLength": 23,
   "aired": {
     "from": "2026-07-09T00:00:00+00:00",
-    "to": null
+    "to": "2026-10-01T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -42,182 +42,278 @@
     "time": "00:45",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 9,
-    "airingAt": 1788363840
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.17,
-    "anilistScore": 5.2,
+    "malScore": 5.72,
+    "anilistScore": 5.3,
     "kitsuRating": null
   },
   "genres": [
-    "Mystery",
+    "Action",
     "Sci-Fi",
-    "Supernatural",
+    "Shounen",
     "Adventure",
-    "Drama",
-    "Science Fiction",
-    "Shounen"
+    "Drama"
   ],
   "studios": [
     "Unend"
   ],
   "producers": [
-    "Animax",
-    "Kodansha",
     "Fuji TV",
-    "KlockWorx",
-    "Slow Curve",
-    "Fujipacific Music",
-    "BS Fuji",
-    "Glovision",
-    "Kansai TV",
+    "Kodansha",
     "Hakuhodo",
-    "NewGin",
-    "arma bianca"
+    "newgin",
+    "Animax Broadcast Japan",
+    "arma bianca",
+    "Slow Curve",
+    "KLOCKWORX",
+    "Kansai TV",
+    "BS Fuji"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1084/158946l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1549/159931l.jpg",
     "banner": null,
     "color": "#1a93e4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "wsb07srXk_M",
+    "url": "https://www.youtube.com/watch?v=wsb07srXk_M",
+    "thumbnail": "https://i.ytimg.com/vi/wsb07srXk_M/hqdefault.jpg"
+  },
   "synopsis": "Three ordinary schoolboys come into possession of a DVD that supposedly opens a gateway to a parallel universe, but when their backs are turned Pyontarou's little sister Futaba passes through and gets kidnapped by the aliens that have overrun that version of Earth! Discovering that their cartoonish bodies make them supermen in the hyper-realistic parallel universe, the boys set out to rescue Futaba.\n\n(Source: Kodansha USA)",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": null,
+      "title": {
+        "romaji": "Thunder 3 SEASON 2",
+        "english": null,
+        "native": "サンダー３SEASON２"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217595-WSmOxRqbpNb3.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
+    }
+  ],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
-      "airDate": "2026-07-09",
+      "length": 25,
+      "airDate": "2026-07-08",
       "title": {
-        "en": "Small Three"
+        "en": "Small Three",
+        "romaji": "Small Three",
+        "ja": "SMALL THREE"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473563,
+      "tvdbId": 11595350,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11595350/screencap/6a4f041808502.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
-      "airDate": "2026-07-16",
+      "length": 25,
+      "airDate": "2026-07-15",
       "title": {
-        "en": "Multiverse"
+        "en": "Multiverse",
+        "romaji": "Multiverse",
+        "ja": "MULTIVERSE"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473563,
+      "tvdbId": 11877209,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877209/screencap/6a57b92743d07.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
-      "airDate": "2026-07-23",
+      "length": 25,
+      "airDate": "2026-07-22",
       "title": {
-        "en": "Aliens"
+        "en": "Aliens",
+        "romaji": "Aliens",
+        "ja": "ALIENS"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473563,
+      "tvdbId": 11877219,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877219/screencap/6a6107a92e94f.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
-      "airDate": "2026-07-30",
+      "length": 25,
+      "airDate": "2026-07-29",
       "title": {
-        "en": "Episode 4"
+        "en": "Mr. Segami",
+        "romaji": "Mr. Segami",
+        "ja": "MR. SEGAMI"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473563,
+      "tvdbId": 11877220,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877220/screencap/6a6a2b030f490.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
-      "airDate": "2026-08-06",
+      "length": 25,
+      "airDate": "2026-08-05",
       "title": {
-        "en": "Episode 5"
+        "en": "Rebellion",
+        "romaji": "Rebellion",
+        "ja": "REBELLION"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473563,
+      "tvdbId": 11877212,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877212/screencap/6a744b50cb625.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
-      "airDate": "2026-08-13",
+      "length": 25,
+      "airDate": "2026-08-12",
       "title": {
-        "en": "Episode 6"
+        "en": "Game On!",
+        "romaji": "Game On!",
+        "ja": "GAME ON!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473563,
+      "tvdbId": 11877213,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877213/screencap/6a7cb6a727626.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
-      "airDate": "2026-08-20",
+      "length": 25,
+      "airDate": "2026-08-19",
       "title": {
-        "en": "Episode 7"
+        "en": "Counterattack",
+        "romaji": "Counterattack",
+        "ja": "COUNTERATTACK"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473563,
+      "tvdbId": 11877223,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877223/screencap/6a85e54ee9cfa.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
-      "airDate": "2026-08-27",
+      "length": 25,
+      "airDate": "2026-08-26",
       "title": {
-        "en": "Episode 8"
+        "en": "The Strangers",
+        "romaji": "The Strangers",
+        "ja": "THE STRANGERS"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473563,
+      "tvdbId": 11877215,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877215/screencap/6a8f213f286f1.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-09-02",
+      "title": {
+        "en": "The Strong Men",
+        "romaji": "The Strong Men",
+        "ja": "THE STRONG MEN"
+      },
+      "tvdbShowId": 473563,
+      "tvdbId": 11877225,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877225/screencap/6a98536700c30.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-09",
+      "title": {
+        "en": "Time Is Up",
+        "romaji": "Time Is Up",
+        "ja": "TIME IS UP"
+      },
+      "tvdbShowId": 473563,
+      "tvdbId": 11877226,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877226/screencap/6aa1969b28112.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-16",
+      "title": {
+        "en": "We Are \"Thunder 3\"!!",
+        "romaji": "We Are \"Thunder 3\"!!",
+        "ja": "WE ARE \"THUNDER 3\"!!"
+      },
+      "tvdbShowId": 473563,
+      "tvdbId": 11877233,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877233/screencap/6aaacd4874b3d.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-23",
+      "title": {
+        "en": "Final Attack",
+        "romaji": "Final Attack",
+        "ja": "FINAL ATTACK"
+      },
+      "tvdbShowId": 473563,
+      "tvdbId": 11877234,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877234/screencap/6abd50549da66.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:49:19.870Z",
+    "lastFetched": "2026-11-21T17:45:04.404Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

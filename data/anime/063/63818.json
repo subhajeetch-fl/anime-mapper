@@ -3,77 +3,362 @@
   "idMal": 63818,
   "mappings": {
     "mal": 63818,
-    "anilist": null,
+    "anilist": 187990,
     "anidb": 19951,
-    "kitsu": null,
+    "kitsu": 50964,
     "simkl": 3050960,
     "tmdb": 316551,
-    "tvdb": null,
-    "trakt": null,
-    "traktType": null,
+    "tvdb": 475488,
+    "trakt": 317482,
+    "traktType": "shows",
     "shikimori": 63818,
-    "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
+    "livechart": 13092,
+    "animeplanet": "battle-spirits-re-zekkai-no-ku",
+    "anisearch": 21323,
     "notify": null
   },
   "title": {
-    "romaji": "Battle Spirits [Re]: Zekkai no Kuu",
-    "english": null,
+    "romaji": "Battle Spirits [Re] Zekkai no Kuu",
+    "english": "Battle Spirits [Re] Zekkai no Ku",
     "native": "Battle Spirits [Re] 絶界の空",
     "synonyms": []
   },
   "type": "TV",
   "source": "Card game",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-06T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Tuesdays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795528800
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 5.51,
+    "anilistScore": 5.1,
     "kitsuRating": null
   },
   "genres": [
-    "Fantasy"
+    "Fantasy",
+    "Historical",
+    "Strategy Game",
+    "Action"
   ],
   "studios": [
     "Bandai Namco Pictures"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Namco Pictures",
+    "Bandai"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1431/156315l.jpg",
-    "banner": null,
-    "color": null
+    "poster": "https://cdn.myanimelist.net/images/anime/1135/159762l.webp",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187990-iDUZ4BGtmEct.jpg",
+    "color": "#f17835"
   },
-  "trailer": null,
-  "synopsis": null,
-  "sequence": [],
-  "episodes": {},
+  "trailer": {
+    "youtubeId": "cXd4pKTx2pI",
+    "url": "https://www.youtube.com/watch?v=cXd4pKTx2pI",
+    "thumbnail": "https://i.ytimg.com/vi/cXd4pKTx2pI/hqdefault.jpg"
+  },
+  "synopsis": "Keio 3, Hinomoto, Eito. As the Bakumatsu throws Japan into turmoil, young Kuu Bashin dreams of becoming stronger through Standard Battle Spirits. His world changes when he encounters Ajara Zetsu, a wandering samurai and formidable Eternal Battler pursued by anti-shogunate forces. As the worlds of Standard and Eternal Battle collide, Kuu is pulled into Zetsu's journey-and sets history in motion.\n\n(Source: Crunchyroll)",
+  "sequence": [
+    {
+      "malId": 5082,
+      "title": {
+        "romaji": "Battle Spirits: Shounen Toppa Bashin",
+        "english": null,
+        "native": "バトルスピリッツ 少年突破バシン"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5082-TPZqtEmnSqSx.jpg",
+      "format": "TV",
+      "episodes": 50,
+      "seasonYear": 2008,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 6901,
+      "title": {
+        "romaji": "Battle Spirits: Shounen Gekiha Dan",
+        "english": null,
+        "native": "バトルスピリッツ 少年激覇ダン"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6901-DCQE7Lzhrvhy.png",
+      "format": "TV",
+      "episodes": 50,
+      "seasonYear": 2009,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 11017,
+      "title": {
+        "romaji": "Battle Spirits: Heroes",
+        "english": null,
+        "native": "バトルスピリッツ 覇王（ヒーローズ）"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11017-DPHTLtFvyDeN.jpg",
+      "format": "TV",
+      "episodes": 50,
+      "seasonYear": 2011,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 14913,
+      "title": {
+        "romaji": "Battle Spirits: Sword Eyes",
+        "english": null,
+        "native": "バトルスピリッツ ソードアイズ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14913-0loTaP0agXoa.jpg",
+      "format": "TV",
+      "episodes": 29,
+      "seasonYear": 2012,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 19825,
+      "title": {
+        "romaji": "Battle Spirits: Saikyou Ginga Ultimate Zero",
+        "english": "Battle Spirits: Strongest Galaxy Ultimate Zero",
+        "native": "最強銀河 究極[アルティメット]ゼロ~バトルスピリッツ~"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19825-tYWnHBZlqCzY.jpg",
+      "format": "TV",
+      "episodes": 49,
+      "seasonYear": 2013,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 27737,
+      "title": {
+        "romaji": "Battle Spirits: Burning Soul",
+        "english": null,
+        "native": "バトルスピリッツ 烈火魂"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21020-NTBIpthsCJ5k.jpg",
+      "format": "TV",
+      "episodes": 51,
+      "seasonYear": 2015,
+      "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 32670,
+      "title": {
+        "romaji": "Battle Spirits: Double Drive",
+        "english": null,
+        "native": "バトルスピリッツ ダブルドライブ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21635-aZCTEl0HhzUZ.jpg",
+      "format": "TV",
+      "episodes": 51,
+      "seasonYear": 2016,
+      "relationType": "ALTERNATIVE"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-06",
+      "title": {
+        "en": "Unforgiven"
+      },
+      "tvdbShowId": 475488,
+      "tvdbId": 11943930,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11943930/screencap/6ac50697946af.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-13",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475488,
+      "tvdbId": 12022267,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022267/screencap/6ace416f6ff0f.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-20",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475488,
+      "tvdbId": 12022268,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022268/screencap/6ad77cfdcb84b.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-27",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475488,
+      "tvdbId": 12022269,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022269/screencap/6ae0b7d940eab.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-03",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475488,
+      "tvdbId": 12022270,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022270/screencap/6ae9f0347a506.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-10",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475488,
+      "tvdbId": 12022271,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022271/screencap/6af32b5759620.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-17",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475488,
+      "tvdbId": 12022272,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022272/screencap/6afc66450cc42.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-24",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475488,
+      "tvdbId": 12022273,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022273/screencap/6afc66a76c57e.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-12-01",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475488,
+      "tvdbId": 12022274,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-08",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475488,
+      "tvdbId": 12022275,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-15",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475488,
+      "tvdbId": 12022276,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-22",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475488,
+      "tvdbId": 12022277,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-03T07:03:42.993Z",
+    "lastFetched": "2026-11-21T17:46:55.104Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

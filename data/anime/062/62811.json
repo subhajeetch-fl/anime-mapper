@@ -4,17 +4,17 @@
   "mappings": {
     "mal": 62811,
     "anilist": 200637,
-    "anidb": null,
-    "kitsu": null,
+    "anidb": 19663,
+    "kitsu": 50272,
     "simkl": 2906736,
-    "tmdb": null,
+    "tmdb": 223564,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 62811,
-    "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
+    "livechart": 13368,
+    "animeplanet": "the-100-girlfriends-who-really-really-really-really-really-love-you-season-3",
+    "anisearch": 20994,
     "notify": null
   },
   "title": {
@@ -29,13 +29,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
   "episodeLength": 24,
   "aired": {
     "from": "2026-07-05T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-20T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -44,43 +44,43 @@
     "time": "22:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788701400
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 8.23,
-    "anilistScore": 7.9,
-    "kitsuRating": 8.07
+    "malScore": 8.03,
+    "anilistScore": 8,
+    "kitsuRating": null
   },
   "genres": [
     "Comedy",
-    "Romance",
-    "Ecchi",
-    "Breaking The Fourth Wall",
     "Harem",
-    "High School",
     "Parody",
-    "School Life"
+    "Romance",
+    "School",
+    "Seinen",
+    "Ecchi"
   ],
   "studios": [
     "Bibury Animation Studios"
   ],
   "producers": [
-    "Lantis",
-    "Movic",
-    "Bushiroad",
-    "Tokyo MX",
+    "Bandai Namco Filmworks",
     "Shueisha",
-    "Bandai Namco Music Live"
+    "Bandai Namco Music Live",
+    "Bushiroad",
+    "Movic",
+    "TOKYO MX"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1106/157174l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1755/159708l.webp",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200637-q9mehOFbbCgT.jpg",
     "color": "#f193bb"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "kvbOPdDfPio",
+    "url": "https://www.youtube.com/watch?v=kvbOPdDfPio",
+    "thumbnail": "https://i.ytimg.com/vi/kvbOPdDfPio/hqdefault.jpg"
+  },
   "synopsis": "Third season of Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo.",
   "sequence": [
     {
@@ -97,17 +97,223 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-07-05",
+      "title": {
+        "en": "Cousin and Girlfriend",
+        "romaji": "Itoko no Kanojo",
+        "ja": "いとこの彼女"
+      },
+      "tvdbShowId": 432050,
+      "tvdbId": 11467019,
+      "seasonNumber": 3,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11467019/screencap/6a462a2f7a8e9.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-07-12",
+      "title": {
+        "en": "Chiyo`s Family Coaching",
+        "romaji": "Chiyo-chan no Family Shido",
+        "ja": "知与ちゃんのファミリー指導"
+      },
+      "tvdbShowId": 432050,
+      "tvdbId": 11872541,
+      "seasonNumber": 3,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872541/screencap/6a4f6648c490e.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-07-19",
+      "title": {
+        "en": "The Japanese Teacher Has Blonde Hair",
+        "romaji": "Kokugo Kyoushi wa Blond Hair",
+        "ja": "国語教師はブロンドヘア"
+      },
+      "tvdbShowId": 432050,
+      "tvdbId": 11872542,
+      "seasonNumber": 3,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872542/screencap/6a58ae75645c7.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-07-26",
+      "title": {
+        "en": "The Rentaro Family Idol Legend",
+        "romaji": "Idol Densetsu Rentarou Family",
+        "ja": "アイドル伝説恋太郎ファミリー"
+      },
+      "tvdbShowId": 432050,
+      "tvdbId": 11872543,
+      "seasonNumber": 3,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872543/screencap/6a61fe91f1121.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-02",
+      "title": {
+        "en": "Yasashiki-san`s Gardening Club Tour",
+        "romaji": "Yasashiki-san no Engei Bu Tour",
+        "ja": "優敷さんの園芸部ツアー"
+      },
+      "tvdbShowId": 432050,
+      "tvdbId": 11872544,
+      "seasonNumber": 3,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872544/screencap/6a6b50214a8d9.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-09",
+      "title": {
+        "en": "Momiji-chan`s Squishy Festival",
+        "romaji": "Momiji-chan no Momimomi Festival",
+        "ja": "紅葉ちゃんのもみもみフェスティバル"
+      },
+      "tvdbShowId": 432050,
+      "tvdbId": 11872545,
+      "seasonNumber": 3,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872545/screencap/6a744f8e6c1ce.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-16",
+      "title": {
+        "en": "Thumbelinano and the Kusurivanian Family",
+        "romaji": "Issun Nanoshi to Kusurivania Family",
+        "ja": "一寸凪乃師と楠莉バニアファミリー"
+      },
+      "tvdbShowId": 432050,
+      "tvdbId": 11916721,
+      "seasonNumber": 3,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11916721/screencap/6a7d8dbb5fcf2.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-23",
+      "title": {
+        "en": "Kusuri-senpai`s Grandmother",
+        "romaji": "Kusuri-senpai no Obaasan",
+        "ja": "楠莉先輩のおばあさん"
+      },
+      "tvdbShowId": 432050,
+      "tvdbId": 11916722,
+      "seasonNumber": 3,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11916722/screencap/6a86c4d47d3ac.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-30",
+      "title": {
+        "en": "Hardcore Hot Springs Hopping with a Chance of Heaven",
+        "romaji": "Mizugi Honki Onsen Jigoku Meguri Nochi Tengoku",
+        "ja": "水着本気温泉地獄めぐりのち天国"
+      },
+      "tvdbShowId": 432050,
+      "tvdbId": 11916723,
+      "seasonNumber": 3,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11916723/screencap/6a905c2a39dba.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-06",
+      "title": {
+        "en": "The Rise and Fall of the Proud Girlfriend",
+        "romaji": "Kukkoro Kanojo",
+        "ja": "くっころ彼女"
+      },
+      "tvdbShowId": 432050,
+      "tvdbId": 11937009,
+      "seasonNumber": 3,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11937009/screencap/6a994a124eb98.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-13",
+      "title": {
+        "en": "Of Children, Adults, Ladies, and Mothers",
+        "romaji": "Kodomo mo, Otona mo, Onee-san mo, Okaasan mo.",
+        "ja": "こどもも, おとなも, おねーさんも, おかーさんも."
+      },
+      "tvdbShowId": 432050,
+      "tvdbId": 11937010,
+      "seasonNumber": 3,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11937010/screencap/6aa274ad2a34a.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-20",
+      "title": {
+        "en": "The 17 Girlfriends Who I Really, Really, Really, Really, Really Love",
+        "romaji": "Ore no Dai Dai Dai Dai Daisuki na Juushichinin no Kanojo (Ato Hachijuusannin)",
+        "ja": "俺の大大大大大好きな17人の彼女 (あと83人)"
+      },
+      "tvdbShowId": 432050,
+      "tvdbId": 11937011,
+      "seasonNumber": 3,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11937011/screencap/6aabb065909d6.jpg"
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:36:40.776Z",
+    "lastFetched": "2026-11-21T17:40:26.739Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

@@ -25,29 +25,22 @@
   },
   "type": "OVA",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": 3,
-  "episodeLength": null,
+  "episodeLength": 20,
   "aired": {
     "from": "2026-09-11T00:00:00+00:00",
-    "to": null
+    "to": "2026-11-13T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
-  "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1789052400
-  },
+  "broadcast": null,
+  "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.52,
+    "anilistScore": 6.2,
     "kitsuRating": null
   },
   "genres": [
@@ -64,7 +57,7 @@
     "color": null
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "Murakami-san, a boss beloved by everyone, and his subordinate Kaji-kun, have a secret. Murakami-san is clingy and easily moved to tears, and she and her subordinate Kaji-kun are lovers. And she has a split tongue.\n\n\n\n(Source: Getchu, translated)",
   "sequence": [
     {
       "malId": 42031,
@@ -82,12 +75,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-08-01T04:18:21.852Z",
+    "lastFetched": "2026-11-21T17:50:33.194Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

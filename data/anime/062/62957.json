@@ -25,34 +25,28 @@
   },
   "type": "ONA",
   "source": "Original",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 25,
   "episodeLength": 12,
   "aired": {
     "from": "2026-07-03T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-15T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
-  "nextAiringEpisode": {
-    "episode": 21,
-    "airingAt": 1788235200
-  },
-  "rating": "PG-13 - Teens 13 or older",
+  "season": "summer",
+  "year": 2026,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": 6.55,
-    "anilistScore": 6.2,
+    "malScore": 7.09,
+    "anilistScore": 6.8,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Fantasy",
+    "Gore",
     "Adventure"
   ],
   "studios": [
@@ -67,20 +61,401 @@
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213484-Apezw4iSrrr6.jpg",
     "color": "#1a86f1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "IYcGvpXYfGE",
+    "url": "https://www.youtube.com/watch?v=IYcGvpXYfGE",
+    "thumbnail": "https://i.ytimg.com/vi/IYcGvpXYfGE/hqdefault.jpg"
+  },
   "synopsis": "After a beloved king unleashes a brutal massacre, Ming loses everything and vows revenge. But as he sets out to kill the tyrant, he discovers the true King Lie has been forced from his own body. With only 100 days left to reclaim the throne, the king and his would-be assassin must join forces to expose an impostor before the kingdom falls into darkness.\n\n(Source: Crunchyroll)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 15,
+      "airDate": "2026-07-03",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": 15,
+      "airDate": "2026-07-03",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": 15,
+      "airDate": "2026-07-03",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": 15,
+      "airDate": "2026-07-03",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": 10,
+      "airDate": "2026-07-07",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": 15,
+      "airDate": "2026-07-10",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": 15,
+      "airDate": "2026-07-14",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": 15,
+      "airDate": "2026-07-17",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": 15,
+      "airDate": "2026-07-21",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 15,
+      "airDate": "2026-07-24",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 15,
+      "airDate": "2026-07-28",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 15,
+      "airDate": "2026-07-31",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": 15,
+      "airDate": "2026-08-04",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "14": {
+      "episode": "14",
+      "length": 15,
+      "airDate": "2026-08-07",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "15": {
+      "episode": "15",
+      "length": 15,
+      "airDate": "2026-08-11",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "16": {
+      "episode": "16",
+      "length": 15,
+      "airDate": "2026-08-14",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "17": {
+      "episode": "17",
+      "length": 15,
+      "airDate": "2026-08-18",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "18": {
+      "episode": "18",
+      "length": 15,
+      "airDate": "2026-08-21",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "19": {
+      "episode": "19",
+      "length": 15,
+      "airDate": "2026-08-25",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "20": {
+      "episode": "20",
+      "length": 15,
+      "airDate": "2026-08-28",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "21": {
+      "episode": "21",
+      "length": 15,
+      "airDate": "2026-09-01",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "22": {
+      "episode": "22",
+      "length": 15,
+      "airDate": "2026-09-04",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "23": {
+      "episode": "23",
+      "length": 15,
+      "airDate": "2026-09-08",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "24": {
+      "episode": "24",
+      "length": 20,
+      "airDate": "2026-09-11",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "25": {
+      "episode": "25",
+      "length": 15,
+      "airDate": "2026-09-15",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:38:32.166Z",
+    "lastFetched": "2026-11-21T17:41:39.806Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

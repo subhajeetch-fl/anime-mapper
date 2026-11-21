@@ -5,7 +5,7 @@
     "mal": 63053,
     "anilist": 203473,
     "anidb": 19754,
-    "kitsu": null,
+    "kitsu": 50994,
     "simkl": 2957216,
     "tmdb": 307903,
     "tvdb": null,
@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 63053,
     "livechart": 13416,
-    "animeplanet": "kyoufu-collector",
+    "animeplanet": "horror-collector",
     "anisearch": 21098,
     "notify": null
   },
@@ -27,54 +27,185 @@
   },
   "type": "TV",
   "source": "Novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 25,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-10T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Saturdays",
+    "time": "23:45",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795877100
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 5.57,
+    "anilistScore": 5.1,
     "kitsuRating": null
   },
   "genres": [
     "Horror",
+    "Kids",
     "Mystery",
     "Supernatural"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Studio Palette"
+  ],
+  "producers": [
+    "NHK",
+    "NHK Enterprises"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1494/153994l.jpg",
-    "banner": null,
-    "color": "#e46b5d"
+    "poster": "https://cdn.myanimelist.net/images/anime/1751/160122l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203473-KCGlCZL2ApjB.jpg",
+    "color": null
   },
   "trailer": null,
   "synopsis": "The internet is full of creepypastas, cryptid sightings, tales of paranormal activity, and unsolved disappearances. These are mostly rumors and pranks fueled by trolls—entertainment. But the unlucky few learn the hard way that some legends are true. Many of these unfortunate souls are doomed, but their luck may change if they cross paths with the boy in the red hood. He roams from town to town and appears wherever strange things occur. Is he a light in the dark? Or living proof that monsters are all too real...?\n\n(Source: Yen Press)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-10",
+      "title": {
+        "en": "The Red Notebook"
+      },
+      "tvdbShowId": 471316,
+      "tvdbId": 11496850,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11496850/screencap/6aca411f59ebb.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-17",
+      "title": {
+        "en": "The Shadow Enveloping the City"
+      },
+      "tvdbShowId": 471316,
+      "tvdbId": 12027722,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12027722/screencap/6ad2eab76d74b.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-24",
+      "title": {
+        "en": "The Faceless Kid"
+      },
+      "tvdbShowId": 471316,
+      "tvdbId": 12027724,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12027724/screencap/6adcb977e0c69.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-31",
+      "title": {
+        "en": "The Quiet Ripples"
+      },
+      "tvdbShowId": 471316,
+      "tvdbId": 12027726,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12027726/screencap/6aecb3abba833.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-07",
+      "title": {
+        "en": "Blood-Soaked Feelings"
+      },
+      "tvdbShowId": 471316,
+      "tvdbId": 12027728,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12027728/screencap/6aef29abb7809.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-14",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 471316,
+      "tvdbId": 12027729,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12027729/screencap/6af88d3e98048.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-21",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 471316,
+      "tvdbId": 12077880,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12077880/screencap/6b011be655844.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-28",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 471316,
+      "tvdbId": 12077881,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-03T06:48:51.057Z",
+    "lastFetched": "2026-11-21T17:42:24.345Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

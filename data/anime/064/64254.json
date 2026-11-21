@@ -4,17 +4,17 @@
   "mappings": {
     "mal": 64254,
     "anilist": 212503,
-    "anidb": null,
+    "anidb": 20065,
     "kitsu": 50723,
     "simkl": 3127764,
-    "tmdb": null,
+    "tmdb": 200777,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64254,
     "livechart": 13639,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "the-iceblade-sorcerer-shall-rule-the-world-ii",
+    "anisearch": 21575,
     "notify": null
   },
   "title": {
@@ -28,43 +28,59 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-09T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Fridays",
+    "time": "01:28",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795710480
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.4,
+    "anilistScore": 6.6,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Fantasy",
+    "School",
     "Adventure"
   ],
   "studios": [
     "Zero-G"
   ],
-  "producers": [],
+  "producers": [
+    "TBS",
+    "SAND B",
+    "Kodansha",
+    "Crunchyroll",
+    "DMM.com",
+    "BS11",
+    "Pony Canyon"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1968/158143l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1190/159644l.jpg",
     "banner": null,
-    "color": "#e4505d"
+    "color": "#4378e4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "oxkxyAcKv2g",
+    "url": "https://www.youtube.com/watch?v=oxkxyAcKv2g",
+    "thumbnail": "https://i.ytimg.com/vi/oxkxyAcKv2g/hqdefault.jpg"
+  },
   "synopsis": "Second season of Hyouken no Majutsushi ga Sekai wo Suberu.",
   "sequence": [
     {
@@ -81,17 +97,224 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-12T11:56:37.042Z",
+    "lastFetched": "2026-11-21T17:49:41.202Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

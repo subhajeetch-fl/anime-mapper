@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 64213,
     "livechart": 13635,
-    "animeplanet": null,
+    "animeplanet": "gigant",
     "anisearch": 21570,
     "notify": null
   },
@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -53,6 +49,7 @@
     "Drama",
     "Romance",
     "Sci-Fi",
+    "Seinen",
     "Ecchi"
   ],
   "studios": [],
@@ -69,12 +66,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T04:50:01.734Z",
+    "lastFetched": "2026-11-21T17:49:32.953Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

@@ -4,7 +4,7 @@
   "mappings": {
     "mal": 63752,
     "anilist": 209504,
-    "anidb": null,
+    "anidb": 19954,
     "kitsu": 50768,
     "simkl": 3054048,
     "tmdb": null,
@@ -14,26 +14,27 @@
     "shikimori": 63752,
     "livechart": 13558,
     "animeplanet": "the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world",
-    "anisearch": null,
+    "anisearch": 21317,
     "notify": null
   },
   "title": {
     "romaji": "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
-    "english": "The Forsaken Saintess and her Foodie Roadtrip in Another World",
+    "english": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
     "native": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました",
     "synonyms": [
-      "สตรีศักดิ์สิทธิ์ผู้ถูกทอดทิ้ง ออกเดินทางชิมอาหารในต่างโลกด้วยสกิลลับอัญเชิญรถบ้านแคมป์ปิ้ง"
+      "สตรีศักดิ์สิทธิ์ผู้ถูกทอดทิ้ง ออกเดินทางชิมอาหารในต่างโลกด้วยสกิลลับอัญเชิญรถบ้านแคมป์ปิ้ง",
+      "Isekai CamPer - I viaggi culinari in un altro mondo della santa rinnegata: Ho evocato un camper grazie a una skill nascosta"
     ]
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-06T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-21T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -42,60 +43,267 @@
     "time": "23:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788789600
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.71,
-    "anilistScore": 6.1,
+    "malScore": 6.41,
+    "anilistScore": 6.3,
     "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
     "Fantasy",
     "Gourmet",
-    "Romance",
+    "Isekai",
     "Action",
     "Adventure",
-    "Comedy",
-    "Isekai"
+    "Comedy"
   ],
   "studios": [
     "EMT Squared"
   ],
   "producers": [
-    "Lantis",
-    "CBC Television",
-    "AT-X",
-    "KlockWorx",
-    "Asmik Ace",
-    "BS NTV",
-    "arma bianca",
-    "Bit grooove promotion",
-    "Bandai Namco Music Live",
     "Happinet Media Marketing",
-    "Sumiseki Holdings"
+    "Asmik Ace",
+    "CBC TV",
+    "Bandai Namco Music Live",
+    "AT-X",
+    "BS Nittele",
+    "Sumiseki",
+    "Bit grooove promotion",
+    "arma bianca",
+    "KLOCKWORX",
+    "EMT Squared"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1417/157798l.jpg",
     "banner": null,
     "color": "#bbe40d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "VS0bW7JnEm0",
+    "url": "https://www.youtube.com/watch?v=VS0bW7JnEm0",
+    "thumbnail": "https://i.ytimg.com/vi/VS0bW7JnEm0/hqdefault.jpg"
+  },
   "synopsis": "Rin Takanashi, a caregiver in her thirties, was unceremoniously discarded as \"trash\" despite being summoned as a saint.\n\nHowever, as a lover of the great outdoors and all things camping, she was blessed with a special skill, [Survival], as well as another unique skill! Thus, a riveting tale begins: one of sweat, tears, and insatiable hunger as Rin, together with companions she picked up along the way, leisurely explores this parallel world and savors gourmet cuisine to her heart's content...\n\nOr so the story should have gone, but it looks like their road is going in an unexpected direction...?\n\n(Source: MU)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-07-06",
+      "title": {
+        "en": "Trout Fishing in Another World! With a Side of Hot Oni",
+        "romaji": "Isekai Trout Ipponzuri! ~Oni-san Soete~",
+        "ja": "異世界トラウト一本釣り! ～鬼さん添えて～"
+      },
+      "tvdbShowId": 475631,
+      "tvdbId": 11684544,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11684544/screencap/6a4484ff234b2.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-07-13",
+      "title": {
+        "en": "Combine Your Friends and Ingredients for a Tasty Rice Dish!",
+        "romaji": "Nakama mo Guzai mo, Hitotsu ni Shichae Takikomi Gohan!",
+        "ja": "仲間も具材も, ひとつにしちゃえ炊き込みご飯!"
+      },
+      "tvdbShowId": 475631,
+      "tvdbId": 11874705,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874705/screencap/6a544b845e010.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-07-20",
+      "title": {
+        "en": "War on the Water! Seafood Barbeque!",
+        "romaji": "Umi de Kaisen! Kaisen Barbecue!",
+        "ja": "海で開戦! 海鮮バーベキュー!"
+      },
+      "tvdbShowId": 475631,
+      "tvdbId": 11874706,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874706/screencap/6a5918709af8b.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-07-27",
+      "title": {
+        "en": "The Food Demon Descends! Thou Art Tartar Sauce!",
+        "romaji": "Shoku no Akuma Kourin! Sonata wa Tartar Sauce!",
+        "ja": "食の悪魔降臨! 汝はタルタルソース!"
+      },
+      "tvdbShowId": 475631,
+      "tvdbId": 11874707,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874707/screencap/6a674a9dc2254.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-03",
+      "title": {
+        "en": "Listen Up, Boys! It`s a Dungeon Meat Fest!",
+        "romaji": "Yarou-domo! Dungeon Niku Matsuri Daa!",
+        "ja": "野郎ども! ダンジョン肉祭りだあっ!"
+      },
+      "tvdbShowId": 475631,
+      "tvdbId": 11874708,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874708/screencap/6a6ff15830657.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-10",
+      "title": {
+        "en": "We Like Conger Eel, But We Love Freshwater Eeel, Too!",
+        "romaji": "Chin, Anago mo Ii kedo Unagi mo Suki!",
+        "ja": "朕, アナゴもいいけどウナギも好き!"
+      },
+      "tvdbShowId": 475631,
+      "tvdbId": 11874709,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874709/screencap/6a792ba5b5c98.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-17",
+      "title": {
+        "en": "The Muchi Dango on Your Waist! Please Give Me Every Last One!",
+        "romaji": "Okoshi ni Tsuketa Muuchi Dango~, Hitotsu Nokorazu Kudasai na~",
+        "ja": "お腰につけたムーチ団子~, 一つ残らずくださいな~♪"
+      },
+      "tvdbShowId": 475631,
+      "tvdbId": 11874710,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874710/screencap/6a8339cb9af3a.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-24",
+      "title": {
+        "en": "Stew & Ikura: \"Who Do You Choose, Me or Her?!\" Rice: \"I Love You Both!\"",
+        "romaji": "Nikomi & Ikura \"Watashi to Ano Ko, Docchi o Erabu no!?\" Kome \"Ryouhou tomo Daisuki da!\"",
+        "ja": "煮込み&イクラ『私とあの子, どっちを選ぶの!?』米『両方とも大好きだ!』"
+      },
+      "tvdbShowId": 475631,
+      "tvdbId": 11874711,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874711/screencap/6a8b83fd25ec3.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-31",
+      "title": {
+        "en": "Crispy Solution, Crunchy Reconciliation! `Cause It`s Tempura!",
+        "romaji": "Sakutto Kaiketsu, Karatto Wakai! Tenpura Dake ni ne!",
+        "ja": "サクッと解決, カラッと和解! 天ぷらだけにね!"
+      },
+      "tvdbShowId": 475631,
+      "tvdbId": 11874712,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874712/screencap/6a94e239478ce.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-07",
+      "title": {
+        "en": "Hyahha! It`s Tartar Sauce Time! (For the 2nd Time in 5 Episodes)",
+        "romaji": "Hyahhaa, Tartar Sauce no Jikan daa! (5 Waburi 2 Kaime)",
+        "ja": "ひゃっはあっ, タルタルソースの時間だぁっ! (5話ぶり2回目)"
+      },
+      "tvdbShowId": 475631,
+      "tvdbId": 11874713,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874713/screencap/6a94e2e57abd4.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-14",
+      "title": {
+        "en": "A Midnight Cuban Sandwich Tastes Like Sin!",
+        "romaji": "Yoru no Cuban Sando wa Tsumi no Aji!",
+        "ja": "夜のキューバサンドは罪の味!"
+      },
+      "tvdbShowId": 475631,
+      "tvdbId": 11874714,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874714/screencap/6aa740cf7f816.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-21",
+      "title": {
+        "en": "Otsu-curry-sama! But the Adventure Continues, on and on!",
+        "romaji": "Otsukaree-sama! Demo Bouken wa Tsuzuku yo, Dokomademo!",
+        "ja": "おつカレー様! でも冒険は続くよ, どこまでも!"
+      },
+      "tvdbShowId": 475631,
+      "tvdbId": 11874715,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874715/screencap/6ab12075760c3.jpg"
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:53:06.311Z",
+    "lastFetched": "2026-11-21T17:46:20.021Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

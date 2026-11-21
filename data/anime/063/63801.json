@@ -4,17 +4,17 @@
   "mappings": {
     "mal": 63801,
     "anilist": 209872,
-    "anidb": null,
-    "kitsu": null,
+    "anidb": 19972,
+    "kitsu": 50626,
     "simkl": 3062560,
-    "tmdb": null,
+    "tmdb": 259140,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 63801,
-    "livechart": null,
+    "livechart": 13571,
     "animeplanet": "ranma-12-season-3",
-    "anisearch": null,
+    "anisearch": 21332,
     "notify": null
   },
   "title": {
@@ -27,52 +27,75 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 23,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-04T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Sundays",
+    "time": "00:55",
+    "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1791042960
+    "episode": 9,
+    "airingAt": 1795881360
   },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.89,
+    "anilistScore": 7.9,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Comedy",
+    "Ecchi",
+    "Magical Sex Shift",
+    "Martial Arts",
     "Romance",
-    "Ecchi"
+    "School",
+    "Shounen"
   ],
   "studios": [
     "MAPPA"
   ],
   "producers": [
     "Shogakukan-Shueisha Productions",
-    "dugout"
+    "MAPPA",
+    "Shogakukan",
+    "Nippon Television Network"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1450/156287l.jpg",
-    "banner": null,
+    "poster": "https://cdn.myanimelist.net/images/anime/1939/159199l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209872-Qczb4k9Mw0pq.jpg",
     "color": "#e4bb5d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "dbe8esPSfYI",
+    "url": "https://www.youtube.com/watch?v=dbe8esPSfYI",
+    "thumbnail": "https://i.ytimg.com/vi/dbe8esPSfYI/hqdefault.jpg"
+  },
   "synopsis": "Third season of Ranma ½ (2024).",
   "sequence": [
+    {
+      "malId": null,
+      "title": {
+        "romaji": "Ranma 1/2: Nettou-hen",
+        "english": "Ranma ½ (1989)",
+        "native": "らんま1/2 熱闘編"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149939-3lDyYgDZ0AbI.png",
+      "format": "TV",
+      "episodes": 143,
+      "seasonYear": 1989,
+      "relationType": "ALTERNATIVE"
+    },
     {
       "malId": 60564,
       "title": {
@@ -87,17 +110,224 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": null,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": null,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": null,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": null,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": null,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": null,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": null,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": null,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-25T21:45:41.219Z",
+    "lastFetched": "2026-11-21T17:46:42.184Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

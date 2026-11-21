@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 64447,
     "livechart": null,
-    "animeplanet": null,
+    "animeplanet": "wo-you-yi-zuo-maoxian-wu",
     "anisearch": null,
     "notify": null
   },
@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -52,13 +48,12 @@
     "Adventure",
     "Horror",
     "Mystery",
+    "Psychological",
     "Supernatural",
     "Suspense"
   ],
   "studios": [],
-  "producers": [
-    "Tencent Video"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1652/158594l.jpg",
     "banner": null,
@@ -69,16 +64,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:13:04.048Z",
+    "lastFetched": "2026-11-21T17:51:02.245Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

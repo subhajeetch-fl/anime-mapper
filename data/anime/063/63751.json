@@ -5,7 +5,7 @@
     "mal": 63751,
     "anilist": 209499,
     "anidb": 19952,
-    "kitsu": null,
+    "kitsu": 50640,
     "simkl": 3054044,
     "tmdb": null,
     "tvdb": null,
@@ -14,12 +14,12 @@
     "shikimori": 63751,
     "livechart": 13556,
     "animeplanet": "tank-chair",
-    "anisearch": null,
+    "anisearch": 21314,
     "notify": null
   },
   "title": {
     "romaji": "TANK CHAIR: Sensha Isu",
-    "english": null,
+    "english": "TANK CHAIR",
     "native": "TANK CHAIR-戦車椅子-",
     "synonyms": [
       "Sensha Isu"
@@ -27,57 +27,252 @@
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 25,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-04T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Sundays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795356000
+  },
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.24,
+    "anilistScore": 6.1,
     "kitsuRating": null
   },
   "genres": [
     "Action",
+    "Gore",
+    "Super Power",
     "Sci-Fi"
   ],
   "studios": [
     "Polygon Pictures"
   ],
   "producers": [
-    "Bandai Namco Filmworks"
+    "Bandai Namco Filmworks",
+    "Kodansha",
+    "POLYGON PICTURES",
+    "Bandai Namco Music Live",
+    "BS11"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1302/156145l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1195/160543l.jpg",
     "banner": null,
-    "color": "#c9f100"
+    "color": "#e4c95d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "ihAvU833DHA",
+    "url": "https://www.youtube.com/watch?v=ihAvU833DHA",
+    "thumbnail": "https://i.ytimg.com/vi/ihAvU833DHA/hqdefault.jpg"
+  },
   "synopsis": "Shizuka takes on the most dangerous of assassin jobs, but she's not the one doing the killing. Rather, it's her brother, Nagi, a strong assassin who took a bullet to protect his sister, leaving him in a comatose state and having to use a wheelchair. However, Shizuka has figured out the key to waking her brother up: he must be faced with killing intent! Thus begins a violent journey of recovery, battling the most dangerous foes!\n\n(Source: Kodansha USA)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-04",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475617,
+      "tvdbId": 11682829,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11682829/screencap/6ac1746220497.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-11",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475617,
+      "tvdbId": 12017411,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017411/screencap/6acae6f54a5a1.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-18",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475617,
+      "tvdbId": 12017412,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017412/screencap/6ad4cbdc05b6b.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-25",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475617,
+      "tvdbId": 12018420,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018420/screencap/6add5906bdba5.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-01",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475617,
+      "tvdbId": 12018421,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018421/screencap/6ae548eddab41.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-08",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475617,
+      "tvdbId": 12018422,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018422/screencap/6aefd8ae6885f.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-15",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475617,
+      "tvdbId": 12041723,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12041723/screencap/6af7ababdd7cb.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-22",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475617,
+      "tvdbId": 12041724,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12041724/screencap/6b00a7368877c.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-11-29",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475617,
+      "tvdbId": 12041725,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-06",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475617,
+      "tvdbId": 12041726,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-13",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475617,
+      "tvdbId": 12041727,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-20",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475617,
+      "tvdbId": 12041728,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:53:04.365Z",
+    "lastFetched": "2026-11-21T17:46:17.898Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

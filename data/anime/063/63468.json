@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 63468,
     "livechart": 13519,
-    "animeplanet": "ushirou-no-shoumen-kamui-san",
+    "animeplanet": "kamui-hes-behind-you",
     "anisearch": 21490,
     "notify": null
   },
@@ -28,37 +28,30 @@
       "คุณคามุยลุยหลังผี"
     ]
   },
-  "type": "TV",
+  "type": "ONA",
   "source": "Web manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 12,
   "aired": {
     "from": "2026-07-04T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-19T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
-  "broadcast": {
-    "day": "Saturdays",
-    "time": "01:30",
-    "timezone": "Asia/Tokyo"
-  },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788539400
-  },
+  "broadcast": null,
+  "nextAiringEpisode": null,
   "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": 6.12,
-    "anilistScore": 5.7,
+    "malScore": 6.32,
+    "anilistScore": 5.9,
     "kitsuRating": null
   },
   "genres": [
     "Comedy",
-    "Supernatural",
     "Erotica",
+    "Supernatural",
     "Ecchi"
   ],
   "studios": [
@@ -66,16 +59,18 @@
     "ZG-R"
   ],
   "producers": [
-    "Saber Links",
-    "WWWave",
-    "Deregula"
+    "WWWave"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1071/158366l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207674-0bYvzXIq7Lq3.jpg",
     "color": null
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "sHlZd-0gI0k",
+    "url": "https://www.youtube.com/watch?v=sHlZd-0gI0k",
+    "thumbnail": "https://i.ytimg.com/vi/sHlZd-0gI0k/hqdefault.jpg"
+  },
   "synopsis": "Shizuka is a normal high school girl with the ability to see ghosts. Due to her peculiar tendency to attract ghosts, she works as an assistant to Kamui, a famous psychic. Kamui takes pride in his top-notch psychic abilities, but the way he exorcises ghosts is rather unusual!\n\n(Source: Shogakukan, translated)",
   "sequence": [
     {
@@ -92,17 +87,403 @@
       "relationType": "SPIN_OFF"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 15,
+      "airDate": "2026-07-04",
+      "title": {
+        "en": "Mary-san / Teketeke",
+        "ja": "メリーさん / テケテケ"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11611342,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11611342/screencap/6a4735b538aa3.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 15,
+      "airDate": "2026-07-11",
+      "title": {
+        "en": "Kokkuri-san",
+        "ja": "コックリさん"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11864466,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864466/screencap/6a4f9a4c8cd79.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 15,
+      "airDate": "2026-07-18",
+      "title": {
+        "en": "The Cursed Doll / The Gap Woman",
+        "ja": "呪いの人形 / 隙間女"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11864467,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864467/screencap/6a598e51ed4de.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 15,
+      "airDate": "2026-07-25",
+      "title": {
+        "en": "The Slit-Mouthed Woman / Rokurokubi",
+        "ja": "口裂け女 / ろくろ首"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11864470,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864470/screencap/6a6396325f4c1.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 15,
+      "airDate": "2026-08-01",
+      "title": {
+        "en": "Bakeneko",
+        "ja": "化け猫"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11864474,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864474/screencap/6a6bb29f20033.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 15,
+      "airDate": "2026-08-08",
+      "title": {
+        "en": "The Mountain Pass Spirit / Jet Babaa",
+        "ja": "峠の霊 / ジェットババア"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11870735,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870735/screencap/6a75bb13e540a.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 15,
+      "airDate": "2026-08-15",
+      "title": {
+        "en": "Hanako-san of the Toilet",
+        "ja": "トイレの花子さん"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11870736,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870736/screencap/6a7de7be2d8bb.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 15,
+      "airDate": "2026-08-22",
+      "title": {
+        "en": "The Succubus / Hell",
+        "ja": "サキュバス / 地獄"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11870737,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870737/screencap/6a87816d10920.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 15,
+      "airDate": "2026-08-29",
+      "title": {
+        "en": "Resurrection",
+        "ja": "黄泉帰り"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11870738,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870738/screencap/6a9184716ae17.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 15,
+      "airDate": "2026-09-05",
+      "title": {
+        "en": "Takaonna / Yamamba",
+        "ja": "高女 / 山姥"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11870739,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870739/screencap/6a9a253a9c081.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 15,
+      "airDate": "2026-09-12",
+      "title": {
+        "en": "Saruyume",
+        "ja": "猿夢"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11870740,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870740/screencap/6aa3615b33668.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 15,
+      "airDate": "2026-09-19",
+      "title": {
+        "en": "The Succubus Returns",
+        "ja": "サキュバス:re"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11870741,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870741/screencap/6aad490d8386f.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": 15,
+      "airDate": "2026-07-04",
+      "title": {
+        "en": "Mini-Anime Theater 1: Snack Hazama 1 / Death Game 1",
+        "ja": "ミニアニメ劇場 その1: スナックはざま① / デスゲーム①"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11870748,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870748/screencap/6a4736480581a.jpg"
+    },
+    "S2": {
+      "episode": "S2",
+      "length": 15,
+      "airDate": "2026-07-11",
+      "title": {
+        "en": "Mini-Anime Theater 2: Snack Hazama 2 / Male Underground Idol 1",
+        "ja": "ミニアニメ劇場 その2: スナックはざま② / メン地下アイドル①"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11877641,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877641/screencap/6a4f9e61cbc61.jpg"
+    },
+    "S3": {
+      "episode": "S3",
+      "length": 15,
+      "airDate": "2026-07-18",
+      "title": {
+        "en": "Mini-Anime Theater 3: Snack Hazama 3 / Death Game 2",
+        "ja": "ミニアニメ劇場 その3: スナックはざま③ / デスゲーム②"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11886642,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11886642/screencap/6a598ea3eccb4.jpg"
+    },
+    "S4": {
+      "episode": "S4",
+      "length": 15,
+      "airDate": "2026-07-25",
+      "title": {
+        "en": "Mini-Anime Theater 4: Snack Hazama 4 / Death Game 3",
+        "ja": "ミニアニメ劇場 その4: スナックはざま④ / デスゲーム③"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11895154,
+      "seasonNumber": 0,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11895154/screencap/6a62ca9d03683.jpg"
+    },
+    "S5": {
+      "episode": "S5",
+      "length": 15,
+      "airDate": "2026-08-01",
+      "title": {
+        "en": "Mini-Anime Theater 5: Snack Hazama 5 / Male Underground Idol 2",
+        "ja": "ミニアニメ劇場 その5: スナックはざま⑤ / メン地下アイドル②"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11904608,
+      "seasonNumber": 0,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": null,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11904608/screencap/6a6bb30a09fa1.jpg"
+    },
+    "S6": {
+      "episode": "S6",
+      "length": 15,
+      "airDate": "2026-08-08",
+      "title": {
+        "en": "Mini-Anime Theater 6: Snack Hazama 6 / Death Game 4",
+        "ja": "ミニアニメ劇場 その6: スナックはざま⑥ / デスゲーム④"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11914396,
+      "seasonNumber": 0,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": null,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11914396/screencap/6a75bb84e28c1.jpg"
+    },
+    "S7": {
+      "episode": "S7",
+      "length": 15,
+      "airDate": "2026-08-15",
+      "title": {
+        "en": "Mini-Anime Theater 7: Snack Hazama 7 / Male Underground Idol 3",
+        "ja": "ミニアニメ劇場 その7: スナックはざま⑦ / メン地下アイドル③"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11922891,
+      "seasonNumber": 0,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": null,
+      "runtime": 10,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11922891/screencap/6a7de84cf0abe.jpg"
+    },
+    "S8": {
+      "episode": "S8",
+      "length": 15,
+      "airDate": "2026-08-22",
+      "title": {
+        "en": "Mini-Anime Theater 8: Snack Hazama 8 / Male Underground Idol 4",
+        "ja": "ミニアニメ劇場 その8: スナックはざま⑧ / メン地下アイドル④"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11932837,
+      "seasonNumber": 0,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": null,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11932837/screencap/6a8781c6f0fea.jpg"
+    },
+    "S9": {
+      "episode": "S9",
+      "length": 15,
+      "airDate": "2026-08-29",
+      "title": {
+        "en": "Mini-Anime Theater 9: Snack Hazama 9 / Death Game 5",
+        "ja": "ミニアニメ劇場 その9: スナックはざま⑨ / デスゲーム⑤"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11950680,
+      "seasonNumber": 0,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": null,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11950680/screencap/6a9185ea89488.jpg"
+    },
+    "S10": {
+      "episode": "S10",
+      "length": 15,
+      "airDate": "2026-09-05",
+      "title": {
+        "en": "Mini-Anime Theater 10: Snack Hazama 10 / Male Underground Idol 5",
+        "ja": "ミニアニメ劇場 その10: スナックはざま⑩ / メン地下アイドル⑤"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11961478,
+      "seasonNumber": 0,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": null,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11961478/screencap/6a9a261c91848.jpg"
+    },
+    "S11": {
+      "episode": "S11",
+      "length": 15,
+      "airDate": "2026-09-12",
+      "title": {
+        "en": "Mini-Anime Theater 11: Snack Hazama 11 / Male Underground Idol 6",
+        "ja": "ミニアニメ劇場 その11: スナックはざま⑪ / メン地下アイドル⑥"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11972545,
+      "seasonNumber": 0,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": null,
+      "runtime": 11,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11972545/screencap/6aa361ee4d7d9.jpg"
+    },
+    "S12": {
+      "episode": "S12",
+      "length": 15,
+      "airDate": "2026-09-19",
+      "title": {
+        "en": "Mini-Anime Theater 12: Death Game 6 / Snack Hazama 12",
+        "ja": "ミニアニメ劇場 その12: デスゲーム⑥ / スナックはざま⑫"
+      },
+      "tvdbShowId": 473913,
+      "tvdbId": 11987278,
+      "seasonNumber": 0,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": null,
+      "runtime": 11,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11987278/screencap/6aad49bcd0ca6.jpg"
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:50:00.960Z",
+    "lastFetched": "2026-11-21T17:45:18.447Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

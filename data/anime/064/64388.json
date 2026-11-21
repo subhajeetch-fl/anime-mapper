@@ -4,16 +4,16 @@
   "mappings": {
     "mal": 64388,
     "anilist": 213188,
-    "anidb": null,
+    "anidb": 20212,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 3194922,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64388,
     "livechart": null,
-    "animeplanet": null,
+    "animeplanet": "peerless-battle-spirit-2nd-season-2024",
     "anisearch": null,
     "notify": null
   },
@@ -29,25 +29,21 @@
     ]
   },
   "type": "ONA",
-  "source": "Unknown",
+  "source": "ORIGINAL",
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 100,
-  "episodeLength": null,
+  "episodeLength": 10,
   "aired": {
     "from": "2026-06-09T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "spring",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1786413600
+    "episode": 25,
+    "airingAt": 1795485600
   },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -58,7 +54,9 @@
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Historical",
+    "Martial Arts"
   ],
   "studios": [
     "Zhonghui Donghua",
@@ -91,15 +89,16 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-08-04T04:00:14.942Z",
+    "lastFetched": "2026-11-21T17:50:28.648Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

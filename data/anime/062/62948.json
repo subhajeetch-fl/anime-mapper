@@ -4,17 +4,17 @@
   "mappings": {
     "mal": 62948,
     "anilist": 213703,
-    "anidb": null,
+    "anidb": 20199,
     "kitsu": null,
-    "simkl": null,
-    "tmdb": null,
-    "tvdb": null,
-    "trakt": null,
-    "traktType": null,
+    "simkl": 3201838,
+    "tmdb": 211134,
+    "tvdb": 457666,
+    "trakt": 198983,
+    "traktType": "shows",
     "shikimori": 62948,
     "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "capsules-4th-season",
+    "anisearch": 21772,
     "notify": null
   },
   "title": {
@@ -29,21 +29,17 @@
   },
   "type": "ONA",
   "source": "Original",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 8,
-  "episodeLength": null,
+  "episodeLength": 15,
   "aired": {
     "from": "2026-07-08T00:00:00+00:00",
-    "to": null
+    "to": "2026-08-19T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -57,17 +53,20 @@
   ],
   "studios": [
     "Pb Animation",
-    "HuaMei Animation"
+    "HuaMei Animation",
+    "Maple Toon"
   ],
-  "producers": [
-    "bilibili"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1035/153596l.jpg",
     "banner": null,
     "color": "#f1bb0d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "XvuUOmNUtxc",
+    "url": "https://www.youtube.com/watch?v=XvuUOmNUtxc",
+    "thumbnail": "https://i.ytimg.com/vi/XvuUOmNUtxc/hqdefault.jpg"
+  },
   "synopsis": "\"Capsules Project\" is a collection of domestically produced animated short films created by a professional team with mature animation production experience. With the creative theme of \"extreme emotion + independent theme,\" it does not restrict the creative form, exploring the possibilities of animation together with the team. The aim is to collaboratively create original short films with diverse styles and characteristics, and to help Chinese animators reach the world stage. \"Miracle\" represents transcending conventions and breaking through limitations to achieve extraordinary success, often accompanied by a sense of mystery that inspires awe and curiosity. What miracles will occur in these 10 stories?\n\n(Source: Bilibili, translated)",
   "sequence": [
     {
@@ -86,15 +85,16 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-09-01T00:38:23.586Z",
+    "lastFetched": "2026-11-21T17:41:01.955Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

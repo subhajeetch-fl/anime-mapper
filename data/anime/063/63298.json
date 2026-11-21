@@ -33,15 +33,11 @@
   "episodeLength": null,
   "aired": {
     "from": "2027-01-01T00:00:00+00:00",
-    "to": null
+    "to": "2027-01-01T00:00:00+00:00"
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -51,7 +47,8 @@
   },
   "genres": [
     "Drama",
-    "Fantasy"
+    "Fantasy",
+    "Mythology"
   ],
   "studios": [
     "Locus Corporation",
@@ -68,12 +65,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-08-01T04:12:53.142Z",
+    "lastFetched": "2026-11-21T17:44:20.712Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

@@ -5,7 +5,7 @@
     "mal": 64539,
     "anilist": null,
     "anidb": null,
-    "kitsu": null,
+    "kitsu": 50832,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 64539,
     "livechart": null,
-    "animeplanet": null,
+    "animeplanet": "alien-stage-the-animation",
     "anisearch": null,
     "notify": null
   },
@@ -25,7 +25,7 @@
       "ALNST"
     ]
   },
-  "type": null,
+  "type": "unknown",
   "source": "Music",
   "status": "Not yet aired",
   "airing": false,
@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "R",
   "score": {
@@ -51,11 +47,13 @@
   },
   "genres": [
     "Drama",
+    "High Stakes Game",
+    "Music",
+    "Psychological",
     "Sci-Fi",
     "Suspense",
     "Alien",
-    "Science Fiction",
-    "Music"
+    "Science Fiction"
   ],
   "studios": [],
   "producers": [],
@@ -69,16 +67,16 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T14:24:26.048Z",
+    "lastFetched": "2026-11-21T17:39:36.622Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "episodes (no data from Zenshin or Kitsu)"
     ],
     "dataVersion": 1
   }

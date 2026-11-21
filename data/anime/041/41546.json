@@ -31,18 +31,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 2,
   "aired": {
     "from": "2020-03-26T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "winter",
+  "year": 2020,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -53,7 +49,8 @@
   "genres": [
     "Action",
     "Comedy",
-    "Fantasy"
+    "Fantasy",
+    "Kids"
   ],
   "studios": [],
   "producers": [],
@@ -65,52 +62,17 @@
   "trailer": null,
   "synopsis": "A new mini season of Ninja Box. They expand upon the random everyday encounters of the kids. According to the official YouTube channels, this is the \"season 3\" of the franchise and the episodes will have irregular release schedule.",
   "sequence": [],
-  "episodes": {
-    "1": {
-      "episode": "1",
-      "length": null,
-      "airDate": "2020-03-26T00:00:00+00:00",
-      "title": {
-        "en": "New Anime Start-Dacchi!",
-        "romaji": "Shin Anime Start Dacchi! ",
-        "ja": "新アニメスタートだッチ！"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "5": {
-      "episode": "5",
-      "length": null,
-      "airDate": "2021-01-07T00:00:00+00:00",
-      "title": {
-        "en": "Is the Era of Tapioca Ending? Dacchi!",
-        "romaji": "Tapioca Boom Shuuen? Dacchi! ",
-        "ja": "タピオカブーム終焉？だッチ！"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    }
-  },
+  "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T11:23:33.447Z",
+    "lastFetched": "2026-11-21T17:55:00.942Z",
     "sourcesUsed": [
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "jikan-episodes (fallback)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

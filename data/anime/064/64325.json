@@ -12,9 +12,9 @@
     "trakt": null,
     "traktType": null,
     "shikimori": 64325,
-    "livechart": null,
+    "livechart": 13652,
     "animeplanet": null,
-    "anisearch": null,
+    "anisearch": 21588,
     "notify": null
   },
   "title": {
@@ -28,18 +28,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 8,
-  "episodeLength": null,
+  "episodeLength": 2,
   "aired": {
     "from": "2026-06-04T00:00:00+00:00",
     "to": null
   },
-  "season": "summer",
+  "season": "spring",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -48,32 +44,40 @@
     "kitsuRating": null
   },
   "genres": [
-    "Comedy"
+    "Comedy",
+    "Pets"
   ],
   "studios": [
     "Shin-Ei Animation",
     "TOHO animation STUDIO"
   ],
-  "producers": [],
+  "producers": [
+    "Lotte Entertainment"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1525/158307l.jpg",
     "banner": null,
     "color": "#e4d65d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "019tI1mFQes",
+    "url": "https://www.youtube.com/watch?v=019tI1mFQes",
+    "thumbnail": "https://i.ytimg.com/vi/019tI1mFQes/hqdefault.jpg"
+  },
   "synopsis": "Lotte's snack brand Pie no Mi animated series which will be released on Lotte's official YouTube channel, with one episode released each month.",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-12T11:56:45.838Z",
+    "lastFetched": "2026-11-21T17:49:54.275Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

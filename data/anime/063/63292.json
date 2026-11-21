@@ -5,7 +5,7 @@
     "mal": 63292,
     "anilist": 205896,
     "anidb": 19822,
-    "kitsu": null,
+    "kitsu": 51011,
     "simkl": 2990960,
     "tmdb": 288588,
     "tvdb": null,
@@ -22,36 +22,39 @@
     "english": "Full Clearing Another World under a Goddess with Zero Believers",
     "native": "信者ゼロの女神サマと始める異世界攻略",
     "synonyms": [
-      "Clear the World Like a Game with the Zero Believer Goddess",
-      "Full Clearing Another World under a Goddess with Zero Believers"
+      "Clear the World Like a Game with the Zero Believer Goddess"
     ]
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-11T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Sundays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 7,
+    "airingAt": 1795357800
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.53,
+    "anilistScore": 6.5,
     "kitsuRating": null
   },
   "genres": [
     "Fantasy",
+    "Isekai",
     "Romance",
     "Adventure"
   ],
@@ -59,28 +62,174 @@
     "HORNETS"
   ],
   "producers": [
+    "NBCUniversal Entertainment Japan",
+    "Hakuhodo DY Music & Pictures",
+    "BS Asahi",
+    "ADK Marketing Solutions",
+    "OVERLAP",
+    "TOKYO MX",
     "DAX Production",
-    "Hakuhodo DY Music & Pictures"
+    "KLOCKWORX"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1206/158876l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1016/159863l.jpg",
     "banner": null,
-    "color": "#1aaed6"
+    "color": "#5dbbe4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "qlMB8vSpLzc",
+    "url": "https://www.youtube.com/watch?v=qlMB8vSpLzc",
+    "thumbnail": "https://i.ytimg.com/vi/qlMB8vSpLzc/hqdefault.jpg"
+  },
   "synopsis": "High school student and video game-lover Makoto Takatsuki dies in an accident and awakens in another world beside his classmates. However, he gains no cheat-like abilities, so he decides to become a \"Magic Apprentice.\"\n\nThen Noa, a minor goddess, appears before him. After she pleads and begs him, he decides to become her first believer. The weakest boy in the class becomes the strongest alongside the minor goddess in this another world fantasy!\n\n(Source: Overlap, translated)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-11",
+      "title": {
+        "en": "Makoto Takatsuki Becomes a Believer",
+        "romaji": "Takatsuki Makoto, Shinja ni Naru",
+        "ja": "高月マコト, 信者になる"
+      },
+      "tvdbShowId": 472640,
+      "tvdbId": 11556113,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11556113/screencap/6acae89aa7530.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-18",
+      "title": {
+        "en": "Makoto Takatsuki Challenges a Quest",
+        "romaji": "Takatsuki Makoto, Quest ni Idomu",
+        "ja": "高月マコト, クエストに挑む"
+      },
+      "tvdbShowId": 472640,
+      "tvdbId": 12029315,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12029315/screencap/6ad4c187801f9.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-25",
+      "title": {
+        "en": "Makoto Takatsuki Gains a Party Member",
+        "romaji": "Takatsuki Makoto, Nakama ga Dekiru",
+        "ja": "高月マコト, 仲間ができる"
+      },
+      "tvdbShowId": 472640,
+      "tvdbId": 12029316,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12029316/screencap/6add5efab1d6c.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-11-01",
+      "title": {
+        "en": "Makoto Takatsuki Synchronizes",
+        "romaji": "Takatsuki Makoto, Synchro Suru",
+        "ja": "高月マコト, シンクロする"
+      },
+      "tvdbShowId": 472640,
+      "tvdbId": 12029317,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12029317/screencap/6ae54edf94e5b.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-08",
+      "title": {
+        "en": "Makoto Takatsuki Explores a Dungeon",
+        "romaji": "Takatsuki Makoto, Dungeon Tansaku Suru",
+        "ja": "高月マコト, ダンジョン探索する"
+      },
+      "tvdbShowId": 472640,
+      "tvdbId": 12029318,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12029318/screencap/6aefdcfd39170.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-15",
+      "title": {
+        "en": "Makoto Takatsuki Meets a Dragon",
+        "romaji": "Takatsuki Makoto, Ryuu to Deau",
+        "ja": "高月マコト, 竜と出会う"
+      },
+      "tvdbShowId": 472640,
+      "tvdbId": 12029319,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12029319/screencap/6af7a780897d8.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-22",
+      "title": {
+        "en": null,
+        "romaji": "Takatsuki Makoto, Revenge o Tetsudau",
+        "ja": "高月マコト, リベンジを手伝う"
+      },
+      "tvdbShowId": 472640,
+      "tvdbId": 12029320,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12029320/screencap/6b00a2a935f52.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-29",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 472640,
+      "tvdbId": 12029321,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-05T04:34:21.391Z",
+    "lastFetched": "2026-11-21T17:44:13.554Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

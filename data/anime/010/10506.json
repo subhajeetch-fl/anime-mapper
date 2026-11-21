@@ -38,7 +38,7 @@
   "broadcast": {
     "day": null,
     "time": null,
-    "timezone": null
+    "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": null,
   "rating": null,
@@ -53,7 +53,9 @@
   "studios": [
     "Kachidoki Studio"
   ],
-  "producers": [],
+  "producers": [
+    "Kachidoki Studio"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/2/28900l.jpg",
     "banner": null,
@@ -65,10 +67,10 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "0m",
+      "length": 0,
       "airDate": "2011-03-25",
       "title": {
-        "en": "Episode 1"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -80,12 +82,12 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-06-27T14:32:09.487Z",
+    "lastFetched": "2026-11-21T17:52:54.129Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

@@ -13,43 +13,46 @@
     "traktType": null,
     "shikimori": 64084,
     "livechart": 13623,
-    "animeplanet": null,
+    "animeplanet": "the-worlds-strongest-witch",
     "anisearch": 21543,
     "notify": null
   },
   "title": {
     "romaji": "Sekai Saikyou no Majo, Hajimemashita",
-    "english": null,
+    "english": "The World's Strongest Witch",
     "native": "世界最強の魔女、始めました",
     "synonyms": [
-      "The World's Strongest Witch",
-      "The World’s Strongest Witch",
+      "Sekamajo",
       "Sekai Saikyou no Majo, Hajimemashita: Watashi dake \"Kouryaku Site\" wo Mireru Sekai de Jiyuu ni Ikimasu",
-      "世界最強の魔女、始めました　～私だけ『攻略サイト』を見れる世界で自由に生きます～"
+      "世界最強の魔女、始めました　～私だけ『攻略サイト』を見れる世界で自由に生きます～",
+      "せかまじょ"
     ]
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-07T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Wednesdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795611600
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.07,
+    "anilistScore": 7,
     "kitsuRating": null
   },
   "genres": [
@@ -63,27 +66,232 @@
     "Aisle"
   ],
   "producers": [
-    "Pony Canyon"
+    "Yomiuri TV Enterprise",
+    "Kodansha",
+    "Pony Canyon",
+    "BS11",
+    "Bridge",
+    "Bit grooove promotion"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1499/157162l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1341/159753l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/211778-ZbXEhqfFkj62.jpg",
     "color": "#5dbbf1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "snJZD9vxfHY",
+    "url": "https://www.youtube.com/watch?v=snJZD9vxfHY",
+    "thumbnail": "https://i.ytimg.com/vi/snJZD9vxfHY/hqdefault.jpg"
+  },
   "synopsis": "When Lorna manifests a completely useless ability, she's labeled an embarrassment to her family and kicked out of the house. With no money or food, she's about to hit rock bottom. But then, she figures out how to use her supposedly worthless SSS-Rank skill, \"Internet.\" This cheat-level talent gives her the know-how to gather an unlimited amount of valuable items and easily acquire rare equipment. Armed with godlike knowledge, Lorna's free to do anything she wants! If only she could figure out what \"lmfao\" means...\n\n(Source: Yen Press)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-07",
+      "title": {
+        "en": "I Tried Using the Internet!",
+        "romaji": "Internet o Tsukatte Mita!",
+        "ja": "インターネットを使ってみた!"
+      },
+      "tvdbShowId": 477424,
+      "tvdbId": 11769880,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11769880/screencap/6abe2cea359df.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-14",
+      "title": {
+        "en": "I Tried Becoming an Adventurer!",
+        "romaji": "Boukensha ni Natte Mita!",
+        "ja": "冒険者になってみた!"
+      },
+      "tvdbShowId": 477424,
+      "tvdbId": 12023443,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023443/screencap/6acec63a95679.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-21",
+      "title": {
+        "en": "I Tried Looking at Message Boards!",
+        "romaji": "Keijiban o Mite Mita!",
+        "ja": "掲示板を見てみた!"
+      },
+      "tvdbShowId": 477424,
+      "tvdbId": 12023444,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023444/screencap/6ad81b57b10b9.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-28",
+      "title": {
+        "en": "I Tried Stopping Someone`s Ambition!",
+        "romaji": "Yabou o Tomete Mita!",
+        "ja": "野望を止めてみた!"
+      },
+      "tvdbShowId": 477424,
+      "tvdbId": 12023445,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023445/screencap/6ae005bf97204.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-04",
+      "title": {
+        "en": "I Tried Quitting Being a Savior!",
+        "romaji": "Kyuuseishu o Yamete Mita!",
+        "ja": "救世主をやめてみた!"
+      },
+      "tvdbShowId": 477424,
+      "tvdbId": 12023446,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023446/screencap/6aea9e233e9cc.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-11",
+      "title": {
+        "en": "I Tried Becoming a God!",
+        "romaji": "Kami ni Natte Mita!",
+        "ja": "神になってみた!"
+      },
+      "tvdbShowId": 477424,
+      "tvdbId": 12023447,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023447/screencap/6af298407044f.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-18",
+      "title": {
+        "en": null,
+        "romaji": "Himitsu Heiki o Tsukutte Mita!",
+        "ja": "秘密兵器を作ってみた!"
+      },
+      "tvdbShowId": 477424,
+      "tvdbId": 12023448,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023448/screencap/6afbb725e2ebc.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-25",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 477424,
+      "tvdbId": 12023449,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-12-02",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 477424,
+      "tvdbId": 12023450,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-09",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 477424,
+      "tvdbId": 12023451,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-16",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 477424,
+      "tvdbId": 12023452,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-23",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 477424,
+      "tvdbId": 12023453,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:59:43.972Z",
+    "lastFetched": "2026-11-21T17:49:05.812Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

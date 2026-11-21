@@ -33,13 +33,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 13,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-02T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-24T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -48,18 +48,19 @@
     "time": "00:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 11,
-    "airingAt": 1788364800
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.14,
-    "anilistScore": 6.9,
+    "malScore": 7.23,
+    "anilistScore": 7.2,
     "kitsuRating": null
   },
   "genres": [
+    "Crossdressing",
+    "Love Polygon",
     "Romance",
+    "School",
+    "Shoujo",
     "Comedy",
     "Drama",
     "Slice of Life"
@@ -68,19 +69,22 @@
     "Signal.MD"
   ],
   "producers": [
-    "Production I.G",
     "Aniplex",
-    "Hakusensha",
-    "Magic Capsule",
     "Crunchyroll",
-    "Hayate"
+    "Hakusensha",
+    "HAYATE",
+    "Production I.G"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1899/158523l.jpg",
-    "banner": null,
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209669-pX2iiPUsKtXq.jpg",
     "color": "#436be4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "dN7LV-oVFBg",
+    "url": "https://www.youtube.com/watch?v=dN7LV-oVFBg",
+    "thumbnail": "https://i.ytimg.com/vi/dN7LV-oVFBg/hqdefault.jpg"
+  },
   "synopsis": "Second season of Hanazakari no Kimitachi e.",
   "sequence": [
     {
@@ -100,75 +104,225 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-02",
       "title": {
-        "en": "Definitely Weird"
+        "en": "Definitely Weird",
+        "ja": "絶対変だよ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450072,
+      "tvdbId": 11367694,
+      "seasonNumber": 2,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367694/screencap/6a4257bab70d7.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
-      "airDate": "2026-07-02",
+      "length": 25,
+      "airDate": "2026-07-09",
       "title": {
-        "en": "Please Make Me Stronger!"
+        "en": "Please Make Me Stronger!",
+        "ja": "強くしてください！"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450072,
+      "tvdbId": 11367695,
+      "seasonNumber": 2,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367695/screencap/6a453a59e23a5.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
-      "airDate": "2026-07-09",
+      "length": 25,
+      "airDate": "2026-07-16",
       "title": {
-        "en": "How Did You Know?!"
+        "en": "How Did You Know?!",
+        "ja": "なんでわかったの!?"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450072,
+      "tvdbId": 11367696,
+      "seasonNumber": 2,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 15,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367696/screencap/6a4e746178293.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
-      "airDate": "2026-07-16",
+      "length": 25,
+      "airDate": "2026-07-23",
       "title": {
-        "en": "I`ll Wait"
+        "en": "I`ll Wait",
+        "ja": "待っててあげる"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450072,
+      "tvdbId": 11367697,
+      "seasonNumber": 2,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367697/screencap/6a57af272c4f4.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-07-30",
+      "title": {
+        "en": "I Can`t Not Think About It",
+        "ja": "意識しちゃう"
+      },
+      "tvdbShowId": 450072,
+      "tvdbId": 11367698,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367698/screencap/6a60e95d2a28a.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-06",
+      "title": {
+        "en": "It`s Fine, Right?",
+        "ja": "大丈夫だよね？"
+      },
+      "tvdbShowId": 450072,
+      "tvdbId": 11367699,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367699/screencap/6a6a2565e68ad.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-13",
+      "title": {
+        "en": "Because I Want to Stay by Your Side Forever",
+        "ja": "ずっとそばにいたいから"
+      },
+      "tvdbShowId": 450072,
+      "tvdbId": 11367700,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367700/screencap/6a735f22ab769.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-20",
+      "title": {
+        "en": "The Doctor`s Boyfriend?",
+        "ja": "先生のカレシ？"
+      },
+      "tvdbShowId": 450072,
+      "tvdbId": 11367701,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367701/screencap/6a7c9ad560bb7.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-27",
+      "title": {
+        "en": "Dont`t Look!!",
+        "ja": "見ちゃダメ!!"
+      },
+      "tvdbShowId": 450072,
+      "tvdbId": 11690902,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11690902/screencap/6a85d4596166d.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-03",
+      "title": {
+        "en": "Did You Do It?!",
+        "ja": "君がやったのか!?"
+      },
+      "tvdbShowId": 450072,
+      "tvdbId": 11690904,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11690904/screencap/6a8f0ed3df46a.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-10",
+      "title": {
+        "en": "What Do You Want?",
+        "ja": "欲しいものってなに？"
+      },
+      "tvdbShowId": 450072,
+      "tvdbId": 11690907,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11690907/screencap/6a9848555af10.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-17",
+      "title": {
+        "en": "No Helping It",
+        "ja": "仕方ないよね"
+      },
+      "tvdbShowId": 450072,
+      "tvdbId": 11690909,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11690909/screencap/6aa183df1bc04.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": 25,
+      "airDate": "2026-09-24",
+      "title": {
+        "en": "I`m So Happy!",
+        "romaji": "Suggoku Shiawase!",
+        "ja": "すっごく幸せ!"
+      },
+      "tvdbShowId": 450072,
+      "tvdbId": 11868937,
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868937/screencap/6aaabd37a879c.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:54:08.712Z",
+    "lastFetched": "2026-11-21T17:46:35.447Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

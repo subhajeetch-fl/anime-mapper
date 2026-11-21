@@ -13,13 +13,13 @@
     "traktType": null,
     "shikimori": 64154,
     "livechart": 13630,
-    "animeplanet": null,
+    "animeplanet": "the-credits-roll-into-the-sea",
     "anisearch": 21559,
     "notify": null
   },
   "title": {
     "romaji": "Umi ga Hashiru End Roll",
-    "english": null,
+    "english": "The Credits Roll into the Sea",
     "native": "海が走るエンドロール",
     "synonyms": [
       "The Credits Roll Into the Sea",
@@ -34,15 +34,11 @@
   "episodeLength": null,
   "aired": {
     "from": "2027-01-01T00:00:00+00:00",
-    "to": null
+    "to": "2027-01-01T00:00:00+00:00"
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -51,9 +47,12 @@
     "kitsuRating": null
   },
   "genres": [
+    "Shoujo",
     "Slice of Life",
     "Comedy",
-    "Drama"
+    "Drama",
+    "The Arts",
+    "University"
   ],
   "studios": [
     "Kyoto Animation"
@@ -61,23 +60,46 @@
   "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1299/157597l.jpg",
-    "banner": null,
+    "banner": "https://media.kitsu.app/anime/50714/cover_image/bf30338abe423311e3d941bbbc47c786.jpg",
     "color": "#e4d6ae"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "9Nuwm1vjO_o",
+    "url": "https://www.youtube.com/watch?v=9Nuwm1vjO_o",
+    "thumbnail": "https://i.ytimg.com/vi/9Nuwm1vjO_o/hqdefault.jpg"
+  },
   "synopsis": "Umiko Chino, a 65-year-old widow, has no noteworthy hobbies to speak of. When her VCR stops working, Umiko decides to pay a visit to the cinema, like she once did with her husband on their first date. However, instead of focusing on the movie, her gaze is fixed upon the audience—and on one young-looking person in particular.\n\nAfter the credits roll, the mysterious person introduces themself to Umiko as Kai Hamauchi—a male college student majoring in film. Umiko asks him to fix her VCR, and Kai obliges. Yet, before Kai leaves, he asks Umiko a question that changes the course of her life: would she like to make a movie with him?\n\n[Written by MAL Rewrite]",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-06T04:49:52.939Z",
+    "lastFetched": "2026-11-21T17:49:23.949Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

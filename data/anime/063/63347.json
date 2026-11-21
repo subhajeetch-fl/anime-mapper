@@ -25,13 +25,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 13,
   "episodeLength": 24,
   "aired": {
     "from": "2026-07-02T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-24T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -40,33 +40,29 @@
     "time": "22:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 11,
-    "airingAt": 1788786000
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.52,
+    "malScore": 7.25,
     "anilistScore": 7.1,
     "kitsuRating": null
   },
   "genres": [
     "Drama",
     "Historical",
-    "Coming Of Age"
+    "Performing Arts",
+    "Seinen"
   ],
   "studios": [
     "Cypic"
   ],
   "producers": [
-    "Shochiku",
-    "Tokyo MX",
-    "Toy's Factory",
+    "Shouchiku",
     "CyberAgent",
     "Cygames",
-    "Shochiku Music Publishing",
-    "dugout",
+    "Toy's Factory",
     "arma bianca",
+    "TOKYO MX",
     "BS Asahi",
     "Happinet Media Marketing"
   ],
@@ -75,81 +71,225 @@
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206521-zCIAGsiIkh6G.jpg",
     "color": "#e45d78"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "h2zytdkjAU8",
+    "url": "https://www.youtube.com/watch?v=h2zytdkjAU8",
+    "thumbnail": "https://i.ytimg.com/vi/h2zytdkjAU8/hqdefault.jpg"
+  },
   "synopsis": "One does not need dance to live.\n\nIn 1374, during the turbulent age when the Northern and Southern Courts were locked in conflict, the Northern Court's shogun, Ashikaga Yoshimitsu, was becoming an increasingly dominant force.\n\nBorn the son of Kanami, head of the Kanze troupe of sarugaku performers, Oniyasha drifts through his days with a hazy question lodged in his heart: Why do people dance? His spirit remains clouded, until the day he encounters a dance that is truly \"good.\"\n\nCurious, sensitive, and strikingly beautiful, the boy meets people, laughs, cries, confronts his own weaknesses, and slowly begins to shape a new form of dance for a world steeped in impermanence.\n\n(Source: Shochiku)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
-      "airDate": "2026-06-29",
+      "length": 25,
+      "airDate": "2026-07-02",
       "title": {
-        "en": "Why Do People Dance?"
+        "en": "Why Do People Dance?",
+        "romaji": "Hito wa Naze Mau no ka",
+        "ja": "人はなぜ舞うのか"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473018,
+      "tvdbId": 11570366,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11570366/screencap/6a3904e375345.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
-      "airDate": "2026-07-06",
+      "length": 25,
+      "airDate": "2026-07-09",
       "title": {
         "en": "You Have a Body"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473018,
+      "tvdbId": 11867297,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867297/screencap/6a4b7bdc5f48c.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
-      "airDate": "2026-07-13",
+      "length": 25,
+      "airDate": "2026-07-16",
       "title": {
         "en": "You Have Your Own Sense of \"Good\""
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473018,
+      "tvdbId": 11867298,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867298/screencap/6a54bf6c78df0.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
-      "airDate": "2026-07-20",
+      "length": 25,
+      "airDate": "2026-07-23",
       "title": {
-        "en": "Episode 4"
+        "en": "Differing Scales of Progress"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473018,
+      "tvdbId": 11867299,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867299/screencap/6a5e000bb775d.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-07-30",
+      "title": {
+        "en": "A Budding Throb"
+      },
+      "tvdbShowId": 473018,
+      "tvdbId": 11867300,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867300/screencap/6a6754f5c7a26.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-06",
+      "title": {
+        "en": "Connection"
+      },
+      "tvdbShowId": 473018,
+      "tvdbId": 11867301,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867301/screencap/6a705ac1149cc.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-13",
+      "title": {
+        "en": "In Between"
+      },
+      "tvdbShowId": 473018,
+      "tvdbId": 11867302,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867302/screencap/6a7995c41f3be.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-20",
+      "title": {
+        "en": "To the Other Side of the Bridge"
+      },
+      "tvdbShowId": 473018,
+      "tvdbId": 11867303,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867303/screencap/6a82d08fab248.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-27",
+      "title": {
+        "en": "Concealed Feelings"
+      },
+      "tvdbShowId": 473018,
+      "tvdbId": 11867304,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867304/screencap/6a8c0b855254c.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-03",
+      "title": {
+        "en": "A World Overflowing"
+      },
+      "tvdbShowId": 473018,
+      "tvdbId": 11867306,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867306/screencap/6a954610b4195.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-10",
+      "title": {
+        "en": "The Moon Before It`s Full"
+      },
+      "tvdbShowId": 473018,
+      "tvdbId": 11867307,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867307/screencap/6a9e8081b16ef.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-17",
+      "title": {
+        "en": "Reclaiming Intentions"
+      },
+      "tvdbShowId": 473018,
+      "tvdbId": 11867308,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867308/screencap/6aa7bd1a18c12.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": 25,
+      "airDate": "2026-09-24",
+      "title": {
+        "en": "Noh",
+        "romaji": "Nou",
+        "ja": "能"
+      },
+      "tvdbShowId": 473018,
+      "tvdbId": 11867312,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867312/screencap/6ab0f66be21a3.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:48:00.324Z",
+    "lastFetched": "2026-11-21T17:44:35.658Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

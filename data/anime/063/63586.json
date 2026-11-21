@@ -18,7 +18,7 @@
     "notify": null
   },
   "title": {
-    "romaji": "Benghuai: Xing Qiong Tiedao - Jixing Xunayn PVs",
+    "romaji": "Benghuai: Xing Qiong Tiedao - Jixing Xunyan PVs",
     "english": "Honkai: Star Rail - Improv Tour Trailers",
     "native": "《崩坏：星穹铁道》即兴巡演PV",
     "synonyms": []
@@ -28,18 +28,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 4,
   "aired": {
     "from": "2026-02-01T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "winter",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -51,9 +47,7 @@
     "Sci-Fi"
   ],
   "studios": [],
-  "producers": [
-    "miHoYoAnime"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1368/155727l.jpg",
     "banner": null,
@@ -62,103 +56,17 @@
   "trailer": null,
   "synopsis": "Animated trailers that are part of the Improv Tour trailers featuring Planarcadia characters for the game Honkai: Star Rail, the animation is unique and is not present in the game.",
   "sequence": [],
-  "episodes": {
-    "1": {
-      "episode": "1",
-      "length": null,
-      "airDate": "2026-02-01T00:00:00+00:00",
-      "title": {
-        "en": "Binge It All! The Truth After the Battle of Irontomb!",
-        "romaji": null,
-        "ja": null
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "2": {
-      "episode": "2",
-      "length": null,
-      "airDate": "2026-02-08T00:00:00+00:00",
-      "title": {
-        "en": "Beyond Weal and Woe",
-        "romaji": null,
-        "ja": null
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "3": {
-      "episode": "3",
-      "length": null,
-      "airDate": "2026-04-15T00:00:00+00:00",
-      "title": {
-        "en": "Beginner's Guide",
-        "romaji": null,
-        "ja": null
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "4": {
-      "episode": "4",
-      "length": null,
-      "airDate": "2026-06-26T00:00:00+00:00",
-      "title": {
-        "en": "Death of the Elation",
-        "romaji": null,
-        "ja": null
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "5": {
-      "episode": "5",
-      "length": null,
-      "airDate": "2026-07-08T00:00:00+00:00",
-      "title": {
-        "en": "To the Onlooker",
-        "romaji": null,
-        "ja": null
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    }
-  },
+  "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-10T04:25:53.231Z",
+    "lastFetched": "2026-11-21T17:45:50.034Z",
     "sourcesUsed": [
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "jikan-episodes (fallback)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

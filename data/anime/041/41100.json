@@ -28,18 +28,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 1,
   "aired": {
     "from": "2019-01-07T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "winter",
+  "year": 2019,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -47,11 +43,12 @@
     "anilistScore": null,
     "kitsuRating": null
   },
-  "genres": [],
-  "studios": [],
-  "producers": [
-    "Kamio Japan"
+  "genres": [
+    "Kids",
+    "Music"
   ],
+  "studios": [],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1234/105532l.jpg",
     "banner": null,
@@ -62,16 +59,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T11:21:09.848Z",
+    "lastFetched": "2026-11-21T17:54:50.829Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

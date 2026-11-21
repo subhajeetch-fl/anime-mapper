@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 64454,
     "livechart": null,
-    "animeplanet": null,
+    "animeplanet": "sheng-xu-movie-lu-jin-liaoyuan",
     "anisearch": null,
     "notify": null
   },
@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -52,14 +48,14 @@
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Historical",
+    "Martial Arts"
   ],
   "studios": [
     "BUILD DREAM"
   ],
-  "producers": [
-    "Tencent Video"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1008/158630l.jpg",
     "banner": null,
@@ -70,16 +66,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:13:14.839Z",
+    "lastFetched": "2026-11-21T17:51:16.638Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

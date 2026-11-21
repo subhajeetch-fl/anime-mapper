@@ -6,14 +6,14 @@
     "anilist": 211877,
     "anidb": 20040,
     "kitsu": 50752,
-    "simkl": null,
-    "tmdb": null,
+    "simkl": 3108830,
+    "tmdb": 336654,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64131,
     "livechart": 13628,
-    "animeplanet": null,
+    "animeplanet": "my-girlfriends-friend",
     "anisearch": 21562,
     "notify": null
   },
@@ -21,32 +21,29 @@
     "romaji": "Kanojo no Tomodachi",
     "english": "My Girlfriend's Friend",
     "native": "彼女の友達",
-    "synonyms": [
-      "My Girlfriend's Friend"
-    ]
+    "synonyms": []
   },
-  "type": "TV",
+  "type": "ONA",
   "source": "Web manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 12,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
-    "to": null
+    "from": "2026-10-05T00:00:00+00:00",
+    "to": "2026-12-21T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+  "broadcast": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795363500
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "rating": "R+ - Mild Nudity",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 5.52,
+    "anilistScore": 4.8,
     "kitsuRating": null
   },
   "genres": [
@@ -58,26 +55,229 @@
   "studios": [
     "Quad"
   ],
-  "producers": [],
+  "producers": [
+    "WWWave"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1696/158911l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1413/159862l.jpg",
     "banner": null,
-    "color": "#d6781a"
+    "color": "#f1a15d"
   },
-  "trailer": null,
-  "synopsis": "Takeru Hidaka is an ambitious high school student aiming for medical school. He has just started dating his first girlfriend, Kaori Koga, and to everyone else, their relationship seems perfectly harmonious.\n\nHowever, that peace is threatened when Kaori's best friend, Tomoko Yoshioka, begins to flirt with and seduce Takeru. Caught between loyalty to his girlfriend and Tomoko's advances, Takeru falls into a double life and a complicated affair. Now, he must navigate a web of lies that puts both his academic future and his emotional connections at risk, all while the constant threat of his secret being exposed looms over him.\n\n(Source: MAL News)",
-  "sequence": [],
-  "episodes": {},
+  "trailer": {
+    "youtubeId": "E-stx_wwVSs",
+    "url": "https://www.youtube.com/watch?v=E-stx_wwVSs",
+    "thumbnail": "https://i.ytimg.com/vi/E-stx_wwVSs/hqdefault.jpg"
+  },
+  "synopsis": "High school student Takeru Hidaka has recently started dating his classmate Kaori Koga. While the two agree to take their relationship slowly, he has an issue: Tomoko Yoshioka, Kaori's best friend. Yoshioka is willing to do anything to get Takeru to cheat on Kaori with her, as that is the only thing that could satisfy her sexually.\n\nDespite Yoshioka's persistent advances, Takeru wants to stay loyal to Kaori. But as Yoshioka ramps up her attempts at seduction and manipulation, Takeru's faithfulness is truly put to the test.\n\n[Written by MAL Rewrite]",
+  "sequence": [
+    {
+      "malId": 65167,
+      "title": {
+        "romaji": "Kanojo no Tomodachi Mini Anime Gekijou",
+        "english": "My Girlfriend's Friend Mini Anime",
+        "native": "彼女の友達 ミニアニメ劇場"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217782-DV0vODQ68ZRk.png",
+      "format": "TV_SHORT",
+      "episodes": 12,
+      "seasonYear": 2026,
+      "relationType": "SPIN_OFF"
+    }
+  ],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 15,
+      "airDate": "2026-10-05",
+      "title": {
+        "en": null,
+        "ja": "黒樹四楼"
+      },
+      "tvdbShowId": 477658,
+      "tvdbId": 11781564,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11781564/screencap/6ac18b3062663.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 15,
+      "airDate": "2026-10-12",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 477658,
+      "tvdbId": 12018463,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018463/screencap/6acaf4c0107cb.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 15,
+      "airDate": "2026-10-19",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 477658,
+      "tvdbId": 12018464,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018464/screencap/6ad4d765bd80e.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 15,
+      "airDate": "2026-10-26",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 477658,
+      "tvdbId": 12018465,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018465/screencap/6add61c2a2d8f.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 15,
+      "airDate": "2026-11-02",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 477658,
+      "tvdbId": 12018466,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018466/screencap/6ae551453d229.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 15,
+      "airDate": "2026-11-09",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 477658,
+      "tvdbId": 12018467,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018467/screencap/6aefe63976cd1.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 15,
+      "airDate": "2026-11-16",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 477658,
+      "tvdbId": 12018468,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018468/screencap/6af7ae7fd88d6.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 15,
+      "airDate": "2026-11-23",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 477658,
+      "tvdbId": 12018469,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018469/screencap/6b00a987239b7.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 15,
+      "airDate": "2026-11-30",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 477658,
+      "tvdbId": 12018470,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 12,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 15,
+      "airDate": "2026-12-07",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 477658,
+      "tvdbId": 12018471,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 12,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 15,
+      "airDate": "2026-12-14",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 477658,
+      "tvdbId": 12018472,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 12,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 15,
+      "airDate": "2026-12-21",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 477658,
+      "tvdbId": 12018473,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 12,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-08T12:22:43.247Z",
+    "lastFetched": "2026-11-21T17:49:21.314Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

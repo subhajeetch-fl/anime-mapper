@@ -27,25 +27,21 @@
   },
   "type": "ONA",
   "source": "Original",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 60,
-  "episodeLength": null,
+  "episodeLength": 7,
   "aired": {
     "from": "2026-03-03T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-08T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "winter",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 6.7,
     "anilistScore": null,
     "kitsuRating": null
   },
@@ -53,10 +49,12 @@
     "Action",
     "Adventure",
     "Fantasy",
+    "Historical",
+    "Martial Arts",
     "Comedy"
   ],
   "studios": [
-    "Suoyi Technology",
+    "Suoyi Technology Enabled Vision",
     "Soyep"
   ],
   "producers": [
@@ -67,16 +65,20 @@
     "banner": null,
     "color": "#863528"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "s0evRQrAqa4",
+    "url": "https://www.youtube.com/watch?v=s0evRQrAqa4",
+    "thumbnail": "https://i.ytimg.com/vi/s0evRQrAqa4/hqdefault.jpg"
+  },
   "synopsis": "Forced into a marriage of convenience based on mutual benefit, Jiang Yuan, an assassin from the Tai Xuan Tower, and Shao Yue, the holy maiden of the Jiu Xuan Sect, are ordered to marry. On their wedding night, they attempt an assassination, only to discover they are both immortal. To obtain the Demon-Suppressing Bell and the Demon-Controlling Bell, secret treasures of each other's sects, they transform from mortal enemies into a facade of marriage, engaging in a charade of mutual deception. \n\nHowever, neither is aware that the other is also an alien survivor whose home was destroyed by the \"Void.\" This destined couple forms an alliance amidst suspicion and testing, not only searching for the treasures transformed from a lost spaceship but also confronting the ever-watchful cultivation world, seeking hope to defeat the \"Void\" amidst perilous circumstances.\n\n(Source: Bilibili, translated)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-03-03",
       "title": {
-        "en": "Episode 1"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -88,10 +90,10 @@
     },
     "2": {
       "episode": "2",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-03-03",
       "title": {
-        "en": "Episode 2"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -103,10 +105,10 @@
     },
     "3": {
       "episode": "3",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-03-03",
       "title": {
-        "en": "Episode 3"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -118,10 +120,10 @@
     },
     "4": {
       "episode": "4",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-03-03",
       "title": {
-        "en": "Episode 4"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -133,10 +135,10 @@
     },
     "5": {
       "episode": "5",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-03-03",
       "title": {
-        "en": "Episode 5"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -148,10 +150,10 @@
     },
     "6": {
       "episode": "6",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-03-03",
       "title": {
-        "en": "Episode 6"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -163,10 +165,10 @@
     },
     "7": {
       "episode": "7",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-03-05",
       "title": {
-        "en": "Episode 7"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -178,10 +180,10 @@
     },
     "8": {
       "episode": "8",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-03-10",
       "title": {
-        "en": "Episode 8"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -193,10 +195,10 @@
     },
     "9": {
       "episode": "9",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-03-12",
       "title": {
-        "en": "Episode 9"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -208,10 +210,10 @@
     },
     "10": {
       "episode": "10",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-03-17",
       "title": {
-        "en": "Episode 10"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -223,10 +225,10 @@
     },
     "11": {
       "episode": "11",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-03-19",
       "title": {
-        "en": "Episode 11"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -238,10 +240,10 @@
     },
     "12": {
       "episode": "12",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-03-24",
       "title": {
-        "en": "Episode 12"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -253,10 +255,10 @@
     },
     "13": {
       "episode": "13",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-03-26",
       "title": {
-        "en": "Episode 13"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -268,10 +270,10 @@
     },
     "14": {
       "episode": "14",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-03-31",
       "title": {
-        "en": "Episode 14"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -283,10 +285,10 @@
     },
     "15": {
       "episode": "15",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-04-02",
       "title": {
-        "en": "Episode 15"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -298,10 +300,10 @@
     },
     "16": {
       "episode": "16",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-04-07",
       "title": {
-        "en": "Episode 16"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -313,10 +315,10 @@
     },
     "17": {
       "episode": "17",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-04-09",
       "title": {
-        "en": "Episode 17"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -328,10 +330,10 @@
     },
     "18": {
       "episode": "18",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-04-14",
       "title": {
-        "en": "Episode 18"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -343,10 +345,10 @@
     },
     "19": {
       "episode": "19",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-04-16",
       "title": {
-        "en": "Episode 19"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -358,10 +360,10 @@
     },
     "20": {
       "episode": "20",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-04-21",
       "title": {
-        "en": "Episode 20"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -373,10 +375,10 @@
     },
     "21": {
       "episode": "21",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-04-23",
       "title": {
-        "en": "Episode 21"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -388,10 +390,10 @@
     },
     "22": {
       "episode": "22",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-04-28",
       "title": {
-        "en": "Episode 22"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -403,10 +405,10 @@
     },
     "23": {
       "episode": "23",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-04-30",
       "title": {
-        "en": "Episode 23"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -418,10 +420,10 @@
     },
     "24": {
       "episode": "24",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-05-05",
       "title": {
-        "en": "Episode 24"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -433,10 +435,10 @@
     },
     "25": {
       "episode": "25",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-05-07",
       "title": {
-        "en": "Episode 25"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -448,10 +450,10 @@
     },
     "26": {
       "episode": "26",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-05-12",
       "title": {
-        "en": "Episode 26"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -463,10 +465,10 @@
     },
     "27": {
       "episode": "27",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-05-14",
       "title": {
-        "en": "Episode 27"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -478,10 +480,10 @@
     },
     "28": {
       "episode": "28",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-05-19",
       "title": {
-        "en": "Episode 28"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -493,10 +495,10 @@
     },
     "29": {
       "episode": "29",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-05-21",
       "title": {
-        "en": "Episode 29"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -508,10 +510,10 @@
     },
     "30": {
       "episode": "30",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-05-26",
       "title": {
-        "en": "Episode 30"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -523,10 +525,10 @@
     },
     "31": {
       "episode": "31",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-05-28",
       "title": {
-        "en": "Episode 31"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -538,10 +540,10 @@
     },
     "32": {
       "episode": "32",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-06-02",
       "title": {
-        "en": "Episode 32"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -553,10 +555,10 @@
     },
     "33": {
       "episode": "33",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-06-04",
       "title": {
-        "en": "Episode 33"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -568,10 +570,10 @@
     },
     "34": {
       "episode": "34",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-06-09",
       "title": {
-        "en": "Episode 34"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -583,10 +585,10 @@
     },
     "35": {
       "episode": "35",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-06-11",
       "title": {
-        "en": "Episode 35"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -598,10 +600,10 @@
     },
     "36": {
       "episode": "36",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-06-16",
       "title": {
-        "en": "Episode 36"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -613,10 +615,10 @@
     },
     "37": {
       "episode": "37",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-06-18",
       "title": {
-        "en": "Episode 37"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -628,10 +630,10 @@
     },
     "38": {
       "episode": "38",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-06-23",
       "title": {
-        "en": "Episode 38"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -643,10 +645,10 @@
     },
     "39": {
       "episode": "39",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-06-25",
       "title": {
-        "en": "Episode 39"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -658,10 +660,10 @@
     },
     "40": {
       "episode": "40",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-06-30",
       "title": {
-        "en": "Episode 40"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -673,10 +675,10 @@
     },
     "41": {
       "episode": "41",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-07-02",
       "title": {
-        "en": "Episode 41"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -688,10 +690,10 @@
     },
     "42": {
       "episode": "42",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-07-07",
       "title": {
-        "en": "Episode 42"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -703,10 +705,10 @@
     },
     "43": {
       "episode": "43",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-07-09",
       "title": {
-        "en": "Episode 43"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -718,10 +720,10 @@
     },
     "44": {
       "episode": "44",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-07-14",
       "title": {
-        "en": "Episode 44"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -733,10 +735,10 @@
     },
     "45": {
       "episode": "45",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-07-16",
       "title": {
-        "en": "Episode 45"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -748,10 +750,10 @@
     },
     "46": {
       "episode": "46",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-07-21",
       "title": {
-        "en": "Episode 46"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -763,10 +765,10 @@
     },
     "47": {
       "episode": "47",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-07-23",
       "title": {
-        "en": "Episode 47"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -778,10 +780,10 @@
     },
     "48": {
       "episode": "48",
-      "length": "8m",
-      "airDate": "2026-07-18",
+      "length": 8,
+      "airDate": "2026-07-28",
       "title": {
-        "en": "Episode 48"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -793,10 +795,10 @@
     },
     "49": {
       "episode": "49",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-07-30",
       "title": {
-        "en": "Episode 49"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -808,10 +810,10 @@
     },
     "50": {
       "episode": "50",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-08-04",
       "title": {
-        "en": "Episode 50"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -823,10 +825,10 @@
     },
     "51": {
       "episode": "51",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-08-06",
       "title": {
-        "en": "Episode 51"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -838,10 +840,10 @@
     },
     "52": {
       "episode": "52",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-08-11",
       "title": {
-        "en": "Episode 52"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -853,10 +855,10 @@
     },
     "53": {
       "episode": "53",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-08-13",
       "title": {
-        "en": "Episode 53"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -868,10 +870,10 @@
     },
     "54": {
       "episode": "54",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-08-18",
       "title": {
-        "en": "Episode 54"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -883,10 +885,10 @@
     },
     "55": {
       "episode": "55",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-08-20",
       "title": {
-        "en": "Episode 55"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -898,10 +900,10 @@
     },
     "56": {
       "episode": "56",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-08-25",
       "title": {
-        "en": "Episode 56"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -913,10 +915,10 @@
     },
     "57": {
       "episode": "57",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-08-27",
       "title": {
-        "en": "Episode 57"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -928,10 +930,10 @@
     },
     "58": {
       "episode": "58",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-09-01",
       "title": {
-        "en": "Episode 58"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -943,10 +945,10 @@
     },
     "59": {
       "episode": "59",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-09-03",
       "title": {
-        "en": "Episode 59"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -958,10 +960,10 @@
     },
     "60": {
       "episode": "60",
-      "length": "8m",
+      "length": 8,
       "airDate": "2026-09-08",
       "title": {
-        "en": "Episode 60"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -973,15 +975,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-05T04:35:18.603Z",
+    "lastFetched": "2026-11-21T17:45:13.919Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

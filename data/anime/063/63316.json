@@ -4,10 +4,10 @@
   "mappings": {
     "mal": 63316,
     "anilist": 184356,
-    "anidb": null,
+    "anidb": 19838,
     "kitsu": 50480,
-    "simkl": null,
-    "tmdb": null,
+    "simkl": 2995878,
+    "tmdb": 297826,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
@@ -24,18 +24,19 @@
     "synonyms": [
       "Toukutsu Ou",
       "盗掘王",
+      "Dogul Wang",
       "Toukutsuou"
     ]
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 23,
   "aired": {
     "from": "2026-07-09T00:00:00+00:00",
-    "to": null
+    "to": "2026-10-01T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -44,49 +45,260 @@
     "time": "01:15",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 9,
-    "airingAt": 1788365700
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.89,
-    "anilistScore": 6.5,
-    "kitsuRating": 7.14
+    "malScore": 6.82,
+    "anilistScore": 6.8,
+    "kitsuRating": null
   },
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Time Travel"
   ],
   "studios": [
     "Studio Eek"
   ],
   "producers": [
-    "Fuji TV",
-    "Kansai TV",
     "bilibili",
-    "Fuji Creative"
+    "REDICE STUDIO",
+    "KADOKAWA",
+    "Fuji Creative Corporation",
+    "Fuji TV",
+    "Kansai TV"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1910/158471l.jpg",
     "banner": null,
     "color": "#5d93e4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "6f702O_nnq8",
+    "url": "https://www.youtube.com/watch?v=6f702O_nnq8",
+    "thumbnail": "https://i.ytimg.com/vi/6f702O_nnq8/hqdefault.jpg"
+  },
   "synopsis": "Undercover behind enemy lines, Jooheon's newest plan to torment TKBM will involve taking them down from the inside! Stealing their relics and causing infighting is just the tip of the iceberg on what he'll do to make the group pay for their sins. But with the appearance of the Tower of Pride, Jooheon's skills in rage-baiting will truly be tested as he must pit the most fearsome warlords against each other! Will Jooheon Suh come out on top in the battle of the greatest conquerors of history?\n\n(Source: Yen Press)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": null,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": null,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": null,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": null,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": null,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": null,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": null,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": null,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:47:05.680Z",
+    "lastFetched": "2026-11-21T17:44:23.592Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

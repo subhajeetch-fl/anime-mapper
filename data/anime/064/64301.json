@@ -33,17 +33,13 @@
     "from": "2026-06-26T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "spring",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": null,
+    "malScore": 6.13,
     "anilistScore": null,
     "kitsuRating": null
   },
@@ -51,11 +47,9 @@
     "Hentai"
   ],
   "studios": [],
-  "producers": [
-    "Nur"
-  ],
+  "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1594/158264l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1594/158264l.webp",
     "banner": null,
     "color": null
   },
@@ -64,16 +58,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T04:50:37.907Z",
+    "lastFetched": "2026-11-21T17:49:53.222Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

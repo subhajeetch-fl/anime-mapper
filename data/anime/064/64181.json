@@ -14,7 +14,7 @@
     "shikimori": 64181,
     "livechart": null,
     "animeplanet": null,
-    "anisearch": null,
+    "anisearch": 21799,
     "notify": null
   },
   "title": {
@@ -31,18 +31,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 4,
   "aired": {
     "from": "2026-05-20T00:00:00+00:00",
     "to": null
   },
   "season": "spring",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG - Children",
   "score": {
@@ -51,9 +47,10 @@
     "kitsuRating": null
   },
   "genres": [
+    "Kids",
+    "Mecha",
     "Sci-Fi",
-    "Action",
-    "Mecha"
+    "Action"
   ],
   "studios": [
     "Infinity Vision",
@@ -65,7 +62,11 @@
     "banner": null,
     "color": "#3593e4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "6gyPgg1YdYg",
+    "url": "https://www.youtube.com/watch?v=6gyPgg1YdYg",
+    "thumbnail": "https://i.ytimg.com/vi/6gyPgg1YdYg/hqdefault.jpg"
+  },
   "synopsis": "A sequel to Transformers: Wild King.",
   "sequence": [
     {
@@ -84,12 +85,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-22T04:07:14.786Z",
+    "lastFetched": "2026-11-21T17:49:27.991Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

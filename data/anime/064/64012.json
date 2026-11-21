@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 64012,
     "livechart": 13612,
-    "animeplanet": null,
+    "animeplanet": "the-ribbon-hero",
     "anisearch": 21489,
     "notify": null
   },
@@ -26,69 +26,84 @@
       "La heroína del lazo",
       "เดอะริบบิ้นฮีโร่",
       "A Heroína da Fita",
-      "Герой ленты"
+      "Герой ленты",
+      "L'Héroïne au ruban"
     ]
   },
   "type": "ONA",
   "source": "Manga",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 109,
   "aired": {
     "from": "2026-08-08T00:00:00+00:00",
-    "to": "2026-08-08"
+    "to": "2026-08-08T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 6.62,
     "anilistScore": 6.6,
     "kitsuRating": null
   },
   "genres": [
     "Action",
-    "Adventure",
     "Drama",
     "Fantasy",
-    "Romance",
-    "Mahou Shoujo",
-    "Magical Girl",
-    "Magic"
+    "Shoujo",
+    "Mahou Shoujo"
   ],
   "studios": [
     "Outline"
   ],
   "producers": [
-    "Tohokushinsha Film Corporation",
-    "Twin Engine"
+    "Twin Engine",
+    "Netflix"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1048/158218l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/211308-4RLMAhvtMh68.jpg",
-    "color": "#f12843"
+    "color": "#e42843"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "P4oxsg2vjc8",
+    "url": "https://www.youtube.com/watch?v=P4oxsg2vjc8",
+    "thumbnail": "https://i.ytimg.com/vi/P4oxsg2vjc8/hqdefault.jpg"
+  },
   "synopsis": "Sapphire is the princess of a kingdom that no longer exists. Having lost everything in her homeland of Silverland to the calamity known as \"Nergal,\" she wanders in despair until she finally arrives in Goldland.\n\nThough burdened by her past, she begins to find a glimmer of hope as she encounters the kindness of the people there. But as if to sneer at her peaceful new life, the calamity Nergal appears once more. The very despair that once reduced her homeland to ashes now threatens to steal the light from this land as well.\n\n\"I won't lose anything ever again. And I won't let anyone else lose anything either.\" Brushing away her tears of sorrow, the girl takes up her sword. This is the story of a lone hero who ties her ribbon and resolves to defy her fate.\n\n(Source: Netflix)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 110,
+      "airDate": "2026-08-08",
+      "title": {
+        "en": "Web"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:58:40.953Z",
+    "lastFetched": "2026-11-21T17:48:38.010Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

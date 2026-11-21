@@ -23,7 +23,7 @@
     "native": "ゴジラ新作アニメシリーズ",
     "synonyms": []
   },
-  "type": null,
+  "type": "unknown",
   "source": "Original",
   "status": "Not yet aired",
   "airing": false,
@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -54,9 +50,7 @@
     "Orange",
     "Igloo Studio"
   ],
-  "producers": [
-    "TOHO animation"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1691/153910l.jpg",
     "banner": null,
@@ -67,16 +61,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T06:47:40.262Z",
+    "lastFetched": "2026-11-21T17:42:10.313Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

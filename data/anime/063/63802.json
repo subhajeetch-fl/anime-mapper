@@ -29,13 +29,13 @@
   },
   "type": "TV",
   "source": "Original",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-09T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-24T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -44,14 +44,11 @@
     "time": "23:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 9,
-    "airingAt": 1788445800
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 5.75,
-    "anilistScore": 4.8,
+    "malScore": 5.24,
+    "anilistScore": 4.9,
     "kitsuRating": null
   },
   "genres": [
@@ -62,23 +59,27 @@
     "Doga Kobo"
   ],
   "producers": [
-    "Victor Entertainment",
-    "DAX Production",
-    "flying DOG",
-    "Asmik Ace",
-    "BS Fuji",
-    "Sammy",
-    "Nippon Cultural Broadcasting",
-    "NetEase",
     "Bandai Namco Filmworks",
-    "West Japan Marketing Communications"
+    "Asmik Ace",
+    "ANICI",
+    "Doga Kobo",
+    "Victor Entertainment",
+    "Sammy",
+    "Bunka Housou",
+    "DAX Production",
+    "BS Fuji",
+    "JR Nishi Nihon Communications"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1891/158352l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108992-5OIDQkTbM1id.jpg",
     "color": "#50bbc9"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "ByOF3FLlAws",
+    "url": "https://www.youtube.com/watch?v=ByOF3FLlAws",
+    "thumbnail": "https://i.ytimg.com/vi/ByOF3FLlAws/hqdefault.jpg"
+  },
   "synopsis": "10 years after a mysterious meteorite crashes to Earth, people called \"Rams Carriers\" develop superhuman abilities called \"Rams\". However, those who develop these special abilities can only survive in the presence of the \"Mebius Dust\" released by a giant crystal, and so they are forbidden from leaving the town of Shinkatsushika.\n\nWithin Shinkatsushika, Rams Carrier children use their Rams to play a territory-conquering game to alleviate their boredom at being unable to leave town. High school student Araki along with his younger sister, Stella, and his childhood friend, Olga, form a team called \"Polis Hopper\" and throw themselves into the game. Their destinies begin to change when Professor Yuda, a researcher who studies Rams, asks them to participate in a certain experiment...\n\n(Source: Official Site)",
   "sequence": [
     {
@@ -111,70 +112,196 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-09",
       "title": {
-        "en": "First Light"
+        "en": "First Light",
+        "romaji": "First Light",
+        "ja": "ファースト・ライト"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 475980,
+      "tvdbId": 11698157,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11698157/screencap/6a462dc386d51.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-16",
       "title": {
         "en": "Adrenaline Game"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 475980,
+      "tvdbId": 11877740,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877740/screencap/6a50d142c4225.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-23",
       "title": {
-        "en": "Episode 3"
+        "en": "Diabolic Meteor"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 475980,
+      "tvdbId": 11877741,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877741/screencap/6a5a1cff5d5e0.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-30",
       "title": {
-        "en": "Episode 4"
+        "en": "Overheat"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 475980,
+      "tvdbId": 11877742,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877742/screencap/6a6358a89f3a4.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-06",
+      "title": {
+        "en": "Girls` Roar"
+      },
+      "tvdbShowId": 475980,
+      "tvdbId": 11877743,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877743/screencap/6a6caf368aea1.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-13",
+      "title": {
+        "en": "Shin-Shin-Koiwa"
+      },
+      "tvdbShowId": 475980,
+      "tvdbId": 11877744,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877744/screencap/6a75a60174c16.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-20",
+      "title": {
+        "en": "Restored Memory"
+      },
+      "tvdbShowId": 475980,
+      "tvdbId": 11877745,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877745/screencap/6a82cf88655d1.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-27",
+      "title": {
+        "en": "Deep Divide"
+      },
+      "tvdbShowId": 475980,
+      "tvdbId": 11877746,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877746/screencap/6a87ec93cf88a.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-09-03",
+      "title": {
+        "en": "Empty Crown"
+      },
+      "tvdbShowId": 475980,
+      "tvdbId": 11934073,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11934073/screencap/6a9123bbe8123.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-10",
+      "title": {
+        "en": "Barrier Break"
+      },
+      "tvdbShowId": 475980,
+      "tvdbId": 11934074,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11934074/screencap/6a9a626b02a4c.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-17",
+      "title": {
+        "en": "Mebius Dust"
+      },
+      "tvdbShowId": 475980,
+      "tvdbId": 11934075,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11934075/screencap/6aa39c523e4bc.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-24",
+      "title": {
+        "en": "Same Sky",
+        "romaji": "Same Sky",
+        "ja": "セイム・スカイ"
+      },
+      "tvdbShowId": 475980,
+      "tvdbId": 11934076,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11934076/screencap/6aacd0d7ab347.jpg"
     },
     "S1": {
       "episode": "S1",
-      "length": "50m",
+      "length": 50,
       "airDate": "2026-06-28",
       "title": {
-        "en": "Pre-Broadcast Special"
+        "en": "Pre-Broadcast Special",
+        "romaji": "Housou Chokuzen Live Haishin Tokuban",
+        "ja": "放送直前 LIVE 配信特番"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -186,15 +313,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:54:46.927Z",
+    "lastFetched": "2026-11-21T17:46:44.263Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

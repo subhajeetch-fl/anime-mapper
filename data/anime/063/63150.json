@@ -4,10 +4,10 @@
   "mappings": {
     "mal": 63150,
     "anilist": 204466,
-    "anidb": null,
+    "anidb": 19782,
     "kitsu": 50411,
     "simkl": 2972422,
-    "tmdb": null,
+    "tmdb": 308874,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
@@ -22,20 +22,19 @@
     "english": "Kaiju Girl Caramelise",
     "native": "乙女怪獣キャラメリゼ",
     "synonyms": [
-      "Monster Maiden Caramelize",
-      "Meiden Kaiju Carameliser",
+      "Monster Maiden Caramelize, Meiden Kaiju Carameliser",
       "สาวน้อยไคจู คาราเมไลซ์"
     ]
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-03T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-18T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -44,18 +43,17 @@
     "time": "01:28",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788452880
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.7,
+    "malScore": 7.48,
     "anilistScore": 7.5,
     "kitsuRating": null
   },
   "genres": [
     "Romance",
+    "School",
+    "Seinen",
     "Supernatural",
     "Comedy"
   ],
@@ -63,35 +61,244 @@
     "LIDENFILMS"
   ],
   "producers": [
-    "Pony Canyon",
     "TBS",
-    "KlockWorx",
-    "Glovision",
-    "BS11",
-    "Contents Seed",
-    "Kadokawa",
+    "Pony Canyon",
     "Good Smile Film",
-    "Sankyo"
+    "KADOKAWA",
+    "BS11",
+    "SANKYO",
+    "KLOCKWORX",
+    "Contents Seed"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1981/156340l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204466-cpbNGN9qHrGP.jpg",
     "color": "#e45d78"
   },
-  "trailer": null,
-  "synopsis": "Kuroe Akaishi is an introverted, quiet, and seemingly normal high school girl. Though accustomed to being alone, her dreary days begin to change when she meets Arata Minami, a bright and handsome boy in her class. Despite his popular status, he is kind enough to reach out to an outcast like her; soon, Kuroe finds her heart begins to pound around him.\n\nIt keeps pounding and pounding and pounding until Kuroe transforms into a monstrous kaijuu! She has a certain affliction: as her embarrassment grows, so do the monstrous appendages from her body; and when it hits a peak, she unleashes the full extent of her transformation.\n\nAt the same time, beauty meets the kaijuu, and Japan faces off against the looming threat of the mysterious monster. Can Minami accept her feelings, or will he too be frightened off by her colossal form? Depending on his decision, the world may experience the full devastation of a girl's heart-pumping, youthful love.\n\n[Written by MAL Rewrite]",
+  "trailer": {
+    "youtubeId": "ECtHlHde3EQ",
+    "url": "https://www.youtube.com/watch?v=ECtHlHde3EQ",
+    "thumbnail": "https://i.ytimg.com/vi/ECtHlHde3EQ/hqdefault.jpg"
+  },
+  "synopsis": "Sixteen-year-old Kuroe Akaishi has spent most of her life keeping to herself, knowing that intense emotions cause parts of her body to mutate into monstrous appendages. Though resigned to a life of solitude, her monochromatic days find color when Arata Minami, a popular classmate, reaches out to her with kindness she never expected from anyone. \n\nFor Akaishi, however, Minami's growing presence in her life proves to be more troublesome than comforting. Despite cherishing his company, every interaction with him brings out stronger emotional responses, pushing the condition she has managed for years to its extremities, culminating in a complete transformation into a colossal kaiju. Now, Akaishi must navigate her growing affection while keeping her abhorrent condition hidden—before she becomes more than just national news.\n\n[Written by MAL Rewrite]",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-07-03",
+      "title": {
+        "en": "The Kaiju Girl Appears in Tokyo",
+        "romaji": "Otome Kaijuu Tokyo ni Arawaru",
+        "ja": "乙女怪獣東京に現る"
+      },
+      "tvdbShowId": 471878,
+      "tvdbId": 11700072,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11700072/screencap/6a3e45e4e05a4.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-07-10",
+      "title": {
+        "en": "The Unopened Door",
+        "romaji": "Hirakanai Tobira",
+        "ja": "開かない扉"
+      },
+      "tvdbShowId": 471878,
+      "tvdbId": 11870044,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870044/screencap/6a47618e1299f.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-07-17",
+      "title": {
+        "en": "A Sparkling Weekend: Where Dreams Come True",
+        "romaji": "Kirameku Shuumatsu: Yume no Kuni e",
+        "ja": "キラメク週末 ~夢の国へ~"
+      },
+      "tvdbShowId": 471878,
+      "tvdbId": 11870045,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870045/screencap/6a50960f8750b.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-07-24",
+      "title": {
+        "en": "The Scary Kaiju Fest",
+        "romaji": "Kyoufu no Kaijuu Fes",
+        "ja": "恐怖の怪獣フェス"
+      },
+      "tvdbShowId": 471878,
+      "tvdbId": 11870046,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870046/screencap/6a5a1c7d2bfd3.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-07-31",
+      "title": {
+        "en": "A Gyaru and Lipstick",
+        "romaji": "Gal to Kuchibeni",
+        "ja": "ギャルと口紅"
+      },
+      "tvdbShowId": 471878,
+      "tvdbId": 11870047,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870047/screencap/6a63577ab3ffb.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-07",
+      "title": {
+        "en": "Rairi`s Forest",
+        "romaji": "Rairi no Mori",
+        "ja": "らいりの森"
+      },
+      "tvdbShowId": 471878,
+      "tvdbId": 11870048,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870048/screencap/6a6cb01fa6538.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-14",
+      "title": {
+        "en": "All Eyes on Arata",
+        "romaji": "Nerawareta Arata",
+        "ja": "狙われた新汰"
+      },
+      "tvdbShowId": 471878,
+      "tvdbId": 11870049,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870049/screencap/6a75a54367c82.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-21",
+      "title": {
+        "en": "Fly to Manatsu`s Kaiju Island!!",
+        "romaji": "Manatsu no Kaijuutou e Tobe!!",
+        "ja": "マ夏の怪獣島へ飛べ!!"
+      },
+      "tvdbShowId": 471878,
+      "tvdbId": 11870050,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870050/screencap/6a7ee987e2f11.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-28",
+      "title": {
+        "en": "Release the Torrent of Complaints, Kaiju Girl!",
+        "romaji": "Otome Kaijuu Guchi o Hake!",
+        "ja": "乙女怪獣愚痴を吐け!"
+      },
+      "tvdbShowId": 471878,
+      "tvdbId": 11870051,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870051/screencap/6a87ec0a6ae43.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-04",
+      "title": {
+        "en": "Don`t Cry, Heartbroken Kaiju",
+        "romaji": "Nakuna Shitsuren Kaijuu",
+        "ja": "泣くな失恋怪獣"
+      },
+      "tvdbShowId": 471878,
+      "tvdbId": 11870052,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870052/screencap/6a91234429488.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-11",
+      "title": {
+        "en": "Kuroe vs. Akae",
+        "romaji": "Kuroe vs Akae",
+        "ja": "クロエVSアカエ"
+      },
+      "tvdbShowId": 471878,
+      "tvdbId": 11870053,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870053/screencap/6a9a63259c1e5.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-18",
+      "title": {
+        "en": "Charge This One Strike with Love",
+        "romaji": "Kono Ichigeki ni Ai o Komete",
+        "ja": "この一撃に愛をこめて"
+      },
+      "tvdbShowId": 471878,
+      "tvdbId": 11870054,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870054/screencap/6aa39beb4b5b5.jpg"
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:43:44.266Z",
+    "lastFetched": "2026-11-21T17:43:22.105Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

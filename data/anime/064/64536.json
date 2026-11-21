@@ -14,7 +14,7 @@
     "shikimori": 64536,
     "livechart": null,
     "animeplanet": null,
-    "anisearch": null,
+    "anisearch": 21781,
     "notify": null
   },
   "title": {
@@ -25,21 +25,17 @@
   },
   "type": "Movie",
   "source": "Novel",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 119,
   "aired": {
-    "from": "2026-08-19T00:00:00+00:00",
-    "to": null
+    "from": "2026-08-07T00:00:00+00:00",
+    "to": "2026-08-07T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -55,11 +51,9 @@
   "studios": [
     "Enlight Animation"
   ],
-  "producers": [
-    "Enlight Pictures"
-  ],
+  "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1505/158838l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1906/159572l.jpg",
     "banner": null,
     "color": null
   },
@@ -68,16 +62,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T14:24:22.703Z",
+    "lastFetched": "2026-11-21T17:39:35.055Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

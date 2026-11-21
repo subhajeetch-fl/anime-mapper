@@ -27,13 +27,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-05T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-20T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -42,145 +42,250 @@
     "time": "17:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788683400
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.04,
-    "anilistScore": 7,
+    "malScore": 7.61,
+    "anilistScore": 7.5,
     "kitsuRating": null
   },
   "genres": [
+    "Gourmet",
+    "Shounen",
     "Action",
-    "Comedy",
-    "Gourmet"
+    "Psychological"
   ],
   "studios": [
     "TROYCA"
   ],
   "producers": [
-    "TV Tokyo",
-    "Marvelous Entertainment",
-    "Magic Capsule",
-    "KlockWorx",
     "NBCUniversal Entertainment Japan",
-    "JR East Marketing & Communications",
+    "REMOW",
+    "Marvelous",
+    "TV Tokyo",
+    "JR Higashi Nihon Kikaku",
     "Fujishouji",
-    "arma bianca",
-    "REMOW"
+    "KLOCKWORX",
+    "arma bianca"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1961/158686l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1452/159112l.webp",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204060-3y19sqCToRaN.jpg",
     "color": "#f1931a"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "awvmDnz3URo",
+    "url": "https://www.youtube.com/watch?v=awvmDnz3URo",
+    "thumbnail": "https://i.ytimg.com/vi/awvmDnz3URo/hqdefault.jpg"
+  },
   "synopsis": "The original Iron Wok Jan! manga centers on a brilliant young chef named Jan Akiyama, who works at a top class restaurant where he is constantly challenging Kiriko Gobanchou, the granddaughter of the restaurant's owner and a great chef in her own right. While Kiriko believes that food should be made with the customer in mind, Jan believes that cooking should be used for competition.\n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-05",
       "title": {
-        "en": "Flames and Meetings"
+        "en": "Flames and Meetings",
+        "ja": "炎との出逢い"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 471657,
+      "tvdbId": 11510753,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11510753/screencap/6a4240e0345a8.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-12",
       "title": {
-        "en": "They`re Like Gunpowder"
+        "en": "They`re Like Gunpowder",
+        "ja": "火薬のようなやつら"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 471657,
+      "tvdbId": 11872986,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872986/screencap/6a4b78227568a.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-19",
       "title": {
-        "en": "Episode 3"
+        "en": "A Loser`s Cry of Victory",
+        "ja": "負け犬の勝鬨"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 471657,
+      "tvdbId": 11872987,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872987/screencap/6a54c9c1b5e5b.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-26",
       "title": {
-        "en": "Episode 4"
+        "en": "He Who Masters Poison",
+        "ja": "毒を御す者"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 471657,
+      "tvdbId": 11872988,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872988/screencap/6a5e050b15fc0.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-02",
       "title": {
-        "en": "Episode 5"
+        "en": "The Magic of Bliss",
+        "ja": "至福の調合[マジック]"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 471657,
+      "tvdbId": 11872989,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872989/screencap/6a68aeb87fd35.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-09",
       "title": {
-        "en": "Episode 6"
+        "en": "The Soul of Chinese Cooking",
+        "ja": "中華の神髄"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 471657,
+      "tvdbId": 11872990,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872990/screencap/6a705d5fa5639.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-16",
+      "title": {
+        "en": "Toss That Wok!",
+        "ja": "鍋を振れ!"
+      },
+      "tvdbShowId": 471657,
+      "tvdbId": 11907965,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11907965/screencap/6a7997e1ce631.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-23",
+      "title": {
+        "en": "Malice",
+        "ja": "悪意"
+      },
+      "tvdbShowId": 471657,
+      "tvdbId": 11907966,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11907966/screencap/6a82d31c4a73b.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-30",
+      "title": {
+        "en": "Innovating for the Future",
+        "ja": "未来への独創"
+      },
+      "tvdbShowId": 471657,
+      "tvdbId": 11907967,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11907967/screencap/6a8c0cdf33f1d.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-06",
+      "title": {
+        "en": "The Judges` Focus",
+        "ja": "審査の焦点"
+      },
+      "tvdbShowId": 471657,
+      "tvdbId": 11907968,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11907968/screencap/6a9546a3f19db.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-13",
+      "title": {
+        "en": "Bloody Baptism",
+        "ja": "血の洗礼!"
+      },
+      "tvdbShowId": 471657,
+      "tvdbId": 11907969,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11907969/screencap/6a9e81079af22.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-20",
+      "title": {
+        "en": "Nightmares, Followed by Clear Skies!",
+        "romaji": "Akumu, Nochi Hare!",
+        "ja": "悪夢, のち晴れ!"
+      },
+      "tvdbShowId": 471657,
+      "tvdbId": 11965138,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11965138/screencap/6aa7bf483f511.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:41:54.035Z",
+    "lastFetched": "2026-11-21T17:42:45.133Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

@@ -5,7 +5,7 @@
     "mal": 63337,
     "anilist": 206401,
     "anidb": 19847,
-    "kitsu": null,
+    "kitsu": 50987,
     "simkl": 2997994,
     "tmdb": 311842,
     "tvdb": null,
@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 63337,
     "livechart": 13490,
-    "animeplanet": "fx-senshi-kurumi-chan",
+    "animeplanet": "fx-fighter-kurumi-chan",
     "anisearch": 21172,
     "notify": null
   },
@@ -22,37 +22,40 @@
     "english": "FX Fighter Kurumi-chan",
     "native": "FX戦士くるみちゃん",
     "synonyms": [
-      "FX Fighter Kurumi-chan"
+      "Kurumi si Pejuang Forex"
     ]
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-01-01T00:00:00+00:00",
-    "to": null
+    "from": "2026-10-01T00:00:00+00:00",
+    "to": "2026-12-17T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Thursdays",
+    "time": "21:30",
+    "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1790857800
+    "episode": 9,
+    "airingAt": 1795696200
   },
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.98,
+    "anilistScore": 6.7,
     "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
+    "Psychological",
+    "Seinen",
     "Drama",
     "Slice of Life"
   ],
@@ -60,43 +63,233 @@
     "Passione"
   ],
   "producers": [
-    "Kadokawa"
+    "KADOKAWA",
+    "Docomo Anime Store",
+    "AT-X",
+    "D-techno",
+    "Crunchyroll",
+    "arma bianca",
+    "BS11",
+    "Kansai TV"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1517/155052l.jpg",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206401-Nsf3QKwKxDra.jpg",
-    "color": "#e44378"
+    "poster": "https://cdn.myanimelist.net/images/anime/1928/160253l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206401-sKPZQks8FxNL.jpg",
+    "color": "#f1d678"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "7rxIZ3z0S4s",
+    "url": "https://www.youtube.com/watch?v=7rxIZ3z0S4s",
+    "thumbnail": "https://i.ytimg.com/vi/7rxIZ3z0S4s/hqdefault.jpg"
+  },
   "synopsis": "When middle school student, Fukuga Kurumi's mother commits suicide after losing 20 million yen in FX trading (Foreign Exchange trading), she vows to recoup the money her mother lost \"I'll easily get that much back!\"\n\nNow, when she is a university student she makes her long-awaited debut in FX trading, unaware that the world she just entered could turn from heaven to hell in the blink of an eye.\n\nThis is a cute and slightly dangerous story as it explains technical terms by thrilling market fluctuations as the chart drives up and down, which becomes more heated with the entry of quirky FX warriors: Yasuko Takane, Mochiko Kogane, and Mebuki Yamashi. Can Kurumi and her friends survive this world with unstoppable heartbeat moments and unrealized losses!?\n\n(Source: MAL News)",
   "sequence": [],
   "episodes": {
-    "T1": {
-      "episode": "T1",
-      "length": "1m",
-      "airDate": "2026-01-19",
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-01",
       "title": {
-        "en": "Teaser Trailer (1:05)"
+        "en": "What`s Forex?",
+        "romaji": "FX tte, Nani?",
+        "ja": "FXって、なぁに？"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 472962,
+      "tvdbId": 11567776,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11567776/screencap/6aba366d5be28.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-08",
+      "title": {
+        "en": "It`s Okay, I`ve Got Leverage",
+        "romaji": "Rebarejji Arukara Daijobu",
+        "ja": "レバレッジあるから大丈夫ぅ♪"
+      },
+      "tvdbShowId": 472962,
+      "tvdbId": 11567775,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11567775/screencap/6ac36dc45bd71.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-15",
+      "title": {
+        "en": "Do I Have to Cut My Losses...?",
+        "romaji": "Sonkiri Shinakya, Dame......?",
+        "ja": "損切りしなきゃ、だめ……？"
+      },
+      "tvdbShowId": 472962,
+      "tvdbId": 12013545,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12013545/screencap/6acca58e25df9.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-22",
+      "title": {
+        "en": "Having No Unrealized Losses Is the Best",
+        "romaji": "Fukumizon ga Naitte Saiko",
+        "ja": "含み損がないってサイコ〜♡"
+      },
+      "tvdbShowId": 472962,
+      "tvdbId": 12013546,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12013546/screencap/6ad5e36182d54.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-10-29",
+      "title": {
+        "en": "Long? Short? Which Do I Choose?",
+        "ja": "ロング？ショート？どっちにする？"
+      },
+      "tvdbShowId": 472962,
+      "tvdbId": 12013547,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12013547/screencap/6adf228f2a72f.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-05",
+      "title": {
+        "en": "Pay Attention to Economic Indicators!",
+        "romaji": "Keizai Shihyo ni Chumoku desu!",
+        "ja": "経済指標には注目ですっ！"
+      },
+      "tvdbShowId": 472962,
+      "tvdbId": 12013548,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12013548/screencap/6ae85295aa9e1.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-12",
+      "title": {
+        "en": "I Don`t Wanna Have a Forced Liquidation...",
+        "romaji": "Sei Rosukatto Nante Yada Mon......",
+        "ja": "制ロスカットなんてやだもん……"
+      },
+      "tvdbShowId": 472962,
+      "tvdbId": 12013549,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12013549/screencap/6af1901f3d4bc.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-19",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 472962,
+      "tvdbId": 12013550,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12013550/screencap/6afac7d49d2e3.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-11-26",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 472962,
+      "tvdbId": 12013551,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-03",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 472962,
+      "tvdbId": 12013552,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-10",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 472962,
+      "tvdbId": 12013553,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-17",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 472962,
+      "tvdbId": 12013554,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:47:47.709Z",
+    "lastFetched": "2026-11-21T17:44:31.179Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

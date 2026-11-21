@@ -5,15 +5,15 @@
     "mal": 62844,
     "anilist": 200929,
     "anidb": 19670,
-    "kitsu": null,
+    "kitsu": 50842,
     "simkl": 2909050,
-    "tmdb": null,
+    "tmdb": 1566920,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 62844,
     "livechart": 13371,
-    "animeplanet": "the-apothecary-diaries-movie",
+    "animeplanet": "the-apothecary-diaries-the-late-ladys-treasure",
     "anisearch": 20990,
     "notify": null
   },
@@ -30,18 +30,14 @@
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 90,
   "aired": {
     "from": "2026-12-11T00:00:00+00:00",
-    "to": null
+    "to": "2026-12-11T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": {
     "episode": 1,
     "airingAt": 1796914800
@@ -54,18 +50,29 @@
   },
   "genres": [
     "Drama",
-    "Mystery"
+    "Historical",
+    "Medical",
+    "Mystery",
+    "Seinen",
+    "China",
+    "Romance"
   ],
   "studios": [
     "TOHO animation STUDIO"
   ],
-  "producers": [],
+  "producers": [
+    "Toho"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1656/158840l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1751/160650l.jpg",
     "banner": null,
-    "color": "#f19335"
+    "color": "#e4bba1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "1riTxHHBTX4",
+    "url": "https://www.youtube.com/watch?v=1riTxHHBTX4",
+    "thumbnail": "https://i.ytimg.com/vi/1riTxHHBTX4/hqdefault.jpg"
+  },
   "synopsis": "Original Kusuriya no Hitorigoto movie.",
   "sequence": [
     {
@@ -77,15 +84,15 @@
       },
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195516-MJpUZlOberqH.jpg",
       "format": "TV",
-      "episodes": null,
+      "episodes": 12,
       "seasonYear": 2026,
-      "relationType": "OTHER"
+      "relationType": "PARENT"
     }
   ],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "0m",
+      "length": 0,
       "airDate": "2026-12-11",
       "title": {
         "en": "Complete Movie"
@@ -100,12 +107,12 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:36:45.123Z",
+    "lastFetched": "2026-11-21T17:40:31.198Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

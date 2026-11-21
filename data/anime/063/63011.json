@@ -30,26 +30,22 @@
   },
   "type": "Movie",
   "source": "Web manga",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 99,
   "aired": {
     "from": "2026-07-24T00:00:00+00:00",
-    "to": null
+    "to": "2026-07-24T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
-    "malScore": null,
-    "anilistScore": 7.2,
+    "malScore": 8.17,
+    "anilistScore": 8.1,
     "kitsuRating": null
   },
   "genres": [
@@ -59,13 +55,19 @@
   "studios": [
     "Cypic"
   ],
-  "producers": [],
+  "producers": [
+    "Toho"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1761/157085l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202717-CuvdrT9VX9Gr.jpg",
     "color": "#43bbe4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "N5439yrq_l8",
+    "url": "https://www.youtube.com/watch?v=N5439yrq_l8",
+    "thumbnail": "https://i.ytimg.com/vi/N5439yrq_l8/hqdefault.jpg"
+  },
   "synopsis": "Anime adaptation of the Siren arc.",
   "sequence": [
     {
@@ -82,17 +84,34 @@
       "relationType": "PARENT"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 0,
+      "airDate": "2026-07-24",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:39:09.758Z",
+    "lastFetched": "2026-11-21T17:41:58.050Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

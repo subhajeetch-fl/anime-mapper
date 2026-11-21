@@ -12,8 +12,8 @@
     "trakt": null,
     "traktType": null,
     "shikimori": 63811,
-    "livechart": null,
-    "animeplanet": null,
+    "livechart": 13574,
+    "animeplanet": "the-vermilion-mask-part-ii",
     "anisearch": null,
     "notify": null
   },
@@ -30,15 +30,15 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-04-01T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "spring",
+  "year": 2027,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Saturdays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": null,
   "rating": null,
@@ -49,7 +49,8 @@
   },
   "genres": [
     "Action",
-    "Fantasy"
+    "Fantasy",
+    "Seinen"
   ],
   "studios": [],
   "producers": [],
@@ -63,16 +64,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:03:34.900Z",
+    "lastFetched": "2026-11-21T17:46:49.538Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

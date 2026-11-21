@@ -3,9 +3,9 @@
   "idMal": 64382,
   "mappings": {
     "mal": 64382,
-    "anilist": null,
+    "anilist": 215639,
     "anidb": null,
-    "kitsu": null,
+    "kitsu": 50873,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
@@ -13,8 +13,8 @@
     "traktType": null,
     "shikimori": 64382,
     "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "baxian",
+    "anisearch": 21829,
     "notify": null
   },
   "title": {
@@ -28,57 +28,70 @@
   },
   "type": "Movie",
   "source": "Original",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 143,
   "aired": {
-    "from": "2026-07-24T00:00:00+00:00",
-    "to": null
+    "from": "2026-07-18T00:00:00+00:00",
+    "to": "2026-07-18T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.66,
+    "anilistScore": 6.9,
     "kitsuRating": null
   },
   "genres": [
     "Adventure",
     "Comedy",
-    "Fantasy"
+    "Fantasy",
+    "Mythology"
   ],
   "studios": [],
-  "producers": [
-    "MaoYan Movie"
-  ],
+  "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1133/158441l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1615/159574l.jpg",
     "banner": null,
-    "color": null
+    "color": "#f16b35"
   },
   "trailer": null,
   "synopsis": "Faced with wealth that could last ten lifetimes, would you dare to gamble everything? Led by Lü Dongbin and Zhongli Quan, and joined by He Xiangu, Tieguai Li, Han Xiangzi, Cao Guojiu, Lan Caihe, and Zhang Guolao, eight mortals of diverse backgrounds have inadvertently come together in the Penglai Wonderland. Some acted on impulse, others joined instantly, and they impersonate immortals, engaging in various dangerous schemes in preparation for a big heist! A long-planned \"immortality\" scam has officially begun! Beneath the guise of fake immortals lies a burning ambition for sudden wealth; within the makeshift facade lies the audacity to deceive the heavens. Little did they know that a shocking conspiracy was quietly descending upon them. Where will this farcical and fantastical journey ultimately lead?\n\n(Source: Bangumi, translated)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-03T07:11:31.625Z",
+    "lastFetched": "2026-11-21T17:50:23.459Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
     ],
     "dataVersion": 1
   }

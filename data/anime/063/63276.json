@@ -25,13 +25,13 @@
   },
   "type": "TV",
   "source": "Original",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 24,
-  "episodeLength": null,
+  "episodeLength": 3,
   "aired": {
     "from": "2026-04-16T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-24T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2026,
@@ -40,14 +40,11 @@
     "time": "00:55",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 21,
-    "airingAt": 1788360960
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.47,
-    "anilistScore": 5.7,
+    "malScore": 6.58,
+    "anilistScore": 6.4,
     "kitsuRating": null
   },
   "genres": [
@@ -57,13 +54,19 @@
   "studios": [
     "Wit Studio"
   ],
-  "producers": [],
+  "producers": [
+    "TBS"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1780/154909l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1780/154909l.webp",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205772-fJwBre4r2a53.jpg",
     "color": "#f1930d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "wM3E9LXHmu0",
+    "url": "https://www.youtube.com/watch?v=wM3E9LXHmu0",
+    "thumbnail": "https://i.ytimg.com/vi/wM3E9LXHmu0/hqdefault.jpg"
+  },
   "synopsis": "Ame is a child who loves sweets. But inside her mouth lived a cavity named Caries! Caries calls Ame \"Mama\" and acts completely unrestrained, using her teeth as furniture and even taking over her body. Ame is constantly being bossed around by Caries.\n\nAme and Caries—a slightly unusual mother-daughter duo!? A slapstick comedy about their chaotic daily lives!\n\n(Source: Official site, translated)",
   "sequence": [
     {
@@ -80,17 +83,405 @@
       "relationType": "CHARACTER"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 4,
+      "airDate": "2026-04-15",
+      "title": {
+        "en": "Beware the Mad Dentist",
+        "ja": "狂人歯医者に気をつけろ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": 4,
+      "airDate": "2026-04-22",
+      "title": {
+        "en": "Ame`s Cavity",
+        "ja": "虫歯のアメちゃん"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": 4,
+      "airDate": "2026-04-29",
+      "title": {
+        "en": "TV Raising Project",
+        "ja": "テレビ育成計画"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": 4,
+      "airDate": "2026-05-06",
+      "title": {
+        "en": "Is the White Powder Dangerous?",
+        "ja": "白い粉はキケン？"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": 4,
+      "airDate": "2026-05-13",
+      "title": {
+        "en": "Pushed Around by Him",
+        "ja": "彼に振りまわされて"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": 4,
+      "airDate": "2026-05-20",
+      "title": {
+        "en": "Catch the Tooth Thief",
+        "romaji": "Ha Dorobou o Tsukamaeru",
+        "ja": "歯ドロボウをつかまえろ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": 4,
+      "airDate": "2026-05-27",
+      "title": {
+        "en": "The Dentist Isn`t Scary",
+        "ja": "歯医者はこわくない"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": 4,
+      "airDate": "2026-06-03",
+      "title": {
+        "en": "The Tantrum Rampage",
+        "romaji": "Iyaiya Dai Bousou",
+        "ja": "イヤイヤ大暴走"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": 4,
+      "airDate": "2026-06-10",
+      "title": {
+        "en": "A Tooth Fairy",
+        "romaji": "Ha no Yousei",
+        "ja": "歯の妖精"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 4,
+      "airDate": "2026-06-17",
+      "title": {
+        "en": "Caries`s Moving",
+        "romaji": "Kariesu no Ohikkoshi",
+        "ja": "カリエスのお引越し"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 4,
+      "airDate": "2026-06-24",
+      "title": {
+        "en": "Curses Make Money",
+        "ja": "呪いはもうかる"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 4,
+      "airDate": "2026-07-01",
+      "title": {
+        "en": "Operation: Christmas",
+        "ja": "クリスマス大作戦"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": 4,
+      "airDate": "2026-07-08",
+      "title": {
+        "en": "Alien Abduction"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "14": {
+      "episode": "14",
+      "length": 4,
+      "airDate": "2026-07-15",
+      "title": {
+        "en": "In Place of Mom",
+        "romaji": "Mama no Kawari ni",
+        "ja": "ママのかわりに"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "15": {
+      "episode": "15",
+      "length": 4,
+      "airDate": "2026-07-22",
+      "title": {
+        "en": "Parenting Isn`t Easy",
+        "romaji": "Kosodate wa Raku Janai",
+        "ja": "子育ては楽じゃない"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "16": {
+      "episode": "16",
+      "length": 4,
+      "airDate": "2026-07-29",
+      "title": {
+        "en": "UMA Exists!",
+        "romaji": "UMA wa Ita!",
+        "ja": "UMAはいた！"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "17": {
+      "episode": "17",
+      "length": 4,
+      "airDate": "2026-08-05",
+      "title": {
+        "en": "Guardian Giga-Teeth",
+        "romaji": "Mamori no Giga-Teeth",
+        "ja": "守りのギガティース"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "18": {
+      "episode": "18",
+      "length": 4,
+      "airDate": "2026-08-12",
+      "title": {
+        "en": "No Entry Allowed",
+        "romaji": "Nyuuten wa Okotowari",
+        "ja": "入店はおことわり"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "19": {
+      "episode": "19",
+      "length": 4,
+      "airDate": "2026-08-19",
+      "title": {
+        "en": "Caries` Body Journey"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "20": {
+      "episode": "20",
+      "length": 4,
+      "airDate": "2026-08-26",
+      "title": {
+        "en": "Full of Cavities"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "21": {
+      "episode": "21",
+      "length": 4,
+      "airDate": "2026-09-02",
+      "title": {
+        "en": "Caries Cooking"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "22": {
+      "episode": "22",
+      "length": 4,
+      "airDate": "2026-09-09",
+      "title": {
+        "en": "Wacky Kart Race"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "23": {
+      "episode": "23",
+      "length": 4,
+      "airDate": "2026-09-16",
+      "title": {
+        "en": "Goodbye Caries: Part 1"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "24": {
+      "episode": "24",
+      "length": 4,
+      "airDate": "2026-09-23",
+      "title": {
+        "en": "Goodbye Caries: Part 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:46:27.632Z",
+    "lastFetched": "2026-11-21T17:44:11.524Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

@@ -8,52 +8,57 @@
     "kitsu": 50607,
     "simkl": 3046168,
     "tmdb": 316694,
-    "tvdb": null,
-    "trakt": null,
-    "traktType": null,
+    "tvdb": 475306,
+    "trakt": 317522,
+    "traktType": "shows",
     "shikimori": 63712,
     "livechart": 13548,
     "animeplanet": "so-whats-wrong-with-getting-reborn-as-a-goblin",
-    "anisearch": null,
+    "anisearch": 21308,
     "notify": null
   },
   "title": {
     "romaji": "Tensei Goblin Dakedo Shitsumon Aru?",
-    "english": null,
+    "english": "So What's Wrong with Getting Reborn as a Goblin?",
     "native": "転生ゴブリンだけど質問ある？",
     "synonyms": [
-      "So What's Wrong with Getting Reborn as a Goblin?",
+      "Tengobu",
       "転ゴブ",
-      "เกิดใหม่เป็นก็อบลินแล้วไง มีคำถามอะไรไหม?",
-      "Tengobu"
+      "เกิดใหม่เป็นก็อบลินแล้วไง มีคำถามอะไรไหม?"
     ]
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
-    "to": null
+    "from": "2026-10-05T00:00:00+00:00",
+    "to": "2026-12-21T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Mondays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795438800
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.58,
+    "anilistScore": 6.5,
     "kitsuRating": null
   },
   "genres": [
     "Fantasy",
+    "Isekai",
+    "Reincarnation",
+    "Seinen",
     "Action",
     "Adventure",
     "Comedy",
@@ -65,27 +70,231 @@
   ],
   "producers": [
     "Hakuhodo DY Music & Pictures",
-    "INCS toenter"
+    "INCS toenter",
+    "BS11",
+    "AbemaTV",
+    "SANKYO",
+    "Bushiroad Move"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
     "banner": null,
-    "color": "#5093e4"
+    "color": "#a1c950"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "ynr8tFWrK4c",
+    "url": "https://www.youtube.com/watch?v=ynr8tFWrK4c",
+    "thumbnail": "https://i.ytimg.com/vi/ynr8tFWrK4c/hqdefault.jpg"
+  },
   "synopsis": "Office worker Akira Yagami's altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira's newfound powers let him defy the species' normal life span... and are the key to his path to becoming the strongest goblin ever!\n\n(Source: Yen Press)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-05",
+      "title": {
+        "en": "So What`s Wrong with Getting Reborn as a Goblin?",
+        "romaji": "Tensei Goblin Dakedo Shitsumon Aru?",
+        "ja": "転生ゴブリンだけど質問ある?"
+      },
+      "tvdbShowId": 475306,
+      "tvdbId": 11670391,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11670391/screencap/6ac2f053b891e.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-12",
+      "title": {
+        "en": "So What`s Wrong with Meeting a Sly Old Fox?",
+        "romaji": "Kusemono Jiisan to Deatta kedo Shitsumon Aru?",
+        "ja": "曲者じいさんと出会ったけど質問ある?"
+      },
+      "tvdbShowId": 475306,
+      "tvdbId": 12019314,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12019314/screencap/6accd193c735a.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-19",
+      "title": {
+        "en": "So What`s Wrong with Negotiating with Humans?",
+        "romaji": "Ningen to Koushou Shite Mita kedo Shitsumon Aru?",
+        "ja": "人間と交渉してみたけど質問ある?"
+      },
+      "tvdbShowId": 475306,
+      "tvdbId": 12020429,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12020429/screencap/6accd9ee22780.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-26",
+      "title": {
+        "en": "So What`s Wrong with Being an Assassination Target?",
+        "romaji": "Ansatsu Taishou Dakedo Shitsumon Aru?",
+        "ja": "暗殺対象だけど質問ある?"
+      },
+      "tvdbShowId": 475306,
+      "tvdbId": 12020430,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12020430/screencap/6ad614860bbc7.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-02",
+      "title": {
+        "en": "So What`s Wrong with Being Disliked by an Adolescent Elf?",
+        "romaji": "Shishunki Elf ni Kirawareterun Dakedo Shitsumon Aru?",
+        "ja": "思春期エルフに嫌われてるんだけど質問ある?"
+      },
+      "tvdbShowId": 475306,
+      "tvdbId": 12020431,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12020431/screencap/6adf4f06f0a17.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-09",
+      "title": {
+        "en": "So What`s Wrong with Waging Wardrobe Warfare?",
+        "romaji": "Irui Kougeki o Shikakete Mita kedo Shitsumon Aru?",
+        "ja": "衣類攻撃を仕掛けてみたけど質問ある?"
+      },
+      "tvdbShowId": 475306,
+      "tvdbId": 12020432,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12020432/screencap/6ae88979a23fd.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-23",
+      "title": {
+        "en": null,
+        "romaji": "Dragon to Nakayoku Natta kedo Shitsumon Aru?",
+        "ja": "ドラゴンと仲良くなったけど質問ある?"
+      },
+      "tvdbShowId": 475306,
+      "tvdbId": 12020433,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12020433/screencap/6afafe7cecaeb.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-30",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475306,
+      "tvdbId": 12020434,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-12-07",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475306,
+      "tvdbId": 12020435,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-14",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475306,
+      "tvdbId": 12020436,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-21",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475306,
+      "tvdbId": 12020437,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-28",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 475306,
+      "tvdbId": 12020438,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-03T07:02:23.401Z",
+    "lastFetched": "2026-11-21T17:46:08.929Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

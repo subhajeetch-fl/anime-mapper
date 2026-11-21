@@ -4,25 +4,25 @@
   "mappings": {
     "mal": 64552,
     "anilist": 213873,
-    "anidb": null,
+    "anidb": 20165,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 3173576,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64552,
-    "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
+    "livechart": 13721,
+    "animeplanet": "s-rank-boukensha-de-aru-ore-no-musume-tachi-wa-juudo-no-father-complex-deshita",
+    "anisearch": 21838,
     "notify": null
   },
   "title": {
-    "romaji": "S-Rank Boukensha de Aru Ore no Musumetachi wa Juudo no Father-con Deshita",
+    "romaji": "S-Rank Boukensha de Aru Ore no Musumetachi wa Juudo no Father-con deshita",
     "english": null,
     "native": "Sランク冒険者である俺の娘たちは重度のファザコンでした",
     "synonyms": [
-      "My Daughters, S-Rank Adventurers, Were Severe Fatherons"
+      "My Daughters, S-Rank Adventurers, Were Severe Fathercons"
     ]
   },
   "type": "TV",
@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -54,9 +50,7 @@
     "Fantasy"
   ],
   "studios": [],
-  "producers": [
-    "Overlap"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1446/158877l.jpg",
     "banner": null,
@@ -67,12 +61,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-12T21:30:59.446Z",
+    "lastFetched": "2026-11-21T17:39:59.190Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

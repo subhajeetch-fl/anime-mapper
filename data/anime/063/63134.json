@@ -27,23 +27,19 @@
       "Shin Kochikame"
     ]
   },
-  "type": null,
+  "type": "TV",
   "source": "Manga",
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-01-01T00:00:00+00:00",
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -52,7 +48,10 @@
     "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
     "Comedy",
+    "Gag Humor",
+    "Shounen",
     "Slice of Life"
   ],
   "studios": [
@@ -61,9 +60,9 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1196/154490l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1407/159884l.jpg",
     "banner": null,
-    "color": "#00c9ff"
+    "color": "#f1bb35"
   },
   "trailer": null,
   "synopsis": "Ryoutsu, being an underpaid policeman, is always coming up with underhanded schemes in order to make a quick buck. But in the end, his plans (which are ridiculous to begin with) always go wrong and land him in big trouble with the chief.",
@@ -97,12 +96,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T06:50:07.831Z",
+    "lastFetched": "2026-11-21T17:42:59.695Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

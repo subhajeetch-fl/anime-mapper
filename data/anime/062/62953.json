@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -52,10 +48,12 @@
   "genres": [
     "Action",
     "Adventure",
+    "Isekai",
     "Sci-Fi",
     "Fantasy"
   ],
   "studios": [
+    "Shenman Culture",
     "Shenman Entertainment"
   ],
   "producers": [
@@ -71,12 +69,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T04:39:13.053Z",
+    "lastFetched": "2026-11-21T17:41:35.737Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

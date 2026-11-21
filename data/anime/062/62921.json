@@ -14,7 +14,7 @@
     "shikimori": 62921,
     "livechart": null,
     "animeplanet": null,
-    "anisearch": null,
+    "anisearch": 21081,
     "notify": null
   },
   "title": {
@@ -28,18 +28,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 20,
   "aired": {
     "from": "2025-12-26T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "fall",
+  "year": 2025,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
@@ -53,9 +49,7 @@
   "studios": [
     "T-Rex"
   ],
-  "producers": [
-    "Lune-Pictures"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1856/153520l.jpg",
     "banner": null,
@@ -64,52 +58,17 @@
   "trailer": null,
   "synopsis": null,
   "sequence": [],
-  "episodes": {
-    "1": {
-      "episode": "1",
-      "length": null,
-      "airDate": "2025-12-26T00:00:00+00:00",
-      "title": {
-        "en": "Red",
-        "romaji": "Aka ",
-        "ja": "赤"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "2": {
-      "episode": "2",
-      "length": null,
-      "airDate": "2025-12-26T00:00:00+00:00",
-      "title": {
-        "en": "Blue",
-        "romaji": "Ao ",
-        "ja": "青"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    }
-  },
+  "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-10T21:44:31.768Z",
+    "lastFetched": "2026-11-21T17:40:45.945Z",
     "sourcesUsed": [
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "jikan-episodes (fallback)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

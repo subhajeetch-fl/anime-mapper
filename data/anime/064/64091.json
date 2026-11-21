@@ -3,18 +3,18 @@
   "idMal": 64091,
   "mappings": {
     "mal": 64091,
-    "anilist": null,
-    "anidb": null,
+    "anilist": 214874,
+    "anidb": 20036,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 3104168,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64091,
     "livechart": 13624,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "aisanai-to-iwaremashitemo-moto-maou-no-hakushaku-reijou-wa-kimajime-gunjin-ni-ezuke-wo-sarete-shiawase-ni-naru",
+    "anisearch": 21542,
     "notify": null
   },
   "title": {
@@ -25,7 +25,7 @@
       "Dinners with My Darling: How the Former Monster King Ate Her Way to Happiness"
     ]
   },
-  "type": null,
+  "type": "unknown",
   "source": "Web manga",
   "status": "Not yet aired",
   "airing": false,
@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -52,6 +48,7 @@
   "genres": [
     "Fantasy",
     "Gourmet",
+    "Reincarnation",
     "Romance"
   ],
   "studios": [],
@@ -59,24 +56,22 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1750/157172l.jpg",
     "banner": null,
-    "color": null
+    "color": "#f1f11a"
   },
   "trailer": null,
   "synopsis": "Unused to humans, Abigail panics when her new husband declares that he'll never love her on the first night of their political marriage. Does that mean she's not allowed to eat?!\n\nA new twist on the food-based romance tale, starring an earl's daughter who was the Monster King in her previous life! After years of neglect by her old family, Abigail will charm her sincere military husband and his household one bite at a time and find her happy ending!\n\n(Source: Cross Infinite World)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T04:49:40.399Z",
+    "lastFetched": "2026-11-21T17:49:08.743Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

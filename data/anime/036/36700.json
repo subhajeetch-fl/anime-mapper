@@ -28,18 +28,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 3,
   "aired": {
     "from": "2015-03-19T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "winter",
+  "year": 2015,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -48,12 +44,11 @@
     "kitsuRating": null
   },
   "genres": [
-    "Fantasy"
+    "Fantasy",
+    "Kids"
   ],
   "studios": [],
-  "producers": [
-    "Yumearu"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/11/88705l.jpg",
     "banner": null,
@@ -64,16 +59,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T08:39:51.399Z",
+    "lastFetched": "2026-11-21T17:54:42.748Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

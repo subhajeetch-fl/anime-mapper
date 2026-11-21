@@ -28,22 +28,18 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 49,
   "aired": {
     "from": "2014-02-01T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "winter",
+  "year": 2014,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 6.42,
+    "malScore": 6.45,
     "anilistScore": null,
     "kitsuRating": null
   },
@@ -51,9 +47,7 @@
     "Hentai"
   ],
   "studios": [],
-  "producers": [
-    "SANDWICHWORKS"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1330/97319l.jpg",
     "banner": null,
@@ -64,16 +58,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-12T11:17:11.761Z",
+    "lastFetched": "2026-11-21T17:54:48.379Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

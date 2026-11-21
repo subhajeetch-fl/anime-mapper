@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 64378,
     "livechart": null,
-    "animeplanet": null,
+    "animeplanet": "elegy-for-the-henchmen-fist-of-the-north-star-part-ii",
     "anisearch": 21736,
     "notify": null
   },
@@ -27,13 +27,13 @@
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
+  "episodeLength": 4,
   "aired": {
     "from": "2026-07-06T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-21T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -45,23 +45,35 @@
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 6.06,
     "anilistScore": null,
     "kitsuRating": null
   },
   "genres": [
-    "Comedy"
+    "Comedy",
+    "Gag Humor",
+    "Parody"
   ],
   "studios": [
     "Doraku"
   ],
-  "producers": [],
+  "producers": [
+    "Frontier Works",
+    "AT-X",
+    "Coamix",
+    "brainsync",
+    "arma bianca"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1167/158432l.jpg",
     "banner": null,
     "color": "#febb50"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "ZPqIvoDeMT0",
+    "url": "https://www.youtube.com/watch?v=ZPqIvoDeMT0",
+    "thumbnail": "https://i.ytimg.com/vi/ZPqIvoDeMT0/hqdefault.jpg"
+  },
   "synopsis": "Second part of Hokuto no Ken: Kenougun Zako-tachi no Banka.",
   "sequence": [
     {
@@ -78,17 +90,275 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "4m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 4,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "4m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 4,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "4m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 4,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "4m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 4,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "4m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 4,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "4m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 4,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "4m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 4,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "4m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 4,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "4m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 4,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "4m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 4,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "4m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 4,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": "4m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 4,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": "4m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 4,
+      "image": null
+    },
+    "14": {
+      "episode": "14",
+      "length": "4m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 4,
+      "image": null
+    },
+    "15": {
+      "episode": "15",
+      "length": "4m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 4,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-08-01T04:18:06.151Z",
+    "lastFetched": "2026-11-21T17:50:16.960Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

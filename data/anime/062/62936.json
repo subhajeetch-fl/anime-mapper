@@ -22,11 +22,10 @@
     "english": "Love Unseen Beneath the Clear Night Sky",
     "native": "透明な夜に駆ける君と、目に見えない恋をした。",
     "synonyms": [
-      "Toumei na Yoru ni Kakeru Kimi to",
-      "Me ni Mienai Koi wo Shita.",
-      "Gokusai no Yoru ni Kakeru-kun to",
-      "Menimienai Koi wo Shita.",
+      "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+      "Gokusai no Yoru ni Kakeru-kun to, Menimienai Koi wo Shita.",
       "KakeKoi",
+      "I Fell in Love with You, Who Ran Through the Transparent Night, A Love that was Invisible",
       "かけ恋",
       "Un amour invisible",
       "รักที่มองไม่เห็น ด้วยตา กับเธอในค่ำคืนที่แสนจะเลือนราง"
@@ -34,13 +33,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
   "episodeLength": 24,
   "aired": {
     "from": "2026-07-06T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-21T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -49,17 +48,15 @@
     "time": "21:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788782400
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.86,
-    "anilistScore": 7.9,
-    "kitsuRating": 7.85
+    "malScore": 8.43,
+    "anilistScore": 8.4,
+    "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
     "Drama",
     "Romance"
   ],
@@ -67,94 +64,242 @@
     "Makaria"
   ],
   "producers": [
-    "Shochiku",
-    "AT-X",
-    "Studio Mausu",
-    "Shochiku Music Publishing",
+    "Shouchiku",
     "SB Creative",
+    "viviON",
+    "AT-X",
     "Clare Voice",
-    "viviON"
+    "Makaria"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1145/158339l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202269-u0PTTsiKwrVL.jpg",
     "color": "#5da1e4"
   },
-  "trailer": null,
-  "synopsis": "On an April night in Tokyo, still too early for fireworks, university student Kakeru Mano meets a woman named Koharu Fuyutsuki. She is a beautiful girl who stands out from the crowd, laughs a lot, and exudes a warmth that contrasts sharply with Kakeru's own introversion. But there was something Kakeru didn't know at first—she can't see. Unlike Kakeru, Koharu hasn't given up on anything, even with her blindness. She attends university daily, shows interest in clubs, makes friends—and dreams of launching fireworks one day. Kakeru wonders why, when she can't see them...but maybe it doesn't matter. And maybe he can start moving forward, too, for the girl who's always been by his side.\n\n(Source: Yen Press)",
+  "trailer": {
+    "youtubeId": "OPZ7TOGxWqI",
+    "url": "https://www.youtube.com/watch?v=OPZ7TOGxWqI",
+    "thumbnail": "https://i.ytimg.com/vi/OPZ7TOGxWqI/hqdefault.jpg"
+  },
+  "synopsis": "Koharu Fuyutsuki is a university student who refuses to let her blindness define her life. Her infectious optimism soon draws the attention of the withdrawn Kakeru Sorano, whose guarded outlook on the world slowly begins to change after meeting her.\n\nAs their bond deepens, the two navigate the everyday challenges that accompany Koharu's condition, discovering that genuine understanding comes not from seeing with one's eyes, but from learning to see another person's heart.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-06",
       "title": {
-        "en": "An Encounter"
+        "en": "An Encounter",
+        "romaji": "Deai",
+        "ja": "出会い"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470520,
+      "tvdbId": 11460127,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11460127/screencap/6a477ed805bf9.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-13",
       "title": {
-        "en": "Fuyutsuki Koharu"
+        "en": "Fuyutsuki Koharu",
+        "romaji": "Fuyutsuki Koharu",
+        "ja": "冬月小春"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470520,
+      "tvdbId": 11874604,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874604/screencap/6a50e8c7947dc.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-20",
       "title": {
-        "en": "Episode 3"
+        "en": "The Yellow Bookmark",
+        "romaji": "Kiiroi Shiori",
+        "ja": "黄色い栞"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470520,
+      "tvdbId": 11874605,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874605/screencap/6a58d663d04e6.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-27",
       "title": {
-        "en": "Episode 4"
+        "en": "First Date",
+        "romaji": "Hajimete no Date",
+        "ja": "初めてのデート"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 470520,
+      "tvdbId": 11874606,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874606/screencap/6a6350c503dbb.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-03",
+      "title": {
+        "en": "Aerial Fireworks",
+        "romaji": "Uchiage Hanabi",
+        "ja": "打上げ花火"
+      },
+      "tvdbShowId": 470520,
+      "tvdbId": 11874607,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874607/screencap/6a6b50ce50ba6.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-10",
+      "title": {
+        "en": "The Empty Terrace Seat",
+        "romaji": "Kuuhaku no Terrace Seki",
+        "ja": "空白のテラス席"
+      },
+      "tvdbShowId": 470520,
+      "tvdbId": 11874608,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874608/screencap/6a75a9b266cdb.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-17",
+      "title": {
+        "en": "Transparent",
+        "romaji": "Toumei",
+        "ja": "透明"
+      },
+      "tvdbShowId": 470520,
+      "tvdbId": 11874609,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874609/screencap/6a7ee427d7b2d.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-24",
+      "title": {
+        "en": "Pangs of Love",
+        "romaji": "Koigokoro",
+        "ja": "恋心"
+      },
+      "tvdbShowId": 470520,
+      "tvdbId": 11874610,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874610/screencap/6a88184b81ae8.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-31",
+      "title": {
+        "en": "Alone",
+        "romaji": "Hitori",
+        "ja": "ひとり"
+      },
+      "tvdbShowId": 470520,
+      "tvdbId": 11874611,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874611/screencap/6a91537ae510c.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-07",
+      "title": {
+        "en": "Stay by Her Side",
+        "romaji": "Zutto, Soba ni",
+        "ja": "ずっと, そばに"
+      },
+      "tvdbShowId": 470520,
+      "tvdbId": 11874612,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874612/screencap/6a9aa8ddabf56.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-14",
+      "title": {
+        "en": "Sorano Kakeru",
+        "romaji": "Sorano Kakeru",
+        "ja": "空野かける"
+      },
+      "tvdbShowId": 470520,
+      "tvdbId": 11874613,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874613/screencap/6aa3ca2a2ae35.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-21",
+      "title": {
+        "en": "The Memory of a Lifetime",
+        "romaji": "Isshou no Omoide",
+        "ja": "一生の想い出"
+      },
+      "tvdbShowId": 470520,
+      "tvdbId": 11874614,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874614/screencap/6aad132c79177.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:38:09.137Z",
+    "lastFetched": "2026-11-21T17:40:55.221Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

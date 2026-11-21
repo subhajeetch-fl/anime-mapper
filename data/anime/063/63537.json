@@ -4,22 +4,22 @@
   "mappings": {
     "mal": 63537,
     "anilist": 208225,
-    "anidb": null,
+    "anidb": 19909,
     "kitsu": 50767,
-    "simkl": null,
-    "tmdb": null,
+    "simkl": 3031024,
+    "tmdb": 315054,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 63537,
     "livechart": 13532,
     "animeplanet": "the-dukes-son-claims-he-wont-love-me-yet-showers-me-with-adoration",
-    "anisearch": null,
+    "anisearch": 21336,
     "notify": null
   },
   "title": {
     "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
-    "english": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
+    "english": "The Duke's Son Claims He Won't Love Me Yet Showers Me with Adoration",
     "native": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます",
     "synonyms": [
       "I Don't Know Why but the Next Duke Who Said \"I Have No Intention of Loving You\" Is Doting on Me",
@@ -29,13 +29,13 @@
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": 24,
+  "episodeLength": 23,
   "aired": {
     "from": "2026-07-05T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-20T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -44,19 +44,16 @@
     "time": "01:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788625800
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.6,
-    "anilistScore": 6.5,
+    "malScore": 6.78,
+    "anilistScore": 6.7,
     "kitsuRating": null
   },
   "genres": [
-    "Fantasy",
-    "Romance"
+    "Romance",
+    "Fantasy"
   ],
   "studios": [
     "Zero-G",
@@ -64,27 +61,234 @@
   ],
   "producers": [
     "Avex Pictures",
-    "Saber Links"
+    "DMM.com",
+    "TV Asahi",
+    "Flex Comics",
+    "Zero-G",
+    "TV Asahi Music",
+    "Pia",
+    "Movic",
+    "Saber Links",
+    "BS Asahi"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1217/158710l.jpg",
-    "banner": null,
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/208225-8UyekYnyOgJt.jpg",
     "color": "#e4bb28"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "MNzf8UswtzI",
+    "url": "https://www.youtube.com/watch?v=MNzf8UswtzI",
+    "thumbnail": "https://i.ytimg.com/vi/MNzf8UswtzI/hqdefault.jpg"
+  },
   "synopsis": "An arranged marriage. Two complete strangers. One adorable romance! When cheerful noblewoman Elsa is suddenly wed to the reserved duke-to-be Julius, neither expects their political marriage to spark something more. As awkward misunderstandings, sweet gestures, and growing feelings pile up, these newlyweds discover that falling in love might be the easiest—and hardest—part of married life.\n\n(Source: Crunchyroll)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-07-05",
+      "title": {
+        "en": "A Marriage Just for Show",
+        "ja": "みせかけの結婚"
+      },
+      "tvdbShowId": 474490,
+      "tvdbId": 11638214,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11638214/screencap/6a51a84ee02ff.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-07-12",
+      "title": {
+        "en": "...Thank You",
+        "ja": "......ありがとう"
+      },
+      "tvdbShowId": 474490,
+      "tvdbId": 11871888,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871888/screencap/6a59977ad72e9.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-07-19",
+      "title": {
+        "en": "Cufflinks and a Music Box",
+        "ja": "カフスボタンとオルゴール"
+      },
+      "tvdbShowId": 474490,
+      "tvdbId": 11871889,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871889/screencap/6a5996eb4c9ed.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-07-26",
+      "title": {
+        "en": "Behind a Smile",
+        "ja": "微笑みの裏側"
+      },
+      "tvdbShowId": 474490,
+      "tvdbId": 11871890,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871890/screencap/6a641a330b5f7.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-02",
+      "title": {
+        "en": "The Sound of Distant Rain",
+        "ja": "遠い雨音"
+      },
+      "tvdbShowId": 474490,
+      "tvdbId": 11871891,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871891/screencap/6a6e27e3c7168.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-09",
+      "title": {
+        "en": "The Trap Hidden at the Soiree",
+        "ja": "夜会にひそむ罠"
+      },
+      "tvdbShowId": 474490,
+      "tvdbId": 11871892,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871892/screencap/6a7768666a568.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-16",
+      "title": {
+        "en": "An Unexpected Gift",
+        "ja": "思いがけない贈り物"
+      },
+      "tvdbShowId": 474490,
+      "tvdbId": 11871893,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871893/screencap/6a80a2bda2672.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-23",
+      "title": {
+        "en": "Misunderstandings and Falsehoods",
+        "ja": "誤解と不実"
+      },
+      "tvdbShowId": 474490,
+      "tvdbId": 11871894,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871894/screencap/6a89dcaf6a984.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-30",
+      "title": {
+        "en": "Jarmo`s Vow",
+        "ja": "ヤルモの誓い"
+      },
+      "tvdbShowId": 474490,
+      "tvdbId": 11871895,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871895/screencap/6a9310459d5d9.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-06",
+      "title": {
+        "en": "Julius`s Wish",
+        "ja": "ユリウスの願い事"
+      },
+      "tvdbShowId": 474490,
+      "tvdbId": 11871896,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871896/screencap/6a9c4abba58e6.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-13",
+      "title": {
+        "en": "Trapped...",
+        "ja": "閉じ込められて..."
+      },
+      "tvdbShowId": 474490,
+      "tvdbId": 11871897,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871897/screencap/6aa58526aca03.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-20",
+      "title": {
+        "en": "A Promise on the Night of Falling Stars",
+        "romaji": "Hoshi Furu Yoru no Yakusoku",
+        "ja": "星降る夜の約束"
+      },
+      "tvdbShowId": 474490,
+      "tvdbId": 11871898,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871898/screencap/6aaebfb644127.jpg"
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:51:12.148Z",
+    "lastFetched": "2026-11-21T17:45:44.874Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

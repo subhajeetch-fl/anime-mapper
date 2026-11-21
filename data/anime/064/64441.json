@@ -4,24 +4,25 @@
   "mappings": {
     "mal": 64441,
     "anilist": 213363,
-    "anidb": null,
+    "anidb": 20118,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 3159080,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64441,
     "livechart": 13676,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "mistress-kanan-is-devilishly-easy-season-2",
+    "anisearch": 21742,
     "notify": null
   },
   "title": {
-    "romaji": "Kanan-sama wa Akumade Choroi 2nd Season",
-    "english": null,
-    "native": "カナン様はあくまでチョロい 第2期",
+    "romaji": "Kanan-sama wa Akumade Choroi 2 EASY",
+    "english": "Mistress Kanan is Devilishly Easy Season 2",
+    "native": "カナン様はあくまでチョロい 2 EASY",
     "synonyms": [
+      "Kanan-sama wa Akumade Choroi 2nd Season",
       "カナチョロ 2",
       "KanaChoro 2",
       "Mistress Kanan is Devilishly Easy Season 2"
@@ -34,16 +35,12 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-01-01T00:00:00+00:00",
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -53,19 +50,29 @@
   },
   "genres": [
     "Comedy",
-    "Romance",
-    "Supernatural",
     "Ecchi",
+    "Romance",
+    "School",
+    "Shounen",
+    "Supernatural",
     "Fantasy"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Studio KAI"
+  ],
+  "producers": [
+    "King Records"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1822/158580l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1476/161205l.jpg",
     "banner": null,
-    "color": "#e4d693"
+    "color": "#e443a1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "SJdisi3kEhQ",
+    "url": "https://www.youtube.com/watch?v=SJdisi3kEhQ",
+    "thumbnail": "https://i.ytimg.com/vi/SJdisi3kEhQ/hqdefault.jpg"
+  },
   "synopsis": "Second season of Kanan-sama wa Akumade Choroi.",
   "sequence": [
     {
@@ -84,12 +91,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-11T21:34:03.422Z",
+    "lastFetched": "2026-11-21T17:50:53.191Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

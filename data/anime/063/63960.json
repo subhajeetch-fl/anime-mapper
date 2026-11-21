@@ -23,7 +23,7 @@
     "native": "緋弾のアリア 新作ショートアニメ",
     "synonyms": []
   },
-  "type": null,
+  "type": "unknown",
   "source": "Light novel",
   "status": "Not yet aired",
   "airing": false,
@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -50,13 +46,15 @@
   "genres": [
     "Action",
     "Comedy",
+    "Ecchi",
+    "Harem",
     "Romance",
-    "Ecchi"
+    "School"
   ],
   "studios": [],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1209/156800l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1209/156800l.webp",
     "banner": null,
     "color": null
   },
@@ -65,16 +63,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-05T22:53:02.861Z",
+    "lastFetched": "2026-11-21T17:47:44.865Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

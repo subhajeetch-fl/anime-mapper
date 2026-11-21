@@ -39,11 +39,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -52,7 +48,9 @@
     "kitsuRating": null
   },
   "genres": [
+    "Seinen",
     "Slice of Life",
+    "Workplace",
     "Comedy",
     "Drama"
   ],
@@ -68,12 +66,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T06:59:37.719Z",
+    "lastFetched": "2026-11-21T17:45:49.626Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

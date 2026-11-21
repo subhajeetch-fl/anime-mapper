@@ -19,11 +19,9 @@
   },
   "title": {
     "romaji": "Boukensha License wo Hakudatsu Sareta Ossan Dakedo, Manamusume ga Dekita no de Nonbiri Jinsei wo Ouka Suru",
-    "english": null,
+    "english": "Enjoy New Life with My Daughter",
     "native": "冒険者ライセンスを剥奪されたおっさんだけど、愛娘ができたのでのんびり人生を謳歌する",
     "synonyms": [
-      "I Lost My Adventurer's License",
-      "but It's Fine Because I Have an Adorable Daughter Now",
       "I Lost My Adventurer's License, but It's Fine Because I Have an Adorable Daughter Now"
     ]
   },
@@ -34,17 +32,20 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-01-08T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
+  "season": "winter",
+  "year": 2027,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Fridays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1799334000
+  },
   "rating": null,
   "score": {
     "malScore": null,
@@ -57,24 +58,34 @@
     "Fantasy",
     "Comedy"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Studio Palette"
+  ],
+  "producers": [
+    "SB Creative",
+    "Space Shower Music",
+    "SKY Perfect Pictures"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1147/154849l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1405/161252l.jpg",
     "banner": null,
-    "color": "#e4bb43"
+    "color": "#d6a178"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "pNe2xybVZVQ",
+    "url": "https://www.youtube.com/watch?v=pNe2xybVZVQ",
+    "thumbnail": "https://i.ytimg.com/vi/pNe2xybVZVQ/hqdefault.jpg"
+  },
   "synopsis": "Douglas, once known as a legendary enhancement spellcaster, is now little more than your average, weak old man. On top of that, he was kicked out of the hero party, and eventually had his adventurer's license revoked... And that's how he ended up a vagabond, wandering aimlessly. After an encounter with Rabi, a cursed little girl, a new adventure begins...\n\n(Source: Square Enix)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T06:52:38.593Z",
+    "lastFetched": "2026-11-21T17:44:07.691Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

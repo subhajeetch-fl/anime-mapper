@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -51,14 +47,16 @@
   },
   "genres": [
     "Action",
-    "Fantasy"
+    "Fantasy",
+    "School",
+    "Urban Fantasy"
   ],
   "studios": [
+    "Shenman Culture",
     "Shenman Entertainment"
   ],
   "producers": [
-    "Youku",
-    "Tianshi Wenhua"
+    "Youku"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1689/153755l.jpg",
@@ -70,12 +68,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T22:19:45.251Z",
+    "lastFetched": "2026-11-21T17:40:17.482Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

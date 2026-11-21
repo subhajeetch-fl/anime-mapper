@@ -4,17 +4,17 @@
   "mappings": {
     "mal": 63832,
     "anilist": 210031,
-    "anidb": null,
+    "anidb": 19983,
     "kitsu": 50634,
-    "simkl": null,
-    "tmdb": null,
+    "simkl": 3065232,
+    "tmdb": 278043,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 63832,
     "livechart": 13587,
     "animeplanet": "you-and-i-are-polar-opposites-2nd-season",
-    "anisearch": null,
+    "anisearch": 21357,
     "notify": null
   },
   "title": {
@@ -27,13 +27,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 13,
   "episodeLength": 24,
   "aired": {
     "from": "2026-07-05T00:00:00+00:00",
-    "to": null
+    "to": "2026-10-04T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -42,44 +42,42 @@
     "time": "17:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788681600
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 8.35,
-    "anilistScore": 8.2,
-    "kitsuRating": 8.23
+    "malScore": 8.51,
+    "anilistScore": 8.4,
+    "kitsuRating": null
   },
   "genres": [
     "Comedy",
     "Romance",
+    "School",
+    "Shounen",
     "Drama",
-    "Slice of Life",
-    "School Life",
-    "High School",
-    "Shounen"
+    "Slice of Life"
   ],
   "studios": [
     "Lapin Track"
   ],
   "producers": [
+    "Shouchiku",
     "Dentsu",
-    "Shochiku",
-    "Mainichi Broadcasting System",
-    "Tohokushinsha Film Corporation",
     "Shueisha",
-    "Shochiku Music Publishing",
-    "AbemaTV"
+    "AbemaTV",
+    "Mainichi Broadcasting System"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1143/158409l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
     "color": "#fe5093"
   },
-  "trailer": null,
-  "synopsis": "Second season of Seihantai na Kimi to Boku.",
+  "trailer": {
+    "youtubeId": "HW7enBbU_hk",
+    "url": "https://www.youtube.com/watch?v=HW7enBbU_hk",
+    "thumbnail": "https://i.ytimg.com/vi/HW7enBbU_hk/hqdefault.jpg"
+  },
+  "synopsis": "Six months have passed since the polar opposite classmates Miyu Suzuki and Yuusuke Tani started dating. Through spending time together along with their friends from school, the two have been happier than ever. As the year nears its end, the new couple plans to celebrate Christmas and the New Year together, making memories for years to come.\n\nMeanwhile, Miyu and Yuusuke's friends Shuuji Taira and Kentarou Yamada are puzzled by their own situations. Due to his bad experiences in middle school, Taira still overthinks everything around him, especially after his classmate Shino Azuma began giving him more attention. Simultaneously, the usually energetic and outspoken Yamada finds it difficult to find the perfect time to confess his feelings to his shy schoolmate Natsumi Nishi. Despite everyone's differences, they continue enjoying their adolescence together and find their own ways to turn the winter break into a cherished memory.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 60371,
@@ -95,17 +93,240 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-07-05",
+      "title": {
+        "en": "Christmas Eve",
+        "romaji": "Christmas Eve",
+        "ja": "クリスマスイヴ"
+      },
+      "tvdbShowId": 457078,
+      "tvdbId": 11703573,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703573/screencap/6a4a2417ae484.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-07-12",
+      "title": {
+        "en": "Dilemma of a Winter`s Night",
+        "romaji": "Fuyu no Yoru no Dilemma",
+        "ja": "冬の夜のジレンマ"
+      },
+      "tvdbShowId": 457078,
+      "tvdbId": 11708173,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11708173/screencap/6a53604b762e3.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-07-19",
+      "title": {
+        "en": "The Year That`s Passed, and the Year to Come",
+        "romaji": "Yukutoshi Kurutoshi",
+        "ja": "行く年来る年"
+      },
+      "tvdbShowId": 457078,
+      "tvdbId": 11872935,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872935/screencap/6a5c8cf387caf.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-07-26",
+      "title": {
+        "en": "New School Term",
+        "romaji": "Shingakki",
+        "ja": "新学期"
+      },
+      "tvdbShowId": 457078,
+      "tvdbId": 11872936,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872936/screencap/6a65c97d2875d.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-02",
+      "title": {
+        "en": "Valentine`s Day",
+        "romaji": "Valentine",
+        "ja": "バレンタイン"
+      },
+      "tvdbShowId": 457078,
+      "tvdbId": 11872937,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872937/screencap/6a6f02e7ac30f.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-09",
+      "title": {
+        "en": "Threshold of Spring",
+        "romaji": "Haru no Temae",
+        "ja": "春の手前"
+      },
+      "tvdbShowId": 457078,
+      "tvdbId": 11872938,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872938/screencap/6a784f4b434d9.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-16",
+      "title": {
+        "en": "Gradation",
+        "romaji": "Gradation",
+        "ja": "グラデーション"
+      },
+      "tvdbShowId": 457078,
+      "tvdbId": 11872939,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872939/screencap/6a817a729d7a0.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-23",
+      "title": {
+        "en": "The Future",
+        "romaji": "Kono Saki",
+        "ja": "この先"
+      },
+      "tvdbShowId": 457078,
+      "tvdbId": 11872940,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872940/screencap/6a8ab0120bb3a.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-30",
+      "title": {
+        "en": "Past and Present",
+        "romaji": "Kako to Ima",
+        "ja": "過去と今"
+      },
+      "tvdbShowId": 457078,
+      "tvdbId": 11872941,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872941/screencap/6a93eaae3691f.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-06",
+      "title": {
+        "en": "Feelings and Choices",
+        "romaji": "Omoi to Sentaku",
+        "ja": "想いと選択"
+      },
+      "tvdbShowId": 457078,
+      "tvdbId": 11872942,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872942/screencap/6a9d252e2fe94.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-13",
+      "title": {
+        "en": "Somewhere to Belong",
+        "romaji": "Ibasho",
+        "ja": "居場所"
+      },
+      "tvdbShowId": 457078,
+      "tvdbId": 11872943,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872943/screencap/6aa65fb14c2b7.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-27",
+      "title": {
+        "en": "Starting Line",
+        "romaji": "Start Line",
+        "ja": "スタートライン"
+      },
+      "tvdbShowId": 457078,
+      "tvdbId": 11872944,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872944/screencap/6ab8d478bd753.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": 25,
+      "airDate": "2026-10-04",
+      "title": {
+        "en": "You and I Are Polar Opposites",
+        "romaji": "Seihantai na Kimi to Boku",
+        "ja": "正反対な君と僕"
+      },
+      "tvdbShowId": 457078,
+      "tvdbId": 11872945,
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872945/screencap/6ac20f371144b.jpg"
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:55:42.066Z",
+    "lastFetched": "2026-11-21T17:47:21.543Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

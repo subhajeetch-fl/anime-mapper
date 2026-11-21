@@ -4,16 +4,16 @@
   "mappings": {
     "mal": 64107,
     "anilist": 211711,
-    "anidb": null,
+    "anidb": 20241,
     "kitsu": 50701,
-    "simkl": null,
+    "simkl": 3203584,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64107,
     "livechart": 13626,
-    "animeplanet": null,
+    "animeplanet": "my-hero-academia-i-am-a-hero-too",
     "anisearch": 21544,
     "notify": null
   },
@@ -28,38 +28,39 @@
   },
   "type": "ONA",
   "source": "Manga",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 6,
   "aired": {
     "from": "2026-08-03T00:00:00+00:00",
-    "to": null
+    "to": "2026-08-03T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 7.36,
     "anilistScore": 7.6,
     "kitsuRating": null
   },
   "genres": [
     "Action",
+    "School",
+    "Shounen",
+    "Super Power",
     "Fantasy",
     "Music",
     "Slice of Life"
   ],
-  "studios": [],
+  "studios": [
+    "Bones Film"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1697/157239l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1397/159346l.jpg",
     "banner": null,
     "color": null
   },
@@ -80,17 +81,37 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "7m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 7,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-08-07T01:41:08.222Z",
+    "lastFetched": "2026-11-21T17:49:17.356Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

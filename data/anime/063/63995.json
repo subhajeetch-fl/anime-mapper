@@ -3,7 +3,7 @@
   "idMal": 63995,
   "mappings": {
     "mal": 63995,
-    "anilist": null,
+    "anilist": 214978,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -27,7 +27,7 @@
   "source": "Web novel",
   "status": "Not yet aired",
   "airing": false,
-  "episodeCount": null,
+  "episodeCount": 52,
   "episodeLength": null,
   "aired": {
     "from": "2027-01-01T00:00:00+00:00",
@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -50,7 +46,9 @@
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Historical",
+    "Martial Arts"
   ],
   "studios": [
     "Xing Yi Kai Chen"
@@ -61,24 +59,22 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1565/156959l.jpg",
     "banner": null,
-    "color": null
+    "color": "#f16b43"
   },
   "trailer": null,
   "synopsis": "Life and death are nothing to me; if you're not convinced, then fight! All gods, Buddhas, and immortals are but a sword's edge. The young Ye Xuan, through a series of fortuitous events, unlocks the Prison Tower, a supreme treasure of the heavens, changing his destiny and embarking on the path of sword cultivation!\n\n(Source: iQIYI, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:05:50.145Z",
+    "lastFetched": "2026-11-21T17:48:14.617Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

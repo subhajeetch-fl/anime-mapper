@@ -4,17 +4,17 @@
   "mappings": {
     "mal": 63047,
     "anilist": 209800,
-    "anidb": null,
+    "anidb": 19816,
     "kitsu": 50622,
-    "simkl": null,
-    "tmdb": null,
+    "simkl": 2989040,
+    "tmdb": 293629,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 63047,
-    "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
+    "livechart": 13413,
+    "animeplanet": "yoroi-shinden-samurai-troopers-part-ii",
+    "anisearch": 21164,
     "notify": null
   },
   "title": {
@@ -25,13 +25,13 @@
   },
   "type": "TV",
   "source": "Original",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-07T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-22T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -40,19 +40,18 @@
     "time": "23:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 9,
-    "airingAt": 1788273000
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.38,
-    "anilistScore": 5.2,
+    "malScore": 6.26,
+    "anilistScore": 5.7,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Fantasy",
+    "Samurai",
+    "Urban Fantasy",
     "Adventure",
     "Sci-Fi"
   ],
@@ -60,23 +59,26 @@
     "Sunrise"
   ],
   "producers": [
-    "Tokyo MX",
-    "Bandai Namco Entertainment",
+    "Bandai Namco Filmworks",
     "Avex Pictures",
     "Kansai TV",
+    "Bandai Namco Entertainment",
+    "BANDAI SPIRITS",
     "BS11",
     "U-NEXT",
-    "Bandai Spirits",
-    "Bandai Namco Filmworks",
-    "qooop",
-    "Cruise"
+    "TOKYO MX",
+    "qooop"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1996/158323l.jpg",
-    "banner": null,
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209800-zyvmZTh6d89a.jpg",
     "color": "#e4a143"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "OKEoQo3cGVg",
+    "url": "https://www.youtube.com/watch?v=OKEoQo3cGVg",
+    "thumbnail": "https://i.ytimg.com/vi/OKEoQo3cGVg/hqdefault.jpg"
+  },
   "synopsis": "Second part of Yoroi Shin Den Samurai Troopers.",
   "sequence": [
     {
@@ -93,17 +95,224 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:40:38.132Z",
+    "lastFetched": "2026-11-21T17:42:18.813Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

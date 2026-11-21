@@ -5,53 +5,59 @@
     "mal": 64340,
     "anilist": 212888,
     "anidb": 20077,
-    "kitsu": null,
-    "simkl": null,
-    "tmdb": null,
+    "kitsu": 50743,
+    "simkl": 3140896,
+    "tmdb": 324502,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64340,
-    "livechart": null,
-    "animeplanet": null,
+    "livechart": 13655,
+    "animeplanet": "overgeared",
     "anisearch": 21586,
     "notify": null
   },
   "title": {
-    "romaji": "Temppal: Item no Chikara",
+    "romaji": "Tempal: Item no Chikara",
     "english": "Overgeared",
     "native": "テムパル～アイテムの力～",
     "synonyms": [
-      "템빨"
+      "템빨",
+      "Temppal",
+      "Tempal - Item no Chikara"
     ]
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-02T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Fridays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 9,
+    "airingAt": 1795357800
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.55,
+    "anilistScore": 7.6,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Fantasy",
+    "Video Game",
     "Adventure",
     "Comedy"
   ],
@@ -60,27 +66,233 @@
   ],
   "producers": [
     "Pony Canyon",
-    "Egg Firm"
+    "Crunchyroll",
+    "REDICE STUDIO",
+    "Kakao piccoma",
+    "Movic",
+    "EGG FIRM"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1605/158864l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1386/160022l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/212888-ZsnNegBCKXQq.jpg",
-    "color": "#f1bb93"
+    "color": "#f19335"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "e1Km0FqUZl0",
+    "url": "https://www.youtube.com/watch?v=e1Km0FqUZl0",
+    "thumbnail": "https://i.ytimg.com/vi/e1Km0FqUZl0/hqdefault.jpg"
+  },
   "synopsis": "Shin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game \"Satisfy,\" finds a powerful item that earns him a rare legendary class title: \"Pagma's Successor.\" He's now a skilled blacksmith who can forge unique weapons and equip the game's most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for...\n\n(Source: Tapas Media)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-02",
+      "title": {
+        "en": "Legendary Class",
+        "romaji": "Legendary Tenshoku",
+        "ja": "レジェンダリー転職"
+      },
+      "tvdbShowId": 478752,
+      "tvdbId": 11823655,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11823655/screencap/6ab864c6545bd.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-09",
+      "title": {
+        "en": "First Step Towards Being a Blacksmith",
+        "romaji": "Kaji Shokunin no Daiippo",
+        "ja": "鍛冶職人の第一歩"
+      },
+      "tvdbShowId": 478752,
+      "tvdbId": 12004882,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12004882/screencap/6ac172f729b02.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-16",
+      "title": {
+        "en": "Second Class",
+        "romaji": "Dai 2 Shokugyou",
+        "ja": "第2職業"
+      },
+      "tvdbShowId": 478752,
+      "tvdbId": 12004883,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12004883/screencap/6acad480d0a08.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-23",
+      "title": {
+        "en": "Item Crafting Face-Off",
+        "romaji": "Item Seisaku Taiketsu",
+        "ja": "アイテム製作対決"
+      },
+      "tvdbShowId": 478752,
+      "tvdbId": 12015280,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12015280/screencap/6ad4c9f56dcd5.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-10-30",
+      "title": {
+        "en": "Family`s Trust",
+        "romaji": "Kazoku no Shinyou",
+        "ja": "家族の信用"
+      },
+      "tvdbShowId": 478752,
+      "tvdbId": 12015281,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12015281/screencap/6add552b4c0c3.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 24,
+      "airDate": "2026-11-06",
+      "title": {
+        "en": "First Boss Raid",
+        "romaji": "Hatsu no Boss Raid",
+        "ja": "初のボスレイド"
+      },
+      "tvdbShowId": 478752,
+      "tvdbId": 12015282,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12015282/screencap/6ae68258bc541.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 24,
+      "airDate": "2026-11-13",
+      "title": {
+        "en": "Pagma`s Sword Dance",
+        "romaji": "Pagma no Kenbu",
+        "ja": "ファグマの剣舞"
+      },
+      "tvdbShowId": 478752,
+      "tvdbId": 12015283,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12015283/screencap/6aefda81481e1.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 24,
+      "airDate": "2026-11-20",
+      "title": {
+        "en": null,
+        "romaji": "Yatan no Saishichou",
+        "ja": "ヤタンの祭司長"
+      },
+      "tvdbShowId": 478752,
+      "tvdbId": 12015284,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12015284/screencap/6af8da31dbfe9.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 24,
+      "airDate": "2026-11-27",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 478752,
+      "tvdbId": 12015285,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12015285/screencap/6b01ba8592811.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 24,
+      "airDate": "2026-12-04",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 478752,
+      "tvdbId": 12015286,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 24,
+      "airDate": "2026-12-11",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 478752,
+      "tvdbId": 12015287,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 24,
+      "airDate": "2026-12-18",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 478752,
+      "tvdbId": 12015288,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-08-01T04:17:48.575Z",
+    "lastFetched": "2026-11-21T17:49:58.568Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

@@ -28,13 +28,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-03T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-25T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -43,18 +43,20 @@
     "time": "00:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 9,
-    "airingAt": 1788449400
-  },
+  "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": 7.13,
-    "anilistScore": 6.7,
+    "malScore": 7.5,
+    "anilistScore": 7.1,
     "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
+    "Anthropomorphic",
     "Comedy",
+    "Fantasy",
+    "Seinen",
+    "Urban Fantasy",
     "Ecchi",
     "Slice of Life"
   ],
@@ -63,16 +65,20 @@
   ],
   "producers": [
     "Kodansha",
-    "Magic Capsule",
-    "Tokyo MX"
+    "NBCUniversal Entertainment Japan",
+    "TOKYO MX"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1281/156496l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207141-MvHAS2YVfJzL.jpg",
     "color": "#50a1f1"
   },
-  "trailer": null,
-  "synopsis": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever?\n\n(Source: Seven Seas Entertainment)",
+  "trailer": {
+    "youtubeId": "KYGgyQtSAdI",
+    "url": "https://www.youtube.com/watch?v=KYGgyQtSAdI",
+    "thumbnail": "https://i.ytimg.com/vi/KYGgyQtSAdI/hqdefault.jpg"
+  },
+  "synopsis": "The life of a catgirl named Yaniko \"Yani Neko\" Satou revolves solely around one thing: cigarettes. Due to her severe smoking addiction that causes extreme withdrawal symptoms, she struggles to lead a normal life. Even worse, she lives in a run-down apartment, is constantly low on funds, and even the most basic daily activities are a hurdle for her. Although her best attempts to stop smoking have not worked despite the many interventions from the people close to her, Yani Neko swears to quit one day—but her ambitious goal seems to drift further out of reach with every cigarette.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 64008,
@@ -83,7 +89,7 @@
       },
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208105-pYHSBy6n9naY.png",
       "format": "ONA",
-      "episodes": null,
+      "episodes": 22,
       "seasonYear": 2026,
       "relationType": "SIDE_STORY"
     }
@@ -91,165 +97,593 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-03",
       "title": {
-        "en": "Episode 1"
+        "en": "I`m a Chainsmoker Cat, Nya",
+        "ja": "ニャーがヤニねこにゃ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473423,
+      "tvdbId": 11588217,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11588217/screencap/6a44f0382a39d.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-10",
       "title": {
-        "en": "Episode 2"
+        "en": "Meet My Juniors, Nya",
+        "romaji": "Nyaa no Kouhai-tachi Nya",
+        "ja": "ニャーの後輩たちにゃ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473423,
+      "tvdbId": 11869967,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869967/screencap/6a4e1a132c43c.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-17",
       "title": {
-        "en": "Episode 3"
+        "en": "I`m More Straight Than Funny, Nya",
+        "romaji": "Nyaa wa Boke yori Tsukkomi yori Nya",
+        "ja": "ニャーはボケよりツッコミ寄りにゃ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473423,
+      "tvdbId": 11869968,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869968/screencap/6a575ebd56a22.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-24",
       "title": {
-        "en": "Episode 4"
+        "en": "Freaks All Around Me, Nya",
+        "romaji": "Nyaa no Mawari wa Henjin Bakari Nya",
+        "ja": "ニャーのまわりは変人ばかりにゃ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473423,
+      "tvdbId": 11869969,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869969/screencap/6a60a55847ded.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-31",
       "title": {
-        "en": "Episode 5"
+        "en": "We`re Off to a Secret Place, Nya",
+        "romaji": "Nyaa-tachi Hikyou ni Iku Nya",
+        "ja": "ニャーたち秘境に行くにゃ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473423,
+      "tvdbId": 11891075,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891075/screencap/6a6a00b903b46.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-07",
       "title": {
-        "en": "Episode 6"
+        "en": "Summer Starts and Ends Here, Nya",
+        "romaji": "Nyaa no Natsu ga Hajimatte Owaru Nya",
+        "ja": "ニャーの夏が始まって終わるにゃ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473423,
+      "tvdbId": 11891076,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891076/screencap/6a7300e742800.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-14",
       "title": {
-        "en": "Episode 7"
+        "en": "I Was Born to Parents Too, Nya",
+        "romaji": "Nyaa mo Oya kara Umareta Nya",
+        "ja": "ニャーも親から生まれたにゃ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473423,
+      "tvdbId": 11891077,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891077/screencap/6a7c4477ca452.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-21",
       "title": {
-        "en": "Episode 8"
+        "en": "Even We Run Around in December, Nya",
+        "romaji": "Nyaa-tachi mo Shiwasu wa Hashiru Nya",
+        "ja": "ニャーたちも師走は走るにゃ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 473423,
+      "tvdbId": 11891078,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891078/screencap/6a857b8d77b42.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-09-04",
+      "title": {
+        "en": "My Little Sis Is Popular, Nya",
+        "romaji": "Nyaa no Imouto-chan wa Motemote nya",
+        "ja": "ニャーの妹ちゃんはモテモテにゃ"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11891079,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891079/screencap/6a97e9ce222c6.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-11",
+      "title": {
+        "en": "I`m Gonnya Enjoy the Outing Too, Nya",
+        "romaji": "Nyaa mo Event o Tanoshimu nya",
+        "ja": "ニャーもイベントを楽しむにゃ"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11891080,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891080/screencap/6aa122f9b6e5b.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-18",
+      "title": {
+        "en": "We`re in Kyoto, Nya",
+        "romaji": "Nyaa-tachi in Kyoto nya",
+        "ja": "ニャーたち in 京都にゃ"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11891081,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891081/screencap/6aaa5f228acee.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-25",
+      "title": {
+        "en": "I`m Gonnya Smoke Even in the Last Episode, Nya",
+        "romaji": "Nyaa wa Saishuukai demo Yani o Suu nya",
+        "ja": "ニャーは最終回でもヤニを吸うにゃ"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11891082,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891082/screencap/6ab39b2548a34.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": 1,
+      "airDate": "2026-02-21",
+      "title": {
+        "en": "Mini Anime #1",
+        "romaji": "Mini Anime #1",
+        "ja": "ミニアニメ#01"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11936982,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11936982/screencap/6a94d65a8007a.jpg"
+    },
+    "S2": {
+      "episode": "S2",
+      "length": 1,
+      "airDate": "2026-03-21",
+      "title": {
+        "en": "Mini Anime #2",
+        "romaji": "Mini Anime #2",
+        "ja": "ミニアニメ#02"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11936983,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11936983/screencap/6a94d65b62e87.jpg"
+    },
+    "S3": {
+      "episode": "S3",
+      "length": 2,
+      "airDate": "2026-04-23",
+      "title": {
+        "en": "Mini Anime #3",
+        "romaji": "Mini Anime #3",
+        "ja": "ミニアニメ#03"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11936984,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11936984/screencap/6a94d65c064bc.jpg"
+    },
+    "S4": {
+      "episode": "S4",
+      "length": 1,
+      "airDate": "2026-05-07",
+      "title": {
+        "en": "Mini Anime #4",
+        "romaji": "Mini Anime #4",
+        "ja": "ミニアニメ#04"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11936985,
+      "seasonNumber": 0,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11936985/screencap/6a94d65cac2f5.jpg"
+    },
+    "S5": {
+      "episode": "S5",
+      "length": 1,
+      "airDate": "2026-05-21",
+      "title": {
+        "en": "Mini Anime #5",
+        "romaji": "Mini Anime #5",
+        "ja": "ミニアニメ#05"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11936986,
+      "seasonNumber": 0,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11936986/screencap/6a94d65d5555b.jpg"
+    },
+    "S6": {
+      "episode": "S6",
+      "length": 1,
+      "airDate": "2026-06-04",
+      "title": {
+        "en": "Mini Anime #6",
+        "romaji": "Mini Anime #6",
+        "ja": "ミニアニメ#06"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11936987,
+      "seasonNumber": 0,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11936987/screencap/6a94d65dd03aa.jpg"
+    },
+    "S7": {
+      "episode": "S7",
+      "length": 1,
+      "airDate": "2026-06-11",
+      "title": {
+        "en": "Mini Anime #7",
+        "romaji": "Mini Anime #7",
+        "ja": "ミニアニメ#07"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11936988,
+      "seasonNumber": 0,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11936988/screencap/6a94d65eb581e.jpg"
+    },
+    "S8": {
+      "episode": "S8",
+      "length": 1,
+      "airDate": "2026-06-18",
+      "title": {
+        "en": "Mini Anime #8",
+        "romaji": "Mini Anime #8",
+        "ja": "ミニアニメ#08"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11936989,
+      "seasonNumber": 0,
       "episodeNumber": 8,
       "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "runtime": 1,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11936989/screencap/6a94d65f446c5.jpg"
     },
-    "C1": {
-      "episode": "C1",
-      "length": "2m",
-      "airDate": "2026-07-03",
+    "S9": {
+      "episode": "S9",
+      "length": 1,
+      "airDate": "2026-06-25",
       "title": {
-        "en": "Opening"
+        "en": "Mini Anime #9",
+        "romaji": "Mini Anime #9",
+        "ja": "ミニアニメ#09"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
+      "tvdbShowId": 473423,
+      "tvdbId": 11936990,
+      "seasonNumber": 0,
+      "episodeNumber": 9,
       "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "runtime": 1,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11936990/screencap/6a94d6600d524.jpg"
     },
-    "C2": {
-      "episode": "C2",
-      "length": "2m",
-      "airDate": "2026-07-10",
+    "S10": {
+      "episode": "S10",
+      "length": 2,
+      "airDate": "2026-07-05",
       "title": {
-        "en": "Ending"
+        "en": "Mini Anime #10",
+        "romaji": "Mini Anime #10",
+        "ja": "ミニアニメ#10"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
+      "tvdbShowId": 473423,
+      "tvdbId": 11936991,
+      "seasonNumber": 0,
+      "episodeNumber": 10,
       "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11936991/screencap/6a94d66093303.jpg"
+    },
+    "S11": {
+      "episode": "S11",
+      "length": 1,
+      "airDate": "2026-07-12",
+      "title": {
+        "en": "Mini Anime #11",
+        "romaji": "Mini Anime #11",
+        "ja": "ミニアニメ#11"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11936992,
+      "seasonNumber": 0,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11936992/screencap/6a94d6614073b.jpg"
+    },
+    "S12": {
+      "episode": "S12",
+      "length": 2,
+      "airDate": "2026-07-19",
+      "title": {
+        "en": "Mini Anime #12",
+        "romaji": "Mini Anime #12",
+        "ja": "ミニアニメ#12"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11936993,
+      "seasonNumber": 0,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": null,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11936993/screencap/6a94d661c68b2.jpg"
+    },
+    "S13": {
+      "episode": "S13",
+      "length": 2,
+      "airDate": "2026-07-26",
+      "title": {
+        "en": "Mini Anime #13",
+        "romaji": "Mini Anime #13",
+        "ja": "ミニアニメ#13"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11936994,
+      "seasonNumber": 0,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": null,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11936994/screencap/6a94d662a4e94.jpg"
+    },
+    "S14": {
+      "episode": "S14",
+      "length": 1,
+      "airDate": "2026-08-09",
+      "title": {
+        "en": "Mini Anime #14",
+        "romaji": "Mini Anime #14",
+        "ja": "ミニアニメ#14"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11936995,
+      "seasonNumber": 0,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11936995/screencap/6a94d6635167f.jpg"
+    },
+    "S15": {
+      "episode": "S15",
+      "length": 2,
+      "airDate": "2026-08-16",
+      "title": {
+        "en": "Mini Anime #15",
+        "romaji": "Mini Anime #15",
+        "ja": "ミニアニメ#15"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11936996,
+      "seasonNumber": 0,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11936996/screencap/6a94d66400140.jpg"
+    },
+    "S16": {
+      "episode": "S16",
+      "length": 2,
+      "airDate": "2026-08-23",
+      "title": {
+        "en": "Mini Anime #16",
+        "romaji": "Mini Anime #16",
+        "ja": "ミニアニメ#16"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11936997,
+      "seasonNumber": 0,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": null,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11936997/screencap/6a94d664b4835.jpg"
+    },
+    "S17": {
+      "episode": "S17",
+      "length": 1,
+      "airDate": "2026-08-30",
+      "title": {
+        "en": "Mini Anime #17",
+        "romaji": "Mini Anime #17",
+        "ja": "ミニアニメ#17"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11960982,
+      "seasonNumber": 0,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11960982/screencap/6a99af6637d2d.jpg"
+    },
+    "S18": {
+      "episode": "S18",
+      "length": 1,
+      "airDate": "2026-09-05",
+      "title": {
+        "en": "Mini Anime #18",
+        "romaji": "Mini Anime #18",
+        "ja": "ミニアニメ#18"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11972227,
+      "seasonNumber": 0,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11972227/screencap/6aa2d9faa647f.jpg"
+    },
+    "S19": {
+      "episode": "S19",
+      "length": 1,
+      "airDate": "2026-09-13",
+      "title": {
+        "en": "Mini Anime #19",
+        "romaji": "Mini Anime #19",
+        "ja": "ミニアニメ#19"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11983753,
+      "seasonNumber": 0,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11983753/screencap/6aaed78de3e30.jpg"
+    },
+    "S20": {
+      "episode": "S20",
+      "length": 1,
+      "airDate": "2026-09-20",
+      "title": {
+        "en": "Mini Anime #20",
+        "romaji": "Mini Anime #20",
+        "ja": "ミニアニメ#20"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 11995732,
+      "seasonNumber": 0,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11995732/screencap/6ab12e5fa0711.jpg"
+    },
+    "S21": {
+      "episode": "S21",
+      "length": 1,
+      "airDate": "2026-09-27",
+      "title": {
+        "en": "Mini Anime #21",
+        "romaji": "Mini Anime #21",
+        "ja": "ミニアニメ#21"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 12006362,
+      "seasonNumber": 0,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": null,
+      "runtime": 1,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12006362/screencap/6abc3d8df2464.jpg"
+    },
+    "S22": {
+      "episode": "S22",
+      "length": 2,
+      "airDate": "2026-11-07",
+      "title": {
+        "en": "Mini Anime #22",
+        "romaji": "Mini Anime #22",
+        "ja": "ミニアニメ#22"
+      },
+      "tvdbShowId": 473423,
+      "tvdbId": 12077871,
+      "seasonNumber": 0,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": null,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12077871/screencap/6aefad9fdcf40.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:49:07.397Z",
+    "lastFetched": "2026-11-21T17:44:59.984Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

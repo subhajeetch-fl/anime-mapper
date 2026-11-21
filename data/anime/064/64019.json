@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 64019,
     "livechart": null,
-    "animeplanet": null,
+    "animeplanet": "sound-euphonium-the-final-movie-part-2",
     "anisearch": null,
     "notify": null
   },
@@ -27,49 +27,48 @@
   },
   "type": "Movie",
   "source": "Novel",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 127,
   "aired": {
     "from": "2026-09-11T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-11T00:00:00+00:00"
   },
-  "season": "fall",
+  "season": "summer",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
-  "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1789052400
-  },
+  "broadcast": null,
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.49,
+    "anilistScore": 7.4,
     "kitsuRating": null
   },
   "genres": [
     "Drama",
     "Music",
+    "Performing Arts",
+    "School",
     "Slice of Life"
   ],
   "studios": [
     "Kyoto Animation"
   ],
   "producers": [
-    "Lantis",
-    "Heart Company"
+    "Pony Canyon",
+    "Kyoto Animation"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1735/158372l.jpg",
     "banner": null,
-    "color": "#f1c95d"
+    "color": "#e49350"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "cQxTu272gZU",
+    "url": "https://www.youtube.com/watch?v=cQxTu272gZU",
+    "thumbnail": "https://i.ytimg.com/vi/cQxTu272gZU/hqdefault.jpg"
+  },
   "synopsis": "Second half of Saishuu Gakushou Hibike! Euphonium.",
   "sequence": [
     {
@@ -99,17 +98,37 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:58:43.140Z",
+    "lastFetched": "2026-11-21T17:48:42.555Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

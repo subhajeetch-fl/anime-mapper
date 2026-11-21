@@ -25,7 +25,7 @@
       "Mister Clice"
     ]
   },
-  "type": null,
+  "type": "unknown",
   "source": "Manga",
   "status": "Not yet aired",
   "airing": false,
@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -52,7 +48,8 @@
   "genres": [
     "Action",
     "Adventure",
-    "Comedy"
+    "Comedy",
+    "Shounen"
   ],
   "studios": [],
   "producers": [],
@@ -66,12 +63,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T06:50:10.038Z",
+    "lastFetched": "2026-11-21T17:43:02.482Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

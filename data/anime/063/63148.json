@@ -4,7 +4,7 @@
   "mappings": {
     "mal": 63148,
     "anilist": 206160,
-    "anidb": null,
+    "anidb": 20107,
     "kitsu": null,
     "simkl": null,
     "tmdb": null,
@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 63148,
     "livechart": null,
-    "animeplanet": null,
+    "animeplanet": "eclipse-of-illusion-ii",
     "anisearch": null,
     "notify": null
   },
@@ -35,18 +35,14 @@
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": 26,
-  "episodeLength": null,
+  "episodeLength": 22,
   "aired": {
-    "from": null,
+    "from": "2026-01-01T00:00:00+00:00",
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -57,7 +53,9 @@
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Historical",
+    "Martial Arts"
   ],
   "studios": [
     "Yien Animation Studio",
@@ -90,12 +88,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T06:50:27.640Z",
+    "lastFetched": "2026-11-21T17:43:19.788Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

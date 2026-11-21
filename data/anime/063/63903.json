@@ -4,56 +4,52 @@
   "mappings": {
     "mal": 63903,
     "anilist": 198654,
-    "anidb": null,
-    "kitsu": null,
-    "simkl": null,
+    "anidb": 20218,
+    "kitsu": 51000,
+    "simkl": 3196702,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 63903,
-    "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
+    "livechart": 13596,
+    "animeplanet": "star-detective-pretty-cure-the-movie",
+    "anisearch": 21953,
     "notify": null
   },
   "title": {
     "romaji": "Meitantei Precure! Fushigi na Niwa to Futari no Himitsu",
-    "english": null,
+    "english": "Star Detective Precure! The Movie: The Mysterious Garden and a Secret Pair",
     "native": "名探偵プリキュア！不思議な庭と2人の秘密",
-    "synonyms": []
+    "synonyms": [
+      "TanPuri"
+    ]
   },
   "type": "Movie",
   "source": "Original",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 71,
   "aired": {
     "from": "2026-09-18T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-18T00:00:00+00:00"
   },
-  "season": "fall",
+  "season": "summer",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
-  "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1789657200
-  },
+  "broadcast": null,
+  "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.92,
+    "anilistScore": 6.3,
     "kitsuRating": null
   },
   "genres": [
     "Action",
-    "Mystery",
-    "Mahou Shoujo"
+    "Detective",
+    "Mahou Shoujo",
+    "Mystery"
   ],
   "studios": [
     "Toei Animation"
@@ -64,7 +60,11 @@
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198654-27XG8xYEjUxB.jpg",
     "color": "#43f1d6"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "I4bvd2Iihkc",
+    "url": "https://www.youtube.com/watch?v=I4bvd2Iihkc",
+    "thumbnail": "https://i.ytimg.com/vi/I4bvd2Iihkc/hqdefault.jpg"
+  },
   "synopsis": "When a mysterious incident spreads across the city, Anna and her friends begin a new investigation that leads them to a dreamlike place known as Karin's Garden. As new clues emerge and hidden secrets come to light, the Star Detective Precure team must work together to uncover the truth.\n\nFeaturing an exciting movie-exclusive story and a special crossover with You and Idol Precure♪ and Wonderful Precure!, a brand-new mystery is about to begin.\n\n(Source: Official Twitter)",
   "sequence": [
     {
@@ -105,19 +105,52 @@
       "episodes": 51,
       "seasonYear": 2026,
       "relationType": "PARENT"
+    },
+    {
+      "malId": null,
+      "title": {
+        "romaji": "Eiga Precure Saishinsaku (Provisional Title)",
+        "english": null,
+        "native": "映画プリキュア最新作（仮）"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "format": "MOVIE",
+      "episodes": null,
+      "seasonYear": null,
+      "relationType": "OTHER"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:56:34.395Z",
+    "lastFetched": "2026-11-21T17:47:37.864Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

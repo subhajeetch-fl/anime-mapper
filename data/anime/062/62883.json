@@ -29,13 +29,13 @@
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
   "episodeLength": 12,
   "aired": {
     "from": "2026-07-02T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-17T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -44,17 +44,15 @@
     "time": "21:40",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788439200
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.29,
+    "malScore": 7.25,
     "anilistScore": 7.4,
     "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
     "Comedy",
     "Slice of Life",
     "Supernatural"
@@ -64,21 +62,25 @@
     "Nomad"
   ],
   "producers": [
-    "WOWOW",
-    "Lantis",
+    "KADOKAWA",
+    "bones",
+    "Bandai Namco Music Live",
     "Movic",
-    "Glovision",
     "Crunchyroll",
-    "Kadokawa",
     "Sony Music Solutions",
-    "Bandai Namco Music Live"
+    "WOWOW",
+    "Nomad"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1591/157071l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1591/157071l.webp",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201667-QYNOqPVSG3vi.jpg",
     "color": "#e46b5d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "xrGcSD7-miY",
+    "url": "https://www.youtube.com/watch?v=xrGcSD7-miY",
+    "thumbnail": "https://i.ytimg.com/vi/xrGcSD7-miY/hqdefault.jpg"
+  },
   "synopsis": "Second season of Bungou Stray Dogs Wan!.",
   "sequence": [
     {
@@ -98,135 +100,220 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-07-02",
       "title": {
-        "en": "Bungo Stray Dogs Wan! The Real Returns! / Atsushi`s Sweet Recipe / Relativistic Dazai"
+        "en": "Bungo Stray Dogs Wan! The Real Returns! / Atsushi`s Sweet Recipe / Relativistic Dazai",
+        "romaji": "Bungou Stray Dogs Wan! The Real Returns! / Atsushi no Sweets Cooking / Soutairontekisei Dazai",
+        "ja": "文豪ストレイドッグス わん! THE REAL RETURNS! / 敦のスイーツ☆クッキング / 相対論的太宰"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 392195,
+      "tvdbId": 11862072,
+      "seasonNumber": 2,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 13,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11862072/screencap/6a3e8a8636089.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-07-09",
       "title": {
-        "en": "Late Night Summons and Service / Between Freedom and Duty / Atsushi-kun and the Angel and Devil / Wan! Shorts: Won`t Stop Counting Up"
+        "en": "Late Night Summons and Service / Between Freedom and Duty / Atsushi-kun and the Angel and Devil / Wan! Shorts: Won`t Stop Counting Up",
+        "romaji": "Shin`ya no Yobidashi Omotenashi / Jiyuu to Gimu no Hazama de / Atsushi-kun to Tenshi to Akuma / Wan! Koneta: Count up ga Tomaranai",
+        "ja": "深夜の呼び出しおもてなし / 自由と義務のはざまで / 敦君と天使と悪魔 / わん! 小ネタ カウントアップが 止まらない"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 392195,
+      "tvdbId": 11869842,
+      "seasonNumber": 2,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 14,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869842/screencap/6a4e6a208408a.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-07-16",
       "title": {
-        "en": "The Hunting Dogs Are Here! / Investigate the Strongest Military Police Squad! / The Ultimate Military Police Science Squad`s (Super Scary) Hunting Dog Reasearch Lab"
+        "en": "The Hunting Dogs Are Here! / Investigate the Strongest Military Police Squad! / The Ultimate Military Police Science Squad`s (Super Scary) Hunting Dog Reasearch Lab",
+        "romaji": "Ryouken ga Kita! / Sagure! Gunkei Saikyou Butai / Gunkei Saikyou Kagaku (Parallel) Butai Ryouken (Kowai Wanwan) Kenkyuujo",
+        "ja": "猟犬が来た! / 探れ! 軍警最強部隊 / 軍警最強科学 (ぱられる) 部隊猟犬 (こわいわんわん) 研究所"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 392195,
+      "tvdbId": 11869843,
+      "seasonNumber": 2,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 15,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869843/screencap/6a58437959e1d.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-07-23",
       "title": {
-        "en": "Episode 4"
+        "en": "Laid-Back Guild / We Intelligent Men / Kyou-chan and Lu-chan",
+        "romaji": "Yuru Guild / Atama no Yoi Bokutachi wa / Kyou-chan to Lu-chan",
+        "ja": "ゆるぎるど / 頭の善い僕たちは / きょーちゃんとルーちゃん"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 392195,
+      "tvdbId": 11869844,
+      "seasonNumber": 2,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 16,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869844/screencap/6a6180de2c103.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-07-30",
       "title": {
-        "en": "Episode 5"
+        "en": "Bungo Stray Dogs Preschool 2!",
+        "romaji": "Bun Suto Hoikuen 2!",
+        "ja": "文ストほいくえん2!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 392195,
+      "tvdbId": 11869845,
+      "seasonNumber": 2,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 17,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869845/screencap/6a696b3e4fca9.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-08-06",
       "title": {
-        "en": "Episode 6"
+        "en": "Reclaim Your Bygone Youth! / Oddly Incompatible / Wan! Shorts: The Cat, Akutagawa, and the Suspicious Gaze",
+        "romaji": "Torimodose! Seishun! Sugisatta! Seishun! / Bimyou ni Kamiawanai Futari / Wan! Koneta: Cat! to Yatsugare Giwaku no Manazashi",
+        "ja": "取り戻せ! 青春! 過ぎ去った! 青春! / 微妙に嚙み合わない二人 / わん! 小ネタ キャッ! とやつがれ疑惑の眼差し"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 392195,
+      "tvdbId": 11869846,
+      "seasonNumber": 2,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 18,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869846/screencap/6a73b96b03f48.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-08-13",
       "title": {
-        "en": "Episode 7"
+        "en": "Strength Is Everything! Survive the Night! / Sigma`s Secret",
+        "romaji": "Chikara Koso Subete! Ikinokore Night! / Sigma-kun no Himitsu",
+        "ja": "力こそ全て! 生き残れNight! / シグマくんのひ・み・つ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 392195,
+      "tvdbId": 11869847,
+      "seasonNumber": 2,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 19,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869847/screencap/6a7d25fb190bb.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-08-20",
       "title": {
-        "en": "Episode 8"
+        "en": "Clash! At a Dangerous Field Day!",
+        "romaji": "Gekitotsu! Kiken na Undoukai!",
+        "ja": "激突! 危険な運動会!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 392195,
+      "tvdbId": 11869848,
+      "seasonNumber": 2,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 20,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869848/screencap/6a86e22ec2e51.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 15,
+      "airDate": "2026-08-27",
+      "title": {
+        "en": "The Oddly Delightful Meeting / Seize the Invisible Hand of God / A Certain Secret Meeting / Early Days",
+        "romaji": "Kimyou de Yukai na Machiawase / Kami no Miezaru Te o Tsukamu / Toaru Himitsu no Kaigou / Setsuritsu Hoyahoya Monogatari",
+        "ja": "奇妙で愉快な待ち合わせ / 神の見えざる手を掴む / とある秘密の会合 / 設立ほやほや物語"
+      },
+      "tvdbShowId": 392195,
+      "tvdbId": 11869849,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869849/screencap/6a902f5ae5a91.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 15,
+      "airDate": "2026-09-03",
+      "title": {
+        "en": "Dazai, Chuuya, Age 14 (Edgelord Era): Personal Tastes / Dazai, Chuuya, Age 14: Hypothetically Speaking / An Ambitious Age / Wan! Shorts: New Teacher Atsushi-sensei!!",
+        "romaji": "Dazai, Chuuya, Juuyonsai (Chuunibyou): Shumi no Shou / Dazai, Chuuya, Juuyonsai: Moshimo Chikara ga Atta Nara / Senobi Shitai Otoshigoro-tachi / Wan! Koneta: Shinnin Kyoushi - Atsushi-sensei!!",
+        "ja": "太宰, 中也, 十四歳 (中二病) ~ 趣味の章 / 太宰, 中也, 十四歳 ~ もしも力があったなら / 背伸びしたいお年頃たち / わん! 小ネタ 新任教師 敦先生!!"
+      },
+      "tvdbShowId": 392195,
+      "tvdbId": 11869850,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869850/screencap/6a995f557fd07.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 15,
+      "airDate": "2026-09-10",
+      "title": {
+        "en": "Wan! The Dark Era Chapter 2",
+        "romaji": "Wan! Kuro no Jidai Hen: Daini Shou",
+        "ja": "わん! 黒の時代編 第二章"
+      },
+      "tvdbShowId": 392195,
+      "tvdbId": 11869851,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869851/screencap/6aa2a422be360.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 15,
+      "airDate": "2026-09-17",
+      "title": {
+        "en": "Write, Mushitarou-kun, Write! / Don`t Go / May I Take Your Picture? / Wan! Shorts: The Real Returns! 2",
+        "romaji": "Kake! Kake! Mushitarou-kun / Kaeccha Yaa yo / Oshashin Ichimai Ii Desuka? / Wan! Koneta: The Real Returns! 2",
+        "ja": "書け! 書け! 虫太郎くん / 帰っちゃやーよ / お写真一枚良いですか? / わん! 小ネタ THE REAL RETURNS!2"
+      },
+      "tvdbShowId": 392195,
+      "tvdbId": 11869852,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869852/screencap/6aabdefee0b07.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:37:04.455Z",
+    "lastFetched": "2026-11-21T17:40:42.240Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

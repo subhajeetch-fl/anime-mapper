@@ -25,8 +25,8 @@
   },
   "type": "OVA",
   "source": "Original",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
@@ -35,19 +35,15 @@
   },
   "season": "summer",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1787842800
+    "episode": 2,
+    "airingAt": 1795705200
   },
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.41,
+    "anilistScore": 5.8,
     "kitsuRating": null
   },
   "genres": [
@@ -56,9 +52,7 @@
   "studios": [
     "Nur"
   ],
-  "producers": [
-    "Nur"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1911/158239l.jpg",
     "banner": null,
@@ -69,12 +63,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-08-01T04:17:37.571Z",
+    "lastFetched": "2026-11-21T17:49:47.995Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

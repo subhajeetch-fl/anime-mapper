@@ -13,7 +13,7 @@
     "traktType": "shows",
     "shikimori": 63324,
     "livechart": 13485,
-    "animeplanet": "iwamoto-senpai-no-suisen",
+    "animeplanet": "recommendations-from-iwamoto-senpai",
     "anisearch": 21168,
     "notify": null
   },
@@ -27,13 +27,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-04T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-19T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -42,17 +42,17 @@
     "time": "22:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788615000
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.15,
-    "anilistScore": 5.1,
+    "malScore": 5.88,
+    "anilistScore": 5.5,
     "kitsuRating": null
   },
   "genres": [
+    "Historical",
+    "Military",
+    "Seinen",
     "Supernatural",
     "Action"
   ],
@@ -60,60 +60,231 @@
     "Studio Deen"
   ],
   "producers": [
-    "Half H.P Studio",
     "Hakuhodo DY Music & Pictures",
-    "Good Smile Film"
+    "Good Smile Film",
+    "Good Smile Company",
+    "LDH JAPAN",
+    "Bushiroad Move",
+    "BS Fuji"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1112/158450l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206249-gKJUJDCbMjDT.jpg",
     "color": "#fed650"
   },
-  "trailer": null,
-  "synopsis": "The 1910s. Iwamoto Kodo, a student at Suho Junior High School under direct command of the army, is investigating paranormal phenomena across the country as per military instruction. In a village rumoured to have \"black snow,\" he meets a boy with special powers who believes them to be an illness; through Iwamoto's support, he realises they might have something in common and receives a recommendation to the school. Mysteries await Iwamoto at each place he visits–a romantic tale of this era begins to unravel!\n\n(Source: MAL News)",
+  "trailer": {
+    "youtubeId": "5Q2OFIvOME0",
+    "url": "https://www.youtube.com/watch?v=5Q2OFIvOME0",
+    "thumbnail": "https://i.ytimg.com/vi/5Q2OFIvOME0/hqdefault.jpg"
+  },
+  "synopsis": "The 1910s. Iwamoto Kodou, a student at Suho Middle School under direct command of the army, is investigating paranormal phenomena across the country as per military instruction. In a village rumoured to have \"black snow,\" he meets a boy with special powers who believes them to be an illness; through Iwamoto's support, he realises they might have something in common and receives a recommendation to the school. Mysteries await Iwamoto at each place he visits–a romantic tale of this era begins to unravel!\n\n(Source: MAL News)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-04",
       "title": {
-        "en": "Black Snow"
+        "en": "Black Snow",
+        "ja": "黒イ雪"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 472831,
+      "tvdbId": 11818397,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11818397/screencap/6a464ebb1c038.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-11",
       "title": {
-        "en": "The Bond-Severing Sickles"
+        "en": "The Bond-Severing Sickles",
+        "ja": "縁切リノ鎌"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 472831,
+      "tvdbId": 11872160,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872160/screencap/6a51933105a68.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-07-18",
+      "title": {
+        "en": "The Lad Who Loved Insects",
+        "ja": "蟲愛ヅル君"
+      },
+      "tvdbShowId": 472831,
+      "tvdbId": 11872161,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872161/screencap/6a599207010c3.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-07-25",
+      "title": {
+        "en": "The Legend of the Dead and the Gas Refinery",
+        "ja": "屍人伝説ト瓦斯工場"
+      },
+      "tvdbShowId": 472831,
+      "tvdbId": 11872162,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872162/screencap/6a6407ae089e8.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-01",
+      "title": {
+        "en": "Deicidal Flame",
+        "ja": "神殺シノ炎"
+      },
+      "tvdbShowId": 472831,
+      "tvdbId": 11872163,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872163/screencap/6a6a1737e309d.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-08",
+      "title": {
+        "en": "Invasion of the Witches",
+        "ja": "魔女ノ侵攻"
+      },
+      "tvdbShowId": 472831,
+      "tvdbId": 11872164,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872164/screencap/6a73bbfc27177.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-15",
+      "title": {
+        "en": "Echoes of Destruction",
+        "ja": "残響ノ廃音"
+      },
+      "tvdbShowId": 472831,
+      "tvdbId": 11872165,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872165/screencap/6a7de9fb14bc5.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-22",
+      "title": {
+        "en": "AKA the Box Man",
+        "ja": "通称・怪奇箱男"
+      },
+      "tvdbShowId": 472831,
+      "tvdbId": 11872166,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872166/screencap/6a88822bbc1a7.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-29",
+      "title": {
+        "en": "The Gap Man and the Box Man",
+        "ja": "隙間男ト箱男"
+      },
+      "tvdbShowId": 472831,
+      "tvdbId": 11872167,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872167/screencap/6a921889a0b96.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-05",
+      "title": {
+        "en": "The Simultaneous Shooting Stars & the Signal Man & the Spirit Photo Man",
+        "ja": "同時多発流星事件ト電波物件ト念写男"
+      },
+      "tvdbShowId": 472831,
+      "tvdbId": 11872168,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872168/screencap/6a9b6a1aeb7d0.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-12",
+      "title": {
+        "en": "The Poison Man",
+        "ja": "毒男"
+      },
+      "tvdbShowId": 472831,
+      "tvdbId": 11872169,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872169/screencap/6aa4b5d0ba73f.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-19",
+      "title": {
+        "en": "Star Anise",
+        "romaji": "Shikimi",
+        "ja": "樒"
+      },
+      "tvdbShowId": 472831,
+      "tvdbId": 11872170,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872170/screencap/6aad9ba6393f6.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:47:18.031Z",
+    "lastFetched": "2026-11-21T17:44:26.764Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }
