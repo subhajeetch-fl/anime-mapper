@@ -43,6 +43,7 @@ jobs:
 
       - name: Discover ids
         env:
+          MAL_CLIENT_ID: "${{ secrets.MAL_CLIENT_ID }}"
           FULL_INPUT: "${{ inputs.full || false }}"
           MAX_PAGES_INPUT: "${{ inputs.max_pages || '' }}"
         run: |

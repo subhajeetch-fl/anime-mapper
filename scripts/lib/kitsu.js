@@ -2,14 +2,12 @@
  * Kitsu API client (JSON:API format).
  * Docs: https://kitsu.docs.apiary.io/
  *
- * Kitsu doesn't accept a MAL id directly, so we resolve it through the
- * `mappings` endpoint first, then fetch the full anime resource.
- * Used as a FALLBACK/enrichment source when Jikan is missing fields
- * (e.g. ageRating, an alternate synopsis, or Jikan is down).
+ * Kitsu is used as a fallback/enrichment source when MAL official lacks
+ * fields (e.g. ageRating, synopsis, episodeLength) or when episode fallback is needed.
  */
 import { fetchJson } from './httpClient.js';
 
-const BASE_URL = 'https://kitsu.io/api/edge';
+const BASE_URL = 'https://kitsu.app/api/edge';
 
 const KITSU_STATUS_MAP = {
   current: 'Currently Airing',
@@ -22,7 +20,7 @@ const KITSU_STATUS_MAP = {
  * @param {number|string} malId
  * @returns {Promise<string|null>} Kitsu anime id, or null if unmapped
  */
-async function resolveKitsuIdFromMalId(malId) {
+export async function resolveKitsuIdFromMalId(malId) {
   const json = await fetchJson(
     `${BASE_URL}/mappings?filter[externalSite]=myanimelist/anime&filter[externalId]=${malId}&include=item`,
     { label: 'Kitsu mappings', retries: 2, baseDelayMs: 1500 }
@@ -34,11 +32,11 @@ async function resolveKitsuIdFromMalId(malId) {
 }
 
 /**
- * @param {number|string} malId
- * @returns {Promise<object|null>} raw Kitsu anime resource (data.attributes), or null
+ * Fetch anime resource directly using Kitsu ID (saves an extra /mappings call if kitsu ID is already known).
+ * @param {number|string} kitsuId
+ * @returns {Promise<object|null>} raw Kitsu anime resource with derivedGenres, or null
  */
-export async function getAnimeByMalId(malId) {
-  const kitsuId = await resolveKitsuIdFromMalId(malId);
+export async function getAnimeByKitsuId(kitsuId) {
   if (!kitsuId) return null;
 
   const json = await fetchJson(`${BASE_URL}/anime/${kitsuId}?include=genres,categories`, {
@@ -54,6 +52,79 @@ export async function getAnimeByMalId(malId) {
     .filter(Boolean);
 
   return { ...json.data, kitsuId, derivedGenres: [...new Set(genres)] };
+}
+
+/**
+ * @param {number|string} malId
+ * @returns {Promise<object|null>} raw Kitsu anime resource with derivedGenres, or null
+ */
+export async function getAnimeByMalId(malId) {
+  const kitsuId = await resolveKitsuIdFromMalId(malId);
+  if (!kitsuId) return null;
+  return getAnimeByKitsuId(kitsuId);
+}
+
+/**
+ * Fetch all episodes for an anime from Kitsu with pagination.
+ * @param {number|string} kitsuId
+ * @returns {Promise<Array>} Array of raw Kitsu episode resources
+ */
+export async function getAllEpisodes(kitsuId) {
+  if (!kitsuId) return [];
+  const episodes = [];
+  let offset = 0;
+  const limit = 20;
+
+  while (true) {
+    const json = await fetchJson(
+      `${BASE_URL}/anime/${kitsuId}/episodes?page[limit]=${limit}&page[offset]=${offset}`,
+      { label: 'Kitsu episodes', retries: 2, baseDelayMs: 1500 }
+    );
+    if (!json?.data || !Array.isArray(json.data) || json.data.length === 0) {
+      break;
+    }
+    episodes.push(...json.data);
+    if (!json.links?.next || json.data.length < limit) {
+      break;
+    }
+    offset += limit;
+    if (offset > 1500) break;
+  }
+  return episodes;
+}
+
+/**
+ * Normalizes Kitsu episode resources into our project's episode schema.
+ * @param {Array} rawEpisodes
+ * @returns {Record<string, object>} keyed by episode number string
+ */
+export function normalizeKitsuEpisodes(rawEpisodes) {
+  const result = {};
+  if (!rawEpisodes || !Array.isArray(rawEpisodes)) return result;
+
+  for (const ep of rawEpisodes) {
+    const a = ep.attributes ?? {};
+    const epNum = String(a.number ?? a.relativeNumber ?? ep.id ?? '0');
+    result[epNum] = {
+      episode: epNum,
+      length: a.length ? `${a.length}m` : null,
+      airDate: a.airdate ?? null,
+      title: {
+        en: a.titles?.en_us ?? a.titles?.en ?? a.canonicalTitle ?? null,
+        romaji: a.titles?.en_jp ?? null,
+        ja: a.titles?.ja_jp ?? null,
+      },
+      tvdbShowId: null,
+      tvdbId: null,
+      seasonNumber: a.seasonNumber ?? null,
+      episodeNumber: a.number ?? null,
+      absoluteEpisodeNumber: a.number ?? null,
+      runtime: a.length ?? null,
+      image: a.thumbnail?.original ?? null,
+    };
+  }
+
+  return result;
 }
 
 /** Normalizes a raw Kitsu resource into our internal shape. */
@@ -72,7 +143,6 @@ export function normalizeKitsu(raw) {
     synopsis: a.synopsis ?? null,
     episodeCount: a.episodeCount ?? null,
     episodeLength: a.episodeLength ?? null, // minutes
-    // Kitsu uses a 0-100 scale; we normalize to a 0-10 scale to align with MAL/AniList.
     averageRating: a.averageRating ? Number((a.averageRating / 10).toFixed(2)) : null,
     ageRating: a.ageRating ?? null,
     ageRatingGuide: a.ageRatingGuide ?? null,

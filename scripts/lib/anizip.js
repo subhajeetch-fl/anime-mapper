@@ -14,8 +14,7 @@
  * rate limit as of this writing, but treat it conservatively (small delay
  * between calls, retries with backoff) since it's a free community service.
  *
- * Endpoint takes an AniList id (preferred) - which is why idMapping.js
- * must run BEFORE this client in the pipeline.
+ * Endpoint takes an AniList id (preferred) or an AniDB id.
  */
 import { fetchJson } from './httpClient.js';
 
@@ -28,7 +27,20 @@ const BASE_URL = 'https://api.ani.zip/mappings';
 export async function getEpisodesByAniListId(anilistId) {
   if (!anilistId) return null;
   return fetchJson(`${BASE_URL}?anilist_id=${anilistId}`, {
-    label: 'Zenshin',
+    label: 'Zenshin (AniList)',
+    retries: 3,
+    baseDelayMs: 1500,
+  });
+}
+
+/**
+ * @param {number|string} anidbId
+ * @returns {Promise<object|null>} raw AniZip payload, or null if no match
+ */
+export async function getEpisodesByAniDbId(anidbId) {
+  if (!anidbId) return null;
+  return fetchJson(`${BASE_URL}?anidb_id=${anidbId}`, {
+    label: 'Zenshin (AniDB)',
     retries: 3,
     baseDelayMs: 1500,
   });
@@ -41,7 +53,7 @@ export async function getEpisodesByAniListId(anilistId) {
  * consistent shape even when AniZip itself is missing a field for a given
  * episode (common for very new or very old/obscure titles).
  *
- * @param {object} rawAniZip - full response from getEpisodesByAniListId
+ * @param {object} rawAniZip - full response from getEpisodesByAniListId or getEpisodesByAniDbId
  * @returns {Record<string, object>} keyed by episode number string, e.g. "1"
  */
 export function normalizeEpisodes(rawAniZip) {

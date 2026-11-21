@@ -39,6 +39,7 @@ jobs:
 
       - name: Add discovered anime
         env:
+          MAL_CLIENT_ID: "${{ secrets.MAL_CLIENT_ID }}"
           DISCORD_WEBHOOK_URL: "${{ secrets.DISCORD_WEBHOOK_URL }}"
           BATCH_SIZE_INPUT: "${{ inputs.batch_size || '2000' }}"
         run: |

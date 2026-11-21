@@ -2,7 +2,7 @@ import { fetchJson } from './httpClient.js';
 
 const ENDPOINT = 'https://graphql.anilist.co';
 
-const QUERY =  `
+const QUERY = /* GraphQL */ `
   query ($idMal: Int) {
     Media(idMal: $idMal, type: ANIME) {
       id
@@ -15,20 +15,40 @@ const QUERY =  `
       synonyms
       format
       status
+      source
       season
       seasonYear
       episodes
       duration
       genres
       averageScore
+      description(asHtml: false)
+      startDate {
+        year
+        month
+        day
+      }
+      endDate {
+        year
+        month
+        day
+      }
       coverImage {
         extraLarge
         color
       }
       bannerImage
-      studios(isMain: true) {
-        nodes {
-          name
+      trailer {
+        id
+        site
+        thumbnail
+      }
+      studios {
+        edges {
+          isMain
+          node {
+            name
+          }
         }
       }
       nextAiringEpisode {
@@ -65,6 +85,24 @@ const QUERY =  `
   }
 `;
 
+function fuzzyDateToISO(d) {
+  if (!d || !Number.isInteger(d.year)) return null;
+  const y = String(d.year).padStart(4, '0');
+  const m = String(d.month || 1).padStart(2, '0');
+  const day = String(d.day || 1).padStart(2, '0');
+  return `${y}-${m}-${day}T00:00:00+00:00`;
+}
+
+function cleanDescription(desc) {
+  if (!desc || typeof desc !== 'string') return null;
+  return (
+    desc
+      .replace(/<br\s*\/?>/gi, '\n')
+      .replace(/<[^>]+>/g, '')
+      .trim() || null
+  );
+}
+
 /**
  * @param {number|string} malId
  * @returns {Promise<object|null>} raw AniList Media object, or null if not found
@@ -95,6 +133,25 @@ export async function getAnimeByMalId(malId) {
 export function normalizeAniList(raw) {
   if (!raw) return null;
 
+  const studioEdges = raw.studios?.edges ?? [];
+  const studios = studioEdges
+    .filter((e) => e.isMain && e.node?.name)
+    .map((e) => e.node.name);
+  const producers = studioEdges
+    .filter((e) => !e.isMain && e.node?.name)
+    .map((e) => e.node.name);
+
+  const trailer =
+    raw.trailer?.site?.toLowerCase() === 'youtube' && raw.trailer?.id
+      ? {
+          youtubeId: raw.trailer.id,
+          url: `https://www.youtube.com/watch?v=${raw.trailer.id}`,
+          thumbnail:
+            raw.trailer.thumbnail ??
+            `https://img.youtube.com/vi/${raw.trailer.id}/maxresdefault.jpg`,
+        }
+      : null;
+
   return {
     anilistId: raw.id,
     titles: {
@@ -105,29 +162,28 @@ export function normalizeAniList(raw) {
     synonyms: raw.synonyms ?? [],
     format: raw.format ?? null,
     status: raw.status ?? null,
+    source: raw.source ?? null,
     season: raw.season ?? null,
     seasonYear: raw.seasonYear ?? null,
     episodeCount: raw.episodes ?? null,
     duration: raw.duration ?? null,
     genres: raw.genres ?? [],
     averageScore: raw.averageScore != null ? Number((raw.averageScore / 10).toFixed(2)) : null,
+    synopsis: cleanDescription(raw.description),
+    aired: {
+      from: fuzzyDateToISO(raw.startDate),
+      to: fuzzyDateToISO(raw.endDate),
+    },
     coverImage: raw.coverImage?.extraLarge ?? null,
     coverColor: raw.coverImage?.color ?? null,
     bannerImage: raw.bannerImage ?? null,
-    studios: (raw.studios?.nodes ?? []).map((s) => s.name),
+    trailer,
+    studios,
+    producers,
     nextAiringEpisode: raw.nextAiringEpisode
       ? { episode: raw.nextAiringEpisode.episode, airingAt: raw.nextAiringEpisode.airingAt }
       : null,
-    // "sequence": the chronological list of related ANIME titles (manga/
-    // novel/one-shot sources and other non-anime relations are filtered
-    // out - this is meant to show watch order, not the source material).
-    // Sourced from AniList because it gives a title/image/format/episodes/
-    // seasonYear per related entry directly; Jikan's relations only give
-    // { malId, type, name } grouped by relation type, which isn't enough
-    // to render a "related anime" card without a follow-up lookup per
-    // entry. Sorted oldest-first by release date (falls back to
-    // seasonYear, then to "unknown" sorted last) so the array order
-    // itself tells you what came first.
+    // "sequence": chronological list of related ANIME titles (watch order).
     sequence: (raw.relations?.edges ?? [])
       .filter((edge) => edge.node && edge.node.type === 'ANIME')
       .map((edge) => ({
@@ -151,9 +207,7 @@ export function normalizeAniList(raw) {
 
 /**
  * Builds a sortable number from an AniList FuzzyDate + seasonYear so
- * related titles can be ordered oldest-first even when some entries only
- * have a year (or nothing at all). Missing dates sort to the very end
- * rather than being guessed at.
+ * related titles can be ordered oldest-first.
  */
 function relationSortKey(startDate, seasonYear) {
   if (startDate?.year) {

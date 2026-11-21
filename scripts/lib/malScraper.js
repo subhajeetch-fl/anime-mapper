@@ -1,116 +1,138 @@
 /**
- * MAL id discovery through Jikan's paginated /anime listing.
+ * MAL ID discovery using offline database snapshots and live Official MAL API feeds.
  *
- * This intentionally does not scan 1..N ids. Jikan returns valid anime ids
- * in pages, which avoids thousands of wasted requests against deleted or
- * never-created MAL ids.
+ * Replaces fragile 1,200+ paginated Jikan scraper calls with:
+ * 1. Fast download of anime-offline-database (30,000+ titles)
+ * 2. Merging known IDs from animeApi database (nattadasu/animeApi)
+ * 3. Subtracting verified dead/deleted MAL IDs
+ * 4. Supplementing with live seasonal and upcoming rankings from Official MAL API v2
  */
 import { fetchJson } from './httpClient.js';
-import { jikanLimiter } from './rateLimiter.js';
+import { getSeasonalAnimeIds, getRankingAnimeIds } from './malOfficial.js';
+import { malLimiter } from './rateLimiter.js';
 
-const BASE_URL = 'https://api.jikan.moe/v4';
-const PAGE_INTERVAL_MS = 500;
-const PAGE_SIZE = 25;
+const OFFLINE_DB_URL =
+  'https://github.com/cedya77/anime-offline-database/releases/download/latest/anime-offline-database-minified.json';
+const DEAD_MAL_IDS_URL =
+  'https://github.com/cedya77/anime-offline-database/releases/download/latest/dead-entries/myanimelist-minified.json';
+const ANIMEAPI_DB_URL =
+  'https://raw.githubusercontent.com/nattadasu/animeApi/v3/database/animeapi.json';
 
-async function fetchAnimePage(page) {
-  const url =
-    `${BASE_URL}/anime?page=${page}` +
-    `&limit=${PAGE_SIZE}` +
-    '&order_by=mal_id' +
-    '&sort=asc';
+const MAL_URL_RE = /^https:\/\/myanimelist\.net\/anime\/(\d+)/;
 
-  const json = await fetchJson(url, {
-    label: `Jikan discover page ${page}`,
-    retries: 4,
-    baseDelayMs: 2000,
-    timeoutMs: 20000,
-  });
-
-  if (!json || !Array.isArray(json.data)) {
-    return {
-      ids: [],
-      hasNextPage: false,
-      lastPage: page,
-    };
-  }
-
-  const ids = json.data
-    .map((item) => Number(item.mal_id))
-    .filter((id) => Number.isInteger(id) && id > 0);
-
-  const pagination = json.pagination ?? {};
-
-  return {
-    ids,
-    hasNextPage: Boolean(pagination.has_next_page),
-    lastPage:
-      Number.isInteger(pagination.last_visible_page) && pagination.last_visible_page > 0
-        ? pagination.last_visible_page
-        : page,
-  };
+function getCurrentAndNextSeasons() {
+  const seasons = ['winter', 'spring', 'summer', 'fall'];
+  const now = new Date();
+  const idx = Math.floor(now.getMonth() / 3);
+  const year = now.getFullYear();
+  const nextIdx = (idx + 1) % 4;
+  const nextYear = nextIdx === 0 ? year + 1 : year;
+  return [
+    { year, season: seasons[idx] },
+    { year: nextYear, season: seasons[nextIdx] },
+  ];
 }
 
-export async function discoverAllMalIds({
-  startPage = 1,
-  maxPages = Infinity,
-  onPage = null,
-  intervalMs = PAGE_INTERVAL_MS,
-} = {}) {
-  const firstPage = Math.max(1, Math.floor(Number(startPage) || 1));
-  const pageLimit = Number.isFinite(maxPages)
-    ? Math.max(0, Math.floor(Number(maxPages)))
-    : Infinity;
+export async function discoverAllMalIds(options = {}) {
+  const { onPage = null } = options;
+  const idSet = new Set();
 
-  const allIds = [];
-  let page = firstPage;
-  let pagesScanned = 0;
-  let lastVisiblePage = firstPage;
-  let lastSuccessfulPage = firstPage - 1;
-  let failedPage = null;
+  console.log('[discover] downloading baseline datasets (offline database + mapping DB)...');
 
-  while (pagesScanned < pageLimit) {
-    if (pagesScanned > 0) await jikanLimiter();
+  // 1. Ingest offline database + dead-entries list + animeApi mapping DB
+  const [offlineDb, deadEntries, animeApiDb] = await Promise.all([
+    fetchJson(OFFLINE_DB_URL, { label: 'anime-offline-database', timeoutMs: 120000 }).catch(
+      (err) => {
+        console.warn(`[discover] offline-db download failed: ${err.message}`);
+        return null;
+      }
+    ),
+    fetchJson(DEAD_MAL_IDS_URL, { label: 'dead-mal-entries', timeoutMs: 30000 }).catch(() => null),
+    fetchJson(ANIMEAPI_DB_URL, { label: 'animeApi-db', timeoutMs: 120000 }).catch(() => []),
+  ]);
 
-    let result;
-    try {
-      result = await fetchAnimePage(page);
-    } catch (err) {
-      failedPage = page;
-      console.warn(`[malScraper] page ${page} failed after retries: ${err.message}`);
-      break;
+  if (offlineDb?.data && Array.isArray(offlineDb.data)) {
+    for (const entry of offlineDb.data) {
+      for (const url of entry.sources ?? []) {
+        const match = MAL_URL_RE.exec(url);
+        if (match) {
+          const id = Number(match[1]);
+          if (Number.isInteger(id) && id > 0) idSet.add(id);
+        }
+      }
     }
+    console.log(`[discover] parsed ${idSet.size} MAL IDs from anime-offline-database`);
+  }
 
-    allIds.push(...result.ids);
-    lastVisiblePage = result.lastPage;
-    lastSuccessfulPage = page;
-    pagesScanned += 1;
+  if (Array.isArray(animeApiDb)) {
+    let mappingCount = 0;
+    for (const record of animeApiDb) {
+      const malId = Number(record?.myanimelist);
+      if (Number.isInteger(malId) && malId > 0) {
+        idSet.add(malId);
+        mappingCount++;
+      }
+    }
+    console.log(`[discover] merged IDs from animeApi database (total now: ${idSet.size})`);
+  }
 
-    if (onPage) {
+  // Remove confirmed deleted MAL IDs
+  if (deadEntries?.data && Array.isArray(deadEntries.data)) {
+    let deletedCount = 0;
+    for (const deadId of deadEntries.data) {
+      const num = Number(deadId);
+      if (idSet.delete(num)) deletedCount++;
+    }
+    console.log(`[discover] removed ${deletedCount} deleted/dead MAL entries`);
+  }
+
+  // 2. Supplement with live Official MAL v2 seasonal + upcoming feeds (catches brand new titles)
+  if (process.env.MAL_CLIENT_ID) {
+    console.log('[discover] querying live seasonal and upcoming rankings from Official MAL API...');
+    for (const { year, season } of getCurrentAndNextSeasons()) {
       try {
-        onPage({
-          page,
-          ids: result.ids,
-          total: allIds.length,
-          lastVisiblePage,
-        });
-      } catch {
-        // Progress callbacks must not interrupt discovery.
+        await malLimiter();
+        const { ids } = await getSeasonalAnimeIds(year, season);
+        for (const id of ids) idSet.add(id);
+      } catch (err) {
+        console.warn(`[discover] season ${year} ${season} check failed: ${err.message}`);
       }
     }
 
-    if (!result.hasNextPage) break;
-    page += 1;
+    for (const rankingType of ['airing', 'upcoming']) {
+      try {
+        await malLimiter();
+        const { ids } = await getRankingAnimeIds(rankingType);
+        for (const id of ids) idSet.add(id);
+      } catch (err) {
+        console.warn(`[discover] ranking ${rankingType} check failed: ${err.message}`);
+      }
+    }
+  } else {
+    console.warn('[discover] MAL_CLIENT_ID not set; skipping live seasonal/upcoming discovery');
+  }
+
+  const sortedIds = [...idSet]
+    .filter((id) => Number.isInteger(id) && id > 0)
+    .sort((a, b) => a - b);
+
+  if (onPage) {
+    try {
+      onPage({ page: 1, ids: sortedIds, total: sortedIds.length, lastVisiblePage: 1 });
+    } catch {
+      // ignore
+    }
   }
 
   return {
-    ids: allIds,
-    pagesScanned,
-    lastPage: lastVisiblePage,
-    lastSuccessfulPage,
-    failedPage,
+    ids: sortedIds,
+    pagesScanned: 1,
+    lastPage: 1,
+    lastSuccessfulPage: 1,
+    failedPage: null,
   };
 }
 
 export async function discoverNewMalIds(startPage, options = {}) {
-  return discoverAllMalIds({ ...options, startPage });
+  return discoverAllMalIds(options);
 }

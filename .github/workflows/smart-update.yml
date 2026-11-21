@@ -43,6 +43,7 @@ jobs:
 
       - name: Run smart update
         env:
+          MAL_CLIENT_ID: "${{ secrets.MAL_CLIENT_ID }}"
           DISCORD_WEBHOOK_URL: "${{ secrets.DISCORD_WEBHOOK_URL }}"
           FORCE_INPUT: "${{ inputs.force || false }}"
           LIMIT_INPUT: "${{ inputs.limit || '500' }}"

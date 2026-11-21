@@ -456,13 +456,13 @@ The data is kept fresh by GitHub Actions workflows:
 
 Each fetch pulls from multiple sources with automatic fallback:
 
-| Source             | Role                                                     |
-| ------------------ | -------------------------------------------------------- |
-| **Jikan**          | Primary metadata (synopsis, genres, studios, score, ...) |
-| **Kitsu**          | Fallback when Jikan is down/missing fields               |
-| **AniList**        | Enrichment (banner art, sequence, next airing episode)   |
-| **animeapi.my.id** | Cross-platform ID mappings                               |
-| **Zenshin**        | Per-episode data (filler flags, TVDB IDs, etc.)          |
+| Source             | Role                                                                    |
+| ------------------ | ----------------------------------------------------------------------- |
+| **Official MAL v2**| Primary metadata (synopsis, genres, studios, score, rating, broadcast)  |
+| **Kitsu**          | Fallback when MAL is missing fields or fails, episode fallback           |
+| **AniList**        | Enrichment (banner art, trailer, sequence, producers, next episode)    |
+| **animeapi.my.id** | Cross-platform ID mappings                                              |
+| **Zenshin (AniZip)**| Per-episode data (filler flags, TVDB IDs, dubs, etc.)                   |
 
 ---
 

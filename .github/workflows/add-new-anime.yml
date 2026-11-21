@@ -41,6 +41,7 @@ jobs:
 
       - name: Fetch new anime
         env:
+          MAL_CLIENT_ID: "${{ secrets.MAL_CLIENT_ID }}"
           DISCORD_WEBHOOK_URL: "${{ secrets.DISCORD_WEBHOOK_URL }}"
           IDS_INPUT: "${{ inputs.ids || '' }}"
           RANGE_INPUT: "${{ inputs.range || '' }}"

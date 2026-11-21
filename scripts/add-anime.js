@@ -101,8 +101,8 @@ async function run() {
         const msg = String(e.message || '').toLowerCase();
         return (
           !succeededIds.includes(e.id) &&
-          (source === 'primary' || source === 'jikan' || source === 'kitsu') &&
-          (e.status === 404 || msg.includes('not found') || msg.includes('no jikan or kitsu'))
+          (source === 'primary' || source === 'jikan' || source === 'mal' || source === 'kitsu') &&
+          (e.status === 404 || msg.includes('not found') || msg.includes('no jikan or kitsu') || msg.includes('no mal, kitsu, or anilist'))
         );
       })
       .map((e) => String(e.id))

@@ -1,9 +1,11 @@
 /**
- * Shared HTTP client used by every source adapter (Jikan, Kitsu, AniList,
+ * Shared HTTP client used by every source adapter (MAL Official, Kitsu, AniList,
  * animeapi.my.id, AniZip).
  *
  * Responsibilities:
- *  - Retries with exponential backoff
+ *  - Sends default descriptive User-Agent
+ *  - Retries with exponential backoff and randomized jitter
+ *  - Fails fast on 400/401/403 client authentication/request errors
  *  - Honors Retry-After on 429s (rate limiting)
  *  - Distinguishes "not found" (404 -> null, not an error) from real failures
  *  - Times out hung requests
@@ -24,6 +26,14 @@ export class FetchError extends Error {
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
+const DEFAULT_USER_AGENT = 'anime-mapper/1.0 (+https://github.com/subhajeetch-fl/anime-mapper)';
+
+function getBackoffWithJitter(baseDelayMs, attempt) {
+  const delay = baseDelayMs * 2 ** attempt;
+  // Apply ±20% jitter
+  return Math.round(delay * (0.8 + Math.random() * 0.4));
+}
+
 export async function fetchJson(url, options = {}) {
   const {
     fetchOptions = {},
@@ -34,6 +44,16 @@ export async function fetchJson(url, options = {}) {
     label = 'HTTP',
   } = options;
 
+  const mergedHeaders = {
+    'User-Agent': DEFAULT_USER_AGENT,
+    ...(fetchOptions.headers || {}),
+  };
+
+  const finalFetchOptions = {
+    ...fetchOptions,
+    headers: mergedHeaders,
+  };
+
   let lastError;
 
   for (let attempt = 0; attempt <= retries; attempt++) {
@@ -41,11 +61,22 @@ export async function fetchJson(url, options = {}) {
     const timeout = setTimeout(() => controller.abort(), timeoutMs);
 
     try {
-      const res = await fetch(url, { ...fetchOptions, signal: controller.signal });
+      const res = await fetch(url, { ...finalFetchOptions, signal: controller.signal });
       clearTimeout(timeout);
 
       if (res.status === 404 && treat404AsNull) {
         return null;
+      }
+
+      // Fail fast on unrecoverable client/auth errors (bad API key, forbidden, invalid request)
+      if (res.status === 400 || res.status === 401 || res.status === 403) {
+        const body = await res.text().catch(() => '');
+        throw new FetchError(`${label} returned client error (${res.status})`, {
+          url,
+          status: res.status,
+          attempts: attempt + 1,
+          cause: body.slice(0, 500),
+        });
       }
 
       if (res.status === 429) {
@@ -59,10 +90,10 @@ export async function fetchJson(url, options = {}) {
             const targetDate = new Date(retryAfterHeader).getTime();
             retryAfterMs = Number.isFinite(targetDate)
               ? Math.max(0, targetDate - Date.now())
-              : baseDelayMs * 2 ** attempt;
+              : getBackoffWithJitter(baseDelayMs, attempt);
           }
         } else {
-          retryAfterMs = baseDelayMs * 2 ** attempt;
+          retryAfterMs = getBackoffWithJitter(baseDelayMs, attempt);
         }
         lastError = new FetchError(`${label} rate limited (429)`, {
           url,
@@ -83,7 +114,7 @@ export async function fetchJson(url, options = {}) {
           attempts: attempt + 1,
         });
         if (attempt < retries) {
-          await sleep(baseDelayMs * 2 ** attempt);
+          await sleep(getBackoffWithJitter(baseDelayMs, attempt));
           continue;
         }
         throw lastError;
@@ -131,12 +162,12 @@ export async function fetchJson(url, options = {}) {
         });
       }
 
-      if (lastError && lastError.isInvalidJson) {
+      if (lastError && (lastError.isInvalidJson || lastError.status === 400 || lastError.status === 401 || lastError.status === 403)) {
         throw lastError;
       }
 
       if (attempt < retries) {
-        await sleep(baseDelayMs * 2 ** attempt);
+        await sleep(getBackoffWithJitter(baseDelayMs, attempt));
         continue;
       }
       throw lastError;

@@ -89,8 +89,8 @@ function isPermanentPrimaryFailure(result) {
     const source = String(error.source ?? '').toLowerCase();
     const message = String(error.message ?? '').toLowerCase();
     return (
-      (source === 'primary' || source === 'jikan' || source === 'kitsu') &&
-      (error.status === 404 || message.includes('not found') || message.includes('no jikan or kitsu'))
+      (source === 'primary' || source === 'jikan' || source === 'mal' || source === 'kitsu') &&
+      (error.status === 404 || message.includes('not found') || message.includes('no jikan or kitsu') || message.includes('no mal, kitsu, or anilist'))
     );
   });
 }
