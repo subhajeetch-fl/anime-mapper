@@ -138,11 +138,13 @@ export async function runAutoAdd(cliArgs = process.argv.slice(2)) {
   );
 
   if (items.length === 0) {
-    await saveAddCursor({
-      ...cursor,
-      nextIndex: plannedNextIndex,
-      lastRunAt: new Date().toISOString(),
-    });
+    if (plannedNextIndex !== cursor.nextIndex) {
+      await saveAddCursor({
+        ...cursor,
+        nextIndex: plannedNextIndex,
+        lastRunAt: new Date().toISOString(),
+      });
+    }
     console.log('auto-add: nothing new to add.');
     return;
   }

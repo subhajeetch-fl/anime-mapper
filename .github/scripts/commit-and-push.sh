@@ -68,10 +68,16 @@ for attempt in 1 2 3 4 5; do
   echo "Push was rejected or interrupted. Syncing with origin/$BRANCH and retrying ($attempt/5)."
   git fetch origin "$BRANCH"
 
-  if ! git rebase "origin/$BRANCH"; then
-    echo "::error::Could not automatically rebase workflow changes on top of origin/$BRANCH."
-    git status --short
-    exit 1
+  if ! git rebase -X theirs "origin/$BRANCH"; then
+    echo "Rebase conflict encountered on pipeline state. Resolving by taking incoming changes..."
+    git checkout --theirs -- data/.pipeline-state/ 2>/dev/null || true
+    git add -A
+    if ! git -c core.editor=true rebase --continue 2>/dev/null; then
+      git rebase --abort 2>/dev/null || true
+      echo "::error::Could not automatically rebase workflow changes on top of origin/$BRANCH."
+      git status --short
+      exit 1
+    fi
   fi
 
   rebuild_indexes_if_requested
