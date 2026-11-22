@@ -32,12 +32,16 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": "2027-01-01T00:00:00+00:00",
+    "from": "2027-01-09T00:00:00+00:00",
     "to": null
   },
   "season": "winter",
   "year": 2027,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -290,7 +294,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-11-21T14:22:37.468Z",
+    "lastFetched": "2026-11-22T18:31:32.560Z",
     "sourcesUsed": [
       "mal",
       "anilist",
