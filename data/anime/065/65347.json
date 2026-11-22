@@ -1,0 +1,96 @@
+{
+  "id": 65347,
+  "idMal": 65347,
+  "mappings": {
+    "mal": 65347,
+    "anilist": null,
+    "anidb": null,
+    "kitsu": 51181,
+    "simkl": null,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 65347,
+    "livechart": null,
+    "animeplanet": null,
+    "anisearch": null,
+    "notify": null
+  },
+  "title": {
+    "romaji": "New Style",
+    "english": "New Style",
+    "native": "New Style",
+    "synonyms": []
+  },
+  "type": "ONA",
+  "source": "Original",
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 1,
+  "episodeLength": 1,
+  "aired": {
+    "from": "2026-04-18T00:00:00+00:00",
+    "to": "2026-04-18T00:00:00+00:00"
+  },
+  "season": "spring",
+  "year": 2026,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": null,
+    "anilistScore": null,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Anthropomorphic",
+    "Comedy",
+    "Supernatural"
+  ],
+  "studios": [
+    "Studio Wrong"
+  ],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1591/160932l.jpg",
+    "banner": null,
+    "color": null
+  },
+  "trailer": null,
+  "synopsis": "A ghost is told that her scares lack originality and tries a new approach.",
+  "sequence": [],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 0,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-11-22T12:10:31.361Z",
+    "sourcesUsed": [
+      "mal",
+      "animeApi database",
+      "zenshin"
+    ],
+    "missingSources": [
+      "anilist (not in ID mappings)",
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
+    "dataVersion": 1
+  }
+}

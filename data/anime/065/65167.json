@@ -1,0 +1,95 @@
+{
+  "id": 65167,
+  "idMal": 65167,
+  "mappings": {
+    "mal": 65167,
+    "anilist": 217782,
+    "anidb": null,
+    "kitsu": null,
+    "simkl": null,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 65167,
+    "livechart": 13790,
+    "animeplanet": null,
+    "anisearch": null,
+    "notify": null
+  },
+  "title": {
+    "romaji": "Kanojo no Tomodachi Mini Anime Gekijou",
+    "english": "My Girlfriend's Friend Mini Anime",
+    "native": "彼女の友達 ミニアニメ劇場",
+    "synonyms": []
+  },
+  "type": "TV",
+  "source": "Web manga",
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 10,
+  "aired": {
+    "from": "2026-10-18T00:00:00+00:00",
+    "to": "2026-12-21T00:00:00+00:00"
+  },
+  "season": "fall",
+  "year": 2026,
+  "broadcast": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795364220
+  },
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": 5.89,
+    "anilistScore": 4.1,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Ecchi",
+    "Romance"
+  ],
+  "studios": [],
+  "producers": [
+    "WWWave"
+  ],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1958/160505l.jpg",
+    "banner": null,
+    "color": "#ff9335"
+  },
+  "trailer": null,
+  "synopsis": "A weekly mini anime shown with each episode of Kanojo no Tomodachi exclusively on the AT-X broadcast of the TV anime and online on OceanVeil and Abema.",
+  "sequence": [
+    {
+      "malId": 64131,
+      "title": {
+        "romaji": "Kanojo no Tomodachi",
+        "english": "My Girlfriend's Friend",
+        "native": "彼女の友達"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211877-yWQ2r7XmWvG6.jpg",
+      "format": "TV_SHORT",
+      "episodes": 12,
+      "seasonYear": 2026,
+      "relationType": "PARENT"
+    }
+  ],
+  "episodes": {},
+  "meta": {
+    "lastFetched": "2026-11-22T12:07:01.821Z",
+    "sourcesUsed": [
+      "mal",
+      "anilist",
+      "animeApi database",
+      "zenshin"
+    ],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
+    "dataVersion": 1
+  }
+}

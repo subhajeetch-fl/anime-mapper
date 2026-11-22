@@ -1,0 +1,93 @@
+{
+  "id": 64788,
+  "idMal": 64788,
+  "mappings": {
+    "mal": 64788,
+    "anilist": null,
+    "anidb": null,
+    "kitsu": 43960,
+    "simkl": null,
+    "tmdb": null,
+    "tvdb": null,
+    "trakt": null,
+    "traktType": null,
+    "shikimori": 64788,
+    "livechart": null,
+    "animeplanet": null,
+    "anisearch": null,
+    "notify": null
+  },
+  "title": {
+    "romaji": "Error",
+    "english": null,
+    "native": "ERROR",
+    "synonyms": []
+  },
+  "type": "Music",
+  "source": "Original",
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": null,
+  "episodeLength": 4,
+  "aired": {
+    "from": "2026-04-06T00:00:00+00:00",
+    "to": null
+  },
+  "season": null,
+  "year": null,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": {
+    "malScore": null,
+    "anilistScore": null,
+    "kitsuRating": null
+  },
+  "genres": [
+    "Psychological",
+    "Sci-Fi"
+  ],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1222/159465l.jpg",
+    "banner": null,
+    "color": null
+  },
+  "trailer": null,
+  "synopsis": "Hebi's Alternative Universe project.",
+  "sequence": [],
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "3m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 3,
+      "image": null
+    }
+  },
+  "meta": {
+    "lastFetched": "2026-11-22T11:59:37.938Z",
+    "sourcesUsed": [
+      "mal",
+      "animeApi database",
+      "zenshin"
+    ],
+    "missingSources": [
+      "anilist (not in ID mappings)",
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
+    "dataVersion": 1
+  }
+}
