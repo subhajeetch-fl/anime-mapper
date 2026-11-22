@@ -7,7 +7,7 @@
     "anidb": 17839,
     "kitsu": 50338,
     "simkl": 2086928,
-    "tmdb": null,
+    "tmdb": 337277,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
@@ -19,58 +19,71 @@
   },
   "title": {
     "romaji": "Mahou Shoujo Ikusei Keikaku: restart",
-    "english": null,
+    "english": "Magical Girl Raising Project: Restart",
     "native": "魔法少女育成計画 restart",
     "synonyms": [
-      "Magical Girl Raising Project Restart",
-      "まほいく ",
+      "まほいく",
       "MahoIku"
     ]
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-06T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Tuesdays",
+    "time": "02:00",
+    "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1791219600
+    "episode": 8,
+    "airingAt": 1795453200
   },
-  "rating": null,
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.59,
+    "anilistScore": 6.1,
     "kitsuRating": null
   },
   "genres": [
     "Action",
+    "Gore",
+    "High Stakes Game",
+    "Mahou Shoujo",
+    "Survival",
     "Suspense",
     "Fantasy",
-    "Mahou Shoujo",
     "Thriller"
   ],
   "studios": [
     "SynergySP"
   ],
-  "producers": [],
+  "producers": [
+    "Odd Entertainment",
+    "SynergySP",
+    "MediaNet",
+    "Sony Pictures Entertainment",
+    "AMUSE CREATIVE STUDIO",
+    "BS Fuji"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1711/152746l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1518/160127l.jpg",
     "banner": null,
-    "color": "#c94378"
+    "color": "#e4ae93"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "34ubb-j0kbI",
+    "url": "https://www.youtube.com/watch?v=34ubb-j0kbI",
+    "thumbnail": "https://i.ytimg.com/vi/34ubb-j0kbI/hqdefault.jpg"
+  },
   "synopsis": "The deadly game is back!\n\nOnce again, sixteen Magical Girls have been assembled for a high-stakes challenge. Every three days, their Magical Phone pulls them into an RPG-like simulation where they have to work together to fight enemies, solve puzzles, and earn Magical Candy to advance. A staggering ten billion yen reward awaits them at the end—but only for the players who land the finishing blow. With such a tantalizing prize on the line, it's only a matter of time before the girls turn on each other—and if their hit points drop to zero, a game over will be the least of their worries... \n\n(Source: Mahou Shoujo Ikusei Keikaku Wiki, edited)",
   "sequence": [
     {
@@ -87,17 +100,213 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-06",
+      "title": {
+        "en": null,
+        "romaji": "Hello Daisy",
+        "ja": "ハローデイジー"
+      },
+      "tvdbShowId": 457780,
+      "tvdbId": 11651324,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11651324/screencap/6ac3e4b0d31b1.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-13",
+      "title": {
+        "en": null,
+        "romaji": "Player-tachi",
+        "ja": "プレイヤー達"
+      },
+      "tvdbShowId": 457780,
+      "tvdbId": 12020951,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12020951/screencap/6acd1976c153a.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-20",
+      "title": {
+        "en": null,
+        "romaji": "Oishii Ryouri de Minna Shiawase",
+        "ja": "美味しい料理でみんな幸せ"
+      },
+      "tvdbShowId": 457780,
+      "tvdbId": 12020952,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12020952/screencap/6ad653c6868f4.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-27",
+      "title": {
+        "en": null,
+        "romaji": "Tantei to Satsujin Jiken",
+        "ja": "探偵と殺人事件"
+      },
+      "tvdbShowId": 457780,
+      "tvdbId": 12020953,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12020953/screencap/6adf8fa870b02.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-03",
+      "title": {
+        "en": null,
+        "romaji": "Fukashigi na Candy",
+        "ja": "不可思議なキャンディー"
+      },
+      "tvdbShowId": 457780,
+      "tvdbId": 12020954,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12020954/screencap/6ae8ca4dd280b.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-10",
+      "title": {
+        "en": null,
+        "romaji": "Ooki na Ryuu to Chuuka na Shoujo",
+        "ja": "大きな竜と中華な少女"
+      },
+      "tvdbShowId": 457780,
+      "tvdbId": 12020955,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12020955/screencap/6af203b70783d.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-17",
+      "title": {
+        "en": null,
+        "romaji": "Negative to Positive",
+        "ja": "ネガティブとポジティブ"
+      },
+      "tvdbShowId": 457780,
+      "tvdbId": 12020956,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12020956/screencap/6afb3ea9cb588.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-24",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 457780,
+      "tvdbId": 12020957,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-12-01",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 457780,
+      "tvdbId": 12020958,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-08",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 457780,
+      "tvdbId": 12020959,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-15",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 457780,
+      "tvdbId": 12020960,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-22",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 457780,
+      "tvdbId": 12020961,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T05:59:29.754Z",
+    "lastFetched": "2026-11-22T00:41:15.296Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

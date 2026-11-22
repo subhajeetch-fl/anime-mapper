@@ -33,10 +33,10 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 26,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-03T00:00:00+00:00",
-    "to": null
+    "to": "2026-12-25T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -46,172 +46,460 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788449160
+    "episode": 22,
+    "airingAt": 1795706760
   },
-  "rating": "PG-13 - Teens 13 or older",
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": 7.04,
-    "anilistScore": 6.6,
+    "malScore": 6.8,
+    "anilistScore": 6.7,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Isekai",
+    "Reincarnation"
   ],
   "studios": [
     "GoHands"
   ],
   "producers": [
-    "Shochiku",
-    "Mainichi Broadcasting System",
+    "Shouchiku",
     "Kodansha",
-    "Glovision",
+    "MUSE",
     "Crunchyroll",
-    "Shochiku Music Publishing",
-    "Muse Communication"
+    "Mainichi Broadcasting System",
+    "GoHands"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1322/158711l.jpg",
     "banner": null,
     "color": "#50c9fe"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "uC13b3_8riU",
+    "url": "https://www.youtube.com/watch?v=uC13b3_8riU",
+    "thumbnail": "https://i.ytimg.com/vi/uC13b3_8riU/hqdefault.jpg"
+  },
   "synopsis": "\"You useless son of mine! You were supposed to pull master swordsman, but I never thought it would be this tragic!\"\n\nThe day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already descended from a line of master swordsman, Elymas was supposed to succeed his father. However, he pulls the defective class, the Heavy Knight, and not only loses his status as future head of the household, but he's also exiled. With their unbalanced stats and seemingly useless skills, Heavy Knights are spoked of as a class for cowards and the lazy. However, Elymas knows the truth. The world he lives in is the same as the one of the game he used to play... It is the Heavy Knight that is the most powerful class of them all. Using memories from his past life, Elymas has set out to effectively conquer this entire world.\n\n(Source: Kodansha USA)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-03",
       "title": {
-        "en": "Elymas the Heavy Knight"
+        "en": "Elymas the Heavy Knight",
+        "romaji": "Juukishi Elymas",
+        "ja": "重騎士エルマ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 453028,
+      "tvdbId": 10626461,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10626461/screencap/6a43a48fd68b4.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-10",
       "title": {
-        "en": "Menacing Foul Eight-Legged Beast"
+        "en": "Menacing Foul Eight-Legged Beast",
+        "romaji": "Kyoui no Sarugumo",
+        "ja": "脅威の猿蜘蛛"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 453028,
+      "tvdbId": 11866149,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11866149/screencap/6a4f8217c97ff.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-17",
       "title": {
-        "en": "The Raid Quest"
+        "en": "The Raid Quest",
+        "romaji": "Raid Quest",
+        "ja": "大規模依頼[レイドクエスト]"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 453028,
+      "tvdbId": 11866150,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11866150/screencap/6a5844b967ac8.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-24",
       "title": {
-        "en": "Episode 4"
+        "en": "Existence Evolution",
+        "romaji": "Sonzai Shinka",
+        "ja": "存在進化"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 453028,
+      "tvdbId": 11866151,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11866151/screencap/6a6181aa7c175.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-31",
       "title": {
-        "en": "Episode 5"
+        "en": "Fang of Smoldering Insanity",
+        "romaji": "Iburi Kuruu Kiba",
+        "ja": "燻り狂う牙"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 453028,
+      "tvdbId": 11866152,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11866152/screencap/6a696becbf4dd.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-07",
       "title": {
-        "en": "Episode 6"
+        "en": "Ruche the Pierrot",
+        "romaji": "Doukeshi Luce",
+        "ja": "道化師ルーチェ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 453028,
+      "tvdbId": 11866153,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11866153/screencap/6a73ba06a800c.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-14",
       "title": {
-        "en": "Episode 7"
+        "en": "Golden Raana Farming",
+        "romaji": "Narikin Raana-gari",
+        "ja": "成金ラーナ狩り"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 453028,
+      "tvdbId": 11869517,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869517/screencap/6a7d26898a093.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-21",
       "title": {
-        "en": "Episode 8"
+        "en": "Wandering",
+        "romaji": "Wandering",
+        "ja": "王の彷徨[ワンダリング]"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 453028,
+      "tvdbId": 11869518,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869518/screencap/6a86e2c6769e8.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-28",
+      "title": {
+        "en": "Dreamlord",
+        "romaji": "Master",
+        "ja": "夢の主[マスター]"
+      },
+      "tvdbShowId": 453028,
+      "tvdbId": 11869519,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869519/screencap/6a90358688688.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-04",
+      "title": {
+        "en": "Negotiation",
+        "romaji": "Koushou",
+        "ja": "交渉"
+      },
+      "tvdbShowId": 453028,
+      "tvdbId": 11869520,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869520/screencap/6a996c0eaea07.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-11",
+      "title": {
+        "en": "Inescapable Past",
+        "romaji": "Nogarerarenai Kako",
+        "ja": "逃れられない過去"
+      },
+      "tvdbShowId": 453028,
+      "tvdbId": 11869521,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869521/screencap/6aa2a8651b057.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-18",
+      "title": {
+        "en": "Malice the Master Swordsman",
+        "romaji": "Kensei Maris",
+        "ja": "剣聖マリス"
+      },
+      "tvdbShowId": 453028,
+      "tvdbId": 11869522,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869522/screencap/6aabe2526de5e.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": 25,
+      "airDate": "2026-09-25",
+      "title": {
+        "en": "Lacoryna, the City of Adventurers",
+        "romaji": "Boukensha no Miyako Lacoryna",
+        "ja": "冒険者の都ラコリナ"
+      },
+      "tvdbShowId": 453028,
+      "tvdbId": 11869523,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869523/screencap/6ab489eba97c2.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": 25,
+      "airDate": "2026-10-02",
+      "title": {
+        "en": "Mythril Giant",
+        "romaji": "Magin no Kyojin",
+        "ja": "魔銀の巨人"
+      },
+      "tvdbShowId": 453028,
+      "tvdbId": 11869524,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869524/screencap/6abbb96da0fd9.jpg"
+    },
+    "15": {
+      "episode": "15",
+      "length": 25,
+      "airDate": "2026-10-09",
+      "title": {
+        "en": "Dreamlord of the Dreamhole",
+        "romaji": "Hyakuashi Koudou no Nushi",
+        "ja": "百足坑道の主"
+      },
+      "tvdbShowId": 453028,
+      "tvdbId": 11869525,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869525/screencap/6ac7916b3800c.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": 25,
+      "airDate": "2026-10-16",
+      "title": {
+        "en": "No Defense Spared",
+        "romaji": "Fushaku Shinmyou",
+        "ja": "不惜身命"
+      },
+      "tvdbShowId": 453028,
+      "tvdbId": 11869526,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869526/screencap/6ad03a4fdb9de.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": 25,
+      "airDate": "2026-10-23",
+      "title": {
+        "en": "Guildmaster Hailenn",
+        "romaji": "Guild-chou Harein",
+        "ja": "ギルド長ハレイン"
+      },
+      "tvdbShowId": 453028,
+      "tvdbId": 11869527,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869527/screencap/6ad97a57d5a40.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": 25,
+      "airDate": "2026-10-30",
+      "title": {
+        "en": "Blacksmith Veruga",
+        "romaji": "Kajishi Veruga",
+        "ja": "鍛冶師ベルガ"
+      },
+      "tvdbShowId": 453028,
+      "tvdbId": 11869528,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869528/screencap/6ae153446ebe6.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": 25,
+      "airDate": "2026-11-06",
+      "title": {
+        "en": "Empress of the Angler Clan",
+        "romaji": "Tsuribito Clan no Jotei",
+        "ja": "釣り人クランの女帝"
+      },
+      "tvdbShowId": 453028,
+      "tvdbId": 11869529,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869529/screencap/6aeaa658287c2.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": 25,
+      "airDate": "2026-11-13",
+      "title": {
+        "en": "Magic Swordman Hilde",
+        "romaji": "Makenshi Hilde",
+        "ja": "魔剣師ヒルデ"
+      },
+      "tvdbShowId": 453028,
+      "tvdbId": 11869530,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869530/screencap/6af3dfce738da.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": 25,
+      "airDate": "2026-11-20",
+      "title": {
+        "en": null,
+        "romaji": "Kuroki Enjin",
+        "ja": "黒き炎刃"
+      },
+      "tvdbShowId": 453028,
+      "tvdbId": 11869531,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869531/screencap/6afce58d33e39.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": 25,
+      "airDate": "2026-11-27",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 453028,
+      "tvdbId": 11869532,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": null
+    },
+    "23": {
+      "episode": "23",
+      "length": 25,
+      "airDate": "2026-12-04",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 453028,
+      "tvdbId": 11869544,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": null
+    },
+    "24": {
+      "episode": "24",
+      "length": 25,
+      "airDate": "2026-12-11",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 453028,
+      "tvdbId": 11869545,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T16:14:49.848Z",
+    "lastFetched": "2026-11-22T00:44:20.781Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

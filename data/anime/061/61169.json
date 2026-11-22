@@ -28,13 +28,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-04T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-19T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -43,18 +43,16 @@
     "time": "22:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 6,
-    "airingAt": 1786194000
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.39,
-    "anilistScore": 7.1,
+    "malScore": 6.67,
+    "anilistScore": 6.9,
     "kitsuRating": null
   },
   "genres": [
     "Action",
+    "Shounen",
     "Supernatural",
     "Adventure",
     "Fantasy",
@@ -65,180 +63,228 @@
   ],
   "producers": [
     "Shogakukan-Shueisha Productions",
-    "Delfi Sound",
     "Shueisha",
-    "Hike"
+    "VIZ Media Japan",
+    "HIKE"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1965/158363l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1965/158363l.webp",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187538-287evzCezNl0.jpg",
     "color": "#435dff"
   },
-  "trailer": null,
-  "synopsis": "Seventeen-year-old Jirou Azuma lives a quiet life with his grandfather, utilizing his supernatural ability to speak with animals to befriend and protect them. Both Jirou and his grandfather are descendants of a long-standing shinobi clan, training in combat to keep the art of battle alive within their family. Jirou's life is thrown into upheaval after rescuing a seemingly normal black cat, Ragou, only to discover that the cat is actually a mononoke—a demonic spirit that has long been at war with mankind. When a hostile mononoke comes looking for Ragou, Jirou uses his shinobi training to jump to the cat's defense, but immediately suffers a mortal wound.\n\nFaced with the decision of whether or not to devour Jirou's fading energy and restore himself to full power, Ragou instead chooses to give his remaining energy to Jirou. Reviving the boy, the transfer also grants him great supernatural powers that complement his own shinobi fighting style. This act is witnessed by Ryousuke Shiba, an officer in the Bureau of Espionage whose job revolves around dispatching aggressive mononoke. Shiba extends Jirou and his grandfather an offer: to join the Bureau's new squad, Black Torch, and help them battle powerful mononoke who seek to devour innocent people.\n\n[Written by MAL Rewrite]",
+  "trailer": {
+    "youtubeId": "2clp09dITKY",
+    "url": "https://www.youtube.com/watch?v=2clp09dITKY",
+    "thumbnail": "https://i.ytimg.com/vi/2clp09dITKY/hqdefault.jpg"
+  },
+  "synopsis": "Capable of communicating with animals, Jirou Azuma, a troublesome 17-year-old high school student, is constantly scolded by his grandfather for fighting humans that harm his winged and four-legged friends. However, after Jirou saves a black cat named Ragou from certain death, his carefree existence soon comes to an end.\n\nUnbeknownst to Jirou, Ragou is no ordinary cat but a mononoke, a magical creature of immense power. While trying to protect Ragou from another mononoke, Jirou is easily defeated and left for dead. In a dramatic turn of events, Ragou decides to pay off his debt to the dying young man, making Jirou a rare human-mononoke hybrid that easily overpowers his aggressor.\n\nUnfortunately, Jirou is now sought by both Ragou's kin who want to use the latter's powers, and the Bureau of Espionage, a secret governmental organization protecting civilians against hostile mononoke. Forcibly enlisted by the Bureau of Espionage's Ryousuke Shiba, Jirou must prove his worth in a new anti-mononoke task force, lest he be killed as a menace himself.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-04",
       "title": {
-        "en": "The Future Is in Our Hands"
+        "en": "The Future Is in Our Hands",
+        "ja": "未来は俺等の手の中"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461194,
+      "tvdbId": 11013769,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11013769/screencap/6a42591b9cb94.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-11",
       "title": {
-        "en": "The Choice Is Yours"
+        "en": "The Choice Is Yours",
+        "ja": "The Choice Is Yours"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461194,
+      "tvdbId": 11872123,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872123/screencap/6a51927a8f0ae.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-18",
       "title": {
-        "en": "Episode 3"
+        "en": "What`s My Name?",
+        "ja": "WHAT`S MY NAME?"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461194,
+      "tvdbId": 11872124,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872124/screencap/6a5b7a3d01abc.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-25",
       "title": {
-        "en": "Episode 4"
+        "en": "Two Is Not Enough",
+        "ja": "たりないふたり"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461194,
+      "tvdbId": 11872125,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872125/screencap/6a64b66488501.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-01",
       "title": {
-        "en": "Episode 5"
+        "en": "Young Gunz",
+        "ja": "Young Gunz"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461194,
+      "tvdbId": 11872126,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872126/screencap/6a6a16e3b7fe3.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-08",
       "title": {
-        "en": "Episode 6"
+        "en": "Turn Up",
+        "ja": "Turn Up"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461194,
+      "tvdbId": 11872127,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872127/screencap/6a73bba39dd02.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-15",
       "title": {
-        "en": "Episode 7"
+        "en": "3 On Three",
+        "ja": "3 ON THREE"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461194,
+      "tvdbId": 11872128,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872128/screencap/6a7dd9f14bc94.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-22",
       "title": {
-        "en": "Episode 8"
+        "en": "Underdog",
+        "ja": "Underdog"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461194,
+      "tvdbId": 11872129,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872129/screencap/6a88813d410a1.jpg"
     },
-    "C1": {
-      "episode": "C1",
-      "length": "2m",
-      "airDate": "2026-07-04",
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-29",
       "title": {
-        "en": "Opening"
+        "en": "One",
+        "ja": "ONE"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 461194,
+      "tvdbId": 11872130,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872130/screencap/6a92172c2a7b8.jpg"
     },
-    "C2": {
-      "episode": "C2",
-      "length": "2m",
-      "airDate": "2026-07-04",
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-05",
       "title": {
-        "en": "Ending"
+        "en": "Deadly Skillz",
+        "ja": "ヤバスギルスキル"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 461194,
+      "tvdbId": 11872131,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872131/screencap/6a9b66733398e.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-12",
+      "title": {
+        "en": "Black or White",
+        "ja": "Black or White"
+      },
+      "tvdbShowId": 461194,
+      "tvdbId": 11872132,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872132/screencap/6aa4b3651df7d.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-19",
+      "title": {
+        "en": "Once Again",
+        "romaji": "Once Again",
+        "ja": "ONCE AGAIN"
+      },
+      "tvdbShowId": 461194,
+      "tvdbId": 11872133,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872133/screencap/6aad9a466892e.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-08-02T12:05:27.746Z",
+    "lastFetched": "2026-11-22T00:46:41.189Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

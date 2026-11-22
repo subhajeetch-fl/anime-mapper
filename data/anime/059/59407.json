@@ -31,23 +31,19 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 16,
   "aired": {
     "from": "2024-10-04T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2024,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 7.59,
-    "anilistScore": 7.1,
+    "malScore": 7.61,
+    "anilistScore": 7.2,
     "kitsuRating": null
   },
   "genres": [
@@ -60,7 +56,7 @@
     "Torudaya"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1049/150095l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1049/150095l.webp",
     "banner": null,
     "color": "#e4c9a1"
   },
@@ -69,15 +65,16 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-04T21:37:38.120Z",
+    "lastFetched": "2026-11-22T00:44:07.481Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

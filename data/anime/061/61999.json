@@ -25,12 +25,12 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-10T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
@@ -40,42 +40,184 @@
     "time": "17:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795854600
+  },
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.88,
+    "anilistScore": 6.7,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Fantasy",
+    "Seinen",
     "Drama",
     "Supernatural"
   ],
   "studios": [
     "100studio"
   ],
-  "producers": [],
+  "producers": [
+    "Yomiuri TV",
+    "Dentsu",
+    "HIKE"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1249/156304l.jpg",
-    "banner": null,
-    "color": "#d61a35"
+    "poster": "https://cdn.myanimelist.net/images/anime/1299/159977l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195571-UkdB06UpyL8k.jpg",
+    "color": "#e4bb5d"
   },
-  "trailer": null,
-  "synopsis": "The mask brings calamity. The mask revels in slaughter. The mask has a will of its own... Pelle, a traveling mask merchant, possesses the ability to craft mysterious masks that give its wearers unique powers. In a city shrouded in an eerie atmosphere, he encounters Sonah, a mysterious young girl. As revelations unfold and inner conflicts arise, a young boy takes his first steps forward! Immerse yourself in a thrilling mask battle fantasy!\n\n(Source: Orange Inc.)",
+  "trailer": {
+    "youtubeId": "iX4N-Z5Hbxw",
+    "url": "https://www.youtube.com/watch?v=iX4N-Z5Hbxw",
+    "thumbnail": "https://i.ytimg.com/vi/iX4N-Z5Hbxw/hqdefault.jpg"
+  },
+  "synopsis": "The mask brings calamity. The mask revels in slaughter. The mask has a will of its own... Peru, a traveling mask merchant, possesses the ability to craft mysterious masks that give its wearers unique powers. In a city shrouded in an eerie atmosphere, he encounters Sonah, a mysterious young girl. As revelations unfold and inner conflicts arise, a young boy takes his first steps forward! Immerse yourself in a thrilling mask battle fantasy!\n\n(Source: Orange Inc.)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-10",
+      "title": {
+        "en": "Peru the Mask Maker",
+        "ja": "仮面屋ペル"
+      },
+      "tvdbShowId": 465542,
+      "tvdbId": 11972325,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11972325/screencap/6aca0784ad836.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-17",
+      "title": {
+        "en": "Mask of the War God",
+        "ja": "武神の仮面"
+      },
+      "tvdbShowId": 465542,
+      "tvdbId": 12027511,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12027511/screencap/6ad2df6e157fe.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-24",
+      "title": {
+        "en": "The Mask of Smoke",
+        "romaji": "Kemuri no kamen",
+        "ja": "煙の仮面"
+      },
+      "tvdbShowId": 465542,
+      "tvdbId": 12027512,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12027512/screencap/6adc1462b53bf.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-31",
+      "title": {
+        "en": "Truth and Lies",
+        "ja": "真実と嘘"
+      },
+      "tvdbShowId": 465542,
+      "tvdbId": 12027513,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12027513/screencap/6ae3e5343491a.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-07",
+      "title": {
+        "en": "The Mask of Telepathy",
+        "ja": "伝心の仮面"
+      },
+      "tvdbShowId": 465542,
+      "tvdbId": 12027514,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12027514/screencap/6aed5cc55e704.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-14",
+      "title": {
+        "en": null,
+        "ja": "スノードロップの影"
+      },
+      "tvdbShowId": 465542,
+      "tvdbId": 12027515,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12027515/screencap/6af61dbb7205f.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-21",
+      "title": {
+        "en": null,
+        "ja": "死霊の仮面"
+      },
+      "tvdbShowId": 465542,
+      "tvdbId": 12027516,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12027516/screencap/6aff9e1819e28.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-28",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 465542,
+      "tvdbId": 12027517,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-04T07:05:10.789Z",
+    "lastFetched": "2026-11-22T00:49:17.655Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

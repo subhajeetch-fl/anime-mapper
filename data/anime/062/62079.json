@@ -25,23 +25,19 @@
   },
   "type": "ONA",
   "source": "Manga",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
   "episodeLength": 30,
   "aired": {
     "from": "2026-07-19T00:00:00+00:00",
-    "to": null
+    "to": "2026-07-19T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
     "anilistScore": null,
@@ -49,37 +45,87 @@
   },
   "genres": [
     "Adventure",
-    "Sci-Fi",
-    "Action",
-    "Cyborg",
     "Mecha",
-    "Science Fiction"
+    "Sci-Fi",
+    "Shounen",
+    "Action"
   ],
   "studios": [
     "ARECT"
   ],
   "producers": [
-    "Ishimori Pro"
+    "Ishimori Production"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1626/158538l.jpg",
     "banner": null,
     "color": "#3586ff"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "Da_2mAvLs5E",
+    "url": "https://www.youtube.com/watch?v=Da_2mAvLs5E",
+    "thumbnail": "https://i.ytimg.com/vi/Da_2mAvLs5E/hqdefault.jpg"
+  },
   "synopsis": "New animation project for Cyborg 009.",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 30,
+      "airDate": "2026-07-19",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": 30,
+      "airDate": "2026-07-19",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": 40,
+      "airDate": "2026-07-19",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-19T04:13:21.171Z",
+    "lastFetched": "2026-11-22T00:49:41.872Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

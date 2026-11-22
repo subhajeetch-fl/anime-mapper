@@ -13,7 +13,7 @@
     "traktType": "shows",
     "shikimori": 57466,
     "livechart": 12439,
-    "animeplanet": "ascendance-of-a-bookworm-season-4",
+    "animeplanet": "ascendance-of-a-bookworm-season-4-adopted-daughter-of-an-archduke",
     "anisearch": 18911,
     "notify": "cjVhhxvIg"
   },
@@ -31,13 +31,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 24,
-  "episodeLength": 23,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-04-04T00:00:00+00:00",
-    "to": null
+    "to": "2026-10-03T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2026,
@@ -46,42 +46,43 @@
     "time": "17:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 20,
-    "airingAt": 1788597000
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.82,
-    "anilistScore": 7.6,
-    "kitsuRating": 7.9
+    "malScore": 7.73,
+    "anilistScore": 7.7,
+    "kitsuRating": null
   },
   "genres": [
     "Fantasy",
-    "Drama",
-    "Slice of Life",
     "Isekai",
-    "Fantasy World",
-    "Magic"
+    "Reincarnation",
+    "Drama",
+    "Slice of Life"
   ],
   "studios": [
     "Wit Studio"
   ],
   "producers": [
-    "Yomiuri Telecasting",
-    "Shochiku",
+    "TO Books",
+    "Yomiuri TV",
+    "WIT STUDIO",
     "Movic",
-    "KlockWorx",
-    "flying DOG",
     "Yomiuri TV Enterprise",
-    "TO Books"
+    "Shouchiku",
+    "flying DOG",
+    "KLOCKWORX"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1371/155054l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
     "color": "#5daee4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "rtPF6rjrdSU",
+    "url": "https://www.youtube.com/watch?v=rtPF6rjrdSU",
+    "thumbnail": "https://i.ytimg.com/vi/rtPF6rjrdSU/hqdefault.jpg"
+  },
   "synopsis": "Anime adaptation of part three of the Honzuki no Gekokujou light novel.",
   "sequence": [
     {
@@ -96,15 +97,30 @@
       "episodes": 10,
       "seasonYear": 2022,
       "relationType": "PREQUEL"
+    },
+    {
+      "malId": 65103,
+      "title": {
+        "romaji": "Honzuki no Gekokujou: Kizoku-in no Jishou Tosho Iin",
+        "english": null,
+        "native": "本好きの下剋上 貴族院の自称図書委員"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217712-dnqVxq7dslWJ.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
     }
   ],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-04",
       "title": {
-        "en": "I`ve Become a Noble"
+        "en": "I`ve Become a Noble",
+        "romaji": "Kizoku ni Natta Watashi",
+        "ja": "貴族になったわたし"
       },
       "tvdbShowId": 366263,
       "tvdbId": 11570111,
@@ -116,10 +132,12 @@
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-11",
       "title": {
-        "en": "Lower City Family Reunion"
+        "en": "Lower City Family Reunion",
+        "romaji": "Shitamachi Kazoku to no Saikai",
+        "ja": "下町家族との再会"
       },
       "tvdbShowId": 366263,
       "tvdbId": 11718101,
@@ -131,10 +149,12 @@
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-18",
       "title": {
-        "en": "Archduke`s Castle and Italian Restaurant"
+        "en": "Archduke`s Castle and Italian Restaurant",
+        "romaji": "Ryoushu no Shiro to Italian Restaurant",
+        "ja": "領主の城とイタリアンレストラン"
       },
       "tvdbShowId": 366263,
       "tvdbId": 11719066,
@@ -146,10 +166,12 @@
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-25",
       "title": {
-        "en": "How to Collect Donations"
+        "en": "How to Collect Donations",
+        "romaji": "Kifukin no Atsumekata",
+        "ja": "寄付金の集め方"
       },
       "tvdbShowId": 366263,
       "tvdbId": 11719067,
@@ -161,10 +183,12 @@
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-09",
       "title": {
-        "en": "Concert Preparations"
+        "en": "Concert Preparations",
+        "romaji": "Ensoukai no Junbi",
+        "ja": "演奏会の準備"
       },
       "tvdbShowId": 366263,
       "tvdbId": 11719068,
@@ -176,10 +200,12 @@
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-16",
       "title": {
-        "en": "Harspiel Concert"
+        "en": "Harspiel Concert",
+        "romaji": "Feshupiiru Concert",
+        "ja": "フェシュピールコンサート"
       },
       "tvdbShowId": 366263,
       "tvdbId": 11719069,
@@ -191,10 +217,12 @@
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-23",
       "title": {
-        "en": "Hasse`s Monastery"
+        "en": "Hasse`s Monastery",
+        "romaji": "Hasse no Shoushinden",
+        "ja": "ハッセの小神殿"
       },
       "tvdbShowId": 366263,
       "tvdbId": 11719070,
@@ -206,10 +234,12 @@
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-30",
       "title": {
-        "en": "Ferdinand`s Task"
+        "en": "Ferdinand`s Task",
+        "romaji": "Ferdinand no Kadai",
+        "ja": "フェルディナンドの課題"
       },
       "tvdbShowId": 366263,
       "tvdbId": 11719071,
@@ -221,10 +251,12 @@
     },
     "9": {
       "episode": "9",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-06",
       "title": {
-        "en": "Wilfried`s Day as High Bishop"
+        "en": "Wilfried`s Day as High Bishop",
+        "romaji": "Wilfried no Ichinichi Shinden Chou",
+        "ja": "ヴィルフリートの一日神殿長"
       },
       "tvdbShowId": 366263,
       "tvdbId": 11719072,
@@ -236,10 +268,12 @@
     },
     "10": {
       "episode": "10",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-13",
       "title": {
-        "en": "First Material Gathering"
+        "en": "First Material Gathering",
+        "romaji": "Hajimete no Sozai Saishuu",
+        "ja": "はじめての素材採集"
       },
       "tvdbShowId": 366263,
       "tvdbId": 11719073,
@@ -251,10 +285,12 @@
     },
     "11": {
       "episode": "11",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-20",
       "title": {
-        "en": "The Gathering of Gutenbergs"
+        "en": "The Gathering of Gutenbergs",
+        "romaji": "Gutenberg no Tsudoi",
+        "ja": "グーテンベルクの集い"
       },
       "tvdbShowId": 366263,
       "tvdbId": 11719074,
@@ -266,10 +302,12 @@
     },
     "12": {
       "episode": "12",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-27",
       "title": {
-        "en": "The Winter Social Season and Debut"
+        "en": "The Winter Social Season and Debut",
+        "romaji": "Fuyu no Shakoukai to Ohirome",
+        "ja": "冬の社交界とお披露目"
       },
       "tvdbShowId": 366263,
       "tvdbId": 11719075,
@@ -281,10 +319,12 @@
     },
     "13": {
       "episode": "13",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-11",
       "title": {
-        "en": "Winter Material Gathering"
+        "en": "Winter Material Gathering",
+        "romaji": "Fuyu no Sozai Saishuu",
+        "ja": "冬の素材採集"
       },
       "tvdbShowId": 366263,
       "tvdbId": 11863203,
@@ -296,10 +336,12 @@
     },
     "14": {
       "episode": "14",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-18",
       "title": {
-        "en": "Episode 14"
+        "en": "Hasse`s Punishment",
+        "romaji": "Hasse e no Batsu",
+        "ja": "ハッセへの罰"
       },
       "tvdbShowId": 366263,
       "tvdbId": 11880386,
@@ -311,10 +353,12 @@
     },
     "15": {
       "episode": "15",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-25",
       "title": {
-        "en": "Episode 15"
+        "en": "Night of Fruhtrane",
+        "romaji": "Fruhtrane no Yoru",
+        "ja": "フリュートレーネの夜"
       },
       "tvdbShowId": 366263,
       "tvdbId": 11880387,
@@ -322,14 +366,16 @@
       "episodeNumber": 51,
       "absoluteEpisodeNumber": 51,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880387/screencap/6a5b863ceab14.jpg"
     },
     "16": {
       "episode": "16",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-01",
       "title": {
-        "en": "Episode 16"
+        "en": "New Dress and Printing Press",
+        "romaji": "Atarashii Ishou to Insatsuki",
+        "ja": "新しい衣装と印刷機"
       },
       "tvdbShowId": 366263,
       "tvdbId": 11880388,
@@ -337,79 +383,156 @@
       "episodeNumber": 52,
       "absoluteEpisodeNumber": 52,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880388/screencap/6a64b3ead6d0e.jpg"
     },
-    "C1": {
-      "episode": "C1",
-      "length": "2m",
-      "airDate": "2026-04-04",
+    "17": {
+      "episode": "17",
+      "length": 25,
+      "airDate": "2026-08-08",
       "title": {
-        "en": "Opening"
+        "en": "Holding the Fort During the Archduke Conference",
+        "romaji": "Ryoushu Kaigi no Orusuban",
+        "ja": "領主会議のお留守番"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 366263,
+      "tvdbId": 11880389,
+      "seasonNumber": 1,
+      "episodeNumber": 53,
+      "absoluteEpisodeNumber": 53,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880389/screencap/6a6dfa283e1e9.jpg"
     },
-    "C2": {
-      "episode": "C2",
-      "length": "2m",
-      "airDate": "2026-07-11",
+    "18": {
+      "episode": "18",
+      "length": 25,
+      "airDate": "2026-08-15",
       "title": {
-        "en": "Opening 2"
+        "en": "Damuel`s Proposal",
+        "romaji": "Damuel no Moushide",
+        "ja": "ダームエルの申し出"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 366263,
+      "tvdbId": 11880390,
+      "seasonNumber": 1,
+      "episodeNumber": 54,
+      "absoluteEpisodeNumber": 54,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880390/screencap/6a77245a93092.jpg"
     },
-    "C3": {
-      "episode": "C3",
-      "length": "2m",
-      "airDate": "2026-04-04",
+    "19": {
+      "episode": "19",
+      "length": 25,
+      "airDate": "2026-08-22",
       "title": {
-        "en": "Ending"
+        "en": "Inspection of Illgner and Gathering of Summer",
+        "romaji": "Illgner Shisatsu to Natsu no Saishuu",
+        "ja": "イルクナー視察と夏の採集"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 366263,
+      "tvdbId": 11880391,
+      "seasonNumber": 1,
+      "episodeNumber": 55,
+      "absoluteEpisodeNumber": 55,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880391/screencap/6a8049fd24dd9.jpg"
     },
-    "C4": {
-      "episode": "C4",
-      "length": "2m",
-      "airDate": "2026-07-11",
+    "20": {
+      "episode": "20",
+      "length": 25,
+      "airDate": "2026-09-05",
       "title": {
-        "en": "Ending 2"
+        "en": "Georgine`s Visit",
+        "romaji": "Georgine no Raihou",
+        "ja": "ゲオルギーネの来訪"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 366263,
+      "tvdbId": 11880392,
+      "seasonNumber": 1,
+      "episodeNumber": 56,
+      "absoluteEpisodeNumber": 56,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880392/screencap/6a898e0c47afa.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": 25,
+      "airDate": "2026-09-12",
+      "title": {
+        "en": "Ruelle Rechallenge",
+        "romaji": "Ruelle ni Saichousen",
+        "ja": "リュエルに再挑戦"
+      },
+      "tvdbShowId": 366263,
+      "tvdbId": 11880393,
+      "seasonNumber": 1,
+      "episodeNumber": 57,
+      "absoluteEpisodeNumber": 57,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880393/screencap/6a9bf149e7491.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": 25,
+      "airDate": "2026-09-19",
+      "title": {
+        "en": "Wilfried`s Actions",
+        "romaji": "Wilfried no Okonai",
+        "ja": "ヴィルフリートの行い"
+      },
+      "tvdbShowId": 366263,
+      "tvdbId": 11880394,
+      "seasonNumber": 1,
+      "episodeNumber": 58,
+      "absoluteEpisodeNumber": 58,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880394/screencap/6aae67db5014d.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": 25,
+      "airDate": "2026-09-26",
+      "title": {
+        "en": "Charlotte`s Baptism",
+        "romaji": "Charlotte no Senreishiki",
+        "ja": "シャルロッテの洗礼式"
+      },
+      "tvdbShowId": 366263,
+      "tvdbId": 11880395,
+      "seasonNumber": 1,
+      "episodeNumber": 59,
+      "absoluteEpisodeNumber": 59,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880395/screencap/6aae68a651d75.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": 25,
+      "airDate": "2026-10-03",
+      "title": {
+        "en": "Rescue",
+        "romaji": "Kyuushutsu",
+        "ja": "救出"
+      },
+      "tvdbShowId": 366263,
+      "tvdbId": 11880396,
+      "seasonNumber": 1,
+      "episodeNumber": 60,
+      "absoluteEpisodeNumber": 60,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880396/screencap/6ab7acc779340.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T16:10:29.380Z",
+    "lastFetched": "2026-11-22T00:43:03.222Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

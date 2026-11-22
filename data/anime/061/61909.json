@@ -28,23 +28,19 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 21,
   "aired": {
     "from": "2025-08-29T00:00:00+00:00",
     "to": null
   },
   "season": "summer",
   "year": 2025,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
     "malScore": 6.07,
-    "anilistScore": 5.6,
+    "anilistScore": 5.9,
     "kitsuRating": null
   },
   "genres": [
@@ -62,19 +58,21 @@
     "color": "#fe9350"
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "\"I'd like to borrow Botan for a while.\" Botan is a female ninja about to get married. She is asked by her uncle, who is also a benefactor, to help support the declining samurai estate and her beloved lord. As invited and ordered by her uncle, she hides from the master she should be serving and lets her small body be violated. Despite her reason, which she sees as a duty, her body inevitably responds to the pleasure...\n\n\n\n(Source: Mediabank, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-04T21:42:54.586Z",
+    "lastFetched": "2026-11-22T00:48:47.310Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

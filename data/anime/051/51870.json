@@ -28,27 +28,25 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 4,
   "aired": {
     "from": "2019-06-12T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "spring",
+  "year": 2019,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG - Children",
   "score": {
-    "malScore": 5.41,
+    "malScore": 5.42,
     "anilistScore": null,
     "kitsuRating": null
   },
   "genres": [
-    "Comedy"
+    "Comedy",
+    "Educational",
+    "Kids"
   ],
   "studios": [],
   "producers": [],
@@ -62,16 +60,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T18:14:40.312Z",
+    "lastFetched": "2026-11-22T00:40:38.686Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

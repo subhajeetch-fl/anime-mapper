@@ -30,13 +30,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
   "episodeLength": 24,
   "aired": {
     "from": "2026-07-06T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-21T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -45,20 +45,17 @@
     "time": "20:57",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788782220
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.57,
-    "anilistScore": 5.8,
+    "malScore": 6.61,
+    "anilistScore": 6.4,
     "kitsuRating": null
   },
   "genres": [
-    "Action",
     "Adventure",
     "Fantasy",
+    "Action",
     "Comedy",
     "Drama",
     "Romance"
@@ -67,89 +64,247 @@
     "Maho Film"
   ],
   "producers": [
-    "Kadokawa",
-    "Bit grooove promotion"
+    "Asmik Ace",
+    "Maho Film",
+    "Bushiroad",
+    "AC Create",
+    "Avex Pictures",
+    "Bit grooove promotion",
+    "BS Fuji",
+    "AQUA ARIS",
+    "Happinet Media Marketing",
+    "KLOCKWORX",
+    "ADK Marketing Solutions"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1529/158522l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169582-D5p5iRI5XqML.jpg",
     "color": "#f1e4c9"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "tcaxQBQMTEk",
+    "url": "https://www.youtube.com/watch?v=tcaxQBQMTEk",
+    "thumbnail": "https://i.ytimg.com/vi/tcaxQBQMTEk/hqdefault.jpg"
+  },
   "synopsis": "The Adrasia empire on the Vogel continent. There is a battle over the throne of such an empire that possesses powerful military and vast territory. With the successor undecided, the children of the emperor are vying to expand their power. However, there was one prince that everyone says will definitely not become the emperor: the seventh prince, Arnold Lakes Adler. The young man who was inferior to his younger twin brother in every way, the dull prince. Incompetent and lethargic, Arnold wastes everyday just playing around. However, behind the scenes, he is one of the only five SS-Class adventurers called \"Silver.\" Seeing the intensifying battle for the throne he decided \"I don't want to die, so let's have my little brother become the emperor...\" This is the tale of absurd secret maneuvers of the prince who is uninterested in the title of the emperor.\n\n(Source: Shousetsuka ni Narou, translated)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-06",
       "title": {
-        "en": "The Insipid Prince"
+        "en": "The Insipid Prince",
+        "romaji": "Degarashi Ouji",
+        "ja": "出涸らし皇子"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 476185,
+      "tvdbId": 11709512,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11709512/screencap/6a4a68b6ae40a.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-13",
       "title": {
-        "en": "Date at the Capital?"
+        "en": "Date at the Capital?",
+        "romaji": "Teito de Date?",
+        "ja": "帝都でデート?"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 476185,
+      "tvdbId": 11709513,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11709513/screencap/6a5449713ad68.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-20",
       "title": {
-        "en": "Episode 3"
+        "en": "Elna Attacks",
+        "romaji": "Elna Shuurai",
+        "ja": "エルナ襲来"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 476185,
+      "tvdbId": 11709514,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11709514/screencap/6a5e02405398d.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-27",
       "title": {
-        "en": "Episode 4"
+        "en": "In Town, the Night Before the Knights` Festival of the Hunt",
+        "romaji": "Kishi Shuryousai, Zen`ya no Machi de",
+        "ja": "騎士狩猟祭, 前夜の町で"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 476185,
+      "tvdbId": 11709515,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11709515/screencap/6a674999a73ef.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-03",
+      "title": {
+        "en": "The Knights` Festival of the Hunt Part 1",
+        "romaji": "Kishi Shuryousai Zenpen",
+        "ja": "騎士狩猟祭・前編"
+      },
+      "tvdbShowId": 476185,
+      "tvdbId": 11709517,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11709517/screencap/6a6fef2ebc899.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-10",
+      "title": {
+        "en": "The Knights` Festival of the Hunt Part 2",
+        "romaji": "Kishi Shuryousai Kouhen",
+        "ja": "騎士狩猟祭・後編"
+      },
+      "tvdbShowId": 476185,
+      "tvdbId": 11709518,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11709518/screencap/6a7929c695286.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-17",
+      "title": {
+        "en": "Furtive Activities and Engagements",
+        "romaji": "An`yaku to Kon`yaku",
+        "ja": "暗躍と婚約"
+      },
+      "tvdbShowId": 476185,
+      "tvdbId": 11709519,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11709519/screencap/6a82e50d31605.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-24",
+      "title": {
+        "en": "Shelter from the Rain",
+        "romaji": "Ameyadori",
+        "ja": "雨宿り"
+      },
+      "tvdbShowId": 476185,
+      "tvdbId": 11709520,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11709520/screencap/6a8b7f2f5dccf.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-31",
+      "title": {
+        "en": "Switching Places, and the Struggles of Arnold",
+        "romaji": "Irekawari to, Arnold no Kunou",
+        "ja": "入れ替わりと, アルノルトの苦悩"
+      },
+      "tvdbShowId": 476185,
+      "tvdbId": 11709521,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11709521/screencap/6a94dde39d0bc.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-07",
+      "title": {
+        "en": "Each of Their Roles",
+        "romaji": "Sorezore no Yakuwari",
+        "ja": "それぞれの役割"
+      },
+      "tvdbShowId": 476185,
+      "tvdbId": 11709522,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11709522/screencap/6a9e0ff9b7bb1.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-14",
+      "title": {
+        "en": "Leviatano Roars",
+        "romaji": "Leviatano, Houkou",
+        "ja": "レヴィアターノ, 咆哮"
+      },
+      "tvdbShowId": 476185,
+      "tvdbId": 11709523,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11709523/screencap/6aa73d83bd27b.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-21",
+      "title": {
+        "en": "Final Battle! Leviatano",
+        "romaji": "Kessen! Leviatano",
+        "ja": "決戦! レヴィアターノ"
+      },
+      "tvdbShowId": 476185,
+      "tvdbId": 11709524,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11709524/screencap/6ab115ce76844.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T16:08:42.359Z",
+    "lastFetched": "2026-11-22T00:42:41.625Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

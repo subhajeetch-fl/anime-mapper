@@ -37,16 +37,12 @@
   },
   "season": "summer",
   "year": 2025,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 5.51,
-    "anilistScore": 4.5,
+    "malScore": 5.48,
+    "anilistScore": 5,
     "kitsuRating": null
   },
   "genres": [
@@ -63,7 +59,7 @@
     "color": "#5daee4"
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "Based on the erotic doujin game by x-rabbit (えっくす・らびっと).\n\n\n\nIn a certain deep forest, there is a girl walking alone. Her name is Alps. And this is a dangerous forest where many terrible creatures lurk. But Alps is frightened and goes on her way. To save her sick sister, she continues to walk out of the forest with a medicinal herb in her hand. Alps is still walking, \"Wait for me. Sister\". However, the forest is not as sweet as one's determination. A big monkey in heat forced her to sow her seed, and a boar attacked her with his huge body. Furthermore, she also encounters a group of men of dubious character.... The lone, dainty girl is nothing but food for the beasts. What will be the fate of Alps?... Alps wanders through a dangerous forest to save her sister. Her white soft skin emerges in the dimly lit forest. The huge body of a boar, a big monkey in heat, rests on it. A glossy pink color emerges on her heated body.\n\n\n\n(Source: Getchu, translated)",
   "sequence": [
     {
       "malId": null,
@@ -81,15 +77,17 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-07T13:10:17.162Z",
+    "lastFetched": "2026-11-22T00:48:58.270Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

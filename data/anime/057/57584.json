@@ -34,15 +34,11 @@
   "episodeLength": null,
   "aired": {
     "from": "2027-01-01T00:00:00+00:00",
-    "to": null
+    "to": "2027-01-01T00:00:00+00:00"
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
@@ -55,6 +51,7 @@
     "Comedy",
     "Fantasy",
     "Isekai",
+    "Reincarnation",
     "Magic",
     "Parody",
     "Swordplay",
@@ -64,15 +61,18 @@
     "Nexus"
   ],
   "producers": [
-    "Kadokawa",
-    "Kadokawa Animation"
+    "KADOKAWA"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1797/156362l.jpg",
     "banner": null,
     "color": "#f17828"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "eJFryCtdQQc",
+    "url": "https://www.youtube.com/watch?v=eJFryCtdQQc",
+    "thumbnail": "https://i.ytimg.com/vi/eJFryCtdQQc/hqdefault.jpg"
+  },
   "synopsis": "Sequel to Kage no Jitsuryokusha ni Naritakute! 2nd Season.",
   "sequence": [
     {
@@ -89,17 +89,36 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-30T19:30:29.366Z",
+    "lastFetched": "2026-11-22T00:43:11.445Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

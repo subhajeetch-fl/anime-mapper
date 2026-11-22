@@ -28,725 +28,910 @@
   },
   "type": "ONA",
   "source": "4-koma manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 50,
   "episodeLength": 3,
   "aired": {
     "from": "2025-10-15T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-23T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2025,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
-  "nextAiringEpisode": {
-    "episode": 44,
-    "airingAt": 1786532400
-  },
+  "broadcast": null,
+  "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
-    "malScore": 6.21,
-    "anilistScore": 5.4,
+    "malScore": 6.36,
+    "anilistScore": 6,
     "kitsuRating": null
   },
   "genres": [
-    "Comedy",
-    "Kids",
-    "Detective",
-    "Historical",
-    "Anthropomorphism"
+    "Anthropomorphic",
+    "Comedy"
   ],
   "studios": [
     "Studio Comet"
   ],
   "producers": [
     "Kodansha",
-    "Kadokawa"
+    "KADOKAWA"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1365/152216l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1365/152216l.webp",
     "banner": null,
     "color": "#e46b5d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "n-jg8syMe08",
+    "url": "https://www.youtube.com/watch?v=n-jg8syMe08",
+    "thumbnail": "https://i.ytimg.com/vi/n-jg8syMe08/hqdefault.jpg"
+  },
   "synopsis": "The cute comedy manga and anime take children's stories and folktales from all around the world and asks, \"what if a cat appeared in this story?\"\n\n(Source: ANN)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-10-15",
       "title": {
-        "en": "Magic Mirror and Cats"
+        "en": "Magic Mirror and Cats",
+        "romaji": "Mahou no Kagami to Neko",
+        "ja": "魔法の鏡とねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11423954,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 3,
       "image": null
     },
     "2": {
       "episode": "2",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-10-22",
       "title": {
-        "en": "Little Red Riding Hood and Cats"
+        "en": "Little Red Riding Hood and Cats",
+        "romaji": "Akazukin to Neko",
+        "ja": "赤ずきんとねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11423955,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 3,
       "image": null
     },
     "3": {
       "episode": "3",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-10-29",
       "title": {
-        "en": "The Cat \"Frog\" Prince"
+        "en": "The Cat \"Frog\" Prince",
+        "romaji": "Kaeru no Ousama na Neko",
+        "ja": "カエルの王様なねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11423956,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 3,
       "image": null
     },
     "4": {
       "episode": "4",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-11-05",
       "title": {
-        "en": "The Pillow Book and Cats"
+        "en": "The Pillow Book and Cats",
+        "romaji": "Makura no Soushi na Neko",
+        "ja": "枕草子なねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11440051,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 3,
       "image": null
     },
     "5": {
       "episode": "5",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-11-12",
       "title": {
-        "en": "The Happy Cat Prince"
+        "en": "The Happy Cat Prince",
+        "romaji": "Neko no Koufuku na Ouji",
+        "ja": "ねこの幸福な王子"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11465591,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 3,
       "image": null
     },
     "6": {
       "episode": "6",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-11-19",
       "title": {
-        "en": "Sherlock Holmes and the Cat"
+        "en": "Sherlock Holmes and the Cat",
+        "romaji": "Sherlock Holmes na Neko",
+        "ja": "シャーロック・ホームズなねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11465592,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 3,
       "image": null
     },
     "7": {
       "episode": "7",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-11-26",
       "title": {
-        "en": "The Cat Genie"
+        "en": "The Cat Genie",
+        "romaji": "Lamp no Sei no Neko",
+        "ja": "ランプの精のねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11479679,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 3,
       "image": null
     },
     "8": {
       "episode": "8",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-12-03",
       "title": {
-        "en": "Hansel and Gretel and Cats"
+        "en": "Hansel and Gretel and Cats",
+        "romaji": "Hansel to Gretel to Neko",
+        "ja": "ヘンゼルとグレーテルとねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11491445,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 3,
       "image": null
     },
     "9": {
       "episode": "9",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-12-10",
       "title": {
-        "en": "The Shoemaker and the Cat Elves"
+        "en": "The Shoemaker and the Cat Elves",
+        "romaji": "Kutsuya-san to Kodomo Neko",
+        "ja": "靴屋さんと小人ねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11503361,
+      "seasonNumber": 1,
       "episodeNumber": 9,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 3,
       "image": null
     },
     "10": {
       "episode": "10",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-12-17",
       "title": {
-        "en": "I Am a Cat"
+        "en": "I Am a Cat",
+        "romaji": "Wagahai wa Neko de Aru",
+        "ja": "吾輩はねこである"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11513694,
+      "seasonNumber": 1,
       "episodeNumber": 10,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 3,
       "image": null
     },
     "11": {
       "episode": "11",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-12-24",
       "title": {
-        "en": "Cinderella and the Cat"
+        "en": "Cinderella and the Cat",
+        "romaji": "Cinderella to Neko",
+        "ja": "シンデレラとねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11522241,
+      "seasonNumber": 1,
       "episodeNumber": 11,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 3,
       "image": null
     },
     "12": {
       "episode": "12",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-12-31",
       "title": {
-        "en": "Narcissus and Cat"
+        "en": "Narcissus and Cat",
+        "romaji": "Narcissus to Neko",
+        "ja": "ナルキッソスとねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11532406,
+      "seasonNumber": 1,
       "episodeNumber": 12,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 3,
       "image": null
     },
     "13": {
       "episode": "13",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-01-07",
       "title": {
-        "en": "The Little Match Girl and the Cat"
+        "en": "The Little Match Girl and the Cat",
+        "romaji": "Match Uri no Shoujo to Neko",
+        "ja": "マッチ売りの少女とねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11548260,
+      "seasonNumber": 1,
       "episodeNumber": 13,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 3,
       "image": null
     },
     "14": {
       "episode": "14",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-01-14",
       "title": {
-        "en": "The Bamboo Cutter and the Cat"
+        "en": "The Bamboo Cutter and the Cat",
+        "romaji": "Kaguya Neko",
+        "ja": "かぐやねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11560143,
+      "seasonNumber": 1,
       "episodeNumber": 14,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 3,
       "image": null
     },
     "15": {
       "episode": "15",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-01-21",
       "title": {
-        "en": "The Ugly Kitten"
+        "en": "The Ugly Kitten",
+        "romaji": "Minikui Ahiru no Ko na Neko",
+        "ja": "みにくいアヒルの子なねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11570733,
+      "seasonNumber": 1,
       "episodeNumber": 15,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 3,
       "image": null
     },
     "16": {
       "episode": "16",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-01-28",
       "title": {
-        "en": "The Legend of the Golem and the Cat"
+        "en": "The Legend of the Golem and the Cat",
+        "romaji": "Golem Densetsu to Neko",
+        "ja": "ゴーレム伝説とねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11582882,
+      "seasonNumber": 1,
       "episodeNumber": 16,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 3,
       "image": null
     },
     "17": {
       "episode": "17",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-02-04",
       "title": {
-        "en": "Cat in Wonderland"
+        "en": "Cat in Wonderland",
+        "romaji": "Fushigi no Kuni no Alice na Neko",
+        "ja": "不思議の国のアリスなねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11596550,
+      "seasonNumber": 1,
       "episodeNumber": 17,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 3,
       "image": null
     },
     "18": {
       "episode": "18",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-02-11",
       "title": {
-        "en": "Nobunaga and the Cat"
+        "en": "Nobunaga and the Cat",
+        "romaji": "Nobunaga to Neko",
+        "ja": "信長とねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11610362,
+      "seasonNumber": 1,
       "episodeNumber": 18,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 3,
       "image": null
     },
     "19": {
       "episode": "19",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-02-18",
       "title": {
-        "en": "Cat and the Forty Thieves"
+        "en": "Cat and the Forty Thieves",
+        "romaji": "Touzoku-tachi to Neko",
+        "ja": "盗賊たちとねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11632794,
+      "seasonNumber": 1,
       "episodeNumber": 19,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 3,
       "image": null
     },
     "20": {
       "episode": "20",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-02-25",
       "title": {
-        "en": "The North Wind and the Sun"
+        "en": "The North Wind and the Sun",
+        "romaji": "Kitakaze to Taiyou to Neko",
+        "ja": "北風と太陽とねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11658851,
+      "seasonNumber": 1,
       "episodeNumber": 20,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 3,
       "image": null
     },
     "21": {
       "episode": "21",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-03-04",
       "title": {
-        "en": "Urashima Tarou and the Cat"
+        "en": "Urashima Tarou and the Cat",
+        "romaji": "Urashima Tarou to Neko",
+        "ja": "浦島太郎とねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11658852,
+      "seasonNumber": 1,
       "episodeNumber": 21,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 3,
       "image": null
     },
     "22": {
       "episode": "22",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-03-11",
       "title": {
-        "en": "The Cat Emperor`s New Clothes"
+        "en": "The Cat Emperor`s New Clothes",
+        "romaji": "Hadaka no Ousama na Neko",
+        "ja": "裸の王様なねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11672480,
+      "seasonNumber": 1,
       "episodeNumber": 22,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 3,
       "image": null
     },
     "23": {
       "episode": "23",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-03-18",
       "title": {
-        "en": "The Snowcat"
+        "en": "The Snowcat",
+        "romaji": "Ugoku Yukidaruma na Neko",
+        "ja": "動くゆきだるまなねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11685293,
+      "seasonNumber": 1,
       "episodeNumber": 23,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 3,
       "image": null
     },
     "24": {
       "episode": "24",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-03-25",
       "title": {
-        "en": "The Grateful Cat Part 1"
+        "en": "The Grateful Cat Part 1",
+        "romaji": "Neko no Ongaeshi: Sono 1",
+        "ja": "ねこの恩返し・その1"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11712815,
+      "seasonNumber": 1,
       "episodeNumber": 24,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 3,
       "image": null
     },
     "25": {
       "episode": "25",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-04-01",
       "title": {
-        "en": "The Grateful Cat Part 2"
+        "en": "The Grateful Cat Part 2",
+        "romaji": "Neko no Ongaeshi: Sono 2",
+        "ja": "ねこの恩返し・その2"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11712816,
+      "seasonNumber": 1,
       "episodeNumber": 25,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 3,
       "image": null
     },
     "26": {
       "episode": "26",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-04-08",
       "title": {
-        "en": "The Honest Man and the Cats"
+        "en": "The Honest Man and the Cats",
+        "romaji": "Shoujikimono to Neko",
+        "ja": "正直者とねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11727480,
+      "seasonNumber": 1,
       "episodeNumber": 26,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 3,
       "image": null
     },
     "27": {
       "episode": "27",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-04-15",
       "title": {
-        "en": "Run, Melos the Cat!"
+        "en": "Run, Melos the Cat!",
+        "romaji": "Hashire Melos na Neko",
+        "ja": "走れメロスなねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11742626,
+      "seasonNumber": 1,
       "episodeNumber": 27,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 3,
       "image": null
     },
     "28": {
       "episode": "28",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-04-22",
       "title": {
-        "en": "Ikkyu-san and Cat"
+        "en": "Ikkyu-san and Cat",
+        "romaji": "Ikkyuu-san to Neko",
+        "ja": "一休さんとねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11754368,
+      "seasonNumber": 1,
       "episodeNumber": 28,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 3,
       "image": null
     },
     "29": {
       "episode": "29",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-04-29",
       "title": {
-        "en": "Romeo and Juliet as Cats"
+        "en": "Romeo and Juliet as Cats",
+        "romaji": "Romeo to Juliet na Neko",
+        "ja": "ロミオとジュリエットなねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11774910,
+      "seasonNumber": 1,
       "episodeNumber": 29,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 3,
       "image": null
     },
     "30": {
       "episode": "30",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-05-06",
       "title": {
-        "en": "Rapunzel and Cats"
+        "en": "Rapunzel and Cats",
+        "romaji": "Rapunzel to Neko",
+        "ja": "ラプンツェルとねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11784923,
+      "seasonNumber": 1,
       "episodeNumber": 30,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 3,
       "image": null
     },
     "31": {
       "episode": "31",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-05-13",
       "title": {
-        "en": "The Ant, the Grasshopper, and the Cat"
+        "en": "The Ant, the Grasshopper, and the Cat",
+        "romaji": "Ari to Kirigirisu to Neko",
+        "ja": "アリとキリギリスとねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11793136,
+      "seasonNumber": 1,
       "episodeNumber": 31,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 3,
       "image": null
     },
     "32": {
       "episode": "32",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-05-20",
       "title": {
-        "en": "The Moon over the Mountain and the Cat"
+        "en": "The Moon over the Mountain and the Cat",
+        "romaji": "Sangetsuki no Neko",
+        "ja": "山月記のねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11803231,
+      "seasonNumber": 1,
       "episodeNumber": 32,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 3,
       "image": null
     },
     "33": {
       "episode": "33",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-05-27",
       "title": {
-        "en": "The Owl`s Dye Shop and the Cats"
+        "en": "The Owl`s Dye Shop and the Cats",
+        "romaji": "Fukurou no Somemonoya to Neko",
+        "ja": "ふくろうの染物屋とねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11815645,
+      "seasonNumber": 1,
       "episodeNumber": 33,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 3,
       "image": null
     },
     "34": {
       "episode": "34",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-06-03",
       "title": {
-        "en": "Journey to the West and Cats Part 1"
+        "en": "Journey to the West and Cats Part 1",
+        "romaji": "Saiyuuki no Neko: Sono 1",
+        "ja": "西遊記のねこ・その1"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11827693,
+      "seasonNumber": 1,
       "episodeNumber": 34,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 3,
       "image": null
     },
     "35": {
       "episode": "35",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-06-10",
       "title": {
-        "en": "Journey to the West and Cats Part 2"
+        "en": "Journey to the West and Cats Part 2",
+        "romaji": "Saiyuuki no Neko: Sono 2",
+        "ja": "西遊記のねこ・その2"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11839170,
+      "seasonNumber": 1,
       "episodeNumber": 35,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 3,
       "image": null
     },
     "36": {
       "episode": "36",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-06-17",
       "title": {
-        "en": "The Town Musicians of Bremen and the Cats"
+        "en": "The Town Musicians of Bremen and the Cats",
+        "romaji": "Bremen no Ongakutai na Neko",
+        "ja": "ブレーメンの音楽隊なねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11851640,
+      "seasonNumber": 1,
       "episodeNumber": 36,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 3,
       "image": null
     },
     "37": {
       "episode": "37",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-06-24",
       "title": {
-        "en": "Hoichi the Earless Cat"
+        "en": "Hoichi the Earless Cat",
+        "romaji": "Miminashi Houichi na Neko",
+        "ja": "耳なし芳一なねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11860001,
+      "seasonNumber": 1,
       "episodeNumber": 37,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 37,
+      "runtime": 3,
       "image": null
     },
     "38": {
       "episode": "38",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-07-01",
       "title": {
-        "en": "The Magic of Oz and Cat"
+        "en": "The Magic of Oz and Cat",
+        "romaji": "Oz no Mahou Tsukai to Neko",
+        "ja": "オズの魔法使いとねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11869551,
+      "seasonNumber": 1,
       "episodeNumber": 38,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 38,
+      "runtime": 3,
       "image": null
     },
     "39": {
       "episode": "39",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-07-08",
       "title": {
-        "en": "The Cat of Poverty and the Cat of Fortune"
+        "en": "The Cat of Poverty and the Cat of Fortune",
+        "romaji": "Binbougami to Fuku no Kami na Neko",
+        "ja": "貧乏神と福の神なねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11886232,
+      "seasonNumber": 1,
       "episodeNumber": 39,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 39,
+      "runtime": 3,
       "image": null
     },
     "40": {
       "episode": "40",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-07-15",
       "title": {
-        "en": "The Three Arrows and the Cat"
+        "en": "The Three Arrows and the Cat",
+        "romaji": "Sanbon no Ya to Neko",
+        "ja": "三本の矢とねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11886233,
+      "seasonNumber": 1,
       "episodeNumber": 40,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 40,
+      "runtime": 3,
       "image": null
     },
     "41": {
       "episode": "41",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-07-22",
       "title": {
-        "en": "Episode 41"
+        "en": "The Trojan Cat",
+        "romaji": "Troy no Mokuba na Neko",
+        "ja": "トロイの木馬なねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11914111,
+      "seasonNumber": 1,
       "episodeNumber": 41,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 41,
+      "runtime": 3,
       "image": null
     },
     "42": {
       "episode": "42",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-07-29",
       "title": {
-        "en": "Episode 42"
+        "en": "The Cat of Hamelin",
+        "romaji": "Hameln no Neko",
+        "ja": "ハーメルンのねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11914112,
+      "seasonNumber": 1,
       "episodeNumber": 42,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 42,
+      "runtime": 3,
       "image": null
     },
     "43": {
       "episode": "43",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-08-05",
       "title": {
-        "en": "Episode 43"
+        "en": "The Straw Millionaire and the Cat",
+        "romaji": "Warashibe to Neko",
+        "ja": "わらしべとねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11914113,
+      "seasonNumber": 1,
       "episodeNumber": 43,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 43,
+      "runtime": 3,
       "image": null
     },
     "44": {
       "episode": "44",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-08-12",
       "title": {
-        "en": "Episode 44"
+        "en": "Momotaro and Cat",
+        "romaji": "Momotarou to Neko",
+        "ja": "桃太郎とねこ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 459743,
+      "tvdbId": 11927399,
+      "seasonNumber": 1,
       "episodeNumber": 44,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 44,
+      "runtime": 3,
       "image": null
+    },
+    "45": {
+      "episode": "45",
+      "length": 3,
+      "airDate": "2026-08-19",
+      "title": {
+        "en": "Abe no Seimei the Cat",
+        "romaji": "Abe no Seimei na Neko",
+        "ja": "安倍晴明なねこ"
+      },
+      "tvdbShowId": 459743,
+      "tvdbId": 11948648,
+      "seasonNumber": 1,
+      "episodeNumber": 45,
+      "absoluteEpisodeNumber": 45,
+      "runtime": 3,
+      "image": null
+    },
+    "46": {
+      "episode": "46",
+      "length": 3,
+      "airDate": "2026-08-26",
+      "title": {
+        "en": "The Enemy`s Gift of Salt",
+        "romaji": "Teki ni Shio mo Okuru",
+        "ja": "敵に塩も送る"
+      },
+      "tvdbShowId": 459743,
+      "tvdbId": 11948649,
+      "seasonNumber": 1,
+      "episodeNumber": 46,
+      "absoluteEpisodeNumber": 46,
+      "runtime": 3,
+      "image": null
+    },
+    "47": {
+      "episode": "47",
+      "length": 3,
+      "airDate": "2026-09-02",
+      "title": {
+        "en": "The Three Kittens",
+        "romaji": "Sanbiki no Koneko",
+        "ja": "三匹の子ねこ"
+      },
+      "tvdbShowId": 459743,
+      "tvdbId": 11961437,
+      "seasonNumber": 1,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": 47,
+      "runtime": 3,
+      "image": null
+    },
+    "48": {
+      "episode": "48",
+      "length": 3,
+      "airDate": "2026-09-09",
+      "title": {
+        "en": "Peter Pan and Cats",
+        "romaji": "Peter Pan na Neko",
+        "ja": "ピーターパンなねこ"
+      },
+      "tvdbShowId": 459743,
+      "tvdbId": 11971579,
+      "seasonNumber": 1,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": 48,
+      "runtime": 3,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11971579/screencap/6aa263661fa3e.jpg"
+    },
+    "49": {
+      "episode": "49",
+      "length": 3,
+      "airDate": "2026-09-16",
+      "title": {
+        "en": "The Genesis of Cats",
+        "romaji": "Neko no Souseiki",
+        "ja": "ねこの創世記"
+      },
+      "tvdbShowId": 459743,
+      "tvdbId": 11984581,
+      "seasonNumber": 1,
+      "episodeNumber": 49,
+      "absoluteEpisodeNumber": 49,
+      "runtime": 3,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11984581/screencap/6aaaf10a5e627.jpg"
+    },
+    "50": {
+      "episode": "50",
+      "length": 3,
+      "airDate": "2026-09-23",
+      "title": {
+        "en": "The Creation of Cats",
+        "romaji": "Tenchisouzou na Neko",
+        "ja": "天地創造なねこ"
+      },
+      "tvdbShowId": 459743,
+      "tvdbId": 12000893,
+      "seasonNumber": 1,
+      "episodeNumber": 50,
+      "absoluteEpisodeNumber": 50,
+      "runtime": 3,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12000893/screencap/6ab6467a75d95.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-08-07T11:46:35.134Z",
+    "lastFetched": "2026-11-22T00:46:52.482Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

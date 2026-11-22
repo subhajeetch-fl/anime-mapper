@@ -23,18 +23,19 @@
     "native": "さよならララ",
     "synonyms": [
       "さよララ",
-      "SayoLara"
+      "SayoLara",
+      "Прощай, Лара"
     ]
   },
   "type": "TV",
   "source": "Original",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": 23,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-06T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-21T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -43,165 +44,258 @@
     "time": "00:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788708600
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.73,
+    "malScore": 7.61,
     "anilistScore": 7.6,
-    "kitsuRating": 7.73
+    "kitsuRating": null
   },
   "genres": [
-    "Fantasy",
-    "Romance",
     "Drama",
+    "Reincarnation",
+    "Romance",
     "Supernatural",
-    "Mermaid"
+    "Fantasy"
   ],
   "studios": [
     "Kinema Citrus"
   ],
   "producers": [
-    "Sound Team Don Juan",
-    "Kadokawa"
+    "KADOKAWA",
+    "Yomiuri TV",
+    "Sammy",
+    "arma bianca",
+    "Pia",
+    "BS Asahi",
+    "Kinema Citrus",
+    "JR Nishi Nihon Communications"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1411/156343l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
-    "color": "#5daee4"
+    "color": "#e4ae35"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "gjq7xyVdv5I",
+    "url": "https://www.youtube.com/watch?v=gjq7xyVdv5I",
+    "thumbnail": "https://i.ytimg.com/vi/gjq7xyVdv5I/hqdefault.jpg"
+  },
   "synopsis": "Long, long ago, there lived a mermaid princess named Lara. She was raised with love by her father, the king of sea and her sisters. One day, Lara fell in love with a human prince who lived on land. It was a forbidden love—one that was not allowed in the world of mermaids. Still, Lara journeyed to the surface. With a potion, given to her from the witch Grace, she became human. But the potion came at a cost—fail to find true love, and she would turn into foam and vanish into the ocean. Though she was a princess of the sea, Lara chose love. Yet, her wish went unfulfilled and she vanished into the sea. Two hundred years later, Lara awakens once more, in Lake Biwa to finally search for her true love.\n\n(Source: Crunchyroll)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-06",
       "title": {
-        "en": "Mermaid Princess Lara"
+        "en": "Mermaid Princess Lara",
+        "romaji": "Ningyohime Lara",
+        "ja": "人魚姫ララ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450228,
+      "tvdbId": 10502642,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10502642/screencap/6a3f931063cb6.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-13",
       "title": {
-        "en": "Running Through Shiga"
+        "en": "Running Through Shiga",
+        "romaji": "Shiga o Hashiru",
+        "ja": "滋賀を走る"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450228,
+      "tvdbId": 11860505,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860505/screencap/6a4cc66b896b4.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-20",
       "title": {
-        "en": "Episode 3"
+        "en": "Look Away and You Lose",
+        "romaji": "Me, Sorashitara Make",
+        "ja": "目, そらしたら負け"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450228,
+      "tvdbId": 11860506,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860506/screencap/6a561735e97e8.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-27",
       "title": {
-        "en": "Episode 4"
+        "en": "The Princess and the Prince",
+        "romaji": "Hime to Ouji",
+        "ja": "姫と王子"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450228,
+      "tvdbId": 11860507,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860507/screencap/6a5f5993b7e8a.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-03",
       "title": {
-        "en": "Episode 5"
+        "en": "I`m Willing to Die for Cake!",
+        "romaji": "Cake no Tame Nara Shinemasu!",
+        "ja": "ケーキのためなら死ねます!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450228,
+      "tvdbId": 11860508,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860508/screencap/6a68adffea2e3.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-10",
       "title": {
-        "en": "Episode 6"
+        "en": "The Light That Shines on Me",
+        "romaji": "Watashi o Terasu Hikari",
+        "ja": "わたしを照らす光"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450228,
+      "tvdbId": 11860509,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860509/screencap/6a71acb4b0d0a.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-17",
       "title": {
-        "en": "Episode 7"
+        "en": "Meet Me at Biwako Terrace Saturday at 10",
+        "romaji": "Doyou no 10-ji, Biwako Terrace de",
+        "ja": "土曜の10時, びわ湖テラスで"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450228,
+      "tvdbId": 11860510,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860510/screencap/6a7ae83993ef4.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-24",
       "title": {
-        "en": "Episode 8"
+        "en": "The Night of the Final Match",
+        "romaji": "Kesshousen no Yoru",
+        "ja": "決勝戦の夜"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450228,
+      "tvdbId": 11860511,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860511/screencap/6a842673036cd.jpg"
     },
-    "OP1": {
-      "episode": "OP1",
-      "length": "2m",
-      "airDate": "2026-07-13",
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-31",
       "title": {
-        "en": "Sayonara Lara (2)"
+        "en": "True Love",
+        "romaji": "Hontou no Ai",
+        "ja": "本当の愛"
+      },
+      "tvdbShowId": 450228,
+      "tvdbId": 11860512,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860512/screencap/6a8d5eb6c866d.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-07",
+      "title": {
+        "en": "The Princess with a Blade",
+        "romaji": "Yaiba o Motta Princess",
+        "ja": "刃を持ったプリンセス"
+      },
+      "tvdbShowId": 450228,
+      "tvdbId": 11860513,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860513/screencap/6a96a124e593c.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-14",
+      "title": {
+        "en": "Grace the Witch",
+        "romaji": "Majo Grace",
+        "ja": "魔女グレイス"
+      },
+      "tvdbShowId": 450228,
+      "tvdbId": 11860514,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860514/screencap/6a9fd4e7330d8.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-21",
+      "title": {
+        "en": "Goodbye, Lara",
+        "romaji": "Sayonara Lara",
+        "ja": "さよならララ"
+      },
+      "tvdbShowId": 450228,
+      "tvdbId": 11860515,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860515/screencap/6aa910399a39c.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": 1,
+      "airDate": "2026-06-30",
+      "title": {
+        "en": "Four Seasons With Lara And Mari ~Spring~",
+        "romaji": "Rara to Mari to Sugosu Shiki ~Haru~",
+        "ja": "ララと茉里と過ごす四季 ～春～"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -211,12 +305,14 @@
       "runtime": null,
       "image": null
     },
-    "ED2": {
-      "episode": "ED2",
-      "length": "2m",
-      "airDate": "2026-07-13",
+    "S2": {
+      "episode": "S2",
+      "length": 1,
+      "airDate": "2026-08-25",
       "title": {
-        "en": "Hearts Glow (2)"
+        "en": "Four Seasons With Lara And Mari ~Summer~",
+        "romaji": "Rara to Mari to Sugosu Shiki ~Natsu~",
+        "ja": "ララと茉里と過ごす四季 ～夏～"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -226,12 +322,31 @@
       "runtime": null,
       "image": null
     },
-    "T1": {
-      "episode": "T1",
-      "length": "1m",
-      "airDate": "2026-02-27",
+    "S3": {
+      "episode": "S3",
+      "length": 1,
+      "airDate": "2026-09-11",
       "title": {
-        "en": "PV 1 (0:51)"
+        "en": "Four Seasons With Lara And Mari ~Autumn~",
+        "romaji": "Rara to Mari to Sugosu Shiki ~Aki~",
+        "ja": "ララと茉里と過ごす四季 ～秋～"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S4": {
+      "episode": "S4",
+      "length": 1,
+      "airDate": "2026-10-09",
+      "title": {
+        "en": "Four Seasons With Lara And Mari ~Winter~",
+        "romaji": "Rara to Mari to Sugosu Shiki ~Fuyu~",
+        "ja": "ララと茉里と過ごす四季 ～冬～"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -243,15 +358,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T16:12:38.016Z",
+    "lastFetched": "2026-11-22T00:43:36.436Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

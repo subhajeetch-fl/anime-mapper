@@ -4,9 +4,9 @@
   "mappings": {
     "mal": 61634,
     "anilist": 166444,
-    "anidb": null,
-    "kitsu": null,
-    "simkl": null,
+    "anidb": 20245,
+    "kitsu": 50978,
+    "simkl": 3204406,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
@@ -14,7 +14,7 @@
     "shikimori": 61634,
     "livechart": null,
     "animeplanet": "cheng-ye-xiao-he",
-    "anisearch": null,
+    "anisearch": 21870,
     "notify": null
   },
   "title": {
@@ -28,37 +28,36 @@
   },
   "type": "ONA",
   "source": "Web manga",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 16,
-  "episodeLength": null,
+  "episodeLength": 20,
   "aired": {
-    "from": null,
-    "to": null
+    "from": "2026-08-03T00:00:00+00:00",
+    "to": "2026-11-02T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.81,
+    "anilistScore": 6.3,
     "kitsuRating": null
   },
   "genres": [
-    "Fantasy",
     "Romance",
+    "School",
+    "Video Game",
+    "Action",
     "Slice of Life"
   ],
   "studios": [
     "Colored Pencil Animation"
   ],
   "producers": [
+    "Colored Pencil Animation",
     "iQIYI"
   ],
   "images": {
@@ -66,20 +65,299 @@
     "banner": null,
     "color": "#356bff"
   },
-  "trailer": null,
-  "synopsis": "In the game, Xiao Wujin, the server's top swordsman, and Tao Zhiyao, the most wanted female criminal, meet under unusual circumstances. In reality, Xiao He, the campus heartthrob of Dongchuan University, and Shen Xin, a freshman, meet and become friends through a university e-sports competition. Together with their friend Yang Yao, they form a team, overcoming numerous challenges to win the championship! Xiao He and Shen Xin heal and encourage each other, walking hand in hand on their path to pursuing their dreams. With the help of their friends Yang Yao and Xiang Nan, what sparks will fly between them?\n\n(Source: iQIYI YouTube Channel)",
+  "trailer": {
+    "youtubeId": "cIIEAVY6U0k",
+    "url": "https://www.youtube.com/watch?v=cIIEAVY6U0k",
+    "thumbnail": "https://i.ytimg.com/vi/cIIEAVY6U0k/hqdefault.jpg"
+  },
+  "synopsis": "In the game, Xiao Wujin, the server's top swordsman, and Tao Zhiyao, the most wanted female criminal, meet under unusual circumstances. In reality, Xiao He, the campus heartthrob of Dongchuan University, and Shen Xin, a freshman, meet and become friends through a university e-sports competition. Together with their friend Yang Yao, they form a team, overcoming numerous challenges to win the championship! Xiao He and Shen Xin heal and encourage each other, walking hand in hand on their path to pursuing their dreams. With the help of their friends Yang Yao and Xiang Nan, what sparks will fly between them?\n\n(Source: Official YouTube Channel)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 20,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 20,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 20,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 20,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 20,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 20,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 20,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 20,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 20,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 20,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 20,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 20,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 20,
+      "image": null
+    },
+    "14": {
+      "episode": "14",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 20,
+      "image": null
+    },
+    "15": {
+      "episode": "15",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 20,
+      "image": null
+    },
+    "16": {
+      "episode": "16",
+      "length": "20m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 20,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-08-03T21:41:37.451Z",
+    "lastFetched": "2026-11-22T00:48:13.910Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

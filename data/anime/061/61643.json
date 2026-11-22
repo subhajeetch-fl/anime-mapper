@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -49,36 +45,34 @@
   },
   "genres": [
     "Action",
-    "Fantasy"
+    "Fantasy",
+    "Historical"
   ],
   "studios": [
     "CG Year",
     "Hei Chao Yinghua",
     "Chenghuang Yinghua"
   ],
-  "producers": [
-    "iQIYI"
-  ],
+  "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1942/149665l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1942/149665l.webp",
     "banner": null,
     "color": null
   },
   "trailer": null,
-  "synopsis": "Gifted with supernatural powers, Ji Fa was feared by King Zhou. In order to protect his relatives and friends, Ji Fa went berserk several times—his power got out of control and his life was in danger. The death of his master, the loss of his friends, the death of his mother, and the great mission bestowed upon the young hero, tempering him on the path to martyrdom.\n\n(Source: iQIYI, Google translated)",
+  "synopsis": "Gifted with supernatural powers, Ji Fa was feared by King Zhou. In order to protect his relatives and friends, Ji Fa went berserk several times—his power got out of control and his life was in danger. The death of his master, the loss of his friends, the death of his mother, and the great mission bestowed upon the young hero, tempering him on the path to martyrdom.\n\n(Source: iQIYI, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:36:37.513Z",
+    "lastFetched": "2026-11-22T00:48:16.256Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

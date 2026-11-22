@@ -32,43 +32,44 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 8,
-  "episodeLength": null,
+  "episodeLength": 71,
   "aired": {
     "from": "2026-05-15T00:00:00+00:00",
-    "to": "2027-03-01T00:00:00+00:00"
+    "to": "2027-03-05T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": 5.8,
+    "malScore": 6.58,
+    "anilistScore": 6.3,
     "kitsuRating": null
   },
   "genres": [
     "Comedy",
+    "Mecha",
     "Sci-Fi",
-    "Mecha"
+    "Workplace"
   ],
   "studios": [
     "J.C.Staff"
   ],
   "producers": [
     "Genco",
-    "Magic Capsule"
+    "Bandai Namco Filmworks"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1205/156184l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113555-gpgLF3e5jMhQ.jpg",
     "color": "#2878e4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "Yu35eXiEpFg",
+    "url": "https://www.youtube.com/watch?v=Yu35eXiEpFg",
+    "thumbnail": "https://i.ytimg.com/vi/Yu35eXiEpFg/hqdefault.jpg"
+  },
   "synopsis": "A new animation in the Kidou Keisatsu Patlabor series.",
   "sequence": [
     {
@@ -101,10 +102,11 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "0m",
+      "length": 75,
       "airDate": "2026-05-15",
       "title": {
-        "en": "Movie 1"
+        "en": "Movie 1",
+        "ja": "機動警察パトレイバー EZY File 1"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -116,7 +118,7 @@
     },
     "2": {
       "episode": "2",
-      "length": "0m",
+      "length": 70,
       "airDate": "2026-08-14",
       "title": {
         "en": "Movie 2"
@@ -131,8 +133,8 @@
     },
     "3": {
       "episode": "3",
-      "length": "0m",
-      "airDate": "",
+      "length": 0,
+      "airDate": "2027-03-05",
       "title": {
         "en": "Movie 3"
       },
@@ -146,15 +148,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-02T00:06:13.686Z",
+    "lastFetched": "2026-11-22T00:44:27.602Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

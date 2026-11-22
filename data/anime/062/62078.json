@@ -6,7 +6,7 @@
     "anilist": 196218,
     "anidb": 19484,
     "kitsu": 50049,
-    "simkl": null,
+    "simkl": 2838528,
     "tmdb": 296437,
     "tvdb": null,
     "trakt": null,
@@ -32,13 +32,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-07-03T00:00:00+00:00",
-    "to": null
+    "from": "2026-07-10T00:00:00+00:00",
+    "to": "2026-09-25T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -47,14 +47,11 @@
     "time": "22:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788528600
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.05,
-    "anilistScore": 6.7,
+    "malScore": 6.83,
+    "anilistScore": 6.8,
     "kitsuRating": null
   },
   "genres": [
@@ -69,128 +66,247 @@
     "animation studio42"
   ],
   "producers": [
-    "Shochiku",
+    "NBCUniversal Entertainment Japan",
     "Mainichi Broadcasting System",
-    "KlockWorx",
     "Earth Star Entertainment",
-    "Tokyo MX",
-    "arma bianca",
-    "BS Asahi",
-    "INSPION Edge",
-    "Sankyo",
     "Animoca Brands Japan",
-    "INSPION"
+    "TOKYO MX",
+    "BS Asahi",
+    "SANKYO",
+    "INSPION EDGE",
+    "Shouchiku",
+    "KLOCKWORX",
+    "arma bianca"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1891/158566l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196218-lX0y9T76KQkC.jpg",
     "color": "#febb50"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "5JpTU6wj_-g",
+    "url": "https://www.youtube.com/watch?v=5JpTU6wj_-g",
+    "thumbnail": "https://i.ytimg.com/vi/5JpTU6wj_-g/hqdefault.jpg"
+  },
   "synopsis": "Dias finally returns home after decades of war. He's hailed a hero and promptly rewarded with his own domain...which turns out to be little more than empty plains. Population: zero. Dias, who has only ever known battle, finds himself at a loss. How is he supposed to survive, let alone cultivate his territory into a thriving, prosperous dominion when there's nothing but grass as far as he can see? Fortunately for Dias, a horned girl by the name of Alna is about to show him there's more to the plains than meets the eye!\n\n(Source: J-Novel Club)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
-      "airDate": "2026-07-03",
+      "length": 25,
+      "airDate": "2026-07-10",
       "title": {
-        "en": "The Frontier Lord and the Girl with the Blue Horn"
+        "en": "The Frontier Lord and the Girl with the Blue Horn",
+        "romaji": "Henkyou Ryoushu-sama to Aozuno no Otome",
+        "ja": "辺境領主様と蒼角の乙女"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465987,
+      "tvdbId": 11250947,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11250947/screencap/6a47339224686.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
-      "airDate": "2026-07-10",
+      "length": 25,
+      "airDate": "2026-07-17",
       "title": {
-        "en": "The Frontier Lord and His First Visitor"
+        "en": "The Frontier Lord and His First Visitor",
+        "romaji": "Henkyou Ryoushu-sama to Hajimete no Raihousha",
+        "ja": "辺境領主様と初めての来訪者"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465987,
+      "tvdbId": 11871096,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871096/screencap/6a50f4ea43e79.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
-      "airDate": "2026-07-17",
+      "length": 25,
+      "airDate": "2026-07-24",
       "title": {
-        "en": "Episode 3"
+        "en": "The Frontier Lord and the Strange Merchant",
+        "romaji": "Henkyou Ryoushu-sama to Kimyou na Gyoushounin",
+        "ja": "辺境領主様と奇妙な行商人"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465987,
+      "tvdbId": 11871097,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871097/screencap/6a5a2f5ea7cbc.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
-      "airDate": "2026-07-24",
+      "length": 25,
+      "airDate": "2026-07-31",
       "title": {
-        "en": "Episode 4"
+        "en": "The Frontier Lord and the Neighboring Lord",
+        "romaji": "Henkyou Ryoushu-sama to Otonari no Ryoushu",
+        "ja": "辺境領主様とお隣の領主"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465987,
+      "tvdbId": 11871098,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871098/screencap/6a6369dc367c8.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
-      "airDate": "2026-07-31",
+      "length": 25,
+      "airDate": "2026-08-07",
       "title": {
-        "en": "Episode 5"
+        "en": "The Frontier Lord and the Assailants from the Desert",
+        "romaji": "Henkyou Ryoushu-sama to Sabaku kara no Shuugekisha",
+        "ja": "辺境領主様と砂漠からの襲撃者"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465987,
+      "tvdbId": 11871099,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871099/screencap/6a6ca47838bf7.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
-      "airDate": "2026-08-07",
+      "length": 25,
+      "airDate": "2026-08-14",
       "title": {
-        "en": "Episode 6"
+        "en": "The Frontier Lord and the Twins` Prayer",
+        "romaji": "Henkyou Ryoushu-sama to Futago no Inori",
+        "ja": "辺境領主様と双子の祈り"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465987,
+      "tvdbId": 11871101,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871101/screencap/6a75df238674a.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-21",
+      "title": {
+        "en": "The Frontier Lord and the New Subjects",
+        "romaji": "Henkyou Ryoushu-sama to Arata na Ryoumin-tachi",
+        "ja": "辺境領主様と新たな領民たち"
+      },
+      "tvdbShowId": 465987,
+      "tvdbId": 11871103,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871103/screencap/6a7f197997eb5.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-28",
+      "title": {
+        "en": "The Frontier Lord and the Grassland Battle",
+        "romaji": "Henkyou Ryoushu-sama to Sougen no Tatakai",
+        "ja": "辺境領主様と草原の戦い"
+      },
+      "tvdbShowId": 465987,
+      "tvdbId": 11871105,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871105/screencap/6a88536651cc7.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-09-04",
+      "title": {
+        "en": "The Frontier Lord and the Wedding",
+        "romaji": "Henkyou Ryoushu-sama to Kekkonshiki",
+        "ja": "辺境領主様と結婚式"
+      },
+      "tvdbShowId": 465987,
+      "tvdbId": 11871107,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871107/screencap/6a918dbe3df09.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-11",
+      "title": {
+        "en": "The Frontier Lord and His Son and Daughters",
+        "romaji": "Henkyou Ryoushu-sama to Musuko to Musume-tachi",
+        "ja": "辺境領主様と息子と娘たち"
+      },
+      "tvdbShowId": 465987,
+      "tvdbId": 11871109,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871109/screencap/6a9acab56adbf.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-18",
+      "title": {
+        "en": "The Frontier Lord and Alna`s Big Brother",
+        "romaji": "Henkyou Ryoushu-sama to Alna no Ani",
+        "ja": "辺境領主様とアルナーの兄"
+      },
+      "tvdbShowId": 465987,
+      "tvdbId": 11871110,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871110/screencap/6aa4028d2eb8a.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-25",
+      "title": {
+        "en": "The Frontier Lord and the Story That Began with Zero Subjects",
+        "romaji": "Henkyou Ryoushu-sama to Ryoumin 0-nin kara Hajimatta Monogatari",
+        "ja": "辺境領主様と領民０人から始まった物語"
+      },
+      "tvdbShowId": 465987,
+      "tvdbId": 11871111,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871111/screencap/6aad3d85d3591.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:23:45.290Z",
+    "lastFetched": "2026-11-22T00:49:39.493Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

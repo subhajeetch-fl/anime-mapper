@@ -35,16 +35,12 @@
   },
   "season": "spring",
   "year": 2025,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 5.74,
-    "anilistScore": 5.2,
+    "malScore": 5.7,
+    "anilistScore": 5.6,
     "kitsuRating": null
   },
   "genres": [
@@ -53,26 +49,30 @@
   "studios": [
     "Majin"
   ],
-  "producers": [],
+  "producers": [
+    "Majin petit"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1691/149316l.jpg",
     "banner": null,
     "color": "#e4785d"
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "Based on the erotic doujin game by Dekisui-sen Lilyon (溺水船リリオン).\n\n\n\nYuki Sakurano is on a winning streak as an illegal fighter in underground arenas. One day, the legendary fighter named King comes into her life to scout her as a fighter. Little did Yuki know that this event would drastically change her life in very different ways than she was expecting.\n\n\n\n(Source: Steam)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-04T21:41:36.204Z",
+    "lastFetched": "2026-11-22T00:47:36.712Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

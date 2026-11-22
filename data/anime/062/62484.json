@@ -4,17 +4,17 @@
   "mappings": {
     "mal": 62484,
     "anilist": 198727,
-    "anidb": null,
-    "kitsu": null,
-    "simkl": null,
-    "tmdb": null,
+    "anidb": 20240,
+    "kitsu": 50966,
+    "simkl": 3203592,
+    "tmdb": 261343,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 62484,
-    "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
+    "livechart": 13317,
+    "animeplanet": "chitose-is-in-the-ramune-bottle-part-ii",
+    "anisearch": 21358,
     "notify": null
   },
   "title": {
@@ -26,51 +26,67 @@
       "Chitose-kun is Inside a Ramune Bottle",
       "Ramune no Bin ni Shizunda Biidama no Tsuki",
       "チラムネ",
-      "Chitose Is in the Ramune Bottle Part 2",
-      "Chitose Is in the Ramune Bottle Cour 2"
+      "Chitose Is in the Ramune Bottle Part 2"
     ]
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 11,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
-    "to": null
+    "from": "2026-10-13T00:00:00+00:00",
+    "to": "2026-12-22T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Tuesdays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 7,
+    "airingAt": 1795528800
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.6,
+    "anilistScore": 7.8,
     "kitsuRating": null
   },
   "genres": [
     "Comedy",
-    "Romance"
+    "Harem",
+    "Romance",
+    "School"
   ],
   "studios": [
     "feel."
   ],
   "producers": [
-    "Studio Mausu",
-    "Kadokawa"
+    "KADOKAWA",
+    "Good Smile Company",
+    "Good Smile Film",
+    "REMOW",
+    "Shogakukan",
+    "newgin",
+    "TOKYO MX",
+    "BS11",
+    "AT-X",
+    "Kadokawa Media House"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1342/152043l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1903/159669l.jpg",
     "banner": null,
     "color": "#bbe4f1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "8RHh2AyKRfY",
+    "url": "https://www.youtube.com/watch?v=8RHh2AyKRfY",
+    "thumbnail": "https://i.ytimg.com/vi/8RHh2AyKRfY/hqdefault.jpg"
+  },
   "synopsis": "Second part of Chitose-kun wa Ramune Bin no Naka.",
   "sequence": [
     {
@@ -87,17 +103,207 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": "24m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:28:18.998Z",
+    "lastFetched": "2026-11-22T00:50:56.597Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

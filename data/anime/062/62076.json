@@ -22,12 +22,9 @@
     "english": "Smoking Behind the Supermarket with You",
     "native": "スーパーの裏でヤニ吸うふたり",
     "synonyms": [
-      "Behind the Supermarket",
-      "Smoking with You.",
-      "Super no Ura de Yani Suu Hanashi",
-      "A Story About Smoking at the Back of the Supermarket",
+      "Behind the Supermarket, Smoking with You.",
+      "Super no Ura de Yani Suu Hanashi, A Story About Smoking at the Back of the Supermarket",
       "YaniSuu",
-      "Behind the supermarket, smoking with you.",
       "ヤニすう",
       "Paląc z tobą na tyłach sklepu",
       "สองสิงห์อมควันหลังซูเปอร์มาร์เก็ต"
@@ -35,13 +32,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": 23,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-07-09T00:00:00+00:00",
-    "to": "2026-09-24"
+    "from": "2026-07-10T00:00:00+00:00",
+    "to": "2026-09-25T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -50,22 +47,20 @@
     "time": "23:56",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 9,
-    "airingAt": 1788447360
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 8.44,
-    "anilistScore": 8.2,
-    "kitsuRating": 8.25
+    "malScore": 8.17,
+    "anilistScore": 8.1,
+    "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
+    "Love Status Quo",
     "Romance",
+    "Seinen",
     "Comedy",
-    "Slice of Life",
-    "Working Life",
-    "Seinen"
+    "Slice of Life"
   ],
   "studios": [
     "Asahi Production"
@@ -73,87 +68,250 @@
   "producers": [
     "TBS",
     "Asmik Ace",
+    "Asahi Production",
+    "arma bianca",
+    "ADK Marketing Solutions",
     "Nichion",
     "AbemaTV",
-    "arma bianca",
-    "Bit grooove promotion",
-    "ADK Marketing Solutions"
+    "Square Enix"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1768/156339l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196187-Z9dV6uotmKjM.jpg",
     "color": "#f1c9bb"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "aOOwNK6Ul6E",
+    "url": "https://www.youtube.com/watch?v=aOOwNK6Ul6E",
+    "thumbnail": "https://i.ytimg.com/vi/aOOwNK6Ul6E/hqdefault.jpg"
+  },
   "synopsis": "The sole thing that gets the middle-aged Sasaki through his soul-sucking job is a cheerful smile from Yamada—the young woman who works at a nearby 24-hour supermarket he frequents. After every tiring day of getting berated by his boss, Sasaki stops by the store to have his spirit healed by his favorite cashier.\n\nAfter a particularly grueling day, Sasaki shows up at the supermarket, only to find that Yamada's shift has already ended. Disappointed, he searches for a place to smoke when a woman from behind the store calls him over to join her. The bold and dangerously playful Tayama is quick to call out Sasaki's peculiar habit of always seeking out her coworker—even going as far as telling Yamada about Sasaki's vested interest in her.\n\nNow, in addition to seeing his adored cashier Yamada, Sasaki also visits the store to see if his new smoking partner Tayama is around. But there is more to Tayama's mischievousness than she initially lets on. With every cigarette, an unlikely friendship begins to blossom.\n\n[Written by MAL Rewrite]",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 64564,
+      "title": {
+        "romaji": "Ichijiku Kemuri",
+        "english": "Fig Smoke",
+        "native": "イチジク煙"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217725-wQf1MojXkoCR.jpg",
+      "format": "MUSIC",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "OTHER"
+    }
+  ],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
-      "airDate": "2026-07-10",
+      "length": 25,
+      "airDate": "2026-07-09",
       "title": {
-        "en": "Smoking Behind the Supermarket with You"
+        "en": "Smoking Behind the Supermarket with You",
+        "romaji": "Super no Ura de Yani Suu Futari",
+        "ja": "スーパーの裏でヤニ吸うふたり"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465973,
+      "tvdbId": 11249782,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11249782/screencap/6a202b22c335b.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-16",
       "title": {
-        "en": "Cheering Up Behind the Supermarket with You"
+        "en": "Cheering Up Behind the Supermarket with You",
+        "romaji": "Super no Ura de Soeru Futari",
+        "ja": "スーパーの裏で添えるふたり"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465973,
+      "tvdbId": 11824266,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824266/screencap/6a202b6b01813.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-23",
       "title": {
-        "en": "Smoking Behind the Supermarket with You and More"
+        "en": "Smoking Behind the Supermarket with You and More",
+        "romaji": "Super no Ura de Okuru Futari",
+        "ja": "スーパーの裏で贈るふたり"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465973,
+      "tvdbId": 11824267,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824267/screencap/6a202ba3f024c.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-30",
       "title": {
-        "en": "Episode 4"
+        "en": "Learning Behind the Supermarket with You",
+        "romaji": "Super no Ura de Manabu Hitori",
+        "ja": "スーパーの裏で学ぶひとり"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465973,
+      "tvdbId": 11824268,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824268/screencap/6a202be3a55df.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-06",
+      "title": {
+        "en": "Hanging Behind the Supermarket with You",
+        "romaji": "Super no Ura de Kakeru Futari",
+        "ja": "スーパーの裏でかけるふたり"
+      },
+      "tvdbShowId": 465973,
+      "tvdbId": 11824269,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824269/screencap/6a202c1faf9a3.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-13",
+      "title": {
+        "en": "Lingering Scent Behind the Supermarket with You",
+        "romaji": "Super no Ura ni Nokoru Nioi",
+        "ja": "スーパーの裏に残る匂い"
+      },
+      "tvdbShowId": 465973,
+      "tvdbId": 11824270,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824270/screencap/6a202c6397fae.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-20",
+      "title": {
+        "en": "The End of Summer Behind the Supermarket with You",
+        "romaji": "Super no Ura to Natsu no Owari",
+        "ja": "スーパーの裏と夏の終わり"
+      },
+      "tvdbShowId": 465973,
+      "tvdbId": 11824850,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824850/screencap/6a2d48ff5eb73.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-27",
+      "title": {
+        "en": "Searching Behind the Supermarket with You",
+        "romaji": "Super no Ura kara Mitsukeru Futari",
+        "ja": "スーパーの裏から見つけるふたり"
+      },
+      "tvdbShowId": 465973,
+      "tvdbId": 11824851,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824851/screencap/6a2d4931c5330.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-09-03",
+      "title": {
+        "en": "Asking Behind the Supermarket Alone",
+        "romaji": "Super no Ura de Fureru Hitori",
+        "ja": "スーパーの裏で触れるひとり"
+      },
+      "tvdbShowId": 465973,
+      "tvdbId": 11824852,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824852/screencap/6a2d49711c695.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-10",
+      "title": {
+        "en": "Shining Behind the Supermarket with You",
+        "romaji": "Super no Ura de Hikaru Futari",
+        "ja": "スーパーの裏で光るふたり"
+      },
+      "tvdbShowId": 465973,
+      "tvdbId": 11824853,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824853/screencap/6a2d49a25b009.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-17",
+      "title": {
+        "en": "Hello from Behind the Supermarket",
+        "romaji": "Super no Ura de Mukaeru Koe",
+        "ja": "スーパーの裏で迎える声"
+      },
+      "tvdbShowId": 465973,
+      "tvdbId": 11824854,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824854/screencap/6a2d49c19d905.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-24",
+      "title": {
+        "en": "Keeping It Going Behind the Supermarket with You",
+        "romaji": "Super no Ura de Tsuzuku Futari",
+        "ja": "スーパーの裏で続くふたり"
+      },
+      "tvdbShowId": 465973,
+      "tvdbId": 11824855,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824855/screencap/6a2d49daadfa9.jpg"
     },
     "O1": {
       "episode": "O1",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-06-03",
       "title": {
-        "en": "Episode 1"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -165,10 +323,10 @@
     },
     "O2": {
       "episode": "O2",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-06-03",
       "title": {
-        "en": "Episode 2"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -180,10 +338,10 @@
     },
     "O3": {
       "episode": "O3",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-06-03",
       "title": {
-        "en": "Episode 3"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -195,10 +353,10 @@
     },
     "O4": {
       "episode": "O4",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-06-03",
       "title": {
-        "en": "Episode 4"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -210,10 +368,10 @@
     },
     "O5": {
       "episode": "O5",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-06-03",
       "title": {
-        "en": "Episode 5"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -225,10 +383,10 @@
     },
     "O6": {
       "episode": "O6",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-06-03",
       "title": {
-        "en": "Episode 6"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -240,10 +398,10 @@
     },
     "O7": {
       "episode": "O7",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-06-03",
       "title": {
-        "en": "Episode 7"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -255,10 +413,10 @@
     },
     "O8": {
       "episode": "O8",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-06-03",
       "title": {
-        "en": "Episode 8"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -270,10 +428,10 @@
     },
     "O9": {
       "episode": "O9",
-      "length": "9m",
+      "length": 9,
       "airDate": "2026-06-03",
       "title": {
-        "en": "Episode 9"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -285,10 +443,10 @@
     },
     "O10": {
       "episode": "O10",
-      "length": "20m",
+      "length": 20,
       "airDate": "2026-06-03",
       "title": {
-        "en": "Episode 10"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -300,10 +458,10 @@
     },
     "O11": {
       "episode": "O11",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-06-03",
       "title": {
-        "en": "Episode 11"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -315,10 +473,10 @@
     },
     "O12": {
       "episode": "O12",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-06-03",
       "title": {
-        "en": "Episode 12"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -330,15 +488,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:23:43.410Z",
+    "lastFetched": "2026-11-22T00:49:37.257Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

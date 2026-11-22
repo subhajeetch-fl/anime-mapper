@@ -29,13 +29,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
   "episodeLength": 24,
   "aired": {
     "from": "2026-07-06T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-21T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -44,35 +44,31 @@
     "time": "22:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788786000
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.08,
+    "malScore": 6.49,
     "anilistScore": 6.6,
-    "kitsuRating": 7.08
+    "kitsuRating": null
   },
   "genres": [
     "Action",
     "Adventure",
     "Fantasy",
-    "Comedy",
-    "Isekai"
+    "Isekai",
+    "Comedy"
   ],
   "studios": [
     "Aura Studio"
   ],
   "producers": [
+    "OVERLAP",
+    "Crunchyroll",
+    "MUSE",
+    "Docomo Anime Store",
+    "MAGNET",
     "Pony Canyon",
     "AT-X",
-    "DAX Production",
-    "Docomo Anime Store",
-    "Overlap",
-    "Crunchyroll",
-    "Muse Communication",
-    "MAGNET",
     "CTW"
   ],
   "images": {
@@ -80,7 +76,11 @@
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185542-v15vqOvUWSF5.jpg",
     "color": "#286bbb"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "Enu3fyOdkoM",
+    "url": "https://www.youtube.com/watch?v=Enu3fyOdkoM",
+    "thumbnail": "https://i.ytimg.com/vi/Enu3fyOdkoM/hqdefault.jpg"
+  },
   "synopsis": "Second season of Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
   "sequence": [
     {
@@ -100,10 +100,12 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-04",
       "title": {
-        "en": "Duel to the Death? Silver Knight vs Silver Knight!"
+        "en": "Duel to the Death? Silver Knight vs Silver Knight!",
+        "romaji": "Shitou? Hakugin no Kishi tai Hakugin no Kishi!",
+        "ja": "死闘? 白銀の騎士対白銀の騎士!"
       },
       "tvdbShowId": 401279,
       "tvdbId": 10854068,
@@ -115,10 +117,12 @@
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-13",
       "title": {
-        "en": "The Toxic Fangs of Assassination Target the Elvish Bride"
+        "en": "The Toxic Fangs of Assassination Target the Elvish Bride",
+        "romaji": "Elf no Hanayome ni Semarishi, Ansatsu no Dokuga",
+        "ja": "エルフの花嫁に迫りし, 暗殺の毒牙"
       },
       "tvdbShowId": 401279,
       "tvdbId": 11836295,
@@ -130,10 +134,12 @@
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-20",
       "title": {
-        "en": "Episode 3"
+        "en": "The Fall of Villains and the Dance of Sibling Love",
+        "romaji": "Akutou Sange to Kyoudai Kizuna no Mai",
+        "ja": "悪党散華と兄妹絆の舞"
       },
       "tvdbShowId": 401279,
       "tvdbId": 11836296,
@@ -141,14 +147,16 @@
       "episodeNumber": 3,
       "absoluteEpisodeNumber": 15,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11836296/screencap/6a5e1a367cace.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-27",
       "title": {
-        "en": "Episode 4"
+        "en": "The Saint`s Spirit Wanders the Cursed Sanctuary",
+        "romaji": "Noroi no Sato ni Seijo no Tamashii ga Samayou",
+        "ja": "呪いの里に聖女の霊が彷徨う"
       },
       "tvdbShowId": 401279,
       "tvdbId": 11836297,
@@ -156,14 +164,16 @@
       "episodeNumber": 4,
       "absoluteEpisodeNumber": 16,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11836297/screencap/6a674a1e52d20.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-03",
       "title": {
-        "en": "Episode 5"
+        "en": "Terror! Shadows of Undeath Lurking Down Below",
+        "romaji": "Kyoufu! Chitei ni Ugomeku Shiryou no Kage",
+        "ja": "恐怖! 地底に蠢く死霊の影"
       },
       "tvdbShowId": 401279,
       "tvdbId": 11876802,
@@ -171,14 +181,16 @@
       "episodeNumber": 5,
       "absoluteEpisodeNumber": 17,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876802/screencap/6a6fefd82122a.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-10",
       "title": {
-        "en": "Episode 6"
+        "en": "The Nature of This World Floats Upon the Dragon Lord`s Spring",
+        "romaji": "Ryuuou no Izumi ni Ukabu wa Kono Yo no Kotowari",
+        "ja": "龍王の泉に浮かぶは異世界[このよ]の理"
       },
       "tvdbShowId": 401279,
       "tvdbId": 11876803,
@@ -186,14 +198,16 @@
       "episodeNumber": 6,
       "absoluteEpisodeNumber": 18,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876803/screencap/6a792a524e3d1.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-17",
       "title": {
-        "en": "Episode 7"
+        "en": "The Spirit of Chivalry Blooms at the Shinobi Village!",
+        "romaji": "Shinobizato ni Saku wa, Otokodamashi!",
+        "ja": "忍び里に咲くは, 漢魂!"
       },
       "tvdbShowId": 401279,
       "tvdbId": 11876804,
@@ -201,14 +215,16 @@
       "episodeNumber": 7,
       "absoluteEpisodeNumber": 19,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876804/screencap/6a82e73f48197.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-24",
       "title": {
-        "en": "Episode 8"
+        "en": "The Sea Hears the Tale of the Tragic Kunoichi`s Past",
+        "romaji": "Shiosai yo Kike, Kanashiki Kunoichi no Omoi",
+        "ja": "潮騒よ聞け, 哀しきくノ一の想い"
       },
       "tvdbShowId": 401279,
       "tvdbId": 11876805,
@@ -216,49 +232,88 @@
       "episodeNumber": 8,
       "absoluteEpisodeNumber": 20,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876805/screencap/6a8b81a4608d3.jpg"
     },
-    "C1": {
-      "episode": "C1",
-      "length": "2m",
-      "airDate": "2026-07-04",
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-31",
       "title": {
-        "en": "Opening"
+        "en": "Reunited to the Sound of a Dark Beast`s Howl",
+        "romaji": "Saikai wa Kuroki Kemono no Houkou to Tomo ni",
+        "ja": "再会は黒き獣の咆哮と共に"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 401279,
+      "tvdbId": 11876806,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876806/screencap/6a94de9a9f3aa.jpg"
     },
-    "C2": {
-      "episode": "C2",
-      "length": "2m",
-      "airDate": "2026-07-04",
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-07",
       "title": {
-        "en": "Ending"
+        "en": "The Cold-Blooded Code! Hunting a Brother with Tears in Her Eyes",
+        "romaji": "Hijou no Okite! Namida o Idakite Ani o Ou",
+        "ja": "非常の掟! 涙を抱きて義兄[あに]を追う"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 401279,
+      "tvdbId": 11876807,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876807/screencap/6a9e118545d28.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-14",
+      "title": {
+        "en": "Blood Duel! Death Amidst the Collapsing City",
+        "romaji": "Kettou! Houkai no Machi ni Shisu",
+        "ja": "血闘! 崩壊の街に死す"
+      },
+      "tvdbShowId": 401279,
+      "tvdbId": 11876808,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876808/screencap/6aa73e9eb8ce6.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-21",
+      "title": {
+        "en": "Divine Punishment! The Skeleton Metes Out Justice That Obliterates Evil!",
+        "romaji": "Appare! Aku o Kechirasu Gaikotsu Sabaki!",
+        "ja": "天晴! 悪を蹴散らす骸骨裁き!"
+      },
+      "tvdbShowId": 401279,
+      "tvdbId": 11876809,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876809/screencap/6ab11c8ca0378.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-02T00:10:48.090Z",
+    "lastFetched": "2026-11-22T00:45:13.509Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

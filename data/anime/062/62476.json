@@ -28,13 +28,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 9,
   "episodeLength": 24,
   "aired": {
     "from": "2026-07-08T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-02T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -43,112 +43,239 @@
     "time": "00:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 9,
-    "airingAt": 1788274800
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.19,
-    "anilistScore": 7.1,
+    "malScore": 7.46,
+    "anilistScore": 7.4,
     "kitsuRating": null
   },
   "genres": [
-    "Fantasy",
+    "Childcare",
+    "Romance",
     "Action",
     "Drama",
-    "Romance"
+    "Fantasy"
   ],
   "studios": [
     "Studio Deen"
   ],
   "producers": [
+    "KADOKAWA",
     "TV Tokyo",
     "Docomo Anime Store",
     "Toy's Factory",
-    "Kadokawa",
-    "Bit grooove promotion"
+    "Studio DEEN"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1098/158743l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1098/158743l.webp",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198709-wyZYzcKM5itk.jpg",
     "color": "#5da1e4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "dm8QPSlRYdI",
+    "url": "https://www.youtube.com/watch?v=dm8QPSlRYdI",
+    "thumbnail": "https://i.ytimg.com/vi/dm8QPSlRYdI/hqdefault.jpg"
+  },
   "synopsis": "In an age when spies act behind the scenes in every land, Chloe spends her days successfully carrying out even the most difficult missions due to her unparalleled disguise skills and martial arts abilities. However, after the betrayal of her boss, she suddenly disappears—as Chloe plans to redo her life as the ordinary citizen Victoria in the neighboring kingdom of Ashberry, striving for a \"normal\" life. However, Victoria's peaceful life is abruptly cut short as she begins to get involved with many people. In this new land, her experiences and abilities from her days as a spy come in far more useful than she ever expected!! On the other hand, the second prince and the pursuer of the organization amongst others take an interest in Victoria's strength, and many shadows close in on the one with all the cards in her hand...!\n\n(Source: Yen Press)",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 64898,
+      "title": {
+        "romaji": "Tefuda ga Oome no Victoria 2",
+        "english": null,
+        "native": "手札が多めのビクトリア第２期"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b216272-hop0wqDKXyew.png",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
+    }
+  ],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
-      "airDate": "2026-06-27",
+      "length": 25,
+      "airDate": "2026-07-08",
       "title": {
-        "en": "Free, Unbound by Anyone"
+        "en": "Free, Unbound by Anyone",
+        "romaji": "Darenimo Shibararezu Jiyuu ni",
+        "ja": "誰にも縛られず自由に"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 468049,
+      "tvdbId": 11333732,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11333732/screencap/6a4bcfcb53aa7.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
-      "airDate": "2026-06-27",
+      "length": 25,
+      "airDate": "2026-07-15",
       "title": {
-        "en": "No One Should Feel Sorry for Me"
+        "en": "No One Should Feel Sorry for Me",
+        "romaji": "Kawaisou ja Nai no yo",
+        "ja": "可哀想じゃないのよ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 468049,
+      "tvdbId": 11865386,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11865386/screencap/6a55ab2eeb96a.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-22",
       "title": {
-        "en": "Episode 3"
+        "en": "I Couldn`t Become Someone to Be Depended Upon",
+        "romaji": "Tayorareru Sonzai ni Narenakatta",
+        "ja": "頼られる存在になれなかった"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 468049,
+      "tvdbId": 11875830,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875830/screencap/6a5ed36184bbe.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-29",
       "title": {
-        "en": "Episode 4"
+        "en": "Are You Going to Arrest Me?",
+        "romaji": "Watashi no Koto o Tsukamaemasu ka?",
+        "ja": "私のことを捕まえますか?"
+      },
+      "tvdbShowId": 468049,
+      "tvdbId": 11875831,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875831/screencap/6a68b45bc419a.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-05",
+      "title": {
+        "en": "Prepared to Pay for What I`ve Done",
+        "romaji": "Itsuka Kono Mi ni Bachi ga Ataru Koto o",
+        "ja": "いつかこの身にバチが当たることを"
+      },
+      "tvdbShowId": 468049,
+      "tvdbId": 11875832,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875832/screencap/6a708661b9e7d.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-12",
+      "title": {
+        "en": "Think About This Child`s Happiness",
+        "romaji": "Kono Ko no Shiawase o Kangaete Yaranai to",
+        "ja": "この子の幸せを考えてやらないと"
+      },
+      "tvdbShowId": 468049,
+      "tvdbId": 11875833,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875833/screencap/6a7a6f7914172.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-19",
+      "title": {
+        "en": "I Made Great Memories",
+        "romaji": "Suteki na Omoide ga Dekita no wa",
+        "ja": "素敵な思い出ができたのは"
+      },
+      "tvdbShowId": 468049,
+      "tvdbId": 11875834,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875834/screencap/6a8345eb7c1fd.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-26",
+      "title": {
+        "en": "I`m Truly Thankful",
+        "romaji": "Hontou ni Arigatou tte Omou no yo",
+        "ja": "本当にありがとうって思うのよ"
+      },
+      "tvdbShowId": 468049,
+      "tvdbId": 11875835,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875835/screencap/6a8d9009bfe6c.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-09-02",
+      "title": {
+        "en": "No Matter What Happens in the Future",
+        "romaji": "Kono Saki Nani ga Atte mo",
+        "ja": "この先何があっても"
+      },
+      "tvdbShowId": 468049,
+      "tvdbId": 11875836,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875836/screencap/6a9624d368df1.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": 30,
+      "airDate": "2026-09-09",
+      "title": {
+        "en": "Past and Future",
+        "romaji": "Soushuuhen \"Kore made to Korekara\"",
+        "ja": "総集編『これまでとこれから』"
       },
       "tvdbShowId": null,
       "tvdbId": null,
       "seasonNumber": null,
-      "episodeNumber": 4,
+      "episodeNumber": null,
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:28:06.491Z",
+    "lastFetched": "2026-11-22T00:50:52.110Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

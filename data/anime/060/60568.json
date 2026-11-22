@@ -12,8 +12,8 @@
     "trakt": 271359,
     "traktType": "shows",
     "shikimori": 60568,
-    "livechart": null,
-    "animeplanet": "jiyi-guanli-ju-2025",
+    "livechart": 13761,
+    "animeplanet": "false-memory-2026",
     "anisearch": 20009,
     "notify": null
   },
@@ -21,36 +21,37 @@
     "romaji": "Jiyi Guanli Ju (2026)",
     "english": "False Memory (2026)",
     "native": "记忆管理局 (2026)",
-    "synonyms": []
+    "synonyms": [
+      "The Memory Bureau"
+    ]
   },
   "type": "ONA",
   "source": "Original",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 7,
-  "episodeLength": 25,
+  "episodeLength": 28,
   "aired": {
     "from": "2026-08-02T00:00:00+00:00",
-    "to": "2026-08-30"
+    "to": "2026-08-30T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": 8.5,
+    "malScore": 8.72,
+    "anilistScore": 8.7,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Mystery",
-    "Psychological"
+    "Psychological",
+    "Super Power",
+    "Drama",
+    "Sci-Fi"
   ],
   "studios": [
     "Flint Sugar",
@@ -64,8 +65,12 @@
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/141953-5o87aOKuZf8c.jpg",
     "color": "#d6931a"
   },
-  "trailer": null,
-  "synopsis": "In order to go back to the past, Guan Chao tries hard to find the \"burning stone\" that activates the time gun, but accidentally falls into the Memory Management Bureau. Only by conquering the BUG people in the memory layer can he return to reality. With the help of administrators such as Fangtang and Baizhong, can Guan Chao successfully complete the task? What kind of challenges are awaiting Guan Chao in each memory layer...\n\n(Source: Bilibili, translated)",
+  "trailer": {
+    "youtubeId": "yfz2c9LE6ew",
+    "url": "https://www.youtube.com/watch?v=yfz2c9LE6ew",
+    "thumbnail": "https://i.ytimg.com/vi/yfz2c9LE6ew/hqdefault.jpg"
+  },
+  "synopsis": "In his desperate quest to return to the past, Guan Chao scours the world for \"Pyrolite\" — the energy source capable of powering the Time Gun. But his search takes an unexpected turn when he accidentally falls into the Memory Bureau.\n\nTo find his way back to reality, Guan Chao must join forces with memory administrators Fangtang, Bai Zhong, and others, clearing BUG beings layer by layer through the strata of memory. Yet as battle after battle draws to a close, what awaits him is far more than corrupted data… The deepest truth buried within memory itself is beginning to stir.\n\n(Source: Bilibili)",
   "sequence": [
     {
       "malId": 50462,
@@ -81,17 +86,139 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "25m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": "25m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": "25m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": "25m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": "25m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": "25m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": "25m",
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-02T05:34:22.335Z",
+    "lastFetched": "2026-11-22T00:45:31.032Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

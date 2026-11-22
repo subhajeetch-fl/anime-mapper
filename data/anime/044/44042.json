@@ -35,36 +35,28 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": 1,
+  "episodeLength": 2,
   "aired": {
     "from": "2019-05-05T00:00:00+00:00",
     "to": null
   },
   "season": "spring",
   "year": 2019,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": {
-    "episode": 382,
-    "airingAt": 1788685200
+    "episode": 393,
+    "airingAt": 1795338000
   },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 8.14,
+    "malScore": 8.13,
     "anilistScore": 7.8,
-    "kitsuRating": 7.81
+    "kitsuRating": null
   },
   "genres": [
     "Comedy",
     "Action",
-    "Adventure",
-    "Slapstick",
-    "Parody",
-    "Idol",
-    "Working Life"
+    "Adventure"
   ],
   "studios": [
     "Hololive Production",
@@ -1289,7 +1281,7 @@
       "relationType": "CHARACTER"
     },
     {
-      "malId": null,
+      "malId": 59785,
       "title": {
         "romaji": "Allegro",
         "english": "Allegro",
@@ -1513,7 +1505,7 @@
       "malId": 61629,
       "title": {
         "romaji": "MONSTER (Music)",
-        "english": "MONSTER",
+        "english": "MONSTER (Music)",
         "native": "MONSTER (Music)"
       },
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204541-u2uVBvLJfYmv.png",
@@ -1692,7 +1684,7 @@
       "relationType": "CHARACTER"
     },
     {
-      "malId": null,
+      "malId": 63577,
       "title": {
         "romaji": "Chatter Chatter",
         "english": null,
@@ -1757,6 +1749,19 @@
       "relationType": "CHARACTER"
     },
     {
+      "malId": null,
+      "title": {
+        "romaji": "FBKINGDOM STORY",
+        "english": null,
+        "native": "FBKINGDOM STORY"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214865-LjqmJUX7b9QH.png",
+      "format": "ONA",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "CHARACTER"
+    },
+    {
       "malId": 64711,
       "title": {
         "romaji": "BooooM!!!",
@@ -1781,15 +1786,82 @@
       "episodes": 1,
       "seasonYear": null,
       "relationType": "CHARACTER"
+    },
+    {
+      "malId": null,
+      "title": {
+        "romaji": "Sakuraful March",
+        "english": null,
+        "native": "Sakuraful March"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216859-Blt4qrNShwsq.jpg",
+      "format": "MUSIC",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "CHARACTER"
+    },
+    {
+      "malId": null,
+      "title": {
+        "romaji": "RESPAWN!!",
+        "english": "RESPAWN!!",
+        "native": "リスポーン!!"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218391-HcD57fIMYn5T.jpg",
+      "format": "MUSIC",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "CHARACTER"
+    },
+    {
+      "malId": null,
+      "title": {
+        "romaji": "PON-DERFUL!!!",
+        "english": null,
+        "native": "PON-DERFUL!!!"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218392-UGegS01zPTG9.png",
+      "format": "MUSIC",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "CHARACTER"
+    },
+    {
+      "malId": null,
+      "title": {
+        "romaji": "ZombieZombieZombie",
+        "english": "Zombie Zombie Zombie",
+        "native": "ゾンビゾンビゾンビ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218801-1nt5VwBThimr.png",
+      "format": "MUSIC",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "CHARACTER"
+    },
+    {
+      "malId": 65050,
+      "title": {
+        "romaji": "Odekake Hololive",
+        "english": null,
+        "native": "おでかけホロライブ"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216558-qq8Xjci6iiXw.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": null,
+      "relationType": "CHARACTER"
     }
   ],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "1m",
+      "length": 1,
       "airDate": "2019-05-05",
       "title": {
-        "en": "Apex"
+        "en": "Apex",
+        "romaji": "Apex",
+        "ja": "APEX"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1801,10 +1873,12 @@
     },
     "2": {
       "episode": "2",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-05-12",
       "title": {
-        "en": "When Virtual-Reality Craves for Fame"
+        "en": "When Virtual-Reality Craves for Fame",
+        "romaji": "Joshi Kousei, Naikakukanbou Choukan ni Naru.",
+        "ja": "女子高生, 内閣官房長官になる."
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1816,10 +1890,12 @@
     },
     "3": {
       "episode": "3",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-05-19",
       "title": {
-        "en": "Last Time, on Love Live!"
+        "en": "Last Time, on Love Live!",
+        "romaji": "Zenkai no Love Live!",
+        "ja": "前回のラブライブ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1831,10 +1907,12 @@
     },
     "4": {
       "episode": "4",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-05-26",
       "title": {
-        "en": "Everybody Is a Material Girl..."
+        "en": "Everybody Is a Material Girl...",
+        "romaji": "Idol ga 3 Oku En o Te ni Suru Tokou Naru",
+        "ja": "アイドルが3億円を手にするとこうなる"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1846,10 +1924,12 @@
     },
     "5": {
       "episode": "5",
-      "length": "4m",
+      "length": 4,
       "airDate": "2019-06-02",
       "title": {
-        "en": "In VR, Arm Waves You"
+        "en": "In VR, Arm Waves You",
+        "romaji": "Migiude ga Ishi o Motte Hashiridasu",
+        "ja": "右腕が意思を持って走り出す"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1861,10 +1941,12 @@
     },
     "6": {
       "episode": "6",
-      "length": "1m",
+      "length": 1,
       "airDate": "2019-06-09",
       "title": {
-        "en": "Teen Beating Bear Life Hack!!"
+        "en": "Teen Beating Bear Life Hack!!",
+        "romaji": "JK de Kuma ni Kateru Life Hack",
+        "ja": "JKでもクマに勝てるライフハック"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1876,10 +1958,12 @@
     },
     "7": {
       "episode": "7",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-06-23",
       "title": {
-        "en": "The Impact Aftermath!!!"
+        "en": "The Impact Aftermath!!!",
+        "romaji": "Gyaku Datta Kamoshirenee......",
+        "ja": "逆だったかもしれねェ......"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1891,10 +1975,12 @@
     },
     "8": {
       "episode": "8",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-06-30",
       "title": {
-        "en": "Production Office Packing Heat"
+        "en": "Production Office Packing Heat",
+        "romaji": "Nanigashi Idol Jimusho-san, Enjou Shite Shimau",
+        "ja": "某アイドル事務所さん, 炎上してしまう"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1906,10 +1992,12 @@
     },
     "9": {
       "episode": "9",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-07-07",
       "title": {
-        "en": "Dying for Hiko-boshi"
+        "en": "Dying for Hiko-boshi",
+        "romaji": "Sono Ato Tsuiraku Shita",
+        "ja": "そのあと墜落した"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1921,10 +2009,12 @@
     },
     "10": {
       "episode": "10",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-07-14",
       "title": {
-        "en": "Hanging On!"
+        "en": "Hanging On!",
+        "romaji": "Marumaru Gaman Senshuken!",
+        "ja": "〇〇我慢選手権!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1936,10 +2026,12 @@
     },
     "11": {
       "episode": "11",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-07-21",
       "title": {
-        "en": "Surrounded by Bewbs"
+        "en": "Surrounded by Bewbs",
+        "romaji": "Doyagao no Riyuu ga Omoshirosugita wwwww",
+        "ja": "ドヤ顔の理由が面白すぎたwwwww"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1951,10 +2043,12 @@
     },
     "12": {
       "episode": "12",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-07-28",
       "title": {
-        "en": "Faster Than a Speeding Bullet"
+        "en": "Faster Than a Speeding Bullet",
+        "romaji": "Sekai Saisoku no Onna",
+        "ja": "世界最速の女"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1966,10 +2060,12 @@
     },
     "13": {
       "episode": "13",
-      "length": "3m",
+      "length": 3,
       "airDate": "2019-08-04",
       "title": {
-        "en": "What Does the Fox Say?"
+        "en": "What Does the Fox Say?",
+        "romaji": "Shirakami Fubuki, Taiho",
+        "ja": "白上フブキ, 逮捕"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1981,10 +2077,12 @@
     },
     "14": {
       "episode": "14",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-08-11",
       "title": {
-        "en": "Sharpedo VS Hololive"
+        "en": "Sharpedo VS Hololive",
+        "romaji": "Samehadaa vs Idol",
+        "ja": "サメハダーVSアイドル"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1996,10 +2094,12 @@
     },
     "15": {
       "episode": "15",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-08-18",
       "title": {
-        "en": "BEETing a Beetle"
+        "en": "BEETing a Beetle",
+        "romaji": "Kabutomushi Bokoboko ni Shitatta wa wwwwwwwwwwww",
+        "ja": "カブトムシぼこぼこにしたったわwwwwwwwwwwww"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2011,10 +2111,12 @@
     },
     "16": {
       "episode": "16",
-      "length": "3m",
+      "length": 3,
       "airDate": "2019-08-25",
       "title": {
-        "en": "Group Hollucination"
+        "en": "Group Hollucination",
+        "romaji": "Shuudan Genkaku",
+        "ja": "集団幻覚"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2026,10 +2128,12 @@
     },
     "17": {
       "episode": "17",
-      "length": "3m",
+      "length": 3,
       "airDate": "2019-09-01",
       "title": {
-        "en": "And Then There Were None"
+        "en": "And Then There Were None",
+        "romaji": "Soshite Daremo Inakunatta",
+        "ja": "そして誰もいなくなった"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2041,10 +2145,12 @@
     },
     "18": {
       "episode": "18",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-09-08",
       "title": {
-        "en": "How Many Kilos Can You Hold a Dumbbell?"
+        "en": "How Many Kilos Can You Hold a Dumbbell?",
+        "romaji": "Dumbbell Nan Kilo Moteru? \"Onegai Muscle\"",
+        "ja": "ダンベル何キロ持てる?『お願いマッスル』"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2056,10 +2162,12 @@
     },
     "19": {
       "episode": "19",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-09-15",
       "title": {
-        "en": "Handsomeness from the Gorgeous"
+        "en": "Handsomeness from the Gorgeous",
+        "romaji": "Bishoujo kara Ikebo Dete Kita wwwwwww",
+        "ja": "美少女からイケボ出てきたwwwwwww"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2071,10 +2179,12 @@
     },
     "20": {
       "episode": "20",
-      "length": "1m",
+      "length": 1,
       "airDate": "2019-09-22",
       "title": {
-        "en": "The Twin-tail Heist"
+        "en": "The Twin-tail Heist",
+        "romaji": "Shin Ishou Ohirome!?",
+        "ja": "新衣装お披露目!?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2086,10 +2196,12 @@
     },
     "21": {
       "episode": "21",
-      "length": "1m",
+      "length": 1,
       "airDate": "2019-09-29",
       "title": {
-        "en": "The Three Musketeers of Dogs Are Here"
+        "en": "The Three Musketeers of Dogs Are Here",
+        "romaji": "Inu San Juushi o Tsurete Kita yo",
+        "ja": "犬三銃士を連れてきたよ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2101,10 +2213,12 @@
     },
     "22": {
       "episode": "22",
-      "length": "1m",
+      "length": 1,
       "airDate": "2019-10-06",
       "title": {
-        "en": "Damage Reports Billions"
+        "en": "Damage Reports Billions",
+        "romaji": "Kekka, Higai Sougaku Marumaru Oku En",
+        "ja": "結果, 被害総額〇〇億円"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2116,10 +2230,12 @@
     },
     "23": {
       "episode": "23",
-      "length": "3m",
+      "length": 3,
       "airDate": "2019-10-13",
       "title": {
-        "en": "Collaboration with Yomemi! Big Brawl with High Potion and Tentacles"
+        "en": "Collaboration with Yomemi! Big Brawl with High Potion and Tentacles",
+        "romaji": "Yomemi Collabo! Hypo to Shokushu de Tairantou wwwwwwww",
+        "ja": "ヨメミコラボ! ハイポと触手で大乱闘wwwwwwww"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2131,10 +2247,12 @@
     },
     "24": {
       "episode": "24",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-10-20",
       "title": {
-        "en": "The Weird Visitor"
+        "en": "The Weird Visitor",
+        "romaji": "Hen na Yatsu ga Irundakedo wwwww",
+        "ja": "変なヤツがいるんだけどwwwww"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2146,10 +2264,12 @@
     },
     "25": {
       "episode": "25",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-10-27",
       "title": {
-        "en": "Chaos. Lots of Chaos."
+        "en": "Chaos. Lots of Chaos.",
+        "romaji": "Game ni Nattattawa wwwwww",
+        "ja": "ゲームになったったわwwwwww"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2161,10 +2281,12 @@
     },
     "26": {
       "episode": "26",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-11-03",
       "title": {
-        "en": "Down the Doughnut Hole"
+        "en": "Down the Doughnut Hole",
+        "romaji": "Donuts ni Tatakai o Idonda Kekka wwwwwww",
+        "ja": "ドーナツに戦いを挑んだ結果wwwwwww"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2176,10 +2298,12 @@
     },
     "27": {
       "episode": "27",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-11-10",
       "title": {
-        "en": "Keeping a OO!!"
+        "en": "Keeping a OO!!",
+        "romaji": "Marumaru Katta Kekka wwwwwwwww",
+        "ja": "〇〇飼った結果wwwwwwwww"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2191,10 +2315,12 @@
     },
     "28": {
       "episode": "28",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-11-17",
       "title": {
-        "en": "Extraordinary Behavior of the Two"
+        "en": "Extraordinary Behavior of the Two",
+        "romaji": "Futari ga Totta Shougeki no Koudou to wa!?",
+        "ja": "二人がとった衝撃の行動とは!?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2206,10 +2332,12 @@
     },
     "29": {
       "episode": "29",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-11-24",
       "title": {
-        "en": "When Things Get Out of Hand..."
+        "en": "When Things Get Out of Hand...",
+        "romaji": "Izonshou de Kuruttatta wa wwwwwww",
+        "ja": "依存症で狂ったったわwwwwwww"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2221,10 +2349,12 @@
     },
     "30": {
       "episode": "30",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-12-01",
       "title": {
-        "en": "The New Member of the Family"
+        "en": "The New Member of the Family",
+        "romaji": "Atarashii Kazoku ga Fuemashita wwwwwwwww",
+        "ja": "新しい家族が増えましたwwwwwwwww"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2236,10 +2366,12 @@
     },
     "31": {
       "episode": "31",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-12-08",
       "title": {
-        "en": "The Snap!"
+        "en": "The Snap!",
+        "romaji": "Bunnagutta Kekka wwwwwwww",
+        "ja": "ぶん殴った結果wwwwwwww"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2251,10 +2383,12 @@
     },
     "32": {
       "episode": "32",
-      "length": "1m",
+      "length": 1,
       "airDate": "2019-12-15",
       "title": {
-        "en": "When Cooking Gets Fishy"
+        "en": "When Cooking Gets Fishy",
+        "romaji": "Idol no Teryouri to Ieba......",
+        "ja": "アイドルの手料理といえば......"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2266,10 +2400,12 @@
     },
     "33": {
       "episode": "33",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-12-22",
       "title": {
-        "en": "Fasting for a Month"
+        "en": "Fasting for a Month",
+        "romaji": "Danjiki Ikkagetsu no Onna",
+        "ja": "断食一ヶ月の女"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2281,10 +2417,12 @@
     },
     "34": {
       "episode": "34",
-      "length": "2m",
+      "length": 2,
       "airDate": "2019-12-29",
       "title": {
-        "en": "Buried in Wall. Send Help"
+        "en": "Buried in Wall. Send Help",
+        "romaji": "Kabe ni Umarimashita. Tasukete Kudasai",
+        "ja": "壁に埋まりました. 助けてください"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2296,10 +2434,12 @@
     },
     "35": {
       "episode": "35",
-      "length": "1m",
+      "length": 1,
       "airDate": "2020-01-05",
       "title": {
-        "en": "Of Broken Dreams"
+        "en": "Of Broken Dreams",
+        "romaji": "Watashi no Sakuhin ga Kowasaremashita",
+        "ja": "私の作品が壊されました"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2311,10 +2451,12 @@
     },
     "36": {
       "episode": "36",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-01-12",
       "title": {
-        "en": "The Tragedy of Modern Society"
+        "en": "The Tragedy of Modern Society",
+        "romaji": "Gendai no Yami ni Fumikonda Douga",
+        "ja": "現代の闇に踏み込んだ動画"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2326,10 +2468,12 @@
     },
     "37": {
       "episode": "37",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-01-19",
       "title": {
-        "en": "Prank goes Nonstop"
+        "en": "Prank goes Nonstop",
+        "romaji": "Daiji na Live ni Sanka Dekinai Dokkori",
+        "ja": "大事なライブに参加できないドッキリ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2341,10 +2485,12 @@
     },
     "38": {
       "episode": "38",
-      "length": "3m",
+      "length": 3,
       "airDate": "2020-01-26",
       "title": {
-        "en": "Hololive... The Movie!"
+        "en": "Hololive... The Movie!",
+        "romaji": "Gekijouban Holo no Graffiti: Edo Tensei / Gekijouban Holo Live!",
+        "ja": "劇場版 ホロのぐらふぃてぃ 穢土転生[エドテンセイ] / 劇場版ホロライブ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2356,10 +2502,12 @@
     },
     "39": {
       "episode": "39",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-02-02",
       "title": {
-        "en": "Fools Everywhere"
+        "en": "Fools Everywhere",
+        "romaji": "Orokamono Shika Inai",
+        "ja": "愚か者しかいない"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2371,10 +2519,12 @@
     },
     "40": {
       "episode": "40",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-02-09",
       "title": {
-        "en": "What If You Were King?"
+        "en": "What If You Were King?",
+        "romaji": "Kukoou ni Nattara Dou Naru no ka?",
+        "ja": "国王になったらどうなるのか?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2386,10 +2536,12 @@
     },
     "41": {
       "episode": "41",
-      "length": "1m",
+      "length": 1,
       "airDate": "2020-02-16",
       "title": {
-        "en": "*** Fishing Championship"
+        "en": "*** Fishing Championship",
+        "romaji": "Marumaru Houkaku Senshuken!",
+        "ja": "〇〇捕獲選手権!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2401,10 +2553,12 @@
     },
     "42": {
       "episode": "42",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-02-23",
       "title": {
-        "en": "Cosplay Girl vs Green Thingie"
+        "en": "Cosplay Girl vs Green Thingie",
+        "romaji": "Cosplay Onna vs Midoriiro no Are",
+        "ja": "コスプレ女VS緑色のアレ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2416,10 +2570,12 @@
     },
     "43": {
       "episode": "43",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-03-01",
       "title": {
-        "en": "The Secret Route to the Hololive Office"
+        "en": "The Secret Route to the Hololive Office",
+        "romaji": "Holo Live Jimusho ni Iku Himitsu no Houhou",
+        "ja": "ホロライブ事務所に行く秘密の方法"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2431,10 +2587,12 @@
     },
     "44": {
       "episode": "44",
-      "length": "1m",
+      "length": 1,
       "airDate": "2020-03-08",
       "title": {
-        "en": "Ever Heard of Human Tetris?"
+        "en": "Ever Heard of Human Tetris?",
+        "romaji": "Ningen Tetristte Shitteru?",
+        "ja": "人間テトリスって知ってる?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2446,10 +2604,12 @@
     },
     "45": {
       "episode": "45",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-03-15",
       "title": {
-        "en": "Help, Help! I`m Being Repressed!"
+        "en": "Help, Help! I`m Being Repressed!",
+        "romaji": "Iyagarase o Ukete Imasu",
+        "ja": "嫌がらせを受けています"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2461,10 +2621,12 @@
     },
     "46": {
       "episode": "46",
-      "length": "3m",
+      "length": 3,
       "airDate": "2020-03-22",
       "title": {
-        "en": "An Expose on Workplace Harassment"
+        "en": "An Expose on Workplace Harassment",
+        "romaji": "Power Hara no Genba o Osaemashita",
+        "ja": "パワハラの現場をおさえました"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2476,10 +2638,12 @@
     },
     "47": {
       "episode": "47",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-03-29",
       "title": {
-        "en": "Doctor vs. DJ"
+        "en": "Doctor vs. DJ",
+        "romaji": "Isha vs DJ",
+        "ja": "医者vsDJ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2491,10 +2655,12 @@
     },
     "48": {
       "episode": "48",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-04-05",
       "title": {
-        "en": "I Went and Slipped Up"
+        "en": "I Went and Slipped Up",
+        "romaji": "Subecchatta na",
+        "ja": "すべっちゃったなぁ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2506,10 +2672,12 @@
     },
     "49": {
       "episode": "49",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-04-12",
       "title": {
-        "en": "****-Human Contest"
+        "en": "****-Human Contest",
+        "romaji": "Maru Ningen Contest!",
+        "ja": "◯人間コンテスト!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2521,10 +2689,12 @@
     },
     "50": {
       "episode": "50",
-      "length": "1m",
+      "length": 1,
       "airDate": "2020-04-19",
       "title": {
-        "en": "Idols Face a Shady Threat"
+        "en": "Idols Face a Shady Threat",
+        "romaji": "Idol ni Shinobiyoru Fushinsha no Kage......",
+        "ja": "アイドルに忍び寄る不審者の影......"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2536,10 +2706,12 @@
     },
     "51": {
       "episode": "51",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-04-26",
       "title": {
-        "en": "I So Wanna Touch!"
+        "en": "I So Wanna Touch!",
+        "romaji": "Zettai ni Sawaritai!",
+        "ja": "絶対に触りたい!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2551,10 +2723,12 @@
     },
     "52": {
       "episode": "52",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-05-03",
       "title": {
-        "en": "Fortnite (Identity V)"
+        "en": "Fortnite (Identity V)",
+        "romaji": "Fortnite",
+        "ja": "フォートナイト"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2566,10 +2740,12 @@
     },
     "53": {
       "episode": "53",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-05-10",
       "title": {
-        "en": "Hansel and Gretel in 60 Seconds"
+        "en": "Hansel and Gretel in 60 Seconds",
+        "romaji": "Ippun de Wakaru Hanzel to Gretel",
+        "ja": "1分でわかるヘンゼルとグレーテル"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2581,10 +2757,12 @@
     },
     "54": {
       "episode": "54",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-05-17",
       "title": {
-        "en": "This Is Modern Food Reviews!"
+        "en": "This Is Modern Food Reviews!",
+        "romaji": "Kore ga Shinjidai no Shoku Repo ja!",
+        "ja": "これが新時代の食レポじゃ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2596,10 +2774,12 @@
     },
     "55": {
       "episode": "55",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-05-24",
       "title": {
-        "en": "The Greetings Championship!"
+        "en": "The Greetings Championship!",
+        "romaji": "Saikyou no Aisatsu o Kimero: Aisatsu Ou Senshuken!",
+        "ja": "最強の挨拶を決めろ☆挨拶王選手権!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2611,10 +2791,12 @@
     },
     "56": {
       "episode": "56",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-05-31",
       "title": {
-        "en": "Remote Workouts in 60 Seconds!"
+        "en": "Remote Workouts in 60 Seconds!",
+        "romaji": "Ippun de Dekiru Remote Kintore!",
+        "ja": "1分でできるリモート筋トレ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2626,10 +2808,12 @@
     },
     "57": {
       "episode": "57",
-      "length": "1m",
+      "length": 1,
       "airDate": "2020-06-07",
       "title": {
-        "en": "Get into Tokyu U!"
+        "en": "Get into Tokyu U!",
+        "romaji": "Toudai o Mezashite",
+        "ja": "東大を目指して"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2641,10 +2825,12 @@
     },
     "58": {
       "episode": "58",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-06-14",
       "title": {
-        "en": "We Tried Kusaya"
+        "en": "We Tried Kusaya",
+        "romaji": "Kusaya Tabete Mita",
+        "ja": "くさや食べてみた"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2656,10 +2842,12 @@
     },
     "59": {
       "episode": "59",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-06-21",
       "title": {
-        "en": "Chase Like You Mean It!"
+        "en": "Chase Like You Mean It!",
+        "romaji": "Zenryoku de Oikakero!",
+        "ja": "全力で追いかけろ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2671,10 +2859,12 @@
     },
     "60": {
       "episode": "60",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-06-27",
       "title": {
-        "en": "Who Landed the Fatal Blow? Passing the Buck!"
+        "en": "Who Landed the Fatal Blow? Passing the Buck!",
+        "romaji": "Todome no Ichigeki o Sashita no wa Dare Da!? Tsumi no Nasuritsuke!",
+        "ja": "とどめの一撃を刺したのは誰だ!? 罪のなすりつけ合い!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2686,10 +2876,12 @@
     },
     "61": {
       "episode": "61",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-07-05",
       "title": {
-        "en": "Annihilate `em All!"
+        "en": "Annihilate `em All!",
+        "romaji": "Zen`in Buttsubuse!",
+        "ja": "全員ぶっ潰せ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2701,10 +2893,12 @@
     },
     "62": {
       "episode": "62",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-07-12",
       "title": {
-        "en": "Frozen Out in the Bomb Disposal Squad"
+        "en": "Frozen Out in the Bomb Disposal Squad",
+        "romaji": "Kankei ga Gikushaku Suru Bakudan Kaijo",
+        "ja": "関係がギクシャクする爆弾解除"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2716,10 +2910,12 @@
     },
     "63": {
       "episode": "63",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-07-19",
       "title": {
-        "en": "My First Errand"
+        "en": "My First Errand",
+        "romaji": "Hajimete no Otsukai",
+        "ja": "はじめてのおつかい"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2731,10 +2927,12 @@
     },
     "64": {
       "episode": "64",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-07-26",
       "title": {
-        "en": "How to Make Takoyaki"
+        "en": "How to Make Takoyaki",
+        "romaji": "Takoyaki no Tsukurikata",
+        "ja": "たこ焼きの作り方"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2746,10 +2944,12 @@
     },
     "65": {
       "episode": "65",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-08-02",
       "title": {
-        "en": "You`ve Been Prank`d"
+        "en": "You`ve Been Prank`d",
+        "romaji": "Dokkuri Daiseikou!",
+        "ja": "ドッキリ大成功!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2761,10 +2961,12 @@
     },
     "66": {
       "episode": "66",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-08-09",
       "title": {
-        "en": "Grant My Wish"
+        "en": "Grant My Wish",
+        "romaji": "Onegai ga Aru no...",
+        "ja": "お願いがあるの..."
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2776,10 +2978,12 @@
     },
     "67": {
       "episode": "67",
-      "length": "3m",
+      "length": 3,
       "airDate": "2020-08-16",
       "title": {
-        "en": "Movie Appreciation Night"
+        "en": "Movie Appreciation Night",
+        "romaji": "Yoru no Eiga Kanshoukai!",
+        "ja": "夜の映画鑑賞会!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2791,10 +2995,12 @@
     },
     "68": {
       "episode": "68",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-08-23",
       "title": {
-        "en": "The Idiots` Guide to Making People Mad"
+        "en": "The Idiots` Guide to Making People Mad",
+        "romaji": "Hito no Ikarasekata",
+        "ja": "人の怒らせ方"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2806,10 +3012,12 @@
     },
     "69": {
       "episode": "69",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-08-30",
       "title": {
-        "en": "Wash Everything Anew! Nagashi Somen Battle!"
+        "en": "Wash Everything Anew! Nagashi Somen Battle!",
+        "romaji": "Zenbu Mizu ni Nagase! Nagashisoumen Battle!",
+        "ja": "全部水に流せ! 流しそうめんバトル!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2821,10 +3029,12 @@
     },
     "70": {
       "episode": "70",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-09-06",
       "title": {
-        "en": "Sneak Peek"
+        "en": "Sneak Peek",
+        "romaji": "Nozoite Mita",
+        "ja": "のぞいてみた"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2836,10 +3046,12 @@
     },
     "71": {
       "episode": "71",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-09-13",
       "title": {
-        "en": "Supersized Me"
+        "en": "Supersized Me",
+        "romaji": "Ookiku Nacchatta",
+        "ja": "大きくなっちゃった"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2851,10 +3063,12 @@
     },
     "72": {
       "episode": "72",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-09-20",
       "title": {
-        "en": "Go Beyond the Suffering! Endurance Contest!"
+        "en": "Go Beyond the Suffering! Endurance Contest!",
+        "romaji": "Kurushimi o Koero! Gaman Taikai!",
+        "ja": "苦しみを超えろ! 我慢大会!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2866,10 +3080,12 @@
     },
     "73": {
       "episode": "73",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-09-27",
       "title": {
-        "en": "Take Over the Animal Kingdom"
+        "en": "Take Over the Animal Kingdom",
+        "romaji": "Doubutsu Banchou o Mezashite",
+        "ja": "動物番長を目指して"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2881,10 +3097,12 @@
     },
     "74": {
       "episode": "74",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-10-04",
       "title": {
-        "en": "Let`s Form a Band!"
+        "en": "Let`s Form a Band!",
+        "romaji": "Band Yarou ze!",
+        "ja": "バンドやろうぜ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2896,10 +3114,12 @@
     },
     "75": {
       "episode": "75",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-10-11",
       "title": {
-        "en": "Curry Meshi VS Hololive"
+        "en": "Curry Meshi VS Hololive",
+        "romaji": "Curry Meshi vs Holo Live",
+        "ja": "カレーメシVSホロライブ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2911,10 +3131,12 @@
     },
     "76": {
       "episode": "76",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-10-18",
       "title": {
-        "en": "How to Raise a Chick (Microwaved)"
+        "en": "How to Raise a Chick (Microwaved)",
+        "romaji": "Hiyoko no Sodatekata",
+        "ja": "ひよこの育て方"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2926,10 +3148,12 @@
     },
     "77": {
       "episode": "77",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-10-25",
       "title": {
-        "en": "A Smart Way to Use Pigtails"
+        "en": "A Smart Way to Use Pigtails",
+        "romaji": "Twin Tail no Tsukaimichi",
+        "ja": "ツインテールの使い道"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2941,10 +3165,12 @@
     },
     "78": {
       "episode": "78",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-11-01",
       "title": {
-        "en": "Gotta Break It Down!"
+        "en": "Gotta Break It Down!",
+        "romaji": "Kou Nattara Hakai Suru Shika Nee yo!",
+        "ja": "こうなったら破壊するしかねーよ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2956,10 +3182,12 @@
     },
     "79": {
       "episode": "79",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-11-08",
       "title": {
-        "en": "What Is Wrong with You?"
+        "en": "What Is Wrong with You?",
+        "romaji": "Nani Yattenno?",
+        "ja": "何やってんの?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2971,10 +3199,12 @@
     },
     "80": {
       "episode": "80",
-      "length": "3m",
+      "length": 3,
       "airDate": "2020-11-15",
       "title": {
-        "en": "Ramen Stall in an Awful Location"
+        "en": "Ramen Stall in an Awful Location",
+        "romaji": "Saiaku no Ricchi no Ramen`ya",
+        "ja": "最悪の立地のラーメン屋"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2986,10 +3216,12 @@
     },
     "81": {
       "episode": "81",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-11-22",
       "title": {
-        "en": "Help! I`ll Be Burned!"
+        "en": "Help! I`ll Be Burned!",
+        "romaji": "Tasukete! Yakareru!",
+        "ja": "助けて! 焼かれる!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3001,10 +3233,12 @@
     },
     "82": {
       "episode": "82",
-      "length": "4m",
+      "length": 4,
       "airDate": "2020-11-29",
       "title": {
-        "en": "Survival of the Fittest"
+        "en": "Survival of the Fittest",
+        "romaji": "Jakunikukyoushoku",
+        "ja": "弱肉強食"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3016,10 +3250,12 @@
     },
     "83": {
       "episode": "83",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-12-06",
       "title": {
-        "en": "How to Invoke a Kaiju"
+        "en": "How to Invoke a Kaiju",
+        "romaji": "Kaijuu no Oroshikata",
+        "ja": "怪獣の降ろし方"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3031,10 +3267,12 @@
     },
     "84": {
       "episode": "84",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-12-13",
       "title": {
-        "en": "Help! I`m Stuck!"
+        "en": "Help! I`m Stuck!",
+        "romaji": "Karada ga Ugokanai! Tasukete!",
+        "ja": "体が動かない! 助けて!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3046,10 +3284,12 @@
     },
     "85": {
       "episode": "85",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-12-20",
       "title": {
-        "en": "Halloween Hangover"
+        "en": "Halloween Hangover",
+        "romaji": "Maada Halloween Da to Omoikonde Ita Hito-tachi",
+        "ja": "ま~だハロウィンだと思い込んでいた人たち"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3061,10 +3301,12 @@
     },
     "86": {
       "episode": "86",
-      "length": "3m",
+      "length": 3,
       "airDate": "2020-12-27",
       "title": {
-        "en": "This Is Hololive`s Year-End!"
+        "en": "This Is Hololive`s Year-End!",
+        "romaji": "Kore ga Holo Live no Nenmatsu!",
+        "ja": "これがホロライブの年末!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3076,10 +3318,12 @@
     },
     "87": {
       "episode": "87",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-01-03",
       "title": {
-        "en": "I`ve Solved the Mystery of the Idol Agency!"
+        "en": "I`ve Solved the Mystery of the Idol Agency!",
+        "romaji": "Idol Jimusho no Himitsu Abaitatta wa!",
+        "ja": "アイドル事務所の秘密暴いたったわ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3091,10 +3335,12 @@
     },
     "88": {
       "episode": "88",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-01-10",
       "title": {
-        "en": "What Happens When You Cater to Whims"
+        "en": "What Happens When You Cater to Whims",
+        "romaji": "Wagamama o Kanaeta Kekka",
+        "ja": "わがままを叶えた結果"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3106,10 +3352,12 @@
     },
     "89": {
       "episode": "89",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-01-17",
       "title": {
-        "en": "The Difference Between Coffee and Mud"
+        "en": "The Difference Between Coffee and Mud",
+        "romaji": "Coffee to Doro no Chigai",
+        "ja": "コーヒーと泥の違い"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3121,10 +3369,12 @@
     },
     "90": {
       "episode": "90",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-01-24",
       "title": {
-        "en": "How to Become a Cat"
+        "en": "How to Become a Cat",
+        "romaji": "Neko ni Naru Houhou",
+        "ja": "猫になる方法"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3136,10 +3386,12 @@
     },
     "91": {
       "episode": "91",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-01-31",
       "title": {
-        "en": "Polar Bear vs. Noble Girl"
+        "en": "Polar Bear vs. Noble Girl",
+        "romaji": "Shirokuma vs Ojou-sama",
+        "ja": "白熊VSお嬢様"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3151,10 +3403,12 @@
     },
     "92": {
       "episode": "92",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-02-07",
       "title": {
-        "en": "Grown-Ups on Tricycles"
+        "en": "Grown-Ups on Tricycles",
+        "romaji": "Sanrinsha ni Noru Otona-tachi",
+        "ja": "三輪車に乗る大人たち"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3166,10 +3420,12 @@
     },
     "93": {
       "episode": "93",
-      "length": "7m",
+      "length": 7,
       "airDate": "2021-02-14",
       "title": {
-        "en": "Help! We`ll Be Fired!"
+        "en": "Help! We`ll Be Fired!",
+        "romaji": "Tasukete! Kubi ni Sareru!",
+        "ja": "助けて! クビにされる!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3181,10 +3437,12 @@
     },
     "94": {
       "episode": "94",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-02-21",
       "title": {
-        "en": "Maidealism"
+        "en": "Maidealism",
+        "romaji": "Maid Rashisa o Motomete",
+        "ja": "メイドらしさを求めて"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3196,10 +3454,12 @@
     },
     "95": {
       "episode": "95",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-02-28",
       "title": {
-        "en": "Going Wild in a Shopping Mall"
+        "en": "Going Wild in a Shopping Mall",
+        "romaji": "Shopping Mall de Bousou Shitai!",
+        "ja": "ショッピングモールで暴走したい!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3211,10 +3471,12 @@
     },
     "96": {
       "episode": "96",
-      "length": "1m",
+      "length": 1,
       "airDate": "2021-03-07",
       "title": {
-        "en": "Sitting Duck"
+        "en": "Sitting Duck",
+        "romaji": "Kuwareru Kamo...",
+        "ja": "食われるかも..."
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3226,10 +3488,12 @@
     },
     "97": {
       "episode": "97",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-03-14",
       "title": {
-        "en": "The Perfect Cover-Up"
+        "en": "The Perfect Cover-Up",
+        "romaji": "Senpai no Marumaru o Inpei Shitai!",
+        "ja": "先輩のOOを隠蔽したい!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3241,10 +3505,12 @@
     },
     "98": {
       "episode": "98",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-03-21",
       "title": {
-        "en": "Speak of the Devil"
+        "en": "Speak of the Devil",
+        "romaji": "Dechatta...",
+        "ja": "出ちゃった..."
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3256,10 +3522,12 @@
     },
     "99": {
       "episode": "99",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-03-28",
       "title": {
-        "en": "I Refuse to Lose to You"
+        "en": "I Refuse to Lose to You",
+        "romaji": "Omae ni wa Makerarenai",
+        "ja": "お前には負けられない"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3271,10 +3539,12 @@
     },
     "100": {
       "episode": "100",
-      "length": "3m",
+      "length": 3,
       "airDate": "2021-04-04",
       "title": {
-        "en": "Really Wanna Eat You-Know-What!"
+        "en": "Really Wanna Eat You-Know-What!",
+        "romaji": "Doushitemo Marumaru ga Tabetai!",
+        "ja": "どうしても〇〇が食べたい!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3286,10 +3556,12 @@
     },
     "101": {
       "episode": "101",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-04-11",
       "title": {
-        "en": "Everybody`s Scary When Mad"
+        "en": "Everybody`s Scary When Mad",
+        "romaji": "Okoru to Dare Datte Kowai",
+        "ja": "怒ると誰だって怖い"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3301,10 +3573,12 @@
     },
     "102": {
       "episode": "102",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-04-18",
       "title": {
-        "en": "First Look"
+        "en": "First Look",
+        "romaji": "Mada Darenimo Misete Inai",
+        "ja": "まだ誰にも見せていない"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3316,10 +3590,12 @@
     },
     "103": {
       "episode": "103",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-04-25",
       "title": {
-        "en": "I Got Lucky"
+        "en": "I Got Lucky",
+        "romaji": "Atacchatta......",
+        "ja": "当たっちゃった......"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3331,10 +3607,12 @@
     },
     "104": {
       "episode": "104",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-05-02",
       "title": {
-        "en": "Beware, Beware the Blues of May"
+        "en": "Beware, Beware the Blues of May",
+        "romaji": "Gogatsubyou no Anata e",
+        "ja": "五月病のあなたへ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3346,10 +3624,12 @@
     },
     "105": {
       "episode": "105",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-05-09",
       "title": {
-        "en": "Murphy`s Law"
+        "en": "Murphy`s Law",
+        "romaji": "Trouble Darake!",
+        "ja": "トラブルだらけ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3361,10 +3641,12 @@
     },
     "106": {
       "episode": "106",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-05-16",
       "title": {
-        "en": "In Spring, w00t!"
+        "en": "In Spring, w00t!",
+        "romaji": "Haru wa Agebo yo",
+        "ja": "春はあげぼよ~^^v"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3376,10 +3658,12 @@
     },
     "107": {
       "episode": "107",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-05-23",
       "title": {
-        "en": "Critical Memory Lapse"
+        "en": "Critical Memory Lapse",
+        "romaji": "Daiji na Koto o Wasurete Imashita...",
+        "ja": "大事なことを忘れていました..."
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3391,10 +3675,12 @@
     },
     "108": {
       "episode": "108",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-05-30",
       "title": {
-        "en": "Looking the Part"
+        "en": "Looking the Part",
+        "romaji": "Katachi kara Hairu Type no Meitantei",
+        "ja": "形から入るタイプの名探偵"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3406,10 +3692,12 @@
     },
     "109": {
       "episode": "109",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-06-06",
       "title": {
-        "en": "The Need for Speed"
+        "en": "The Need for Speed",
+        "romaji": "Saisoku e no Akogare",
+        "ja": "最速への憧れ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3421,10 +3709,12 @@
     },
     "110": {
       "episode": "110",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-06-13",
       "title": {
-        "en": "Police Presence"
+        "en": "Police Presence",
+        "romaji": "Tsui ni Keisatsu no Deban ga...",
+        "ja": "ついに警察の出番が..."
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3436,10 +3726,12 @@
     },
     "111": {
       "episode": "111",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-06-20",
       "title": {
-        "en": "Advice Unwise"
+        "en": "Advice Unwise",
+        "romaji": "Onayami Kaiketsu, Shippai!",
+        "ja": "お悩み解決, 失敗!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3451,10 +3743,12 @@
     },
     "112": {
       "episode": "112",
-      "length": "3m",
+      "length": 3,
       "airDate": "2021-06-27",
       "title": {
-        "en": "Live Strong!"
+        "en": "Live Strong!",
+        "romaji": "Genki de na!",
+        "ja": "元気でな!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3466,10 +3760,12 @@
     },
     "113": {
       "episode": "113",
-      "length": "1m",
+      "length": 1,
       "airDate": "2021-07-04",
       "title": {
-        "en": "The Importance of Catch"
+        "en": "The Importance of Catch",
+        "romaji": "Kotoba no Catch Ball o Shite Kure!",
+        "ja": "言葉のキャッチボールをしてくれ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3481,10 +3777,12 @@
     },
     "114": {
       "episode": "114",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-07-18",
       "title": {
-        "en": "Stay Out of My Lane"
+        "en": "Stay Out of My Lane",
+        "romaji": "Watashi ni Kakawaruna!",
+        "ja": "私に関わるな!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3496,10 +3794,12 @@
     },
     "115": {
       "episode": "115",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-07-25",
       "title": {
-        "en": "Tanabata Lives On!"
+        "en": "Tanabata Lives On!",
+        "romaji": "Tanabata o Owarasenai!",
+        "ja": "七夕を終わらせない!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3511,10 +3811,12 @@
     },
     "116": {
       "episode": "116",
-      "length": "3m",
+      "length": 3,
       "airDate": "2021-08-01",
       "title": {
-        "en": "Verbal Pek"
+        "en": "Verbal Pek",
+        "romaji": "Hen na Koto Icchaunda kedo!",
+        "ja": "変なこと言っちゃうんだけど!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3526,10 +3828,12 @@
     },
     "117": {
       "episode": "117",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-08-08",
       "title": {
-        "en": "Wanna See a Witch Do Magic Tricks?"
+        "en": "Wanna See a Witch Do Magic Tricks?",
+        "romaji": "Mahou Tsukai no Tokugi, Mitakunai?",
+        "ja": "魔法使いの特技, 見たくない?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3541,10 +3845,12 @@
     },
     "118": {
       "episode": "118",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-08-15",
       "title": {
-        "en": "Blame the Heat Wave"
+        "en": "Blame the Heat Wave",
+        "romaji": "Zenbu Mousho no Sei Da",
+        "ja": "全部猛暑のせいだ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3556,10 +3862,12 @@
     },
     "119": {
       "episode": "119",
-      "length": "4m",
+      "length": 4,
       "airDate": "2021-08-22",
       "title": {
-        "en": "The Beginnings of the End"
+        "en": "The Beginnings of the End",
+        "romaji": "Shuuen no Trigger ni Natta Shunkan",
+        "ja": "終焉のトリガーになった瞬間"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3571,10 +3879,12 @@
     },
     "120": {
       "episode": "120",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-08-29",
       "title": {
-        "en": "The Ideal BBQ"
+        "en": "The Ideal BBQ",
+        "romaji": "BBQ Suru nara Yappa Koko Desho!?",
+        "ja": "BBQするならやっぱココでしょ!?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3586,10 +3896,12 @@
     },
     "121": {
       "episode": "121",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-09-05",
       "title": {
-        "en": "Straight from the Horse`s Mouth"
+        "en": "Straight from the Horse`s Mouth",
+        "romaji": "Kono Atokuchi kara...",
+        "ja": "このあと口から..."
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3601,10 +3913,12 @@
     },
     "122": {
       "episode": "122",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-09-12",
       "title": {
-        "en": "Danger: Sharp Objects"
+        "en": "Danger: Sharp Objects",
+        "romaji": "Kyouki Motasete Mita",
+        "ja": "凶器持たせてみた"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3616,10 +3930,12 @@
     },
     "123": {
       "episode": "123",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-09-19",
       "title": {
-        "en": "The Steam-and-Eat Syndicate"
+        "en": "The Steam-and-Eat Syndicate",
+        "romaji": "Douryou no Makura Cover o Nimono ni Shite Tabetaai!",
+        "ja": "同僚の枕カバーを煮物にして食べた~い!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3631,10 +3947,12 @@
     },
     "124": {
       "episode": "124",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-09-26",
       "title": {
-        "en": "TV Dinner"
+        "en": "TV Dinner",
+        "romaji": "Miru no Kinshi!",
+        "ja": "見るの禁止!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3646,10 +3964,12 @@
     },
     "125": {
       "episode": "125",
-      "length": "1m",
+      "length": 1,
       "airDate": "2021-10-03",
       "title": {
-        "en": "Jailed for YouTube Crimes"
+        "en": "Jailed for YouTube Crimes",
+        "romaji": "Tsukamarimashita.",
+        "ja": "捕まりました."
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3661,10 +3981,12 @@
     },
     "126": {
       "episode": "126",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-10-10",
       "title": {
-        "en": "Danger: Do Not Wake"
+        "en": "Danger: Do Not Wake",
+        "romaji": "Okosuna Kiken!",
+        "ja": "起こすな危険!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3676,10 +3998,12 @@
     },
     "127": {
       "episode": "127",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-10-17",
       "title": {
-        "en": "21st Century Sheep"
+        "en": "21st Century Sheep",
+        "romaji": "Moshimo Producer ni Nattara Dou Naru no ka?",
+        "ja": "もしもプロデューサーになったらどうなるのか?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3691,10 +4015,12 @@
     },
     "128": {
       "episode": "128",
-      "length": "3m",
+      "length": 3,
       "airDate": "2021-10-24",
       "title": {
-        "en": "A Peach of a Tale"
+        "en": "A Peach of a Tale",
+        "romaji": "Sakki Rouka de Mitsukete Kita no",
+        "ja": "さっき廊下で見つけてきたの"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3706,10 +4032,12 @@
     },
     "129": {
       "episode": "129",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-10-31",
       "title": {
-        "en": "Bar FUBAR"
+        "en": "Bar FUBAR",
+        "romaji": "Bar de Iken na",
+        "ja": "BARでイキんな"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3721,10 +4049,12 @@
     },
     "130": {
       "episode": "130",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-11-07",
       "title": {
-        "en": "Barrel and Hardy"
+        "en": "Barrel and Hardy",
+        "romaji": "Taru ni Hamatte Derarenaku Natta ne",
+        "ja": "タルにハマって出られなくなったね"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3736,10 +4066,12 @@
     },
     "131": {
       "episode": "131",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-11-14",
       "title": {
-        "en": "Don`t You Dare Be Sour!"
+        "en": "Don`t You Dare Be Sour!",
+        "romaji": "Atsukurushii",
+        "ja": "暑苦しい"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3751,10 +4083,12 @@
     },
     "132": {
       "episode": "132",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-11-21",
       "title": {
-        "en": "Careful What You Read"
+        "en": "Careful What You Read",
+        "romaji": "Sonna Mono Yonja Ikemasen!",
+        "ja": "そんなもの読んじゃいけません!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3766,10 +4100,12 @@
     },
     "133": {
       "episode": "133",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-11-28",
       "title": {
-        "en": "Hoodwinked, Bamboozled, Led Astray"
+        "en": "Hoodwinked, Bamboozled, Led Astray",
+        "romaji": "Tomodachi no Koto Damashite Kita wa",
+        "ja": "友達のこと騙してきたわ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3781,10 +4117,12 @@
     },
     "134": {
       "episode": "134",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-12-05",
       "title": {
-        "en": "The Hangover"
+        "en": "The Hangover",
+        "romaji": "Futsukayoi",
+        "ja": "二日酔い"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3796,10 +4134,12 @@
     },
     "135": {
       "episode": "135",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-12-12",
       "title": {
-        "en": "Health Is Wealth"
+        "en": "Health Is Wealth",
+        "romaji": "Kenkoushindan ga Aru node...",
+        "ja": "健康診断があるので..."
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3811,10 +4151,12 @@
     },
     "136": {
       "episode": "136",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-12-19",
       "title": {
-        "en": "Manners? Hardly Knew Her!"
+        "en": "Manners? Hardly Knew Her!",
+        "romaji": "Kore ga Manner Koushi Da!",
+        "ja": "これがマナー講師だ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3826,10 +4168,12 @@
     },
     "137": {
       "episode": "137",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-12-26",
       "title": {
-        "en": "The Last Supper"
+        "en": "The Last Supper",
+        "romaji": "Saigo no Bansan",
+        "ja": "最後の晩餐"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3841,10 +4185,12 @@
     },
     "138": {
       "episode": "138",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-01-02",
       "title": {
-        "en": "Moar!"
+        "en": "Moar!",
+        "romaji": "Mucha Furi no Hate ni......",
+        "ja": "無茶振りの果てに......"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3856,10 +4202,11 @@
     },
     "139": {
       "episode": "139",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-01-09",
       "title": {
-        "en": "Free Real Estate"
+        "en": "Free Real Estate",
+        "ja": "釣り物件対策"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3871,10 +4218,11 @@
     },
     "140": {
       "episode": "140",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-01-16",
       "title": {
-        "en": "Chocolicious"
+        "en": "Chocolicious",
+        "ja": "チョコまみれにしてやんよ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3886,10 +4234,11 @@
     },
     "141": {
       "episode": "141",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-01-23",
       "title": {
-        "en": "Lost in Translation"
+        "en": "Lost in Translation",
+        "ja": "いったい何の話をしてるんだ..."
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3901,10 +4250,11 @@
     },
     "142": {
       "episode": "142",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-01-30",
       "title": {
-        "en": "Ruing the Ruining"
+        "en": "Ruing the Ruining",
+        "ja": "皆で積み上げたものを台無しにするでしょう"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3916,10 +4266,11 @@
     },
     "143": {
       "episode": "143",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-02-06",
       "title": {
-        "en": "To Be Young Again"
+        "en": "To Be Young Again",
+        "ja": "若返りを求めて"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3931,10 +4282,11 @@
     },
     "144": {
       "episode": "144",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-02-13",
       "title": {
-        "en": "Who You Gonna Call?"
+        "en": "Who You Gonna Call?",
+        "ja": "狂人に頼んだ結果"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3946,10 +4298,11 @@
     },
     "145": {
       "episode": "145",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-02-20",
       "title": {
-        "en": "The Time Has Come"
+        "en": "The Time Has Come",
+        "ja": "とうとう来たぜ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3961,10 +4314,11 @@
     },
     "146": {
       "episode": "146",
-      "length": "2m",
+      "length": 2,
       "airDate": "2021-02-27",
       "title": {
-        "en": "Yukihana Needy"
+        "en": "Yukihana Needy",
+        "ja": "め, めんどくせ~!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3976,10 +4330,11 @@
     },
     "147": {
       "episode": "147",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-03-06",
       "title": {
-        "en": "Tough Love"
+        "en": "Tough Love",
+        "ja": "崖から突き落とすタイプの教育"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3991,10 +4346,11 @@
     },
     "148": {
       "episode": "148",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-03-13",
       "title": {
-        "en": "Musclebrain Stretches!"
+        "en": "Musclebrain Stretches!",
+        "ja": "脳筋体操はっじまっるよ~!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4006,10 +4362,11 @@
     },
     "149": {
       "episode": "149",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-03-20",
       "title": {
-        "en": "The Office"
+        "en": "The Office",
+        "ja": "あたしゃ止めたんだけどねぇ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4021,10 +4378,11 @@
     },
     "150": {
       "episode": "150",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-03-27",
       "title": {
-        "en": "Sin Chronicle Is Nutritional"
+        "en": "Sin Chronicle Is Nutritional",
+        "ja": "クロニクルでしか得られない栄養があるんだよなぁ!?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4036,10 +4394,11 @@
     },
     "151": {
       "episode": "151",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-04-03",
       "title": {
-        "en": "Brew-tal Attack [Akiganger Ep 1]"
+        "en": "Brew-tal Attack [Akiganger Ep 1]",
+        "ja": "うるせぇ! こっちは仕事で地球守ってんだ! [爆速退勤アキガンガー第1話]"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4051,10 +4410,11 @@
     },
     "152": {
       "episode": "152",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-04-10",
       "title": {
-        "en": "Out of Season"
+        "en": "Out of Season",
+        "ja": "時期が悪いとこうなります"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4066,10 +4426,11 @@
     },
     "153": {
       "episode": "153",
-      "length": "3m",
+      "length": 3,
       "airDate": "2022-04-17",
       "title": {
-        "en": "Mooching Sushi"
+        "en": "Mooching Sushi",
+        "ja": "他人の稼いだ金で寿司を食わせろ!!!!!!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4081,10 +4442,11 @@
     },
     "154": {
       "episode": "154",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-04-24",
       "title": {
-        "en": "Ever Heard of Human Sushi?"
+        "en": "Ever Heard of Human Sushi?",
+        "ja": "みんなを寿司にして遊びた〜い!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4096,10 +4458,11 @@
     },
     "155": {
       "episode": "155",
-      "length": "3m",
+      "length": 3,
       "airDate": "2022-05-01",
       "title": {
-        "en": "Time Flies"
+        "en": "Time Flies",
+        "ja": "バード人間コンテスト (ズルい)"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4111,10 +4474,11 @@
     },
     "156": {
       "episode": "156",
-      "length": "3m",
+      "length": 3,
       "airDate": "2022-05-08",
       "title": {
-        "en": "Highlight Scenes (Recap)"
+        "en": "Highlight Scenes (Recap)",
+        "ja": "みんなが注目したシーン(総集編)"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4126,10 +4490,11 @@
     },
     "157": {
       "episode": "157",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-05-15",
       "title": {
-        "en": "All Your Fault!"
+        "en": "All Your Fault!",
+        "ja": "全部お前のせいだろ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4141,10 +4506,11 @@
     },
     "158": {
       "episode": "158",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-05-22",
       "title": {
-        "en": "A Sticky Situation"
+        "en": "A Sticky Situation",
+        "ja": "手に接着剤つけたら取れなくなっちゃった人"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4156,10 +4522,11 @@
     },
     "159": {
       "episode": "159",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-05-29",
       "title": {
-        "en": "A Fishy Catch"
+        "en": "A Fishy Catch",
+        "ja": "たまにこういうのが釣れるんです"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4171,10 +4538,11 @@
     },
     "160": {
       "episode": "160",
-      "length": "1m",
+      "length": 1,
       "airDate": "2022-06-05",
       "title": {
-        "en": "Air Force Oni"
+        "en": "Air Force Oni",
+        "ja": "ひこうきごっこ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4186,10 +4554,11 @@
     },
     "161": {
       "episode": "161",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-06-12",
       "title": {
-        "en": "Lost and Found"
+        "en": "Lost and Found",
+        "ja": "見ぃつけたっ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4201,10 +4570,11 @@
     },
     "162": {
       "episode": "162",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-06-19",
       "title": {
-        "en": "Tag-Team Finish"
+        "en": "Tag-Team Finish",
+        "ja": "必殺技を覚えました"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4216,10 +4586,11 @@
     },
     "163": {
       "episode": "163",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-06-26",
       "title": {
-        "en": "Choose Your Battles Wisely"
+        "en": "Choose Your Battles Wisely",
+        "ja": "先輩に喧嘩売ったらボコボコにされた話"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4231,10 +4602,11 @@
     },
     "164": {
       "episode": "164",
-      "length": "3m",
+      "length": 3,
       "airDate": "2022-07-03",
       "title": {
-        "en": "The Intern-alization"
+        "en": "The Intern-alization",
+        "ja": "ブチギレ生意気インターン生"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4246,10 +4618,11 @@
     },
     "165": {
       "episode": "165",
-      "length": "3m",
+      "length": 3,
       "airDate": "2022-07-10",
       "title": {
-        "en": "This Is Dope!"
+        "en": "This Is Dope!",
+        "ja": "くらえ! この動画が気になっちゃう薬!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4261,10 +4634,11 @@
     },
     "166": {
       "episode": "166",
-      "length": "3m",
+      "length": 3,
       "airDate": "2022-07-17",
       "title": {
-        "en": "Going For Broke"
+        "en": "Going For Broke",
+        "ja": "余裕ぶってるけど全然お金がない"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4276,10 +4650,11 @@
     },
     "167": {
       "episode": "167",
-      "length": "3m",
+      "length": 3,
       "airDate": "2022-07-24",
       "title": {
-        "en": "Leading by Example"
+        "en": "Leading by Example",
+        "ja": "責任取るのが総帥の仕事"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4291,10 +4666,11 @@
     },
     "168": {
       "episode": "168",
-      "length": "4m",
+      "length": 4,
       "airDate": "2022-07-31",
       "title": {
-        "en": "On The Tail"
+        "en": "On The Tail",
+        "ja": "ついてくる"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4306,10 +4682,11 @@
     },
     "169": {
       "episode": "169",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-08-07",
       "title": {
-        "en": "When The Cicadas Fly"
+        "en": "When The Cicadas Fly",
+        "ja": "セミうっせぇ! マジで!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4321,10 +4698,11 @@
     },
     "170": {
       "episode": "170",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-08-14",
       "title": {
-        "en": "Typhoons Ruin Trip"
+        "en": "Typhoons Ruin Trip",
+        "ja": "台風襲来(2022個)で旅行が台無し"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4336,10 +4714,11 @@
     },
     "171": {
       "episode": "171",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-08-21",
       "title": {
-        "en": "Clash of the Palanquins"
+        "en": "Clash of the Palanquins",
+        "ja": "激突! お神輿バトル!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4351,10 +4730,11 @@
     },
     "172": {
       "episode": "172",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-08-28",
       "title": {
-        "en": "Going Missing"
+        "en": "Going Missing",
+        "ja": "この人たちこのあと行方不明になります"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4366,10 +4746,11 @@
     },
     "173": {
       "episode": "173",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-09-04",
       "title": {
-        "en": "If I Were an Evil Overlord"
+        "en": "If I Were an Evil Overlord",
+        "ja": "最強のワルは誰だ!? 悪役王選手権!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4381,10 +4762,11 @@
     },
     "174": {
       "episode": "174",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-09-18",
       "title": {
-        "en": "The Veggie Life"
+        "en": "The Veggie Life",
+        "ja": "今日から野菜生活"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4396,10 +4778,11 @@
     },
     "175": {
       "episode": "175",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-09-25",
       "title": {
-        "en": "Amane Kanata, Roomer"
+        "en": "Amane Kanata, Roomer",
+        "ja": "天音かなたはきのこ派"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4411,10 +4794,11 @@
     },
     "176": {
       "episode": "176",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-10-02",
       "title": {
-        "en": "Everything Is Evil"
+        "en": "Everything Is Evil",
+        "ja": "赤井はあとをholoXに入れておくれ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4426,10 +4810,11 @@
     },
     "177": {
       "episode": "177",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-10-09",
       "title": {
-        "en": "Batting for The Angels"
+        "en": "Batting for The Angels",
+        "ja": "バットで殴って天使にしちゃうゾ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4441,10 +4826,11 @@
     },
     "178": {
       "episode": "178",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-10-16",
       "title": {
-        "en": "More Mochi More Problems"
+        "en": "More Mochi More Problems",
+        "ja": "お月見に欠かせないモチ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4456,10 +4842,11 @@
     },
     "179": {
       "episode": "179",
-      "length": "1m",
+      "length": 1,
       "airDate": "2022-10-23",
       "title": {
-        "en": "Keep Rollin`"
+        "en": "Keep Rollin`",
+        "ja": "助けて! 暴走腹筋ローラーの逆襲"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4471,10 +4858,11 @@
     },
     "180": {
       "episode": "180",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-10-30",
       "title": {
-        "en": "The Quintessential"
+        "en": "The Quintessential",
+        "ja": "五等分の鷹嶺ルイ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4486,10 +4874,11 @@
     },
     "181": {
       "episode": "181",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-11-06",
       "title": {
-        "en": "Guarantee For Me"
+        "en": "Guarantee For Me",
+        "ja": "世の連帯保証人になってくれ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4501,10 +4890,11 @@
     },
     "182": {
       "episode": "182",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-11-13",
       "title": {
-        "en": "One of a Kindergarten"
+        "en": "One of a Kindergarten",
+        "ja": "幼稚園はじめました"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4516,10 +4906,11 @@
     },
     "183": {
       "episode": "183",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-11-20",
       "title": {
-        "en": "Dark Times"
+        "en": "Dark Times",
+        "ja": "実体の無い雑魚に負けるわけない!……よね?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4531,10 +4922,11 @@
     },
     "184": {
       "episode": "184",
-      "length": "3m",
+      "length": 3,
       "airDate": "2022-11-27",
       "title": {
-        "en": "Takeover [holoX]"
+        "en": "Takeover [holoX]",
+        "ja": "世界征服はじめました[holoX]"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4546,10 +4938,11 @@
     },
     "185": {
       "episode": "185",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-12-04",
       "title": {
-        "en": "Voice of the Voiceless"
+        "en": "Voice of the Voiceless",
+        "ja": "声出すの禁止だからね"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4561,10 +4954,11 @@
     },
     "186": {
       "episode": "186",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-12-11",
       "title": {
-        "en": "The Broken, the Eaten, and the Damned"
+        "en": "The Broken, the Eaten, and the Damned",
+        "ja": "えー, 誰か食われてます. 既に."
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4576,10 +4970,11 @@
     },
     "187": {
       "episode": "187",
-      "length": "3m",
+      "length": 3,
       "airDate": "2022-12-18",
       "title": {
-        "en": "Fly Me to the Moon"
+        "en": "Fly Me to the Moon",
+        "ja": "とんでっけえええええええええええええ!!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4591,10 +4986,11 @@
     },
     "188": {
       "episode": "188",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-12-25",
       "title": {
-        "en": "The Arbitrator"
+        "en": "The Arbitrator",
+        "ja": "今年良い子にしてたかどうか確認委員会会長"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4606,10 +5002,11 @@
     },
     "189": {
       "episode": "189",
-      "length": "4m",
+      "length": 4,
       "airDate": "2023-01-01",
       "title": {
-        "en": "The Gang`s All Together"
+        "en": "The Gang`s All Together",
+        "ja": "ホロライブ全員集合!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4621,10 +5018,11 @@
     },
     "190": {
       "episode": "190",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-01-08",
       "title": {
-        "en": "Happy New Year Recap!"
+        "en": "Happy New Year Recap!",
+        "ja": "あけおめことよろ総集編!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4636,10 +5034,11 @@
     },
     "191": {
       "episode": "191",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-01-15",
       "title": {
-        "en": "Concert! And We`re Doing It Live!"
+        "en": "Concert! And We`re Doing It Live!",
+        "ja": "ライブやっぞ! ライブ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4651,10 +5050,11 @@
     },
     "192": {
       "episode": "192",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-01-22",
       "title": {
-        "en": "Ahaha! Indonesia!"
+        "en": "Ahaha! Indonesia!",
+        "ja": "あっははインドネシア~!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4666,10 +5066,11 @@
     },
     "193": {
       "episode": "193",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-01-29",
       "title": {
-        "en": "Mind Your Indonesian"
+        "en": "Mind Your Indonesian",
+        "ja": "強制! インドネシア語講座"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4681,10 +5082,11 @@
     },
     "194": {
       "episode": "194",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-02-05",
       "title": {
-        "en": "A Lick of Paint"
+        "en": "A Lick of Paint",
+        "ja": "絵の具で酒を飲む"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4696,10 +5098,11 @@
     },
     "195": {
       "episode": "195",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-02-12",
       "title": {
-        "en": "holo Drift"
+        "en": "holo Drift",
+        "ja": "行こうぜ! スピードの向こう側へ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4711,10 +5114,11 @@
     },
     "196": {
       "episode": "196",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-02-19",
       "title": {
-        "en": "Eat or Be EaTentacle"
+        "en": "Eat or Be EaTentacle",
+        "ja": "Let`s 共食い!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4726,10 +5130,11 @@
     },
     "197": {
       "episode": "197",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-02-26",
       "title": {
-        "en": "Forgetaburger"
+        "en": "Forgetaburger",
+        "ja": "メニューを覚えきれないハンバーガー屋"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4741,10 +5146,11 @@
     },
     "198": {
       "episode": "198",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-03-05",
       "title": {
-        "en": "Reaper What You Sow"
+        "en": "Reaper What You Sow",
+        "ja": "死神に魂を刈られてみる"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4756,10 +5162,11 @@
     },
     "199": {
       "episode": "199",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-03-12",
       "title": {
-        "en": "Last Time Was the Last Time"
+        "en": "Last Time Was the Last Time",
+        "ja": "君たちは今回で打ち切りなんだよ..."
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4771,10 +5178,11 @@
     },
     "200": {
       "episode": "200",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-03-19",
       "title": {
-        "en": "Gawr Gura Gnawing"
+        "en": "Gawr Gura Gnawing",
+        "ja": "がうる・ぐらの生きがい"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4786,10 +5194,11 @@
     },
     "201": {
       "episode": "201",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-03-26",
       "title": {
-        "en": "WTB Sidekick"
+        "en": "WTB Sidekick",
+        "ja": "私の助手になってくれたまえ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4801,10 +5210,11 @@
     },
     "202": {
       "episode": "202",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-04-02",
       "title": {
-        "en": "We Talking About Feelings"
+        "en": "We Talking About Feelings",
+        "ja": "「エモい」について考えてみた"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4816,10 +5226,11 @@
     },
     "203": {
       "episode": "203",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-04-09",
       "title": {
-        "en": "Sell Us This Pen"
+        "en": "Sell Us This Pen",
+        "ja": "このペンを私に1万円で売ってください"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4831,10 +5242,11 @@
     },
     "204": {
       "episode": "204",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-04-16",
       "title": {
-        "en": "Odd Jobs"
+        "en": "Odd Jobs",
+        "ja": "そんな余裕あったらこうなってないよ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4846,10 +5258,11 @@
     },
     "205": {
       "episode": "205",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-04-23",
       "title": {
-        "en": "Lost and Phoned"
+        "en": "Lost and Phoned",
+        "ja": "スマホなくしちゃった!!!!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4861,10 +5274,11 @@
     },
     "206": {
       "episode": "206",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-04-30",
       "title": {
-        "en": "Traveling the World Collecting the 508 Cursed Swords"
+        "en": "Traveling the World Collecting the 508 Cursed Swords",
+        "ja": "妖刀蒐集508振り封印行脚の旅"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4876,10 +5290,11 @@
     },
     "207": {
       "episode": "207",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-05-07",
       "title": {
-        "en": "Hot Stuff"
+        "en": "Hot Stuff",
+        "ja": "あたしが推し"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4891,10 +5306,11 @@
     },
     "208": {
       "episode": "208",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-05-14",
       "title": {
-        "en": "We`ve Switched... ?!"
+        "en": "We`ve Switched... ?!",
+        "ja": "入れ替わってる???"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4906,10 +5322,11 @@
     },
     "209": {
       "episode": "209",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-05-21",
       "title": {
-        "en": "It`s May, Yo"
+        "en": "It`s May, Yo",
+        "ja": "マヨネーズは飲み物"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4921,10 +5338,11 @@
     },
     "210": {
       "episode": "210",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-05-28",
       "title": {
-        "en": "Angel or Demon?"
+        "en": "Angel or Demon?",
+        "ja": "悪魔なの？天使なの?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4936,10 +5354,11 @@
     },
     "211": {
       "episode": "211",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-06-04",
       "title": {
-        "en": "Face the Wrath of Mother Nature"
+        "en": "Face the Wrath of Mother Nature",
+        "ja": "大自然の脅威を知るがよい"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4951,10 +5370,11 @@
     },
     "212": {
       "episode": "212",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-06-11",
       "title": {
-        "en": "Must Protecc"
+        "en": "Must Protecc",
+        "ja": "守護ってあげるよ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4966,10 +5386,11 @@
     },
     "213": {
       "episode": "213",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-06-18",
       "title": {
-        "en": "Top Rat"
+        "en": "Top Rat",
+        "ja": "ボクがテッペンだっ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4981,10 +5402,11 @@
     },
     "214": {
       "episode": "214",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-06-25",
       "title": {
-        "en": "Leap Through Time"
+        "en": "Leap Through Time",
+        "ja": "時をかけよう!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -4996,10 +5418,11 @@
     },
     "215": {
       "episode": "215",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-07-02",
       "title": {
-        "en": "Bah, Humbug"
+        "en": "Bah, Humbug",
+        "ja": "4人の絆で乗り越えろ!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5011,10 +5434,11 @@
     },
     "216": {
       "episode": "216",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-07-09",
       "title": {
-        "en": "Summer, Summer Go Away"
+        "en": "Summer, Summer Go Away",
+        "ja": "夏なんて無くなれ~"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5026,10 +5450,11 @@
     },
     "217": {
       "episode": "217",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-07-16",
       "title": {
-        "en": "When an Idol Runs a Company"
+        "en": "When an Idol Runs a Company",
+        "ja": "アイドルが会社経営してみた"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5041,10 +5466,11 @@
     },
     "218": {
       "episode": "218",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-07-23",
       "title": {
-        "en": "From Riches to Rags"
+        "en": "From Riches to Rags",
+        "ja": "埋蔵金を掘り当てろ!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5056,10 +5482,11 @@
     },
     "219": {
       "episode": "219",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-07-30",
       "title": {
-        "en": "Present President"
+        "en": "Present President",
+        "ja": "社長! うれしそうですな!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5071,10 +5498,11 @@
     },
     "220": {
       "episode": "220",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-08-06",
       "title": {
-        "en": "The Battle of Sushi Plate"
+        "en": "The Battle of Sushi Plate",
+        "ja": "全員集合!! インドネシア寿司バトル"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5086,10 +5514,11 @@
     },
     "221": {
       "episode": "221",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-08-13",
       "title": {
-        "en": "Sea of Band-its"
+        "en": "Sea of Band-its",
+        "ja": "海でバンドしよう!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5101,10 +5530,11 @@
     },
     "222": {
       "episode": "222",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-08-20",
       "title": {
-        "en": "When Birds Can`t Fly"
+        "en": "When Birds Can`t Fly",
+        "ja": "鳥って飛べないんですか?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5116,10 +5546,11 @@
     },
     "223": {
       "episode": "223",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-08-27",
       "title": {
-        "en": "Summer = Swimsuit Battle!"
+        "en": "Summer = Swimsuit Battle!",
+        "ja": "夏だ! 水着でバトル!?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5131,10 +5562,11 @@
     },
     "224": {
       "episode": "224",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-09-03",
       "title": {
-        "en": "Rawr! Zombie Panic!"
+        "en": "Rawr! Zombie Panic!",
+        "ja": "がおー!! ゾンビパニック!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5146,10 +5578,11 @@
     },
     "225": {
       "episode": "225",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-09-10",
       "title": {
-        "en": "Lethal Weapon"
+        "en": "Lethal Weapon",
+        "ja": "武器でーす✌(^ ^)✌"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5161,10 +5594,11 @@
     },
     "226": {
       "episode": "226",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-09-17",
       "title": {
-        "en": "hololive Baseball Classic"
+        "en": "hololive Baseball Classic",
+        "ja": "ホロライブ草野球大会!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5176,10 +5610,11 @@
     },
     "227": {
       "episode": "227",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-09-24",
       "title": {
-        "en": "Hungry Hungry Holos"
+        "en": "Hungry Hungry Holos",
+        "ja": "おなかすいちゃったの?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5191,10 +5626,11 @@
     },
     "228": {
       "episode": "228",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-10-01",
       "title": {
-        "en": "The Battle of Water Doom"
+        "en": "The Battle of Water Doom",
+        "ja": "お水を奪い合ったばっかりに..."
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5206,10 +5642,11 @@
     },
     "229": {
       "episode": "229",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-10-08",
       "title": {
-        "en": "When the Magic Is Gone"
+        "en": "When the Magic Is Gone",
+        "ja": "魔法を思い出したいお嬢様"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5221,10 +5658,11 @@
     },
     "230": {
       "episode": "230",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-10-15",
       "title": {
-        "en": "Self-Esteem Stonks"
+        "en": "Self-Esteem Stonks",
+        "ja": "自己肯定感が乱高下するメイド"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5236,10 +5674,11 @@
     },
     "231": {
       "episode": "231",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-10-22",
       "title": {
-        "en": "Tell Us How You Really Feel"
+        "en": "Tell Us How You Really Feel",
+        "ja": "マニュアルじゃないホントの気持ち!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5251,10 +5690,11 @@
     },
     "232": {
       "episode": "232",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-10-29",
       "title": {
-        "en": "Forgery"
+        "en": "Forgery",
+        "ja": "君を鍛えちゃうぞ~?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5266,10 +5706,11 @@
     },
     "233": {
       "episode": "233",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-11-05",
       "title": {
-        "en": "Fresh Stock"
+        "en": "Fresh Stock",
+        "ja": "新ネタ入荷しました~♪"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5281,10 +5722,11 @@
     },
     "234": {
       "episode": "234",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-11-12",
       "title": {
-        "en": "Rain, Rain, Fall Away"
+        "en": "Rain, Rain, Fall Away",
+        "ja": "天気を操る女の子! あめあめふれふれ~!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5296,10 +5738,11 @@
     },
     "235": {
       "episode": "235",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-11-19",
       "title": {
-        "en": "You Belong"
+        "en": "You Belong",
+        "ja": "一緒にいてほしいの"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5311,10 +5754,11 @@
     },
     "236": {
       "episode": "236",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-11-26",
       "title": {
-        "en": "Secret Society`s Workday Routine"
+        "en": "Secret Society`s Workday Routine",
+        "ja": "秘密結社の平日ルーティン✰･*:.｡ ｡.:*･ﾟ✽.｡.:*・ﾟ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5326,10 +5770,11 @@
     },
     "237": {
       "episode": "237",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-12-03",
       "title": {
-        "en": "The GOAT Fit"
+        "en": "The GOAT Fit",
+        "ja": "みんながメロメロになる衣装"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5341,10 +5786,11 @@
     },
     "238": {
       "episode": "238",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-12-10",
       "title": {
-        "en": "Red Light, Red Flags"
+        "en": "Red Light, Red Flags",
+        "ja": "だるまさんから異次元に突入する方法"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5356,10 +5802,11 @@
     },
     "239": {
       "episode": "239",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-12-17",
       "title": {
-        "en": "Sleeve Is for the Weak"
+        "en": "Sleeve Is for the Weak",
+        "ja": "祈れば服がはじけ飛ぶ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5371,10 +5818,11 @@
     },
     "240": {
       "episode": "240",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-12-24",
       "title": {
-        "en": "Xmas Together"
+        "en": "Xmas Together",
+        "ja": "クリスマスは一緒に過ごしたい!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5386,10 +5834,11 @@
     },
     "241": {
       "episode": "241",
-      "length": "3m",
+      "length": 3,
       "airDate": "2023-12-31",
       "title": {
-        "en": "Out with the Old"
+        "en": "Out with the Old",
+        "ja": "年末に遊ぶな!! 準備しろ!!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5401,10 +5850,11 @@
     },
     "242": {
       "episode": "242",
-      "length": "8m",
+      "length": 8,
       "airDate": "2024-01-07",
       "title": {
-        "en": "New Year Green Room Interviews!"
+        "en": "New Year Green Room Interviews!",
+        "ja": "年越し! 楽屋インタビュー!?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5416,10 +5866,11 @@
     },
     "243": {
       "episode": "243",
-      "length": "0m",
+      "length": 0,
       "airDate": "2024-01-14",
       "title": {
-        "en": "The Top 10 WTF Punchlines! (2024 Edition)"
+        "en": "The Top 10 WTF Punchlines! (2024 Edition)",
+        "ja": "どうなる! 驚愕のラストTop10"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5431,10 +5882,11 @@
     },
     "244": {
       "episode": "244",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-01-21",
       "title": {
-        "en": "The Cold, Hard Truth"
+        "en": "The Cold, Hard Truth",
+        "ja": "風邪ひくってば"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5446,10 +5898,11 @@
     },
     "245": {
       "episode": "245",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-01-28",
       "title": {
-        "en": "WTB Band Members!"
+        "en": "WTB Band Members!",
+        "ja": "バンドメンバー募集!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5461,10 +5914,11 @@
     },
     "246": {
       "episode": "246",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-02-04",
       "title": {
-        "en": "Hospitality from Hell"
+        "en": "Hospitality from Hell",
+        "ja": "地獄のおもてなし"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5476,10 +5930,11 @@
     },
     "247": {
       "episode": "247",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-02-11",
       "title": {
-        "en": "The Wanted"
+        "en": "The Wanted",
+        "ja": "脱獄女、ついに捕まる"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5491,10 +5946,11 @@
     },
     "248": {
       "episode": "248",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-02-18",
       "title": {
-        "en": "The Loco Motive"
+        "en": "The Loco Motive",
+        "ja": "敷かれたレールは走らねぇ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5506,10 +5962,11 @@
     },
     "249": {
       "episode": "249",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-02-25",
       "title": {
-        "en": "Lumber? Hardly Knew `Er!"
+        "en": "Lumber? Hardly Knew `Er!",
+        "ja": "森林伐採"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5521,10 +5978,11 @@
     },
     "250": {
       "episode": "250",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-03-03",
       "title": {
-        "en": "holo*gra"
+        "en": "holo*gra",
+        "ja": "ホロ☆ぐら"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5536,10 +5994,11 @@
     },
     "251": {
       "episode": "251",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-03-10",
       "title": {
-        "en": "Parachute Lost"
+        "en": "Parachute Lost",
+        "ja": "パラシュート忘れました"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5551,10 +6010,11 @@
     },
     "252": {
       "episode": "252",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-03-17",
       "title": {
-        "en": "My Precious"
+        "en": "My Precious",
+        "ja": "誰にも渡さん!!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5566,10 +6026,11 @@
     },
     "253": {
       "episode": "253",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-03-24",
       "title": {
-        "en": "Scot Free"
+        "en": "Scot Free",
+        "ja": "助けて出れない!!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5581,10 +6042,11 @@
     },
     "254": {
       "episode": "254",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-03-31",
       "title": {
-        "en": "Coming Back to Bite You"
+        "en": "Coming Back to Bite You",
+        "ja": "はむはむ! かじっちゃうぞー!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5596,10 +6058,11 @@
     },
     "255": {
       "episode": "255",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-04-07",
       "title": {
-        "en": "Babysittr"
+        "en": "Babysittr",
+        "ja": "今日からベビーシッター"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5611,10 +6074,11 @@
     },
     "256": {
       "episode": "256",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-04-14",
       "title": {
-        "en": "Bugs Many"
+        "en": "Bugs Many",
+        "ja": "スバルのギャルゲー作ったった"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5626,10 +6090,11 @@
     },
     "257": {
       "episode": "257",
-      "length": "4m",
+      "length": 4,
       "airDate": "2024-04-21",
       "title": {
-        "en": "Fubzilla vs. Pigeotaurus"
+        "en": "Fubzilla vs. Pigeotaurus",
+        "ja": "大怪獣バトル! フブラvsハトタウロス"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5641,10 +6106,11 @@
     },
     "258": {
       "episode": "258",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-04-28",
       "title": {
-        "en": "Hands on the Merchandise"
+        "en": "Hands on the Merchandise",
+        "ja": "ホロぐら、グッズ出すってよ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5656,10 +6122,11 @@
     },
     "259": {
       "episode": "259",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-05-05",
       "title": {
-        "en": "It`s Been Five Years..."
+        "en": "It`s Been Five Years...",
+        "ja": "5周年! 盛大にやるしかねえな!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5671,10 +6138,11 @@
     },
     "260": {
       "episode": "260",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-05-12",
       "title": {
-        "en": "Mother`s Day - Expectation vs Reality"
+        "en": "Mother`s Day - Expectation vs Reality",
+        "ja": "母の日 理想と現実"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5686,10 +6154,11 @@
     },
     "261": {
       "episode": "261",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-05-19",
       "title": {
-        "en": "Chain Reaction"
+        "en": "Chain Reaction",
+        "ja": "止められなかった連鎖"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5701,10 +6170,11 @@
     },
     "262": {
       "episode": "262",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-05-26",
       "title": {
-        "en": "To Zombie or Not to Zombie"
+        "en": "To Zombie or Not to Zombie",
+        "ja": "ゾンビの秘訣教えます。"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5716,10 +6186,11 @@
     },
     "263": {
       "episode": "263",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-06-02",
       "title": {
-        "en": "None Shall Pass"
+        "en": "None Shall Pass",
+        "ja": "お客様お客様お客様!! 困ります!! あーっ!!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5731,10 +6202,11 @@
     },
     "264": {
       "episode": "264",
-      "length": "4m",
+      "length": 4,
       "airDate": "2024-06-09",
       "title": {
-        "en": "Thrown for a Loop"
+        "en": "Thrown for a Loop",
+        "ja": "みんなの欲望を叶えた結果"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5746,10 +6218,11 @@
     },
     "265": {
       "episode": "265",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-06-16",
       "title": {
-        "en": "Treasure Chest"
+        "en": "Treasure Chest",
+        "ja": "わくわく! 宝箱みつけちゃった!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5761,10 +6234,11 @@
     },
     "266": {
       "episode": "266",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-06-23",
       "title": {
-        "en": "The Invading Forca"
+        "en": "The Invading Forca",
+        "ja": "オルカ が せめてきたぞっ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5776,10 +6250,11 @@
     },
     "267": {
       "episode": "267",
-      "length": "4m",
+      "length": 4,
       "airDate": "2024-06-30",
       "title": {
-        "en": "Thanks for Having Me!"
+        "en": "Thanks for Having Me!",
+        "ja": "お世話になりました！"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5791,10 +6266,11 @@
     },
     "268": {
       "episode": "268",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-07-07",
       "title": {
-        "en": "Stay Calm and Million"
+        "en": "Stay Calm and Million",
+        "ja": "キレなかったら100万円!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5806,10 +6282,11 @@
     },
     "269": {
       "episode": "269",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-07-14",
       "title": {
-        "en": "Not All Capes Wear Heroes"
+        "en": "Not All Capes Wear Heroes",
+        "ja": "さかずきんちゃん"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5821,10 +6298,11 @@
     },
     "270": {
       "episode": "270",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-07-21",
       "title": {
-        "en": "The Game"
+        "en": "The Game",
+        "ja": "ゲームは人生"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5836,10 +6314,11 @@
     },
     "271": {
       "episode": "271",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-07-28",
       "title": {
-        "en": "MODs!"
+        "en": "MODs!",
+        "ja": "今日は尾丸ポルカを改造するわよ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5851,10 +6330,11 @@
     },
     "272": {
       "episode": "272",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-08-04",
       "title": {
-        "en": "That"
+        "en": "That",
+        "ja": "そこにいる"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5866,10 +6346,11 @@
     },
     "273": {
       "episode": "273",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-08-11",
       "title": {
-        "en": "Concert IDeas"
+        "en": "Concert IDeas",
+        "ja": "今日はちっちゃいムーナいます"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5881,10 +6362,12 @@
     },
     "274": {
       "episode": "274",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-08-18",
       "title": {
-        "en": "Deconstruction of the Magical Girl Genre"
+        "en": "Deconstruction of the Magical Girl Genre",
+        "romaji": "Ojamajo Marin",
+        "ja": "おジャ魔女マリン"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5896,10 +6379,11 @@
     },
     "275": {
       "episode": "275",
-      "length": "4m",
+      "length": 4,
       "airDate": "2024-08-25",
       "title": {
-        "en": "See You!"
+        "en": "See You!",
+        "ja": "あーばよっ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5911,10 +6395,11 @@
     },
     "276": {
       "episode": "276",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-09-01",
       "title": {
-        "en": "Random Access Memories"
+        "en": "Random Access Memories",
+        "ja": "記憶モグモグお姉さん"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5926,10 +6411,11 @@
     },
     "277": {
       "episode": "277",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-09-08",
       "title": {
-        "en": "All That Glitters"
+        "en": "All That Glitters",
+        "ja": "感情結晶ベイビー"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5941,10 +6427,11 @@
     },
     "278": {
       "episode": "278",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-09-15",
       "title": {
-        "en": "Don`t Sing for the Moment"
+        "en": "Don`t Sing for the Moment",
+        "ja": "アイドルちゅきちゅきデーモン"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5956,10 +6443,11 @@
     },
     "279": {
       "episode": "279",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-09-22",
       "title": {
-        "en": "Who Let the Dogs In?"
+        "en": "Who Let the Dogs In?",
+        "ja": "荒ぶる番犬シスターズ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5971,10 +6459,11 @@
     },
     "280": {
       "episode": "280",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-09-29",
       "title": {
-        "en": "It`s Me, It`s Me!"
+        "en": "It`s Me, It`s Me!",
+        "ja": "待たせたね！僕だよ☆"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -5986,10 +6475,11 @@
     },
     "281": {
       "episode": "281",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-10-06",
       "title": {
-        "en": "It`s Kanade`s Kana-day!"
+        "en": "It`s Kanade`s Kana-day!",
+        "ja": "おまえら! 奏のホロぐら見ろ!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6001,10 +6491,11 @@
     },
     "282": {
       "episode": "282",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-10-13",
       "title": {
-        "en": "Let Them Have Cake"
+        "en": "Let Them Have Cake",
+        "ja": "りりか, 弁当で世界とります!!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6016,10 +6507,11 @@
     },
     "283": {
       "episode": "283",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-10-20",
       "title": {
-        "en": "Here Comes Raden with a Steel Chair"
+        "en": "Here Comes Raden with a Steel Chair",
+        "ja": "らでん、改名します!!! しません!!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6031,10 +6523,11 @@
     },
     "284": {
       "episode": "284",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-10-27",
       "title": {
-        "en": "Fine Speech"
+        "en": "Fine Speech",
+        "ja": "押忍!! ば～んちょ だじぇ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6046,10 +6539,11 @@
     },
     "285": {
       "episode": "285",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-11-03",
       "title": {
-        "en": "Descending the Ladder"
+        "en": "Descending the Ladder",
+        "ja": "holoX加入しました"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6061,10 +6555,11 @@
     },
     "286": {
       "episode": "286",
-      "length": "4m",
+      "length": 4,
       "airDate": "2024-11-10",
       "title": {
-        "en": "Til Kingdom Come"
+        "en": "Til Kingdom Come",
+        "ja": "建国! フブキングダム"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6076,10 +6571,11 @@
     },
     "287": {
       "episode": "287",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-11-17",
       "title": {
-        "en": "Oni Are like Onions"
+        "en": "Oni Are like Onions",
+        "ja": "鬼の笑わせ方知ってる?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6091,10 +6587,11 @@
     },
     "288": {
       "episode": "288",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-11-24",
       "title": {
-        "en": "Lost and Found and Lost"
+        "en": "Lost and Found and Lost",
+        "ja": "記憶 全ロス"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6106,10 +6603,11 @@
     },
     "289": {
       "episode": "289",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-12-01",
       "title": {
-        "en": "Memento"
+        "en": "Memento",
+        "ja": "holoX結成秘話!?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6121,10 +6619,11 @@
     },
     "290": {
       "episode": "290",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-12-08",
       "title": {
-        "en": "U Maid?"
+        "en": "U Maid?",
+        "ja": "フワモコたんのメイド姿ですぞｗｗおうふｗｗ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6136,10 +6635,11 @@
     },
     "291": {
       "episode": "291",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-12-15",
       "title": {
-        "en": "Free Real Estate"
+        "en": "Free Real Estate",
+        "ja": "イケメンぶっ◯しゾーンがある家"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6151,10 +6651,11 @@
     },
     "292": {
       "episode": "292",
-      "length": "3m",
+      "length": 3,
       "airDate": "2024-12-22",
       "title": {
-        "en": "If I Speak, I Am In Big Trouble"
+        "en": "If I Speak, I Am In Big Trouble",
+        "ja": "致命的なネタバレをする記者会見"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6166,10 +6667,11 @@
     },
     "293": {
       "episode": "293",
-      "length": "4m",
+      "length": 4,
       "airDate": "2024-12-29",
       "title": {
-        "en": "Fury Roll"
+        "en": "Fury Roll",
+        "ja": "終末は陽気にドライブ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6181,10 +6683,11 @@
     },
     "294": {
       "episode": "294",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-01-05",
       "title": {
-        "en": "VHS"
+        "en": "VHS",
+        "ja": "撮れ高ハンター"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6196,10 +6699,11 @@
     },
     "295": {
       "episode": "295",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-01-12",
       "title": {
-        "en": "Let`s Rassle! <3"
+        "en": "Let`s Rassle! &lt;3",
+        "ja": "一緒にすもうか♡"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6211,10 +6715,11 @@
     },
     "296": {
       "episode": "296",
-      "length": "5m",
+      "length": 5,
       "airDate": "2025-01-19",
       "title": {
-        "en": "So Long, and Thanks for All the Fish"
+        "en": "So Long, and Thanks for All the Fish",
+        "ja": "holoXのインターン、沙花叉クロヱ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6226,10 +6731,11 @@
     },
     "297": {
       "episode": "297",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-01-26",
       "title": {
-        "en": "Let Our Fists Do the Talking"
+        "en": "Let Our Fists Do the Talking",
+        "ja": "拳で語れよ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6241,10 +6747,11 @@
     },
     "298": {
       "episode": "298",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-02-02",
       "title": {
-        "en": "Solitary Noel"
+        "en": "Solitary Noel",
+        "ja": "孤独のノエル"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6256,10 +6763,11 @@
     },
     "299": {
       "episode": "299",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-02-09",
       "title": {
-        "en": "FBKINGDOM: Electric Boogaloo"
+        "en": "FBKINGDOM: Electric Boogaloo",
+        "ja": "制裁きーつね!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6271,10 +6779,11 @@
     },
     "300": {
       "episode": "300",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-02-16",
       "title": {
-        "en": "Better Late Than Never"
+        "en": "Better Late Than Never",
+        "ja": "くらえ！遅くなるクスリ!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6286,10 +6795,11 @@
     },
     "301": {
       "episode": "301",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-02-23",
       "title": {
-        "en": "Challenge Accepted"
+        "en": "Challenge Accepted",
+        "ja": "シオンのためなら頑張れるよね⌒☆"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6301,10 +6811,11 @@
     },
     "302": {
       "episode": "302",
-      "length": "4m",
+      "length": 4,
       "airDate": "2025-03-02",
       "title": {
-        "en": "Don`t Worry, We`ve Got This"
+        "en": "Don`t Worry, We`ve Got This",
+        "ja": "先輩の力みせてあげる!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6316,10 +6827,11 @@
     },
     "303": {
       "episode": "303",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-03-09",
       "title": {
-        "en": "A Real Game Changer"
+        "en": "A Real Game Changer",
+        "ja": "大変なものが映ってるぞ!!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6331,10 +6843,11 @@
     },
     "304": {
       "episode": "304",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-03-16",
       "title": {
-        "en": "Lady Luck Is Smiling"
+        "en": "Lady Luck Is Smiling",
+        "ja": "ハズレだけ引き続けた結果"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6346,10 +6859,11 @@
     },
     "305": {
       "episode": "305",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-03-23",
       "title": {
-        "en": "Give It to Me Straight, Doc"
+        "en": "Give It to Me Straight, Doc",
+        "ja": "人間では出ない異常な数値"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6361,10 +6875,11 @@
     },
     "306": {
       "episode": "306",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-03-30",
       "title": {
-        "en": "Two Heads Are Better than One"
+        "en": "Two Heads Are Better than One",
+        "ja": "脳内会議を壊して暴走中ｗｗ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6376,10 +6891,11 @@
     },
     "307": {
       "episode": "307",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-04-06",
       "title": {
-        "en": "With Great Power..."
+        "en": "With Great Power...",
+        "ja": "マリン、愛でしびれたいんですぅ～!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6391,10 +6907,11 @@
     },
     "308": {
       "episode": "308",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-04-13",
       "title": {
-        "en": "Goodness Gracious"
+        "en": "Goodness Gracious",
+        "ja": "BAU BAU! ぶっ飛んだお散歩ですわよ〜!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6406,10 +6923,11 @@
     },
     "309": {
       "episode": "309",
-      "length": "4m",
+      "length": 4,
       "airDate": "2025-04-20",
       "title": {
-        "en": "Our Magic Was Here"
+        "en": "Our Magic Was Here",
+        "ja": "とっておきの魔法"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6421,10 +6939,11 @@
     },
     "310": {
       "episode": "310",
-      "length": "4m",
+      "length": 4,
       "airDate": "2025-04-25",
       "title": {
-        "en": "Memories I Will Not Forget"
+        "en": "Memories I Will Not Forget",
+        "ja": "私の素敵な思い出"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6436,10 +6955,11 @@
     },
     "311": {
       "episode": "311",
-      "length": "4m",
+      "length": 4,
       "airDate": "2025-04-27",
       "title": {
-        "en": "The Shark`s Voyage"
+        "en": "The Shark`s Voyage",
+        "ja": "旅立ちのサメ! がうる・ぐら!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6451,10 +6971,11 @@
     },
     "312": {
       "episode": "312",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-05-04",
       "title": {
-        "en": "Deja Vu"
+        "en": "Deja Vu",
+        "ja": "操縦されて暴走するミオしゃ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6466,10 +6987,11 @@
     },
     "313": {
       "episode": "313",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-05-11",
       "title": {
-        "en": "Who You Gonna Call Now?"
+        "en": "Who You Gonna Call Now?",
+        "ja": "まだオカルトとか信じちゃってる感じw?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6481,10 +7003,11 @@
     },
     "314": {
       "episode": "314",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-05-18",
       "title": {
-        "en": "Buzzkill"
+        "en": "Buzzkill",
+        "ja": "独特な鳴き声のセミ......? いやこれアイドルですね......"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6496,10 +7019,11 @@
     },
     "315": {
       "episode": "315",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-05-25",
       "title": {
-        "en": "Multiple Personyality Disorder"
+        "en": "Multiple Personyality Disorder",
+        "ja": "ぺ\"る\"そ\"に\"ゃ\"～! どの僕が好きかな...♡"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6511,10 +7035,11 @@
     },
     "316": {
       "episode": "316",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-06-01",
       "title": {
-        "en": "Daylight Savings"
+        "en": "Daylight Savings",
+        "ja": "溶けちゃうくらい凄いか～も"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6526,10 +7051,11 @@
     },
     "317": {
       "episode": "317",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-06-08",
       "title": {
-        "en": "Hello? It`s Me, Mary-san"
+        "en": "Hello? It`s Me, Mary-san",
+        "ja": "もしもし? あたしマリーさん!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6541,10 +7067,11 @@
     },
     "318": {
       "episode": "318",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-06-15",
       "title": {
-        "en": "You Look Familiar"
+        "en": "You Look Familiar",
+        "ja": "廃屋の人形"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6556,10 +7083,11 @@
     },
     "319": {
       "episode": "319",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-06-22",
       "title": {
-        "en": "Not Old Enough"
+        "en": "Not Old Enough",
+        "ja": "はじめてのおつかい"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6571,10 +7099,11 @@
     },
     "320": {
       "episode": "320",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-06-29",
       "title": {
-        "en": "Peko Stranding"
+        "en": "Peko Stranding",
+        "ja": "ぺこ・ストランディング"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6586,10 +7115,11 @@
     },
     "321": {
       "episode": "321",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-07-06",
       "title": {
-        "en": "Pop Off"
+        "en": "Pop Off",
+        "ja": "浴衣 de スナイプ!!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6601,10 +7131,11 @@
     },
     "322": {
       "episode": "322",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-07-13",
       "title": {
-        "en": "The Beach Episode"
+        "en": "The Beach Episode",
+        "ja": "浜辺でやることリスト 🍉"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6616,10 +7147,11 @@
     },
     "323": {
       "episode": "323",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-07-20",
       "title": {
-        "en": "This Summer, Forever!"
+        "en": "This Summer, Forever!",
+        "ja": "私たちの夏は終わらない!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6631,10 +7163,11 @@
     },
     "324": {
       "episode": "324",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-07-27",
       "title": {
-        "en": "One of Us"
+        "en": "One of Us",
+        "ja": "ギャルの中に隠れオタクがおる"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6646,10 +7179,11 @@
     },
     "325": {
       "episode": "325",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-08-03",
       "title": {
-        "en": "On the Run"
+        "en": "On the Run",
+        "ja": "逃走中"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6661,10 +7195,11 @@
     },
     "326": {
       "episode": "326",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-08-10",
       "title": {
-        "en": "A Game of Chicken"
+        "en": "A Game of Chicken",
+        "ja": "怒らせ☆チキンレース(　 ﾟ∋ﾟ)"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6676,10 +7211,11 @@
     },
     "327": {
       "episode": "327",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-08-17",
       "title": {
-        "en": "One for All"
+        "en": "One for All",
+        "ja": "おそろいアクセが欲しい~!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6691,10 +7227,11 @@
     },
     "328": {
       "episode": "328",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-08-24",
       "title": {
-        "en": "The Chosen Ones... ?"
+        "en": "The Chosen Ones... ?",
+        "ja": "最終決戦の前に半壊してる！！弱すぎぃ～～～👈️＝👉️"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6706,10 +7243,11 @@
     },
     "329": {
       "episode": "329",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-08-31",
       "title": {
-        "en": "Kiss From a Rose"
+        "en": "Kiss From a Rose",
+        "ja": "守護って! 正義の女王サマ!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6721,10 +7259,11 @@
     },
     "330": {
       "episode": "330",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-09-07",
       "title": {
-        "en": "It`s Gremlins All the Way Up"
+        "en": "It`s Gremlins All the Way Up",
+        "ja": "イタズラ増殖！グレムリンにご用心"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6736,10 +7275,11 @@
     },
     "331": {
       "episode": "331",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-09-14",
       "title": {
-        "en": "Automaton, Roll Out!"
+        "en": "Automaton, Roll Out!",
+        "ja": "古代自動人形は人類に反抗する"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6751,10 +7291,11 @@
     },
     "332": {
       "episode": "332",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-09-21",
       "title": {
-        "en": "She Who Seeks"
+        "en": "She Who Seeks",
+        "ja": "神眼におまかせ! 天然お姉さん!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6766,10 +7307,11 @@
     },
     "333": {
       "episode": "333",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-09-28",
       "title": {
-        "en": "Let`s Play a Game"
+        "en": "Let`s Play a Game",
+        "ja": "やばやば💦デスゲーム被っちゃった!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6781,10 +7323,11 @@
     },
     "334": {
       "episode": "334",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-10-05",
       "title": {
-        "en": "Malding"
+        "en": "Malding",
+        "ja": "ぷんぷん! こよ怒りましたー!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6796,10 +7339,11 @@
     },
     "335": {
       "episode": "335",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-10-12",
       "title": {
-        "en": "When Life Gives You Mushrooms"
+        "en": "When Life Gives You Mushrooms",
+        "ja": "余った時間でキノコ狩り"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6811,10 +7355,11 @@
     },
     "336": {
       "episode": "336",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-10-19",
       "title": {
-        "en": "Better Left Unsaid"
+        "en": "Better Left Unsaid",
+        "ja": "ぺこあずに脳を破壊されるマリン船長"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6826,10 +7371,11 @@
     },
     "337": {
       "episode": "337",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-10-26",
       "title": {
-        "en": "Home Alone"
+        "en": "Home Alone",
+        "ja": "わァ... 不審者..."
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6841,10 +7387,11 @@
     },
     "338": {
       "episode": "338",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-11-02",
       "title": {
-        "en": "Ace in the Hole"
+        "en": "Ace in the Hole",
+        "ja": "ホロライブ高校バレー部!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6856,10 +7403,11 @@
     },
     "339": {
       "episode": "339",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-11-09",
       "title": {
-        "en": "Tell Me About Yourself"
+        "en": "Tell Me About Yourself",
+        "ja": "アホ毛返して!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6871,10 +7419,11 @@
     },
     "340": {
       "episode": "340",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-11-16",
       "title": {
-        "en": "Previously On"
+        "en": "Previously On",
+        "ja": "ベスト10をご紹介!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6886,10 +7435,11 @@
     },
     "341": {
       "episode": "341",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-11-23",
       "title": {
-        "en": "Say It Again"
+        "en": "Say It Again",
+        "ja": "「ざぁこ♡」「無能♡」「よわよわ♡」「バーカ♡」"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6901,10 +7451,11 @@
     },
     "342": {
       "episode": "342",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-11-30",
       "title": {
-        "en": "Bars & Beatdowns"
+        "en": "Bars & Beatdowns",
+        "ja": "ラッパー三銃士を連れてきたよ！"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6916,10 +7467,11 @@
     },
     "343": {
       "episode": "343",
-      "length": "4m",
+      "length": 4,
       "airDate": "2025-12-07",
       "title": {
-        "en": "Lui-senpai and Niko-tan"
+        "en": "Lui-senpai and Niko-tan",
+        "ja": "ホロぐらにニコたんがキター!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6931,10 +7483,11 @@
     },
     "344": {
       "episode": "344",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-12-14",
       "title": {
-        "en": "It`s Not the Size"
+        "en": "It`s Not the Size",
+        "ja": "ちっちゃくないよ!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6946,10 +7499,11 @@
     },
     "345": {
       "episode": "345",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-12-21",
       "title": {
-        "en": "Take My Breath Away"
+        "en": "Take My Breath Away",
+        "ja": "向こう側の景色、見たくない?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6961,10 +7515,11 @@
     },
     "346": {
       "episode": "346",
-      "length": "3m",
+      "length": 3,
       "airDate": "2025-12-28",
       "title": {
-        "en": "Face Value"
+        "en": "Face Value",
+        "ja": "いたずら☆メイクモンスター"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6976,10 +7531,11 @@
     },
     "347": {
       "episode": "347",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-01-04",
       "title": {
-        "en": "Kill It with Fire"
+        "en": "Kill It with Fire",
+        "ja": "投げキッスをあげるよ♡"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -6991,10 +7547,11 @@
     },
     "348": {
       "episode": "348",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-01-11",
       "title": {
-        "en": "Not Quite My Tempo"
+        "en": "Not Quite My Tempo",
+        "ja": "恐ろしく速いタップ。私じゃなきゃ見逃しちゃうね"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7006,10 +7563,11 @@
     },
     "349": {
       "episode": "349",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-01-18",
       "title": {
-        "en": "As Luck Would Have It"
+        "en": "As Luck Would Have It",
+        "ja": "勝ったら天国!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7021,10 +7579,11 @@
     },
     "350": {
       "episode": "350",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-01-25",
       "title": {
-        "en": "Perfect Communication"
+        "en": "Perfect Communication",
+        "ja": "話聞く余～？"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7036,10 +7595,11 @@
     },
     "351": {
       "episode": "351",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-02-01",
       "title": {
-        "en": "The Japanese Tradition: Business Cards"
+        "en": "The Japanese Tradition: Business Cards",
+        "ja": "イケてる名刺の渡し方"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7051,10 +7611,11 @@
     },
     "352": {
       "episode": "352",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-02-08",
       "title": {
-        "en": "One More Toast"
+        "en": "One More Toast",
+        "ja": "2025年終わったってマジ！？"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7066,10 +7627,11 @@
     },
     "353": {
       "episode": "353",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-02-15",
       "title": {
-        "en": "IT`S RAW"
+        "en": "IT`S RAW",
+        "ja": "お料理サポートナビ「譁?ｭ怜喧縺托ｼ?」"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7081,10 +7643,11 @@
     },
     "354": {
       "episode": "354",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-02-22",
       "title": {
-        "en": "Delish Earth"
+        "en": "Delish Earth",
+        "ja": "地球うめぇ！！"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7096,10 +7659,11 @@
     },
     "355": {
       "episode": "355",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-03-01",
       "title": {
-        "en": "Right on Time"
+        "en": "Right on Time",
+        "ja": "未来に帰ったら、なぜか美少女殲滅マシーンに襲われた件"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7111,10 +7675,11 @@
     },
     "356": {
       "episode": "356",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-03-08",
       "title": {
-        "en": "Dead Heat"
+        "en": "Dead Heat",
+        "ja": "ほとんど脱落者になる地獄みたいなレース"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7126,10 +7691,11 @@
     },
     "357": {
       "episode": "357",
-      "length": "1m",
+      "length": 1,
       "airDate": "2026-03-15",
       "title": {
-        "en": "My Litttle Sister Is This Cute"
+        "en": "My Litttle Sister Is This Cute",
+        "ja": "フブにゃは妹～♡フブにゃは妹～♡"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7141,10 +7707,11 @@
     },
     "358": {
       "episode": "358",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-03-22",
       "title": {
-        "en": "We`re the Red Rangers!"
+        "en": "We`re the Red Rangers!",
+        "ja": "我らは赤色戦隊！"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7156,10 +7723,11 @@
     },
     "359": {
       "episode": "359",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-03-29",
       "title": {
-        "en": "Liquid Gold"
+        "en": "Liquid Gold",
+        "ja": "美少女のスープ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7171,10 +7739,11 @@
     },
     "360": {
       "episode": "360",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-04-05",
       "title": {
-        "en": "Internet Angel"
+        "en": "Internet Angel",
+        "ja": "指示厨だけは勘弁な！"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7186,10 +7755,11 @@
     },
     "361": {
       "episode": "361",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-04-12",
       "title": {
-        "en": "Royal Flush"
+        "en": "Royal Flush",
+        "ja": "崇拝している先輩に貢ぐ話"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7201,10 +7771,11 @@
     },
     "362": {
       "episode": "362",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-04-19",
       "title": {
-        "en": "All Bite and No Bark"
+        "en": "All Bite and No Bark",
+        "ja": "ゆるキャラちぎってみた"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7216,10 +7787,11 @@
     },
     "363": {
       "episode": "363",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-04-26",
       "title": {
-        "en": "Our First Mission! I Tried Sneaking Into the Mint!"
+        "en": "Our First Mission! I Tried Sneaking Into the Mint!",
+        "ja": "我々の最初の任務！ 造幣局忍び込んでみた！"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7231,10 +7803,11 @@
     },
     "364": {
       "episode": "364",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-05-03",
       "title": {
-        "en": "Handle with Care"
+        "en": "Handle with Care",
+        "ja": "全・員・潤・滑"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7246,10 +7819,11 @@
     },
     "365": {
       "episode": "365",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-05-10",
       "title": {
-        "en": "Chain of Command"
+        "en": "Chain of Command",
+        "ja": "清楚系ドS上司のペットになったら毎日が天国過ぎた"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7261,10 +7835,11 @@
     },
     "366": {
       "episode": "366",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-05-17",
       "title": {
-        "en": "Turn That Off"
+        "en": "Turn That Off",
+        "ja": "ボクが勇者ね。"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7276,10 +7851,11 @@
     },
     "367": {
       "episode": "367",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-05-24",
       "title": {
-        "en": "Caught in the Middle"
+        "en": "Caught in the Middle",
+        "ja": "ギャルに先輩をとられて嫉妬するもワイも即落ち"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7291,10 +7867,11 @@
     },
     "368": {
       "episode": "368",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-05-31",
       "title": {
-        "en": "Time to Confess"
+        "en": "Time to Confess",
+        "ja": "煩悩まみれのBAN寸前！相談室！"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7306,10 +7883,11 @@
     },
     "369": {
       "episode": "369",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-06-07",
       "title": {
-        "en": "Call My Bluff"
+        "en": "Call My Bluff",
+        "ja": "誰もルール分かってないんだが?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7321,10 +7899,11 @@
     },
     "370": {
       "episode": "370",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-06-14",
       "title": {
-        "en": "You`ll Live"
+        "en": "You`ll Live",
+        "ja": "君だけが入れる秘密の診察室"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7336,10 +7915,11 @@
     },
     "371": {
       "episode": "371",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-06-21",
       "title": {
-        "en": "Who Put This Here?"
+        "en": "Who Put This Here?",
+        "ja": "あるのがいけないぺこ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7351,10 +7931,11 @@
     },
     "372": {
       "episode": "372",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-06-28",
       "title": {
-        "en": "Just Between Us"
+        "en": "Just Between Us",
+        "ja": "お国柄バトル"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7366,10 +7947,11 @@
     },
     "373": {
       "episode": "373",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-07-05",
       "title": {
-        "en": "Pour Decisions"
+        "en": "Pour Decisions",
+        "ja": "ちょっと酔っちゃったかも。。。"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7381,10 +7963,11 @@
     },
     "374": {
       "episode": "374",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-07-12",
       "title": {
-        "en": "Touching Sand"
+        "en": "Touching Sand",
+        "ja": "地図・連絡手段・食料なし。無人島で生き残るには……"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7396,10 +7979,10 @@
     },
     "375": {
       "episode": "375",
-      "length": "0m",
+      "length": 0,
       "airDate": "2026-07-19",
       "title": {
-        "en": "Episode 375"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7409,12 +7992,45 @@
       "runtime": null,
       "image": null
     },
+    "376": {
+      "episode": "376",
+      "length": 3,
+      "airDate": "2026-07-26",
+      "title": {
+        "en": "No Pain, No Gain"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 376,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "377": {
+      "episode": "377",
+      "length": 2,
+      "airDate": "2026-08-02",
+      "title": {
+        "en": "Three Years on the Run... It`s Babyvent!",
+        "ja": "3年も逃げてたらそらベイビーになりますよ！"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 377,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
     "S1": {
       "episode": "S1",
-      "length": "5m",
+      "length": 5,
       "airDate": "2019-06-16",
       "title": {
-        "en": "Nothing`s Healed"
+        "en": "Nothing`s Healed",
+        "romaji": "Bansaku Tsukitaa!!",
+        "ja": "万策尽きたー!!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7426,10 +8042,12 @@
     },
     "S2": {
       "episode": "S2",
-      "length": "1m",
+      "length": 1,
       "airDate": "2019-07-30",
       "title": {
-        "en": "Episode S2"
+        "en": "Episode S2",
+        "romaji": "Comic Market Shutten Kinen Holo Gra Tokubetsu Hen",
+        "ja": "コミックマーケット出展記念ホロぐら特別編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7441,10 +8059,12 @@
     },
     "S3": {
       "episode": "S3",
-      "length": "50m",
+      "length": 50,
       "airDate": "2019-12-28",
       "title": {
-        "en": "Episode S3"
+        "en": "Episode S3",
+        "romaji": "Holo Gra Tokuban",
+        "ja": "ホロぐら特番"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7456,10 +8076,12 @@
     },
     "S4": {
       "episode": "S4",
-      "length": "1m",
+      "length": 1,
       "airDate": "2020-04-29",
       "title": {
-        "en": "Hologura 1st Anniversary"
+        "en": "Hologura 1st Anniversary",
+        "romaji": "Holo Gra Isshuunen! Ironna Koto ga Arimashita",
+        "ja": "ホロぐら一周年! いろんなことがありました"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7471,10 +8093,12 @@
     },
     "S5": {
       "episode": "S5",
-      "length": "1m",
+      "length": 1,
       "airDate": "2020-08-11",
       "title": {
-        "en": "Hey, Let`s Take Some Photos!"
+        "en": "Hey, Let`s Take Some Photos!",
+        "romaji": "Koushiki Ch. 50 Mannin Kinen: Sou Da, Shashin Torou",
+        "ja": "【公式ch.50万人記念】そうだ, 写真撮ろう"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7486,10 +8110,12 @@
     },
     "S6": {
       "episode": "S6",
-      "length": "2m",
+      "length": 2,
       "airDate": "2020-08-20",
       "title": {
-        "en": "Solo Concert Canceled?!"
+        "en": "Solo Concert Canceled?!",
+        "romaji": "Daiji na Solo Live ga Chuushi!?",
+        "ja": "大事なソロライブが中止!?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7501,10 +8127,12 @@
     },
     "S7": {
       "episode": "S7",
-      "length": "1m",
+      "length": 1,
       "airDate": "2021-07-11",
       "title": {
-        "en": "Curry Meshi Commercial"
+        "en": "Curry Meshi Commercial",
+        "romaji": "Kore ga Chijouha de Nagaretatte Maji?",
+        "ja": "これが地上波で流れたってマジ?"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7516,25 +8144,11 @@
     },
     "S8": {
       "episode": "S8",
-      "length": "3m",
+      "length": 3,
       "airDate": "2022-09-11",
       "title": {
-        "en": "Cutting Loose In PSO2"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T1": {
-      "episode": "T1",
-      "length": "2m",
-      "airDate": "2019-04-29",
-      "title": {
-        "en": "Preview (1:14): Cooming Soon!!"
+        "en": "Cutting Loose In PSO2",
+        "ja": "PSO2の世界で大暴れ! うおおおお!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -7546,15 +8160,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T05:54:54.537Z",
+    "lastFetched": "2026-11-22T00:39:19.545Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

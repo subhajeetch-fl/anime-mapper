@@ -32,13 +32,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-08T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-23T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -47,41 +47,42 @@
     "time": "23:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 9,
-    "airingAt": 1788359400
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.83,
-    "anilistScore": 6.8,
-    "kitsuRating": 7.2
+    "malScore": 6.91,
+    "anilistScore": 7,
+    "kitsuRating": null
   },
   "genres": [
     "Fantasy",
-    "Romance",
-    "Action",
-    "Mecha",
-    "Drama",
+    "Harem",
     "Isekai",
-    "Harem"
+    "Mecha",
+    "Reincarnation",
+    "Romance",
+    "School",
+    "Action"
   ],
   "studios": [
     "ENGI"
   ],
   "producers": [
-    "AT-X",
-    "Magic Capsule",
+    "KADOKAWA",
     "Sammy",
-    "Kadokawa",
-    "Micro Magazine Publishing"
+    "Micro Magazine Sha",
+    "AT-X"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1285/158337l.jpg",
     "banner": null,
     "color": "#e4c986"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "d3n8-15GCG8",
+    "url": "https://www.youtube.com/watch?v=d3n8-15GCG8",
+    "thumbnail": "https://i.ytimg.com/vi/d3n8-15GCG8/hqdefault.jpg"
+  },
   "synopsis": "Second season of Otome Game Sekai wa Mob ni Kibishii Sekai desu.",
   "sequence": [
     {
@@ -101,10 +102,12 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-08",
       "title": {
-        "en": "It`s Always Love That Saves the World"
+        "en": "It`s Always Love That Saves the World",
+        "romaji": "Ai Koso, Sekai o Sukuun da yo naa",
+        "ja": "愛こそ, 世界を救うんだよなぁ"
       },
       "tvdbShowId": 412826,
       "tvdbId": 11679084,
@@ -116,10 +119,12 @@
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-15",
       "title": {
-        "en": "Do You Enjoy the Aesthetics of Destruction?"
+        "en": "Do You Enjoy the Aesthetics of Destruction?",
+        "romaji": "Horobi no Bigaku ga Okonomi Desu ka?",
+        "ja": "滅びの美学がお好みですか?"
       },
       "tvdbShowId": 412826,
       "tvdbId": 11876845,
@@ -131,10 +136,12 @@
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-22",
       "title": {
-        "en": "Episode 3"
+        "en": "Hey, Brat",
+        "romaji": "Oi, Kusogaki",
+        "ja": "おい, クソガキ"
       },
       "tvdbShowId": 412826,
       "tvdbId": 11876846,
@@ -142,14 +149,16 @@
       "episodeNumber": 3,
       "absoluteEpisodeNumber": 15,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876846/screencap/6a5fe813c5dda.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-29",
       "title": {
-        "en": "Episode 4"
+        "en": "They`re Flip-Flopping Again?",
+        "romaji": "Mata Tenohiragaeshi ka yo",
+        "ja": "また手のひら返しかよ"
       },
       "tvdbShowId": 412826,
       "tvdbId": 11876847,
@@ -157,19 +166,156 @@
       "episodeNumber": 4,
       "absoluteEpisodeNumber": 16,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876847/screencap/6a6967dd98501.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-05",
+      "title": {
+        "en": "I Love Facades",
+        "romaji": "Tatemae ga Daisuki Deshite ne",
+        "ja": "建前が大好きでしてね"
+      },
+      "tvdbShowId": 412826,
+      "tvdbId": 11876848,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876848/screencap/6a70881125120.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-12",
+      "title": {
+        "en": "If You Don`t Like It, I`ll Just Run",
+        "romaji": "Iya Nara Ore wa Nigeru dake Desu",
+        "ja": "嫌なら俺は逃げるだけです"
+      },
+      "tvdbShowId": 412826,
+      "tvdbId": 11876849,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876849/screencap/6a7bd63d6591a.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-19",
+      "title": {
+        "en": "Shut Your Filthy Mouth, Scum",
+        "romaji": "Kitanai Kuchi o Tojiro, Gomi ga",
+        "ja": "汚い口を閉じろ, ゴミが"
+      },
+      "tvdbShowId": 412826,
+      "tvdbId": 11876850,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876850/screencap/6a8349b744e55.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-26",
+      "title": {
+        "en": "You Can`t Quantify Love!",
+        "romaji": "Ai o Suuchi de Hakaru Nante Okashii yo!",
+        "ja": "愛を数値ではかるなんておかしいよ!"
+      },
+      "tvdbShowId": 412826,
+      "tvdbId": 11876851,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876851/screencap/6a8ee25b2406e.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-09-02",
+      "title": {
+        "en": "Livia......",
+        "romaji": "Livia......",
+        "ja": "リビア......"
+      },
+      "tvdbShowId": 412826,
+      "tvdbId": 11876852,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876852/screencap/6a981b725693b.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-09",
+      "title": {
+        "en": "They Hit Where It Hurts",
+        "romaji": "Itai Tokoro o Tsukiyagaru",
+        "ja": "痛いところを突きやがる"
+      },
+      "tvdbShowId": 412826,
+      "tvdbId": 11876853,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876853/screencap/6aa0acd007ba1.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-16",
+      "title": {
+        "en": "I Don`t Care About That!",
+        "romaji": "Sonna no Dou datte Ii!",
+        "ja": "そんなのどうだっていい!"
+      },
+      "tvdbShowId": 412826,
+      "tvdbId": 11876854,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876854/screencap/6aa9e56b6e984.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-23",
+      "title": {
+        "en": "This World Is Really Tough for Mobs",
+        "romaji": "Mob ni Kibishii Sekai",
+        "ja": "モブに厳しい世界"
+      },
+      "tvdbShowId": 412826,
+      "tvdbId": 11876855,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876855/screencap/6ab32565f1722.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T05:59:15.565Z",
+    "lastFetched": "2026-11-22T00:41:10.925Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

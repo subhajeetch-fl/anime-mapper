@@ -23,7 +23,8 @@
     "native": "BEYBLADE X",
     "synonyms": [
       "ベイブレードエックス",
-      "ベイブレイド X"
+      "ベイブレイド X",
+      "Бейблейд Х"
     ]
   },
   "type": "TV",
@@ -31,7 +32,7 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2023-10-06T00:00:00+00:00",
     "to": null
@@ -44,17 +45,18 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 133,
-    "airingAt": 1788516000
+    "episode": 142,
+    "airingAt": 1795773600
   },
   "rating": "PG - Children",
   "score": {
-    "malScore": 6.87,
-    "anilistScore": 6.4,
+    "malScore": 6.83,
+    "anilistScore": 6.5,
     "kitsuRating": null
   },
   "genres": [
     "Adventure",
+    "Kids",
     "Sports",
     "Action"
   ],
@@ -62,14 +64,19 @@
     "OLM"
   ],
   "producers": [
-    "TV Tokyo"
+    "TV Tokyo",
+    "ADK Emotions"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-    "banner": "https://media.kitsu.app/anime/47546/cover_image/58ce51a940e1f68c988d7d3575ed4573.png",
+    "banner": null,
     "color": "#28aee4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "SXdTmFshlFs",
+    "url": "https://www.youtube.com/watch?v=SXdTmFshlFs",
+    "thumbnail": "https://i.ytimg.com/vi/SXdTmFshlFs/hqdefault.jpg"
+  },
   "synopsis": "At the heart of X City stands the impressive X Tower, an interconnected twin-skyscraper structure that symbolizes the pinnacle of every Beyblade player's dream. The building serves as the official headquarters for professional Beybattles, where competitors strive to ascend all one hundred floors; at its summit, the reigning champions, Team Pendragon, await contenders worthy of challenging their title.\n\nBird Kazami, an amateur Blader, arrives in the city eager to turn professional. However, he and his teammates are crushed in their first qualifying match, prompting his companions to give up and disband their team. Fortunately, Bird is soon approached by the easygoing Ekusu Kurosu. In disguise as \"Kamen X\" to hide his identity as a former member of the undefeated Team Pendragon, Ekusu wants to climb the tower all over again. To complete their new group, they recruit skilled Beyblade expert and savvy social media influencer Multi Nanairo.\n\nDriven by their individual goals, the trio wins their preliminary rounds, launching their careers as Team Persona. Bird and his new friends must navigate the world of corporate sponsorships, earn the fickle public's support, and defeat many formidable opponents—all in their quest to reach X Tower's peak.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
@@ -89,10 +96,12 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-10-06",
       "title": {
-        "en": "X"
+        "en": "X",
+        "romaji": "X",
+        "ja": "X"
       },
       "tvdbShowId": 435020,
       "tvdbId": 9794301,
@@ -104,10 +113,12 @@
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-10-13",
       "title": {
-        "en": "Multi-Colored Ambush"
+        "en": "Multi-Colored Ambush",
+        "romaji": "Nanairo no Shikaku",
+        "ja": "七色の刺客"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10078290,
@@ -119,10 +130,12 @@
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-10-20",
       "title": {
-        "en": "Team Persona"
+        "en": "Team Persona",
+        "romaji": "Team Persona",
+        "ja": "チームペルソナ"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10078291,
@@ -134,10 +147,12 @@
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-10-27",
       "title": {
-        "en": "Bey Sponsor"
+        "en": "Bey Sponsor",
+        "romaji": "Bey Sponsor",
+        "ja": "ベイスポンサー"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10078292,
@@ -149,10 +164,12 @@
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-11-03",
       "title": {
-        "en": "To the X"
+        "en": "To the X",
+        "romaji": "Iza X Tower",
+        "ja": "いざXタワー"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10118674,
@@ -164,10 +181,12 @@
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-11-10",
       "title": {
-        "en": "Lion`s Jungle"
+        "en": "Lion`s Jungle",
+        "romaji": "Lions Jungle",
+        "ja": "ライオンズジャングル"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10143463,
@@ -179,10 +198,12 @@
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-11-17",
       "title": {
-        "en": "Team Zooganic"
+        "en": "Team Zooganic",
+        "romaji": "Team Zooganic",
+        "ja": "チームズーガニック"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10156054,
@@ -194,10 +215,12 @@
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-11-24",
       "title": {
-        "en": "The Mask and the King"
+        "en": "The Mask and the King",
+        "romaji": "Kamen to Shishiou",
+        "ja": "仮面と獅子王"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10076429,
@@ -209,10 +232,12 @@
     },
     "9": {
       "episode": "9",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-12-01",
       "title": {
-        "en": "Beycrafter"
+        "en": "Beycrafter",
+        "romaji": "Beycrafter",
+        "ja": "ベイクラフター"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10076430,
@@ -224,10 +249,12 @@
     },
     "10": {
       "episode": "10",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-12-08",
       "title": {
-        "en": "The Pro Realm"
+        "en": "The Pro Realm",
+        "romaji": "Pro no Sekai",
+        "ja": "プロの世界"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10188325,
@@ -239,10 +266,12 @@
     },
     "11": {
       "episode": "11",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-12-15",
       "title": {
-        "en": "Warden`s Exam"
+        "en": "Warden`s Exam",
+        "romaji": "Kadovar no Shiken",
+        "ja": "カドバーの試験"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10201004,
@@ -254,10 +283,12 @@
     },
     "12": {
       "episode": "12",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-12-22",
       "title": {
-        "en": "The Final Battle"
+        "en": "The Final Battle",
+        "romaji": "Saigo no Tatakai",
+        "ja": "最後の闘い"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10208789,
@@ -269,10 +300,12 @@
     },
     "13": {
       "episode": "13",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-01-05",
       "title": {
-        "en": "The First Fan"
+        "en": "The First Fan",
+        "romaji": "Fan Dai Ichigou",
+        "ja": "ファン第一号"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10235061,
@@ -284,10 +317,12 @@
     },
     "14": {
       "episode": "14",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-01-12",
       "title": {
-        "en": "Jax-ercise"
+        "en": "Jax-ercise",
+        "romaji": "Ekusu Exercise",
+        "ja": "エクスエクササイズ"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10235062,
@@ -299,10 +334,12 @@
     },
     "15": {
       "episode": "15",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-01-19",
       "title": {
-        "en": "Riddles and Beys"
+        "en": "Riddles and Beys",
+        "romaji": "Nazo and Bey",
+        "ja": "ナゾアンドベイ"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10271298,
@@ -314,10 +351,12 @@
     },
     "16": {
       "episode": "16",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-01-26",
       "title": {
-        "en": "Noblesse Oblige"
+        "en": "Noblesse Oblige",
+        "romaji": "Noblesse Oblige",
+        "ja": "ノブレスオブリージュ"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10271317,
@@ -329,10 +368,12 @@
     },
     "17": {
       "episode": "17",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-02-02",
       "title": {
-        "en": "Bey Timeshift"
+        "en": "Bey Timeshift",
+        "romaji": "Bey Timeshift",
+        "ja": "ベイタイムシフト"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10311695,
@@ -344,10 +385,12 @@
     },
     "18": {
       "episode": "18",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-02-09",
       "title": {
-        "en": "Pride"
+        "en": "Pride",
+        "romaji": "Pride",
+        "ja": "プライド"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10311696,
@@ -359,10 +402,12 @@
     },
     "19": {
       "episode": "19",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-02-16",
       "title": {
-        "en": "Zip and Zoom"
+        "en": "Zip and Zoom",
+        "romaji": "Datto",
+        "ja": "DATTO"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10325251,
@@ -374,10 +419,12 @@
     },
     "20": {
       "episode": "20",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-02-23",
       "title": {
-        "en": "Memories of Sushi"
+        "en": "Memories of Sushi",
+        "romaji": "Sushi no Memory",
+        "ja": "寿司のメモリー"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10346271,
@@ -389,10 +436,12 @@
     },
     "21": {
       "episode": "21",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-03-01",
       "title": {
-        "en": "Pop Production"
+        "en": "Pop Production",
+        "romaji": "Mote Produce",
+        "ja": "モテプロデュース"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10354818,
@@ -404,10 +453,12 @@
     },
     "22": {
       "episode": "22",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-03-08",
       "title": {
-        "en": "Black and White"
+        "en": "Black and White",
+        "romaji": "Black & White",
+        "ja": "BLACK&WHITE"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10372665,
@@ -419,10 +470,12 @@
     },
     "23": {
       "episode": "23",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-03-15",
       "title": {
-        "en": "True Heart"
+        "en": "True Heart",
+        "romaji": "Hontou no Kokoro",
+        "ja": "本当の心"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10383470,
@@ -434,10 +487,12 @@
     },
     "24": {
       "episode": "24",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-03-22",
       "title": {
-        "en": "Arrival of the Fastest"
+        "en": "Arrival of the Fastest",
+        "romaji": "Saisoku no Kourin",
+        "ja": "最速の降臨"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10411303,
@@ -449,10 +504,12 @@
     },
     "25": {
       "episode": "25",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-03-29",
       "title": {
-        "en": "Proof of the Fastest"
+        "en": "Proof of the Fastest",
+        "romaji": "Saisoku no Shoumei",
+        "ja": "最速の証明"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10413460,
@@ -464,10 +521,12 @@
     },
     "26": {
       "episode": "26",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-04-05",
       "title": {
-        "en": "Invitation"
+        "en": "Invitation",
+        "romaji": "Invitation",
+        "ja": "インビテーション"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10428125,
@@ -479,10 +538,12 @@
     },
     "27": {
       "episode": "27",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-04-12",
       "title": {
-        "en": "The End of Persistence"
+        "en": "The End of Persistence",
+        "romaji": "Fukutsu no Saigo",
+        "ja": "不屈の最後"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10446564,
@@ -494,10 +555,12 @@
     },
     "28": {
       "episode": "28",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-04-19",
       "title": {
-        "en": "The King and the Phoenix"
+        "en": "The King and the Phoenix",
+        "romaji": "Ou to Phoenix",
+        "ja": "王とフェニックス"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10459522,
@@ -509,10 +572,12 @@
     },
     "29": {
       "episode": "29",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-04-26",
       "title": {
-        "en": "Mask and Meat Buns"
+        "en": "Mask and Meat Buns",
+        "romaji": "Kamen to Nikuman",
+        "ja": "仮面と肉まん"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10470601,
@@ -524,10 +589,12 @@
     },
     "30": {
       "episode": "30",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-05-03",
       "title": {
-        "en": "Riddles and Pop"
+        "en": "Riddles and Pop",
+        "romaji": "Nazo to Mote",
+        "ja": "ナゾとモテ"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10483026,
@@ -539,10 +606,12 @@
     },
     "31": {
       "episode": "31",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-05-10",
       "title": {
-        "en": "My Teammates"
+        "en": "My Teammates",
+        "romaji": "Boku no Nakama",
+        "ja": "ボクの仲間"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10491390,
@@ -554,10 +623,12 @@
     },
     "32": {
       "episode": "32",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-05-17",
       "title": {
-        "en": "New Partner"
+        "en": "New Partner",
+        "romaji": "Atarashii Aibou",
+        "ja": "新しい相棒"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10491391,
@@ -569,10 +640,12 @@
     },
     "33": {
       "episode": "33",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-05-24",
       "title": {
-        "en": "Our Promise"
+        "en": "Our Promise",
+        "romaji": "Hitosashiyubi no Yakusoku",
+        "ja": "人差し指の約束"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10491392,
@@ -584,10 +657,12 @@
     },
     "34": {
       "episode": "34",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-05-31",
       "title": {
-        "en": "A Rainbow Guest"
+        "en": "A Rainbow Guest",
+        "romaji": "Nanairo no Raikyaku",
+        "ja": "七色の来客"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10491393,
@@ -599,10 +674,12 @@
     },
     "35": {
       "episode": "35",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-06-07",
       "title": {
-        "en": "The Dream Contest"
+        "en": "The Dream Contest",
+        "romaji": "Yume no Kyouen",
+        "ja": "夢の競演"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10520050,
@@ -614,10 +691,12 @@
     },
     "36": {
       "episode": "36",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-06-14",
       "title": {
-        "en": "Bladership"
+        "en": "Bladership",
+        "romaji": "Bladership",
+        "ja": "ブレーダーシップ"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10520051,
@@ -629,10 +708,12 @@
     },
     "37": {
       "episode": "37",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-06-21",
       "title": {
-        "en": "Unpredictable"
+        "en": "Unpredictable",
+        "romaji": "Yosoku Funou",
+        "ja": "予測不能"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10520053,
@@ -644,10 +725,12 @@
     },
     "38": {
       "episode": "38",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-06-28",
       "title": {
-        "en": "Return of the Queen"
+        "en": "Return of the Queen",
+        "romaji": "Joou no Kikan",
+        "ja": "女王の帰還"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10520054,
@@ -659,10 +742,12 @@
     },
     "39": {
       "episode": "39",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-07-05",
       "title": {
-        "en": "The Greatest Blader"
+        "en": "The Greatest Blader",
+        "romaji": "Saikou no Blader",
+        "ja": "最高のブレーダー"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10569164,
@@ -674,10 +759,12 @@
     },
     "40": {
       "episode": "40",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-07-12",
       "title": {
-        "en": "The Other Mask"
+        "en": "The Other Mask",
+        "romaji": "Mou Hitotsu no Kamen",
+        "ja": "もうひとつの仮面"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10569165,
@@ -689,10 +776,12 @@
     },
     "41": {
       "episode": "41",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-07-19",
       "title": {
-        "en": "The Three Masks"
+        "en": "The Three Masks",
+        "romaji": "Mittsu no Kamen",
+        "ja": "3つの仮面"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10569166,
@@ -704,10 +793,12 @@
     },
     "42": {
       "episode": "42",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-07-26",
       "title": {
-        "en": "XYZ"
+        "en": "XYZ",
+        "romaji": "XYZ",
+        "ja": "XYZ"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10569167,
@@ -719,10 +810,12 @@
     },
     "43": {
       "episode": "43",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-08-09",
       "title": {
-        "en": "Pendragon, Back Then"
+        "en": "Pendragon, Back Then",
+        "romaji": "Ano Hi no Pendragon",
+        "ja": "あの日のペンドラゴン"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10626688,
@@ -734,10 +827,12 @@
     },
     "44": {
       "episode": "44",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-08-16",
       "title": {
-        "en": "Family, Back Then"
+        "en": "Family, Back Then",
+        "romaji": "Ano Hi no Kazoku",
+        "ja": "あの日の家族"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10626689,
@@ -749,10 +844,12 @@
     },
     "45": {
       "episode": "45",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-08-23",
       "title": {
-        "en": "You, Back Then"
+        "en": "You, Back Then",
+        "romaji": "Ano Hi no Anata",
+        "ja": "あの日のあなた"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10626690,
@@ -764,10 +861,12 @@
     },
     "46": {
       "episode": "46",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-08-30",
       "title": {
-        "en": "Time Off"
+        "en": "Time Off",
+        "romaji": "Off",
+        "ja": "オフ"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10626691,
@@ -779,10 +878,12 @@
     },
     "47": {
       "episode": "47",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-09-06",
       "title": {
-        "en": "Battle at the Top"
+        "en": "Battle at the Top",
+        "romaji": "Choujou Kessen",
+        "ja": "頂上決戦"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10684378,
@@ -794,10 +895,12 @@
     },
     "48": {
       "episode": "48",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-09-13",
       "title": {
-        "en": "The Nana-iro Showdown"
+        "en": "The Nana-iro Showdown",
+        "romaji": "Nanairo no Kecchaku",
+        "ja": "七色の決着"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10684379,
@@ -809,10 +912,12 @@
     },
     "49": {
       "episode": "49",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-09-20",
       "title": {
-        "en": "Something Xtraordinary"
+        "en": "Something Xtraordinary",
+        "romaji": "Mienai Mono",
+        "ja": "ミエナイモノ"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10707701,
@@ -824,10 +929,12 @@
     },
     "50": {
       "episode": "50",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-09-27",
       "title": {
-        "en": "The Two Xs"
+        "en": "The Two Xs",
+        "romaji": "Futari no X",
+        "ja": "ふたりのX"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10707702,
@@ -839,10 +946,12 @@
     },
     "51": {
       "episode": "51",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-10-04",
       "title": {
-        "en": "The Most Fun Ever"
+        "en": "The Most Fun Ever",
+        "romaji": "Saikou no Asobi",
+        "ja": "最高の遊び"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10733546,
@@ -854,10 +963,12 @@
     },
     "52": {
       "episode": "52",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-10-18",
       "title": {
-        "en": "Restart"
+        "en": "Restart",
+        "romaji": "Restart",
+        "ja": "Re:[リスタート]"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10733547,
@@ -869,10 +980,12 @@
     },
     "53": {
       "episode": "53",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-10-25",
       "title": {
-        "en": "Signs of a New Era"
+        "en": "Signs of a New Era",
+        "romaji": "Shinjidai no Yochou",
+        "ja": "新時代の予兆"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10733548,
@@ -884,10 +997,12 @@
     },
     "54": {
       "episode": "54",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-11-01",
       "title": {
-        "en": "Path of Resolve"
+        "en": "Path of Resolve",
+        "romaji": "Ketsui no Michi",
+        "ja": "決意の道"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10763486,
@@ -899,10 +1014,12 @@
     },
     "55": {
       "episode": "55",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-11-08",
       "title": {
-        "en": "Advance Bey Timeshift"
+        "en": "Advance Bey Timeshift",
+        "romaji": "Saranaru Bey Time Shift",
+        "ja": "更なるベイタイムシフト"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10763487,
@@ -914,10 +1031,12 @@
     },
     "56": {
       "episode": "56",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-11-15",
       "title": {
-        "en": "Star Plot"
+        "en": "Star Plot",
+        "romaji": "Shiroki Inbou",
+        "ja": "白き陰謀"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10763488,
@@ -929,10 +1048,12 @@
     },
     "57": {
       "episode": "57",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-11-22",
       "title": {
-        "en": "Tri-Blader Battle"
+        "en": "Tri-Blader Battle",
+        "romaji": "Mitsudomoe no Tatakai",
+        "ja": "三つ巴の戦い"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10763490,
@@ -944,10 +1065,12 @@
     },
     "58": {
       "episode": "58",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-11-29",
       "title": {
-        "en": "Triple Battle"
+        "en": "Triple Battle",
+        "romaji": "Triple Battle",
+        "ja": "トリプルバトル"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10763492,
@@ -959,10 +1082,12 @@
     },
     "59": {
       "episode": "59",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-12-06",
       "title": {
-        "en": "Blader S"
+        "en": "Blader S",
+        "romaji": "Kamen S",
+        "ja": "仮面S"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10833046,
@@ -974,10 +1099,12 @@
     },
     "60": {
       "episode": "60",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-12-13",
       "title": {
-        "en": "Multi-Colored Trial"
+        "en": "Multi-Colored Trial",
+        "romaji": "Nanairo no Shiren",
+        "ja": "七色の試練"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10833047,
@@ -989,10 +1116,12 @@
     },
     "61": {
       "episode": "61",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-12-20",
       "title": {
-        "en": "Invincible"
+        "en": "Invincible",
+        "romaji": "Hisshou Fuhai",
+        "ja": "必勝不敗"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10833048,
@@ -1004,10 +1133,12 @@
     },
     "62": {
       "episode": "62",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-12-27",
       "title": {
-        "en": "The Prestigious Bey Academy"
+        "en": "The Prestigious Bey Academy",
+        "romaji": "Shiritsu Bey Academy",
+        "ja": "私立ベイアカデミー"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10833049,
@@ -1019,10 +1150,12 @@
     },
     "63": {
       "episode": "63",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-01-10",
       "title": {
-        "en": "The Manju Clan"
+        "en": "The Manju Clan",
+        "romaji": "Manjuu-ke no Ichizoku",
+        "ja": "万獣家の一族"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10875954,
@@ -1034,10 +1167,12 @@
     },
     "64": {
       "episode": "64",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-01-17",
       "title": {
-        "en": "The Shapeless Shadow"
+        "en": "The Shapeless Shadow",
+        "romaji": "Katachi Naki Kage",
+        "ja": "形無き影"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10875955,
@@ -1049,10 +1184,12 @@
     },
     "65": {
       "episode": "65",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-01-24",
       "title": {
-        "en": "First Flight"
+        "en": "First Flight",
+        "romaji": "Hajimari no Tsubasa",
+        "ja": "始まりの翼"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10875956,
@@ -1064,10 +1201,12 @@
     },
     "66": {
       "episode": "66",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-01-31",
       "title": {
-        "en": "Something Captivating"
+        "en": "Something Captivating",
+        "romaji": "Muchuu ni Nareru Mono o",
+        "ja": "夢中になれるものを"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10875957,
@@ -1079,10 +1218,12 @@
     },
     "67": {
       "episode": "67",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-02-07",
       "title": {
-        "en": "Silver Wolf"
+        "en": "Silver Wolf",
+        "romaji": "Gin no Ookami",
+        "ja": "銀の狼"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10933125,
@@ -1094,10 +1235,12 @@
     },
     "68": {
       "episode": "68",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-02-14",
       "title": {
-        "en": "Light and Dark"
+        "en": "Light and Dark",
+        "romaji": "Omote to Ura",
+        "ja": "表と裏"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10933126,
@@ -1109,10 +1252,12 @@
     },
     "69": {
       "episode": "69",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-02-21",
       "title": {
-        "en": "Shadowy Underground"
+        "en": "Shadowy Underground",
+        "romaji": "Ura no Sekai",
+        "ja": "裏の世界"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10933127,
@@ -1124,10 +1269,12 @@
     },
     "70": {
       "episode": "70",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-02-28",
       "title": {
-        "en": "Dread Dragon"
+        "en": "Dread Dragon",
+        "romaji": "Maryuu",
+        "ja": "魔龍"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10933128,
@@ -1139,10 +1286,12 @@
     },
     "71": {
       "episode": "71",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-03-07",
       "title": {
-        "en": "To That Place"
+        "en": "To That Place",
+        "romaji": "Sono Basho e",
+        "ja": "その場所へ"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10988266,
@@ -1154,10 +1303,12 @@
     },
     "72": {
       "episode": "72",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-03-14",
       "title": {
-        "en": "Labyrinth of Riddles and Terror"
+        "en": "Labyrinth of Riddles and Terror",
+        "romaji": "Kyoufu no Nazo Meikyuu",
+        "ja": "恐怖の謎迷宮"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10988267,
@@ -1169,10 +1320,12 @@
     },
     "73": {
       "episode": "73",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-03-21",
       "title": {
-        "en": "The Star Battle"
+        "en": "The Star Battle",
+        "romaji": "Star Battle",
+        "ja": "白星決闘[スターバトル]"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10988268,
@@ -1184,10 +1337,12 @@
     },
     "74": {
       "episode": "74",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-03-28",
       "title": {
-        "en": "Cursed"
+        "en": "Cursed",
+        "romaji": "Noroi",
+        "ja": "呪い"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10988269,
@@ -1199,10 +1354,12 @@
     },
     "75": {
       "episode": "75",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-04-04",
       "title": {
-        "en": "Return of the Knight"
+        "en": "Return of the Knight",
+        "romaji": "Return of Knight",
+        "ja": "リターンオブナイト"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11054296,
@@ -1214,10 +1371,12 @@
     },
     "76": {
       "episode": "76",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-04-11",
       "title": {
-        "en": "White Nova"
+        "en": "White Nova",
+        "romaji": "Shiroki Shinsei",
+        "ja": "白き新星"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11054297,
@@ -1229,10 +1388,12 @@
     },
     "77": {
       "episode": "77",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-04-18",
       "title": {
-        "en": "Blue Dragon and Dread Dragon"
+        "en": "Blue Dragon and Dread Dragon",
+        "romaji": "Aoki Ryuu to Maryuu",
+        "ja": "青き龍と魔龍"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11054298,
@@ -1244,10 +1405,12 @@
     },
     "78": {
       "episode": "78",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-04-25",
       "title": {
-        "en": "Customization"
+        "en": "Customization",
+        "romaji": "Customize",
+        "ja": "カスタマイズ"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11054299,
@@ -1259,10 +1422,12 @@
     },
     "79": {
       "episode": "79",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-05-02",
       "title": {
-        "en": "King and Queen"
+        "en": "King and Queen",
+        "romaji": "Ou to Joou",
+        "ja": "王と女王"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11102351,
@@ -1274,10 +1439,12 @@
     },
     "80": {
       "episode": "80",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-05-09",
       "title": {
-        "en": "The Gradual One"
+        "en": "The Gradual One",
+        "romaji": "Saichi no Mono",
+        "ja": "最遅の者"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11102352,
@@ -1289,10 +1456,12 @@
     },
     "81": {
       "episode": "81",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-05-16",
       "title": {
-        "en": "All In"
+        "en": "All In",
+        "romaji": "All In",
+        "ja": "オールイン"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11102353,
@@ -1304,10 +1473,12 @@
     },
     "82": {
       "episode": "82",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-05-23",
       "title": {
-        "en": "Multi-Colored Decision"
+        "en": "Multi-Colored Decision",
+        "romaji": "Nanairo no Ketsui",
+        "ja": "七色の決意"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11102354,
@@ -1319,10 +1490,12 @@
     },
     "83": {
       "episode": "83",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-05-30",
       "title": {
-        "en": "Partner"
+        "en": "Partner",
+        "romaji": "Aibou",
+        "ja": "相棒"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11102355,
@@ -1334,10 +1507,12 @@
     },
     "84": {
       "episode": "84",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-06-06",
       "title": {
-        "en": "Proxy Conflict"
+        "en": "Proxy Conflict",
+        "romaji": "Dairisensou",
+        "ja": "代理戦争"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11167488,
@@ -1349,10 +1524,12 @@
     },
     "85": {
       "episode": "85",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-06-13",
       "title": {
-        "en": "Pop vs Curse"
+        "en": "Pop vs Curse",
+        "romaji": "Mote tai Noroi",
+        "ja": "モテVS.[たい]呪い"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11167489,
@@ -1364,10 +1541,12 @@
     },
     "86": {
       "episode": "86",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-06-20",
       "title": {
-        "en": "Red Confrontation"
+        "en": "Red Confrontation",
+        "romaji": "Shinku no Taiketsu",
+        "ja": "深紅の対決"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11167490,
@@ -1379,10 +1558,12 @@
     },
     "87": {
       "episode": "87",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-06-27",
       "title": {
-        "en": "Path of the Dread Dragon"
+        "en": "Path of the Dread Dragon",
+        "romaji": "Maryuu no Michi",
+        "ja": "魔龍の道"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11167491,
@@ -1394,10 +1575,12 @@
     },
     "88": {
       "episode": "88",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-07-04",
       "title": {
-        "en": "Blading Soul"
+        "en": "Blading Soul",
+        "romaji": "Bey Damashii",
+        "ja": "ベイ魂"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11167492,
@@ -1409,10 +1592,12 @@
     },
     "89": {
       "episode": "89",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-07-18",
       "title": {
-        "en": "What Must Be Done"
+        "en": "What Must Be Done",
+        "romaji": "Hatasubeki Koto",
+        "ja": "果たすべきこと"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11167493,
@@ -1424,10 +1609,12 @@
     },
     "90": {
       "episode": "90",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-07-25",
       "title": {
-        "en": "Nine-Tailed Fox"
+        "en": "Nine-Tailed Fox",
+        "romaji": "Kyuubi no Kitsune",
+        "ja": "九尾のキツネ"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11167494,
@@ -1439,10 +1626,12 @@
     },
     "91": {
       "episode": "91",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-08-01",
       "title": {
-        "en": "Dream Match"
+        "en": "Dream Match",
+        "romaji": "Dream Match",
+        "ja": "ドリームマッチ"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11260207,
@@ -1454,10 +1643,12 @@
     },
     "92": {
       "episode": "92",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-08-08",
       "title": {
-        "en": "Perseus the Messenger"
+        "en": "Perseus the Messenger",
+        "romaji": "Perseus no Shisha",
+        "ja": "ペルセウスの使者"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11260208,
@@ -1469,10 +1660,12 @@
     },
     "93": {
       "episode": "93",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-08-15",
       "title": {
-        "en": "Super Champion Challenger Chooser Match"
+        "en": "Super Champion Challenger Chooser Match",
+        "romaji": "Chou Choujou Chousensha Ketteisen",
+        "ja": "超頂上挑戦者決定戦"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11260209,
@@ -1484,10 +1677,12 @@
     },
     "94": {
       "episode": "94",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-08-22",
       "title": {
-        "en": "Unknown"
+        "en": "Unknown",
+        "romaji": "Mislead",
+        "ja": "ミスリード"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11260210,
@@ -1499,10 +1694,12 @@
     },
     "95": {
       "episode": "95",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-08-29",
       "title": {
-        "en": "Foxes Enchant, Tanukis Bewitch"
+        "en": "Foxes Enchant, Tanukis Bewitch",
+        "romaji": "Kitsune Nanabake Tanuki wa Yabake",
+        "ja": "狐七化け狸は八化け"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11260211,
@@ -1514,10 +1711,12 @@
     },
     "96": {
       "episode": "96",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-09-05",
       "title": {
-        "en": "Shiroboshi, Back Then"
+        "en": "Shiroboshi, Back Then",
+        "romaji": "Ano Hi no Shiroboshi",
+        "ja": "あの日の白星"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11330068,
@@ -1529,10 +1728,12 @@
     },
     "97": {
       "episode": "97",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-09-12",
       "title": {
-        "en": "Star Battle Grand Final"
+        "en": "Star Battle Grand Final",
+        "romaji": "Star Battle Grand Final",
+        "ja": "白星最終決闘[スターバトルグランドファイナル]"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11330069,
@@ -1544,10 +1745,12 @@
     },
     "98": {
       "episode": "98",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-09-19",
       "title": {
-        "en": "Never Defeated"
+        "en": "Never Defeated",
+        "romaji": "Zettai ni Makenai",
+        "ja": "絶対に負けない"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11330070,
@@ -1559,10 +1762,12 @@
     },
     "99": {
       "episode": "99",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-09-26",
       "title": {
-        "en": "Supernova"
+        "en": "Supernova",
+        "romaji": "Supernova",
+        "ja": "スーパーノヴァ"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11330071,
@@ -1574,10 +1779,12 @@
     },
     "100": {
       "episode": "100",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-03",
       "title": {
-        "en": "Star Devourer"
+        "en": "Star Devourer",
+        "romaji": "Hoshi o Kurau Mono",
+        "ja": "星を喰らうX[もの]"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11330072,
@@ -1589,10 +1796,12 @@
     },
     "101": {
       "episode": "101",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-24",
       "title": {
-        "en": "Annihilation"
+        "en": "Annihilation",
+        "romaji": "Metsubou",
+        "ja": "滅亡"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11335184,
@@ -1604,10 +1813,12 @@
     },
     "102": {
       "episode": "102",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-31",
       "title": {
-        "en": "Another X"
+        "en": "Another X",
+        "romaji": "Futatsu no X",
+        "ja": "二つのX"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11335185,
@@ -1619,10 +1830,12 @@
     },
     "103": {
       "episode": "103",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-11-07",
       "title": {
-        "en": "Bey of the Future"
+        "en": "Bey of the Future",
+        "romaji": "Mirai no Bey",
+        "ja": "未来のベイ"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11335186,
@@ -1634,10 +1847,12 @@
     },
     "104": {
       "episode": "104",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-11-14",
       "title": {
-        "en": "Wolf and Sun"
+        "en": "Wolf and Sun",
+        "romaji": "Ookami to Taiyou",
+        "ja": "狼と太陽"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11423030,
@@ -1649,10 +1864,12 @@
     },
     "105": {
       "episode": "105",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-11-21",
       "title": {
-        "en": "Challenge from the Future"
+        "en": "Challenge from the Future",
+        "romaji": "Mirai kara no Chousenjou",
+        "ja": "未来からの挑戦状"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11423031,
@@ -1664,10 +1881,12 @@
     },
     "106": {
       "episode": "106",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-11-28",
       "title": {
-        "en": "As the Super-Champions"
+        "en": "As the Super-Champions",
+        "romaji": "Chou Choujou Toshite",
+        "ja": "超頂上として"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11423032,
@@ -1679,10 +1898,12 @@
     },
     "107": {
       "episode": "107",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-12-05",
       "title": {
-        "en": "Tarnished Phoenix"
+        "en": "Tarnished Phoenix",
+        "romaji": "Somaru Fushichou",
+        "ja": "染まる不死鳥"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11423033,
@@ -1694,10 +1915,12 @@
     },
     "108": {
       "episode": "108",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-12-12",
       "title": {
-        "en": "Savior of Xenon City"
+        "en": "Savior of Xenon City",
+        "romaji": "X City no Kyuuseishu",
+        "ja": "Xシティの救世主"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11423034,
@@ -1709,10 +1932,12 @@
     },
     "109": {
       "episode": "109",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-12-19",
       "title": {
-        "en": "End of the Dread Dragon"
+        "en": "End of the Dread Dragon",
+        "romaji": "Maryuu no Owari",
+        "ja": "魔龍の終わり"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11423035,
@@ -1724,10 +1949,12 @@
     },
     "110": {
       "episode": "110",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-12-26",
       "title": {
-        "en": "Counterattack Beacon"
+        "en": "Counterattack Beacon",
+        "romaji": "Hangeki no Noroshi",
+        "ja": "反撃の狼煙"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11423036,
@@ -1739,10 +1966,12 @@
     },
     "111": {
       "episode": "111",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-01-09",
       "title": {
-        "en": "Pro Bladers"
+        "en": "Pro Bladers",
+        "romaji": "Pro Blader",
+        "ja": "プロブレーダー"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11523014,
@@ -1754,10 +1983,12 @@
     },
     "112": {
       "episode": "112",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-01-16",
       "title": {
-        "en": "Crafter vs Crafter"
+        "en": "Crafter vs Crafter",
+        "romaji": "Crafter tai Crafter",
+        "ja": "クラフターVS.[たい]クラフター"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11523015,
@@ -1769,10 +2000,12 @@
     },
     "113": {
       "episode": "113",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-01-23",
       "title": {
-        "en": "Phoenix`s Choice"
+        "en": "Phoenix`s Choice",
+        "romaji": "Fushichou no Sentaku",
+        "ja": "不死鳥の選択"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11523016,
@@ -1784,10 +2017,12 @@
     },
     "114": {
       "episode": "114",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-01-30",
       "title": {
-        "en": "Facing the Future"
+        "en": "Facing the Future",
+        "romaji": "Mirai e Mukatte",
+        "ja": "未来へ向かって"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11523017,
@@ -1799,10 +2034,12 @@
     },
     "115": {
       "episode": "115",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-06",
       "title": {
-        "en": "Transfer or Disband"
+        "en": "Transfer or Disband",
+        "romaji": "Iseki ka Kaisan ka",
+        "ja": "移籍か解散か"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11523018,
@@ -1814,10 +2051,12 @@
     },
     "116": {
       "episode": "116",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-13",
       "title": {
-        "en": "Future Pros"
+        "en": "Future Pros",
+        "romaji": "Mirai Pro",
+        "ja": "未来プロ"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11523019,
@@ -1829,10 +2068,12 @@
     },
     "117": {
       "episode": "117",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-20",
       "title": {
-        "en": "Growing Power"
+        "en": "Growing Power",
+        "romaji": "Kakuchou Suru Chikara",
+        "ja": "拡張するチカラ"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11523020,
@@ -1844,10 +2085,12 @@
     },
     "118": {
       "episode": "118",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-27",
       "title": {
-        "en": "Intertwining Intentions"
+        "en": "Motive to Motive",
+        "romaji": "Meguru Omowaku",
+        "ja": "巡る思惑"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11523021,
@@ -1859,10 +2102,12 @@
     },
     "119": {
       "episode": "119",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-06",
       "title": {
-        "en": "To That Distant Place"
+        "en": "To the Place",
+        "romaji": "Ano Basho e",
+        "ja": "あの場所へ"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11523022,
@@ -1874,10 +2119,12 @@
     },
     "120": {
       "episode": "120",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-13",
       "title": {
-        "en": "X Tower War"
+        "en": "Clash at the X",
+        "romaji": "X Tower War",
+        "ja": "Xタワーウォー"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11523023,
@@ -1889,10 +2136,12 @@
     },
     "121": {
       "episode": "121",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-20",
       "title": {
-        "en": "Where the Dragon Goes"
+        "en": "Where the Dragon Goes",
+        "romaji": "Ryuu no Yukue",
+        "ja": "龍の行方"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10406092,
@@ -1904,10 +2153,12 @@
     },
     "122": {
       "episode": "122",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-27",
       "title": {
-        "en": "The Future Beyond"
+        "en": "The Future Beyond",
+        "romaji": "Sono Saki no Mirai",
+        "ja": "その先のX[みらい]"
       },
       "tvdbShowId": 435020,
       "tvdbId": 10406093,
@@ -1919,10 +2170,12 @@
     },
     "123": {
       "episode": "123",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-17",
       "title": {
-        "en": "One Percent of Hope"
+        "en": "One Percent Hope",
+        "romaji": "1% no Kibou",
+        "ja": "1%の希望"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11701200,
@@ -1934,10 +2187,12 @@
     },
     "124": {
       "episode": "124",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-17",
       "title": {
-        "en": "True X Tower War"
+        "en": "The True X Battle Royale",
+        "romaji": "Shin X Tower War",
+        "ja": "真・Xタワーウォー"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11701201,
@@ -1949,10 +2204,12 @@
     },
     "125": {
       "episode": "125",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-01",
       "title": {
-        "en": "The Strongest Without Desire"
+        "en": "Strength Without Motive",
+        "romaji": "Muyoku no Saikyou",
+        "ja": "無欲の最強"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11701202,
@@ -1964,10 +2221,12 @@
     },
     "126": {
       "episode": "126",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-15",
       "title": {
-        "en": "The Traitor Who Betrayed"
+        "en": "The Betrayer Betrays",
+        "romaji": "Uragitta Uragirimono",
+        "ja": "裏切った裏切り者"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11701203,
@@ -1979,10 +2238,12 @@
     },
     "127": {
       "episode": "127",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-05",
       "title": {
-        "en": "The Kurosu Clan`s Strategy"
+        "en": "Cross Tactics",
+        "romaji": "Kurosu no Gunryaku",
+        "ja": "黒須の軍略"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11701204,
@@ -1994,10 +2255,12 @@
     },
     "128": {
       "episode": "128",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-19",
       "title": {
-        "en": "X Tower`s Guardian"
+        "en": "Protector of the X",
+        "romaji": "X Tower no Shugosha",
+        "ja": "Xタワーの守護者"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11809218,
@@ -2009,10 +2272,12 @@
     },
     "129": {
       "episode": "129",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-03",
       "title": {
-        "en": "Natural Talent"
+        "en": "Natural Gift",
+        "romaji": "Tenpu no Sai",
+        "ja": "天賦の才"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11809219,
@@ -2024,10 +2289,12 @@
     },
     "130": {
       "episode": "130",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-17",
       "title": {
-        "en": "Welcome to the Fourth Stage"
+        "en": "Fourth Stagey-Wagey",
+        "romaji": "Fourth Stage Da yuu",
+        "ja": "フォースステージだゆ~"
       },
       "tvdbShowId": 435020,
       "tvdbId": 11809220,
@@ -2035,44 +2302,248 @@
       "episodeNumber": 130,
       "absoluteEpisodeNumber": 130,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11809220/screencap/6a6c9f5942ddf.jpg"
     },
     "131": {
       "episode": "131",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-07",
       "title": {
-        "en": "Episode 131"
+        "en": "With the Future on the Line",
+        "romaji": "Mirai o Kakete",
+        "ja": "未来をかけて"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 435020,
+      "tvdbId": 11905990,
+      "seasonNumber": 1,
       "episodeNumber": 131,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 131,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11905990/screencap/6a765f2f373d5.jpg"
     },
     "132": {
       "episode": "132",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-21",
       "title": {
-        "en": "Episode 132"
+        "en": "True Super Champion Match",
+        "romaji": "Shin Chou Choujou Kessen",
+        "ja": "真・超頂上決戦"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11915137,
+      "seasonNumber": 1,
+      "episodeNumber": 132,
+      "absoluteEpisodeNumber": 132,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11915137/screencap/6a89e13b6cb90.jpg"
+    },
+    "133": {
+      "episode": "133",
+      "length": 25,
+      "airDate": "2026-09-04",
+      "title": {
+        "en": "The Final Future",
+        "romaji": "Saigo no Mirai",
+        "ja": "最後の未来"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11915138,
+      "seasonNumber": 1,
+      "episodeNumber": 133,
+      "absoluteEpisodeNumber": 133,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11915138/screencap/6a9fffe95c31f.jpg"
+    },
+    "134": {
+      "episode": "134",
+      "length": 25,
+      "airDate": "2026-09-18",
+      "title": {
+        "en": "The True Final Future",
+        "romaji": "Shin Saigo no Mirai",
+        "ja": "真・最後の未来"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11915139,
+      "seasonNumber": 1,
+      "episodeNumber": 134,
+      "absoluteEpisodeNumber": 134,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11915139/screencap/6aaed603f07cc.jpg"
+    },
+    "135": {
+      "episode": "135",
+      "length": 25,
+      "airDate": "2026-10-09",
+      "title": {
+        "en": "Version 2.0",
+        "romaji": "Version 2.0",
+        "ja": "バージョン2.0"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11923359,
+      "seasonNumber": 1,
+      "episodeNumber": 135,
+      "absoluteEpisodeNumber": 135,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11923359/screencap/6ac90972b3578.jpg"
+    },
+    "136": {
+      "episode": "136",
+      "length": 25,
+      "airDate": "2026-10-16",
+      "title": {
+        "en": "The 88th Prince",
+        "romaji": "Dai 88 Ouji",
+        "ja": "第88王子"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 11923360,
+      "seasonNumber": 1,
+      "episodeNumber": 136,
+      "absoluteEpisodeNumber": 136,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11923360/screencap/6ad22b671596c.jpg"
+    },
+    "137": {
+      "episode": "137",
+      "length": 25,
+      "airDate": "2026-10-23",
+      "title": {
+        "en": "Bey Kingdom",
+        "romaji": "Bey Kingdom",
+        "ja": "ベイキングダム"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 12027723,
+      "seasonNumber": 1,
+      "episodeNumber": 137,
+      "absoluteEpisodeNumber": 137,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12027723/screencap/6ade13ad1af9f.jpg"
+    },
+    "138": {
+      "episode": "138",
+      "length": 25,
+      "airDate": "2026-10-30",
+      "title": {
+        "en": "The Kingdom`s Way",
+        "romaji": "Oukoku no Ryuugi",
+        "ja": "王国の流儀"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 12027725,
+      "seasonNumber": 1,
+      "episodeNumber": 138,
+      "absoluteEpisodeNumber": 138,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12027725/screencap/6aeb79444b349.jpg"
+    },
+    "139": {
+      "episode": "139",
+      "length": 25,
+      "airDate": "2026-11-06",
+      "title": {
+        "en": "The Dazzling True Dragon",
+        "romaji": "Mabayuki Shinryuu",
+        "ja": "眩き真龍"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 12027727,
+      "seasonNumber": 1,
+      "episodeNumber": 139,
+      "absoluteEpisodeNumber": 139,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12027727/screencap/6af1e0e7847e6.jpg"
+    },
+    "140": {
+      "episode": "140",
+      "length": 25,
+      "airDate": "2026-11-13",
+      "title": {
+        "en": "Transformation",
+        "romaji": "Henkaku",
+        "ja": "変革"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 12081622,
+      "seasonNumber": 1,
+      "episodeNumber": 140,
+      "absoluteEpisodeNumber": null,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12081622/screencap/6af891fd413d6.jpg"
+    },
+    "141": {
+      "episode": "141",
+      "length": 25,
+      "airDate": "2026-11-20",
+      "title": {
+        "en": "An Axe to Sever Regrets",
+        "romaji": "Miren o Tatsu Ono",
+        "ja": "未練を断つ斧"
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 12083787,
+      "seasonNumber": 1,
+      "episodeNumber": 141,
+      "absoluteEpisodeNumber": null,
+      "runtime": 24,
+      "image": null
+    },
+    "142": {
+      "episode": "142",
+      "length": 25,
+      "airDate": "2026-11-27",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 12083788,
+      "seasonNumber": 1,
+      "episodeNumber": 142,
+      "absoluteEpisodeNumber": null,
+      "runtime": 24,
+      "image": null
+    },
+    "143": {
+      "episode": "143",
+      "length": 25,
+      "airDate": "2026-12-04",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 435020,
+      "tvdbId": 12083789,
+      "seasonNumber": 1,
+      "episodeNumber": 143,
+      "absoluteEpisodeNumber": null,
+      "runtime": 24,
+      "image": null
+    },
+    "144": {
+      "episode": "144",
+      "length": 25,
+      "airDate": "2026-12-11",
+      "title": {
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
       "seasonNumber": null,
-      "episodeNumber": 132,
+      "episodeNumber": 144,
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null
     },
     "S1": {
       "episode": "S1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-10-11",
       "title": {
-        "en": "New Chapter Celebration! Grand Reopening of Beyblade Sushi - Go Shoot!"
+        "en": "New Chapter Celebration! Grand Reopening of Beyblade Sushi - Go Shoot!",
+        "romaji": "Shinshou Start Kinen! Shinsou Kaiten: Beibure Zushi de Go Shoot!",
+        "ja": "新章スタート記念! 新装開店 ベイブレ寿司でゴーシュート!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2084,10 +2555,12 @@
     },
     "S2": {
       "episode": "S2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-07-11",
       "title": {
-        "en": "Episode S2"
+        "en": "Episode S2",
+        "romaji": "Natsuyasumi mo Go Shoot! Anime \"Beyblade X\" Kenkyuushitsu",
+        "ja": "夏休みもゴーシュート! アニメ『BEYBLADE X』研究室"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2099,10 +2572,12 @@
     },
     "S3": {
       "episode": "S3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-10",
       "title": {
-        "en": "Episode S3"
+        "en": "Episode S3",
+        "romaji": "Dai 2 Season Kanketsu Kinen! Anime \"Beyblade X\" Kenkyuushitsu",
+        "ja": "第2シーズン完結記念! アニメ『BEYBLADE X』研究室"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2114,160 +2589,12 @@
     },
     "S4": {
       "episode": "S4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-17",
       "title": {
-        "en": "Episode S4"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "OP1a": {
-      "episode": "OP1a",
-      "length": "2m",
-      "airDate": "2023-10-06",
-      "title": {
-        "en": "Prove (1-51)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "OP1b": {
-      "episode": "OP1b",
-      "length": "2m",
-      "airDate": "2024-03-15",
-      "title": {
-        "en": "Prove (1-51)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "ED1": {
-      "episode": "ED1",
-      "length": "2m",
-      "airDate": "2023-10-06",
-      "title": {
-        "en": "Zoom Zoom (1-51)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "OP2": {
-      "episode": "OP2",
-      "length": "2m",
-      "airDate": "2024-10-18",
-      "title": {
-        "en": "You Gotta Run (52-74)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "ED2": {
-      "episode": "ED2",
-      "length": "2m",
-      "airDate": "2024-10-18",
-      "title": {
-        "en": "Cosmic Treat (52-74)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "OP3": {
-      "episode": "OP3",
-      "length": "2m",
-      "airDate": "2025-04-04",
-      "title": {
-        "en": "Rise (75-100)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "ED3": {
-      "episode": "ED3",
-      "length": "2m",
-      "airDate": "2025-04-04",
-      "title": {
-        "en": "Stay Gold (75-100)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "OP4": {
-      "episode": "OP4",
-      "length": "2m",
-      "airDate": "2025-10-24",
-      "title": {
-        "en": "Invincible (101)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "ED4": {
-      "episode": "ED4",
-      "length": "2m",
-      "airDate": "2025-10-24",
-      "title": {
-        "en": "Uzu (101)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T1": {
-      "episode": "T1",
-      "length": "2m",
-      "airDate": "2023-09-07",
-      "title": {
-        "en": "PV (1:30)"
+        "en": "Episode S4",
+        "romaji": "Dai 3 Season made Matenai! Anime \"Beyblade X\" Kenkyuushitsu",
+        "ja": "第3シーズンまで待てない! アニメ『BEYBLADE X』研究室"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2279,15 +2606,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T16:08:21.363Z",
+    "lastFetched": "2026-11-22T00:42:28.169Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

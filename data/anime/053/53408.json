@@ -28,18 +28,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 5,
-  "episodeLength": null,
+  "episodeLength": 10,
   "aired": {
     "from": "2022-10-23T00:00:00+00:00",
-    "to": null
+    "to": "2022-12-27T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2022,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -48,13 +44,14 @@
     "kitsuRating": null
   },
   "genres": [
+    "Kids",
     "Slice of Life"
   ],
   "studios": [
     "Oddjob"
   ],
   "producers": [
-    "NHK"
+    "NHK Enterprises"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1581/132395l.jpg",
@@ -80,15 +77,16 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T11:04:54.260Z",
+    "lastFetched": "2026-11-22T00:40:59.921Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

@@ -32,16 +32,12 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": "2027-01-01T00:00:00+00:00",
+    "from": "2027-04-01T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "spring",
+  "year": 2027,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -51,9 +47,9 @@
   },
   "genres": [
     "Action",
+    "Super Power",
     "Comedy",
-    "Supernatural",
-    "Super Power"
+    "Supernatural"
   ],
   "studios": [
     "DandeLion Animation Studio"
@@ -64,20 +60,26 @@
     "banner": null,
     "color": "#28bbfe"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "-Vqya5QAqpc",
+    "url": "https://www.youtube.com/watch?v=-Vqya5QAqpc",
+    "thumbnail": "https://i.ytimg.com/vi/-Vqya5QAqpc/hqdefault.jpg"
+  },
   "synopsis": "Jiwoo is a kind-hearted young man who harnesses the lightning quick reflexes of a cat to secretly make the world a better place—one saved little child or foster pet at a time. Kayden is a secret agent on the run, who finds himself stuck in the body of a...um...decidedly fat old fluffy cat. Together, armed with Jiwoo's super powers and Kayden's uber-smarts, they're out to fight those forces who would let evil rule this world. That is, if they can stand each other long enough to get the job done.\n\n(Source: Webtoon Entertainment)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:43:38.577Z",
+    "lastFetched": "2026-11-22T00:49:00.419Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

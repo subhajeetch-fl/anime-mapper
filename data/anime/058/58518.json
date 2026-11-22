@@ -31,53 +31,60 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 26,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
-    "to": null
+    "from": "2026-10-07T00:00:00+00:00",
+    "to": "2026-12-23T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Wednesdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795611600
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.19,
+    "anilistScore": 7,
     "kitsuRating": null
   },
   "genres": [
     "Adventure",
     "Comedy",
     "Fantasy",
-    "Mahou Shoujo",
-    "Magical Girl",
-    "Magic",
     "Isekai",
-    "Working Life",
-    "Cops"
+    "Mahou Shoujo"
   ],
   "studios": [
     "SILVER LINK."
   ],
   "producers": [
-    "Nippon Columbia",
-    "Kadokawa",
-    "Bit grooove promotion"
+    "KADOKAWA",
+    "GREE Entertainment",
+    "AT-X",
+    "Crunchyroll",
+    "Sammy",
+    "SILVER LINK.",
+    "Nippon Columbia"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1402/158487l.jpg",
-    "banner": null,
-    "color": "#e49350"
+    "poster": "https://cdn.myanimelist.net/images/anime/1655/159979l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176314-nj2hmqbGQ9HJ.jpg",
+    "color": "#1a78d6"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "gY0hpk9E7p8",
+    "url": "https://www.youtube.com/watch?v=gY0hpk9E7p8",
+    "thumbnail": "https://i.ytimg.com/vi/gY0hpk9E7p8/hqdefault.jpg"
+  },
   "synopsis": "Second season of Sasaki to Pii-chan.",
   "sequence": [
     {
@@ -94,17 +101,213 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 50,
+      "airDate": "2026-10-07",
+      "title": {
+        "en": "Mother and Child",
+        "romaji": "Haha to Ko",
+        "ja": "母と子"
+      },
+      "tvdbShowId": 422728,
+      "tvdbId": 10403397,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 47,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10403397/screencap/6ac5933cf3d75.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-14",
+      "title": {
+        "en": "Death Games and Demons",
+        "romaji": "Death Game to Akuma",
+        "ja": "デスゲームと悪魔"
+      },
+      "tvdbShowId": 422728,
+      "tvdbId": 12012550,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12012550/screencap/6acec50274553.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-21",
+      "title": {
+        "en": "Concealment and Infiltration",
+        "romaji": "Senpuku to Senyuu",
+        "ja": "潜伏と潜入"
+      },
+      "tvdbShowId": 422728,
+      "tvdbId": 12012551,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12012551/screencap/6ad8196b50c12.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-28",
+      "title": {
+        "en": "Angel and Boy",
+        "romaji": "Tenshi to Shounen",
+        "ja": "天使と少年"
+      },
+      "tvdbShowId": 422728,
+      "tvdbId": 12012552,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12012552/screencap/6ae00456d348a.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-04",
+      "title": {
+        "en": "Heroes and Feelings",
+        "romaji": "Hero to Omoi",
+        "ja": "英雄[ヒーロー]と想い"
+      },
+      "tvdbShowId": 422728,
+      "tvdbId": 12012553,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12012553/screencap/6aea9caa2b4a4.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-11",
+      "title": {
+        "en": "Feast and Bonds",
+        "romaji": "Utage to En",
+        "ja": "宴と縁"
+      },
+      "tvdbShowId": 422728,
+      "tvdbId": 12012554,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12012554/screencap/6af31374d27be.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-18",
+      "title": {
+        "en": null,
+        "romaji": "Ibunka Kouryuu to Heroine",
+        "ja": "異文化交流とヒロイン"
+      },
+      "tvdbShowId": 422728,
+      "tvdbId": 12022968,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022968/screencap/6afbb51e9e885.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-25",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 422728,
+      "tvdbId": 12022969,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-12-02",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 422728,
+      "tvdbId": 12022970,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-09",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 422728,
+      "tvdbId": 12022971,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-16",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 422728,
+      "tvdbId": 12022972,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-23",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 422728,
+      "tvdbId": 12022973,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T16:12:09.577Z",
+    "lastFetched": "2026-11-22T00:43:25.353Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

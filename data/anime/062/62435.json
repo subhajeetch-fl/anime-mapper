@@ -6,14 +6,14 @@
     "anilist": 198409,
     "anidb": 19569,
     "kitsu": 50139,
-    "simkl": null,
+    "simkl": 2877684,
     "tmdb": 300267,
     "tvdb": 467882,
     "trakt": 298339,
     "traktType": "shows",
     "shikimori": 62435,
-    "livechart": null,
-    "animeplanet": null,
+    "livechart": 13312,
+    "animeplanet": "the-worlds-strongest-rearguard-labyrinth-countrys-novice-seeker",
     "anisearch": 20869,
     "notify": null
   },
@@ -28,13 +28,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
   "episodeLength": 24,
   "aired": {
     "from": "2026-07-05T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-20T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -43,113 +43,260 @@
     "time": "22:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788699600
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.05,
-    "anilistScore": 5.5,
+    "malScore": 5.77,
+    "anilistScore": 5.7,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Adventure",
     "Fantasy",
-    "Comedy"
+    "Isekai",
+    "Reincarnation"
   ],
   "studios": [
     "Maho Film"
   ],
   "producers": [
-    "KlockWorx",
-    "Studio Mausu",
-    "King Records",
     "Yomiuri TV Enterprise",
-    "Kadokawa",
-    "Muse Communication"
+    "KADOKAWA",
+    "Maho Film",
+    "King Records",
+    "MUSE",
+    "KLOCKWORX"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1380/157378l.jpg",
     "banner": null,
     "color": "#0dbbfe"
   },
-  "trailer": null,
-  "synopsis": "Corporate slave Arihito Atobe's death in a freak bus accident marks the beginning of his new life as a kind of adventurer called a Seeker. Reborn into a fantasy world, he settles into a previously unknown job class called \"rearguard,\" capable of providing his (all-female) party with critical attack, defense, and recovery support. And it comes with an added bonus: Simply being at the back of the party line increases his companions' fondness for him! Freed from the shackles of corporate life, Arihito is eager to start fresh as a newly minted Seeker!\n\n(Source: Yen Press)",
+  "trailer": {
+    "youtubeId": "vdJo_3uZ92s",
+    "url": "https://www.youtube.com/watch?v=vdJo_3uZ92s",
+    "thumbnail": "https://i.ytimg.com/vi/vdJo_3uZ92s/hqdefault.jpg"
+  },
+  "synopsis": "After dying in a bus accident, overworked salaryman Arihito Atobe awakens in Labyrinth Country, where newcomers become Seekers by choosing their own job classes. Hoping for a peaceful second life, he instead finds himself saddled with an unprecedented Rearguard class whose true identity cannot even be deciphered by the Seekers Guild.\n\nAs Atobe assembles a party and ventures into the country's labyrinths, he gradually discovers that his mysterious abilities possess extraordinary support capabilities. Yet with neither allies nor enemies able to understand the full nature of his class, mastering its hidden potential may prove to be his greatest challenge.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-05",
       "title": {
-        "en": "A Novice Seeker in Labyrinth Country"
+        "en": "A Novice Seeker in Labyrinth Country",
+        "romaji": "Meikyuukoku no Shinjin Tansakusha",
+        "ja": "迷宮国の新人探索者"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467882,
+      "tvdbId": 11327556,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11327556/screencap/6a49a9b887b86.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-12",
       "title": {
-        "en": "The First Hurdle"
+        "en": "The First Hurdle",
+        "romaji": "Saisho no Nankan",
+        "ja": "最初の難関"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467882,
+      "tvdbId": 11872536,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872536/screencap/6a52e331e3b53.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-19",
       "title": {
-        "en": "Episode 3"
+        "en": "The Little Tyrant Girl",
+        "romaji": "Boukun no Shoujo",
+        "ja": "暴君の少女"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467882,
+      "tvdbId": 11872537,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872537/screencap/6a599d67201fb.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-26",
       "title": {
-        "en": "Episode 4"
+        "en": "A Life-or-Death Mixed Bath",
+        "romaji": "Kikyuusonbou no Konyoku",
+        "ja": "危急存亡の混浴"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467882,
+      "tvdbId": 11872538,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872538/screencap/6a6561bf7c1f1.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-02",
+      "title": {
+        "en": "The Black Treasure Chest and the Young Wife`s Secret",
+        "romaji": "Kurobako to Wakaokusama no Himitsu",
+        "ja": "黒箱と若奥様の秘密"
+      },
+      "tvdbShowId": 467882,
+      "tvdbId": 11872539,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872539/screencap/6a6d22de314b9.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-09",
+      "title": {
+        "en": "The Mechanical Ariadne",
+        "romaji": "Kikaijikake no Ariadne",
+        "ja": "機械仕掛けのアリアドネ"
+      },
+      "tvdbShowId": 467882,
+      "tvdbId": 11872540,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872540/screencap/6a77f9041cbc7.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-16",
+      "title": {
+        "en": "The Hope of Demi-humans",
+        "romaji": "Ajin no Kibou",
+        "ja": "亜人の希望"
+      },
+      "tvdbShowId": 467882,
+      "tvdbId": 11873055,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11873055/screencap/6a81a3a266659.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-23",
+      "title": {
+        "en": "A City in Turmoil",
+        "romaji": "Kyouhon Souzen no Machi",
+        "ja": "狂奔騒然の街"
+      },
+      "tvdbShowId": 467882,
+      "tvdbId": 11873056,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11873056/screencap/6a8a1c5b4d95f.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-30",
+      "title": {
+        "en": "Hidden Wounds and a Warrior`s Confession",
+        "romaji": "Himerareta Kizu to Senshi no Kokuhaku",
+        "ja": "秘められた傷と戦士の告白"
+      },
+      "tvdbShowId": 467882,
+      "tvdbId": 11873057,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11873057/screencap/6a93852f48689.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-06",
+      "title": {
+        "en": "The Beautiful Girl in the Maddening Forest",
+        "romaji": "Kurueru Mori no Bijo",
+        "ja": "狂える森の美女"
+      },
+      "tvdbShowId": 467882,
+      "tvdbId": 11873058,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11873058/screencap/6a9c9cf7d9944.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-13",
+      "title": {
+        "en": "The Allure of Returning to the Start Point",
+        "romaji": "Gentenkaiki no Yuuwaku",
+        "ja": "原点回帰の誘惑"
+      },
+      "tvdbShowId": 467882,
+      "tvdbId": 11873059,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11873059/screencap/6aa603cad3df4.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-20",
+      "title": {
+        "en": "To the Future of Labyrinth Country",
+        "romaji": "Sono Saki no Meikyuukoku e",
+        "ja": "その先の迷宮国へ"
+      },
+      "tvdbShowId": 467882,
+      "tvdbId": 11873060,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11873060/screencap/6aaf3490a8bd8.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:27:54.050Z",
+    "lastFetched": "2026-11-22T00:50:47.716Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

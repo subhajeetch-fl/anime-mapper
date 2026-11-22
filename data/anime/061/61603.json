@@ -7,7 +7,7 @@
     "anidb": 19318,
     "kitsu": 49883,
     "simkl": 2767602,
-    "tmdb": null,
+    "tmdb": 126437,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
@@ -25,10 +25,10 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": 24,
-  "episodeLength": null,
+  "episodeLength": 25,
   "aired": {
     "from": "2026-10-04T00:00:00+00:00",
     "to": null
@@ -40,27 +40,39 @@
     "time": "17:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795334400
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 8.29,
+    "anilistScore": 8.1,
     "kitsuRating": null
   },
   "genres": [
+    "Seinen",
     "Sports",
-    "Soccer"
+    "Team Sports"
   ],
   "studios": [
     "TMS Entertainment"
   ],
-  "producers": [],
+  "producers": [
+    "Shogakukan-Shueisha Productions",
+    "Shogakukan",
+    "NHK Enterprises"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1295/158726l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191788-tyhsHpXeF26X.jpg",
     "color": "#e4ae50"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "phKPnPXm74c",
+    "url": "https://www.youtube.com/watch?v=phKPnPXm74c",
+    "thumbnail": "https://i.ytimg.com/vi/phKPnPXm74c/hqdefault.jpg"
+  },
   "synopsis": "Second season of Ao Ashi.",
   "sequence": [
     {
@@ -77,17 +89,199 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-04",
+      "title": {
+        "en": "Starting Line"
+      },
+      "tvdbShowId": 407840,
+      "tvdbId": 11114060,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11114060/screencap/6abbba5e1bd50.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-11",
+      "title": {
+        "en": "A Thinking Reed"
+      },
+      "tvdbShowId": 407840,
+      "tvdbId": 9226330,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9226330/screencap/6ac23f7916249.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-18",
+      "title": {
+        "en": "Premier League Match 7: Kashiwa Dai Business School"
+      },
+      "tvdbShowId": 407840,
+      "tvdbId": 9229047,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9229047/screencap/6acb85193664e.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-25",
+      "title": {
+        "en": "Cornerstone"
+      },
+      "tvdbShowId": 407840,
+      "tvdbId": 9229048,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9229048/screencap/6ad4b6a60bc7a.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-01",
+      "title": {
+        "en": "Don`t Quit Thinking"
+      },
+      "tvdbShowId": 407840,
+      "tvdbId": 9229049,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9229049/screencap/6ade0330bed23.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-08",
+      "title": {
+        "en": "Teach Me"
+      },
+      "tvdbShowId": 407840,
+      "tvdbId": 9393681,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9393681/screencap/6ae72b94e7f68.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-15",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 407840,
+      "tvdbId": 9393682,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9393682/screencap/6af06dfc1e04a.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-22",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 407840,
+      "tvdbId": 11958606,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11958606/screencap/6af9b38126d3c.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-11-29",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 407840,
+      "tvdbId": 11958607,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 25,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-06",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 407840,
+      "tvdbId": 11958608,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 25,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-13",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 407840,
+      "tvdbId": 11958609,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 25,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-20",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 407840,
+      "tvdbId": 11958610,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 25,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-02T07:35:19.792Z",
+    "lastFetched": "2026-11-22T00:47:55.954Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

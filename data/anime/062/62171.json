@@ -28,13 +28,13 @@
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 24,
   "episodeLength": 24,
   "aired": {
     "from": "2026-04-12T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-20T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2026,
@@ -43,292 +43,452 @@
     "time": "23:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 22,
-    "airingAt": 1788705000
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.48,
-    "anilistScore": 6.2,
-    "kitsuRating": 6.98
+    "malScore": 6.79,
+    "anilistScore": 6.9,
+    "kitsuRating": null
   },
   "genres": [
     "Comedy",
-    "Fantasy"
+    "Fantasy",
+    "School",
+    "Action"
   ],
   "studios": [
     "LIDENFILMS"
   ],
   "producers": [
     "Dentsu",
-    "CBC Television",
-    "Kodansha",
-    "Ultra Super Pictures",
     "Good Smile Company",
-    "D-techno",
-    "Sonilude"
+    "Kodansha",
+    "CBC TV",
+    "Ultra Super Pictures",
+    "D-techno"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1716/153989l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196974-wOXpVEgXm7aR.jpg",
     "color": "#50aef1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "uJhshLlQs60",
+    "url": "https://www.youtube.com/watch?v=uJhshLlQs60",
+    "thumbnail": "https://i.ytimg.com/vi/uJhshLlQs60/hqdefault.jpg"
+  },
   "synopsis": "The Royal Diana Academy is a prestigious school that accepts individuals with adept magical abilities. Upon graduation, these students find themselves at the top of their field or employed by the royal family. Spica Virgo dreams of studying at the academy, aiming to be a top-rate sorceress like her idol Claude Sirius. Claude is a world-renowned sorcerer who became the institution's youngest instructor, but mysteriously disappeared soon after.\n\nLacking the experience and connections required for admission, Spica finds herself unable to make meaningful progress with her training. One day, however, she meets a talking black cat with magical abilities. Hoping to change the situation for the better, she begs the animal to take her as his apprentice and teach her the magic she needs to attend the academy. The cat accepts the deal on one condition—she must find a way to reverse his feline curse. Despite the arduous challenges ahead of her, Spica is determined to prove herself as a student worthy of the cat's mentorship.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-12",
       "title": {
-        "en": "Black Cat & Spica"
+        "en": "Black Cat & Spica",
+        "ja": "黒猫とスピカ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466524,
+      "tvdbId": 11273226,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11273226/screencap/69cf8447bde0e.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-19",
       "title": {
-        "en": "Magic of the Zodiac"
+        "en": "Magic of the Zodiac",
+        "ja": "十二星座の魔法"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466524,
+      "tvdbId": 11671229,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671229/screencap/69dcd9738d5fa.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-26",
       "title": {
-        "en": "The Magicians of the Zodiac"
+        "en": "The Magicians of the Zodiac",
+        "ja": "十二星座の魔術師たち"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466524,
+      "tvdbId": 11671230,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671230/screencap/69e629e0abc8f.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-03",
       "title": {
-        "en": "Castor Gemini`s Fate"
+        "en": "Castor Gemini`s Fate",
+        "romaji": "Kasutoru Jemini no Innen",
+        "ja": "カストル・ジェミニの因縁"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466524,
+      "tvdbId": 11671231,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671231/screencap/69ef2df4b1720.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-10",
       "title": {
-        "en": "Spica and Aria"
+        "en": "Spica and Aria",
+        "romaji": "Supika to Aria",
+        "ja": "スピカとアリア"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466524,
+      "tvdbId": 11671232,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671232/screencap/69f8667a63b85.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-17",
       "title": {
-        "en": "Midterms"
+        "en": "Midterms",
+        "romaji": "Midoru Toraiaru",
+        "ja": "ミドル・トライアル"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466524,
+      "tvdbId": 11671233,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671233/screencap/6a01a2485a8fa.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-24",
       "title": {
-        "en": "Cross Magic"
+        "en": "Cross Magic",
+        "romaji": "Kurosu Majikku",
+        "ja": "クロス・マジック"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466524,
+      "tvdbId": 11671234,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671234/screencap/6a0adde36e197.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-31",
       "title": {
-        "en": "Winter Camp Begins!!"
+        "en": "Winter Camp Begins!!",
+        "romaji": "Toki Gasshuku Sutato!!",
+        "ja": "冬期合宿スタート!!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466524,
+      "tvdbId": 11671235,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671235/screencap/6a14133025193.jpg"
     },
     "9": {
       "episode": "9",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-07",
       "title": {
-        "en": "Bond of Flames"
+        "en": "Bond of Flames",
+        "romaji": "Hono no Kizuna",
+        "ja": "炎の絆"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466524,
+      "tvdbId": 11671236,
+      "seasonNumber": 1,
       "episodeNumber": 9,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671236/screencap/6a1d54566bf5d.jpg"
     },
     "10": {
       "episode": "10",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-14",
       "title": {
-        "en": "The Attack"
+        "en": "The Attack",
+        "romaji": "Shugeki",
+        "ja": "襲撃"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466524,
+      "tvdbId": 11671237,
+      "seasonNumber": 1,
       "episodeNumber": 10,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671237/screencap/6a269029cdaec.jpg"
     },
     "11": {
       "episode": "11",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-21",
       "title": {
-        "en": "Tarf`s Purpose, Chiron`s Resolve"
+        "en": "Tarf`s Purpose, Chiron`s Resolve",
+        "romaji": "Tarufu no Kakugo Kiron no Ketsui",
+        "ja": "タルフの覚悟 キロンの決意"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466524,
+      "tvdbId": 11671238,
+      "seasonNumber": 1,
       "episodeNumber": 11,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671238/screencap/6a2fc897bc8a8.jpg"
     },
     "12": {
       "episode": "12",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-28",
       "title": {
-        "en": "The Superior Magician"
+        "en": "The Superior Magician",
+        "romaji": "Sugureta Majutsushi",
+        "ja": "優れた魔術師"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466524,
+      "tvdbId": 11671239,
+      "seasonNumber": 1,
       "episodeNumber": 12,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671239/screencap/6a39023d386f8.jpg"
     },
     "13": {
       "episode": "13",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-05",
       "title": {
-        "en": "Memories of Arcturus"
+        "en": "Memories of Arcturus",
+        "romaji": "Mugiboshi no Tsuiso",
+        "ja": "麦星の追想"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466524,
+      "tvdbId": 11671240,
+      "seasonNumber": 1,
       "episodeNumber": 13,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671240/screencap/6a4510efbc96a.jpg"
     },
     "14": {
       "episode": "14",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-12",
       "title": {
-        "en": "Maids at the House of Regulus"
+        "en": "Maids at the House of Regulus",
+        "romaji": "Regurusu-ke no Meido",
+        "ja": "レグルス家のメイド"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466524,
+      "tvdbId": 11671241,
+      "seasonNumber": 1,
       "episodeNumber": 14,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671241/screencap/6a4cc8ccab911.jpg"
     },
     "15": {
       "episode": "15",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-19",
       "title": {
-        "en": "Episode 15"
+        "en": "Astrea`s Troubles / Herbarium Book",
+        "romaji": "Asutorea no Nayami / Habariumu Bukku",
+        "ja": "アストレアの悩み / ハーバリウム・ブック"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466524,
+      "tvdbId": 11671242,
+      "seasonNumber": 1,
       "episodeNumber": 15,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 15,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671242/screencap/6a54c5110f0b6.jpg"
     },
     "16": {
       "episode": "16",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-26",
       "title": {
-        "en": "Episode 16"
+        "en": "Io Taurus Gets to Work",
+        "ja": "イオ・トーラス がんばります!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466524,
+      "tvdbId": 11671243,
+      "seasonNumber": 1,
       "episodeNumber": 16,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671243/screencap/6a5e0b5ab5e3c.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": 25,
+      "airDate": "2026-08-02",
+      "title": {
+        "en": "Finals",
+        "ja": "ファイナル・トライアル"
+      },
+      "tvdbShowId": 466524,
+      "tvdbId": 11671244,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671244/screencap/6a675824050c9.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": 25,
+      "airDate": "2026-08-09",
+      "title": {
+        "en": "Adventures on a Deserted Island",
+        "ja": "無人島の冒険"
+      },
+      "tvdbShowId": 466524,
+      "tvdbId": 11671245,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671245/screencap/6a705cdb9e854.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": 25,
+      "airDate": "2026-08-16",
+      "title": {
+        "en": "Race for the Ruby",
+        "ja": "ルビー争奪レース"
+      },
+      "tvdbShowId": 466524,
+      "tvdbId": 11671246,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671246/screencap/6a79976f7be72.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": 25,
+      "airDate": "2026-08-23",
+      "title": {
+        "en": "Finding the Diamond",
+        "ja": "ダイヤの在処"
+      },
+      "tvdbShowId": 466524,
+      "tvdbId": 11671247,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671247/screencap/6a82b60360d4e.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": 25,
+      "airDate": "2026-08-30",
+      "title": {
+        "en": "Spica vs. Aria",
+        "ja": "スピカVSアリア"
+      },
+      "tvdbShowId": 466524,
+      "tvdbId": 11716981,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11716981/screencap/6a8be26fbfa46.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": 25,
+      "airDate": "2026-09-06",
+      "title": {
+        "en": "Aria`s Dream",
+        "ja": "アリアの夢"
+      },
+      "tvdbShowId": 466524,
+      "tvdbId": 11716982,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11716982/screencap/6a95182e2927a.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": 25,
+      "airDate": "2026-09-13",
+      "title": {
+        "en": "Promising Upon a Starry Night.",
+        "ja": "星空の誓い"
+      },
+      "tvdbShowId": 466524,
+      "tvdbId": 11716983,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11716983/screencap/6a9e559e51e7f.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": 25,
+      "airDate": "2026-09-20",
+      "title": {
+        "en": "The Forbidden Date",
+        "romaji": "Kindan no Date",
+        "ja": "禁断のデート"
+      },
+      "tvdbShowId": 466524,
+      "tvdbId": 11716984,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11716984/screencap/6aa79581beae5.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:24:35.330Z",
+    "lastFetched": "2026-11-22T00:49:52.860Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

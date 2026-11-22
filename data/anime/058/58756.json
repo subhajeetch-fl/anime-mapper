@@ -31,15 +31,11 @@
   "episodeLength": null,
   "aired": {
     "from": "2026-01-01T00:00:00+00:00",
-    "to": null
+    "to": "2026-01-01T00:00:00+00:00"
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -49,36 +45,57 @@
   },
   "genres": [
     "Action",
-    "Fantasy"
+    "Fantasy",
+    "Urban Fantasy"
   ],
   "studios": [
     "Studio Dotou"
   ],
   "producers": [
-    "Mimoid",
-    "CHOCOLATE",
-    "WACHAJACK",
-    "Kassen"
+    "CHOCOLATE"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1234/150968l.jpg",
     "banner": null,
     "color": "#e47828"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "Vuy6rEKE3jA",
+    "url": "https://www.youtube.com/watch?v=Vuy6rEKE3jA",
+    "thumbnail": "https://i.ytimg.com/vi/Vuy6rEKE3jA/hqdefault.jpg"
+  },
   "synopsis": "In 2026, Japan continues its isolation under the Edo Shogunate. Amidst strict social hierarchies, three individuals, treated as scums of society, cross paths in a prison cell destined for a fateful encounter. They join the dueling video platform \"KILLTUBE\" to pursue fortune and to win their freedom in a segregational world.\n\nIn an era dubbed the \"Age of Great Duels,\" where one can amass immense wealth simply by defeating the strong, they face discrimination from samurais and merchants seeking power and authority. As they break the limits of convention and claim victory after victory, they rise in popularity, becoming decorated celebrities of their time.\nHowever, just as they reach the height of their fame, they uncover the hidden truth behind \"KILLTUBE\"...\n\n(Source: Official YouTube Channel)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-30T19:54:01.144Z",
+    "lastFetched": "2026-11-22T00:43:30.453Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

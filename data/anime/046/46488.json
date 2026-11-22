@@ -28,13 +28,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": 23,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-07T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-22T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -43,251 +43,253 @@
     "time": "20:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 9,
-    "airingAt": 1788262200
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.44,
-    "anilistScore": 7.4,
+    "malScore": 7.47,
+    "anilistScore": 7.5,
     "kitsuRating": null
   },
   "genres": [
     "Comedy",
     "Girls Love",
-    "Drama",
-    "School Life",
+    "School",
     "Seinen",
-    "Shoujo Ai"
+    "Video Game",
+    "Drama"
   ],
   "studios": [
     "Diomedéa"
   ],
   "producers": [
+    "KADOKAWA",
     "Mainichi Broadcasting System",
-    "AT-X",
+    "diomedéa",
     "U-NEXT",
-    "BS NTV",
-    "Kadokawa",
-    "Bit grooove promotion",
-    "Pia"
+    "Pia",
+    "BS Nittele",
+    "AT-X"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1343/156268l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128757-kBnCRYXdyw58.jpg",
     "color": "#436bff"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "5PAsOIcot7I",
+    "url": "https://www.youtube.com/watch?v=5PAsOIcot7I",
+    "thumbnail": "https://i.ytimg.com/vi/5PAsOIcot7I/hqdefault.jpg"
+  },
   "synopsis": "A hot fighting game played at the girls' school!!\n\nAya transferred into Kuromi Girls Academy a month ago with the goal of changing herself into a proper lady. After meeting the breathtaking Shirayuri, Aya is blown away by her elegance and posterity. Imagine her surprise when she finds Shirayuri after school playing... a fighting game?! And if that wasn't perplexing enough, she is challenged to a duel by the unladylike Shirayuri! \n\n(Source: MU)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
-      "airDate": "2026-07-04",
+      "length": 25,
+      "airDate": "2026-07-07",
       "title": {
-        "en": "I`m Done with Fighting Games"
+        "en": "I`m Done with Fighting Games",
+        "romaji": "Kakugee wa Mou Yameru",
+        "ja": "格ゲーはもうやめる"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 402642,
+      "tvdbId": 10663118,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10663118/screencap/6a36371bb6b44.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
-      "airDate": "2026-07-04",
+      "length": 25,
+      "airDate": "2026-07-14",
       "title": {
-        "en": "Good Game"
+        "en": "Good Game",
+        "romaji": "Taiari Deshita",
+        "ja": "対ありでした"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 402642,
+      "tvdbId": 11875555,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875555/screencap/6a521da6db862.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-21",
       "title": {
-        "en": "Episode 3"
+        "en": "Late-Night Locals",
+        "ja": "真夜中の対戦会"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 402642,
+      "tvdbId": 11875557,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875557/screencap/6a5a089fd2e2b.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-28",
       "title": {
-        "en": "Episode 4"
+        "en": "Late-Night Study Sessions",
+        "ja": "真夜中の勉強会"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 402642,
+      "tvdbId": 11884023,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884023/screencap/6a63525781aef.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-04",
       "title": {
-        "en": "Episode 5"
+        "en": "The Night Before",
+        "ja": "前夜"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 402642,
+      "tvdbId": 11884024,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884024/screencap/6a6cab9b25975.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-11",
       "title": {
-        "en": "Episode 6"
+        "en": "A Noble Duel",
+        "ja": "崇高なる決闘"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 402642,
+      "tvdbId": 11884025,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884025/screencap/6a75a8da1d40b.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-18",
       "title": {
-        "en": "Episode 7"
+        "en": "The Lesser Devil",
+        "ja": "小さい悪魔"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 402642,
+      "tvdbId": 11884026,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884026/screencap/6a7ee624d7ac4.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-25",
       "title": {
-        "en": "Episode 8"
+        "en": "Guaranteed to Lose",
+        "ja": "確実に負ける"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 402642,
+      "tvdbId": 11884027,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884027/screencap/6a88174114583.jpg"
     },
-    "C1": {
-      "episode": "C1",
-      "length": "2m",
-      "airDate": "2026-07-04",
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-09-01",
       "title": {
-        "en": "Opening"
+        "en": "Playing for Fun",
+        "ja": "遊びのプレイ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 402642,
+      "tvdbId": 11884028,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884028/screencap/6a91529f2018b.jpg"
     },
-    "C2": {
-      "episode": "C2",
-      "length": "2m",
-      "airDate": "2026-07-04",
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-08",
       "title": {
-        "en": "Ending"
+        "en": "But I Did Think It",
+        "ja": "そう思ったんだ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 402642,
+      "tvdbId": 11886894,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11886894/screencap/6a9aa74adbb36.jpg"
     },
-    "T1": {
-      "episode": "T1",
-      "length": "2m",
-      "airDate": "2025-05-09",
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-15",
       "title": {
-        "en": "Teaser PV (1:49)"
+        "en": "The Beast",
+        "ja": "獣"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 402642,
+      "tvdbId": 11886895,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11886895/screencap/6aa3cb0da4ed6.jpg"
     },
-    "T2": {
-      "episode": "T2",
-      "length": "1m",
-      "airDate": "2026-05-01",
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-22",
       "title": {
-        "en": "Teaser PV 2 (0:59)"
+        "en": "Good Luck, Have Fun!",
+        "romaji": "Tai Yoro Desu!",
+        "ja": "対よろです!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T3": {
-      "episode": "T3",
-      "length": "2m",
-      "airDate": "2026-06-19",
-      "title": {
-        "en": "Main PV (1:49)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 402642,
+      "tvdbId": 11886896,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11886896/screencap/6aad165c0c80e.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T05:55:06.799Z",
+    "lastFetched": "2026-11-22T00:39:30.876Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

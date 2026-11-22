@@ -12,9 +12,9 @@
     "trakt": null,
     "traktType": null,
     "shikimori": 50388,
-    "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
+    "livechart": 10887,
+    "animeplanet": "taiko-no-tatsujin-2021",
+    "anisearch": 17312,
     "notify": null
   },
   "title": {
@@ -27,21 +27,17 @@
   },
   "type": "ONA",
   "source": "Game",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 110,
+  "episodeLength": 11,
   "aired": {
     "from": "2021-11-16T00:00:00+00:00",
-    "to": null
+    "to": "2023-03-29T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "fall",
+  "year": 2021,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -51,6 +47,7 @@
   },
   "genres": [
     "Comedy",
+    "Kids",
     "Music",
     "Slice of Life"
   ],
@@ -62,7 +59,7 @@
     "color": "#d6781a"
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "Taiko lover Kotarou from Taiko Village travels to Omiko City with his partner Don-chan in order to spread the greatness of Taiko across the world.",
   "sequence": [
     {
       "malId": 3724,
@@ -93,12 +90,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T14:12:40.035Z",
+    "lastFetched": "2026-11-22T00:40:16.200Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

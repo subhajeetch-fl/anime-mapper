@@ -28,13 +28,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
+  "episodeLength": 23,
   "aired": {
     "from": "2026-07-08T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-23T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -43,18 +43,16 @@
     "time": "23:45",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 6,
-    "airingAt": 1786545960
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.4,
-    "anilistScore": 7.1,
-    "kitsuRating": 7.54
+    "malScore": 7.2,
+    "anilistScore": 7.2,
+    "kitsuRating": null
   },
   "genres": [
     "Action",
+    "Adult Cast",
     "Fantasy",
     "Adventure",
     "Comedy"
@@ -64,23 +62,28 @@
     "Hayabusa Film"
   ],
   "producers": [
-    "TV Asahi",
-    "Square Enix",
-    "Nippon Columbia",
-    "KlockWorx",
     "NBCUniversal Entertainment Japan",
-    "JR East Marketing & Communications",
-    "Fujishouji",
-    "Drecom",
+    "TV Asahi",
     "BS Asahi",
-    "NK Animation"
+    "JR Higashi Nihon Kikaku",
+    "Drecom",
+    "KLOCKWORX",
+    "Nippon Columbia",
+    "Fujishouji",
+    "Square Enix",
+    "NK Animation",
+    "Hayabusa Film"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1100/157173l.jpg",
-    "banner": null,
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194829-mAQpjlKYA8c2.jpg",
     "color": "#aed6e4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "N_0FPI1a9Nw",
+    "url": "https://www.youtube.com/watch?v=N_0FPI1a9Nw",
+    "thumbnail": "https://i.ytimg.com/vi/N_0FPI1a9Nw/hqdefault.jpg"
+  },
   "synopsis": "Second season of Katainaka no Ossan, Kensei ni Naru.",
   "sequence": [
     {
@@ -95,15 +98,30 @@
       "episodes": 12,
       "seasonYear": 2025,
       "relationType": "PREQUEL"
+    },
+    {
+      "malId": null,
+      "title": {
+        "romaji": "Katainaka no Ossan, Kensei ni Naru III",
+        "english": null,
+        "native": "片田舎のおっさん、剣聖になる 第三期"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217232-8cC3Gg2BGCYU.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
     }
   ],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-08",
       "title": {
-        "en": "The Old Country Bumpkin Takes On a New Position"
+        "en": "The Old Country Bumpkin Takes On a New Position",
+        "romaji": "Katainaka no Ossan, Arata na Shokuba ni Iku",
+        "ja": "片田舎のおっさん, 新たな職場に行く"
       },
       "tvdbShowId": 452710,
       "tvdbId": 11301560,
@@ -115,10 +133,12 @@
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-15",
       "title": {
-        "en": "The Old Country Bumpkin Watches Them Grow"
+        "en": "The Old Country Bumpkin Watches Them Grow",
+        "romaji": "Katainaka no Ossan, Seichou o Mimamoru",
+        "ja": "片田舎のおっさん, 成長を見守る"
       },
       "tvdbShowId": 452710,
       "tvdbId": 11870487,
@@ -130,10 +150,12 @@
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-22",
       "title": {
-        "en": "The Old Country Bumpkin Sees Himself in an Old Man"
+        "en": "The Old Country Bumpkin Sees Himself in an Old Man",
+        "romaji": "Katainaka no Ossan, Rouhai ni Onore o Kasaneru",
+        "ja": "片田舎のおっさん, 老輩に己を重ねる"
       },
       "tvdbShowId": 452710,
       "tvdbId": 11870488,
@@ -141,14 +163,16 @@
       "episodeNumber": 3,
       "absoluteEpisodeNumber": 15,
       "runtime": 23,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870488/screencap/6a5fe970b5950.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-29",
       "title": {
-        "en": "Episode 4"
+        "en": "The Old Country Bumpkin Returns Home",
+        "romaji": "Katainaka no Ossan, Kisei Suru",
+        "ja": "片田舎のおっさん, 帰省する"
       },
       "tvdbShowId": 452710,
       "tvdbId": 11870489,
@@ -156,79 +180,156 @@
       "episodeNumber": 4,
       "absoluteEpisodeNumber": 16,
       "runtime": 23,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870489/screencap/6a6969d10fc82.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-05",
       "title": {
-        "en": "Episode 5"
+        "en": "The Old Country Bumpkin Lets Out a Roar",
+        "romaji": "Katainaka no Ossan, Otakebi o Ageru",
+        "ja": "片田舎のおっさん, 雄叫びをあげる"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452710,
+      "tvdbId": 11893528,
+      "seasonNumber": 2,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 17,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11893528/screencap/6a729751a765d.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-12",
       "title": {
-        "en": "Episode 6"
+        "en": "The Old Country Bumpkin Faces Off Against His Father",
+        "romaji": "Katainaka no Ossan, Chichi to Taiji Suru",
+        "ja": "片田舎のおっさん, 父と対峙する"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452710,
+      "tvdbId": 11893529,
+      "seasonNumber": 2,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 18,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11893529/screencap/6a7bd6ead89bc.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-19",
       "title": {
-        "en": "Episode 7"
+        "en": "The Old Country Bumpkin Gets an Invitation from Nobility",
+        "romaji": "Katainaka no Ossan, Kizoku ni Manekareru",
+        "ja": "片田舎のおっさん, 貴族に招かれる"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452710,
+      "tvdbId": 11893530,
+      "seasonNumber": 2,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 19,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11893530/screencap/6a834cb34a1a9.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-26",
       "title": {
-        "en": "Episode 8"
+        "en": "The Old Country Bumpkin Gets a Marriage Proposal",
+        "romaji": "Katainaka no Ossan, Kyuukon Sareru",
+        "ja": "片田舎のおっさん, 求婚される"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452710,
+      "tvdbId": 11893531,
+      "seasonNumber": 2,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 20,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11893531/screencap/6a8ee482345ee.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-09-02",
+      "title": {
+        "en": "The Old Country Bumpkin Goes to the Holy City",
+        "romaji": "Katainaka no Ossan, Kyouto ni Iku",
+        "ja": "片田舎のおっさん, 教都に行く"
+      },
+      "tvdbShowId": 452710,
+      "tvdbId": 11921528,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11921528/screencap/6a981c738f62a.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-09",
+      "title": {
+        "en": "The Old Country Bumpkin Sees in the New Year",
+        "romaji": "Katainaka no Ossan, Shinnen o Mukaeru",
+        "ja": "片田舎のおっさん, 新年を迎える"
+      },
+      "tvdbShowId": 452710,
+      "tvdbId": 11921529,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11921529/screencap/6aa0aeaa90214.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-16",
+      "title": {
+        "en": "The Old Country Bumpkin Flies into a Rage",
+        "romaji": "Katainaka no Ossan, Hageshiku Ikidooru",
+        "ja": "片田舎のおっさん, 激しく憤る"
+      },
+      "tvdbShowId": 452710,
+      "tvdbId": 11921530,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11921530/screencap/6aa9f282057d9.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-23",
+      "title": {
+        "en": "The Old Country Bumpkin Goes Home",
+        "romaji": "Katainaka no Ossan, Wagaya ni Kaeru",
+        "ja": "片田舎のおっさん, 我が家に帰る"
+      },
+      "tvdbShowId": 452710,
+      "tvdbId": 11921531,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11921531/screencap/6ab3271889e07.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-08-07T11:48:26.918Z",
+    "lastFetched": "2026-11-22T00:48:44.631Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

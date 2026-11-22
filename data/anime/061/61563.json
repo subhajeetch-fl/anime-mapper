@@ -32,16 +32,12 @@
   "episodeCount": 36,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2026-01-01T00:00:00+00:00",
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -57,9 +53,7 @@
   "studios": [
     "CG Year"
   ],
-  "producers": [
-    "iQIYI"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1976/149540l.jpg",
     "banner": null,
@@ -70,12 +64,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:34:33.495Z",
+    "lastFetched": "2026-11-22T00:47:45.541Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

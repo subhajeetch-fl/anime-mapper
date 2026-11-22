@@ -30,13 +30,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 19,
-  "episodeLength": 23,
+  "episodeLength": 25,
   "aired": {
     "from": "2026-04-08T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-30T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2026,
@@ -45,47 +45,45 @@
     "time": "22:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 12,
-    "airingAt": 1786539600
-  },
+  "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": 9.17,
+    "malScore": 9.05,
     "anilistScore": 9,
-    "kitsuRating": 8.69
+    "kitsuRating": null
   },
   "genres": [
     "Drama",
     "Fantasy",
+    "Isekai",
+    "Psychological",
     "Suspense",
+    "Time Travel",
     "Action",
     "Adventure",
-    "Psychological",
     "Romance",
-    "Thriller",
-    "Isekai",
-    "Elf",
-    "Time Travel",
-    "Magic"
+    "Thriller"
   ],
   "studios": [
     "White Fox"
   ],
   "producers": [
-    "AT-X",
-    "Magic Capsule",
-    "Memory-Tech",
+    "KADOKAWA",
     "Hakuhodo DY Music & Pictures",
-    "Kadokawa",
-    "DAXEL"
+    "AT-X",
+    "DAXEL",
+    "Memory-Tech"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1540/155824l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189046-MDk2CaVuRWpb.jpg",
     "color": "#e49350"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "i8EjBP85cCc",
+    "url": "https://www.youtube.com/watch?v=i8EjBP85cCc",
+    "thumbnail": "https://i.ytimg.com/vi/i8EjBP85cCc/hqdefault.jpg"
+  },
   "synopsis": "In the deadly battle at the Watergate City of Priestella, Subaru and his allies barely emerged victorious—but their triumph came at a great cost. Through the \"Authority of Gluttony,\" Rem was put into suspended animation, while Crusch's memories and even Julius’s name were devoured. As he searches for a way to save them, Subaru learns of the \"Sage\" Shaula—an all-seeing being said to possess every form of knowledge. His next destination is the Pleiades Watchtower, home to the Sage, the farthest tower standing in the vast, uncharted desert known as the Auguria Dunes—a place so perilous that even the mightiest \"Sword Saint,\" Reinhard, failed to conquer it. The fury of nature, unknown magical beasts, and unimaginable dangers lie ahead. Together with his friends, Subaru embarks on a life-risking journey to reclaim what was lost.\n\n(Source: Kadokawa, edited)",
   "sequence": [
     {
@@ -110,18 +108,33 @@
       },
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210687-H54G1bTwCBpV.jpg",
       "format": "ONA",
-      "episodes": null,
+      "episodes": 19,
       "seasonYear": 2026,
       "relationType": "SPIN_OFF"
+    },
+    {
+      "malId": 65450,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 5th Season",
+        "english": null,
+        "native": "Re:ゼロから始める異世界生活 5th season"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx219904-DQOTtKhwpB8S.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
     }
   ],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-08",
       "title": {
-        "en": "The Reason I`m Taking You with Me / Gorgeous Tiger Reloaded"
+        "en": "The Reason I`m Taking You with Me / Gorgeous Tiger Reloaded",
+        "romaji": "Kimi o Tsuredasu Riyuu / Gorgeous Tiger Reloaded",
+        "ja": "君を連れ出す理由 / ゴージャス・タイガー・リローデッド"
       },
       "tvdbShowId": 305089,
       "tvdbId": 11714303,
@@ -133,10 +146,12 @@
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-15",
       "title": {
-        "en": "Overcome Sand Time"
+        "en": "Overcome Sand Time",
+        "romaji": "Suna Jikan o Koeru",
+        "ja": "砂時間を越えろ"
       },
       "tvdbShowId": 305089,
       "tvdbId": 11714304,
@@ -148,10 +163,12 @@
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-22",
       "title": {
-        "en": "The Keeper of the Watchtower"
+        "en": "The Keeper of the Watchtower",
+        "romaji": "Kanshitou no Bannin",
+        "ja": "監視塔の番人"
       },
       "tvdbShowId": 305089,
       "tvdbId": 11714305,
@@ -163,10 +180,12 @@
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-29",
       "title": {
-        "en": "A White Sky Asterism"
+        "en": "A White Sky Asterism",
+        "romaji": "Shiroi Hoshizora no Asterism",
+        "ja": "白い星空のアステリズム"
       },
       "tvdbShowId": 305089,
       "tvdbId": 11714306,
@@ -178,10 +197,12 @@
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-06",
       "title": {
-        "en": "Stick Swinger"
+        "en": "Stick Swinger",
+        "romaji": "Boufuri",
+        "ja": "棒振り"
       },
       "tvdbShowId": 305089,
       "tvdbId": 11714307,
@@ -193,10 +214,12 @@
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-13",
       "title": {
-        "en": "Julius Juukulius"
+        "en": "Julius Juukulius",
+        "romaji": "Julius Juukulius",
+        "ja": "ユリウス・ユークリウス"
       },
       "tvdbShowId": 305089,
       "tvdbId": 11714308,
@@ -208,10 +231,12 @@
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-20",
       "title": {
-        "en": "Walking out of the Convenience Store and into a Wondrous World"
+        "en": "Walking out of the Convenience Store and into a Wondrous World",
+        "romaji": "Konbini o Deru to, Soko wa Fushigi no Sekai Deshita",
+        "ja": "コンビニを出ると, そこは不思議の世界でした"
       },
       "tvdbShowId": 305089,
       "tvdbId": 11714309,
@@ -223,10 +248,12 @@
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-27",
       "title": {
-        "en": "Who Are You?"
+        "en": "Who Are You?",
+        "romaji": "Omae wa Dare Da",
+        "ja": "オマエハダレダ"
       },
       "tvdbShowId": 305089,
       "tvdbId": 11714310,
@@ -238,10 +265,12 @@
     },
     "9": {
       "episode": "9",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-03",
       "title": {
-        "en": "Empty Shell"
+        "en": "Empty Shell",
+        "romaji": "Zangai",
+        "ja": "残骸"
       },
       "tvdbShowId": 305089,
       "tvdbId": 11714311,
@@ -253,10 +282,12 @@
     },
     "10": {
       "episode": "10",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-10",
       "title": {
-        "en": "Murder Is a Habit"
+        "en": "Murder Is a Habit",
+        "romaji": "Satsujin wa Kuse ni Naru",
+        "ja": "殺人は癖になる"
       },
       "tvdbShowId": 305089,
       "tvdbId": 11714312,
@@ -268,10 +299,12 @@
     },
     "11": {
       "episode": "11",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-17",
       "title": {
-        "en": "Re:Zero - Starting Life in Another World"
+        "en": "Re:Zero - Starting Life in Another World",
+        "romaji": "Re:Zero kara Hajimaru Isekai Seikatsu",
+        "ja": "Re:ゼロから始まる異世界生活"
       },
       "tvdbShowId": 305089,
       "tvdbId": 11714313,
@@ -283,10 +316,12 @@
     },
     "12": {
       "episode": "12",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-12",
       "title": {
-        "en": "Episode 12"
+        "en": "From Now On",
+        "romaji": "Kore kara no Hanashi",
+        "ja": "これからの話"
       },
       "tvdbShowId": 305089,
       "tvdbId": 11714314,
@@ -294,29 +329,33 @@
       "episodeNumber": 12,
       "absoluteEpisodeNumber": 78,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714314/screencap/6a735b7f999d0.jpg"
     },
     "13": {
       "episode": "13",
-      "length": "25m",
+      "length": 30,
       "airDate": "2026-08-19",
       "title": {
-        "en": "Episode 13"
+        "en": "Stand Up",
+        "romaji": "Tachinasai",
+        "ja": "立ちなさい"
       },
       "tvdbShowId": 305089,
       "tvdbId": 11714315,
       "seasonNumber": 4,
       "episodeNumber": 13,
       "absoluteEpisodeNumber": 79,
-      "runtime": 24,
-      "image": null
+      "runtime": 29,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714315/screencap/6a84210a7e528.jpg"
     },
     "14": {
       "episode": "14",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-26",
       "title": {
-        "en": "Episode 14"
+        "en": "Five Obstacles",
+        "romaji": "Itsutsu no Shougai",
+        "ja": "五つの障害"
       },
       "tvdbShowId": 305089,
       "tvdbId": 11714316,
@@ -324,14 +363,16 @@
       "episodeNumber": 14,
       "absoluteEpisodeNumber": 80,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714316/screencap/6a8d5bc17d5c5.jpg"
     },
     "15": {
       "episode": "15",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-09-02",
       "title": {
-        "en": "Episode 15"
+        "en": "A Single-Minded Star",
+        "romaji": "Ichizu na Hoshi",
+        "ja": "一途な星"
       },
       "tvdbShowId": 305089,
       "tvdbId": 11714317,
@@ -339,14 +380,84 @@
       "episodeNumber": 15,
       "absoluteEpisodeNumber": 81,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714317/screencap/6a969f6bf15ab.jpg"
+    },
+    "16": {
+      "episode": "16",
+      "length": 30,
+      "airDate": "2026-09-09",
+      "title": {
+        "en": "Subaru Natsuki",
+        "romaji": "Natsuki Subaru",
+        "ja": "ナツキ・スバル"
+      },
+      "tvdbShowId": 305089,
+      "tvdbId": 11714318,
+      "seasonNumber": 4,
+      "episodeNumber": 16,
+      "absoluteEpisodeNumber": 82,
+      "runtime": 27,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714318/screencap/6a9fd0de754e7.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": 25,
+      "airDate": "2026-09-16",
+      "title": {
+        "en": "Good Loser",
+        "romaji": "Good Loser",
+        "ja": "グッドルーザー"
+      },
+      "tvdbShowId": 305089,
+      "tvdbId": 11714319,
+      "seasonNumber": 4,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 83,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714319/screencap/6aa90c4b0fe52.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": 25,
+      "airDate": "2026-09-23",
+      "title": {
+        "en": "Ram",
+        "romaji": "Ram",
+        "ja": "ラム"
+      },
+      "tvdbShowId": 305089,
+      "tvdbId": 11714320,
+      "seasonNumber": 4,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 84,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714320/screencap/6aafd14d9dd22.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": 45,
+      "airDate": "2026-09-30",
+      "title": {
+        "en": "Shaula / Hero",
+        "romaji": "Shaula / Eiyuu",
+        "ja": "シャウラ / 英雄"
+      },
+      "tvdbShowId": 305089,
+      "tvdbId": 11714321,
+      "seasonNumber": 4,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 85,
+      "runtime": 41,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714321/screencap/6abb811564733.jpg"
     },
     "S1": {
       "episode": "S1",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-04-08",
       "title": {
-        "en": "Re:Zero - Starting Break Time from Zero #1: Emilia Party Struggles"
+        "en": "Re:Zero - Starting Break Time from Zero #1: Emilia Party Struggles",
+        "romaji": "Re:Zero kara Hajimeru Break Time #1: Emilia Jin`ei Funtouki",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #1 エミリア陣営奮闘記"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -358,10 +469,12 @@
     },
     "S2": {
       "episode": "S2",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-04-15",
       "title": {
-        "en": "Re:Zero - Starting Break Time from Zero #2: Emilia Party Struggles"
+        "en": "Re:Zero - Starting Break Time from Zero #2: Emilia Party Struggles",
+        "romaji": "Re:Zero kara Hajimeru Break Time #2: Emilia Jin`ei Funtouki",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #2 エミリア陣営奮闘記"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -373,10 +486,12 @@
     },
     "S3": {
       "episode": "S3",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-04-22",
       "title": {
-        "en": "Re:Zero - Starting Break Time from Zero #3: Everyone Is Quite a Handful, I Suppose."
+        "en": "Re:Zero - Starting Break Time from Zero #3: Everyone Is Quite a Handful, I Suppose.",
+        "romaji": "Re:Zero kara Hajimeru Break Time #3: Minna Komattamon Kashira",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #3 みんな困ったもんかしら"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -388,10 +503,12 @@
     },
     "S4": {
       "episode": "S4",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-04-29",
       "title": {
-        "en": "Re:Zero - Starting Break Time from Zero #4: Everyone Is Quite a Handful, I Suppose."
+        "en": "Re:Zero - Starting Break Time from Zero #4: Everyone Is Quite a Handful, I Suppose.",
+        "romaji": "Re:Zero kara Hajimeru Break Time #4: Minna Komattamon Kashira",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #4 みんな困ったもんかしら"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -403,10 +520,12 @@
     },
     "S5": {
       "episode": "S5",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-05-06",
       "title": {
-        "en": "Re:Zero - Starting Break Time from Zero #5: Walk-the-Talk Log"
+        "en": "Re:Zero - Starting Break Time from Zero #5: Walk-the-Talk Log",
+        "romaji": "Re:Zero kara Hajimeru Break Time #5: Yuugenjikkou Bibouroku",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #5 有言実行備忘録"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -418,10 +537,12 @@
     },
     "S6": {
       "episode": "S6",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-05-13",
       "title": {
-        "en": "Re:Zero - Starting Break Time from Zero #6: Walk-the-Talk Log"
+        "en": "Re:Zero - Starting Break Time from Zero #6: Walk-the-Talk Log",
+        "romaji": "Re:Zero kara Hajimeru Break Time #6: Yuugenjikkou Bibouroku",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #6 有言実行備忘録"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -433,10 +554,12 @@
     },
     "S7": {
       "episode": "S7",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-05-20",
       "title": {
-        "en": "Re:Zero - Starting Break Time from Zero #7: Walk-the-Talk Log"
+        "en": "Re:Zero - Starting Break Time from Zero #7: Walk-the-Talk Log",
+        "romaji": "Re:Zero kara Hajimeru Break Time #7: Yuugenjikkou Bibouroku",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #7 有言実行備忘録"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -448,10 +571,12 @@
     },
     "S8": {
       "episode": "S8",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-05-27",
       "title": {
-        "en": "Re:Zero - Starting Break Time from Zero #8: The Wiry-Armed Success in Kararagi"
+        "en": "Re:Zero - Starting Break Time from Zero #8: The Wiry-Armed Success in Kararagi",
+        "romaji": "Re:Zero kara Hajimeru Break Time #8: Kararagi Hosoude Hanjouki",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #8 カララギ細腕繁盛期"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -463,10 +588,12 @@
     },
     "S9": {
       "episode": "S9",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-06-03",
       "title": {
-        "en": "Re:Zero - Starting Break Time from Zero #9: Emilia Party Struggles"
+        "en": "Re:Zero - Starting Break Time from Zero #9: Emilia Party Struggles",
+        "romaji": "Re:Zero kara Hajimeru Break Time #9: Emilia Jin`ei Funtouki",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #9 エミリア陣営奮闘記"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -478,10 +605,12 @@
     },
     "S10": {
       "episode": "S10",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-06-10",
       "title": {
-        "en": "Re:Zero - Starting Break Time from Zero #10: Emilia Party Struggles"
+        "en": "Re:Zero - Starting Break Time from Zero #10: Emilia Party Struggles",
+        "romaji": "Re:Zero kara Hajimeru Break Time #10: Emilia Jin`ei Funtouki",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #10 エミリア陣営奮闘記"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -493,10 +622,12 @@
     },
     "S11": {
       "episode": "S11",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-06-17",
       "title": {
-        "en": "Re:Zero - Starting Break Time from Zero #11: Golden Lion & the Sword Saint"
+        "en": "Re:Zero - Starting Break Time from Zero #11: Golden Lion & the Sword Saint",
+        "romaji": "Re:Zero kara Hajimeru Break Time #11: Kinjishi to Kensei",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #11 金獅子と剣聖"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -508,10 +639,12 @@
     },
     "S20": {
       "episode": "S20",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-24",
       "title": {
-        "en": "Episode S20"
+        "en": "Episode S20",
+        "romaji": "Soushitsu Hen Kansou Special! In Tottori Sakyuu: Zenpen",
+        "ja": "喪失編完走スペシャル! in鳥取砂丘 前編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -523,10 +656,12 @@
     },
     "S21": {
       "episode": "S21",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-01",
       "title": {
-        "en": "Episode S21"
+        "en": "Episode S21",
+        "romaji": "Soushitsu Hen Kansou Special! In Tottori Sakyuu: Kouhen",
+        "ja": "喪失編完走スペシャル! in鳥取砂丘 後編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -536,12 +671,14 @@
       "runtime": null,
       "image": null
     },
-    "C1": {
-      "episode": "C1",
-      "length": "2m",
-      "airDate": "2026-04-15",
+    "S12": {
+      "episode": "S12",
+      "length": 3,
+      "airDate": "2026-08-12",
       "title": {
-        "en": "Opening"
+        "en": "Re:Zero - Starting Break Time from Zero #12: Diary of the Dark Work Sisters",
+        "romaji": "Re:Zero kara Hajimeru Break Time #12: Ura Kagyou Shimai An`yaku Nippou",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #12 裏稼業姉妹暗躍日報"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -551,12 +688,14 @@
       "runtime": null,
       "image": null
     },
-    "C2": {
-      "episode": "C2",
-      "length": "2m",
-      "airDate": "2026-04-22",
+    "S13": {
+      "episode": "S13",
+      "length": 3,
+      "airDate": "2026-08-19",
       "title": {
-        "en": "Ending"
+        "en": "Re:Zero - Starting Break Time from Zero #13: Golden Lion & the Sword Saint",
+        "romaji": "Re:Zero kara Hajimeru Break Time #13: Kinjishi to Kensei",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #13 金獅子と剣聖"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -566,12 +705,14 @@
       "runtime": null,
       "image": null
     },
-    "T1": {
-      "episode": "T1",
-      "length": "1m",
-      "airDate": "2025-03-27",
+    "S14": {
+      "episode": "S14",
+      "length": 3,
+      "airDate": "2026-08-26",
       "title": {
-        "en": "News Flash (1:00)"
+        "en": "Re:Zero - Starting Break Time from Zero #14: Golden Lion & the Sword Saint",
+        "romaji": "Re:Zero kara Hajimeru Break Time #14: Kinjishi to Kensei",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #14 金獅子と剣聖"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -581,12 +722,14 @@
       "runtime": null,
       "image": null
     },
-    "T2": {
-      "episode": "T2",
-      "length": "2m",
-      "airDate": "2025-07-06",
+    "S15": {
+      "episode": "S15",
+      "length": 3,
+      "airDate": "2026-09-02",
       "title": {
-        "en": "Teaser PV (1:15)"
+        "en": "Re:Zero - Starting Break Time from Zero #15: Cheers for Me",
+        "romaji": "Re:Zero kara Hajimeru Break Time #15: Warawa Banzai",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #15 妾バンザイ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -596,12 +739,14 @@
       "runtime": null,
       "image": null
     },
-    "T3": {
-      "episode": "T3",
-      "length": "2m",
-      "airDate": "2025-11-16",
+    "S16": {
+      "episode": "S16",
+      "length": 3,
+      "airDate": "2026-09-09",
       "title": {
-        "en": "Main PV 1 (1:54)"
+        "en": "Re:Zero - Starting Break Time from Zero #16: Cheers for Me",
+        "romaji": "Re:Zero kara Hajimeru Break Time #16: Warawa Banzai",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #16 妾バンザイ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -611,12 +756,14 @@
       "runtime": null,
       "image": null
     },
-    "T4": {
-      "episode": "T4",
-      "length": "5m",
-      "airDate": "2026-01-17",
+    "S17": {
+      "episode": "S17",
+      "length": 4,
+      "airDate": "2026-09-16",
       "title": {
-        "en": "10th Anniversary Digest PV (4:32)"
+        "en": "Re:Zero - Starting Break Time from Zero #17: The Pleiades Travelogue",
+        "romaji": "Re:Zero kara Hajimeru Break Time #17: Mutsuraboshi Man`yuuki",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #17 六連星漫遊記"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -626,12 +773,31 @@
       "runtime": null,
       "image": null
     },
-    "T5": {
-      "episode": "T5",
-      "length": "2m",
-      "airDate": "2026-01-17",
+    "S18": {
+      "episode": "S18",
+      "length": 3,
+      "airDate": "2026-09-23",
       "title": {
-        "en": "Main PV 2 (1:57)"
+        "en": "Re:Zero - Starting Break Time from Zero #18: The Pleiades Travelogue",
+        "romaji": "Re:Zero kara Hajimeru Break Time #18: Mutsuraboshi Man`yuuki",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #18 六連星漫遊記"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S19": {
+      "episode": "S19",
+      "length": 3,
+      "airDate": "2026-09-30",
+      "title": {
+        "en": "Re:Zero - Starting Break Time from Zero #19: Scorpion Tail",
+        "romaji": "Re:Zero kara Hajimeru Break Time #19: Sasori no Otogibanashi",
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #19 サソリのおとぎ話"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -643,15 +809,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-08-07T11:46:52.674Z",
+    "lastFetched": "2026-11-22T00:47:09.722Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

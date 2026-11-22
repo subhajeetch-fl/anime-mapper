@@ -35,30 +35,26 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 11,
-  "episodeLength": 4,
+  "episodeLength": 5,
   "aired": {
     "from": "2020-05-01T00:00:00+00:00",
-    "to": "2021-11-30"
+    "to": "2021-11-30T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "spring",
+  "year": 2020,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 8.21,
+    "malScore": 8.18,
     "anilistScore": 8.1,
-    "kitsuRating": 7.68
+    "kitsuRating": null
   },
   "genres": [
-    "Suspense",
-    "Mystery",
+    "Music",
     "Psychological",
-    "Music"
+    "Suspense",
+    "Mystery"
   ],
   "studios": [
     "OTOIRO"
@@ -69,7 +65,11 @@
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128862-HBG4giB3bOLI.jpg",
     "color": "#e45d35"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "RcqXCnAhQlI",
+    "url": "https://www.youtube.com/watch?v=RcqXCnAhQlI",
+    "thumbnail": "https://i.ytimg.com/vi/RcqXCnAhQlI/hqdefault.jpg"
+  },
   "synopsis": "Es awakens in the facility Milgram to find a strange talking animal named Jackalope staring them down. Soon, they learn their purpose: as the prison guard, Es must delve into the psyches of 10 inmates, each of them imprisoned for causing the loss of life in some form or another. Their fates rest in Es' hands. Do the means justify an end, and how much does intent matter if the result is death? No matter how the lines between good and evil, right and wrong, and just and cruel are blurred, there are only two options Es can choose between: innocent or guilty.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
@@ -88,15 +88,16 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T14:12:00.064Z",
+    "lastFetched": "2026-11-22T00:39:32.755Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

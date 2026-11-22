@@ -13,7 +13,7 @@
     "traktType": "shows",
     "shikimori": 61280,
     "livechart": 13106,
-    "animeplanet": "kore-kaite-shine",
+    "animeplanet": "draw-this-then-die",
     "anisearch": 20331,
     "notify": "dDU6tGoNR"
   },
@@ -23,18 +23,19 @@
     "native": "これ描いて死ね",
     "synonyms": [
       "Gambar Ini, Lalu Mati Sana!",
-      "วาดเรื่องนี้ก่อนแล้วค่อยตาย"
+      "วาดเรื่องนี้ก่อนแล้วค่อยตาย",
+      "畫完這個再去死"
     ]
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 23,
   "aired": {
     "from": "2026-07-03T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-25T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -43,167 +44,265 @@
     "time": "23:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 6,
-    "airingAt": 1786113000
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.48,
-    "anilistScore": 7.6,
+    "malScore": 8.05,
+    "anilistScore": 8.1,
     "kitsuRating": null
   },
   "genres": [
+    "CGDCT",
     "Comedy",
+    "Otaku Culture",
+    "Shounen",
     "Slice of Life"
   ],
   "studios": [
     "Shin-Ei Animation"
   ],
   "producers": [
-    "Miracle Bus",
-    "Bit grooove promotion"
+    "Nippon Television Network",
+    "Shin-Ei Animation",
+    "Shogakukan",
+    "VAP",
+    "Shogakukan-Shueisha Productions",
+    "Frontier Works"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1649/154997l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188525-Vnei12N4wZsM.jpg",
     "color": "#e48650"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "jI61NtGuxV4",
+    "url": "https://www.youtube.com/watch?v=jI61NtGuxV4",
+    "thumbnail": "https://i.ytimg.com/vi/jI61NtGuxV4/hqdefault.jpg"
+  },
   "synopsis": "Ai Yasumi, a first-year high school student living on Izu-Oshima, loves manga more than anything. When she learns that her long-admired, yet long-inactive, favorite manga artist Hoshi no Rei will be exhibiting at COMITIA, she sets off on a journey to Tokyo.\n\nWhat she doesn't expect, however, is that a fateful encounter at the event will change her life forever.\n\n\"How does one become a manga artist?\" Ai steps into the world of manga creation—a path she thought she understood, yet knows so little about. This is the story of a girl taking her first steps down the road to becoming a mangaka.\n\n(Source: MAL News)",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 65071,
+      "title": {
+        "romaji": "Kore Kaite Shine 2nd Season",
+        "english": null,
+        "native": "これ描いて死ね 第2期"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217329-Dquyz6oVKqEE.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
+    }
+  ],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-03",
       "title": {
-        "en": "Magic House: What Would a Manga Protagonist Do Here?"
+        "en": "Magic House: What Would a Manga Protagonist Do Here?",
+        "romaji": "Mahou Yashiki: Konna Toki, Manga no Shujinkou nara?",
+        "ja": "魔法屋敷 こんなとき, 漫画の主人公なら?"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461714,
+      "tvdbId": 11383395,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11383395/screencap/6a42416c7570c.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-10",
       "title": {
-        "en": "You Are Brilliant: Drawing Manga Is Hard"
+        "en": "You Are Brilliant: Drawing Manga Is Hard",
+        "romaji": "Anata wa Kagayaite Iru: Manga o Kaku no wa Taihen de Aru",
+        "ja": "あなたは輝いている 漫画を描くのは大変である"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461714,
+      "tvdbId": 11871249,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871249/screencap/6a4b8bea372d4.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-17",
       "title": {
-        "en": "Episode 3"
+        "en": "Kokoro`s Heart: Draw This, Then Die!!!!",
+        "ja": "心の心 これ描いて死ね!!!!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461714,
+      "tvdbId": 11871250,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871250/screencap/6a54bdc3ed1af.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-24",
       "title": {
-        "en": "Episode 4"
+        "en": "Utopia: Making Manga`s Better with Others",
+        "ja": "ユートピア 漫画づくりに仲間はいるほうがいい"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461714,
+      "tvdbId": 11871251,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871251/screencap/6a5e031d9d206.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-31",
       "title": {
-        "en": "Episode 5"
+        "en": "Let`s All Go Together! Put Your Feelings into Manga",
+        "ja": "みんなで行こう! 漫画に「想い」をこめよう"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461714,
+      "tvdbId": 11871252,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871252/screencap/6a6757278369f.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-07",
       "title": {
-        "en": "Episode 6"
+        "en": "Comitia: Let`s Make Manga That`s Even More Interesting!",
+        "ja": "コミティア もっと面白い漫画を描こう!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461714,
+      "tvdbId": 11871253,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871253/screencap/6a705e25c7a08.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
-      "airDate": "2026-08-14",
+      "length": 25,
+      "airDate": "2026-08-21",
       "title": {
-        "en": "Episode 7"
+        "en": "The Lost World: Draw with the Intent to Kill",
+        "ja": "ロストワールド 殺すつもりで描こう"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461714,
+      "tvdbId": 11871254,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871254/screencap/6a82d1363d997.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
-      "airDate": "2026-08-21",
+      "length": 25,
+      "airDate": "2026-08-28",
       "title": {
-        "en": "Episode 8"
+        "en": "Touch: 100 Things I Want to Draw for Manga!!!",
+        "ja": "タッチ 漫画で描きたい 100のコト!!!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461714,
+      "tvdbId": 11871255,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871255/screencap/6a8c0a3fe4f29.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-09-04",
+      "title": {
+        "en": "Surfing the Cyber Seas: Draw for Yourself, Not for Others!",
+        "ja": "電子の海へ 誰のためでもなく, 自分のために描こう!"
+      },
+      "tvdbShowId": 461714,
+      "tvdbId": 11871256,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871256/screencap/6a95472d53e9f.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-11",
+      "title": {
+        "en": "90% of Everything Is Crap: I Need Friends to Become Stronger Than Mama",
+        "ja": "この世の90%はカスである ママより強くなるには「友達」が必要である"
+      },
+      "tvdbShowId": 461714,
+      "tvdbId": 11871257,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871257/screencap/6a9e818f28cb9.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-18",
+      "title": {
+        "en": "The Two of Us ~ Partners Who Complement Each Other Are Precious!",
+        "ja": "ふたり 補いあえる仲間は尊い!"
+      },
+      "tvdbShowId": 461714,
+      "tvdbId": 11871258,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871258/screencap/6aa7bde7f1ce8.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-25",
+      "title": {
+        "en": "Next World: Draw What You Love. Now and Forever...",
+        "romaji": "Kitarubeki Sekai: Suki na Mono o Egakou. Kono Saki mo, Zutto...",
+        "ja": "来るべき世界 好きなものを描こう. この先も, ずっと..."
+      },
+      "tvdbShowId": 461714,
+      "tvdbId": 11871259,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871259/screencap/6ab0f9cf20c3a.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-08-07T11:46:39.533Z",
+    "lastFetched": "2026-11-22T00:46:56.786Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

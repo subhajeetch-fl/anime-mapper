@@ -5,7 +5,7 @@
     "mal": 62270,
     "anilist": 197543,
     "anidb": 19829,
-    "kitsu": null,
+    "kitsu": 50963,
     "simkl": 2991028,
     "tmdb": null,
     "tvdb": null,
@@ -29,26 +29,22 @@
   },
   "type": "Movie",
   "source": "Mixed media",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 60,
   "aired": {
-    "from": "2026-01-01T00:00:00+00:00",
-    "to": null
+    "from": "2026-10-16T00:00:00+00:00",
+    "to": "2026-10-16T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
-    "anilistScore": null,
+    "anilistScore": 6.4,
     "kitsuRating": null
   },
   "genres": [
@@ -56,16 +52,26 @@
     "Music"
   ],
   "studios": [
-    "NICHICALINE"
+    "Nichicaline"
   ],
-  "producers": [],
+  "producers": [
+    "Bushiroad",
+    "TOKYO MX",
+    "Good Smile Company",
+    "Horipro International",
+    "Ultra Super Pictures"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1438/154964l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1080/160621l.jpg",
     "banner": null,
     "color": "#4393e4"
   },
-  "trailer": null,
-  "synopsis": "New movie for BanG Dream! Ave Mujica.",
+  "trailer": {
+    "youtubeId": "Sr1w-prNbH0",
+    "url": "https://www.youtube.com/watch?v=Sr1w-prNbH0",
+    "thumbnail": "https://i.ytimg.com/vi/Sr1w-prNbH0/hqdefault.jpg"
+  },
+  "synopsis": "More than half a year has passed since Ave Mujica's comeback, and spring has arrived. The band's popularity continues to grow, while each member's individual activities are also gaining momentum. The next venue Sakiko proposes is a members-only masquerade ball.\n\nWhat lies behind the intentions of the girl who swore to become a god...?\n\n(Source: Official site, translated)",
   "sequence": [
     {
       "malId": 56653,
@@ -81,17 +87,34 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 0,
+      "airDate": "2026-10-16",
+      "title": {
+        "en": "Complete Movie"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T00:25:45.236Z",
+    "lastFetched": "2026-11-22T00:50:12.784Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

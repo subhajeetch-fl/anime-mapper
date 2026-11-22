@@ -49,7 +49,7 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": 24,
+  "episodeLength": 25,
   "aired": {
     "from": "2023-04-14T00:00:00+00:00",
     "to": null
@@ -62,37 +62,39 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 148,
-    "airingAt": 1788515700
+    "episode": 159,
+    "airingAt": 1795773300
   },
   "rating": "PG - Children",
   "score": {
-    "malScore": 7.41,
+    "malScore": 7.38,
     "anilistScore": 7.3,
-    "kitsuRating": 7.61
+    "kitsuRating": null
   },
   "genres": [
     "Action",
     "Adventure",
     "Comedy",
     "Fantasy",
-    "Kids",
-    "Fantasy World",
-    "Proxy Battles"
+    "Kids"
   ],
   "studios": [
     "OLM"
   ],
   "producers": [
-    "TV Tokyo",
-    "Soranone"
+    "Shogakukan-Shueisha Productions",
+    "TV Tokyo"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-PtipBrtn93hB.jpg",
     "color": "#e4bb28"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "_c_hMehCORQ",
+    "url": "https://www.youtube.com/watch?v=_c_hMehCORQ",
+    "thumbnail": "https://i.ytimg.com/vi/_c_hMehCORQ/hqdefault.jpg"
+  },
   "synopsis": "In a world filled with strange yet majestic creatures known as Pokémon, a new adventure begins! Hailing from the pristine region of Paldea, the timid Liko travels to the Kanto region to attend the Indigo Academy and become a Pokémon trainer—a person who forms relationships with Pokémon and trains them to participate in battles. Soon, Liko acquires Nyahoja, a fickle Grass-type cat Pokémon, as her first partner.\n\nPrior to Liko's transfer to Kanto, her grandmother gives her a uniquely patterned and gleaming pendant as a protective charm. However, an enigmatic organization—The Explorers—seems to know a secret about the pendant and nearly succeeds in stealing it from Liko. Fortunately, she is rescued by the Rising Volt Tacklers, a group of adventurers led by a Lizardon-riding trainer named Friede.\n\nAfter a series of encounters with The Explorers, Liko decides to join Friede's team, accompanying him and his crew members on a grand journey across the regions. Along the way, they aim to unravel not only the mysteries of the world of Pokémon, but also the power that resides within her pendant.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
@@ -471,15 +473,30 @@
       "episodes": 2,
       "seasonYear": 2026,
       "relationType": "OTHER"
+    },
+    {
+      "malId": null,
+      "title": {
+        "romaji": "1996",
+        "english": null,
+        "native": "1996"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218739-juzXgwB3eAyo.jpg",
+      "format": "MUSIC",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "OTHER"
     }
   ],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-04-14",
       "title": {
-        "en": "The Pendant That Starts It All: Part One"
+        "en": "The Pendant That Starts It All: Part One",
+        "romaji": "Hajimari no Pendant: Zenpen",
+        "ja": "はじまりのペンダント 前編"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9708907,
@@ -491,10 +508,12 @@
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-04-14",
       "title": {
-        "en": "The Pendant That Starts It All: Part Two"
+        "en": "The Pendant That Starts It All: Part Two",
+        "romaji": "Hajimari no Pendant: Kouhen",
+        "ja": "はじまりのペンダント 後編"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9715353,
@@ -506,10 +525,12 @@
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-04-21",
       "title": {
-        "en": "For Sure! `Cause Sprigatito`s with Me!"
+        "en": "For Sure! `Cause Sprigatito`s with Me!",
+        "romaji": "Nyahoja to Nara, Kitto",
+        "ja": "ニャオハとなら, きっと"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9715354,
@@ -521,10 +542,12 @@
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-04-28",
       "title": {
-        "en": "The Treasure After the Storm!"
+        "en": "The Treasure After the Storm!",
+        "romaji": "Nagaretsuita Takaramono",
+        "ja": "ながれついた宝もの"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9739897,
@@ -536,10 +559,12 @@
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-05-05",
       "title": {
-        "en": "Found You, Fuecoco!"
+        "en": "Found You, Fuecoco!",
+        "romaji": "Mitsuketa yo, Hogator",
+        "ja": "みつけたよ, ホゲータ"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9739898,
@@ -551,10 +576,12 @@
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-05-12",
       "title": {
-        "en": "The Ancient Poke Ball!"
+        "en": "The Ancient Poke Ball!",
+        "romaji": "Inishie no Monster Ball",
+        "ja": "いにしえのモンスターボール"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9771847,
@@ -566,10 +593,12 @@
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-05-19",
       "title": {
-        "en": "Special Training with Cap!"
+        "en": "Special Training with Cap!",
+        "romaji": "Tokkun! Captain Pikachu",
+        "ja": "特訓! キャプテンピカチュウ"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9775696,
@@ -581,10 +610,12 @@
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-05-26",
       "title": {
-        "en": "The Door That Never Opens!"
+        "en": "The Door That Never Opens!",
+        "romaji": "Akazu no Tobira no Himitsu",
+        "ja": "あかずの扉のひみつ"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9776880,
@@ -596,10 +627,12 @@
     },
     "9": {
       "episode": "9",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-06-02",
       "title": {
-        "en": "Welcome to Paldea!"
+        "en": "Welcome to Paldea!",
+        "romaji": "Paldea Touchaku!",
+        "ja": "パルデア到着!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9776881,
@@ -611,10 +644,12 @@
     },
     "10": {
       "episode": "10",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-06-09",
       "title": {
-        "en": "Nemona and Brassius and..."
+        "en": "Nemona and Brassius and...",
+        "romaji": "Nemo to Colza to",
+        "ja": "ネモとコルサと"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9776882,
@@ -626,10 +661,12 @@
     },
     "11": {
       "episode": "11",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-06-16",
       "title": {
-        "en": "Arboliva`s Forest"
+        "en": "Arboliva`s Forest",
+        "romaji": "Oliva no Mori",
+        "ja": "オリーヴァの森"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9832869,
@@ -641,10 +678,12 @@
     },
     "12": {
       "episode": "12",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-06-23",
       "title": {
-        "en": "The Future I Choose!"
+        "en": "The Future I Choose!",
+        "romaji": "Watashi ga Erabu Mirai",
+        "ja": "わたしが選ぶ未来"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9832870,
@@ -656,10 +695,12 @@
     },
     "13": {
       "episode": "13",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-07-14",
       "title": {
-        "en": "An Unexpected Picnic!"
+        "en": "An Unexpected Picnic!",
+        "romaji": "Picnic wa Totsuzen ni",
+        "ja": "ピクニックは突然に"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9861953,
@@ -671,10 +712,12 @@
     },
     "14": {
       "episode": "14",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-07-21",
       "title": {
-        "en": "Fly! Wattrel!!"
+        "en": "Fly! Wattrel!!",
+        "romaji": "Tobe! Kaiden!!",
+        "ja": "とべ! カイデン!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9881658,
@@ -686,10 +729,12 @@
     },
     "15": {
       "episode": "15",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-07-28",
       "title": {
-        "en": "Someone We Can`t See! Whosawhatsit?!"
+        "en": "Someone We Can`t See! Whosawhatsit?!",
+        "romaji": "Mienai Yatsu da! Nanimon Nan ja?",
+        "ja": "みえないヤツだ! 何者[ナニモン]なんじゃ?"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9884233,
@@ -701,10 +746,12 @@
     },
     "16": {
       "episode": "16",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-08-04",
       "title": {
-        "en": "Quaxly, We Can Do It!"
+        "en": "Quaxly, We Can Do It!",
+        "romaji": "Kuwassu to Nara, Dekiru yo",
+        "ja": "クワッスとなら, できるよ"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9884234,
@@ -716,10 +763,12 @@
     },
     "17": {
       "episode": "17",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-08-11",
       "title": {
-        "en": "Special Training Time!"
+        "en": "Special Training Time!",
+        "romaji": "Kaiden to Hogator: Himitsu no Dai Tokkun!",
+        "ja": "カイデンとホゲータ 秘密の大特訓!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9933470,
@@ -731,10 +780,12 @@
     },
     "18": {
       "episode": "18",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-08-18",
       "title": {
-        "en": "Flying Pikachu, Rising Higher and Higher!"
+        "en": "Flying Pikachu, Rising Higher and Higher!",
+        "romaji": "Soratobu Pikachu, Dokomademo Takaku!",
+        "ja": "そらとぶピカチュウ, どこまでも高く!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9943754,
@@ -746,10 +797,12 @@
     },
     "19": {
       "episode": "19",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-08-25",
       "title": {
-        "en": "The Bittersweet Truth"
+        "en": "The Bittersweet Truth",
+        "romaji": "Mawhip no Honto",
+        "ja": "マホイップのホント"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9943755,
@@ -761,10 +814,12 @@
     },
     "20": {
       "episode": "20",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-09-01",
       "title": {
-        "en": "Kabu`s Battle Training!"
+        "en": "Kabu`s Battle Training!",
+        "romaji": "Kabu-san no Battle Shugyou",
+        "ja": "カブさんのバトル修行"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9943756,
@@ -776,10 +831,12 @@
     },
     "21": {
       "episode": "21",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-09-08",
       "title": {
-        "en": "The Lonely Hatenna"
+        "en": "The Lonely Hatenna",
+        "romaji": "Hitoribocchi no Mibrim",
+        "ja": "ひとりぼっちのミブリム"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9943757,
@@ -791,10 +848,12 @@
     },
     "22": {
       "episode": "22",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-09-15",
       "title": {
-        "en": "Charge! Galar Mine!"
+        "en": "Charge! Galar Mine!",
+        "romaji": "Gekitotsu! Galar Kouzan",
+        "ja": "激突! ガラルこうざん"
       },
       "tvdbShowId": 76703,
       "tvdbId": 9983261,
@@ -806,10 +865,12 @@
     },
     "23": {
       "episode": "23",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-09-22",
       "title": {
-        "en": "Fiery Galarian Moltres"
+        "en": "Fiery Galarian Moltres",
+        "romaji": "Moeagaru Galar Fire",
+        "ja": "もえあがるガラルファイヤー"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10001376,
@@ -821,10 +882,12 @@
     },
     "24": {
       "episode": "24",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-10-13",
       "title": {
-        "en": "Reunion at the Ancient Castle!"
+        "en": "Reunion at the Ancient Castle!",
+        "romaji": "Kojou de no Saikai",
+        "ja": "古城での再会"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10001377,
@@ -836,10 +899,12 @@
     },
     "25": {
       "episode": "25",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-10-20",
       "title": {
-        "en": "Rivals in the Dark of Night!"
+        "en": "Rivals in the Dark of Night!",
+        "romaji": "Yamiyo no Rival",
+        "ja": "闇夜の強敵[ライバル]"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10059359,
@@ -851,10 +916,12 @@
     },
     "26": {
       "episode": "26",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-10-27",
       "title": {
-        "en": "Terapagos`s Adventure!"
+        "en": "Terapagos`s Adventure!",
+        "romaji": "Terapagos no Bouken",
+        "ja": "テラパゴスの冒険"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10071179,
@@ -866,10 +933,12 @@
     },
     "27": {
       "episode": "27",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-11-03",
       "title": {
-        "en": "As Long As I`m with My Friends"
+        "en": "As Long As I`m with My Friends",
+        "romaji": "Nakama to Issho nara",
+        "ja": "仲間といっしょなら"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10071180,
@@ -881,10 +950,12 @@
     },
     "28": {
       "episode": "28",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-11-10",
       "title": {
-        "en": "The Stolen Treasure"
+        "en": "The Stolen Treasure",
+        "romaji": "Nusumareta Takaramono",
+        "ja": "ぬすまれた宝もの"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10107807,
@@ -896,10 +967,12 @@
     },
     "29": {
       "episode": "29",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-11-17",
       "title": {
-        "en": "Orla and the Poke Ball Smith"
+        "en": "Orla and the Poke Ball Smith",
+        "romaji": "Orio to Monster Ball Shokunin",
+        "ja": "オリオとモンスターボール職人"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10135498,
@@ -911,10 +984,12 @@
     },
     "30": {
       "episode": "30",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-11-24",
       "title": {
-        "en": "Slip and Crash! A Mystery Pokemon?!"
+        "en": "Slip and Crash! A Mystery Pokemon?!",
+        "romaji": "Zuruu! to Gachan de Nazo Pokemon!?",
+        "ja": "ズル~っとガチャンで謎ポケモン!?"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10135499,
@@ -926,10 +1001,12 @@
     },
     "31": {
       "episode": "31",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-12-01",
       "title": {
-        "en": "Song Within the Mist"
+        "en": "Song Within the Mist",
+        "romaji": "Shiroi Kiri no Utagoe",
+        "ja": "白い霧の歌声"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10136005,
@@ -941,10 +1018,12 @@
     },
     "32": {
       "episode": "32",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-12-08",
       "title": {
-        "en": "Lapras`s Feelings for Its Friends"
+        "en": "Lapras`s Feelings for Its Friends",
+        "romaji": "Laplace no Omoi, Nakama o Omoi",
+        "ja": "ラプラスの想い, 仲間を想い"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10137617,
@@ -956,10 +1035,12 @@
     },
     "33": {
       "episode": "33",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-12-15",
       "title": {
-        "en": "Roar of the Black Rayquaza"
+        "en": "Roar of the Black Rayquaza",
+        "romaji": "Houkou no Kuroi Rayquaza",
+        "ja": "咆吼の黒いレックウザ"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10180469,
@@ -971,10 +1052,12 @@
     },
     "34": {
       "episode": "34",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-12-22",
       "title": {
-        "en": "Respective Departures"
+        "en": "Respective Departures",
+        "romaji": "Sorezore no Tabidachi",
+        "ja": "それぞれの旅立ち"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10180470,
@@ -986,10 +1069,12 @@
     },
     "35": {
       "episode": "35",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-01-12",
       "title": {
-        "en": "A Duo in the Wilderness: Friede and Cap"
+        "en": "A Duo in the Wilderness: Friede and Cap",
+        "romaji": "Kouya no Futari: Friede to Cap",
+        "ja": "荒野のふたり フリードとキャップ"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10186547,
@@ -1001,10 +1086,12 @@
     },
     "36": {
       "episode": "36",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-01-19",
       "title": {
-        "en": "Operation: Oinkologne Friendship!"
+        "en": "Operation: Oinkologne Friendship!",
+        "romaji": "Perfuton Nakayoshi Taisakusen!",
+        "ja": "パフュートン仲良し大作戦!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10239398,
@@ -1016,10 +1103,12 @@
     },
     "37": {
       "episode": "37",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-01-26",
       "title": {
-        "en": "Fuecoco Becomes a Bad Boy?"
+        "en": "Fuecoco Becomes a Bad Boy?",
+        "romaji": "Hogator, Waru ni Naru!?",
+        "ja": "ホゲータ, ワルになる!?"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10239399,
@@ -1031,10 +1120,12 @@
     },
     "38": {
       "episode": "38",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-02-02",
       "title": {
-        "en": "The SOS Comes From Tandemaus?"
+        "en": "The SOS Comes From Tandemaus?",
+        "romaji": "SOS wa Wakkanezumi kara?",
+        "ja": "SOSはワッカネズミから?"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10239400,
@@ -1046,10 +1137,12 @@
     },
     "39": {
       "episode": "39",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-02-09",
       "title": {
-        "en": "Tinkatink and Its Choice Hammer"
+        "en": "Tinkatink and Its Choice Hammer",
+        "romaji": "Kanuchan to Kodawari no Hammer",
+        "ja": "カヌチャンとこだわりのハンマー"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10239401,
@@ -1061,10 +1154,12 @@
     },
     "40": {
       "episode": "40",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-02-16",
       "title": {
-        "en": "Farewell, Sprigatito?"
+        "en": "Farewell, Sprigatito?",
+        "romaji": "Sayonara, Nyahoja?",
+        "ja": "さよなら, ニャオハ?"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10299917,
@@ -1076,10 +1171,12 @@
     },
     "41": {
       "episode": "41",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-03-01",
       "title": {
-        "en": "Enter the Intense Mom!"
+        "en": "Enter the Intense Mom!",
+        "romaji": "Kyouretsu Kaachan Arawareru!",
+        "ja": "キョーレツかーちゃん現る!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10299918,
@@ -1091,10 +1188,12 @@
     },
     "42": {
       "episode": "42",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-03-08",
       "title": {
-        "en": "Transform! Palafin, the Hero of the Sea"
+        "en": "Transform! Palafin, the Hero of the Sea",
+        "romaji": "Umi no Hero Irukaman",
+        "ja": "海のヒーローイルカマン"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10299919,
@@ -1106,10 +1205,12 @@
     },
     "43": {
       "episode": "43",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-03-15",
       "title": {
-        "en": "A Letter of Challenge from the Explorers"
+        "en": "A Letter of Challenge from the Explorers",
+        "romaji": "Explorers kara no Hatashijou",
+        "ja": "エクスプローラーズからの果たし状"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10344627,
@@ -1121,10 +1222,12 @@
     },
     "44": {
       "episode": "44",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-03-22",
       "title": {
-        "en": "The Plan for Capturing Rayquaza"
+        "en": "The Plan for Capturing Rayquaza",
+        "romaji": "Rayquaza Hokaku Keikaku",
+        "ja": "レックウザ捕獲計画"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10345148,
@@ -1136,10 +1239,12 @@
     },
     "45": {
       "episode": "45",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-03-29",
       "title": {
-        "en": "To Places Far Far Away"
+        "en": "To Places Far Far Away",
+        "romaji": "Haruka, Tooku made",
+        "ja": "はるか, 遠くまで"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10345149,
@@ -1151,10 +1256,12 @@
     },
     "46": {
       "episode": "46",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-04-12",
       "title": {
-        "en": "How Thrilling! Naranja Academy"
+        "en": "How Thrilling! Naranja Academy",
+        "romaji": "Dokidoki! Orange Academy",
+        "ja": "ドキドキ! オレンジアカデミー"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10379062,
@@ -1166,10 +1273,12 @@
     },
     "47": {
       "episode": "47",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-04-19",
       "title": {
-        "en": "Liko and Floragato, Put All Your Heart Into It"
+        "en": "Liko and Floragato, Put All Your Heart Into It",
+        "romaji": "Liko to Nyarote, Kokoro o Komete",
+        "ja": "リコとニャローテ, 心をこめて"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10437494,
@@ -1181,10 +1290,12 @@
     },
     "48": {
       "episode": "48",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-05-03",
       "title": {
-        "en": "Shine! The Glimmer of Fire and Art"
+        "en": "Shine! The Glimmer of Fire and Art",
+        "romaji": "Kagayake! Honoo to Art no Kirameki",
+        "ja": "輝け! 炎とアートのきらめき"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10445888,
@@ -1196,10 +1307,12 @@
     },
     "49": {
       "episode": "49",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-05-10",
       "title": {
-        "en": "Dot and Nidothing"
+        "en": "Dot and Nidothing",
+        "romaji": "Dot to Gurumin",
+        "ja": "ドットとぐるみん"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10445889,
@@ -1211,10 +1324,12 @@
     },
     "50": {
       "episode": "50",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-05-17",
       "title": {
-        "en": "Trending Terastallization! Dance, Dance, Quaxly!"
+        "en": "Trending Terastallization! Dance, Dance, Quaxly!",
+        "romaji": "Haero Terastal! Dance Dance Kuwassu!!",
+        "ja": "映えろテラスタル! ダンス・ダンス・クワッス!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10461636,
@@ -1226,10 +1341,12 @@
     },
     "51": {
       "episode": "51",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-05-24",
       "title": {
-        "en": "The Flower Tower"
+        "en": "The Flower Tower",
+        "romaji": "Togetoge Nyarote!? Fushigi na Hanabashira",
+        "ja": "トゲトゲニャローテ!? 不思議な花ばしら"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10461637,
@@ -1241,10 +1358,12 @@
     },
     "52": {
       "episode": "52",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-05-31",
       "title": {
-        "en": "Wattrel`s High Wind Warning!"
+        "en": "Wattrel`s High Wind Warning!",
+        "romaji": "Kaiden, Kyoufuu Chuuihou!",
+        "ja": "カイデン, 強風注意報!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10461638,
@@ -1256,10 +1375,12 @@
     },
     "53": {
       "episode": "53",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-06-07",
       "title": {
-        "en": "Hatenna and the Otherworldly"
+        "en": "Hatenna and the Otherworldly",
+        "romaji": "Mibrim to Kono Yo Narazaru Mono",
+        "ja": "ミブリムとこの世ならざるもの"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10512691,
@@ -1271,10 +1392,12 @@
     },
     "54": {
       "episode": "54",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-06-14",
       "title": {
-        "en": "The Treasure of Eternity"
+        "en": "The Treasure of Eternity",
+        "romaji": "Towa no Megumi",
+        "ja": "永遠[とわ]のめぐみ"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10517948,
@@ -1286,10 +1409,12 @@
     },
     "55": {
       "episode": "55",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-06-21",
       "title": {
-        "en": "Showdown! The Paldea Elite Four"
+        "en": "Showdown! The Paldea Elite Four",
+        "romaji": "Taiketsu! Paldea Shitennou",
+        "ja": "対決! パルデア四天王"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10530452,
@@ -1301,10 +1426,12 @@
     },
     "56": {
       "episode": "56",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-06-28",
       "title": {
-        "en": "Liko vs. Rika! Towards the Battle`s End"
+        "en": "Liko vs. Rika! Towards the Battle`s End",
+        "romaji": "Liko vs Chili! Battle no Saki ni",
+        "ja": "リコVSチリ! バトルの先に"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10537015,
@@ -1316,10 +1443,12 @@
     },
     "57": {
       "episode": "57",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-07-05",
       "title": {
-        "en": "The Terapagos I Don`t Know"
+        "en": "The Terapagos I Don`t Know",
+        "romaji": "Watashi no Shiranai Terapagos",
+        "ja": "わたしの知らないテラパゴス"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10551758,
@@ -1331,10 +1460,12 @@
     },
     "58": {
       "episode": "58",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-07-12",
       "title": {
-        "en": "Food Fit for a Kingambit!"
+        "en": "Food Fit for a Kingambit!",
+        "romaji": "Kanban Pokemon wa Dodogezan!?",
+        "ja": "看板ポケモンはドドゲザン!?"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10559754,
@@ -1346,10 +1477,12 @@
     },
     "59": {
       "episode": "59",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-07-26",
       "title": {
-        "en": "Dance, Quaxly! The Blue Medali Step!"
+        "en": "Dance, Quaxly! The Blue Medali Step!",
+        "romaji": "Odore Kuwassu! Aoki Chanpuru Steps!!",
+        "ja": "おどれクワッス! 碧きチャンプルステップ!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10559756,
@@ -1361,10 +1494,12 @@
     },
     "60": {
       "episode": "60",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-08-09",
       "title": {
-        "en": "Roy and Fuecoco`s First Snow!"
+        "en": "Roy and Fuecoco`s First Snow!",
+        "romaji": "Hajimete no Yuki! Ho! Ho! Gaa!!",
+        "ja": "はじめての雪! ホッホッゲー!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10559755,
@@ -1376,10 +1511,12 @@
     },
     "61": {
       "episode": "61",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-08-16",
       "title": {
-        "en": "Resonating Spirits in a Challenge to Ryme!"
+        "en": "Resonating Spirits in a Challenge to Ryme!",
+        "romaji": "Hibike Tamashii! Rhyme e no Chousen",
+        "ja": "響け魂! ライムへの挑戦"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10587467,
@@ -1391,10 +1528,12 @@
     },
     "62": {
       "episode": "62",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-08-23",
       "title": {
-        "en": "A New Song for Fuecoco"
+        "en": "A New Song for Fuecoco",
+        "romaji": "Hogator to Boku no Uta",
+        "ja": "ホゲータとぼくの歌"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10587468,
@@ -1406,10 +1545,12 @@
     },
     "63": {
       "episode": "63",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-08-30",
       "title": {
-        "en": "Ice Battle! Cold-Eyed Grusha"
+        "en": "Ice Battle! Cold-Eyed Grusha",
+        "romaji": "Koori no Tatakai! Tsumetai Hitomi no Grusha",
+        "ja": "氷の戦い! 冷たい瞳のグルーシャ"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10587469,
@@ -1421,10 +1562,12 @@
     },
     "64": {
       "episode": "64",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-09-06",
       "title": {
-        "en": "The Approaching Shadow!"
+        "en": "The Approaching Shadow!",
+        "romaji": "Nappe Yama, Shinobiyoru Kage",
+        "ja": "ナッぺ山, しのびよる影"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10660682,
@@ -1436,10 +1579,12 @@
     },
     "65": {
       "episode": "65",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-09-13",
       "title": {
-        "en": "Liko and Amethio"
+        "en": "Liko and Amethio",
+        "romaji": "Liko to Amethio",
+        "ja": "リコとアメジオ"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10660683,
@@ -1451,10 +1596,12 @@
     },
     "66": {
       "episode": "66",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-09-20",
       "title": {
-        "en": "Infiltrating the System! Naranja Academy in Danger!"
+        "en": "Infiltrating the System! Naranja Academy in Danger!",
+        "romaji": "System Shinnyuu! Orange Academy no Kiki!!",
+        "ja": "システム侵入! オレンジアカデミーの危機!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10675194,
@@ -1466,10 +1613,12 @@
     },
     "67": {
       "episode": "67",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-09-27",
       "title": {
-        "en": "Shine on, Terastallization! Liko vs. Roy!"
+        "en": "Shine On, Terastallization! Liko vs. Roy!",
+        "romaji": "Kagayake Terastal! Liko vs Roy!!",
+        "ja": "輝けテラスタル! リコVSロイ!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10686277,
@@ -1481,10 +1630,12 @@
     },
     "68": {
       "episode": "68",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-10-11",
       "title": {
-        "en": "Into a New Sky! The Brave Olivine"
+        "en": "Into a New Sky! The Brave Olivine",
+        "romaji": "Aratanaru Sora e! Brave Asagi Gou!!",
+        "ja": "新たなる空へ! ブレイブアサギ号!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10691921,
@@ -1496,10 +1647,12 @@
     },
     "69": {
       "episode": "69",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-10-18",
       "title": {
-        "en": "Roy Is Crocalor, and Crocalor Is Roy!"
+        "en": "Roy Is Crocalor, and Crocalor Is Roy!",
+        "romaji": "Boku ga Pokemon de, Kimi ga Boku!?",
+        "ja": "ぼくがポケモンで, キミがぼく!?"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10725797,
@@ -1511,10 +1664,12 @@
     },
     "70": {
       "episode": "70",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-10-25",
       "title": {
-        "en": "Tinkatink`s Hammer Wasn`t Made in a Day"
+        "en": "Tinkatink`s Hammer Wasn`t Made in a Day",
+        "romaji": "Kanuchan no Hammer wa Ichinichi ni Shite Narazu",
+        "ja": "カヌチャンのハンマーは1日にしてならず"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10735118,
@@ -1526,10 +1681,12 @@
     },
     "71": {
       "episode": "71",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-11-01",
       "title": {
-        "en": "Episode 71"
+        "en": "Encounters at the Crystal Pool",
+        "romaji": "Terasu Ike no Deai",
+        "ja": "てらす池の出会い"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10758305,
@@ -1541,10 +1698,12 @@
     },
     "72": {
       "episode": "72",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-11-08",
       "title": {
-        "en": "Episode 72"
+        "en": "The Search for Kleavor!",
+        "romaji": "Tsuiseki! Basagiri o Sagase!!",
+        "ja": "追跡! バサギリを探せ!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10758306,
@@ -1556,10 +1715,12 @@
     },
     "73": {
       "episode": "73",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-11-15",
       "title": {
-        "en": "Episode 73"
+        "en": "Kleavor the Solitary Warrior",
+        "romaji": "Kokou no Senshi Basagiri",
+        "ja": "孤高の戦士バサギリ"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10758307,
@@ -1571,10 +1732,12 @@
     },
     "74": {
       "episode": "74",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-11-22",
       "title": {
-        "en": "Episode 74"
+        "en": "The Three Explorers",
+        "romaji": "Sannin no Explorers",
+        "ja": "3人のエクスプローラーズ"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10787305,
@@ -1586,10 +1749,12 @@
     },
     "75": {
       "episode": "75",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-11-29",
       "title": {
-        "en": "Episode 75"
+        "en": "The Wonders of the World!",
+        "romaji": "Takusareta Mirai, Kono Sekai no Kagayaki",
+        "ja": "託された未来, この世界の輝き"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10791385,
@@ -1601,10 +1766,12 @@
     },
     "76": {
       "episode": "76",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-12-06",
       "title": {
-        "en": "Episode 76"
+        "en": "Wynaut! Wy-Yes!",
+        "romaji": "Sohnano? Sou Da yo!",
+        "ja": "ソーナノ? ソーダヨ!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10817747,
@@ -1616,10 +1783,12 @@
     },
     "77": {
       "episode": "77",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-12-13",
       "title": {
-        "en": "Episode 77"
+        "en": "Ludlow`s Homecoming!",
+        "romaji": "Landau, Furusato e Kaeru",
+        "ja": "ランドウ, 故郷へ帰る"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10817748,
@@ -1631,10 +1800,12 @@
     },
     "78": {
       "episode": "78",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-12-20",
       "title": {
-        "en": "Episode 78"
+        "en": "Entei`s Fierce Battle Cry!",
+        "romaji": "Gekitou Entei! Honoo no Otakebi!!",
+        "ja": "激闘エンテイ! 炎のおたけび!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10817749,
@@ -1646,10 +1817,12 @@
     },
     "79": {
       "episode": "79",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-01-10",
       "title": {
-        "en": "Episode 79"
+        "en": "Over the Top",
+        "romaji": "Over the Top",
+        "ja": "オーバー・ザ・トップ"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10859698,
@@ -1661,10 +1834,12 @@
     },
     "80": {
       "episode": "80",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-01-17",
       "title": {
-        "en": "Episode 80"
+        "en": "Tota-lie Awesome Pokemon in Area Zero?!",
+        "romaji": "Area Zero de Oniike Pokemon!?",
+        "ja": "エリアゼロでオニイケポケモン!?"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10859699,
@@ -1676,10 +1851,12 @@
     },
     "81": {
       "episode": "81",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-01-24",
       "title": {
-        "en": "Episode 81"
+        "en": "The Pillar of Fire",
+        "romaji": "Dai Battle! Daichi o Ugatsu Homura",
+        "ja": "大バトル! 大地を穿つ炎"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10897319,
@@ -1691,10 +1868,12 @@
     },
     "82": {
       "episode": "82",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-01-31",
       "title": {
-        "en": "Episode 82"
+        "en": "Beyond the Shining Rainbow",
+        "romaji": "Hikaridashita Niji no Saki de",
+        "ja": "光り出した虹の先で"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10897320,
@@ -1706,10 +1885,12 @@
     },
     "83": {
       "episode": "83",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-02-07",
       "title": {
-        "en": "Episode 83"
+        "en": "The Truth Revealed!",
+        "romaji": "Akasareru Shinjitsu? Amethio no Ketsui!",
+        "ja": "明かされる真実? アメジオの決意!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10919892,
@@ -1721,10 +1902,12 @@
     },
     "84": {
       "episode": "84",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-02-14",
       "title": {
-        "en": "Episode 84"
+        "en": "Where the Land Meets the Sky",
+        "romaji": "Ten to Chi ga Deau Tokoro",
+        "ja": "天と地が出会う処"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10919893,
@@ -1736,10 +1919,12 @@
     },
     "85": {
       "episode": "85",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-02-21",
       "title": {
-        "en": "Episode 85"
+        "en": "The Pokemon Paradise of Laqua",
+        "romaji": "Touchaku! Rakuen Laqua",
+        "ja": "到着! 楽園ラクア"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10923467,
@@ -1751,10 +1936,12 @@
     },
     "86": {
       "episode": "86",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-02-28",
       "title": {
-        "en": "Episode 86"
+        "en": "The Rising Volt Tacklers vs. the Explorers!",
+        "romaji": "Rising Volteccers vs Explorers!",
+        "ja": "ライジングボルテッカーズVSエクスプローラーズ!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10923468,
@@ -1766,10 +1953,12 @@
     },
     "87": {
       "episode": "87",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-03-07",
       "title": {
-        "en": "Episode 87"
+        "en": "Guided by the Black Rayquaza!",
+        "romaji": "Kuroi Rayquaza no Michibiki",
+        "ja": "黒いレックウザの導き"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10975188,
@@ -1781,10 +1970,12 @@
     },
     "88": {
       "episode": "88",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-03-14",
       "title": {
-        "en": "Episode 88"
+        "en": "The Earthshaking White Zygarde",
+        "romaji": "Gekishin no Shiroi Zygarde",
+        "ja": "激震の白いジガルデ"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10975189,
@@ -1796,10 +1987,12 @@
     },
     "89": {
       "episode": "89",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-03-21",
       "title": {
-        "en": "Episode 89"
+        "en": "Where the Adventure Leads",
+        "romaji": "Bouken no Saki ni",
+        "ja": "冒険の先に"
       },
       "tvdbShowId": 76703,
       "tvdbId": 10998876,
@@ -1811,10 +2004,12 @@
     },
     "90": {
       "episode": "90",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-04-11",
       "title": {
-        "en": "Episode 90"
+        "en": "Eyes to the Skies Once Again (Part One)",
+        "romaji": "Oozora e Mukatte, Futatabi: Zenpen",
+        "ja": "大空へ向かって, 再び 前編"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11079115,
@@ -1826,10 +2021,12 @@
     },
     "91": {
       "episode": "91",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-04-11",
       "title": {
-        "en": "Episode 91"
+        "en": "Eyes to the Skies Once Again (Part Two)",
+        "romaji": "Oozora e Mukatte, Futatabi: Kouhen",
+        "ja": "大空へ向かって, 再び 後編"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11079116,
@@ -1841,10 +2038,12 @@
     },
     "92": {
       "episode": "92",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-04-18",
       "title": {
-        "en": "Episode 92"
+        "en": "Following Traces of Laquium",
+        "romaji": "Laqurium Sign o Otte",
+        "ja": "ラクリウム・サインを追って"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11079117,
@@ -1856,10 +2055,12 @@
     },
     "93": {
       "episode": "93",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-04-25",
       "title": {
-        "en": "Episode 93"
+        "en": "Clash of the Nidothing Fans",
+        "romaji": "Gachi Oshi!? Gurumin Fan Taiketsu!!",
+        "ja": "ガチ推し!? ぐるみんファン対決!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11079118,
@@ -1871,10 +2072,12 @@
     },
     "94": {
       "episode": "94",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-05-02",
       "title": {
-        "en": "Episode 94"
+        "en": "The Pokemon Center Lady",
+        "romaji": "Pokemon Center no Onee-san",
+        "ja": "ポケモンセンターのお姉さん"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11100559,
@@ -1886,10 +2089,12 @@
     },
     "95": {
       "episode": "95",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-05-09",
       "title": {
-        "en": "Episode 95"
+        "en": "The Strong Sphere",
+        "romaji": "Strong Sphere",
+        "ja": "ストロングスフィア"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11100560,
@@ -1901,10 +2106,12 @@
     },
     "96": {
       "episode": "96",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-05-16",
       "title": {
-        "en": "Episode 96"
+        "en": "Crash! Team Dragon Rampage!",
+        "romaji": "Gekitotsu! Dragon Bakusou-dan",
+        "ja": "激突! ドラゴン爆走団"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11100561,
@@ -1916,10 +2123,12 @@
     },
     "97": {
       "episode": "97",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-05-30",
       "title": {
-        "en": "Episode 97"
+        "en": "The Prankster",
+        "romaji": "Itazura Maggyo no Ii Egao?",
+        "ja": "いたずらマッギョのイイ笑顔?"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11109739,
@@ -1931,10 +2140,12 @@
     },
     "98": {
       "episode": "98",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-06-06",
       "title": {
-        "en": "Episode 98"
+        "en": "Reunion in Cortondo",
+        "romaji": "Saikai no Cercle Town!",
+        "ja": "再会のセルクルタウン!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11165595,
@@ -1946,10 +2157,12 @@
     },
     "99": {
       "episode": "99",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-06-13",
       "title": {
-        "en": "Episode 99"
+        "en": "Orla, Grounded",
+        "romaji": "Tobenai Orio to",
+        "ja": "飛べないオリオと"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11177138,
@@ -1961,10 +2174,12 @@
     },
     "100": {
       "episode": "100",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-06-20",
       "title": {
-        "en": "Episode 100"
+        "en": "We Are the Rising Volt Tacklers!",
+        "romaji": "Warera Rising Volteccers!",
+        "ja": "我らライジングボルテッカーズ!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11177139,
@@ -1976,10 +2191,12 @@
     },
     "101": {
       "episode": "101",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-06-27",
       "title": {
-        "en": "Episode 101"
+        "en": "Terastallization vs. Mega Evolution!",
+        "romaji": "Tatakae! Terastal tai Mega Shinka!!",
+        "ja": "闘え! テラスタル対メガシンカ!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11186289,
@@ -1991,10 +2208,12 @@
     },
     "102": {
       "episode": "102",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-07-04",
       "title": {
-        "en": "Episode 102"
+        "en": "The Knight in the Ruins",
+        "romaji": "Iseki de Deatta Knight",
+        "ja": "遺跡で出逢った騎士[ナイト]"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11216522,
@@ -2006,10 +2225,12 @@
     },
     "103": {
       "episode": "103",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-07-18",
       "title": {
-        "en": "Episode 103"
+        "en": "Nidothing Love!",
+        "romaji": "Moyase, Gurumin Ai!",
+        "ja": "燃やせ, ぐるみん愛!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11225912,
@@ -2021,10 +2242,12 @@
     },
     "104": {
       "episode": "104",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-08-01",
       "title": {
-        "en": "Episode 104"
+        "en": "Charcadet`s Wish!",
+        "romaji": "Carbou no Negai",
+        "ja": "カルボウの願い"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11249858,
@@ -2036,10 +2259,12 @@
     },
     "105": {
       "episode": "105",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-08-08",
       "title": {
-        "en": "Episode 105"
+        "en": "Riding the Waves",
+        "romaji": "Arashi Nochi Naminori Surfugo",
+        "ja": "嵐のち波乗りサーフゴー"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11267441,
@@ -2051,10 +2276,12 @@
     },
     "106": {
       "episode": "106",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-08-15",
       "title": {
-        "en": "Episode 106"
+        "en": "The Dusk Ball That Wouldn`t Open",
+        "romaji": "Mega Sugee!? Akazu no Dark Ball",
+        "ja": "メガすげぇ!? 開かずのダークボール"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11267442,
@@ -2066,10 +2293,12 @@
     },
     "107": {
       "episode": "107",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-08-22",
       "title": {
-        "en": "Episode 107"
+        "en": "Friends as Two, Me and You",
+        "romaji": "Futari, Tomo Toshite",
+        "ja": "ふたり、友として"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11277971,
@@ -2081,10 +2310,12 @@
     },
     "108": {
       "episode": "108",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-08-29",
       "title": {
-        "en": "Episode 108"
+        "en": "Taking the Next Steps",
+        "romaji": "Diana Comes Back!",
+        "ja": "ダイアナ・カムズ・バック!!!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11277973,
@@ -2096,10 +2327,12 @@
     },
     "109": {
       "episode": "109",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-09-05",
       "title": {
-        "en": "Episode 109"
+        "en": "Tinkatuff`s Hammer Wasn`t Made in a Year!",
+        "romaji": "Nakanuchan, Saikyou Hammer no Tsukurikata",
+        "ja": "ナカヌチャン, 最強ハンマーの作り方"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11308259,
@@ -2111,10 +2344,12 @@
     },
     "110": {
       "episode": "110",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-09-12",
       "title": {
-        "en": "Episode 110"
+        "en": "The Six Heroes Unleashed!",
+        "romaji": "Kiba o Muku Roku Eiyuu",
+        "ja": "牙を剥く六英雄"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11320590,
@@ -2126,10 +2361,12 @@
     },
     "111": {
       "episode": "111",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-09-19",
       "title": {
-        "en": "Episode 111"
+        "en": "Better, Farther, Stronger!",
+        "romaji": "Tsuyoku, Takami o Mezashite",
+        "ja": "強く, 高みを目指して"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11320591,
@@ -2141,10 +2378,12 @@
     },
     "112": {
       "episode": "112",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-10",
       "title": {
-        "en": "Episode 112"
+        "en": "Mega Evolution: Roy",
+        "romaji": "Roy: Shugyou",
+        "ja": "ロイ──修行"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11353745,
@@ -2156,10 +2395,12 @@
     },
     "113": {
       "episode": "113",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-17",
       "title": {
-        "en": "Episode 113"
+        "en": "Mega Evolution: Ult",
+        "romaji": "Ult: Saikyou",
+        "ja": "ウルト ──最強"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11353746,
@@ -2171,10 +2412,12 @@
     },
     "114": {
       "episode": "114",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-24",
       "title": {
-        "en": "Episode 114"
+        "en": "Mega Evolution: Bonds",
+        "romaji": "Mega Shinka: Kizuna",
+        "ja": "メガシンカ ──絆"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11353747,
@@ -2186,10 +2429,12 @@
     },
     "115": {
       "episode": "115",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-31",
       "title": {
-        "en": "Episode 115"
+        "en": "Welcome to Blueberry Academy!",
+        "romaji": "Tera Kira! Blueberry Gakuen",
+        "ja": "テラ☆キラ! ブルーベリー学園"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11361737,
@@ -2201,10 +2446,12 @@
     },
     "116": {
       "episode": "116",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-11-07",
       "title": {
-        "en": "Episode 116"
+        "en": "Terarium Training!",
+        "romaji": "Shugyou Kaishi! Terrarium Dorm",
+        "ja": "修行開始! テラリウムドーム"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11429610,
@@ -2216,10 +2463,12 @@
     },
     "117": {
       "episode": "117",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-11-14",
       "title": {
-        "en": "Episode 117"
+        "en": "Ult-imate Training",
+        "romaji": "Quiz Desu! Ult no Shugyou wa Nan Deshou?",
+        "ja": "クイズです! ウルトの修行はなんでしょう?"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11442981,
@@ -2231,10 +2480,12 @@
     },
     "118": {
       "episode": "118",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-11-21",
       "title": {
-        "en": "Episode 118"
+        "en": "Liko and Hattrem, Bonded by Happiness!",
+        "romaji": "Liko to Tebrim, Shiawase no Kizuna!",
+        "ja": "リコとテブリム, 幸せの絆!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11449587,
@@ -2246,10 +2497,12 @@
     },
     "119": {
       "episode": "119",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-11-28",
       "title": {
-        "en": "Episode 119"
+        "en": "Don`t Give Up, Crocalor!",
+        "romaji": "Funbare Achigator, Ashita no Tame ni",
+        "ja": "ふんばれアチゲータ, 明日のために"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11449588,
@@ -2261,10 +2514,12 @@
     },
     "120": {
       "episode": "120",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-12-05",
       "title": {
-        "en": "Episode 120"
+        "en": "Dot and Penny`s Top-Secret Mission!",
+        "romaji": "Dot to Botan! Secret Mission",
+        "ja": "ドット&ボタン! 極秘大作戦[シークレットミッション]"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11482390,
@@ -2276,10 +2531,12 @@
     },
     "121": {
       "episode": "121",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-12-12",
       "title": {
-        "en": "Episode 121"
+        "en": "The Catcher in the Sky",
+        "romaji": "Catcher in the Sky",
+        "ja": "キャッチャー・イン・ザ・スカイ"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11493068,
@@ -2291,10 +2548,12 @@
     },
     "122": {
       "episode": "122",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-12-19",
       "title": {
-        "en": "Episode 122"
+        "en": "Roy vs. Friede: Wings of Fire!",
+        "romaji": "Shakunetsu no Tsubasa! Roy vs Friede",
+        "ja": "灼熱の翼! ロイVSフリード"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11493069,
@@ -2306,10 +2565,12 @@
     },
     "123": {
       "episode": "123",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-01-09",
       "title": {
-        "en": "Episode 123"
+        "en": "Mochi Mayhem!",
+        "romaji": "Senritsu! Senjou no Kibikibi Panic",
+        "ja": "戦慄! 船上のキビキビパニック"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11515946,
@@ -2321,10 +2582,12 @@
     },
     "124": {
       "episode": "124",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-01-23",
       "title": {
-        "en": "Episode 124"
+        "en": "Operation Infiltration!",
+        "romaji": "Totsunyuu! Explorers Honbu",
+        "ja": "突入! エクスプローラーズ本部"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11549248,
@@ -2336,10 +2599,12 @@
     },
     "125": {
       "episode": "125",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-01-30",
       "title": {
-        "en": "Episode 125"
+        "en": "Battle for the Six Heroes!",
+        "romaji": "Roku Eiyuu o Torimodose!",
+        "ja": "六英雄を取り戻せ!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11574771,
@@ -2351,10 +2616,12 @@
     },
     "126": {
       "episode": "126",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-06",
       "title": {
-        "en": "Episode 126"
+        "en": "Strong Bonds, Can`t Lose!",
+        "romaji": "Makerarenai Battle! Tamesareru Kizuna!!",
+        "ja": "負けられないバトル! 試される絆!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11584088,
@@ -2366,10 +2633,12 @@
     },
     "127": {
       "episode": "127",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-13",
       "title": {
-        "en": "Episode 127"
+        "en": "The Training Royale!",
+        "romaji": "Daitokkun! Sorezore no Omoi",
+        "ja": "大特訓! それぞれの想い"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11599188,
@@ -2381,10 +2650,12 @@
     },
     "128": {
       "episode": "128",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-20",
       "title": {
-        "en": "Episode 128"
+        "en": "Dot and Quaxwell Step it Up!",
+        "romaji": "Step by Step! Dot & Welkamo!!",
+        "ja": "ステップ・バイ・ステップ! ドット＆ウェルカモ!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11612445,
@@ -2396,10 +2667,12 @@
     },
     "129": {
       "episode": "129",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-27",
       "title": {
-        "en": "Episode 129"
+        "en": null,
+        "romaji": "Kuroi Rayquaza, Kecchaku no Toki",
+        "ja": "黒いレックウザ, 決着の時"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11628728,
@@ -2411,10 +2684,12 @@
     },
     "130": {
       "episode": "130",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-06",
       "title": {
-        "en": "Episode 130"
+        "en": "Hamber`s Moonlight Battle",
+        "romaji": "Akai Tsukiyo no Hamber",
+        "ja": "赤い月夜のハンベル"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11644528,
@@ -2426,10 +2701,12 @@
     },
     "131": {
       "episode": "131",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-13",
       "title": {
-        "en": "Episode 131"
+        "en": "A Surprise Reunion",
+        "romaji": "Kitaru! Atsumaru! Nakama-tachi",
+        "ja": "来たる! 集まる! 仲間たち"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11652281,
@@ -2441,10 +2718,12 @@
     },
     "132": {
       "episode": "132",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-20",
       "title": {
-        "en": "Episode 132"
+        "en": "Lucario`s Challenge!",
+        "romaji": "Revenge Match! Lucario no Chousen!!",
+        "ja": "リベンジマッチ! ルカリオの挑戦!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11674971,
@@ -2456,10 +2735,12 @@
     },
     "133": {
       "episode": "133",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-10",
       "title": {
-        "en": "Episode 133"
+        "en": "The Final Battle Is Near",
+        "romaji": "Saigo no Tatakai e",
+        "ja": "最後の戦いへ"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11687707,
@@ -2471,10 +2752,12 @@
     },
     "134": {
       "episode": "134",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-17",
       "title": {
-        "en": "Episode 134"
+        "en": "One Step Closer",
+        "romaji": "Choujou Kessen! Mega Shinka!!",
+        "ja": "頂上決戦! メガシンカ!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11729467,
@@ -2486,10 +2769,12 @@
     },
     "135": {
       "episode": "135",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-24",
       "title": {
-        "en": "Awakening! The Lacrim Core of Destruction"
+        "en": "The Core Awakens",
+        "romaji": "Harobi no Lacrim Core",
+        "ja": "滅びのラクリウム・コア"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11729468,
@@ -2501,10 +2786,12 @@
     },
     "136": {
       "episode": "136",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-01",
       "title": {
-        "en": "Episode 136"
+        "en": "Stellar Finale",
+        "romaji": "Stella Finale",
+        "ja": "ステラ・フィナーレ"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11757265,
@@ -2516,10 +2803,12 @@
     },
     "137": {
       "episode": "137",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-22",
       "title": {
-        "en": "Reboot! Off to the World of Adventure!!"
+        "en": "Reboot! Off to the World of Adventure!!",
+        "romaji": "Reboot! Bouken no Sekai e!!",
+        "ja": "リブート! 冒険の世界へ!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11772973,
@@ -2531,10 +2820,12 @@
     },
     "138": {
       "episode": "138",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-29",
       "title": {
-        "en": "Episode 138"
+        "en": null,
+        "romaji": "Nise Rising Volteccers Toujou!?",
+        "ja": "偽ライジングボルテッカーズ登場!?"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11776247,
@@ -2546,10 +2837,12 @@
     },
     "139": {
       "episode": "139",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-05",
       "title": {
-        "en": "Episode 139"
+        "en": null,
+        "romaji": "Naisho no Metamon Rhapsody",
+        "ja": "ないしょのメタモン狂詩曲[ラプソディ]"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11816787,
@@ -2561,10 +2854,12 @@
     },
     "140": {
       "episode": "140",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-12",
       "title": {
-        "en": "Episode 140"
+        "en": null,
+        "romaji": "Pan Pan Pan! Mini Gurumin!!",
+        "ja": "パンパンパン! ミニぐるみん!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11816789,
@@ -2576,10 +2871,12 @@
     },
     "141": {
       "episode": "141",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-19",
       "title": {
-        "en": "Episode 141"
+        "en": null,
+        "romaji": "Ready Go! Unite Battle!!",
+        "ja": "READY GO! ユナイトバトル!!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11816790,
@@ -2591,10 +2888,12 @@
     },
     "142": {
       "episode": "142",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-03",
       "title": {
-        "en": "Episode 142"
+        "en": "Miare City! A New Encounter",
+        "romaji": "Miare City! Aratana Deai",
+        "ja": "ミアレシティ! 新たな出会い"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11853290,
@@ -2606,10 +2905,12 @@
     },
     "143": {
       "episode": "143",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-17",
       "title": {
-        "en": "Dream Ball to You!"
+        "en": "Dream Ball to You!",
+        "romaji": "Dream Ball o Kimi ni!",
+        "ja": "ドリームボールをキミに!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11858909,
@@ -2617,14 +2918,16 @@
       "episodeNumber": 143,
       "absoluteEpisodeNumber": 1366,
       "runtime": 25,
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/11858909/screencap/6a47e45675b12.jpg"
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11858909/screencap/6a64f0cc8ed02.jpg"
     },
     "144": {
       "episode": "144",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-31",
       "title": {
-        "en": "Episode 144"
+        "en": "Navi`s Little Adventure!",
+        "romaji": "Navi no Chiisana Daibouken!",
+        "ja": "ナヴィの小さな大冒険!"
       },
       "tvdbShowId": 76703,
       "tvdbId": 11858910,
@@ -2632,44 +2935,255 @@
       "episodeNumber": 144,
       "absoluteEpisodeNumber": 1367,
       "runtime": 25,
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/11858910/screencap/6a5a419c4543c.jpg"
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11858910/screencap/6a6eb200d9794.jpg"
     },
     "145": {
       "episode": "145",
-      "length": "25m",
-      "airDate": "2026-07-31",
+      "length": 25,
+      "airDate": "2026-08-14",
       "title": {
-        "en": "Episode 145"
+        "en": null,
+        "ja": "驚愕!メガレックウザと神秘の地!?"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 76703,
+      "tvdbId": 11896891,
+      "seasonNumber": 20,
       "episodeNumber": 145,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1368,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11896891/screencap/6a83b59dd4fa2.jpg"
     },
     "146": {
       "episode": "146",
-      "length": "25m",
-      "airDate": "2026-08-07",
+      "length": 25,
+      "airDate": "2026-08-21",
       "title": {
-        "en": "Episode 146"
+        "en": null,
+        "ja": "ウェーニバルとデカヌチャン、スリープ大作戦!"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 11896892,
+      "seasonNumber": 20,
+      "episodeNumber": 146,
+      "absoluteEpisodeNumber": 1369,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11896892/screencap/6a8a0db46d322.jpg"
+    },
+    "147": {
+      "episode": "147",
+      "length": 25,
+      "airDate": "2026-08-28",
+      "title": {
+        "en": null,
+        "ja": "激エモ!ポケモンコンテストざます!!"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 11896893,
+      "seasonNumber": 20,
+      "episodeNumber": 147,
+      "absoluteEpisodeNumber": 1370,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11896893/screencap/6a934cf64d657.jpg"
+    },
+    "148": {
+      "episode": "148",
+      "length": 25,
+      "airDate": "2026-09-04",
+      "title": {
+        "en": null,
+        "ja": "コライドン＆ミライドン! パルデア大レース!!"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 11935387,
+      "seasonNumber": 20,
+      "episodeNumber": 148,
+      "absoluteEpisodeNumber": 1371,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11935387/screencap/6a934ca556603.jpg"
+    },
+    "149": {
+      "episode": "149",
+      "length": 25,
+      "airDate": "2026-09-11",
+      "title": {
+        "en": null,
+        "ja": "プニプニポケモン! プニるプニればプニる時!!"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 11950859,
+      "seasonNumber": 20,
+      "episodeNumber": 149,
+      "absoluteEpisodeNumber": 1372,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11950859/screencap/6aaf398c6c73b.jpg"
+    },
+    "150": {
+      "episode": "150",
+      "length": 25,
+      "airDate": "2026-09-18",
+      "title": {
+        "en": null,
+        "ja": "広がる世界、キミとＧＯ!"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 11962894,
+      "seasonNumber": 20,
+      "episodeNumber": 150,
+      "absoluteEpisodeNumber": 1373,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11962894/screencap/6aaf39aadf1ab.jpg"
+    },
+    "151": {
+      "episode": "151",
+      "length": 25,
+      "airDate": "2026-09-25",
+      "title": {
+        "en": null,
+        "ja": "ナヴィと不思議な仮面の子"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 11993263,
+      "seasonNumber": 20,
+      "episodeNumber": 151,
+      "absoluteEpisodeNumber": 1374,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11993263/screencap/6aaf3a550124f.jpg"
+    },
+    "152": {
+      "episode": "152",
+      "length": 25,
+      "airDate": "2026-10-09",
+      "title": {
+        "en": null,
+        "ja": "ともっこ襲来! モモワロウの決断!!"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 11993264,
+      "seasonNumber": 20,
+      "episodeNumber": 152,
+      "absoluteEpisodeNumber": 1375,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11993264/screencap/6acd560b0b122.jpg"
+    },
+    "153": {
+      "episode": "153",
+      "length": 25,
+      "airDate": "2026-10-16",
+      "title": {
+        "en": null,
+        "ja": "災厄のパルデア　──復活"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 12017074,
+      "seasonNumber": 20,
+      "episodeNumber": 153,
+      "absoluteEpisodeNumber": 1376,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017074/screencap/6ad3e44fbdaa6.jpg"
+    },
+    "154": {
+      "episode": "154",
+      "length": 25,
+      "airDate": "2016-10-23",
+      "title": {
+        "en": null,
+        "ja": "災厄のパルデア　──驀進"
       },
       "tvdbShowId": null,
       "tvdbId": null,
       "seasonNumber": null,
-      "episodeNumber": 146,
+      "episodeNumber": 154,
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null
     },
+    "155": {
+      "episode": "155",
+      "length": 25,
+      "airDate": "2026-10-30",
+      "title": {
+        "en": null,
+        "ja": "災厄のパルデア　──再会"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 12017076,
+      "seasonNumber": 20,
+      "episodeNumber": 155,
+      "absoluteEpisodeNumber": 1378,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017076/screencap/6ae7e1f67f588.jpg"
+    },
+    "156": {
+      "episode": "156",
+      "length": 25,
+      "airDate": "2026-11-06",
+      "title": {
+        "en": null,
+        "ja": "シャリタツ、いっちょうあがり!"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 12063650,
+      "seasonNumber": 20,
+      "episodeNumber": 156,
+      "absoluteEpisodeNumber": 1379,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12063650/screencap/6aef46f624a52.jpg"
+    },
+    "157": {
+      "episode": "157",
+      "length": 25,
+      "airDate": "2026-11-13",
+      "title": {
+        "en": null,
+        "ja": "華麗に登場! ダンディH!!"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 12068041,
+      "seasonNumber": 20,
+      "episodeNumber": 157,
+      "absoluteEpisodeNumber": 1380,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12068041/screencap/6af8744f696cf.jpg"
+    },
+    "158": {
+      "episode": "158",
+      "length": 25,
+      "airDate": "2026-11-20",
+      "title": {
+        "en": null,
+        "ja": "熱いハートは飛び火して"
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 12068042,
+      "seasonNumber": 20,
+      "episodeNumber": 158,
+      "absoluteEpisodeNumber": 1381,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12068042/screencap/6b01ad2deaf68.jpg"
+    },
+    "159": {
+      "episode": "159",
+      "length": 25,
+      "airDate": "2026-11-27",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 12068043,
+      "seasonNumber": 20,
+      "episodeNumber": 159,
+      "absoluteEpisodeNumber": 1382,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12068043/screencap/6b0045c3d5fca.jpg"
+    },
     "S1": {
       "episode": "S1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-01-05",
       "title": {
-        "en": "New Year Special"
+        "en": "New Year Special",
+        "romaji": "Oshougatsu Special",
+        "ja": "お正月スペシャル"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2681,7 +3195,7 @@
     },
     "S2": {
       "episode": "S2",
-      "length": "1m",
+      "length": 1,
       "airDate": "",
       "title": {
         "en": "Pokemon GO Collab Short"
@@ -2694,24 +3208,9 @@
       "runtime": null,
       "image": null
     },
-    "S3": {
-      "episode": "S3",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "Pokemon GO Collab Short 2"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
     "S4": {
       "episode": "S4",
-      "length": "2m",
+      "length": 2,
       "airDate": "",
       "title": {
         "en": "LikoRoy Channel 01"
@@ -2726,7 +3225,7 @@
     },
     "S5": {
       "episode": "S5",
-      "length": "3m",
+      "length": 3,
       "airDate": "",
       "title": {
         "en": "LikoRoy Channel 02"
@@ -2741,7 +3240,7 @@
     },
     "S6": {
       "episode": "S6",
-      "length": "1m",
+      "length": 1,
       "airDate": "",
       "title": {
         "en": "LikoRoy Channel 03"
@@ -2756,10 +3255,11 @@
     },
     "S7": {
       "episode": "S7",
-      "length": "1m",
+      "length": 1,
       "airDate": "",
       "title": {
-        "en": "LikoRoy Channel 04"
+        "en": "LikoRoy Channel 04",
+        "ja": "2024-10-24"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2771,10 +3271,11 @@
     },
     "S8": {
       "episode": "S8",
-      "length": "1m",
+      "length": 1,
       "airDate": "",
       "title": {
-        "en": "LikoRoy Channel 05"
+        "en": "LikoRoy Channel 05",
+        "ja": "2024-11-14"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2786,10 +3287,11 @@
     },
     "S9": {
       "episode": "S9",
-      "length": "1m",
+      "length": 1,
       "airDate": "",
       "title": {
-        "en": "LikoRoy Channel 06"
+        "en": "LikoRoy Channel 06",
+        "ja": "2024-11-28"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2801,7 +3303,7 @@
     },
     "S10": {
       "episode": "S10",
-      "length": "1m",
+      "length": 1,
       "airDate": "",
       "title": {
         "en": "LikoRoy Channel 07"
@@ -2816,7 +3318,7 @@
     },
     "S11": {
       "episode": "S11",
-      "length": "1m",
+      "length": 1,
       "airDate": "",
       "title": {
         "en": "LikoRoy Channel 08"
@@ -2831,7 +3333,7 @@
     },
     "S12": {
       "episode": "S12",
-      "length": "1m",
+      "length": 1,
       "airDate": "",
       "title": {
         "en": "LikoRoy Channel 09"
@@ -2846,7 +3348,7 @@
     },
     "S13": {
       "episode": "S13",
-      "length": "1m",
+      "length": 1,
       "airDate": "",
       "title": {
         "en": "LikoRoy Channel 10"
@@ -2859,417 +3361,12 @@
       "runtime": null,
       "image": null
     },
-    "T1": {
-      "episode": "T1",
-      "length": "1m",
+    "S3": {
+      "episode": "S3",
+      "length": 1,
       "airDate": "",
       "title": {
-        "en": "PV - Climax of Chapter 1 - Liko and Roy Set Off (0:55)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T2": {
-      "episode": "T2",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "PV - Chapter 2 - The Sparkling of Terapagos (00:55)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T3": {
-      "episode": "T3",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "Episode 31 Preview (00:55)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T4": {
-      "episode": "T4",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "PV - Climax of Chapter 2 - The Sparkling of Terapagos (00:46)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T5": {
-      "episode": "T5",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "PV - Chapter 3 - Terastal Debut (00:45)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T6": {
-      "episode": "T6",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "CM - Chapter 3 - Terastal Debut (00:30)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T7": {
-      "episode": "T7",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "Chapter 3 - Terastal Debut - Terastal Course Implementation Tests Special Preview (00:45)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T8": {
-      "episode": "T8",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "PV - Climax of Chapter 3 - Terastal Debut (00:45)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T9": {
-      "episode": "T9",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "Chapter 4 - Rayquaza Rising - New Year 2025 Teaser (00:55)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T10": {
-      "episode": "T10",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "PV - Chapter 4 - Rayquaza Rising (00:55)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T11": {
-      "episode": "T11",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "Chapter 4 - Rayquaza Rising - Latest Info 1 (00:55)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T12": {
-      "episode": "T12",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "Chapter 4 - Rayquaza Rising - Latest Info 2 (00:55)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T13": {
-      "episode": "T13",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "PV - Chapter 4 - Rayquaza Rising - The Final Battle at Rakua (00:55)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T14": {
-      "episode": "T14",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "PV - Climax of Chapter 4 - Rayquaza Rising (00:45)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T15": {
-      "episode": "T15",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "PV - Climax of Chapter 5 - Mega Voltage (00:55)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T16": {
-      "episode": "T16",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "PV - Chapter 6 - Episode: Mega Evolution (1) (00:40)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T17": {
-      "episode": "T17",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "PV - Chapter 6 - Episode: Mega Evolution (2) (00:40)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T18": {
-      "episode": "T18",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "Episode 112 Preview (00:30)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T19": {
-      "episode": "T19",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "Reveal PV - Chapter 7 - Rising Again (00:40)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T20": {
-      "episode": "T20",
-      "length": "2m",
-      "airDate": "",
-      "title": {
-        "en": "Chapter 7 - Rising Again - Cast & Theme Songs Reveal PV (01:45)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T21": {
-      "episode": "T21",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "Main PV - Chapter 7 - Rising Again (00:50)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T22": {
-      "episode": "T22",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "Episode 115 Preview (00:30)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T23": {
-      "episode": "T23",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "Episode 121 Preview (00:30)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T24": {
-      "episode": "T24",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "PV - Chapter 7 - Rising Again - Allies Unite Part (00:45)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T25": {
-      "episode": "T25",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "Episode 132 Preview (00:30)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T26": {
-      "episode": "T26",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "PV - Chapter 7 - Rising Again - Rakua Final Showdown (0:55)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T27": {
-      "episode": "T27",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "PV - Chapter 7 - Rising Again - Climax (00:36)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T28": {
-      "episode": "T28",
-      "length": "1m",
-      "airDate": "",
-      "title": {
-        "en": "Reveal PV - Chapter 8 - Wonder Voyage (00:25)"
+        "en": "Pokemon GO Collab Short 2"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -3281,15 +3378,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T05:59:03.260Z",
+    "lastFetched": "2026-11-22T00:41:06.662Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

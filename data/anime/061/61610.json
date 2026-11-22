@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -52,7 +48,9 @@
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Historical",
+    "Martial Arts"
   ],
   "studios": [
     "Motion Magic"
@@ -61,7 +59,7 @@
     "iQIYI"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1795/156922l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1795/156922l.webp",
     "banner": null,
     "color": "#e45093"
   },
@@ -84,12 +82,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:35:28.581Z",
+    "lastFetched": "2026-11-22T00:48:00.652Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

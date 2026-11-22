@@ -38,11 +38,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -52,7 +48,9 @@
   },
   "genres": [
     "Action",
-    "Fantasy"
+    "Fantasy",
+    "Isekai",
+    "Reincarnation"
   ],
   "studios": [
     "East Fish Studio"
@@ -61,21 +59,25 @@
     "Asmik Ace"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1487/158663l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1487/158663l.webp",
     "banner": null,
     "color": "#e48650"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "bFi74B3n80o",
+    "url": "https://www.youtube.com/watch?v=bFi74B3n80o",
+    "thumbnail": "https://i.ytimg.com/vi/bFi74B3n80o/hqdefault.jpg"
+  },
   "synopsis": "\"Fortune and Misfortune are two sides of the same coin?! Reverse any adversary and cease redemption!!\" Siegbert is reborn after an unfortunate accident in his previous life. His new family is warm and welcoming... so much so it seems as though he may no longer be an unlucky person. In this world, he can finally live a quiet, peaceful life... or so he thought. It seems that he actually holds an insanely high luck stat in this new world...? \"Every chance is a manifestation of good fortune. If you can cease the chances, your wishes shall be granted...\" Conquering each \"chance\" granted by his good fortune, will he now cease redemption on the generational legacy this family has yet to fulfill?!\n\n(Source: Starts Shuppan)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:56:40.865Z",
+    "lastFetched": "2026-11-22T00:50:59.007Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

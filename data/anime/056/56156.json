@@ -25,21 +25,17 @@
   },
   "type": "ONA",
   "source": "Original",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 13,
-  "episodeLength": null,
+  "episodeLength": 9,
   "aired": {
     "from": "2020-08-01T00:00:00+00:00",
-    "to": null
+    "to": "2023-02-23T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2020,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -48,7 +44,9 @@
     "kitsuRating": null
   },
   "genres": [
-    "Comedy"
+    "Anthropomorphic",
+    "Comedy",
+    "Gag Humor"
   ],
   "studios": [],
   "producers": [],
@@ -57,20 +55,25 @@
     "banner": null,
     "color": "#35c9f1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "9VuX2PrP54E",
+    "url": "https://www.youtube.com/watch?v=9VuX2PrP54E",
+    "thumbnail": "https://i.ytimg.com/vi/9VuX2PrP54E/hqdefault.jpg"
+  },
   "synopsis": "A web series created by Karameru that compiles several of his shorts plus new animation sketches.",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T15:30:23.189Z",
+    "lastFetched": "2026-11-22T00:42:19.576Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

@@ -7,10 +7,10 @@
     "anidb": 18208,
     "kitsu": 47985,
     "simkl": 2263622,
-    "tmdb": null,
-    "tvdb": null,
-    "trakt": null,
-    "traktType": null,
+    "tmdb": 335194,
+    "tvdb": 440056,
+    "trakt": 328687,
+    "traktType": "shows",
     "shikimori": 56733,
     "livechart": 12344,
     "animeplanet": "magical-explorer",
@@ -25,37 +25,43 @@
       "Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim",
       "Magical Explorer: Reincarnated as an Eroge Hero's Friend",
       "I'll Live Freely With My Eroge Knowledge.",
-      "Majieku"
+      "Majieku",
+      "マジエク"
     ]
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 13,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-04T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Sundays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 10,
+    "airingAt": 1795878000
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.84,
+    "anilistScore": 6.9,
     "kitsuRating": null
   },
   "genres": [
     "Adventure",
     "Comedy",
     "Ecchi",
+    "Harem",
+    "Isekai",
     "Action",
     "Fantasy",
     "Romance"
@@ -64,27 +70,253 @@
     "White Fox"
   ],
   "producers": [
-    "Aniplex"
+    "Aniplex",
+    "BS11",
+    "JR Higashi Nihon Kikaku",
+    "Contents Seed",
+    "SYSTEM SERVICE",
+    "TOKYO MX",
+    "Yomiuri TV",
+    "SANKYO"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1414/156298l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1666/160106l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169581-cdooqY7Jqy3x.jpg",
     "color": "#f1a150"
   },
-  "trailer": null,
-  "synopsis": "Reincarnated as a character in the legendary erotic game, “Magical Explorer,” it doesn’t take long for our hero to discover that he’s been designated the unlucky side-character rather than the game’s lady-killer protagonist. Not to worry, though! Armed with his vast knowledge of the game (and a few cheats) he’ll do whatever it takes to win the hearts of the game’s heroines and emerge as the most accomplished student at the Sorcerer's Academy!\n\n(Source: Yen Press)",
+  "trailer": {
+    "youtubeId": "XqrBfyUNYZs",
+    "url": "https://www.youtube.com/watch?v=XqrBfyUNYZs",
+    "thumbnail": "https://i.ytimg.com/vi/XqrBfyUNYZs/hqdefault.jpg"
+  },
+  "synopsis": "Reincarnated as a character in the legendary erotic game, \"Magical Explorer,\" it doesn't take long for our hero to discover that he's been designated the unlucky side-character rather than the game's lady-killer protagonist. Not to worry, though! Armed with his vast knowledge of the game (and a few cheats) he'll do whatever it takes to win the hearts of the game's heroines and emerge as the most accomplished student at the Sorcerer's Academy!\n\n(Source: Yen Press)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-04",
+      "title": {
+        "en": "Reincarnated as a Sidekick Character in an Eroge, but I`ll Use My Game Knowledge to Do What I Want",
+        "romaji": "Eroge no Yuujin Kyara ni Tensei Shita kedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
+        "ja": "エロゲの友人キャラに転生したけど, ゲーム知識使って自由に生きる"
+      },
+      "tvdbShowId": 440056,
+      "tvdbId": 10050355,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10050355/screencap/6ac06004bf526.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-11",
+      "title": {
+        "en": "Greetings From the Land of the Elves",
+        "romaji": "Elf no Kuni kara Gokigenyou",
+        "ja": "エルフの国からごきげんよう"
+      },
+      "tvdbShowId": 440056,
+      "tvdbId": 12017079,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017079/screencap/6ac13f508ce7b.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-18",
+      "title": {
+        "en": "Staples of Any Eroge",
+        "romaji": "Eroge ni wa Kanarazu Aru Mono",
+        "ja": "エロゲには必ずあるもの"
+      },
+      "tvdbShowId": 440056,
+      "tvdbId": 12017080,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017080/screencap/6aca6081d405d.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-25",
+      "title": {
+        "en": "Determination",
+        "romaji": "Ketsui",
+        "ja": "決意"
+      },
+      "tvdbShowId": 440056,
+      "tvdbId": 12017081,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017081/screencap/6ad3a02e417ad.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-01",
+      "title": {
+        "en": "Greetings, Tsukuyomi Magic Academy",
+        "romaji": "Gokigenyou, Tsukuyomi Mahou Gakuen",
+        "ja": "ごきげんよう, ツクヨミ魔法学園"
+      },
+      "tvdbShowId": 440056,
+      "tvdbId": 12017108,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017108/screencap/6adcda7e3aed1.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-08",
+      "title": {
+        "en": "Stormy Skies! Carplin Castle",
+        "romaji": "Fuun!! Gyoburinjou",
+        "ja": "風雲!! ギョブリン城"
+      },
+      "tvdbShowId": 440056,
+      "tvdbId": 12017109,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017109/screencap/6ae615c24b198.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-15",
+      "title": {
+        "en": "And, from Here",
+        "romaji": "Soshite, Kore kara",
+        "ja": "そして, これから"
+      },
+      "tvdbShowId": 440056,
+      "tvdbId": 12017110,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017110/screencap/6aef4f497fb01.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-22",
+      "title": {
+        "en": null,
+        "romaji": "Sore wa Pink no Bakudan",
+        "ja": "それはピンクの爆弾"
+      },
+      "tvdbShowId": 440056,
+      "tvdbId": 12017111,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017111/screencap/6af8899222d4d.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-11-29",
+      "title": {
+        "en": null,
+        "romaji": "Sankyou: Mizumori Yukine",
+        "ja": "三強 水守雪音"
+      },
+      "tvdbShowId": 440056,
+      "tvdbId": 12017112,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12017112/screencap/6b01c3542e53e.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-06",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 440056,
+      "tvdbId": 12017113,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-13",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 440056,
+      "tvdbId": 12017114,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-20",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 440056,
+      "tvdbId": 12017115,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": 25,
+      "airDate": "2026-12-27",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 440056,
+      "tvdbId": 12017116,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T16:08:37.967Z",
+    "lastFetched": "2026-11-22T00:42:36.991Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

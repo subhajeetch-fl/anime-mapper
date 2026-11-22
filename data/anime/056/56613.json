@@ -28,13 +28,13 @@
   },
   "type": "TV",
   "source": "4-koma manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 9,
   "aired": {
     "from": "2026-07-06T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-21T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -43,18 +43,18 @@
     "time": "01:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788710400
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.71,
-    "anilistScore": 6.2,
+    "malScore": 6.77,
+    "anilistScore": 6.6,
     "kitsuRating": null
   },
   "genres": [
+    "Anthropomorphic",
+    "CGDCT",
     "Comedy",
+    "Military",
     "Sci-Fi",
     "Ecchi",
     "Slice of Life"
@@ -63,7 +63,6 @@
     "Studio CANDY BOX"
   ],
   "producers": [
-    "DAX Production",
     "Yostar"
   ],
   "images": {
@@ -71,7 +70,11 @@
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169080-HcBclO97a4SE.jpg",
     "color": "#fefe28"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "rPZZCDVGqF4",
+    "url": "https://www.youtube.com/watch?v=rPZZCDVGqF4",
+    "thumbnail": "https://i.ytimg.com/vi/rPZZCDVGqF4/hqdefault.jpg"
+  },
   "synopsis": "Second season of Azur Lane: Bisoku Zenshin!.",
   "sequence": [
     {
@@ -91,150 +94,219 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "9m",
+      "length": 9,
       "airDate": "2026-07-06",
       "title": {
-        "en": "Onwards to Adventure!"
+        "en": "Onwards to Adventure!",
+        "romaji": "Bouken no Tabi ni Shuppaatsu!",
+        "ja": "冒険の旅にしゅっぱーつ!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 392491,
+      "tvdbId": 10722745,
+      "seasonNumber": 2,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 14,
+      "runtime": 9,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10722745/screencap/6a49ab408c3a7.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "9m",
+      "length": 9,
       "airDate": "2026-07-13",
       "title": {
-        "en": "The Power of Healing Is Important."
+        "en": "The Power of Healing Is Important.",
+        "romaji": "Iyashi no Chikara wa Taisetsu Desu.",
+        "ja": "癒しの力は大切です."
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 392491,
+      "tvdbId": 11872556,
+      "seasonNumber": 2,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 15,
+      "runtime": 9,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872556/screencap/6a52e3d0e2716.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "9m",
+      "length": 9,
       "airDate": "2026-07-20",
       "title": {
-        "en": "Episode 3"
+        "en": "So, This Is the World of Adults...",
+        "romaji": "Kore ga, Otona no Sekai...",
+        "ja": "これが, オトナの世界..."
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 392491,
+      "tvdbId": 11872557,
+      "seasonNumber": 2,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 16,
+      "runtime": 9,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872557/screencap/6a59a28a5fe17.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "9m",
+      "length": 9,
       "airDate": "2026-07-27",
       "title": {
-        "en": "Episode 4"
+        "en": "Fight for the Prize!",
+        "romaji": "Tatakatte Kachitorunda yo!",
+        "ja": "戦って勝ち取るんだよ!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 392491,
+      "tvdbId": 11872558,
+      "seasonNumber": 2,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 17,
+      "runtime": 9,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872558/screencap/6a65625b5a968.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "9m",
+      "length": 9,
       "airDate": "2026-08-03",
       "title": {
-        "en": "Episode 5"
+        "en": "So in Other Words, Girl Power?",
+        "romaji": "Tsumari wa Joshiryoku?",
+        "ja": "つまりは女子力?"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 392491,
+      "tvdbId": 11872559,
+      "seasonNumber": 2,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 18,
+      "runtime": 9,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872559/screencap/6a6d2322b1e60.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "9m",
+      "length": 9,
       "airDate": "2026-08-10",
       "title": {
-        "en": "Episode 6"
+        "en": "Leave It to Laffey!",
+        "romaji": "Laffey ni Omakase!",
+        "ja": "ラフィーにお任せ!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 392491,
+      "tvdbId": 11872560,
+      "seasonNumber": 2,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 19,
+      "runtime": 9,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872560/screencap/6a780169caae9.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "9m",
+      "length": 9,
       "airDate": "2026-08-17",
       "title": {
-        "en": "Episode 7"
+        "en": "The Godlike Way to Spend a Holiday.",
+        "ja": "神様的休息日の過ごし方."
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 392491,
+      "tvdbId": 11872561,
+      "seasonNumber": 2,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 20,
+      "runtime": 9,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872561/screencap/6a80f7c934926.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "9m",
+      "length": 9,
       "airDate": "2026-08-24",
       "title": {
-        "en": "Episode 8"
+        "en": "Please Forgive My Sins...",
+        "romaji": "Watashi no Tsumi o Oyurushi Kudasai...",
+        "ja": "私の罪をお赦しください..."
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 392491,
+      "tvdbId": 11872562,
+      "seasonNumber": 2,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 21,
+      "runtime": 9,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872562/screencap/6a8a21f2bdc3d.jpg"
     },
-    "C1": {
-      "episode": "C1",
-      "length": "2m",
-      "airDate": "2026-07-06",
+    "9": {
+      "episode": "9",
+      "length": 9,
+      "airDate": "2026-08-31",
       "title": {
-        "en": "Ending"
+        "en": "My Lucky Item?",
+        "romaji": "Watashi no Lucky Item?",
+        "ja": "わたしのラッキーアイテム?"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 392491,
+      "tvdbId": 11872563,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 9,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872563/screencap/6a938a29940ff.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 9,
+      "airDate": "2026-09-07",
+      "title": {
+        "en": "Let`s Enjoy Some Delicious Sweets.",
+        "romaji": "Oishii Sweets o Tabemashouka.",
+        "ja": "美味しいスイーツを食べましょうか."
+      },
+      "tvdbShowId": 392491,
+      "tvdbId": 11872564,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 9,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872564/screencap/6a9ca1f5b36f6.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 9,
+      "airDate": "2026-09-14",
+      "title": {
+        "en": "I Wish I Didn`t Have to Shoot...",
+        "romaji": "Utazu ni Sumeba, Yokattanda kedo ne...",
+        "ja": "撃たずに済めば, 良かったんだけどね..."
+      },
+      "tvdbShowId": 392491,
+      "tvdbId": 11872565,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 9,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872565/screencap/6aa60746cbcf7.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 9,
+      "airDate": "2026-09-21",
+      "title": {
+        "en": "Tomorrow Will Probably Be Fun Too.",
+        "romaji": "Ashita mo Kitto Tanoshii Desu.",
+        "ja": "明日もきっと楽しいです."
+      },
+      "tvdbShowId": 392491,
+      "tvdbId": 11872566,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 9,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872566/screencap/6aaf38b4855ea.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T16:08:23.652Z",
+    "lastFetched": "2026-11-22T00:42:30.661Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

@@ -5,21 +5,21 @@
     "mal": 62039,
     "anilist": 194207,
     "anidb": 19789,
-    "kitsu": null,
+    "kitsu": 51004,
     "simkl": 2975268,
-    "tmdb": null,
-    "tvdb": null,
-    "trakt": null,
-    "traktType": null,
+    "tmdb": 309202,
+    "tvdb": 483116,
+    "trakt": 312090,
+    "traktType": "shows",
     "shikimori": 62039,
-    "livechart": null,
-    "animeplanet": null,
+    "livechart": 13453,
+    "animeplanet": "pandorobo",
     "anisearch": 21134,
     "notify": null
   },
   "title": {
     "romaji": "Pan Dorobou",
-    "english": null,
+    "english": "The Bread Thief",
     "native": "パンどろぼう",
     "synonyms": [
       "The Bread Thief",
@@ -28,22 +28,25 @@
   },
   "type": "TV",
   "source": "Picture book",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 26,
+  "episodeLength": 10,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-02T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Fridays",
+    "time": "18:40",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 9,
+    "airingAt": 1795772400
+  },
   "rating": "G - All Ages",
   "score": {
     "malScore": null,
@@ -51,34 +54,223 @@
     "kitsuRating": null
   },
   "genres": [
+    "Anthropomorphic",
     "Gourmet",
+    "Kids",
     "Comedy"
   ],
   "studios": [
     "Shin-Ei Animation"
   ],
   "producers": [
-    "Kadokawa"
+    "KADOKAWA",
+    "NHK"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1195/154777l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1630/160103l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194207-6yQitDZ3uOi5.jpg",
     "color": "#e4a10d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "dUSYa-7rKpM",
+    "url": "https://www.youtube.com/watch?v=dUSYa-7rKpM",
+    "thumbnail": "https://i.ytimg.com/vi/dUSYa-7rKpM/hqdefault.jpg"
+  },
   "synopsis": "The picture books center on a piece of bread that also steals bread from bakeries in the city.\n\n(Source: ANN)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 10,
+      "airDate": "2026-10-02",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": 10,
+      "airDate": "2026-10-09",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": 10,
+      "airDate": "2026-10-16",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": 10,
+      "airDate": "2026-10-23",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": 10,
+      "airDate": "2026-10-30",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": 10,
+      "airDate": "2026-11-06",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": 10,
+      "airDate": "2026-11-13",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": 10,
+      "airDate": "2026-11-20",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": 10,
+      "airDate": "2026-11-27",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 10,
+      "airDate": "2026-12-04",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 10,
+      "airDate": "2026-12-11",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 10,
+      "airDate": "2026-12-18",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-08-04T12:55:02.264Z",
+    "lastFetched": "2026-11-22T00:49:30.848Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

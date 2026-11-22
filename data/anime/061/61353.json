@@ -25,26 +25,22 @@
   },
   "type": "OVA",
   "source": "Original",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 2,
+  "episodeLength": 24,
   "aired": {
     "from": "2025-03-28T00:00:00+00:00",
-    "to": null
+    "to": "2025-06-27T00:00:00+00:00"
   },
   "season": "winter",
   "year": 2025,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 6.37,
-    "anilistScore": 5.6,
+    "malScore": 6.2,
+    "anilistScore": 5.9,
     "kitsuRating": null
   },
   "genres": [
@@ -55,7 +51,7 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1986/150088l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1986/150088l.webp",
     "banner": null,
     "color": "#0d6bbb"
   },
@@ -64,12 +60,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T21:29:33.726Z",
+    "lastFetched": "2026-11-22T00:47:18.817Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

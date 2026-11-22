@@ -28,18 +28,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 1,
   "aired": {
     "from": "2022-07-29T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2022,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG - Children",
   "score": {
@@ -48,6 +44,8 @@
     "kitsuRating": null
   },
   "genres": [
+    "Iyashikei",
+    "Kids",
     "Slice of Life"
   ],
   "studios": [],
@@ -60,35 +58,17 @@
   "trailer": null,
   "synopsis": "Pokepeace is a small town somewhere in the world. There was a share house where Pokemon and humans gathered. Living here is a leisurely and free life. Nap together or have a party on a special day. \"Peace\" life of Pokemon. Why don't you take a look?\n\n(Source: Official YouTube Channel)",
   "sequence": [],
-  "episodes": {
-    "1": {
-      "episode": "1",
-      "length": null,
-      "airDate": "2022-07-29T00:00:00+00:00",
-      "title": {
-        "en": "Episode 1",
-        "romaji": null,
-        "ja": "「ポケピース」コンセプトムービー"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    }
-  },
+  "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T10:50:22.188Z",
+    "lastFetched": "2026-11-22T00:40:49.468Z",
     "sourcesUsed": [
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "jikan-episodes (fallback)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

@@ -25,13 +25,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
   "episodeLength": 24,
   "aired": {
     "from": "2026-07-01T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-16T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -40,146 +40,249 @@
     "time": "22:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 8,
-    "airingAt": 1786541400
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.09,
+    "malScore": 7,
     "anilistScore": 7,
     "kitsuRating": null
   },
   "genres": [
     "Fantasy",
-    "Comedy",
-    "Maid",
-    "Isekai"
+    "Isekai",
+    "Reincarnation",
+    "Comedy"
   ],
   "studios": [
     "EMT Squared"
   ],
   "producers": [
-    "Lantis",
-    "DAX Production",
-    "KlockWorx",
-    "BS Fuji",
-    "Docomo Anime Store",
-    "Yomiuri TV Enterprise",
     "TO Books",
+    "Yomiuri TV Enterprise",
+    "Docomo Anime Store",
+    "Bandai Namco Music Live",
     "MAGNET",
-    "Bandai Namco Music Live"
+    "BS Fuji",
+    "EMT Squared",
+    "KLOCKWORX"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1498/158290l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192800-1EhTN0zOxQsW.jpg",
     "color": "#f1e4ae"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "I9V_HpMr3_8",
+    "url": "https://www.youtube.com/watch?v=I9V_HpMr3_8",
+    "thumbnail": "https://i.ytimg.com/vi/I9V_HpMr3_8/hqdefault.jpg"
+  },
   "synopsis": "\"I will become the world's most wonderful maid!\" With her skirt fluttering in black and white, the girl shouted. Her name is Melody. A reincarnated former Japanese girl, she now pursues her dream in her new life, working as an all-purpose maid for a poor count's family in the kingdom of Théolas. When she makes it, even cheap tea turns into a luxury brew, and a dilapidated mansion is quickly restored to new! Cleaning, serving, hunting, DIY—leave it all to her and her powerful magic.\n\nUnbeknownst to Melody, this world is actually an otome game, and she is the most powerful and invincible heroine, the saint! Yet, she remains oblivious to this fact. Romance with handsome men? Attacks by the Demon Lord? Work comes first! A fantasy of misunderstood work that unknowingly shatters destiny!\n\n(Source: Seven Seas Entertainment)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
-      "airDate": "2026-06-24",
+      "length": 25,
+      "airDate": "2026-07-01",
       "title": {
-        "en": "The Girl Who Wanted to Be a Maid"
+        "en": "The Girl Who Wanted to Be a Maid",
+        "ja": "メイドになりたかった少女"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 463578,
+      "tvdbId": 11139531,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11139531/screencap/6a370ebc5b877.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
-      "airDate": "2026-07-01",
+      "length": 25,
+      "airDate": "2026-07-08",
       "title": {
-        "en": "At This Moment, a Maid`s Superiority Is About to Unfold"
+        "en": "At This Moment, a Maid`s Superiority Is About to Unfold",
+        "ja": "今ここにメイドの無双が始まります"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 463578,
+      "tvdbId": 11854415,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11854415/screencap/6a4517cc44d9c.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
-      "airDate": "2026-07-08",
+      "length": 25,
+      "airDate": "2026-07-15",
       "title": {
-        "en": "Two Girls Proceed to the Royal Castle"
+        "en": "Two Girls Proceed to the Royal Castle",
+        "ja": "二人の少女は王城へ赴く"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 463578,
+      "tvdbId": 11854416,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11854416/screencap/6a4e52371cd16.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
-      "airDate": "2026-07-15",
+      "length": 25,
+      "airDate": "2026-07-22",
       "title": {
-        "en": "The Truth Beneath the Moonlight"
+        "en": "The Truth Beneath the Moonlight",
+        "ja": "月下の真実"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 463578,
+      "tvdbId": 11868560,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868560/screencap/6a578c55e548c.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
-      "airDate": "2026-07-22",
+      "length": 25,
+      "airDate": "2026-07-29",
       "title": {
-        "en": "Episode 5"
+        "en": "Sudden Seriousness",
+        "ja": "シリアスは突然に"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 463578,
+      "tvdbId": 11868561,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868561/screencap/6a60cbb72bd4a.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
-      "airDate": "2026-07-29",
+      "length": 25,
+      "airDate": "2026-08-05",
       "title": {
-        "en": "Episode 6"
+        "en": "The House of Rudleberg`s All-Works Maid",
+        "ja": "ルトルバーグ家のオールワークスメイド"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 463578,
+      "tvdbId": 11868562,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868562/screencap/6a6a057f1f5ed.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-12",
+      "title": {
+        "en": "Anna-Marie`s Exciting Day-Off Date",
+        "ja": "アンネマリーのドキドキ休日デート"
+      },
+      "tvdbShowId": 463578,
+      "tvdbId": 11868563,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868563/screencap/6a733d6264c5f.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-19",
+      "title": {
+        "en": "A New Encounter at the Royal Academy",
+        "ja": "王立学園の新たな出会い"
+      },
+      "tvdbShowId": 463578,
+      "tvdbId": 11868564,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868564/screencap/6a7c788b563c1.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-26",
+      "title": {
+        "en": "A Knight`s Reunion and the Wavering Pride of a Maid",
+        "ja": "再会の騎士と揺れるメイド魂"
+      },
+      "tvdbShowId": 463578,
+      "tvdbId": 11868565,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868565/screencap/6a85b951981c2.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-02",
+      "title": {
+        "en": "The Jealous Witch Incident",
+        "ja": "嫉妬の魔女事件"
+      },
+      "tvdbShowId": 463578,
+      "tvdbId": 11868566,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868566/screencap/6a8ef29a7904e.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-09",
+      "title": {
+        "en": "The Choice the Ladies Make",
+        "ja": "彼女達の選択肢"
+      },
+      "tvdbShowId": 463578,
+      "tvdbId": 11868567,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868567/screencap/6a982735bd985.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-16",
+      "title": {
+        "en": "The World`s Most Wonderful Maid",
+        "ja": "世界一素敵なメイド"
+      },
+      "tvdbShowId": 463578,
+      "tvdbId": 11868568,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868568/screencap/6aa162213557d.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-08-06T12:49:47.548Z",
+    "lastFetched": "2026-11-22T00:48:24.948Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

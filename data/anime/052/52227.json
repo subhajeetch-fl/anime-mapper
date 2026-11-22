@@ -23,23 +23,19 @@
     "native": "iichiko story",
     "synonyms": []
   },
-  "type": "Special",
+  "type": "CM",
   "source": "Other",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 4,
+  "episodeLength": 3,
   "aired": {
     "from": "2021-06-24T00:00:00+00:00",
-    "to": null
+    "to": "2024-06-26T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "spring",
+  "year": 2021,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -48,6 +44,7 @@
     "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
     "Slice of Life"
   ],
   "studios": [
@@ -66,16 +63,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T10:44:57.966Z",
+    "lastFetched": "2026-11-22T00:40:48.027Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
       "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

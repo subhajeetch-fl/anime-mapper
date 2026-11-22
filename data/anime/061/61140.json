@@ -5,7 +5,7 @@
     "mal": 61140,
     "anilist": 187316,
     "anidb": 19194,
-    "kitsu": null,
+    "kitsu": 50988,
     "simkl": 2731104,
     "tmdb": 285710,
     "tvdb": null,
@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 61140,
     "livechart": 13068,
-    "animeplanet": "gensou-suikoden",
+    "animeplanet": "suikoden-the-anime",
     "anisearch": 20276,
     "notify": "z90736tNg"
   },
@@ -27,26 +27,29 @@
   },
   "type": "TV",
   "source": "Game",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 23,
+  "episodeLength": 25,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-03T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Tuesdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795530600
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.38,
+    "anilistScore": 5.8,
     "kitsuRating": null
   },
   "genres": [
@@ -58,27 +61,237 @@
     "Konami animation"
   ],
   "producers": [
-    "NBCUniversal Entertainment Japan"
+    "NBCUniversal Entertainment Japan",
+    "KADOKAWA",
+    "Kansai TV",
+    "BS Asahi",
+    "Konami Digital Entertainment",
+    "Frontier Works",
+    "Shouchiku",
+    "TOKYO MX",
+    "INSPION EDGE"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1405/156377l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
     "banner": null,
     "color": "#e4bb5d"
   },
-  "trailer": null,
-  "synopsis": "Anime adaptation of the game Gensou Suikoden II.",
+  "trailer": {
+    "youtubeId": "m4T9VcBD0vo",
+    "url": "https://www.youtube.com/watch?v=m4T9VcBD0vo",
+    "thumbnail": "https://i.ytimg.com/vi/m4T9VcBD0vo/hqdefault.jpg"
+  },
+  "synopsis": "Our story's hero and his friend Jowy are members of the Unicorn Youth Brigade, which participated in a drawn-out border dispute between the Highland Kingdom and the City- States of Jowstown. A few months earlier, a truth agreement was signed between the two forces, both of which were happy to see an end to the fighting. However, hidden under the momentary peace the fires of a new war continued to smolder...\n\n(Source: ANN)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 55,
+      "airDate": "2026-10-03",
+      "title": {
+        "en": "Hometown",
+        "romaji": "Furusato",
+        "ja": "故郷"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-13",
+      "title": {
+        "en": "Mad Prince Luca",
+        "romaji": "Kyou Ouji Luca",
+        "ja": "狂皇子ルカ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-20",
+      "title": {
+        "en": "The Runes",
+        "romaji": "Monshou",
+        "ja": "紋章"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-27",
+      "title": {
+        "en": "Turning Point",
+        "romaji": "Bunkiten",
+        "ja": "分岐点"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-03",
+      "title": {
+        "en": "Parting Ways",
+        "romaji": "Wakare",
+        "ja": "別れ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-10",
+      "title": {
+        "en": "The Strategist",
+        "romaji": "Gunshi Shuu",
+        "ja": "軍師シュウ"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-17",
+      "title": {
+        "en": "A New Beginning",
+        "romaji": "Shidou",
+        "ja": "始動"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-24",
+      "title": {
+        "en": null,
+        "romaji": "Two River: Zenpen",
+        "ja": "トゥーリバー・前編"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-12-01",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-08",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-15",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-22",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-08-04T12:52:02.081Z",
+    "lastFetched": "2026-11-22T00:46:30.186Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

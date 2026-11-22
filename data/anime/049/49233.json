@@ -30,13 +30,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": 23,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-08T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-23T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -45,34 +45,27 @@
     "time": "21:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 9,
-    "airingAt": 1788352200
-  },
+  "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": 8.37,
-    "anilistScore": 8.1,
-    "kitsuRating": 8.05
+    "malScore": 8.09,
+    "anilistScore": 8,
+    "kitsuRating": null
   },
   "genres": [
     "Action",
     "Fantasy",
-    "Magic",
+    "Isekai",
     "Military",
-    "Alternative Past",
-    "War",
-    "Europe",
-    "Germany"
+    "Reincarnation"
   ],
   "studios": [
     "Nut"
   ],
   "producers": [
-    "AT-X",
-    "Magic Capsule",
+    "KADOKAWA",
     "Sammy",
-    "Kadokawa",
+    "AT-X",
     "Sony Music Solutions"
   ],
   "images": {
@@ -80,7 +73,11 @@
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/135865-Ws3e7BhBkFxd.jpg",
     "color": "#e46b28"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "kUvhvkPDvm0",
+    "url": "https://www.youtube.com/watch?v=kUvhvkPDvm0",
+    "thumbnail": "https://i.ytimg.com/vi/kUvhvkPDvm0/hqdefault.jpg"
+  },
   "synopsis": "Second season of Youjo Senki.",
   "sequence": [
     {
@@ -105,7 +102,7 @@
       },
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213961-x2ZvvtkYSTC9.png",
       "format": "ONA",
-      "episodes": null,
+      "episodes": 12,
       "seasonYear": 2026,
       "relationType": "SIDE_STORY"
     }
@@ -113,10 +110,12 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-08",
       "title": {
-        "en": "Salamander Combat Team"
+        "en": "Salamander Combat Team",
+        "romaji": "Salamander Sentou Dan",
+        "ja": "サラマンダー戦闘団"
       },
       "tvdbShowId": 315500,
       "tvdbId": 8498902,
@@ -128,10 +127,12 @@
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-15",
       "title": {
-        "en": "A Strange Friendship"
+        "en": "A Strange Friendship",
+        "romaji": "Kimyou na Yuujou",
+        "ja": "奇妙な友情"
       },
       "tvdbShowId": 315500,
       "tvdbId": 11876778,
@@ -143,10 +144,12 @@
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-22",
       "title": {
-        "en": "Episode 3"
+        "en": "Well-Intentioned Mediator",
+        "romaji": "Zen`i no Chuukaijin",
+        "ja": "善意の仲介人"
       },
       "tvdbShowId": 315500,
       "tvdbId": 11876779,
@@ -158,10 +161,12 @@
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-29",
       "title": {
-        "en": "Episode 4"
+        "en": "Operation Iron Hammer",
+        "romaji": "Tettsui Sakusen",
+        "ja": "鉄槌作戦"
       },
       "tvdbShowId": 315500,
       "tvdbId": 11876780,
@@ -169,14 +174,16 @@
       "episodeNumber": 4,
       "absoluteEpisodeNumber": 18,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876780/screencap/6a635b72861cd.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-05",
       "title": {
-        "en": "Episode 5"
+        "en": "Unlucky Draw",
+        "romaji": "Binboukuji",
+        "ja": "貧乏籤"
       },
       "tvdbShowId": 315500,
       "tvdbId": 11876781,
@@ -184,14 +191,16 @@
       "episodeNumber": 5,
       "absoluteEpisodeNumber": 19,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876781/screencap/6a6caeace9eef.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-12",
       "title": {
-        "en": "Episode 6"
+        "en": "Decoy",
+        "romaji": "Otori",
+        "ja": "囮"
       },
       "tvdbShowId": 315500,
       "tvdbId": 11876782,
@@ -199,14 +208,16 @@
       "episodeNumber": 6,
       "absoluteEpisodeNumber": 20,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876782/screencap/6a75a735ecb88.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-19",
       "title": {
-        "en": "Episode 7"
+        "en": "Purgatory",
+        "romaji": "Rengoku",
+        "ja": "煉獄"
       },
       "tvdbShowId": 315500,
       "tvdbId": 11876783,
@@ -214,14 +225,16 @@
       "episodeNumber": 7,
       "absoluteEpisodeNumber": 21,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876783/screencap/6a7ee8f1b3630.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-26",
       "title": {
-        "en": "Episode 8"
+        "en": "Torpedo Strike",
+        "romaji": "Raigeki",
+        "ja": "雷撃"
       },
       "tvdbShowId": 315500,
       "tvdbId": 11876784,
@@ -229,14 +242,82 @@
       "episodeNumber": 8,
       "absoluteEpisodeNumber": 22,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876784/screencap/6a8815a4c9d16.jpg"
     },
-    "C1": {
-      "episode": "C1",
-      "length": "2m",
-      "airDate": "2026-07-15",
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-09-02",
       "title": {
-        "en": "Opening"
+        "en": "Sightseeing Tour",
+        "romaji": "Kankouryokou",
+        "ja": "観光旅行"
+      },
+      "tvdbShowId": 315500,
+      "tvdbId": 11876785,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876785/screencap/6a91cbe272fbf.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-09",
+      "title": {
+        "en": "A Way to Survive",
+        "romaji": "Katsuro",
+        "ja": "活路"
+      },
+      "tvdbShowId": 315500,
+      "tvdbId": 11876786,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876786/screencap/6a9aa55bd23bb.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-16",
+      "title": {
+        "en": "Hourglass",
+        "romaji": "Sunadokei",
+        "ja": "砂時計"
+      },
+      "tvdbShowId": 315500,
+      "tvdbId": 11876787,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876787/screencap/6aa3cc6a087ce.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-23",
+      "title": {
+        "en": "Exit",
+        "romaji": "Deguchi",
+        "ja": "出口"
+      },
+      "tvdbShowId": 315500,
+      "tvdbId": 11876788,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876788/screencap/6aad1728c783f.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": 2,
+      "airDate": "2026-07-09",
+      "title": {
+        "en": "Mini-Episode 1"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -246,12 +327,12 @@
       "runtime": null,
       "image": null
     },
-    "C2": {
-      "episode": "C2",
-      "length": "2m",
-      "airDate": "2026-07-15",
+    "S2": {
+      "episode": "S2",
+      "length": 2,
+      "airDate": "2026-07-16",
       "title": {
-        "en": "Ending"
+        "en": "Mini-Episode 2"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -261,12 +342,12 @@
       "runtime": null,
       "image": null
     },
-    "T1": {
-      "episode": "T1",
-      "length": "2m",
-      "airDate": "2025-11-28",
+    "S3": {
+      "episode": "S3",
+      "length": 2,
+      "airDate": "2026-07-23",
       "title": {
-        "en": "Teaser PV (1:42)"
+        "en": "Mini-Episode 3"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -276,12 +357,135 @@
       "runtime": null,
       "image": null
     },
-    "T2": {
-      "episode": "T2",
-      "length": "2m",
-      "airDate": "2026-03-28",
+    "S4": {
+      "episode": "S4",
+      "length": 2,
+      "airDate": "2026-07-30",
       "title": {
-        "en": "Main PV 1 (1:24)"
+        "en": "Mini-Episode 4"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S5": {
+      "episode": "S5",
+      "length": 2,
+      "airDate": "2026-08-06",
+      "title": {
+        "en": "Mini-Episode 5"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S6": {
+      "episode": "S6",
+      "length": 2,
+      "airDate": "2026-08-13",
+      "title": {
+        "en": "Mini-Episode 6"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S7": {
+      "episode": "S7",
+      "length": 2,
+      "airDate": "2026-08-20",
+      "title": {
+        "en": "Mini-Episode 7"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S8": {
+      "episode": "S8",
+      "length": 2,
+      "airDate": "2026-08-27",
+      "title": {
+        "en": "Mini-Episode 8"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S9": {
+      "episode": "S9",
+      "length": 2,
+      "airDate": "2026-09-03",
+      "title": {
+        "en": "Mini-Episode 9"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S10": {
+      "episode": "S10",
+      "length": 2,
+      "airDate": "2026-09-10",
+      "title": {
+        "en": "Mini-Episode 10",
+        "ja": "ミニアニメ 10"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S11": {
+      "episode": "S11",
+      "length": 2,
+      "airDate": "2026-09-17",
+      "title": {
+        "en": "Mini-Episode 11",
+        "ja": "ミニアニメ 11"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S12": {
+      "episode": "S12",
+      "length": 2,
+      "airDate": "2026-09-24",
+      "title": {
+        "en": "Mini-Episode 12",
+        "ja": "ミニアニメ 12"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -293,15 +497,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T05:56:01.562Z",
+    "lastFetched": "2026-11-22T00:40:00.191Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

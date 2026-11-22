@@ -5,7 +5,7 @@
     "mal": 61153,
     "anilist": 187402,
     "anidb": 19201,
-    "kitsu": null,
+    "kitsu": 50850,
     "simkl": 2733174,
     "tmdb": 285899,
     "tvdb": 461059,
@@ -24,61 +24,281 @@
     "synonyms": [
       "A Tale of the Great Saint",
       "The Reincarnated Great Saint Hides That She's a Saint",
-      "A Tale of the Secret Saint"
+      "大聖女",
+      "Daiseijo"
     ]
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 13,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-03T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Saturdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 10,
+    "airingAt": 1795870800
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.06,
+    "anilistScore": 7,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Reincarnation"
   ],
   "studios": [
     "Felix Film"
   ],
-  "producers": [],
+  "producers": [
+    "Hakuhodo DY Music & Pictures",
+    "Earth Star Entertainment",
+    "BBB",
+    "BS11",
+    "Bushiroad Move",
+    "Sanyo Bussan",
+    "Movic",
+    "Studio Mausu",
+    "JIN",
+    "KLOCKWORX"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
-    "banner": null,
-    "color": "#5dbbe4"
+    "poster": "https://cdn.myanimelist.net/images/anime/1800/161295l.webp",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187402-bRt4OO90jcmt.jpg",
+    "color": "#50bbe4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "9oBywQ403ZA",
+    "url": "https://www.youtube.com/watch?v=9oBywQ403ZA",
+    "thumbnail": "https://i.ytimg.com/vi/9oBywQ403ZA/hqdefault.jpg"
+  },
   "synopsis": "Fia always dreamed of becoming a knight. Born into a family of knights, she's the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes... and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!\n\n(Source: Seven Seas Entertainment)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-03",
+      "title": {
+        "en": "The Great Saint Awakens",
+        "romaji": "Daiseijo no Mezame",
+        "ja": "大聖女の目覚め"
+      },
+      "tvdbShowId": 461059,
+      "tvdbId": 11006281,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11006281/screencap/6ac05cd996ac4.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-10",
+      "title": {
+        "en": "Fia and the Knight Brigade",
+        "romaji": "Fia to Kishidan",
+        "ja": "フィーアと騎士団"
+      },
+      "tvdbShowId": 461059,
+      "tvdbId": 12016885,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016885/screencap/6ac97c5f536c9.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-17",
+      "title": {
+        "en": "The Saints` State of Being",
+        "romaji": "Seijo no Katachi",
+        "ja": "聖女の形"
+      },
+      "tvdbShowId": 461059,
+      "tvdbId": 12016886,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016886/screencap/6aca403520488.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-24",
+      "title": {
+        "en": "The Fourth Monster Tamer Knight Brigade",
+        "romaji": "Dai Yon Mamono Kishidan",
+        "ja": "第四魔物騎士団"
+      },
+      "tvdbShowId": 461059,
+      "tvdbId": 12016887,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016887/screencap/6ad37188edf15.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-10-31",
+      "title": {
+        "en": "Calamitous Monsters",
+        "romaji": "Saigaikyuu no Monster",
+        "ja": "災害級のモンスター"
+      },
+      "tvdbShowId": 461059,
+      "tvdbId": 12016888,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016888/screencap/6adcac144e43f.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-07",
+      "title": {
+        "en": "A Plan to Capture the Black King",
+        "romaji": "Kuroki Ou no Hokaku Sakusen",
+        "ja": "黒き王の捕獲作戦"
+      },
+      "tvdbShowId": 461059,
+      "tvdbId": 12016889,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016889/screencap/6ae5e68e694ab.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-14",
+      "title": {
+        "en": "Zavilia",
+        "romaji": "Zavilia",
+        "ja": "ザビリア"
+      },
+      "tvdbShowId": 461059,
+      "tvdbId": 12016890,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016890/screencap/6aef211080a2d.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-21",
+      "title": {
+        "en": "My Adorable Friend",
+        "romaji": "Watashi no Kawaii Otomodachi",
+        "ja": "私の可愛いお友達"
+      },
+      "tvdbShowId": 461059,
+      "tvdbId": 12016891,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016891/screencap/6af85b9a92154.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-11-28",
+      "title": {
+        "en": null,
+        "romaji": "Fia, Sutherland e",
+        "ja": "フィーア, サザランドへ"
+      },
+      "tvdbShowId": 461059,
+      "tvdbId": 12016892,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016892/screencap/6b0196619ac30.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-05",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 461059,
+      "tvdbId": 12016893,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-12",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 461059,
+      "tvdbId": 12016894,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-19",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 461059,
+      "tvdbId": 12016895,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-02T07:26:37.692Z",
+    "lastFetched": "2026-11-22T00:46:32.363Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

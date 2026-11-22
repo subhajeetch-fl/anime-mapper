@@ -34,16 +34,12 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-01-01T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "winter",
+  "year": 2027,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -56,24 +52,33 @@
     "Romance",
     "Slice of Life"
   ],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Studio Hibari"
+  ],
+  "producers": [
+    "Pony Canyon",
+    "DMM pictures"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1987/156076l.jpg",
     "banner": null,
     "color": "#d69378"
   },
-  "trailer": null,
-  "synopsis": "Elementary schooler Tsubaki is head over heels for his childhood friend, Yuu, a gentle and easygoing high schooler.\n\nThough Yuu always treats him with care, he can't help but see Tsubaki as just a kid. But Tsubaki is determined—\"I'll grow up fast and make Yuu-nii happy!\"\n\nWith youthful determination and an earnest heart, Tsubaki's love story is just beginning—a heartfelt tale of innocence, admiration, and the bonds that grow over time.\n\n(Source: MAL News)",
+  "trailer": {
+    "youtubeId": "D9XV4WQ7ok0",
+    "url": "https://www.youtube.com/watch?v=D9XV4WQ7ok0",
+    "thumbnail": "https://i.ytimg.com/vi/D9XV4WQ7ok0/hqdefault.jpg"
+  },
+  "synopsis": "Elementary schooler Tsubaki is head over heels for his childhood friend, Yuu, a gentle and easygoing high schooler. Though Yuu always treats him with care, he can't help but see Tsubaki as just a kid. But Tsubaki is determined—\"I'll grow up fast and make Yuu-nii happy!\" With youthful determination and an earnest heart, Tsubaki's love story is just beginning—a heartfelt tale of innocence, admiration, and the bonds that grow over time.\n\n(Source: MAL News)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:29:34.936Z",
+    "lastFetched": "2026-11-22T00:46:59.215Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

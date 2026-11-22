@@ -22,6 +22,7 @@
     "english": "Bleach: Thousand-Year Blood War - The Calamity",
     "native": "BLEACH 千年血戦篇-禍進譚-",
     "synonyms": [
+      "Bleach: Thousand-Year Blood War Arc Part 4",
       "BLEACH: Thousand-Year Blood War Part 4",
       "BLEACH 千年血戦篇 第4クール",
       "BLEACH: Thousand-Year Blood War The Final Season",
@@ -30,13 +31,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 10,
-  "episodeLength": null,
+  "episodeLength": 25,
   "aired": {
     "from": "2026-07-25T00:00:00+00:00",
-    "to": null
+    "to": "2026-10-27T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -45,33 +46,38 @@
     "time": "23:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 7,
-    "airingAt": 1788616800
-  },
+  "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "anilistScore": 9,
+    "malScore": 8.79,
+    "anilistScore": 8.8,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Adventure",
+    "Shounen",
     "Supernatural"
   ],
   "studios": [
     "Pierrot Films"
   ],
   "producers": [
-    "Zack Promotion"
+    "Studio Pierrot",
+    "Shueisha",
+    "TV Tokyo",
+    "Dentsu"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1275/158595l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185874-IdGyh1EBG91I.jpg",
     "color": null
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "IJONbpfIlUg",
+    "url": "https://www.youtube.com/watch?v=IJONbpfIlUg",
+    "thumbnail": "https://i.ytimg.com/vi/IJONbpfIlUg/hqdefault.jpg"
+  },
   "synopsis": "Final part of Bleach: Sennen Kessen-hen.",
   "sequence": [
     {
@@ -91,75 +97,203 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-25",
       "title": {
-        "en": "God of Thunder"
+        "en": "God of Thunder",
+        "romaji": "God of Thunder",
+        "ja": "GOD OF THUNDER"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 74796,
+      "tvdbId": 11897318,
+      "seasonNumber": 17,
+      "episodeNumber": 41,
+      "absoluteEpisodeNumber": 407,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11897318/screencap/6a6537c1cf1cc.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-01",
       "title": {
-        "en": "Episode 2"
+        "en": "Son of Darkness",
+        "romaji": "Son of Darkness",
+        "ja": "Son of Darkness"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 74796,
+      "tvdbId": 11897319,
+      "seasonNumber": 17,
+      "episodeNumber": 42,
+      "absoluteEpisodeNumber": 408,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11897319/screencap/6a6e0abf143f3.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-08",
       "title": {
-        "en": "Episode 3"
+        "en": "Blood for My Bone",
+        "romaji": "Blood for My Bone",
+        "ja": "Blood for My Bone"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 74796,
+      "tvdbId": 11897320,
+      "seasonNumber": 17,
+      "episodeNumber": 43,
+      "absoluteEpisodeNumber": 409,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11897320/screencap/6a75d268197cd.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-15",
       "title": {
-        "en": "Episode 4"
+        "en": "The Perfect Crimson",
+        "romaji": "The Perfect Crimson",
+        "ja": "The Perfect Crimson"
+      },
+      "tvdbShowId": 74796,
+      "tvdbId": 11897321,
+      "seasonNumber": 17,
+      "episodeNumber": 44,
+      "absoluteEpisodeNumber": 410,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11897321/screencap/6a7f0f4262cba.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 30,
+      "airDate": "2026-08-22",
+      "title": {
+        "en": "Defend You",
+        "romaji": "Defend You",
+        "ja": "DEFEND YOU"
+      },
+      "tvdbShowId": 74796,
+      "tvdbId": 11897322,
+      "seasonNumber": 17,
+      "episodeNumber": 45,
+      "absoluteEpisodeNumber": 411,
+      "runtime": 27,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11897322/screencap/6a8882df7cd5a.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-29",
+      "title": {
+        "en": "The End",
+        "romaji": "The End",
+        "ja": "THE END"
+      },
+      "tvdbShowId": 74796,
+      "tvdbId": 11897323,
+      "seasonNumber": 17,
+      "episodeNumber": 46,
+      "absoluteEpisodeNumber": 412,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11897323/screencap/6a91a66709b8b.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-09-05",
+      "title": {
+        "en": "The End 2",
+        "romaji": "The End 2",
+        "ja": "THE END 2"
+      },
+      "tvdbShowId": 74796,
+      "tvdbId": 11897324,
+      "seasonNumber": 17,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": 413,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11897324/screencap/6a9b6d094d241.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-09-12",
+      "title": {
+        "en": "The End Two World",
+        "romaji": "The End Two World",
+        "ja": "THE END TWO WORLD"
+      },
+      "tvdbShowId": 74796,
+      "tvdbId": 11897325,
+      "seasonNumber": 17,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": 414,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11897325/screencap/6aa4b5f10b5a4.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 30,
+      "airDate": "2026-10-19",
+      "title": {
+        "en": "The Blade",
+        "romaji": "The Blade",
+        "ja": "The Blade"
+      },
+      "tvdbShowId": 74796,
+      "tvdbId": 11897326,
+      "seasonNumber": 17,
+      "episodeNumber": 49,
+      "absoluteEpisodeNumber": 415,
+      "runtime": 27,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11897326/screencap/6ad58ec06a185.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-10-26",
+      "title": {
+        "en": "Death & Strawberry",
+        "romaji": "Death and Strawberry",
+        "ja": "DEATH AND STRAWBERRY"
+      },
+      "tvdbShowId": 74796,
+      "tvdbId": 11897327,
+      "seasonNumber": 17,
+      "episodeNumber": 50,
+      "absoluteEpisodeNumber": 416,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11897327/screencap/6adfab31d2866.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": 85,
+      "airDate": "2026-06-12",
+      "title": {
+        "en": "Theatrical Premiere",
+        "romaji": "Gekijou Senkou Jouei",
+        "ja": "劇場先行上映"
       },
       "tvdbShowId": null,
       "tvdbId": null,
       "seasonNumber": null,
-      "episodeNumber": 4,
+      "episodeNumber": null,
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-09-02T05:34:59.062Z",
+    "lastFetched": "2026-11-22T00:45:41.755Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

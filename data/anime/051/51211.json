@@ -30,18 +30,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 2,
   "aired": {
     "from": "2022-01-05T00:00:00+00:00",
     "to": null
   },
   "season": "winter",
   "year": 2022,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -50,31 +46,39 @@
     "kitsuRating": null
   },
   "genres": [
-    "Comedy"
+    "Comedy",
+    "Workplace"
   ],
   "studios": [
     "FUNNY MOVIE"
   ],
-  "producers": [],
+  "producers": [
+    "TBS"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1139/121350l.jpg",
     "banner": null,
     "color": "#e4a135"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "xUIdQ8sQ5Kg",
+    "url": "https://www.youtube.com/watch?v=xUIdQ8sQ5Kg",
+    "thumbnail": "https://i.ytimg.com/vi/xUIdQ8sQ5Kg/hqdefault.jpg"
+  },
   "synopsis": "The live-action Tokyo MER: Hashiru Kinkyuukyuumeishitsu medical drama series got a short anime to commemorate the series' movie announcement. It portrays the characters as animals.\n\n(Source: ANN)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T14:28:03.277Z",
+    "lastFetched": "2026-11-22T00:40:31.080Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

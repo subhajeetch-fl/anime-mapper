@@ -6,11 +6,11 @@
     "anilist": 191832,
     "anidb": 19882,
     "kitsu": 49889,
-    "simkl": null,
-    "tmdb": null,
-    "tvdb": null,
-    "trakt": null,
-    "traktType": null,
+    "simkl": 3180260,
+    "tmdb": 123542,
+    "tvdb": 402033,
+    "trakt": 179894,
+    "traktType": "shows",
     "shikimori": 61607,
     "livechart": 13155,
     "animeplanet": "link-click-3rd-season",
@@ -18,9 +18,9 @@
     "notify": null
   },
   "title": {
-    "romaji": "Shiguang Dailiren III",
+    "romaji": "Shiguang Dailiren III Part 1",
     "english": "Link Click Season 3",
-    "native": "时光代理人 第三季",
+    "native": "时光代理人 第三季 Part One",
     "synonyms": [
       "时光代理人 第三季 Part One",
       "Shiguang Dailiren III Part One",
@@ -29,53 +29,50 @@
   },
   "type": "ONA",
   "source": "Original",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-08-14T00:00:00+00:00",
-    "to": null
+    "to": "2026-10-23T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
-  "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1786676400
-  },
+  "season": "summer",
+  "year": 2026,
+  "broadcast": null,
+  "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 8.45,
+    "anilistScore": 8.5,
     "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
     "Drama",
     "Mystery",
+    "Super Power",
     "Suspense",
-    "Supernatural",
-    "Thriller",
     "Time Travel",
-    "Super Power"
+    "Supernatural",
+    "Thriller"
   ],
   "studios": [
     "CMC Media"
   ],
   "producers": [
-    "bilibili",
-    "BeDream"
+    "bilibili"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1801/158559l.jpg",
-    "banner": null,
+    "poster": "https://cdn.myanimelist.net/images/anime/1559/159496l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191832-TKC3kfm43hCc.jpg",
     "color": "#d66b1a"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "4HJNiZV0HJ4",
+    "url": "https://www.youtube.com/watch?v=4HJNiZV0HJ4",
+    "thumbnail": "https://i.ytimg.com/vi/4HJNiZV0HJ4/hqdefault.jpg"
+  },
   "synopsis": "After the Li Tianchen incident came to a close, Time Photo Studio returned to a superficial peace. However, the news of Xia Fei's disappearance once again drew everyone into a crossroads of fate. With Vein's return and Qiao Ling's awakening of her superpowers, Cheng Xiaoshi and Lu Guang gradually uncover the secrets of the Bahati fire case, and Cheng Xiaoshi's father, Cheng Weimin, and mother, Shao Yuanyuan, also seem to have intricate connections to it. As the investigation deepens, Liu Xiao from a mysterious organization begins his operation, and the intervention of Yingdu police officer Jae further complicates this pursuit of the truth...\n\n(Source: Bilibili, translated)",
   "sequence": [
     {
@@ -92,17 +89,199 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-08-14",
+      "title": {
+        "en": "The Forgotten Past"
+      },
+      "tvdbShowId": 402033,
+      "tvdbId": 11854073,
+      "seasonNumber": 4,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 21,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11854073/screencap/6a8038472ac6c.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-08-14",
+      "title": {
+        "en": "The Caged Beast"
+      },
+      "tvdbShowId": 402033,
+      "tvdbId": 11923562,
+      "seasonNumber": 4,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 21,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11923562/screencap/6a8038e9a447d.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-08-21",
+      "title": {
+        "en": "Bloodbath in Laos"
+      },
+      "tvdbShowId": 402033,
+      "tvdbId": 11923563,
+      "seasonNumber": 4,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11923563/screencap/6a8a535e335ca.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-08-28",
+      "title": {
+        "en": "Jae"
+      },
+      "tvdbShowId": 402033,
+      "tvdbId": 11923564,
+      "seasonNumber": 4,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11923564/screencap/6a910d4d82e77.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-09-04",
+      "title": {
+        "en": "Welcome Banquet"
+      },
+      "tvdbShowId": 402033,
+      "tvdbId": 11923565,
+      "seasonNumber": 4,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 22,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11923565/screencap/6aa66e2e81497.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 30,
+      "airDate": "2026-09-11",
+      "title": {
+        "en": "Testing the Waters"
+      },
+      "tvdbShowId": 402033,
+      "tvdbId": 11923566,
+      "seasonNumber": 4,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11923566/screencap/6aa66e818a093.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-09-18",
+      "title": {
+        "en": "Chinatown Investigation"
+      },
+      "tvdbShowId": 402033,
+      "tvdbId": 11923567,
+      "seasonNumber": 4,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 37,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11923567/screencap/6acb65a468597.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-09-25",
+      "title": {
+        "en": "Blood-Red Storm"
+      },
+      "tvdbShowId": 402033,
+      "tvdbId": 11923568,
+      "seasonNumber": 4,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 38,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11923568/screencap/6acb6781dec64.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 30,
+      "airDate": "2026-10-02",
+      "title": {
+        "en": "Confession"
+      },
+      "tvdbShowId": 402033,
+      "tvdbId": 11923569,
+      "seasonNumber": 4,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 39,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11923569/screencap/6acb682df0d8a.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-10-09",
+      "title": {
+        "en": "Misplaced Redemption"
+      },
+      "tvdbShowId": 402033,
+      "tvdbId": 11923570,
+      "seasonNumber": 4,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 40,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11923570/screencap/6acb6eadc80f2.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-10-16",
+      "title": {
+        "en": "The Exit Disappears"
+      },
+      "tvdbShowId": 402033,
+      "tvdbId": 11923571,
+      "seasonNumber": 4,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 41,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11923571/screencap/6ad1b7000dec9.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-10-23",
+      "title": {
+        "en": "Welcome Home"
+      },
+      "tvdbShowId": 402033,
+      "tvdbId": 11923572,
+      "seasonNumber": 4,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 42,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11923572/screencap/6ae22878dc86b.jpg"
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-27T04:26:58.254Z",
+    "lastFetched": "2026-11-22T00:47:58.481Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

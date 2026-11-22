@@ -30,16 +30,12 @@
   "episodeCount": 1,
   "episodeLength": null,
   "aired": {
-    "from": null,
-    "to": null
+    "from": "2029-01-01T00:00:00+00:00",
+    "to": "2029-01-01T00:00:00+00:00"
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -49,13 +45,16 @@
   },
   "genres": [
     "Drama",
+    "Seinen",
     "Psychological",
     "Slice of Life"
   ],
   "studios": [
     "dwarf"
   ],
-  "producers": [],
+  "producers": [
+    "GKIDS"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1605/149626l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191013-usSsLkLQAzbd.jpg",
@@ -66,12 +65,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:33:44.826Z",
+    "lastFetched": "2026-11-22T00:47:34.357Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

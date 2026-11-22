@@ -3,7 +3,7 @@
   "idMal": 61613,
   "mappings": {
     "mal": 61613,
-    "anilist": null,
+    "anilist": 214977,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -27,7 +27,7 @@
   "source": "Web novel",
   "status": "Not yet aired",
   "airing": false,
-  "episodeCount": null,
+  "episodeCount": 52,
   "episodeLength": null,
   "aired": {
     "from": "2027-01-01T00:00:00+00:00",
@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -50,7 +46,9 @@
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Historical",
+    "Martial Arts"
   ],
   "studios": [
     "Xing Yi Kai Chen"
@@ -61,24 +59,22 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1485/156928l.jpg",
     "banner": null,
-    "color": null
+    "color": "#d6931a"
   },
   "trailer": null,
   "synopsis": "A fallen prince unexpectedly obtains an ancient divine sword, fights his way through the three realms, and ultimately rises to godhood!\n\n(Source: iQIYI, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:35:31.622Z",
+    "lastFetched": "2026-11-22T00:48:04.972Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

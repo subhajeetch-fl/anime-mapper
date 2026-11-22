@@ -28,13 +28,13 @@
   },
   "type": "TV",
   "source": "Mixed media",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 13,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-02T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-10T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -43,40 +43,39 @@
     "time": "23:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 12,
-    "airingAt": 1788444000
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.53,
-    "anilistScore": 7.4,
+    "malScore": 7.45,
+    "anilistScore": 7.5,
     "kitsuRating": null
   },
   "genres": [
-    "Comedy",
     "Drama",
     "Music",
+    "Comedy",
     "Slice of Life"
   ],
   "studios": [
     "Nichicaline"
   ],
   "producers": [
-    "Ultra Super Pictures",
     "Bushiroad",
-    "Tokyo MX",
+    "TOKYO MX",
     "Good Smile Company",
-    "Bushiroad Music",
-    "HoriPro International",
-    "Bit grooove promotion"
+    "Horipro International",
+    "Ultra Super Pictures"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1467/158693l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198376-1b4DxjIUwMIY.jpg",
     "color": "#a1f150"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "sMcHl3g6aS4",
+    "url": "https://www.youtube.com/watch?v=sMcHl3g6aS4",
+    "thumbnail": "https://i.ytimg.com/vi/sMcHl3g6aS4/hqdefault.jpg"
+  },
   "synopsis": "\"Pyaaaaaahhhh!!!\"\n\nThrown together out of the blue to make their debut, these members each have a spark of unique talent—but they are in absolutely no shape to actually be a band.\n\nCan these girls, and their band, really survive this!?\n\n\"Even when the sound stops, fight back.\"",
   "sequence": [
     {
@@ -91,135 +90,281 @@
       "episodes": 52,
       "seasonYear": 2025,
       "relationType": "CHARACTER"
+    },
+    {
+      "malId": null,
+      "title": {
+        "romaji": "BanG Dream! Our Notes Animation CMs",
+        "english": null,
+        "native": "BanG Dream! Our Notes アニメーションCMs"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218945-HzjevONv8vUX.png",
+      "format": "SPECIAL",
+      "episodes": 5,
+      "seasonYear": null,
+      "relationType": "CHARACTER"
+    },
+    {
+      "malId": 65496,
+      "title": {
+        "romaji": "BanG Dream! Yume∞Mita (Shinsaku Animation)",
+        "english": null,
+        "native": "バンドリ！ ゆめ∞みた (新作アニメーション)"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx220125-BhdCxzeiQC6G.png",
+      "format": null,
+      "episodes": null,
+      "seasonYear": null,
+      "relationType": "OTHER"
     }
   ],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-02",
       "title": {
-        "en": "Mewtype"
+        "en": "Mewtype",
+        "romaji": "Mewtype",
+        "ja": "みゅーたいぷ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467841,
+      "tvdbId": 11326598,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11326598/screencap/6a43a353aff95.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-02",
       "title": {
-        "en": "Smooch!"
+        "en": "Smooch!",
+        "romaji": "Chuu",
+        "ja": "ちゅ~"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467841,
+      "tvdbId": 11776430,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11776430/screencap/6a466fbb5fd42.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-02",
       "title": {
-        "en": "Suit Yourself!"
+        "en": "Suit Yourself!",
+        "romaji": "Suki ni Shiro",
+        "ja": "すきにしろ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467841,
+      "tvdbId": 11776431,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11776431/screencap/6a466fc46efc7.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-09",
       "title": {
-        "en": "Might Be Fun"
+        "en": "Might Be Fun",
+        "romaji": "Tanoshii kamo",
+        "ja": "たのしいかも"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467841,
+      "tvdbId": 11869900,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869900/screencap/6a4cc4420ebcb.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-16",
       "title": {
-        "en": "Help"
+        "en": "Help",
+        "romaji": "Tasukete",
+        "ja": "たすけて"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467841,
+      "tvdbId": 11869997,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869997/screencap/6a56149cb7870.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-23",
       "title": {
-        "en": "Destiny"
+        "en": "Destiny",
+        "romaji": "Unmei",
+        "ja": "うんめい"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467841,
+      "tvdbId": 11869998,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869998/screencap/6a5f57877f893.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-30",
       "title": {
-        "en": "Episode 7"
+        "en": "Turning Over a New Leaf",
+        "romaji": "Kokoro Arata ni",
+        "ja": "こころあらたに"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467841,
+      "tvdbId": 11869999,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869999/screencap/6a68b07d254ef.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-06",
       "title": {
-        "en": "Episode 8"
+        "en": "Gold Star",
+        "romaji": "Hanamaru",
+        "ja": "はなまる"
+      },
+      "tvdbShowId": 467841,
+      "tvdbId": 11870000,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870000/screencap/6a71ae7905748.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-13",
+      "title": {
+        "en": "Disbandment",
+        "romaji": "Kaisan",
+        "ja": "かいさん"
+      },
+      "tvdbShowId": 467841,
+      "tvdbId": 11870001,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870001/screencap/6a7ae9f357047.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-08-20",
+      "title": {
+        "en": "Sea",
+        "romaji": "Umi",
+        "ja": "うみ"
+      },
+      "tvdbShowId": 467841,
+      "tvdbId": 11870002,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870002/screencap/6a842479442a0.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-08-27",
+      "title": {
+        "en": "That Was Fun",
+        "romaji": "Tanoshikatta",
+        "ja": "たのしかった"
+      },
+      "tvdbShowId": 467841,
+      "tvdbId": 11870003,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870003/screencap/6a8d5d4b8782e.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-03",
+      "title": {
+        "en": "Goodbye",
+        "romaji": "Wakare",
+        "ja": "わかれ"
+      },
+      "tvdbShowId": 467841,
+      "tvdbId": 11870004,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870004/screencap/6a96a2249d9bf.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": 25,
+      "airDate": "2026-09-10",
+      "title": {
+        "en": "Mugendai Mewtype",
+        "romaji": "Mugendai Mewtype",
+        "ja": "夢限大みゅーたいぷ"
+      },
+      "tvdbShowId": 467841,
+      "tvdbId": 11870876,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870876/screencap/6a9fd1ea4cbb9.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": 30,
+      "airDate": "2026-06-30",
+      "title": {
+        "en": "Pre-Broadcast Special",
+        "romaji": "Housou Chokuzen Tokuban!",
+        "ja": "放送直前特番!"
       },
       "tvdbShowId": null,
       "tvdbId": null,
       "seasonNumber": null,
-      "episodeNumber": 8,
+      "episodeNumber": null,
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null
     },
-    "S1": {
-      "episode": "S1",
-      "length": "30m",
-      "airDate": "2026-06-30",
+    "S2": {
+      "episode": "S2",
+      "length": 25,
+      "airDate": "2026-09-17",
       "title": {
-        "en": "Pre-Broadcast Special"
+        "en": "Episode S2",
+        "romaji": "Party-chan no Anime Onnagokoro Kenkyuujo",
+        "ja": "ぱーてぃーちゃんのアニメ女心研究所"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -231,15 +376,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:27:52.268Z",
+    "lastFetched": "2026-11-22T00:50:45.664Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

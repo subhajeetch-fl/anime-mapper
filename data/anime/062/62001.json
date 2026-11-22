@@ -27,22 +27,23 @@
       "YomiTsuga",
       "Pasangan dari Alam Baka",
       "ยมลแห่งยมโลก",
-      "Daemons do Reino das Sombras",
+      "Yomi no Tsugai - Daemons do Reino das Sombras",
       "Espíritus del Inframundo",
       "Цугаи загробного мира",
       "Kontraduety z zaświatów",
-      "Цуґаї потойбіччя"
+      "Цуґаї потойбіччя",
+      "黃泉使者"
     ]
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 24,
-  "episodeLength": 23,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-04-04T00:00:00+00:00",
-    "to": "2026-09-19"
+    "to": "2026-09-19T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2026,
@@ -51,41 +52,40 @@
     "time": "23:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 22,
-    "airingAt": 1788618600
-  },
+  "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": 7.88,
+    "malScore": 7.8,
     "anilistScore": 7.8,
-    "kitsuRating": 7.84
+    "kitsuRating": null
   },
   "genres": [
     "Action",
     "Adventure",
+    "Shounen",
     "Supernatural",
     "Comedy",
-    "Fantasy",
-    "Contemporary Fantasy",
-    "Japan"
+    "Fantasy"
   ],
   "studios": [
     "Bones Film"
   ],
   "producers": [
-    "Bones",
+    "bones",
     "Aniplex",
-    "Square Enix",
-    "Peerless Gerbera"
+    "Square Enix"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1171/156397l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
     "color": "#e49335"
   },
-  "trailer": null,
-  "synopsis": "In an isolated village, two twins were born, separated by day and night. It is years later, and while the older brother Yuru has become a hunter of animals, his sister Asa has been locked away in a cage, ordered to perform a special duty that prohibits her from meeting more than a few select individuals.\n\nOn an otherwise inconspicuous day, a group of armed men riding in helicopters, referred to as \"dragons\" by the citizens, assaults the village in search of Yuru, killing every adult on sight. When Yuru attempts to meet up with Asa and flee, he finds a dead body instead—on top of that, the person who killed her claims to be Yuru's true twin sister.\n\nBefore the woman can capture him, Yuru is rescued by a man named Ryuu \"Dera\" Tadera, an outsider who frequently visits the village. However, it is not long before the two are cornered. In a last-ditch effort, Dera makes Yuru give a gift to the deity of the village, summoning a pair of daemons whose existence is bound to reveal the truth behind these chaotic events.\n\n[Written by MAL Rewrite]",
+  "trailer": {
+    "youtubeId": "XCyj9KKKjUI",
+    "url": "https://www.youtube.com/watch?v=XCyj9KKKjUI",
+    "thumbnail": "https://i.ytimg.com/vi/XCyj9KKKjUI/hqdefault.jpg"
+  },
+  "synopsis": "Sixteen years ago, twins Asa and Yuru were born in the secluded Higashi Village. While Yuru spends his days hunting animals and gathering provisions, Asa is forced to stay inside a cage, and only a select few are allowed to visit her. Although their parents abandoned them long ago, Yuru swears to stay and protect Asa as long as he lives.\n\nOne day, the primitive village is suddenly approached by helicopters and armed soldiers, who begin mercilessly executing the villagers. During the chaos, however, Yuru awakens the village's two protectors, Left and Right, who are his Daemons—supernatural beings made to serve their master. Furthermore, Yuru witnesses Asa being attacked by someone who resembles her. It turns out that the attacker is actually the real Asa, who fled the village with their parents.\n\nAs the conflict comes to a close, Yuru escapes the village alongside Left, Right, and Ryuu \"Dera\" Tadera, a Daemon retainer who is willing to help Yuru blend into the modern world he does not know. Realizing that his whole life so far has been a lie, Yuru sets out to find the real Asa once more with the help of his Daemons and Dera in order to reunite with his parents.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 5114,
@@ -99,380 +99,442 @@
       "episodes": 64,
       "seasonYear": 2009,
       "relationType": "CHARACTER"
+    },
+    {
+      "malId": 65024,
+      "title": {
+        "romaji": "Yomi no Tsugai 2nd Season",
+        "english": null,
+        "native": "黄泉のツガイ 第2期"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217013-Dtk7ezG3Blhj.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
     }
   ],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-04",
       "title": {
-        "en": "Asa and Yuru"
+        "en": "Asa and Yuru",
+        "romaji": "Asa to Yuru",
+        "ja": "アサとユル"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11231088,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11231088/screencap/69c92289cda6a.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-11",
       "title": {
-        "en": "Left and Right"
+        "en": "Left and Right",
+        "romaji": "Migi to Hidari",
+        "ja": "右と左"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591469,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591469/screencap/69d4dbb223e62.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-18",
       "title": {
-        "en": "Dera and Hana"
+        "en": "Dera and Hana",
+        "romaji": "Dera to Hana",
+        "ja": "デラとハナ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591470,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591470/screencap/69de2e89b871e.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-25",
       "title": {
-        "en": "Jin and Yuru"
+        "en": "Jin and Yuru",
+        "romaji": "Jin to Yuru",
+        "ja": "ジンとユル"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591471,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591471/screencap/69e740f2b7d74.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-02",
       "title": {
-        "en": "Hare and Tortoise"
+        "en": "Hare and Tortoise",
+        "romaji": "Usagi to Kame",
+        "ja": "兎と亀"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591472,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591472/screencap/69f084066a8af.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-09",
       "title": {
-        "en": "The Kagemori Clan and the Unknown Assailants"
+        "en": "The Kagemori Clan and the Unknown Assailants",
+        "romaji": "Kagemori-ke to Nazo no Shuugekisha",
+        "ja": "影森家と謎の襲撃者"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591473,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591473/screencap/69f9ba1cc1c1c.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-16",
       "title": {
-        "en": "Asa and Break"
+        "en": "Asa and Break",
+        "romaji": "Asa to \"Kai\"",
+        "ja": "アサと「解」"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591474,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591474/screencap/6a02f7de60004.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-23",
       "title": {
-        "en": "Suspicion and Conviction"
+        "en": "Suspicion and Conviction",
+        "romaji": "Ginen to Kakushin",
+        "ja": "疑念と確信"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591475,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591475/screencap/6a0c2a2fa4c23.jpg"
     },
     "9": {
       "episode": "9",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-30",
       "title": {
-        "en": "Embrace and Whisper"
+        "en": "Embrace and Whisper",
+        "romaji": "Embrace to Whisper",
+        "ja": "抱擁と囁き[エンブレイスとウィスパー]"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591476,
+      "seasonNumber": 1,
       "episodeNumber": 9,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591476/screencap/6a1565f2d4fee.jpg"
     },
     "10": {
       "episode": "10",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-06",
       "title": {
-        "en": "Long-Arm and Long-Leg"
+        "en": "Long-Arm and Long-Leg",
+        "romaji": "Tenaga to Ashinaga",
+        "ja": "手長と足長"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591477,
+      "seasonNumber": 1,
       "episodeNumber": 10,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591477/screencap/6a1ea254bffa1.jpg"
     },
     "11": {
       "episode": "11",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-13",
       "title": {
-        "en": "Big Brother and Little Brother"
+        "en": "Big Brother and Little Brother",
+        "romaji": "Ani to Otouto",
+        "ja": "兄と弟"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591478,
+      "seasonNumber": 1,
       "episodeNumber": 11,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591478/screencap/6a27da364c2a7.jpg"
     },
     "12": {
       "episode": "12",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-20",
       "title": {
-        "en": "Retainer and Shaman"
+        "en": "Retainer and Shaman",
+        "romaji": "Tsugai Komono to Kitoushi",
+        "ja": "番小者と祈祷師"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591479,
+      "seasonNumber": 1,
       "episodeNumber": 12,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591479/screencap/6a312b5addea9.jpg"
     },
     "13": {
       "episode": "13",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-04",
       "title": {
-        "en": "Daikyo and Shokyo"
+        "en": "Daikyo and Shokyo",
+        "romaji": "Daikyou to Shoukyou",
+        "ja": "大凶と小凶"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591480,
+      "seasonNumber": 1,
       "episodeNumber": 13,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591480/screencap/6a438c9df1261.jpg"
     },
     "14": {
       "episode": "14",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-11",
       "title": {
-        "en": "Family and Friends"
+        "en": "Family and Friends",
+        "romaji": "Kazoku to Tomo",
+        "ja": "家族と友"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591481,
+      "seasonNumber": 1,
       "episodeNumber": 14,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591481/screencap/6a4cdde9142ef.jpg"
     },
     "15": {
       "episode": "15",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-18",
       "title": {
-        "en": "Yuru and Danji"
+        "en": "Yuru and Danji",
+        "romaji": "Yuru to Danji",
+        "ja": "ユルとダンジ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591482,
+      "seasonNumber": 1,
       "episodeNumber": 15,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 15,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591482/screencap/6a56158b66edd.jpg"
     },
     "16": {
       "episode": "16",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-25",
       "title": {
-        "en": "Episode 16"
+        "en": "Kagemori and Shingo",
+        "romaji": "Kagemori to Shingou",
+        "ja": "影森と新郷"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591483,
+      "seasonNumber": 1,
       "episodeNumber": 16,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591483/screencap/6a5f5b8839c2a.jpg"
     },
     "17": {
       "episode": "17",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-01",
       "title": {
-        "en": "Episode 17"
+        "en": "Crybaby and Naughty Child",
+        "romaji": "Naku Ko to Warui Ko",
+        "ja": "泣く子と悪い子"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591484,
+      "seasonNumber": 1,
       "episodeNumber": 17,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591484/screencap/6a68affdcd020.jpg"
     },
     "18": {
       "episode": "18",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-08",
       "title": {
-        "en": "Episode 18"
+        "en": "Fujin and Raijin",
+        "romaji": "Fuujin to Raijin",
+        "ja": "風神と雷神"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591485,
+      "seasonNumber": 1,
       "episodeNumber": 18,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591485/screencap/6a75a40627f9a.jpg"
     },
     "19": {
       "episode": "19",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-15",
       "title": {
-        "en": "Episode 19"
+        "en": "Sword and Bow",
+        "romaji": "Katana to Yumi",
+        "ja": "刀と弓"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591486,
+      "seasonNumber": 1,
       "episodeNumber": 19,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591486/screencap/6a7f051412d5e.jpg"
     },
     "20": {
       "episode": "20",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-22",
       "title": {
-        "en": "Episode 20"
+        "en": "The Hunted and the Hunter",
+        "romaji": "Toubousha to Tsuisekisha",
+        "ja": "逃亡者と追跡者"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 452711,
+      "tvdbId": 11591487,
+      "seasonNumber": 1,
       "episodeNumber": 20,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591487/screencap/6a8814d8e4c82.jpg"
     },
-    "OP1": {
-      "episode": "OP1",
-      "length": "2m",
-      "airDate": "2026-04-11",
+    "21": {
+      "episode": "21",
+      "length": 25,
+      "airDate": "2026-08-29",
       "title": {
-        "en": "Tobu Toki (2-12)"
+        "en": "Zashiki-Warashi and Higashi Village",
+        "romaji": "Zashiki Warashi to Higashi Mura",
+        "ja": "ザシキワラシと東村"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 452711,
+      "tvdbId": 11671321,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671321/screencap/6a91541256687.jpg"
     },
-    "C2": {
-      "episode": "C2",
-      "length": "2m",
-      "airDate": "2026-07-04",
+    "22": {
+      "episode": "22",
+      "length": 25,
+      "airDate": "2026-09-05",
       "title": {
-        "en": "Opening 2"
+        "en": "The Kagemori Brothers and the Kuroya Siblings",
+        "romaji": "Kagemori Kyoudai to Kuroya Yon Kyoudai",
+        "ja": "影森兄弟と黒谷四姉弟"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 452711,
+      "tvdbId": 11671323,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671323/screencap/6a9aaaa23cf9a.jpg"
     },
-    "ED2": {
-      "episode": "ED2",
-      "length": "2m",
-      "airDate": "2026-04-11",
+    "23": {
+      "episode": "23",
+      "length": 25,
+      "airDate": "2026-09-12",
       "title": {
-        "en": "Tobou yo (2-12)"
+        "en": "Emotion and Reason",
+        "romaji": "Jou to Kotowari",
+        "ja": "情と理"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 452711,
+      "tvdbId": 11671325,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671325/screencap/6aa3c83242649.jpg"
     },
-    "C4": {
-      "episode": "C4",
-      "length": "2m",
-      "airDate": "2026-07-04",
+    "24": {
+      "episode": "24",
+      "length": 25,
+      "airDate": "2026-09-19",
       "title": {
-        "en": "Ending 2"
+        "en": "Higashi Village and Nishino Village",
+        "romaji": "Higashi Mura to Nishino Mura",
+        "ja": "東村と西ノ村"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 452711,
+      "tvdbId": 11671327,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671327/screencap/6aad110d3e449.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:23:07.312Z",
+    "lastFetched": "2026-11-22T00:49:19.695Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

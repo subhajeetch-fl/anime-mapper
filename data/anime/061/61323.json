@@ -28,13 +28,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-10-04T00:00:00+00:00",
-    "to": null
+    "to": "2026-12-27T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
@@ -44,36 +44,43 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1791099000
+    "episode": 7,
+    "airingAt": 1795332600
   },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 8.16,
+    "anilistScore": 8.1,
     "kitsuRating": null
   },
   "genres": [
+    "Love Polygon",
     "Romance",
+    "School",
+    "Shounen",
     "Sports",
-    "Slice of Life",
-    "School Life",
-    "High School",
-    "School Clubs",
-    "Basketball"
+    "Team Sports",
+    "Slice of Life"
   ],
   "studios": [
     "Electric Circus"
   ],
   "producers": [
-    "Unlimited Produce by TMS"
+    "TMS Entertainment",
+    "Shueisha",
+    "TBS",
+    "Toho"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1976/156319l.jpg",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189123-s2oirY2r1Svy.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1990/160267l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189123-aGJ7pIDUo2Xs.jpg",
     "color": "#e4ae50"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "hJ6Y8PAOUk8",
+    "url": "https://www.youtube.com/watch?v=hJ6Y8PAOUk8",
+    "thumbnail": "https://i.ytimg.com/vi/hJ6Y8PAOUk8/hqdefault.jpg"
+  },
   "synopsis": "Second season of Ao no Hako.",
   "sequence": [
     {
@@ -90,17 +97,153 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-04",
+      "title": {
+        "en": "Deja Vu",
+        "romaji": "Deja Vu",
+        "ja": "デジャブ"
+      },
+      "tvdbShowId": 429934,
+      "tvdbId": 11055279,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11055279/screencap/6aba3525c95fe.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-11",
+      "title": {
+        "en": "Admiration",
+        "romaji": "Akogare",
+        "ja": "憧れ"
+      },
+      "tvdbShowId": 429934,
+      "tvdbId": 12016785,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016785/screencap/6ac89d8026b9f.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-18",
+      "title": {
+        "en": "They`re One and the Same",
+        "romaji": "Hitotsu no Koto Da yo",
+        "ja": "1つのことだよ"
+      },
+      "tvdbShowId": 429934,
+      "tvdbId": 12016786,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016786/screencap/6ad0a0ac63b27.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-25",
+      "title": {
+        "en": "Love Is the Most Powerful Feeling",
+        "romaji": "Suki wa Saikyou no Kanjou",
+        "ja": "好きは最強の感情"
+      },
+      "tvdbShowId": 429934,
+      "tvdbId": 12016787,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016787/screencap/6ad9d9328a939.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-08",
+      "title": {
+        "en": "It`s Back",
+        "romaji": "Modotte Kita yo",
+        "ja": "戻ってきたよ"
+      },
+      "tvdbShowId": 429934,
+      "tvdbId": 12016788,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016788/screencap/6ae3229b8437e.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-15",
+      "title": {
+        "en": "Christmas Eve",
+        "romaji": "Christmas Eve",
+        "ja": "クリスマスイヴ"
+      },
+      "tvdbShowId": 429934,
+      "tvdbId": 12016789,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016789/screencap/6af58ec47cd39.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-22",
+      "title": {
+        "en": null,
+        "romaji": "Hanashitai Koto ga Aru kara",
+        "ja": "話したいことがあるから"
+      },
+      "tvdbShowId": 429934,
+      "tvdbId": 12016790,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12016790/screencap/6afebe83951ec.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-29",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 429934,
+      "tvdbId": 12016791,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-02T07:30:09.618Z",
+    "lastFetched": "2026-11-22T00:47:11.923Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

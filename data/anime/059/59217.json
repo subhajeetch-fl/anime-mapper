@@ -5,7 +5,7 @@
     "mal": 59217,
     "anilist": 178972,
     "anidb": 18734,
-    "kitsu": null,
+    "kitsu": 50879,
     "simkl": 2507838,
     "tmdb": null,
     "tvdb": null,
@@ -13,50 +13,49 @@
     "traktType": null,
     "shikimori": 59217,
     "livechart": 12740,
-    "animeplanet": "grotesque",
+    "animeplanet": "grotesqqque",
     "anisearch": 19756,
     "notify": "ura2QZlSR"
   },
   "title": {
     "romaji": "GROTESQQQUE",
     "english": null,
-    "native": "GROTESQQQUE -グロテスク-",
+    "native": "GROTESQQQUE-グロテスク-",
     "synonyms": [
-      "GTQ",
-      "Æliens (エリィアンズ)",
-      "Yotsuyushika★Shoujo (夜露死駆★少女)",
-      "4649GIRL",
-      "Nocturne: Kono Grotesque Yoru ni (ノクターン～このグロテスクな夜に～)",
-      "NOCTURN: EN CETTE NUIT GROTESQUE",
-      "Aeliens",
-      "Yoroshiku★Girl"
+      "Æliens",
+      "Yoroshiku★Shoujo",
+      "Nocturn: En Cette Nuit Grotesque",
+      "GTQ123",
+      "ÆLIENS (エリィアンズ)",
+      "A(E)LIENS",
+      "AELIENS",
+      "Yoroshiku★Shoujo (夜露死駆★少女)",
+      "4649Girl",
+      "YOROSHIKU★Girl",
+      "Evening Dew Heads to Its Death★Girl",
+      "Nocturne: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)",
+      "NOCTURNE: NUIT GROTESQUE",
+      "Nocturne: On This Grotesque Night"
     ]
   },
   "type": "Movie",
   "source": "Original",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
-  "episodeLength": null,
+  "episodeLength": 34,
   "aired": {
     "from": "2026-11-06T00:00:00+00:00",
-    "to": "2026-07-25"
+    "to": "2026-11-06T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
-  "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1793890800
-  },
-  "rating": null,
+  "broadcast": null,
+  "nextAiringEpisode": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.12,
+    "anilistScore": 6.6,
     "kitsuRating": null
   },
   "genres": [
@@ -65,28 +64,31 @@
     "Drama",
     "Sci-Fi",
     "Slice of Life",
-    "Supernatural",
-    "Science Fiction"
+    "Supernatural"
   ],
   "studios": [
     "CloverWorks"
   ],
   "producers": [
-    "Aniplex",
-    "Joen"
+    "JOEN",
+    "Aniplex"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1865/158895l.jpg",
-    "banner": null,
-    "color": "#5de4f1"
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178972-ep3xPXU4ND07.jpg",
+    "color": "#f1e40d"
   },
-  "trailer": null,
-  "synopsis": "The film features three distinct segments, each with its own unique setting and premise, blending together into a single cohesive anthology. The first segment, titled Ellians, follows an alien girl who teams up with a space agency civil servant on a frantic search for friends.\n\nFollowing that is Yoroshiku★Shoujo, a chaotic battle royale narrative that centers on a group of girls competing in a fierce game known as \"Queen of Butterfly.\"\n\nThe final story, Nocturne ~In This Grotesque Night~, chronicles the journey of a pureblood vampire and three girls who managed to survive by becoming infected after she fed on them.",
+  "trailer": {
+    "youtubeId": "s4dAQP5MlCs",
+    "url": "https://www.youtube.com/watch?v=s4dAQP5MlCs",
+    "thumbnail": "https://i.ytimg.com/vi/s4dAQP5MlCs/hqdefault.jpg"
+  },
+  "synopsis": "The film features three distinct segments, each with its own unique setting and premise, blending together into a single cohesive anthology. The first segment, titled Æliens, follows an alien girl who teams up with a space agency civil servant on a frantic search for friends.\n\nFollowing that is Yoroshiku★Shoujo, a chaotic battle royale narrative that centers on a group of girls competing in a fierce game known as \"Queen of Butterfly.\"\n\nThe final story, Nocturn: En Cette Nuit Grotesque, chronicles the journey of a pureblood vampire and three girls who managed to survive by becoming infected after she fed on them.",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "0m",
+      "length": 0,
       "airDate": "2026-11-06",
       "title": {
         "en": "Complete Movie"
@@ -101,15 +103,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T16:13:36.223Z",
+    "lastFetched": "2026-11-22T00:43:58.701Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

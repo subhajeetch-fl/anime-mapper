@@ -13,7 +13,7 @@
     "traktType": "movies",
     "shikimori": 50668,
     "livechart": 10945,
-    "animeplanet": "mahoutsukai-no-yoru",
+    "animeplanet": "witch-on-the-holy-night",
     "anisearch": 16972,
     "notify": "qN1-vW0ng"
   },
@@ -24,34 +24,27 @@
     "synonyms": [
       "A Magician's Night",
       "MahoYo",
-      "Witch on the Holy Night"
+      "Witch on the Holy Night - O Filme"
     ]
   },
   "type": "Movie",
   "source": "Visual novel",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 130,
   "aired": {
     "from": "2026-11-20T00:00:00+00:00",
-    "to": "2026-11-20"
+    "to": "2026-11-20T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
-  "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1795100400
-  },
+  "broadcast": null,
+  "nextAiringEpisode": null,
   "rating": "PG",
   "score": {
     "malScore": null,
-    "anilistScore": null,
+    "anilistScore": 7.8,
     "kitsuRating": null
   },
   "genres": [
@@ -66,14 +59,20 @@
     "ufotable"
   ],
   "producers": [
-    "Aniplex"
+    "Aniplex",
+    "Notes",
+    "ufotable"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1054/158927l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1941/161294l.webp",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143103-KwDRPfPl4OwL.jpg",
-    "color": "#f1d6ae"
+    "color": "#35a1e4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "k1jyM2kSBzA",
+    "url": "https://www.youtube.com/watch?v=k1jyM2kSBzA",
+    "thumbnail": "https://i.ytimg.com/vi/k1jyM2kSBzA/hqdefault.jpg"
+  },
   "synopsis": "Set near the end of the Showa period in the late 1980s, an old mansion in Misaki Town is rumored to be the home of a witch.\n\nAoko abruptly enters the world of magi after her grandfather suddenly decides to have Aoko become the Aozaki family's successor. Since then, Aoko moves into the Kuonji Mansion and begins to learn magecraft from the young magus Alice Kuonji, the rumored witch of the mansion. After witnessing the two using magecraft, Soujuurou Shizuki is also forced to live with them until a rune to remove his memories is discovered. \n\n(Source: Type-Moon Fandom Wiki)",
   "sequence": [
     {
@@ -93,7 +92,7 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "0m",
+      "length": 0,
       "airDate": "2026-11-20",
       "title": {
         "en": "Complete Movie"
@@ -105,45 +104,15 @@
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null
-    },
-    "T1": {
-      "episode": "T1",
-      "length": "1m",
-      "airDate": "2021-12-26",
-      "title": {
-        "en": "PV 1 (0:34)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T2": {
-      "episode": "T2",
-      "length": "2m",
-      "airDate": "2023-12-31",
-      "title": {
-        "en": "PV 2 (1:31)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T05:56:34.864Z",
+    "lastFetched": "2026-11-22T00:40:26.895Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

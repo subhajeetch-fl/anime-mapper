@@ -40,11 +40,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -53,7 +49,10 @@
     "kitsuRating": null
   },
   "genres": [
+    "CGDCT",
+    "Iyashikei",
     "Slice of Life",
+    "Workplace",
     "Comedy"
   ],
   "studios": [
@@ -84,12 +83,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T22:11:28.107Z",
+    "lastFetched": "2026-11-22T00:46:21.654Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

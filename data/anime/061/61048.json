@@ -25,13 +25,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
   "episodeLength": 24,
   "aired": {
     "from": "2026-07-04T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-19T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -40,14 +40,11 @@
     "time": "21:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 7,
-    "airingAt": 1786190400
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.65,
-    "anilistScore": 7.6,
+    "malScore": 7.81,
+    "anilistScore": 7.8,
     "kitsuRating": null
   },
   "genres": [
@@ -58,149 +55,254 @@
     "OLM"
   ],
   "producers": [
-    "DAX Production",
-    "Nippon Television Music"
+    "Docomo Anime Store",
+    "Yomiuri TV",
+    "MAGNET",
+    "TOKYO MX",
+    "Pia",
+    "BS Nittele",
+    "HIKE",
+    "NTV Music",
+    "Bushiroad Move",
+    "KLOCKWORX",
+    "Takarajimasha"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1878/157796l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186863-hRsC2yxvILTx.jpg",
     "color": "#e4e45d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "xi4rGcyeYr8",
+    "url": "https://www.youtube.com/watch?v=xi4rGcyeYr8",
+    "thumbnail": "https://i.ytimg.com/vi/xi4rGcyeYr8/hqdefault.jpg"
+  },
   "synopsis": "An orphan since hatched, a lone dragon named \"Uncle Wings\" is taken in by a family of magic-wielding cats and raised as one of their own. As Uncle Wings grows, he becomes the cats' protector, determined to keep them safe from humans. But as he watches the cats connect with humans using their magic, Uncle Wings slowly starts to warm up to humans in this heartfelt, bittersweet tale.\n\n(Source: Crunchyroll)",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": null,
+      "title": {
+        "romaji": "Neko to Ryuu 2nd Season",
+        "english": null,
+        "native": "猫と竜 第2期"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217011-6mO4XKPf42rM.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
+    }
+  ],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
-      "airDate": "2026-06-27",
+      "length": 25,
+      "airDate": "2026-07-04",
       "title": {
-        "en": "The Cat and the Dragon"
+        "en": "The Cat and the Dragon",
+        "romaji": "Neko to Ryuu",
+        "ja": "猫と竜"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 460501,
+      "tvdbId": 11656183,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11656183/screencap/6a3d27642f4d5.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
-      "airDate": "2026-07-04",
+      "length": 25,
+      "airDate": "2026-07-11",
       "title": {
-        "en": "The Mother Cat and the Girl"
+        "en": "The Mother Cat and the Girl",
+        "romaji": "Haha Neko to Shoujo",
+        "ja": "母猫と少女"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 460501,
+      "tvdbId": 11863260,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11863260/screencap/6a48de2d410b8.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
-      "airDate": "2026-07-11",
+      "length": 25,
+      "airDate": "2026-07-18",
       "title": {
-        "en": "The Kittens and the Winged Uncle"
+        "en": "The Kittens and the Winged Uncle",
+        "romaji": "Koneko-tachi to Hane no Oji-chan",
+        "ja": "子猫達と羽のおじちゃん"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 460501,
+      "tvdbId": 11871964,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871964/screencap/6a52350fa42c3.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
-      "airDate": "2026-07-18",
+      "length": 25,
+      "airDate": "2026-07-25",
       "title": {
-        "en": "Episode 4"
+        "en": "The Black Cat and the Prince",
+        "romaji": "Kuroneko to Ouji",
+        "ja": "黒猫と王子"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 460501,
+      "tvdbId": 11871965,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871965/screencap/6a5b7274b9436.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
-      "airDate": "2026-07-25",
+      "length": 25,
+      "airDate": "2026-08-01",
       "title": {
-        "en": "Episode 5"
+        "en": "The White Cat and the Girl",
+        "ja": "白猫と少女"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 460501,
+      "tvdbId": 11871966,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871966/screencap/6a649bdc8db6a.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
-      "airDate": "2026-08-01",
+      "length": 25,
+      "airDate": "2026-08-08",
       "title": {
-        "en": "Episode 6"
+        "en": "The Evening of Foxtails",
+        "ja": "猫じゃらしの夜"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 460501,
+      "tvdbId": 11872136,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872136/screencap/6a6df3ccf3547.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
-      "airDate": "2026-08-08",
+      "length": 25,
+      "airDate": "2026-08-15",
       "title": {
-        "en": "Episode 7"
+        "en": "The Return of the Mother Cat",
+        "ja": "母猫の帰還"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 460501,
+      "tvdbId": 11872137,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872137/screencap/6a77213315d6e.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
-      "airDate": "2026-08-15",
+      "length": 25,
+      "airDate": "2026-08-22",
       "title": {
-        "en": "Episode 8"
+        "en": "Life in the Castle Town / The Black Cat and the Adventurous Prince",
+        "ja": "城下町の生活 / 黒猫と冒険王子"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 460501,
+      "tvdbId": 11872138,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872138/screencap/6a80575ea2791.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-29",
+      "title": {
+        "en": "The White Cat and the Lazy Girl",
+        "ja": "白猫とぐうたら少女"
+      },
+      "tvdbShowId": 460501,
+      "tvdbId": 11872139,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872139/screencap/6a899434d2dce.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-05",
+      "title": {
+        "en": "The Demon and the Dragon and Mother`s Day",
+        "ja": "悪魔と竜と母の日"
+      },
+      "tvdbShowId": 460501,
+      "tvdbId": 11872140,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872140/screencap/6a92dfe4e565d.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-12",
+      "title": {
+        "en": "The Final Resting Place",
+        "ja": "終の寝床"
+      },
+      "tvdbShowId": 460501,
+      "tvdbId": 11877025,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877025/screencap/6a9c15d23974f.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-19",
+      "title": {
+        "en": "The Cat and the Royal Capital Festival",
+        "romaji": "Neko to Outo no Matsuri",
+        "ja": "猫と王都の祭り"
+      },
+      "tvdbShowId": 460501,
+      "tvdbId": 11877026,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877026/screencap/6aa54e5e75790.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-08-01T12:10:05.859Z",
+    "lastFetched": "2026-11-22T00:46:17.147Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

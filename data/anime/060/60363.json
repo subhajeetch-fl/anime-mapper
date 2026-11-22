@@ -28,18 +28,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 4,
   "aired": {
     "from": "2024-09-25T00:00:00+00:00",
     "to": null
   },
-  "season": "fall",
+  "season": "summer",
   "year": 2024,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
@@ -48,34 +44,38 @@
     "kitsuRating": null
   },
   "genres": [
+    "Anthropomorphic",
     "Fantasy",
     "Gourmet"
   ],
   "studios": [
     "Tsumupapa"
   ],
-  "producers": [
-    "Waffen Film Studio"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1746/146631l.jpg",
     "banner": null,
     "color": "#e4ae5d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "U4ovr1GInxQ",
+    "url": "https://www.youtube.com/watch?v=U4ovr1GInxQ",
+    "thumbnail": "https://i.ytimg.com/vi/U4ovr1GInxQ/hqdefault.jpg"
+  },
   "synopsis": "This is Guuguu Island, a magical island where the Yakiniku King menu items live. Meat, vegetables, mulberries, sweets... there's all kinds of delicious food! Calvin the apprentice galbi has a dream to become \"Yakiniku King's most popular menu item\"! To achieve that, he is happily flying around the universe with his adorable friends. Will Calvin and his friends be able to become Yakiniku King's most popular menu items? Aim for a delicious serving! Aim for a delicious Yakiniku King!\n\n(Source: YouTube, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T14:33:06.100Z",
+    "lastFetched": "2026-11-22T00:45:04.529Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

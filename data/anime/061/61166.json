@@ -25,26 +25,22 @@
   },
   "type": "OVA",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 2,
+  "episodeLength": 15,
   "aired": {
     "from": "2025-04-04T00:00:00+00:00",
-    "to": null
+    "to": "2025-06-06T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2025,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 6.04,
-    "anilistScore": 5.6,
+    "malScore": 5.99,
+    "anilistScore": 5.7,
     "kitsuRating": null
   },
   "genres": [
@@ -63,19 +59,20 @@
     "color": "#e4bb43"
   },
   "trailer": null,
-  "synopsis": null,
+  "synopsis": "On his first day at the publishing company, Shota Tendo fell in love. The object of his affection was Yui Yamanobe, who had been assigned as his mentor.\n\nWith a bust over 90 centimeters, a toned waist, long, slender legs, and a beauty that seemed almost divine, she was stunning. But Yui wasn’t just about her looks. She was an editor in her fifth year at the company, already responsible for several popular works. Despite her accomplishments, she never flaunted them and treated Shota with a warm and approachable demeanor, making her both an admirable boss and an inspiring figure to him.\n\nAs they worked together, the distance between them gradually diminished. However, Shota, lacking any experience in love, struggled to summon the courage to step forward as a potential partner for Yui, who herself had confided in him about her insecurities in romance.\n\nAmidst these days of uncertainty, an opportunity arose, a business trip for a gravure photoshoot, where Shota and Yui would be working together.\n\n(Source: EroEro News)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:26:53.112Z",
+    "lastFetched": "2026-11-22T00:46:39.034Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

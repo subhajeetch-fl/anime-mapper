@@ -7,7 +7,7 @@
     "anidb": 19445,
     "kitsu": 50016,
     "simkl": 2830474,
-    "tmdb": null,
+    "tmdb": 105248,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
@@ -22,53 +22,55 @@
     "english": "Cyberpunk: Edgerunners 2",
     "native": "サイバーパンク: エッジランナーズ2",
     "synonyms": [
+      "Cyberpunk Edgerunners 2",
       "サイバーパンク: エッジランナーズ II",
       "Cyberpunk: Edgerunners II"
     ]
   },
   "type": "ONA",
   "source": "Game",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 10,
-  "episodeLength": null,
+  "episodeLength": 28,
   "aired": {
-    "from": "2026-01-01T00:00:00+00:00",
-    "to": "2026-10-20"
+    "from": "2026-10-20T00:00:00+00:00",
+    "to": "2026-10-20T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 8.13,
+    "anilistScore": 8.3,
     "kitsuRating": null
   },
   "genres": [
     "Action",
+    "Gore",
     "Sci-Fi",
-    "Drama",
-    "Science Fiction",
-    "Cyberpunk",
-    "Dystopia"
+    "Drama"
   ],
   "studios": [
     "Trigger"
   ],
-  "producers": [],
+  "producers": [
+    "CD PROJEKT RED",
+    "Netflix"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1880/158764l.jpg",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195539-2obqrBzqrOSR.jpg",
-    "color": "#1ac9e4"
+    "poster": "https://cdn.myanimelist.net/images/anime/1431/160542l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195539-lO5SUdp4SOrq.jpg",
+    "color": "#fe286b"
   },
-  "trailer": null,
-  "synopsis": "Sequel to  Cyberpunk: Edgerunners.",
+  "trailer": {
+    "youtubeId": "AtJMSUpG9GQ",
+    "url": "https://www.youtube.com/watch?v=AtJMSUpG9GQ",
+    "thumbnail": "https://i.ytimg.com/vi/AtJMSUpG9GQ/hqdefault.jpg"
+  },
+  "synopsis": "Cyberpunk: Edgerunners 2 pulls you back into Night City, where lives become entangled to the extreme. Weak, a washed-up cyberpunk legend, is now forced to live without chrome as he searches for a sense of purpose in a world that’s passed him by. Meanwhile, the deadly nomad D sets out on a path to revenge that brings him close to corpo secrets never meant to be found. Across this ten-episode standalone series, uncover a story of family, obsession, legacy — and how your lens reflects the stories of the people around you.\n\n(Source: Netflix)",
   "sequence": [
     {
       "malId": 42310,
@@ -84,17 +86,189 @@
       "relationType": "OTHER"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 30,
+      "airDate": "2026-10-20",
+      "title": {
+        "en": "Last Chance for a Slow Dance",
+        "romaji": "Last Chance for a Slow Dance / Setogiwa no Slow Dance",
+        "ja": "Last Chance for a Slow Dance / 瀬戸際のスローダンス"
+      },
+      "tvdbShowId": 384541,
+      "tvdbId": 11229710,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 28,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11229710/screencap/6ad75c26680d6.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 30,
+      "airDate": "2026-10-20",
+      "title": {
+        "en": "Give Me Another Day",
+        "romaji": "Give Me Another Day / Ashita o Kudasai",
+        "ja": "Give Me Another Day / 明日をください"
+      },
+      "tvdbShowId": 384541,
+      "tvdbId": 11229818,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 27,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11229818/screencap/6ad75ce64571f.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 30,
+      "airDate": "2026-10-20",
+      "title": {
+        "en": "0+2=1",
+        "romaji": "0+2=1",
+        "ja": "0+2=1"
+      },
+      "tvdbShowId": 384541,
+      "tvdbId": 11229819,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 28,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11229819/screencap/6ad75da9a2915.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 30,
+      "airDate": "2026-10-20",
+      "title": {
+        "en": "Someone That I Used to Know",
+        "romaji": "Someone That I Used to Know / Kioku no Konseki",
+        "ja": "Someone That I Used To Know / 記憶の痕跡"
+      },
+      "tvdbShowId": 384541,
+      "tvdbId": 11229820,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 28,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11229820/screencap/6ad76823c7d04.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-10-20",
+      "title": {
+        "en": "Fades (Pass the Distance)",
+        "romaji": "Fades (Pass the Distance) / Yume ka Maboroshi ka",
+        "ja": "Fades (Pass the Distance) / 夢か幻か"
+      },
+      "tvdbShowId": 384541,
+      "tvdbId": 11229821,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 26,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11229821/screencap/6ad76271c6c4c.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 30,
+      "airDate": "2026-10-20",
+      "title": {
+        "en": "Everything Hate",
+        "romaji": "Everything Hate / Furimaku Zouo",
+        "ja": "Everything Hate / 振り撒く憎悪"
+      },
+      "tvdbShowId": 384541,
+      "tvdbId": 11229822,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 28,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11229822/screencap/6ad7633225187.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 30,
+      "airDate": "2026-10-20",
+      "title": {
+        "en": "To the Depths with You",
+        "romaji": "To the Depths with You / Michizure Diver",
+        "ja": "To the Depths With You / 道連れダイバー"
+      },
+      "tvdbShowId": 384541,
+      "tvdbId": 11229823,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 28,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11229823/screencap/6ad763f16c674.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 30,
+      "airDate": "2026-10-20",
+      "title": {
+        "en": "Serce",
+        "romaji": "Serce / Shinzou",
+        "ja": "Serce / 心臓"
+      },
+      "tvdbShowId": 384541,
+      "tvdbId": 11229824,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 27,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11229824/screencap/6ad764a10f046.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 30,
+      "airDate": "2026-10-20",
+      "title": {
+        "en": "Strictly Reserved for You",
+        "romaji": "Strictly Reserved for You / Kuu Mono to Kuwareru Mono",
+        "ja": "Strictly Reserved For You / 喰う者と喰われる者"
+      },
+      "tvdbShowId": 384541,
+      "tvdbId": 11229825,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 29,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11229825/screencap/6ad766767e6c6.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 30,
+      "airDate": "2026-10-20",
+      "title": {
+        "en": "Then Everyone Went Home",
+        "romaji": "Then Everyone Went Home / Sorezore no Ibasho e",
+        "ja": "Then Everyone Went Home / それぞれの居場所へ"
+      },
+      "tvdbShowId": 384541,
+      "tvdbId": 11229826,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 30,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11229826/screencap/6ad766ace6663.jpg"
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-04T21:43:18.770Z",
+    "lastFetched": "2026-11-22T00:49:13.057Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

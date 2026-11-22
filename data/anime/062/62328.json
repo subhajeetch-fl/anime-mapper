@@ -14,7 +14,7 @@
     "shikimori": 62328,
     "livechart": null,
     "animeplanet": null,
-    "anisearch": null,
+    "anisearch": 20918,
     "notify": null
   },
   "title": {
@@ -28,26 +28,19 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 16,
   "aired": {
     "from": "2025-09-26T00:00:00+00:00",
     "to": null
   },
-  "season": "fall",
+  "season": "summer",
   "year": 2025,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
-  "nextAiringEpisode": {
-    "episode": 5,
-    "airingAt": 1793286000
-  },
+  "broadcast": null,
+  "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
     "malScore": 7.56,
-    "anilistScore": 7.1,
+    "anilistScore": 7.2,
     "kitsuRating": null
   },
   "genres": [
@@ -56,7 +49,10 @@
   "studios": [
     "T-Rex"
   ],
-  "producers": [],
+  "producers": [
+    "Bunny Walker",
+    "Lune Pictures"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1790/151647l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196750-cmc0IEyZbqOj.jpg",
@@ -67,15 +63,17 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-09-01T00:26:31.981Z",
+    "lastFetched": "2026-11-22T00:50:30.438Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

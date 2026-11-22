@@ -28,13 +28,13 @@
   },
   "type": "TV",
   "source": "Novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-05T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-20T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -43,143 +43,260 @@
     "time": "00:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 6,
-    "airingAt": 1786203000
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.08,
+    "malScore": 6.81,
     "anilistScore": 6.9,
     "kitsuRating": null
   },
   "genres": [
+    "Drama",
     "Fantasy",
+    "Mythology",
     "Romance",
-    "Drama"
+    "Urban Fantasy"
   ],
   "studios": [
     "Colored Pencil Animation Japan"
   ],
   "producers": [
     "Aniplex",
-    "Rakuonsha",
-    "Nippon Shuppan Hanbai",
+    "Starts Publishing Corp",
+    "NTT Solmare",
     "BS11",
     "Contents Seed",
-    "NTT Solmare",
-    "Starts Publishing"
+    "Nippon Shuppan Hanbai (Nippan) K.K."
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1082/158708l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1082/158708l.webp",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194219-t8ID9kSIpXxf.jpg",
     "color": "#ff7835"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "1hYWc5MCIPk",
+    "url": "https://www.youtube.com/watch?v=1hYWc5MCIPk",
+    "thumbnail": "https://i.ytimg.com/vi/1hYWc5MCIPk/hqdefault.jpg"
+  },
   "synopsis": "\"You're the bride I've been searching for all this time.\"\n\nA Japanese-style ayakashi Cinderella story! The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their \"bride.\" The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi.\n\nYuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appeared before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?!\n\n\"Just be quiet and let me hold you.\" The most powerful, \"cold-hearted\" ayakashi is pouring his heart out for Yuzu?!\n\n(Source: MangaPlaza, edited)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-05",
       "title": {
-        "en": "Destiny"
+        "en": "Destiny",
+        "romaji": "Unmei",
+        "ja": "運命"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 464625,
+      "tvdbId": 11845019,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11845019/screencap/6a493db34f232.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-12",
       "title": {
-        "en": "Special Someone"
+        "en": "Special Someone",
+        "romaji": "Tokubetsu na Sonzai",
+        "ja": "特別な存在"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 464625,
+      "tvdbId": 11872330,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872330/screencap/6a51a2b001a9b.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-19",
       "title": {
-        "en": "Episode 3"
+        "en": "Decision",
+        "romaji": "Ketsudan",
+        "ja": "決断"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 464625,
+      "tvdbId": 11872331,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872331/screencap/6a5994dc808bc.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-26",
       "title": {
-        "en": "Episode 4"
+        "en": "Is Their Love for Their Brides Eternal?",
+        "romaji": "Hanayome e no Ai wa Eien ka?",
+        "ja": "花嫁への愛は永遠か?"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 464625,
+      "tvdbId": 11872332,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872332/screencap/6a640a39c8386.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
-      "airDate": "2026-08-04",
+      "length": 25,
+      "airDate": "2026-08-02",
       "title": {
-        "en": "Episode 5"
+        "en": "My Rival Is a Capable Secretary",
+        "romaji": "Rival wa Yuunou Hisho",
+        "ja": "ライバルは有能秘書"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 464625,
+      "tvdbId": 11872333,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872333/screencap/6a6bb3da4cba9.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
-      "airDate": "2026-08-11",
+      "length": 25,
+      "airDate": "2026-08-09",
       "title": {
-        "en": "Episode 6"
+        "en": "Touko and Nyankichi",
+        "romaji": "Touko to Nyankichi",
+        "ja": "透子とにゃん吉"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 464625,
+      "tvdbId": 11872334,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872334/screencap/6a75d46991881.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-16",
+      "title": {
+        "en": "Reiya`s Secret Lover",
+        "romaji": "Reiya no Himitsu no Koibito",
+        "ja": "玲夜の秘密の恋人"
+      },
+      "tvdbShowId": 464625,
+      "tvdbId": 11872335,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872335/screencap/6a7fb5f45c36f.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-23",
+      "title": {
+        "en": "The Bewitching Visitor",
+        "romaji": "Genwaku no Raihousha",
+        "ja": "幻惑の来訪者"
+      },
+      "tvdbShowId": 464625,
+      "tvdbId": 11872336,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872336/screencap/6a88850d3ee10.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-30",
+      "title": {
+        "en": "Self-Awareness",
+        "romaji": "Jikaku",
+        "ja": "自覚"
+      },
+      "tvdbShowId": 464625,
+      "tvdbId": 11872337,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872337/screencap/6a921d50457d5.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-06",
+      "title": {
+        "en": "The Demon Banquet",
+        "romaji": "Ayakashi no Shuen",
+        "ja": "あやかしの酒宴"
+      },
+      "tvdbShowId": 464625,
+      "tvdbId": 11872338,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872338/screencap/6a9b795ba4367.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-13",
+      "title": {
+        "en": "The Bride Sisters",
+        "romaji": "Hanayome no Shimai",
+        "ja": "花嫁の姉妹"
+      },
+      "tvdbShowId": 464625,
+      "tvdbId": 11872339,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872339/screencap/6aa4b8256b3bc.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-20",
+      "title": {
+        "en": "The Ogre`s Bride",
+        "romaji": "Oni no Hanayome",
+        "ja": "鬼の花嫁"
+      },
+      "tvdbShowId": 464625,
+      "tvdbId": 11872340,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872340/screencap/6aae91e962e0c.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-08-02T12:07:25.392Z",
+    "lastFetched": "2026-11-22T00:48:40.232Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

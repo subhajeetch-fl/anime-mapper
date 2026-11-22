@@ -7,7 +7,7 @@
     "anidb": 19433,
     "kitsu": 50024,
     "simkl": 2829490,
-    "tmdb": null,
+    "tmdb": 73223,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
@@ -25,44 +25,58 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-03T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Saturdays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 9,
+    "airingAt": 1795874400
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 8.89,
+    "anilistScore": 8.8,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Fantasy",
+    "Shounen",
     "Adventure",
     "Comedy"
   ],
   "studios": [
     "Studio Pierrot"
   ],
-  "producers": [],
+  "producers": [
+    "TV Tokyo",
+    "Shueisha",
+    "Studio Pierrot",
+    "Avex Pictures",
+    "Bandai Namco Entertainment"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1602/158830l.jpg",
-    "banner": null,
-    "color": "#e4c9a1"
+    "poster": "https://cdn.myanimelist.net/images/anime/1857/160133l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195604-lQpCzTziSA17.jpg",
+    "color": "#f1a143"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "4MYo8FfiXMA",
+    "url": "https://www.youtube.com/watch?v=4MYo8FfiXMA",
+    "thumbnail": "https://i.ytimg.com/vi/4MYo8FfiXMA/hqdefault.jpg"
+  },
   "synopsis": "Second season of Black Clover.",
   "sequence": [
     {
@@ -79,17 +93,199 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-03",
+      "title": {
+        "en": "The Battle Begins"
+      },
+      "tvdbShowId": 331753,
+      "tvdbId": 11965847,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 171,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11965847/screencap/6ab128ed60451.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-10",
+      "title": {
+        "en": "The Door to Hell"
+      },
+      "tvdbShowId": 331753,
+      "tvdbId": 11975216,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 172,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11975216/screencap/6ac314de0a57c.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-17",
+      "title": {
+        "en": "Black Guardian"
+      },
+      "tvdbShowId": 331753,
+      "tvdbId": 12006277,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 173,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12006277/screencap/6ad3935bdab2d.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-24",
+      "title": {
+        "en": "Day of Atonement"
+      },
+      "tvdbShowId": 331753,
+      "tvdbId": 12006278,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 174,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12006278/screencap/6adba970df0e4.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-10-31",
+      "title": {
+        "en": "The Highest vs. the Lowest"
+      },
+      "tvdbShowId": 331753,
+      "tvdbId": 12006279,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 175,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12006279/screencap/6ae3e778e1dab.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-07",
+      "title": {
+        "en": "The Sacred Valkyrie"
+      },
+      "tvdbShowId": 331753,
+      "tvdbId": 12006280,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 176,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12006280/screencap/6aed7e579ba90.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-14",
+      "title": {
+        "en": "Beyond Tenacity"
+      },
+      "tvdbShowId": 331753,
+      "tvdbId": 12006281,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 177,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12006281/screencap/6af62001e9d5f.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-21",
+      "title": {
+        "en": "A Devil`s Heart"
+      },
+      "tvdbShowId": 331753,
+      "tvdbId": 12006282,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 178,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12006282/screencap/6affa238f15c2.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-11-28",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 331753,
+      "tvdbId": 12006283,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 179,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12006283/screencap/6b01e4200ee27.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-05",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 331753,
+      "tvdbId": 12006284,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 180,
+      "runtime": null,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-12",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 331753,
+      "tvdbId": 12006285,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 181,
+      "runtime": null,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-19",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 331753,
+      "tvdbId": 12006286,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 182,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-02T18:05:52.076Z",
+    "lastFetched": "2026-11-22T00:49:04.258Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

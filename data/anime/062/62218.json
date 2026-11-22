@@ -3,14 +3,14 @@
   "idMal": 62218,
   "mappings": {
     "mal": 62218,
-    "anilist": null,
-    "anidb": null,
+    "anilist": 214974,
+    "anidb": 20429,
     "kitsu": null,
-    "simkl": null,
-    "tmdb": null,
-    "tvdb": null,
-    "trakt": null,
-    "traktType": null,
+    "simkl": 3269444,
+    "tmdb": 297924,
+    "tvdb": 483569,
+    "trakt": 294459,
+    "traktType": "shows",
     "shikimori": 62218,
     "livechart": null,
     "animeplanet": "da-xia-shou-mu-ren",
@@ -19,28 +19,27 @@
   },
   "title": {
     "romaji": "Da Xia Shou Mu Ren",
-    "english": null,
+    "english": "The Guardian of Daxia",
     "native": "大夏守墓人",
     "synonyms": []
   },
   "type": "ONA",
   "source": "Web novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 59,
+  "episodeLength": 11,
   "aired": {
-    "from": null,
+    "from": "2026-09-30T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+  "season": "summer",
+  "year": 2026,
+  "broadcast": null,
+  "nextAiringEpisode": {
+    "episode": 19,
+    "airingAt": 1795572000
   },
-  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
@@ -49,34 +48,35 @@
   },
   "genres": [
     "Action",
-    "Fantasy"
+    "Fantasy",
+    "Urban Fantasy"
   ],
   "studios": [
-    "Suoyi Technology"
+    "Suoyi Technology Enabled Vision",
+    "Soyep"
   ],
   "producers": [
-    "Tencent Video"
+    "Tencent Penguin Pictures"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1475/158610l.jpg",
-    "banner": null,
-    "color": null
+    "poster": "https://cdn.myanimelist.net/images/anime/1790/160205l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/214974-jMZ2CpV2lKip.jpg",
+    "color": "#e40d28"
   },
   "trailer": null,
-  "synopsis": "Ten years ago, after three consecutive days of blood moon, ghosts, gods, heterochromatic eyes, and strange tales arrived one after another. Mystery and enigma descended upon the human world. Terror and despair roamed the earth. As humans, should we kneel in submission, weep bitterly, or draw our swords? This is a new era, and this era—belongs to the extraordinary! Pushing open the door to the extraordinary, Su Bai encountered a new world…\n\n(Source: Tencent, translated)",
+  "synopsis": "Ten years ago, after a blood moon lasted three days, monsters, deities, mystic eyes, and ghost stories came in succession. As the mysterious and the uncanny fall upon the human world. Horror and despair roam the land. As humans, should we kneel in submission, wail in tears, or unsheathe our blades? This is a new age, and this age belongs to the transcendent! Opening the gate to the transcendent, Su Bai beholds a new world...\n\n(Source: WeTV)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:49:34.473Z",
+    "lastFetched": "2026-11-22T00:50:03.710Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
-      "animeapi.my.id",
+      "mal",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }

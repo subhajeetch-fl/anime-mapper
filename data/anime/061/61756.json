@@ -14,7 +14,7 @@
     "shikimori": 61756,
     "livechart": 13175,
     "animeplanet": "gacha-girls-corps",
-    "anisearch": null,
+    "anisearch": 20648,
     "notify": null
   },
   "title": {
@@ -32,15 +32,15 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": "2027-01-01T00:00:00+00:00",
+    "from": "2027-01-07T00:00:00+00:00",
     "to": null
   },
   "season": "winter",
   "year": 2027,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Thursdays",
+    "time": "21:25",
+    "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": null,
   "rating": null,
@@ -53,6 +53,7 @@
     "Action",
     "Adventure",
     "Fantasy",
+    "Isekai",
     "Comedy",
     "Ecchi",
     "Romance"
@@ -62,26 +63,28 @@
     "Saber Works"
   ],
   "producers": [
-    "Bushiroad",
-    "On-Lead",
     "Starry Cube"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1076/158700l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1230/160917l.jpg",
     "banner": null,
     "color": "#e45050"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "HJFvCv3h6ag",
+    "url": "https://www.youtube.com/watch?v=HJFvCv3h6ag",
+    "thumbnail": "https://i.ytimg.com/vi/HJFvCv3h6ag/hqdefault.jpg"
+  },
   "synopsis": "Norl's a cutting-edge cutie with a cutting edge who's a cut above the rest. Heihachi's just your average mobile game addict with a whale-sized hole in his wallet. But one day, he pulls an item that pulls him into another world, spinning his life around with a spin of the gacha.\n\nAttacked by monsters, and left without options, Heihachi does what he knows best—roll gacha! To his surprise, he watches his unit materialize before his eyes. Heihachi's used to seeing cute girls pop up on his phone, but he's never seen one pop out of his phone!\n\n(Source: Kaiten Books)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-04T21:42:32.605Z",
+    "lastFetched": "2026-11-22T00:48:29.658Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

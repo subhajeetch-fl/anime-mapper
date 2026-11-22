@@ -5,7 +5,7 @@
     "mal": 62051,
     "anilist": 196017,
     "anidb": 19473,
-    "kitsu": 50800,
+    "kitsu": 50694,
     "simkl": 2833328,
     "tmdb": 296101,
     "tvdb": 465802,
@@ -28,13 +28,13 @@
   },
   "type": "TV",
   "source": "Original",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": 23,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 13,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-05T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-27T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -43,21 +43,19 @@
     "time": "00:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788620400
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.16,
-    "anilistScore": 7.1,
+    "malScore": 7.4,
+    "anilistScore": 7.3,
     "kitsuRating": null
   },
   "genres": [
-    "Adventure",
+    "Historical",
+    "Performing Arts",
     "Slice of Life",
-    "Sports",
-    "Historical"
+    "Adventure",
+    "Sports"
   ],
   "studios": [
     "A-1 Pictures",
@@ -65,147 +63,270 @@
   ],
   "producers": [
     "Aniplex",
-    "Good Smile Company",
-    "BS11",
+    "HEIWA",
     "Contents Seed",
-    "Heiwa",
-    "INSPION Edge"
+    "Good Smile Company",
+    "BS11"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1329/158716l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196017-qB1xhp5PO10x.jpg",
     "color": "#f1ae1a"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "PAneuhZLHzU",
+    "url": "https://www.youtube.com/watch?v=PAneuhZLHzU",
+    "thumbnail": "https://i.ytimg.com/vi/PAneuhZLHzU/hqdefault.jpg"
+  },
   "synopsis": "In Japan during the height of its economic boom in the mid-1950s, the circus was a form of entertainment that became a central part of many people's lives. The best troupes are permitted to participate in the world-renowned \"Circus Collection\" festival, and many come from all over Japan to compete daily.\n\nThe story centers on the struggling \"Sunflower Circus\" troupe, led by ringmaster Maria, and a new prodigy that joins their ranks for unknown reasons: Mizuka Tsurumaki.\n\nIs her encounter with the highly individual members of the Sunflower Circus troupe a coincidence or destiny? This one-of-a-kind circus show depicting young girls chasing their dreams begins!\n\n(Source: Official site, translated)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-05",
       "title": {
-        "en": "Welcome to the Sunflower Circus!"
+        "en": "Welcome to the Sunflower Circus!",
+        "romaji": "Youkoso, Himawari Circus e!",
+        "ja": "ようこそ, ひまわりサーカスへ!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465802,
+      "tvdbId": 11243613,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11243613/screencap/6a462b3755886.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-12",
       "title": {
-        "en": "That Was So Dazzling"
+        "en": "That Was So Dazzling",
+        "romaji": "Sore wa Tottemo, Mabushikute",
+        "ja": "それはとっても, 眩しくて"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465802,
+      "tvdbId": 11872249,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872249/screencap/6a4e1cb732b18.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-19",
       "title": {
-        "en": "Episode 3"
+        "en": "I Don`t Want to Show My Scars",
+        "romaji": "Kizuato Nanka, Misetakunai",
+        "ja": "傷跡なんか, 見せたくない"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465802,
+      "tvdbId": 11872250,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872250/screencap/6a57623ad6cca.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-26",
       "title": {
-        "en": "Episode 4"
+        "en": "I Just Can`t Bring Myself to Be Honest",
+        "romaji": "Sunao ni Nanka, Narenakute",
+        "ja": "素直になんか, なれなくて"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465802,
+      "tvdbId": 11872251,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872251/screencap/6a60a8514e1a3.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-02",
       "title": {
-        "en": "Episode 5"
+        "en": "There Is Nowhere I Belong",
+        "romaji": "Ibasho Nanka, Doko ni mo Nai",
+        "ja": "居場所なんか, どこにもない"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465802,
+      "tvdbId": 11872252,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872252/screencap/6a6a015914ba9.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-09",
       "title": {
-        "en": "Episode 6"
+        "en": "A Sinister Legend Summons a Storm",
+        "romaji": "Imawashiki Densetsu, Arashi o Yonde",
+        "ja": "忌まわしき伝説, 嵐を呼んで"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465802,
+      "tvdbId": 11872253,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872253/screencap/6a72ff105601f.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-16",
       "title": {
-        "en": "Episode 7"
+        "en": "I Don`t Get the Circus",
+        "romaji": "Circus ga, Wakaranai",
+        "ja": "サーカスが, わからない"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465802,
+      "tvdbId": 11872254,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872254/screencap/6a7c4189a310d.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-23",
       "title": {
-        "en": "Episode 8"
+        "en": "This Is What I Always Wanted",
+        "romaji": "Sore wa Zutto, Hoshikatta Mono",
+        "ja": "それはずっと, ほしかったもの"
+      },
+      "tvdbShowId": 465802,
+      "tvdbId": 11872255,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872255/screencap/6a857af409efb.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-30",
+      "title": {
+        "en": "Is All That Kindness Just a Lie?",
+        "romaji": "Sono Yasashisa wa, Zenbu Uso?",
+        "ja": "その優しさは, ぜんぶ嘘?"
+      },
+      "tvdbShowId": 465802,
+      "tvdbId": 11872256,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872256/screencap/6a8eb0b77e9f7.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-06",
+      "title": {
+        "en": "Beyond the Stage of Dreams",
+        "romaji": "Yume no Butai, Sono Mukougawa e",
+        "ja": "夢の舞台, その向こう側へ"
+      },
+      "tvdbShowId": 465802,
+      "tvdbId": 11872257,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872257/screencap/6a97ed041c084.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-13",
+      "title": {
+        "en": "For Whose Sake Is This Unfulfilled Dream?",
+        "romaji": "Mihatenu Yume wa, Ta ga Tame ni?",
+        "ja": "見果てぬ夢は, 誰がために?"
+      },
+      "tvdbShowId": 465802,
+      "tvdbId": 11872258,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872258/screencap/6aa274490dddc.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-20",
+      "title": {
+        "en": "Where the Heart Resides - Weaving Dreams",
+        "romaji": "Omoi no Arika, Tsumugu wa Yume",
+        "ja": "想いの在処, 紡ぐは夢"
+      },
+      "tvdbShowId": 465802,
+      "tvdbId": 11872265,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872265/screencap/6aaa5ff0b9077.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": 25,
+      "airDate": "2026-09-27",
+      "title": {
+        "en": "Even Higher",
+        "romaji": "Motto Takaku",
+        "ja": "もっと高く"
+      },
+      "tvdbShowId": 465802,
+      "tvdbId": 11872266,
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872266/screencap/6ab39a40ad22f.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": 55,
+      "airDate": "2026-06-13",
+      "title": {
+        "en": "Episode S1",
+        "romaji": "Tokubetsu Namahaishin \"Sennyuu! Himawari Circus\"",
+        "ja": "特別生配信 「潜入! ひまわりサーカス」"
       },
       "tvdbShowId": null,
       "tvdbId": null,
       "seasonNumber": null,
-      "episodeNumber": 8,
+      "episodeNumber": null,
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null
     },
-    "S1": {
-      "episode": "S1",
-      "length": "55m",
-      "airDate": "2026-06-13",
+    "S2": {
+      "episode": "S2",
+      "length": 55,
+      "airDate": "2026-09-05",
       "title": {
-        "en": "Episode S1"
+        "en": "Episode S2",
+        "romaji": "Namahaishin Bangumi: Himawari Circus no Kore made to Kore kara",
+        "ja": "生配信番組 ~ひまわりサーカスのこれまでとこれから~"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -217,15 +338,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:23:30.563Z",
+    "lastFetched": "2026-11-22T00:49:35.311Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

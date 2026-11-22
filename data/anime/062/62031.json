@@ -28,13 +28,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-06T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-21T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -43,39 +43,43 @@
     "time": "23:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788789600
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.31,
-    "anilistScore": 5.8,
+    "malScore": 6.65,
+    "anilistScore": 6.5,
     "kitsuRating": null
   },
   "genres": [
     "Comedy",
-    "Sports"
+    "School",
+    "Sports",
+    "Time Travel"
   ],
   "studios": [
     "Cue"
   ],
   "producers": [
-    "Mainichi Broadcasting System",
-    "Tokyo MX",
     "Avex Pictures",
-    "BS11",
-    "Kadokawa Media House",
+    "NBCUniversal Entertainment Japan",
     "arma bianca",
-    "Bit grooove promotion"
+    "BS11",
+    "Mainichi Broadcasting System",
+    "Kadokawa Media House",
+    "Bit grooove promotion",
+    "TOKYO MX"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1017/158603l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195833-DlR4ToMXP3if.jpg",
     "color": "#f1860d"
   },
-  "trailer": null,
-  "synopsis": null,
+  "trailer": {
+    "youtubeId": "IRbt0J3l5js",
+    "url": "https://www.youtube.com/watch?v=IRbt0J3l5js",
+    "thumbnail": "https://i.ytimg.com/vi/IRbt0J3l5js/hqdefault.jpg"
+  },
+  "synopsis": "Dodgeball is the most powerful combat ball game in history. Countless legends of this sport have been born, captivating people—and now, a new story begins. The protagonist is Ichigeki Danko, the daughter of Ichigeki Danpei. Unleashing the burning soul inherited from her father in the Reiwa era.\n\n(Source: ANN)",
   "sequence": [
     {
       "malId": 2228,
@@ -94,150 +98,220 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
-      "airDate": "2026-07-07",
+      "length": 25,
+      "airDate": "2026-07-06",
       "title": {
-        "en": "Flaming Dodgeball Girl! Danko Ichigeki!"
+        "en": "Flaming Dodgeball Girl! Danko Ichigeki!",
+        "romaji": "Honoo no Toukyuujo! Ichigeki Danko!",
+        "ja": "炎の闘球女!一撃弾子!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465707,
+      "tvdbId": 11239093,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11239093/screencap/6a4bc6831fb0e.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
-      "airDate": "2026-07-14",
+      "length": 25,
+      "airDate": "2026-07-13",
       "title": {
-        "en": "A Fated Rival, Arriving With Style!"
+        "en": "A Fated Rival, Arriving With Style!",
+        "romaji": "Sassou Toujou! Innnen no Rival!",
+        "ja": "颯爽登場!因縁のライバル!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465707,
+      "tvdbId": 11875813,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875813/screencap/6a54f74a16b83.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
-      "airDate": "2026-07-21",
+      "length": 25,
+      "airDate": "2026-07-20",
       "title": {
-        "en": "Clashing as the Fierce Match Begins!"
+        "en": "Clashing as the Fierce Match Begins!",
+        "romaji": "Gekitotsu! Haran Hisshi no Shiai Kaishi!",
+        "ja": "激突!波乱必至の試合開始!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465707,
+      "tvdbId": 11875814,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875814/screencap/6a5e5fdfe58bd.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
-      "airDate": "2026-07-28",
+      "length": 25,
+      "airDate": "2026-07-27",
       "title": {
-        "en": "Episode 4"
+        "en": "Rainy Showdown! Danko Awakens!",
+        "romaji": "Ame no Naka no Kessen! Danko, Kakusei!",
+        "ja": "雨の中の決戦!弾子、覚醒!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465707,
+      "tvdbId": 11875815,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875815/screencap/6a6784f9f0cfb.jpg"
     },
-    "OP1": {
-      "episode": "OP1",
-      "length": "2m",
-      "airDate": "2026-07-07",
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-03",
       "title": {
-        "en": "Kaishin no Ichigeki (1-2)"
+        "en": "The Battle Concludes! Onward, Tamagawa Dodgeball Club!",
+        "romaji": "Innnen no Kecchaku! Susume Tamagawa Toukyuu Bu!",
+        "ja": "因縁の決着!進め球川闘球部!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 465707,
+      "tvdbId": 11875816,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875816/screencap/6a70aed02339d.jpg"
     },
-    "ED1": {
-      "episode": "ED1",
-      "length": "2m",
-      "airDate": "2026-07-07",
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-10",
       "title": {
-        "en": "Welcome to Azatosa World (1-2)"
+        "en": "A New Opponent at the Joint Training Camp!",
+        "romaji": "Arata na Kyouteki!? Goudou Tokkun!",
+        "ja": "新たな強敵!?合同特訓!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 465707,
+      "tvdbId": 11875817,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875817/screencap/6a79f62ede53b.jpg"
     },
-    "T1": {
-      "episode": "T1",
-      "length": "1m",
-      "airDate": "2025-07-11",
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-17",
       "title": {
-        "en": "Announcement Video (0:41)"
+        "en": "The Super Secret Dodgeball Championship Begins!",
+        "romaji": "Kaimaku! Ura Super Dodge Taikai!",
+        "ja": "開幕!裏超闘球大会!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 465707,
+      "tvdbId": 11875818,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875818/screencap/6a8330ee78ce2.jpg"
     },
-    "T2": {
-      "episode": "T2",
-      "length": "2m",
-      "airDate": "2026-03-28",
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-24",
       "title": {
-        "en": "Teaser PV (1:02)"
+        "en": "A Superpowered Clash of the Titans!",
+        "romaji": "Choujou Taiketsu! Kyojin vs Kyojin!",
+        "ja": "超常対決!巨人vs巨人!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 465707,
+      "tvdbId": 11875819,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875819/screencap/6a8c68c071983.jpg"
     },
-    "T3": {
-      "episode": "T3",
-      "length": "2m",
-      "airDate": "2026-06-01",
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-31",
       "title": {
-        "en": "Main PV (1:38)"
+        "en": "Chilling Memories and Devastating Dodgeball!",
+        "romaji": "Senritsu no Kioku! Shura no Dodge!",
+        "ja": "戦慄の記憶!修羅のドッジ!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 465707,
+      "tvdbId": 11875820,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875820/screencap/6a95aef61062a.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-07",
+      "title": {
+        "en": "Survive the Danger Time!",
+        "romaji": "Ikinokore! Dangerous Time!",
+        "ja": "生き残れ!デンジャラス・タイム!"
+      },
+      "tvdbShowId": 465707,
+      "tvdbId": 11875821,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875821/screencap/6a9eddce42058.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-14",
+      "title": {
+        "en": "Blast Away the Darkness with the Legendary Shot!",
+        "romaji": "Yami o Nagiharae! Densetsu no Shoot!",
+        "ja": "闇をなぎ払え!伝説のシュート!"
+      },
+      "tvdbShowId": 465707,
+      "tvdbId": 11875822,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875822/screencap/6aa815e93acb7.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-21",
+      "title": {
+        "en": "The Battle Reaches Its Blazing Conclusion!",
+        "romaji": "Honoo no Kecchaku! Saigo Kessen!",
+        "ja": "炎の決着!最終決戦!"
+      },
+      "tvdbShowId": 465707,
+      "tvdbId": 11875823,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875823/screencap/6ab1648f8a527.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:23:24.324Z",
+    "lastFetched": "2026-11-22T00:49:28.788Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

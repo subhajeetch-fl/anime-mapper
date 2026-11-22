@@ -32,30 +32,34 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 13,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
-    "to": null
+    "from": "2026-10-07T00:00:00+00:00",
+    "to": "2026-12-30T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Wednesdays",
+    "time": "21:30",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795609800
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.86,
+    "anilistScore": 7,
     "kitsuRating": null
   },
   "genres": [
     "Comedy",
+    "Detective",
     "Mystery",
     "Romance",
     "Drama",
@@ -65,14 +69,22 @@
     "ENGI"
   ],
   "producers": [
-    "Kadokawa"
+    "KADOKAWA",
+    "Sammy",
+    "INCS toenter",
+    "BS Nittele",
+    "AT-X"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1164/156604l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1414/160406l.webp",
     "banner": null,
-    "color": "#93a1e4"
+    "color": null
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "8AnNxEp733c",
+    "url": "https://www.youtube.com/watch?v=8AnNxEp733c",
+    "thumbnail": "https://i.ytimg.com/vi/8AnNxEp733c/hqdefault.jpg"
+  },
   "synopsis": "Second season of Tantei wa Mou, Shindeiru.",
   "sequence": [
     {
@@ -90,32 +102,202 @@
     }
   ],
   "episodes": {
-    "T1": {
-      "episode": "T1",
-      "length": "1m",
-      "airDate": "2025-11-16",
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-07",
       "title": {
-        "en": "PV 1 (1:02)"
+        "en": "To See You Once More",
+        "ja": "もう一度、君に会うために"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 397197,
+      "tvdbId": 10724901,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10724901/screencap/6ac59f94a7292.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-14",
+      "title": {
+        "en": "A Story of That Day That No One Knows",
+        "ja": "誰も知らないあの日の話"
+      },
+      "tvdbShowId": 397197,
+      "tvdbId": 12022986,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022986/screencap/6acec2d9cd8fa.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-21",
+      "title": {
+        "en": "An Easy Way to Support Your Favorite by Being an Idol Producer",
+        "ja": "アイドルをプロデュースするだけの簡単な推し事"
+      },
+      "tvdbShowId": 397197,
+      "tvdbId": 12022987,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022987/screencap/6ad81e354f0c0.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-28",
+      "title": {
+        "en": "What We, the Living, Can Do",
+        "ja": "生きているわたしたちができること"
+      },
+      "tvdbShowId": 397197,
+      "tvdbId": 12022988,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022988/screencap/6ae002320f34f.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-04",
+      "title": {
+        "en": "That Was Their Final Answer"
+      },
+      "tvdbShowId": 397197,
+      "tvdbId": 12022989,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022989/screencap/6aea9b52585a3.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-11",
+      "title": {
+        "en": "Guardian of the World"
+      },
+      "tvdbShowId": 397197,
+      "tvdbId": 12022990,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022990/screencap/6af2942373bd6.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-18",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 397197,
+      "tvdbId": 12022991,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022991/screencap/6afba26ba9ad3.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-25",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 397197,
+      "tvdbId": 12022992,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-12-02",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 397197,
+      "tvdbId": 12022993,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-09",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 397197,
+      "tvdbId": 12022994,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-16",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 397197,
+      "tvdbId": 12022995,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-23",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 397197,
+      "tvdbId": 12022996,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T05:57:55.631Z",
+    "lastFetched": "2026-11-22T00:40:49.371Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

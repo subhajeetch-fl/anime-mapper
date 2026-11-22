@@ -7,7 +7,7 @@
     "anidb": 18345,
     "kitsu": 48397,
     "simkl": 2330432,
-    "tmdb": null,
+    "tmdb": 230050,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
@@ -30,12 +30,12 @@
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-08T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
@@ -45,33 +45,43 @@
     "time": "00:45",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795621500
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.97,
+    "anilistScore": 6.9,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Fantasy",
-    "Adventure",
-    "Demon",
-    "Magic"
+    "School",
+    "Time Travel",
+    "Adventure"
   ],
   "studios": [
     "Arvo Animation"
   ],
   "producers": [
     "Aniplex",
-    "Hayate"
+    "Crunchyroll",
+    "D&C MEDIA",
+    "Kakao piccoma",
+    "HAYATE"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1137/158402l.jpg",
-    "banner": null,
-    "color": "#e4785d"
+    "poster": "https://cdn.myanimelist.net/images/anime/1740/160052l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172192-jibcmb7wdbzk.jpg",
+    "color": "#f19328"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "YBWOrQCB9r0",
+    "url": "https://www.youtube.com/watch?v=YBWOrQCB9r0",
+    "thumbnail": "https://i.ytimg.com/vi/YBWOrQCB9r0/hqdefault.jpg"
+  },
   "synopsis": "Second season of Kikansha no Mahou wa Tokubetsu desu.",
   "sequence": [
     {
@@ -88,17 +98,213 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-08",
+      "title": {
+        "en": "Into the Shadow",
+        "romaji": "Into the Shadow",
+        "ja": "イントゥザシャドー"
+      },
+      "tvdbShowId": 432815,
+      "tvdbId": 10206999,
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10206999/screencap/6ac65ba576ddf.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-15",
+      "title": {
+        "en": "Judgment",
+        "romaji": "Judgement",
+        "ja": "ジャッジメント"
+      },
+      "tvdbShowId": 432815,
+      "tvdbId": 12023600,
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023600/screencap/6acecb9c0543d.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-22",
+      "title": {
+        "en": "Yellow Ocean",
+        "romaji": "Yellow Ocean",
+        "ja": "イエローオーシャン"
+      },
+      "tvdbShowId": 432815,
+      "tvdbId": 12023601,
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 15,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023601/screencap/6ad8bdfc011b0.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-29",
+      "title": {
+        "en": "Beginning",
+        "romaji": "Beginning",
+        "ja": "ビギニング"
+      },
+      "tvdbShowId": 432815,
+      "tvdbId": 12023602,
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023602/screencap/6ae00f672af89.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-05",
+      "title": {
+        "en": "Error",
+        "romaji": "Error",
+        "ja": "エラー"
+      },
+      "tvdbShowId": 432815,
+      "tvdbId": 12023603,
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023603/screencap/6aeaa2c3dc789.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-12",
+      "title": {
+        "en": "Arch Wizard",
+        "romaji": "Arch Wizard",
+        "ja": "アークウィザード"
+      },
+      "tvdbShowId": 432815,
+      "tvdbId": 12023604,
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023604/screencap/6af29e6ddaa28.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-19",
+      "title": {
+        "en": null,
+        "romaji": "Awakening",
+        "ja": "アウェイクニング"
+      },
+      "tvdbShowId": 432815,
+      "tvdbId": 12023605,
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12023605/screencap/6afbbdd7839b4.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-26",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 432815,
+      "tvdbId": 12023606,
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-12-03",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 432815,
+      "tvdbId": 12023607,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-10",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 432815,
+      "tvdbId": 12023608,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-17",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 432815,
+      "tvdbId": 12023609,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-24",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 432815,
+      "tvdbId": 12023610,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-06-30T19:31:06.363Z",
+    "lastFetched": "2026-11-22T00:43:12.732Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

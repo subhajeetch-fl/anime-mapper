@@ -5,7 +5,7 @@
     "mal": 62278,
     "anilist": 205906,
     "anidb": null,
-    "kitsu": null,
+    "kitsu": 50284,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 62278,
     "livechart": null,
-    "animeplanet": null,
+    "animeplanet": "emo-faze-2nd-season",
     "anisearch": null,
     "notify": null
   },
@@ -30,18 +30,14 @@
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": 30,
-  "episodeLength": null,
+  "episodeLength": 19,
   "aired": {
-    "from": null,
+    "from": "2026-01-01T00:00:00+00:00",
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -58,21 +54,25 @@
     "CG Year"
   ],
   "producers": [
-    "Tencent Video"
+    "Tencent Penguin Pictures"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1001/151548l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1355/160850l.jpg",
     "banner": null,
     "color": "#e47850"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "fqQfdqRvaoE",
+    "url": "https://www.youtube.com/watch?v=fqQfdqRvaoE",
+    "thumbnail": "https://i.ytimg.com/vi/fqQfdqRvaoE/hqdefault.jpg"
+  },
   "synopsis": "After a coup in the imperial capital, Duwei was crowned Duke of Tulip. To save Raymond's life, he chose the most underdeveloped province in the northwest—Desa—as his territory. Duwei, using his wisdom, strategy, and magical talent, expanded his territory. He assembled a magical army, outsmarted dragons, annihilated the grassland people, and annihilated the northwestern rebels... Stirring up the storm, eliminating evil and quelling rebellion, Duwei will write a new legend in this troubled land.\n\n(Source: Tencent, translated)",
   "sequence": [
     {
       "malId": 51287,
       "title": {
         "romaji": "Emo Faze",
-        "english": null,
+        "english": "Law of Devil",
         "native": "恶魔法则"
       },
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137666-oPQD9Wk62I9G.png",
@@ -84,15 +84,17 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T11:04:19.949Z",
+    "lastFetched": "2026-11-22T00:50:15.600Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

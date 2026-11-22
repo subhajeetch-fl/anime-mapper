@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 55566,
     "livechart": 12080,
-    "animeplanet": null,
+    "animeplanet": "wasted-chef",
     "anisearch": 21569,
     "notify": null
   },
@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -54,23 +50,30 @@
   "studios": [
     "CLAP"
   ],
-  "producers": [],
+  "producers": [
+    "Shouchiku",
+    "KADOKAWA"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1929/158065l.jpg",
     "banner": null,
     "color": "#f1bb5d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "Ux7GbCnS76o",
+    "url": "https://www.youtube.com/watch?v=Ux7GbCnS76o",
+    "thumbnail": "https://i.ytimg.com/vi/Ux7GbCnS76o/hqdefault.jpg"
+  },
   "synopsis": "A young chef chasing a lost flavor lands in a ruined city without taste. Saved by Kasumi, his cooking awakens forgotten memories. But a dark force threatens to erase all desire - making his quest the last hope to save both worlds.\n\n(Source: Annecy Festival)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T14:29:29.918Z",
+    "lastFetched": "2026-11-22T00:41:53.849Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

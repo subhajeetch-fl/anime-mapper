@@ -28,18 +28,14 @@
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 15,
   "aired": {
     "from": "2026-01-01T00:00:00+00:00",
-    "to": null
+    "to": "2026-01-01T00:00:00+00:00"
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -54,23 +50,29 @@
     "Toei Animation",
     "ETERNA Animation"
   ],
-  "producers": [],
+  "producers": [
+    "Toei Animation"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1677/150407l.jpg",
     "banner": null,
     "color": "#e4bbae"
   },
-  "trailer": null,
-  "synopsis": null,
+  "trailer": {
+    "youtubeId": "MtDgwQJHmyw",
+    "url": "https://www.youtube.com/watch?v=MtDgwQJHmyw",
+    "thumbnail": "https://i.ytimg.com/vi/MtDgwQJHmyw/hqdefault.jpg"
+  },
+  "synopsis": "Shinano is a character designer drifting through a monotonous routine. Her work is absorbed into a commercially driven system, and on social media, she feels no sense of belonging, deepening her loneliness.\n\n\n\nOne day, Koyami—a fox-masked character from her old doodles—appears, followed by other discarded creations, blurring reality and imagination.\n\n\n\nAs she wanders through her own mind, Shinano realizes they are fragments of herself—the shape of her loneliness—and chooses to keep creating while living with it.",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-19T04:12:13.020Z",
+    "lastFetched": "2026-11-22T00:48:34.110Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

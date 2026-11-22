@@ -25,13 +25,13 @@
   },
   "type": "TV",
   "source": "Novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 148,
-  "episodeLength": null,
+  "episodeLength": 10,
   "aired": {
     "from": "2020-09-08T00:00:00+00:00",
-    "to": null
+    "to": "2025-03-14T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2020,
@@ -43,14 +43,13 @@
   "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
-    "malScore": 6.14,
-    "anilistScore": 5.1,
+    "malScore": null,
+    "anilistScore": 5.3,
     "kitsuRating": null
   },
   "genres": [
-    "Mystery",
-    "Supernatural",
-    "Kids"
+    "Kids",
+    "Mystery"
   ],
   "studios": [
     "Toei Animation",
@@ -58,13 +57,19 @@
     "Kanaban Graphics",
     "Studio Gallop"
   ],
-  "producers": [],
+  "producers": [
+    "NHK Enterprises"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1602/150098l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1602/150098l.webp",
     "banner": null,
     "color": "#e4a150"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "gs6FJ4Fy58c",
+    "url": "https://www.youtube.com/watch?v=gs6FJ4Fy58c",
+    "thumbnail": "https://i.ytimg.com/vi/gs6FJ4Fy58c/hqdefault.jpg"
+  },
   "synopsis": "Zenitendo is a mysterious candy store that only lucky people can reach. All the candy recommended by Beniko, the owner of the store, is perfectly suited to the buyer's troubles. However, it depends on whether the candy will be used or eaten correctly that it can bring happiness or misfortune.\n\n(Source: MAL News)",
   "sequence": [
     {
@@ -84,10 +89,12 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "9m",
+      "length": 9,
       "airDate": "2020-09-08",
       "title": {
-        "en": "Episode 1"
+        "en": null,
+        "romaji": "Katanuki Ningyo Gumi",
+        "ja": "型ぬき人魚グミ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -99,10 +106,12 @@
     },
     "2": {
       "episode": "2",
-      "length": "9m",
+      "length": 9,
       "airDate": "2020-09-15",
       "title": {
-        "en": "Episode 2"
+        "en": null,
+        "romaji": "Moujuu Biscuit",
+        "ja": "猛獣ビスケット"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -114,10 +123,12 @@
     },
     "3": {
       "episode": "3",
-      "length": "9m",
+      "length": 9,
       "airDate": "2020-09-22",
       "title": {
-        "en": "Episode 3"
+        "en": null,
+        "romaji": "Haunted Ice",
+        "ja": "ホーンテッドアイス"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -129,10 +140,12 @@
     },
     "4": {
       "episode": "4",
-      "length": "9m",
+      "length": 9,
       "airDate": "2020-10-06",
       "title": {
-        "en": "Episode 4"
+        "en": null,
+        "romaji": "Charisma Ponpon",
+        "ja": "カリスマボンボン"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -144,10 +157,12 @@
     },
     "5": {
       "episode": "5",
-      "length": "9m",
+      "length": 9,
       "airDate": "2020-10-13",
       "title": {
-        "en": "Episode 5"
+        "en": null,
+        "romaji": "Cooking Tree",
+        "ja": "クッキングツリー"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -159,10 +174,12 @@
     },
     "6": {
       "episode": "6",
-      "length": "9m",
+      "length": 9,
       "airDate": "2020-10-20",
       "title": {
-        "en": "Episode 6"
+        "en": null,
+        "romaji": "Kaitou Roll Pan",
+        "ja": "怪盗ロールパン"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -174,10 +191,12 @@
     },
     "7": {
       "episode": "7",
-      "length": "9m",
+      "length": 9,
       "airDate": "2020-10-27",
       "title": {
-        "en": "Episode 7"
+        "en": null,
+        "romaji": "Music Snack",
+        "ja": "ミュージックスナック"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -189,10 +208,12 @@
     },
     "8": {
       "episode": "8",
-      "length": "9m",
+      "length": 9,
       "airDate": "2020-11-10",
       "title": {
-        "en": "Episode 8"
+        "en": null,
+        "romaji": "Doctor Ramune Kit: Zenpen",
+        "ja": "ドクターラムネキット 前編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -204,10 +225,12 @@
     },
     "9": {
       "episode": "9",
-      "length": "9m",
+      "length": 9,
       "airDate": "2020-11-17",
       "title": {
-        "en": "Episode 9"
+        "en": null,
+        "romaji": "Doctor Ramune Kit: Kouhen",
+        "ja": "ドクターラムネキット 後編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -219,10 +242,12 @@
     },
     "10": {
       "episode": "10",
-      "length": "9m",
+      "length": 9,
       "airDate": "2020-11-24",
       "title": {
-        "en": "Episode 10"
+        "en": null,
+        "romaji": "Omotenashi Tea",
+        "ja": "おもてなしティー"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -234,10 +259,12 @@
     },
     "11": {
       "episode": "11",
-      "length": "9m",
+      "length": 9,
       "airDate": "2020-12-08",
       "title": {
-        "en": "Episode 11"
+        "en": null,
+        "romaji": "Baku Baku Monaka: Zenpen",
+        "ja": "獏ばくもなか 前編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -249,10 +276,12 @@
     },
     "12": {
       "episode": "12",
-      "length": "9m",
+      "length": 9,
       "airDate": "2020-12-15",
       "title": {
-        "en": "Episode 12"
+        "en": null,
+        "romaji": "Baku Baku Monaka: Kouhen",
+        "ja": "獏ばくもなか 後編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -264,10 +293,12 @@
     },
     "13": {
       "episode": "13",
-      "length": "9m",
+      "length": 9,
       "airDate": "2020-12-22",
       "title": {
-        "en": "Episode 13"
+        "en": null,
+        "romaji": "Ema Senbei",
+        "ja": "絵馬せんべい"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -279,10 +310,12 @@
     },
     "14": {
       "episode": "14",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-01-05",
       "title": {
-        "en": "Episode 14"
+        "en": null,
+        "romaji": "Miiramune",
+        "ja": "ミイラムネ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -294,10 +327,12 @@
     },
     "15": {
       "episode": "15",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-01-12",
       "title": {
-        "en": "Episode 15"
+        "en": null,
+        "romaji": "Yama Kazume to Zuruzuru Agemochi",
+        "ja": "ヤマ缶詰とずるずるあげもち"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -309,10 +344,12 @@
     },
     "16": {
       "episode": "16",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-01-26",
       "title": {
-        "en": "Episode 16"
+        "en": null,
+        "romaji": "Wolf Manjuu",
+        "ja": "ウルフまんじゅう"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -324,10 +361,12 @@
     },
     "17": {
       "episode": "17",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-02-02",
       "title": {
-        "en": "Episode 17"
+        "en": null,
+        "romaji": "Goblin Choko Egg",
+        "ja": "ゴブリンチョコエッグ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -339,10 +378,12 @@
     },
     "18": {
       "episode": "18",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-02-16",
       "title": {
-        "en": "Episode 18"
+        "en": null,
+        "romaji": "Mushiba Arare",
+        "ja": "虫歯あられ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -354,10 +395,12 @@
     },
     "19": {
       "episode": "19",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-02-23",
       "title": {
-        "en": "Episode 19"
+        "en": null,
+        "romaji": "Niji-iro Mizuame: Zenpen",
+        "ja": "虹色水あめ 前編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -369,10 +412,12 @@
     },
     "20": {
       "episode": "20",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-03-02",
       "title": {
-        "en": "Episode 20"
+        "en": null,
+        "romaji": "Niji-iro Mizuame: Kouhen",
+        "ja": "虹色水あめ 後編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -384,10 +429,12 @@
     },
     "21": {
       "episode": "21",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-04-06",
       "title": {
-        "en": "Episode 21"
+        "en": null,
+        "romaji": "Oinari Senbei",
+        "ja": "お稲荷せんべい"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -399,10 +446,12 @@
     },
     "22": {
       "episode": "22",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-04-13",
       "title": {
-        "en": "Episode 22"
+        "en": null,
+        "romaji": "Shiwatori Umeboshi",
+        "ja": "しわとり梅干し"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -414,10 +463,12 @@
     },
     "23": {
       "episode": "23",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-04-20",
       "title": {
-        "en": "Episode 23"
+        "en": null,
+        "romaji": "Shippegaeshi Menko",
+        "ja": "しっぺがえしメンコ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -429,10 +480,12 @@
     },
     "24": {
       "episode": "24",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-04-27",
       "title": {
-        "en": "Episode 24"
+        "en": null,
+        "romaji": "Sen Tendou to Kin`iro no Manekineko",
+        "ja": "銭天堂と金色の招き猫"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -444,10 +497,12 @@
     },
     "25": {
       "episode": "25",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-05-11",
       "title": {
-        "en": "Episode 25"
+        "en": null,
+        "romaji": "Shinpin Pin",
+        "ja": "新品ピン"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -459,10 +514,12 @@
     },
     "26": {
       "episode": "26",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-05-18",
       "title": {
-        "en": "Episode 26"
+        "en": null,
+        "romaji": "Ojou-sama Cocoa",
+        "ja": "おじょうさまココア"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -474,10 +531,12 @@
     },
     "27": {
       "episode": "27",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-05-25",
       "title": {
-        "en": "Episode 27"
+        "en": null,
+        "romaji": "Ikemen",
+        "ja": "イケ面"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -489,10 +548,12 @@
     },
     "28": {
       "episode": "28",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-06-08",
       "title": {
-        "en": "Episode 28"
+        "en": null,
+        "romaji": "Speech Juice: Zenpen",
+        "ja": "スピーチジュース 前編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -504,10 +565,12 @@
     },
     "29": {
       "episode": "29",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-06-15",
       "title": {
-        "en": "Episode 29"
+        "en": null,
+        "romaji": "Speech Juice: Kouhen",
+        "ja": "スピーチジュース 後編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -519,10 +582,12 @@
     },
     "30": {
       "episode": "30",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-06-22",
       "title": {
-        "en": "Episode 30"
+        "en": null,
+        "romaji": "Zenitendou, Kikiippatsu",
+        "ja": "銭天堂, 危機一髪"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -534,10 +599,12 @@
     },
     "31": {
       "episode": "31",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-07-06",
       "title": {
-        "en": "Episode 31"
+        "en": null,
+        "romaji": "Bikkuri Monaka",
+        "ja": "ビッグリもなか"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -549,10 +616,12 @@
     },
     "32": {
       "episode": "32",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-07-13",
       "title": {
-        "en": "Episode 32"
+        "en": null,
+        "romaji": "Balance Rusk",
+        "ja": "バランスラスク"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -564,10 +633,12 @@
     },
     "33": {
       "episode": "33",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-09-07",
       "title": {
-        "en": "Episode 33"
+        "en": null,
+        "romaji": "Gamen Enpitsu",
+        "ja": "がまんエンピツ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -579,10 +650,12 @@
     },
     "34": {
       "episode": "34",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-09-14",
       "title": {
-        "en": "Episode 34"
+        "en": null,
+        "romaji": "Rapunzel Pretzel: Zenpen",
+        "ja": "ラプンツェル・プレッツェル 前編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -594,10 +667,12 @@
     },
     "35": {
       "episode": "35",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-09-21",
       "title": {
-        "en": "Episode 35"
+        "en": null,
+        "romaji": "Rapunzel Pretzel: Kouhen",
+        "ja": "ラプンツェル・プレッツェル 後編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -609,10 +684,12 @@
     },
     "36": {
       "episode": "36",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-09-28",
       "title": {
-        "en": "Episode 36"
+        "en": null,
+        "romaji": "Charming Mi",
+        "ja": "チャーミングミ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -624,10 +701,12 @@
     },
     "37": {
       "episode": "37",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-10-05",
       "title": {
-        "en": "Episode 37"
+        "en": null,
+        "romaji": "Komori Koumori",
+        "ja": "子守コウモリ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -639,10 +718,12 @@
     },
     "38": {
       "episode": "38",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-10-19",
       "title": {
-        "en": "Episode 38"
+        "en": null,
+        "romaji": "Kaidou, Arawaru",
+        "ja": "怪童, 現る"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -654,10 +735,12 @@
     },
     "39": {
       "episode": "39",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-10-26",
       "title": {
-        "en": "Episode 39"
+        "en": null,
+        "romaji": "Dream Dome",
+        "ja": "ドリームドーム"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -669,10 +752,12 @@
     },
     "40": {
       "episode": "40",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-11-02",
       "title": {
-        "en": "Episode 40"
+        "en": null,
+        "romaji": "Saigo ni Wara Fusuma to Makeshirazu Anzu",
+        "ja": "最後にわら麩と負け知らずアンズ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -684,10 +769,12 @@
     },
     "41": {
       "episode": "41",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-11-09",
       "title": {
-        "en": "Episode 41"
+        "en": null,
+        "romaji": "Hunter Butter Sando",
+        "ja": "ハンターバターサンド"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -699,10 +786,12 @@
     },
     "42": {
       "episode": "42",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-11-23",
       "title": {
-        "en": "Episode 42"
+        "en": null,
+        "romaji": "Chef Chocola",
+        "ja": "シェフ・ショコラ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -714,10 +803,12 @@
     },
     "43": {
       "episode": "43",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-11-30",
       "title": {
-        "en": "Episode 43"
+        "en": null,
+        "romaji": "Omotenashi",
+        "ja": "おもてナシ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -729,10 +820,12 @@
     },
     "44": {
       "episode": "44",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-12-07",
       "title": {
-        "en": "Episode 44"
+        "en": null,
+        "romaji": "Gaki Nikki",
+        "ja": "餓鬼ニッキ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -744,10 +837,12 @@
     },
     "45": {
       "episode": "45",
-      "length": "9m",
+      "length": 9,
       "airDate": "2021-12-14",
       "title": {
-        "en": "Episode 45"
+        "en": null,
+        "romaji": "Innen no Hajimari",
+        "ja": "因縁のはじまり"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -759,10 +854,10 @@
     },
     "46": {
       "episode": "46",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-01-11",
       "title": {
-        "en": "Episode 46"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -774,10 +869,10 @@
     },
     "47": {
       "episode": "47",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-01-18",
       "title": {
-        "en": "Episode 47"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -789,10 +884,10 @@
     },
     "48": {
       "episode": "48",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-01-25",
       "title": {
-        "en": "Episode 48"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -804,10 +899,10 @@
     },
     "49": {
       "episode": "49",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-02-08",
       "title": {
-        "en": "Episode 49"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -819,10 +914,10 @@
     },
     "50": {
       "episode": "50",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-02-15",
       "title": {
-        "en": "Episode 50"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -834,10 +929,10 @@
     },
     "51": {
       "episode": "51",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-02-22",
       "title": {
-        "en": "Episode 51"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -849,10 +944,10 @@
     },
     "52": {
       "episode": "52",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-03-01",
       "title": {
-        "en": "Episode 52"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -864,10 +959,10 @@
     },
     "53": {
       "episode": "53",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-03-22",
       "title": {
-        "en": "Episode 53"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -879,10 +974,10 @@
     },
     "54": {
       "episode": "54",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-03-29",
       "title": {
-        "en": "Episode 54"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -894,10 +989,10 @@
     },
     "55": {
       "episode": "55",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-04-05",
       "title": {
-        "en": "Episode 55"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -909,10 +1004,11 @@
     },
     "56": {
       "episode": "56",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-04-29",
       "title": {
-        "en": "Episode 56"
+        "en": null,
+        "ja": "肩こり地蔵まんじゅう 後編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -924,10 +1020,11 @@
     },
     "57": {
       "episode": "57",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-05-13",
       "title": {
-        "en": "Episode 57"
+        "en": null,
+        "ja": "写らんシール"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -939,10 +1036,11 @@
     },
     "58": {
       "episode": "58",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-05-20",
       "title": {
-        "en": "Episode 58"
+        "en": null,
+        "ja": "底なしイ～カ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -954,10 +1052,11 @@
     },
     "59": {
       "episode": "59",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-05-27",
       "title": {
-        "en": "Episode 59"
+        "en": null,
+        "ja": "カモメアメ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -969,10 +1068,11 @@
     },
     "60": {
       "episode": "60",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-06-10",
       "title": {
-        "en": "Episode 60"
+        "en": null,
+        "ja": "アイディアあんこ 前編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -984,10 +1084,11 @@
     },
     "61": {
       "episode": "61",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-06-17",
       "title": {
-        "en": "Episode 61"
+        "en": null,
+        "ja": "アイディアあんこ 後編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -999,10 +1100,11 @@
     },
     "62": {
       "episode": "62",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-06-24",
       "title": {
-        "en": "Episode 62"
+        "en": null,
+        "ja": "ふしぎなお客様"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1014,10 +1116,11 @@
     },
     "63": {
       "episode": "63",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-07-08",
       "title": {
-        "en": "Episode 63"
+        "en": null,
+        "ja": "写らんシール"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1029,10 +1132,11 @@
     },
     "64": {
       "episode": "64",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-07-15",
       "title": {
-        "en": "Episode 64"
+        "en": null,
+        "ja": "聞き耳グミ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1044,10 +1148,11 @@
     },
     "65": {
       "episode": "65",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-07-22",
       "title": {
-        "en": "Episode 65"
+        "en": null,
+        "ja": "家カエル 前編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1059,10 +1164,11 @@
     },
     "66": {
       "episode": "66",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-07-29",
       "title": {
-        "en": "Episode 66"
+        "en": null,
+        "ja": "家カエル 後編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1074,10 +1180,11 @@
     },
     "67": {
       "episode": "67",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-09-02",
       "title": {
-        "en": "Episode 67"
+        "en": null,
+        "ja": "コントロールケーキ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1089,10 +1196,11 @@
     },
     "68": {
       "episode": "68",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-09-09",
       "title": {
-        "en": "Episode 68"
+        "en": null,
+        "ja": "健太の秘密"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1104,10 +1212,11 @@
     },
     "69": {
       "episode": "69",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-09-16",
       "title": {
-        "en": "Episode 69"
+        "en": null,
+        "ja": "アドベン茶～"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1119,10 +1228,11 @@
     },
     "70": {
       "episode": "70",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-09-23",
       "title": {
-        "en": "Episode 70"
+        "en": null,
+        "ja": "本当の望み"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1134,10 +1244,11 @@
     },
     "71": {
       "episode": "71",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-09-30",
       "title": {
-        "en": "Episode 71"
+        "en": null,
+        "ja": "やりなおしおこし"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1149,10 +1260,11 @@
     },
     "72": {
       "episode": "72",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-10-14",
       "title": {
-        "en": "Episode 72"
+        "en": null,
+        "ja": "消えたよどみ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1164,10 +1276,11 @@
     },
     "73": {
       "episode": "73",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-10-21",
       "title": {
-        "en": "Episode 73"
+        "en": null,
+        "ja": "ダイナソーダと遺跡おかき 前編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1179,10 +1292,11 @@
     },
     "74": {
       "episode": "74",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-10-28",
       "title": {
-        "en": "Episode 74"
+        "en": null,
+        "ja": "ダイナソーダと遺跡おかき 後編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1194,10 +1308,11 @@
     },
     "75": {
       "episode": "75",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-11-11",
       "title": {
-        "en": "Episode 75"
+        "en": null,
+        "ja": "虫よけ香水"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1209,10 +1324,11 @@
     },
     "76": {
       "episode": "76",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-11-18",
       "title": {
-        "en": "Episode 76"
+        "en": null,
+        "ja": "チュチュットチューインガムとつまみぐいサブレ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1224,10 +1340,11 @@
     },
     "77": {
       "episode": "77",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-11-25",
       "title": {
-        "en": "Episode 77"
+        "en": null,
+        "ja": "盗まれた商品"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1239,10 +1356,11 @@
     },
     "78": {
       "episode": "78",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-12-09",
       "title": {
-        "en": "Episode 78"
+        "en": null,
+        "ja": "バーチャルバッジ 前編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1254,10 +1372,11 @@
     },
     "79": {
       "episode": "79",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-12-16",
       "title": {
-        "en": "Episode 79"
+        "en": null,
+        "ja": "バーチャルバッジ 後編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1269,10 +1388,11 @@
     },
     "80": {
       "episode": "80",
-      "length": "9m",
+      "length": 9,
       "airDate": "2022-12-23",
       "title": {
-        "en": "Episode 80"
+        "en": null,
+        "ja": "いそげもちとのんびりりんご"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1284,10 +1404,11 @@
     },
     "81": {
       "episode": "81",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-01-20",
       "title": {
-        "en": "Episode 81"
+        "en": null,
+        "ja": "すいすいソーダ水と先頭糖"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1299,10 +1420,11 @@
     },
     "82": {
       "episode": "82",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-01-27",
       "title": {
-        "en": "Episode 82"
+        "en": null,
+        "ja": "眠り貯金箱と眠れませんべい"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1314,10 +1436,11 @@
     },
     "83": {
       "episode": "83",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-02-10",
       "title": {
-        "en": "Episode 83"
+        "en": null,
+        "ja": "引きさきイカ 前編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1329,10 +1452,11 @@
     },
     "84": {
       "episode": "84",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-02-17",
       "title": {
-        "en": "Episode 84"
+        "en": null,
+        "ja": "引きさきイカ 後編"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1344,10 +1468,11 @@
     },
     "85": {
       "episode": "85",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-04-07",
       "title": {
-        "en": "Episode 85"
+        "en": null,
+        "ja": "兵糧キャラメル"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1359,10 +1484,11 @@
     },
     "86": {
       "episode": "86",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-04-14",
       "title": {
-        "en": "Episode 86"
+        "en": null,
+        "ja": "お仲間まんじゅう"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1374,10 +1500,11 @@
     },
     "87": {
       "episode": "87",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-04-21",
       "title": {
-        "en": "Episode 87"
+        "en": null,
+        "ja": "田舎もなか"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1389,10 +1516,11 @@
     },
     "88": {
       "episode": "88",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-04-28",
       "title": {
-        "en": "Episode 88"
+        "en": null,
+        "ja": "みせびら菓子"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1404,10 +1532,11 @@
     },
     "89": {
       "episode": "89",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-05-12",
       "title": {
-        "en": "Episode 89"
+        "en": null,
+        "ja": "インココイン"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1419,10 +1548,11 @@
     },
     "90": {
       "episode": "90",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-05-19",
       "title": {
-        "en": "Episode 90"
+        "en": null,
+        "ja": "熱帯焼き"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1434,10 +1564,11 @@
     },
     "91": {
       "episode": "91",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-05-26",
       "title": {
-        "en": "Episode 91"
+        "en": null,
+        "ja": "見定メーター"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1449,10 +1580,11 @@
     },
     "92": {
       "episode": "92",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-06-09",
       "title": {
-        "en": "Episode 92"
+        "en": null,
+        "ja": "六条教授のたくらみ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1464,10 +1596,11 @@
     },
     "93": {
       "episode": "93",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-06-16",
       "title": {
-        "en": "Episode 93"
+        "en": null,
+        "ja": "もうひとりの紅子"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1479,10 +1612,11 @@
     },
     "94": {
       "episode": "94",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-06-23",
       "title": {
-        "en": "Episode 94"
+        "en": null,
+        "ja": "いいものナゲット"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1494,10 +1628,11 @@
     },
     "95": {
       "episode": "95",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-06-30",
       "title": {
-        "en": "Episode 95"
+        "en": null,
+        "ja": "忍者ジンジャー"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1509,10 +1644,11 @@
     },
     "96": {
       "episode": "96",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-07-14",
       "title": {
-        "en": "Episode 96"
+        "en": null,
+        "ja": "元研究員の悩み"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1524,10 +1660,11 @@
     },
     "97": {
       "episode": "97",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-07-21",
       "title": {
-        "en": "Episode 97"
+        "en": null,
+        "ja": "デジタルト"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1539,10 +1676,11 @@
     },
     "98": {
       "episode": "98",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-07-28",
       "title": {
-        "en": "Episode 98"
+        "en": null,
+        "ja": "ふしぎ駄菓子のできるまで"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1554,10 +1692,11 @@
     },
     "99": {
       "episode": "99",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-09-01",
       "title": {
-        "en": "Episode 99"
+        "en": null,
+        "ja": "猛獣ビスケット, ふたたび"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1569,10 +1708,11 @@
     },
     "100": {
       "episode": "100",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-09-08",
       "title": {
-        "en": "Episode 100"
+        "en": null,
+        "ja": "その名は [銭天堂]"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1584,10 +1724,11 @@
     },
     "101": {
       "episode": "101",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-09-15",
       "title": {
-        "en": "Episode 101"
+        "en": null,
+        "ja": "とりあげもち"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1599,10 +1740,11 @@
     },
     "102": {
       "episode": "102",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-09-22",
       "title": {
-        "en": "Episode 102"
+        "en": null,
+        "ja": "兄弟だんご"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1614,10 +1756,11 @@
     },
     "103": {
       "episode": "103",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-10-06",
       "title": {
-        "en": "Episode 103"
+        "en": null,
+        "ja": "留守電でんシール"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1629,10 +1772,11 @@
     },
     "104": {
       "episode": "104",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-10-13",
       "title": {
-        "en": "Episode 104"
+        "en": null,
+        "ja": "分身風船ガム"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1644,10 +1788,11 @@
     },
     "105": {
       "episode": "105",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-10-20",
       "title": {
-        "en": "Episode 105"
+        "en": null,
+        "ja": "リプレイプリン"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1659,10 +1804,11 @@
     },
     "106": {
       "episode": "106",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-10-27",
       "title": {
-        "en": "Episode 106"
+        "en": null,
+        "ja": "シークレットタブレット"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1674,10 +1820,11 @@
     },
     "107": {
       "episode": "107",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-11-10",
       "title": {
-        "en": "Episode 107"
+        "en": null,
+        "ja": "サイン・コイン"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1689,10 +1836,11 @@
     },
     "108": {
       "episode": "108",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-11-17",
       "title": {
-        "en": "Episode 108"
+        "en": null,
+        "ja": "軽々カルメ焼き"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1704,10 +1852,11 @@
     },
     "109": {
       "episode": "109",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-11-24",
       "title": {
-        "en": "Episode 109"
+        "en": null,
+        "ja": "歌う銭天堂"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1719,10 +1868,11 @@
     },
     "110": {
       "episode": "110",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-12-08",
       "title": {
-        "en": "Episode 110"
+        "en": null,
+        "ja": "スクープクレープ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1734,10 +1884,11 @@
     },
     "111": {
       "episode": "111",
-      "length": "9m",
+      "length": 9,
       "airDate": "2023-12-15",
       "title": {
-        "en": "Episode 111"
+        "en": null,
+        "ja": "プレゼント扇子"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1749,10 +1900,11 @@
     },
     "112": {
       "episode": "112",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-01-19",
       "title": {
-        "en": "Episode 112"
+        "en": null,
+        "ja": "ごまかしボーロ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1764,10 +1916,11 @@
     },
     "113": {
       "episode": "113",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-01-26",
       "title": {
-        "en": "Episode 113"
+        "en": null,
+        "ja": "迷宮メロンパン"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1779,10 +1932,11 @@
     },
     "114": {
       "episode": "114",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-02-02",
       "title": {
-        "en": "Episode 114"
+        "en": null,
+        "ja": "チリチリチェリー"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1794,10 +1948,11 @@
     },
     "115": {
       "episode": "115",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-02-23",
       "title": {
-        "en": "Episode 115"
+        "en": null,
+        "ja": "悪魔あめ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1809,10 +1964,11 @@
     },
     "116": {
       "episode": "116",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-03-01",
       "title": {
-        "en": "Episode 116"
+        "en": null,
+        "ja": "おおらか落花生"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1824,10 +1980,11 @@
     },
     "117": {
       "episode": "117",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-04-05",
       "title": {
-        "en": "Episode 117"
+        "en": null,
+        "ja": "ごめんラーメン"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1839,10 +1996,11 @@
     },
     "118": {
       "episode": "118",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-04-12",
       "title": {
-        "en": "Episode 118"
+        "en": null,
+        "ja": "舌鼓"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1854,10 +2012,11 @@
     },
     "119": {
       "episode": "119",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-04-19",
       "title": {
-        "en": "Episode 119"
+        "en": null,
+        "ja": "タイムライム"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1869,10 +2028,11 @@
     },
     "120": {
       "episode": "120",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-04-26",
       "title": {
-        "en": "Episode 120"
+        "en": null,
+        "ja": "もてもてもち"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1884,10 +2044,11 @@
     },
     "121": {
       "episode": "121",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-05-10",
       "title": {
-        "en": "Episode 121"
+        "en": null,
+        "ja": "妖刀糖"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1899,10 +2060,11 @@
     },
     "122": {
       "episode": "122",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-05-17",
       "title": {
-        "en": "Episode 122"
+        "en": null,
+        "ja": "ライバルバルーン"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1914,10 +2076,11 @@
     },
     "123": {
       "episode": "123",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-05-24",
       "title": {
-        "en": "Episode 123"
+        "en": null,
+        "ja": "あまえん棒"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1929,10 +2092,11 @@
     },
     "124": {
       "episode": "124",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-06-07",
       "title": {
-        "en": "Episode 124"
+        "en": null,
+        "ja": "夢あめ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1944,10 +2108,11 @@
     },
     "125": {
       "episode": "125",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-06-14",
       "title": {
-        "en": "Episode 125"
+        "en": null,
+        "ja": "六条教授, ふたたび"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1959,10 +2124,11 @@
     },
     "126": {
       "episode": "126",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-06-21",
       "title": {
-        "en": "Episode 126"
+        "en": null,
+        "ja": "断捨離だんご"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1974,10 +2140,11 @@
     },
     "127": {
       "episode": "127",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-07-05",
       "title": {
-        "en": "Episode 127"
+        "en": null,
+        "ja": "いた板チョコ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1989,10 +2156,11 @@
     },
     "128": {
       "episode": "128",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-07-12",
       "title": {
-        "en": "Episode 128"
+        "en": null,
+        "ja": "貧乏神ガム"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2004,10 +2172,11 @@
     },
     "129": {
       "episode": "129",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-07-19",
       "title": {
-        "en": "Episode 129"
+        "en": null,
+        "ja": "迫りくる危機"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2019,10 +2188,11 @@
     },
     "130": {
       "episode": "130",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-07-26",
       "title": {
-        "en": "Episode 130"
+        "en": null,
+        "ja": "めぐり会う悪意"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2034,10 +2204,11 @@
     },
     "131": {
       "episode": "131",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-09-06",
       "title": {
-        "en": "Episode 131"
+        "en": null,
+        "ja": "離れん花火"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2049,10 +2220,11 @@
     },
     "132": {
       "episode": "132",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-09-13",
       "title": {
-        "en": "Episode 132"
+        "en": null,
+        "ja": "写し柿"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2064,10 +2236,11 @@
     },
     "133": {
       "episode": "133",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-09-20",
       "title": {
-        "en": "Episode 133"
+        "en": null,
+        "ja": "スカウトまんじゅう"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2079,10 +2252,11 @@
     },
     "134": {
       "episode": "134",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-10-04",
       "title": {
-        "en": "Episode 134"
+        "en": null,
+        "ja": "くるくるなつかしシェーク"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2094,10 +2268,11 @@
     },
     "135": {
       "episode": "135",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-10-11",
       "title": {
-        "en": "Episode 135"
+        "en": null,
+        "ja": "景気ケーキ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2109,10 +2284,11 @@
     },
     "136": {
       "episode": "136",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-10-18",
       "title": {
-        "en": "Episode 136"
+        "en": null,
+        "ja": "ゴーストロベリー"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2124,10 +2300,11 @@
     },
     "137": {
       "episode": "137",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-11-01",
       "title": {
-        "en": "Episode 137"
+        "en": null,
+        "ja": "論破パン"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2139,10 +2316,11 @@
     },
     "138": {
       "episode": "138",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-11-08",
       "title": {
-        "en": "Episode 138"
+        "en": null,
+        "ja": "育て手"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2154,10 +2332,11 @@
     },
     "139": {
       "episode": "139",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-11-15",
       "title": {
-        "en": "Episode 139"
+        "en": null,
+        "ja": "相談だんご"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2169,10 +2348,11 @@
     },
     "140": {
       "episode": "140",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-12-06",
       "title": {
-        "en": "Episode 140"
+        "en": null,
+        "ja": "ドラマチックどら焼き"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2184,10 +2364,11 @@
     },
     "141": {
       "episode": "141",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-12-13",
       "title": {
-        "en": "Episode 141"
+        "en": null,
+        "ja": "六条教授の新発明"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2199,10 +2380,11 @@
     },
     "142": {
       "episode": "142",
-      "length": "9m",
+      "length": 9,
       "airDate": "2025-01-17",
       "title": {
-        "en": "Episode 142"
+        "en": null,
+        "ja": "どっちウォッチ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2214,10 +2396,11 @@
     },
     "143": {
       "episode": "143",
-      "length": "9m",
+      "length": 9,
       "airDate": "2025-01-24",
       "title": {
-        "en": "Episode 143"
+        "en": null,
+        "ja": "優秀シュークリーム"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2229,10 +2412,11 @@
     },
     "144": {
       "episode": "144",
-      "length": "9m",
+      "length": 9,
       "airDate": "2025-01-31",
       "title": {
-        "en": "Episode 144"
+        "en": null,
+        "ja": "リメンバーチョコバー"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2244,10 +2428,11 @@
     },
     "145": {
       "episode": "145",
-      "length": "9m",
+      "length": 9,
       "airDate": "2025-02-21",
       "title": {
-        "en": "Episode 145"
+        "en": null,
+        "ja": "もとどおりんごあめ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2259,10 +2444,11 @@
     },
     "146": {
       "episode": "146",
-      "length": "9m",
+      "length": 9,
       "airDate": "2025-02-28",
       "title": {
-        "en": "Episode 146"
+        "en": null,
+        "ja": "立体焼き"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2274,10 +2460,11 @@
     },
     "147": {
       "episode": "147",
-      "length": "9m",
+      "length": 9,
       "airDate": "2025-03-07",
       "title": {
-        "en": "Episode 147"
+        "en": null,
+        "ja": "つぐみ, 銭天堂へ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2289,10 +2476,11 @@
     },
     "148": {
       "episode": "148",
-      "length": "9m",
+      "length": 9,
       "airDate": "2025-03-14",
       "title": {
-        "en": "Episode 148"
+        "en": null,
+        "ja": "つぐみの願い"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2304,10 +2492,10 @@
     },
     "149": {
       "episode": "149",
-      "length": "9m",
-      "airDate": "",
+      "length": 9,
+      "airDate": null,
       "title": {
-        "en": "Episode 149"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2319,10 +2507,10 @@
     },
     "150": {
       "episode": "150",
-      "length": "9m",
-      "airDate": "",
+      "length": 9,
+      "airDate": null,
       "title": {
-        "en": "Episode 150"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2334,10 +2522,10 @@
     },
     "151": {
       "episode": "151",
-      "length": "9m",
-      "airDate": "",
+      "length": 9,
+      "airDate": null,
       "title": {
-        "en": "Episode 151"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2349,10 +2537,10 @@
     },
     "152": {
       "episode": "152",
-      "length": "9m",
-      "airDate": "",
+      "length": 9,
+      "airDate": null,
       "title": {
-        "en": "Episode 152"
+        "en": null
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -2364,15 +2552,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-27T22:02:59.679Z",
+    "lastFetched": "2026-11-22T00:39:13.044Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

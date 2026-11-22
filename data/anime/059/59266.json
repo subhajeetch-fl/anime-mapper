@@ -19,7 +19,7 @@
   },
   "title": {
     "romaji": "Watari Tori to Katatsumuri",
-    "english": null,
+    "english": "Migratory Birds & Snail",
     "native": "渡り鳥とカタツムリ",
     "synonyms": [
       "Migratory Birds & Snail",
@@ -39,11 +39,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG",
   "score": {
@@ -52,6 +48,7 @@
     "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
     "Adventure",
     "Slice of Life",
     "Comedy"
@@ -68,15 +65,17 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-06-30T20:05:04.404Z",
+    "lastFetched": "2026-11-22T00:44:06.041Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

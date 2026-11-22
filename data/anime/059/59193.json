@@ -6,7 +6,7 @@
     "anilist": 178789,
     "anidb": 18727,
     "kitsu": 49002,
-    "simkl": null,
+    "simkl": 2832226,
     "tmdb": 94664,
     "tvdb": 371310,
     "trakt": 156460,
@@ -29,13 +29,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 14,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-06T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-28T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -44,43 +44,44 @@
     "time": "00:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 11,
-    "airingAt": 1788706800
-  },
+  "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": 8.91,
-    "anilistScore": 8.4,
-    "kitsuRating": 8.42
+    "malScore": 8.65,
+    "anilistScore": 8.6,
+    "kitsuRating": null
   },
   "genres": [
     "Adventure",
     "Drama",
     "Fantasy",
-    "Ecchi",
-    "Isekai"
+    "Isekai",
+    "Reincarnation",
+    "School",
+    "Ecchi"
   ],
   "studios": [
     "Studio Bind"
   ],
   "producers": [
-    "Frontier Works",
-    "TOHO",
-    "Magic Capsule",
     "Hakuhodo DY Music & Pictures",
+    "Toho",
+    "KADOKAWA",
+    "Frontier Works",
     "BS11",
-    "Egg Firm",
-    "Kadokawa",
-    "TOHO Music",
-    "GREE Entertainment"
+    "GREE Entertainment",
+    "EGG FIRM"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1527/158340l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
     "color": "#28bbe4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "ODxfIvSgWuo",
+    "url": "https://www.youtube.com/watch?v=ODxfIvSgWuo",
+    "thumbnail": "https://i.ytimg.com/vi/ODxfIvSgWuo/hqdefault.jpg"
+  },
   "synopsis": "Third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
   "sequence": [
     {
@@ -95,15 +96,30 @@
       "episodes": 12,
       "seasonYear": 2024,
       "relationType": "PREQUEL"
+    },
+    {
+      "malId": 65077,
+      "title": {
+        "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu Part 2",
+        "english": null,
+        "native": "無職転生Ⅲ ～異世界行ったら本気だす～ 第2クール"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217434-xqZNBp5U3hgY.jpg",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
     }
   ],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-04",
       "title": {
-        "en": "Burn Bright, Mad Dog"
+        "en": "Burn Bright, Mad Dog",
+        "romaji": "Moeyo Kyouken",
+        "ja": "燃えよ狂犬"
       },
       "tvdbShowId": 371310,
       "tvdbId": 10569214,
@@ -115,10 +131,12 @@
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-04",
       "title": {
-        "en": "Howl, Mad Dog"
+        "en": "Howl, Mad Dog",
+        "romaji": "Hoeyo Kyouken",
+        "ja": "吠えよ狂犬"
       },
       "tvdbShowId": 371310,
       "tvdbId": 11304523,
@@ -130,10 +148,12 @@
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-13",
       "title": {
-        "en": "Life Back at Home"
+        "en": "Life Back at Home",
+        "romaji": "Kaette Kita Nichijou",
+        "ja": "帰ってきた日常"
       },
       "tvdbShowId": 371310,
       "tvdbId": 11863961,
@@ -145,10 +165,12 @@
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-20",
       "title": {
-        "en": "A King-Class Water Mage"
+        "en": "A King-Class Water Mage",
+        "romaji": "Suiou-kyuu Majutsushi",
+        "ja": "水王級魔術師"
       },
       "tvdbShowId": 371310,
       "tvdbId": 11872044,
@@ -160,10 +182,12 @@
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-27",
       "title": {
-        "en": "Episode 5"
+        "en": "Celebrations",
+        "romaji": "Oiwai",
+        "ja": "お祝い"
       },
       "tvdbShowId": 371310,
       "tvdbId": 11872045,
@@ -171,14 +195,16 @@
       "episodeNumber": 5,
       "absoluteEpisodeNumber": 54,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872045/screencap/6a6561ff8f0ed.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-03",
       "title": {
-        "en": "Episode 6"
+        "en": "Another Domestic Disaster?",
+        "romaji": "Shuraba Futatabi?",
+        "ja": "修羅場再び?"
       },
       "tvdbShowId": 371310,
       "tvdbId": 11872046,
@@ -186,14 +212,16 @@
       "episodeNumber": 6,
       "absoluteEpisodeNumber": 55,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872046/screencap/6a6f5c0e632e7.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-10",
       "title": {
-        "en": "Episode 7"
+        "en": "Phase Four",
+        "romaji": "Dai Yon Dankai",
+        "ja": "第四段階"
       },
       "tvdbShowId": 371310,
       "tvdbId": 11872047,
@@ -201,14 +229,16 @@
       "episodeNumber": 7,
       "absoluteEpisodeNumber": 56,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872047/screencap/6a77f965276d0.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-17",
       "title": {
-        "en": "Episode 8"
+        "en": "The Flying Fortress",
+        "romaji": "Kuchuu Jousai",
+        "ja": "空中城塞"
       },
       "tvdbShowId": 371310,
       "tvdbId": 11872048,
@@ -216,89 +246,118 @@
       "episodeNumber": 8,
       "absoluteEpisodeNumber": 57,
       "runtime": 24,
-      "image": null
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872048/screencap/6a80f6e0043cd.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-24",
+      "title": {
+        "en": "Lament",
+        "romaji": "Doukoku",
+        "ja": "慟哭"
+      },
+      "tvdbShowId": 371310,
+      "tvdbId": 11872049,
+      "seasonNumber": 3,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 58,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872049/screencap/6a8a20637600b.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-08-31",
+      "title": {
+        "en": "An Audience with an Immortal Demon King",
+        "romaji": "Fushi Maou to no Ekken",
+        "ja": "不死魔王との謁見"
+      },
+      "tvdbShowId": 371310,
+      "tvdbId": 11872050,
+      "seasonNumber": 3,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 59,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872050/screencap/6a93885168f7e.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-07",
+      "title": {
+        "en": "Turning Point 4",
+        "romaji": "Turning Point 4",
+        "ja": "ターニングポイント4"
+      },
+      "tvdbShowId": 371310,
+      "tvdbId": 11872051,
+      "seasonNumber": 3,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 60,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872051/screencap/6a9ca2c4be6b5.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-14",
+      "title": {
+        "en": "An End and a Beginning",
+        "romaji": "Owari to Hajimari",
+        "ja": "終わりと始まり"
+      },
+      "tvdbShowId": 371310,
+      "tvdbId": 11872052,
+      "seasonNumber": 3,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 61,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872052/screencap/6aa605d44001a.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": 25,
+      "airDate": "2026-09-21",
+      "title": {
+        "en": "The Diary",
+        "romaji": "Nikki",
+        "ja": "日記"
+      },
+      "tvdbShowId": 371310,
+      "tvdbId": 11872053,
+      "seasonNumber": 3,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 62,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872053/screencap/6aaf3705498d2.jpg"
+    },
+    "14": {
+      "episode": "14",
+      "length": 25,
+      "airDate": "2026-09-28",
+      "title": {
+        "en": "Resolve",
+        "romaji": "Kakugo",
+        "ja": "覚悟"
+      },
+      "tvdbShowId": 371310,
+      "tvdbId": 11872054,
+      "seasonNumber": 3,
+      "episodeNumber": 14,
+      "absoluteEpisodeNumber": 63,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872054/screencap/6ab863e415421.jpg"
     },
     "S1": {
       "episode": "S1",
-      "length": "55m",
+      "length": 55,
       "airDate": "2026-07-04",
       "title": {
-        "en": "Pre-Broadcast Special"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "C1": {
-      "episode": "C1",
-      "length": "2m",
-      "airDate": "",
-      "title": {
-        "en": "Opening"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "C2": {
-      "episode": "C2",
-      "length": "2m",
-      "airDate": "2026-07-13",
-      "title": {
-        "en": "Ending"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T1": {
-      "episode": "T1",
-      "length": "2m",
-      "airDate": "2025-07-06",
-      "title": {
-        "en": "Teaser PV (1:57)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T2": {
-      "episode": "T2",
-      "length": "2m",
-      "airDate": "2026-03-28",
-      "title": {
-        "en": "PV 2: Eris Training Arc (1:15)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T3": {
-      "episode": "T3",
-      "length": "2m",
-      "airDate": "2026-06-04",
-      "title": {
-        "en": "Main PV (1:10)"
+        "en": "Pre-Broadcast Special",
+        "romaji": "3 Ki wa Eris mo Honki Dasu: Shugyou Hen Chokuzen Tokuban",
+        "ja": "~3期はエリスも本気だす~ 修行編直前特番"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -310,15 +369,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T16:13:24.080Z",
+    "lastFetched": "2026-11-22T00:43:54.128Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

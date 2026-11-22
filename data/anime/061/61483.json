@@ -30,13 +30,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-04T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-12T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -45,195 +45,258 @@
     "time": "23:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 7,
-    "airingAt": 1786199400
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 8.39,
-    "anilistScore": 8.2,
+    "malScore": 8.35,
+    "anilistScore": 8.3,
     "kitsuRating": null
   },
   "genres": [
-    "Drama"
+    "Drama",
+    "Historical",
+    "Adventure"
   ],
   "studios": [
     "Science SARU"
   ],
   "producers": [
-    "Bit grooove promotion"
+    "TV Asahi",
+    "Science SARU",
+    "CyberAgent",
+    "Akita Shoten",
+    "TV Asahi Music",
+    "BS Asahi"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1098/158891l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190569-fQrApHKs9PIz.jpg",
     "color": "#50a1e4"
   },
-  "trailer": null,
-  "synopsis": "In the harem of the Khan, wisdom is beauty. The time: the thirteenth century. The place: Yeke Mongol Ulus, the greatest empire the world has ever known. The woman: Fatima, hailing from Persia, where medical technique and scientific knowledge have been perfected beyond all precedent. Fatima's desire for a stage where she can put her knowledge to work has brought her to the palace of the Mongols, where she falls under the wing of Töregene, the sixth wife of Ögedei, the second Great Khan—a mighty woman with complicated feelings about the direction of the empire. These two women are the axel upon which the politics of the palace, and soon the very world, will turn...\n\n(Source: Yen Press)",
+  "trailer": {
+    "youtubeId": "GBHYXPp1lt8",
+    "url": "https://www.youtube.com/watch?v=GBHYXPp1lt8",
+    "thumbnail": "https://i.ytimg.com/vi/GBHYXPp1lt8/hqdefault.jpg"
+  },
+  "synopsis": "Eight centuries ago, in the latter days of the Islamic golden age, a young girl arrived in the Khwarazmian city of Tus. She was a slave. But she learned. Eight centuries ago, the Mongols blazed across the map, swept Khwarazm into the ash heap of history, and took all they desired from the ruins. They took the girl who learned. So begins the true story of how a \"witch,\" wielding knowledge as her only weapon, came to hold the greatest empire the world has ever known in the palm of her hand...\n\n(Source: Yen Press)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-04",
       "title": {
-        "en": "All That Is in the Heavens and All That Is in the Earth"
+        "en": "All That Is in the Heavens and All That Is in the Earth",
+        "romaji": "Ten ni Aru Mono Chi ni Aru Mono",
+        "ja": "天にあるもの 地にあるもの"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 462561,
+      "tvdbId": 11083486,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11083486/screencap/6a49207865493.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-04",
       "title": {
-        "en": "The Roses That Bloom in Safar"
+        "en": "The Roses That Bloom in Safar",
+        "romaji": "Safar ni Saku Bara",
+        "ja": "サファルに咲く薔薇"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 462561,
+      "tvdbId": 11813139,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11813139/screencap/6a4920625e4fc.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-11",
       "title": {
-        "en": "An Undying Flame"
+        "en": "An Undying Flame",
+        "romaji": "Keshienu Honoo",
+        "ja": "消しえぬ炎"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 462561,
+      "tvdbId": 11872301,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872301/screencap/6a4f654cb74e1.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-18",
       "title": {
-        "en": "Otchigin"
+        "en": "Otchigin",
+        "romaji": "Otchigin",
+        "ja": "炉の主[オッチギン]"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 462561,
+      "tvdbId": 11872302,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872302/screencap/6a58afc2cc97f.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-25",
       "title": {
-        "en": "Episode 5"
+        "en": "A Snake Shows Its Colors, Man Hides His Colors",
+        "romaji": "Hebi no Madara wa Sotogawa ni Hito no Madara wa Uchigawa ni",
+        "ja": "蛇のまだらは外側に 人のまだらは内側に"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 462561,
+      "tvdbId": 11872303,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872303/screencap/6a61fce2efe37.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-01",
       "title": {
-        "en": "Episode 6"
+        "en": "The Mergen People",
+        "romaji": "Mergen no Tami",
+        "ja": "メルゲンの民"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 462561,
+      "tvdbId": 11872304,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872304/screencap/6a6b4f9413fd8.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-08",
       "title": {
-        "en": "Episode 7"
+        "en": "Brothers",
+        "romaji": "Kyoudai",
+        "ja": "兄弟"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 462561,
+      "tvdbId": 11872305,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872305/screencap/6a74517edcd87.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-15",
       "title": {
-        "en": "Episode 8"
+        "en": "Great Khatun Boraqchin",
+        "romaji": "Dai Khatun Boraqchin",
+        "ja": "大カトゥン ボラクチン"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 462561,
+      "tvdbId": 11872306,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872306/screencap/6a7d8e231ad7a.jpg"
     },
-    "OP1": {
-      "episode": "OP1",
-      "length": "2m",
-      "airDate": "2026-07-04",
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-22",
       "title": {
-        "en": "Stella"
+        "en": "Tengri",
+        "romaji": "Tengri",
+        "ja": "天[テングリ]"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 462561,
+      "tvdbId": 11872307,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872307/screencap/6a86c31c0098f.jpg"
     },
-    "ED1": {
-      "episode": "ED1",
-      "length": "2m",
-      "airDate": "2026-07-04",
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-08-29",
       "title": {
-        "en": "Hoshi"
+        "en": "Wisdom",
+        "romaji": "Chie",
+        "ja": "知恵"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 462561,
+      "tvdbId": 11872308,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872308/screencap/6a8ffee57e4c8.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-05",
+      "title": {
+        "en": "An Ungraceful Stone",
+        "romaji": "Bukiyou na Ishi",
+        "ja": "不器用な石"
+      },
+      "tvdbShowId": 462561,
+      "tvdbId": 11872309,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872309/screencap/6a994b3e76a12.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-12",
+      "title": {
+        "en": "The Steppe, Ever Unchanging",
+        "romaji": "Itsumo to Kawaranai Sougen",
+        "ja": "いつもと変わらない草原"
+      },
+      "tvdbShowId": 462561,
+      "tvdbId": 11872310,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872310/screencap/6aa2732dd8a20.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-08-02T12:06:16.117Z",
+    "lastFetched": "2026-11-22T00:47:29.821Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

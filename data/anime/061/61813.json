@@ -5,14 +5,14 @@
     "mal": 61813,
     "anilist": 194213,
     "anidb": 19377,
-    "kitsu": null,
+    "kitsu": 49990,
     "simkl": 2807368,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 61813,
-    "livechart": null,
+    "livechart": 13189,
     "animeplanet": "ghost",
     "anisearch": 20636,
     "notify": null
@@ -25,21 +25,17 @@
   },
   "type": "Movie",
   "source": "Original",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": null,
   "aired": {
-    "from": "2027-02-11T00:00:00+00:00",
-    "to": null
+    "from": "2026-10-09T00:00:00+00:00",
+    "to": "2026-10-09T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "fall",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": {
     "episode": 1,
     "airingAt": 1802271600
@@ -57,20 +53,30 @@
     "Madhouse"
   ],
   "producers": [
-    "Bandai Namco Filmworks"
+    "Bandai Namco Filmworks",
+    "MADHOUSE",
+    "Nippon Television Network",
+    "Bandai Namco Music Live",
+    "Marui Group",
+    "Dentsu",
+    "BS Asahi"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1370/158848l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1719/160957l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194213-IZb2of7CgJnp.jpg",
-    "color": "#f186c9"
+    "color": "#d61a1a"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "U-M6dQImHrI",
+    "url": "https://www.youtube.com/watch?v=U-M6dQImHrI",
+    "thumbnail": "https://i.ytimg.com/vi/U-M6dQImHrI/hqdefault.jpg"
+  },
   "synopsis": "Everyone has a \"ghost\" in their heart—feelings that are hard to express but still real. This story follows Nike, a brave and lonely girl who stands up against the unfairness of the world to protect the starry sky. Along the way, she begins to change through the people she meets and the emotions she discovers in herself.\n\n(Source: MAL News)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "0m",
+      "length": 0,
       "airDate": "2027-02-11",
       "title": {
         "en": "Complete Movie"
@@ -85,12 +91,12 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-07-06T04:30:14.708Z",
+    "lastFetched": "2026-11-22T00:48:38.232Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

@@ -4,17 +4,17 @@
   "mappings": {
     "mal": 62188,
     "anilist": 197095,
-    "anidb": null,
+    "anidb": 19521,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 2855584,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 62188,
-    "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
+    "livechart": 13268,
+    "animeplanet": "mercedes-and-the-waning-moon-the-dungeoneering-feats-of-a-discarded-vampire-aristocrat",
+    "anisearch": 20814,
     "notify": null
   },
   "title": {
@@ -22,6 +22,7 @@
     "english": null,
     "native": "欠けた月のメルセデス",
     "synonyms": [
+      "Kaketa Tsuki no Mercedes: Kyuuketsuki no Kizoku ni Tensei shita kedo Suteraresou nanode Dungeon wo Seiha suru",
       "Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat",
       "欠けた月のメルセデス～吸血鬼の貴族に転生したけど捨てられそうなのでダンジョンを制覇する",
       "Kaketa Tsuki no Mercedes: Kyuuketsuki no Kizoku ni Tensei Shitakedo Sute Rare Sounanode Dungeon wo Seiha Suru"
@@ -34,15 +35,15 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-01-10T00:00:00+00:00",
     "to": null
   },
   "season": "winter",
   "year": 2027,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Sundays",
+    "time": "16:30",
+    "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": null,
   "rating": null,
@@ -54,29 +55,37 @@
   "genres": [
     "Adventure",
     "Fantasy",
+    "Reincarnation",
+    "Vampire",
     "Action",
     "Drama"
   ],
   "studios": [
     "Teddy"
   ],
-  "producers": [],
+  "producers": [
+    "Hakuhodo DY Music & Pictures"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1016/151347l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1161/161270l.jpg",
     "banner": null,
-    "color": "#50bbe4"
+    "color": "#5093c9"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "BeBqd3yuV9U",
+    "url": "https://www.youtube.com/watch?v=BeBqd3yuV9U",
+    "thumbnail": "https://i.ytimg.com/vi/BeBqd3yuV9U/hqdefault.jpg"
+  },
   "synopsis": "Reincarnated as a vampire to a noble father and his shunned concubine, Mercedes Grunewald has always known that one day, her father will choose an heir that isn't her. But what will become of her family when that time comes? Her mother has no skills, their maid is old, and Mercedes is but a small child. How will they survive in the world on their own? Luckily, dungeon crawling is a job that anyone can do—even a child. To provide for her family, Mercedes begins training at the age of a kindergartener, and because she's from a nation of vampires, she fortunately has the potential to become strong. In her past life, she died unfulfilled, but that won't be her fate this time. In the dungeons, she's determined to find something that will make her moon full.\n\n(Source: J-Novel Club)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-15T21:46:21.879Z",
+    "lastFetched": "2026-11-22T00:49:57.242Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

@@ -30,23 +30,19 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 3,
-  "episodeLength": null,
+  "episodeLength": 9,
   "aired": {
     "from": "2024-05-01T00:00:00+00:00",
     "to": null
   },
   "season": "spring",
   "year": 2024,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.61,
-    "anilistScore": 5.4,
+    "malScore": 6.67,
+    "anilistScore": 5.8,
     "kitsuRating": null
   },
   "genres": [],
@@ -55,27 +51,28 @@
     "Imagica Infos",
     "Dentsu"
   ],
-  "producers": [
-    "Dentsu",
-    "Qzil.la",
-    "Imagica Infos",
-    "Azuki"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1867/144672l.jpg",
     "banner": null,
     "color": "#e45d78"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "IhhSa_OAs6Y",
+    "url": "https://www.youtube.com/watch?v=IhhSa_OAs6Y",
+    "thumbnail": "https://i.ytimg.com/vi/IhhSa_OAs6Y/hqdefault.jpg"
+  },
   "synopsis": "Haru, a free-spirited skater, has always felt like a misfit in a world where she's constantly told how to behave. One day, Haru meets T.K., a mysterious man sitting next to a vending machine, waiting for someone to appear.\n\n(Source: Azuki YouTube Channel)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "9m",
+      "length": 9,
       "airDate": "2024-05-01",
       "title": {
-        "en": "The Waiting Man"
+        "en": "The Waiting Man",
+        "romaji": "Matsu Otoko",
+        "ja": "待つ男"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -87,10 +84,12 @@
     },
     "2": {
       "episode": "2",
-      "length": "20m",
+      "length": 20,
       "airDate": "2025-02-28",
       "title": {
-        "en": "Fractured Reflections"
+        "en": "Fractured Reflections",
+        "romaji": "Daen Kyokusen-Jou no Sekai",
+        "ja": "楕円曲線上のセカイ"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -102,15 +101,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T16:12:24.974Z",
+    "lastFetched": "2026-11-22T00:43:32.021Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

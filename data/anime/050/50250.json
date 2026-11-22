@@ -44,31 +44,31 @@
     "time": "07:40",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 375,
-    "airingAt": 1788475200
-  },
+  "nextAiringEpisode": null,
   "rating": "G - All Ages",
   "score": {
-    "malScore": 8.59,
-    "anilistScore": 8.4,
-    "kitsuRating": 7.32
+    "malScore": 8.63,
+    "anilistScore": 8.5,
+    "kitsuRating": null
   },
   "genres": [
     "Slice of Life",
-    "Comedy",
-    "Seinen"
+    "Comedy"
   ],
   "studios": [
     "Doga Kobo"
   ],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1783/121944l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1783/121944l.webp",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
     "color": "#e4d6ae"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "m4yfCS_YBUU",
+    "url": "https://www.youtube.com/watch?v=m4yfCS_YBUU",
+    "thumbnail": "https://i.ytimg.com/vi/m4yfCS_YBUU/hqdefault.jpg"
+  },
   "synopsis": "What's a Chiikawa? No one really knows, but everyone can see they're small, they're cute, and they're always having a fun time! Join them as they explore their surreal world with the sharp humor and clever antics that make the Chiikawa irresistible.\n\n(Source: HIDIVE, edited)",
   "sequence": [
     {
@@ -101,10 +101,12 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-04-04",
       "title": {
-        "en": "Firm Custard Pudding / Pancakes"
+        "en": "Firm Custard Pudding / Pancakes",
+        "romaji": "Katame no Pudding / Hotcake",
+        "ja": "かためのプリン / ホットケーキ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9056411,
@@ -116,10 +118,12 @@
     },
     "2": {
       "episode": "2",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-04-08",
       "title": {
-        "en": "Sphinx / The Real Thing"
+        "en": "Sphinx / The Real Thing",
+        "romaji": "Sphinx / Honmono Da",
+        "ja": "スフィンクス / ほんものだ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9099297,
@@ -131,10 +135,12 @@
     },
     "3": {
       "episode": "3",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-04-15",
       "title": {
-        "en": "Yocchan Squid / Pot Pie"
+        "en": "Yocchan Squid / Pot Pie",
+        "romaji": "Ika / Pie Stew",
+        "ja": "イカ / パイシチュー"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9112054,
@@ -146,10 +152,12 @@
     },
     "4": {
       "episode": "4",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-04-22",
       "title": {
-        "en": "Broccoli / Pizza Bun"
+        "en": "Broccoli / Pizza Bun",
+        "romaji": "Broccoli / Pizza Man",
+        "ja": "ブロッコリー / ピザまん"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9125932,
@@ -161,10 +169,12 @@
     },
     "5": {
       "episode": "5",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-04-29",
       "title": {
-        "en": "Charimera / Charumera"
+        "en": "Charimera / Charumera",
+        "romaji": "Charimera / Charumera",
+        "ja": "チャリメラ / チャルメラ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9139288,
@@ -176,10 +186,12 @@
     },
     "6": {
       "episode": "6",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-05-06",
       "title": {
-        "en": "Friends / Dorayaki"
+        "en": "Friends / Dorayaki",
+        "romaji": "Tomodachi / Dorayaki",
+        "ja": "ともだち / ドラ焼き"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9153054,
@@ -191,10 +203,12 @@
     },
     "7": {
       "episode": "7",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-05-13",
       "title": {
-        "en": "Yakult / Foil Trading Card"
+        "en": "Yakult / Foil Trading Card",
+        "romaji": "Yakult / Kira Card",
+        "ja": "ヤクルト / キラカード"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9163487,
@@ -206,10 +220,12 @@
     },
     "8": {
       "episode": "8",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-05-20",
       "title": {
-        "en": "Yakult with Everyone / A Hairball Came Out"
+        "en": "Yakult with Everyone / A Hairball Came Out",
+        "romaji": "Minna de Yakult / Kedama Deta",
+        "ja": "みんなでヤクルト / 毛玉でた"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9175115,
@@ -221,10 +237,12 @@
     },
     "9": {
       "episode": "9",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-05-27",
       "title": {
-        "en": "Tabekko Dobutsu / Butamen"
+        "en": "Tabekko Dobutsu / Butamen",
+        "romaji": "Tabekko Doubutsu / Butamen",
+        "ja": "たべっ子どうぶつ / ブタメン"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9186539,
@@ -236,10 +254,12 @@
     },
     "10": {
       "episode": "10",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-06-03",
       "title": {
-        "en": "Had a Dream of an Unfamiliar City"
+        "en": "Had a Dream of an Unfamiliar City",
+        "romaji": "Mochi / Nanka Yume Mita",
+        "ja": "もち / なんか夢みた"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9197432,
@@ -251,10 +271,12 @@
     },
     "11": {
       "episode": "11",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-06-10",
       "title": {
-        "en": "Talking to Myself"
+        "en": "Talking to Myself",
+        "romaji": "Hitorigotsu",
+        "ja": "ひとりごつ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9207638,
@@ -266,10 +288,12 @@
     },
     "12": {
       "episode": "12",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-06-17",
       "title": {
-        "en": "Tray of Sushi / Sushi Chef"
+        "en": "Tray of Sushi / Sushi Chef",
+        "romaji": "Pack Sushi / Osushiya-san",
+        "ja": "パック寿司 / お寿司屋さん"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9219001,
@@ -281,10 +305,12 @@
     },
     "13": {
       "episode": "13",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-06-24",
       "title": {
-        "en": "Giant Ramune Candy / Roasted Marshmallow"
+        "en": "Giant Ramune Candy / Roasted Marshmallow",
+        "romaji": "Ramune / Yaki Marshmallow",
+        "ja": "ラムネ / 焼きマシュマロ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9230879,
@@ -296,10 +322,12 @@
     },
     "14": {
       "episode": "14",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-07-01",
       "title": {
-        "en": "Lucky Sunfish / Giant Sour Kelp"
+        "en": "Lucky Sunfish / Giant Sour Kelp",
+        "romaji": "Lucky Manbou / Sukonbu",
+        "ja": "ラッキーマンボウ / 酢こんぶ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9241883,
@@ -311,10 +339,12 @@
     },
     "15": {
       "episode": "15",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-07-08",
       "title": {
-        "en": "Jelly / Canele"
+        "en": "Jelly / Canele",
+        "romaji": "Jelly / Canele",
+        "ja": "ゼリー / カヌレ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9251165,
@@ -326,10 +356,12 @@
     },
     "16": {
       "episode": "16",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-07-15",
       "title": {
-        "en": "Chimera / No!"
+        "en": "Chimera / No!",
+        "romaji": "Chimera / Iya",
+        "ja": "キメラ / イヤ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9261576,
@@ -341,10 +373,12 @@
     },
     "17": {
       "episode": "17",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-07-22",
       "title": {
-        "en": "Flehmen / Sasumata"
+        "en": "Flehmen / Sasumata",
+        "romaji": "Gaan / Sasumata",
+        "ja": "ガーン / さすまた"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9275640,
@@ -356,10 +390,12 @@
     },
     "18": {
       "episode": "18",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-07-29",
       "title": {
-        "en": "Weeding / Matching"
+        "en": "Weeding / Matching",
+        "romaji": "Kusamushiri / Osoroi",
+        "ja": "草むしり / おそろい"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9284127,
@@ -371,10 +407,12 @@
     },
     "19": {
       "episode": "19",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-08-05",
       "title": {
-        "en": "Something`s Appeared / Feeling Better"
+        "en": "Something`s Appeared / Feeling Better",
+        "romaji": "Nanka Deta / Genki Deta",
+        "ja": "なんか出た / 元気でた"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9292882,
@@ -386,10 +424,12 @@
     },
     "20": {
       "episode": "20",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-08-12",
       "title": {
-        "en": "Bright"
+        "en": "Bright",
+        "romaji": "Usagi no Te",
+        "ja": "うさぎの手"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9304736,
@@ -401,10 +441,12 @@
     },
     "21": {
       "episode": "21",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-08-19",
       "title": {
-        "en": "Watchavania 1"
+        "en": "Watchavania 1",
+        "romaji": "Nantoka Vania 1",
+        "ja": "なんとかバニア①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9313298,
@@ -416,10 +458,12 @@
     },
     "22": {
       "episode": "22",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-08-26",
       "title": {
-        "en": "Watchavania 2"
+        "en": "Watchavania 2",
+        "romaji": "Nantoka Vania 2",
+        "ja": "なんとかバニア②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9320971,
@@ -431,10 +475,12 @@
     },
     "23": {
       "episode": "23",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-09-02",
       "title": {
-        "en": "Watchavania 3 / Ketchup Pasta"
+        "en": "Watchavania 3 / Ketchup Pasta",
+        "romaji": "Nantoka Vania 3 / Ketchup Pasta",
+        "ja": "なんとかバニア③ / ケチャップパスタ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9333908,
@@ -446,10 +492,12 @@
     },
     "24": {
       "episode": "24",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-09-09",
       "title": {
-        "en": "House / Sleepover"
+        "en": "House / Sleepover",
+        "romaji": "Ouchi / Otomari",
+        "ja": "おうち / お泊まり"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9343550,
@@ -461,10 +509,12 @@
     },
     "25": {
       "episode": "25",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-09-16",
       "title": {
-        "en": "Morning Market / Finally Did It"
+        "en": "Morning Market / Finally Did It",
+        "romaji": "Karumeyaki / Tsui ni Yattazo",
+        "ja": "カルメ焼き / ついにやったゾ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9356900,
@@ -476,10 +526,12 @@
     },
     "26": {
       "episode": "26",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-09-23",
       "title": {
-        "en": "Scary Stories / Tummyache"
+        "en": "Scary Stories / Tummyache",
+        "romaji": "Kowai Hanashi / Onaka Ita",
+        "ja": "こわい話 / お腹イタ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9364145,
@@ -491,10 +543,12 @@
     },
     "27": {
       "episode": "27",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-09-30",
       "title": {
-        "en": "Swim Time / Give It Back"
+        "en": "Swim Time / Give It Back",
+        "romaji": "Oyogou / Kaese",
+        "ja": "泳ごう / 返せ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9378123,
@@ -506,10 +560,12 @@
     },
     "28": {
       "episode": "28",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-10-07",
       "title": {
-        "en": "A Little Purse / I`m Using It"
+        "en": "A Little Purse / I`m Using It",
+        "romaji": "Pochette / Tsukattemaasu",
+        "ja": "ポシェット / 使ってま〜す"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9395095,
@@ -521,10 +577,12 @@
     },
     "29": {
       "episode": "29",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-10-14",
       "title": {
-        "en": "Faking Cute / I Made It"
+        "en": "Faking Cute / I Made It",
+        "romaji": "Shikatte Miro / Watashi no Sakuhin",
+        "ja": "しかってみろ / 私の作品"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9399540,
@@ -536,10 +594,12 @@
     },
     "30": {
       "episode": "30",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-10-21",
       "title": {
-        "en": "I Want a Camera / Ei!"
+        "en": "I Want a Camera / Ei!",
+        "romaji": "Camera Hoshii / Ei!",
+        "ja": "カメラ欲しい / えいっ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9412287,
@@ -551,10 +611,12 @@
     },
     "31": {
       "episode": "31",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-10-28",
       "title": {
-        "en": "The Pit I"
+        "en": "The Pit I",
+        "romaji": "Ana ni Ochita 1",
+        "ja": "穴に落ちた①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9425102,
@@ -566,10 +628,12 @@
     },
     "32": {
       "episode": "32",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-11-04",
       "title": {
-        "en": "The Pit II"
+        "en": "The Pit II",
+        "romaji": "Ana ni Ochita 2",
+        "ja": "穴に落ちた②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9451411,
@@ -581,10 +645,12 @@
     },
     "33": {
       "episode": "33",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-11-11",
       "title": {
-        "en": "The Pit III"
+        "en": "The Pit III",
+        "romaji": "Ana ni Ochita 3",
+        "ja": "穴に落ちた③"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9451412,
@@ -596,10 +662,12 @@
     },
     "34": {
       "episode": "34",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-11-18",
       "title": {
-        "en": "Clout / Hiss"
+        "en": "Clout / Hiss",
+        "romaji": "Era / Shaa!",
+        "ja": "エラ / シャーッ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9465628,
@@ -611,10 +679,12 @@
     },
     "35": {
       "episode": "35",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-11-25",
       "title": {
-        "en": "Kurimanju / Ride-on Sunfish"
+        "en": "Kurimanju / Ride-on Sunfish",
+        "romaji": "Kuri Manjuu / Nori Manbou",
+        "ja": "くりまんじゅう / 乗りマンボー"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9472172,
@@ -626,10 +696,12 @@
     },
     "36": {
       "episode": "36",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-12-02",
       "title": {
-        "en": "Wand I"
+        "en": "Wand I",
+        "romaji": "Fushigi na Tsue 1",
+        "ja": "ふしぎな杖①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9512001,
@@ -641,10 +713,12 @@
     },
     "37": {
       "episode": "37",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-12-09",
       "title": {
-        "en": "Wand II"
+        "en": "Wand II",
+        "romaji": "Fushigi na Tsue 2",
+        "ja": "ふしぎな杖②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9512002,
@@ -656,10 +730,12 @@
     },
     "38": {
       "episode": "38",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-12-16",
       "title": {
-        "en": "Wand III"
+        "en": "Wand III",
+        "romaji": "Fushigi na Tsue 3",
+        "ja": "ふしぎな杖③"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9512003,
@@ -671,10 +747,12 @@
     },
     "39": {
       "episode": "39",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-12-23",
       "title": {
-        "en": "Wand IV"
+        "en": "Wand IV",
+        "romaji": "Fushigi na Tsue 4",
+        "ja": "ふしぎな杖④"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9520122,
@@ -686,10 +764,12 @@
     },
     "40": {
       "episode": "40",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-01-06",
       "title": {
-        "en": "Ear Flip / Taco"
+        "en": "Ear Flip / Taco",
+        "romaji": "Mimi ga Parun / Tacos",
+        "ja": "耳がぱるん / タコス"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9539505,
@@ -701,10 +781,12 @@
     },
     "41": {
       "episode": "41",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-01-13",
       "title": {
-        "en": "Rou I"
+        "en": "Rou I",
+        "romaji": "Rou no Renshuu / Kouryaku Site",
+        "ja": "郎の練習 / 攻略サイト"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9581469,
@@ -716,10 +798,12 @@
     },
     "42": {
       "episode": "42",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-01-20",
       "title": {
-        "en": "Rou II"
+        "en": "Rou II",
+        "romaji": "Ninniku Camera!",
+        "ja": "ニンニクカラメ!"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9581470,
@@ -731,10 +815,12 @@
     },
     "43": {
       "episode": "43",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-01-27",
       "title": {
-        "en": "Rou III / Momonaga`s Routine at Rou"
+        "en": "Rou III / Momonaga`s Routine at Rou",
+        "romaji": "Kinchou Shita / Rou ni Momonga",
+        "ja": "きんちょうした / 郎にモモンガ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9581471,
@@ -746,10 +832,12 @@
     },
     "44": {
       "episode": "44",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-02-03",
       "title": {
-        "en": "Salesman"
+        "en": "Salesman",
+        "romaji": "Neoki no Taisou",
+        "ja": "寝起きの体操"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9595495,
@@ -761,10 +849,12 @@
     },
     "45": {
       "episode": "45",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-02-10",
       "title": {
-        "en": "Fried Shiitake / Cream Puffs"
+        "en": "Fried Shiitake / Cream Puffs",
+        "romaji": "Yaki Shiitake / Chou Cream",
+        "ja": "焼きしいたけ / シュークリーム"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9608551,
@@ -776,10 +866,12 @@
     },
     "46": {
       "episode": "46",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-02-17",
       "title": {
-        "en": "Bento / They`re Pajamas"
+        "en": "Bento / They`re Pajamas",
+        "romaji": "Obentou / Pajama",
+        "ja": "お弁当 / パジャマ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9637518,
@@ -791,10 +883,12 @@
     },
     "47": {
       "episode": "47",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-02-24",
       "title": {
-        "en": "Staying Up Late / Wish"
+        "en": "Staying Up Late / Wish",
+        "romaji": "Yofukashi",
+        "ja": "夜ふかし"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9637519,
@@ -806,10 +900,12 @@
     },
     "48": {
       "episode": "48",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-03-03",
       "title": {
-        "en": "Shooting Star / Will It Come True?"
+        "en": "Shooting Star / Will It Come True?",
+        "romaji": "Nagareboshi / Kanau ka na",
+        "ja": "流れ星 / 叶うかな"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9688064,
@@ -821,10 +917,12 @@
     },
     "49": {
       "episode": "49",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-03-10",
       "title": {
-        "en": "Cold Bath / Citric Acid"
+        "en": "Cold Bath / Citric Acid",
+        "romaji": "Mizuburo / Kuensan",
+        "ja": "水風呂 / クエン酸"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9688065,
@@ -836,10 +934,12 @@
     },
     "50": {
       "episode": "50",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-03-17",
       "title": {
-        "en": "You Dropped an Acorn / Pajamas for Sale"
+        "en": "You Dropped an Acorn / Pajamas for Sale",
+        "romaji": "Donguri / Ii Hi",
+        "ja": "どんぐり / いい日"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9688066,
@@ -851,10 +951,12 @@
     },
     "51": {
       "episode": "51",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-03-24",
       "title": {
-        "en": "Get Tough Part 1"
+        "en": "Get Tough Part 1",
+        "romaji": "Mushi, Gichigichi / Abunakatta... na",
+        "ja": "虫, ギチギチ / 危なかった... な"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9688067,
@@ -866,10 +968,12 @@
     },
     "52": {
       "episode": "52",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-03-31",
       "title": {
-        "en": "Get Tough Part 2"
+        "en": "Get Tough Part 2",
+        "romaji": "Tsuyoku Naru ni wa",
+        "ja": "強くなるには"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9728394,
@@ -881,10 +985,12 @@
     },
     "53": {
       "episode": "53",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-04-04",
       "title": {
-        "en": "Get Tough Part 3 / Top Ranker"
+        "en": "Get Tough Part 3 / Top Ranker",
+        "romaji": "Toubatsu Ranking / Joui Ranker",
+        "ja": "討伐ランキング / 上位ランカー"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9728395,
@@ -896,10 +1002,12 @@
     },
     "54": {
       "episode": "54",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-04-07",
       "title": {
-        "en": "Emblem / Parfait"
+        "en": "Emblem / Parfait",
+        "romaji": "Mark / Parfait",
+        "ja": "マーク / パフェ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9728396,
@@ -911,10 +1019,12 @@
     },
     "55": {
       "episode": "55",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-04-11",
       "title": {
-        "en": "Caul Fat / Usagi`s Weapon"
+        "en": "Caul Fat / Usagi`s Weapon",
+        "romaji": "Ami Abura / Usagi no Buki",
+        "ja": "あみあぶら / うさぎの武器"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9728397,
@@ -926,10 +1036,12 @@
     },
     "56": {
       "episode": "56",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-04-14",
       "title": {
-        "en": "Nut Cracking / Nut Drinking"
+        "en": "Nut Cracking / Nut Drinking",
+        "romaji": "Nagusamero / Naichatta",
+        "ja": "なぐさめろ / 泣いちゃった"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9728398,
@@ -941,10 +1053,12 @@
     },
     "57": {
       "episode": "57",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-04-18",
       "title": {
-        "en": "Weeding Certification / Let`s Get Certified"
+        "en": "Weeding Certification / Let`s Get Certified",
+        "romaji": "Kusamushiri Kentei / Furuhon",
+        "ja": "草むしり検定 / 古本"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9748078,
@@ -956,10 +1070,12 @@
     },
     "58": {
       "episode": "58",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-04-21",
       "title": {
-        "en": "Hitting the Books / Lunchtime"
+        "en": "Hitting the Books / Lunchtime",
+        "romaji": "Benkyou Chuu / Ohirugohan",
+        "ja": "勉強中 / お昼ごはん"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9748080,
@@ -971,10 +1087,12 @@
     },
     "59": {
       "episode": "59",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-04-25",
       "title": {
-        "en": "Dinnertime / Exam Time"
+        "en": "Dinnertime / Exam Time",
+        "romaji": "Yashoku / Shiken Toujitsu",
+        "ja": "夜食 / 試験当日"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9770613,
@@ -986,10 +1104,12 @@
     },
     "60": {
       "episode": "60",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-04-28",
       "title": {
-        "en": "Tough Exam / Level 3"
+        "en": "Tough Exam / Level 3",
+        "romaji": "Muzukashikatta / Shinpai",
+        "ja": "むずかしかった / 心配"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9770614,
@@ -1001,10 +1121,12 @@
     },
     "61": {
       "episode": "61",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-05-02",
       "title": {
-        "en": "Exam Results / Failed"
+        "en": "Exam Results / Failed",
+        "romaji": "Goukaku Happyou",
+        "ja": "合格発表"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9770615,
@@ -1016,10 +1138,12 @@
     },
     "62": {
       "episode": "62",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-05-05",
       "title": {
-        "en": "Gloomy Trip Home / All Choked Up"
+        "en": "Gloomy Trip Home / All Choked Up",
+        "romaji": "Onaji Kimochi ja Nai Toki",
+        "ja": "同じ気持ちじゃないとき"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9785204,
@@ -1031,10 +1155,12 @@
     },
     "63": {
       "episode": "63",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-05-09",
       "title": {
-        "en": "Congrats / Let`s Try Again"
+        "en": "Congrats / Let`s Try Again",
+        "romaji": "Oiwai",
+        "ja": "お祝い"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9785205,
@@ -1046,10 +1172,12 @@
     },
     "64": {
       "episode": "64",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-05-12",
       "title": {
-        "en": "What Do You Mean? / A Job Well Done"
+        "en": "What Do You Mean? / A Job Well Done",
+        "romaji": "Otegara",
+        "ja": "お手柄"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9808188,
@@ -1061,10 +1189,12 @@
     },
     "65": {
       "episode": "65",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-05-16",
       "title": {
-        "en": "Knuckle Duster / Prized Possession"
+        "en": "Knuckle Duster / Prized Possession",
+        "romaji": "Present / Takaramono",
+        "ja": "プレゼント / 宝物"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9808190,
@@ -1076,10 +1206,12 @@
     },
     "66": {
       "episode": "66",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-05-19",
       "title": {
-        "en": "Usagi and Momonga / Unlimited Rice"
+        "en": "Usagi and Momonga / Unlimited Rice",
+        "romaji": "Usagi no Hibi / Mugen Hakumai",
+        "ja": "うさぎの日々 / 無限白米"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9808192,
@@ -1091,10 +1223,12 @@
     },
     "67": {
       "episode": "67",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-05-23",
       "title": {
-        "en": "Furikake / Hot Rice"
+        "en": "Furikake / Hot Rice",
+        "romaji": "Furikake / Takitate",
+        "ja": "ふりかけ/ 炊き立て"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9808194,
@@ -1106,10 +1240,12 @@
     },
     "68": {
       "episode": "68",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-05-26",
       "title": {
-        "en": "Sweets / It Suddenly Appeared"
+        "en": "Sweets / It Suddenly Appeared",
+        "romaji": "Amaimono / Waku Tokoro",
+        "ja": "甘いもの / 湧くトコロ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9853897,
@@ -1121,10 +1257,12 @@
     },
     "69": {
       "episode": "69",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-05-30",
       "title": {
-        "en": "Saltiness / Skin-on Salmon Fillets"
+        "en": "Saltiness / Skin-on Salmon Fillets",
+        "romaji": "Shoppami / Saketoba",
+        "ja": "しょっぱみ / 鮭とば"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9853898,
@@ -1136,10 +1274,12 @@
     },
     "70": {
       "episode": "70",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-06-02",
       "title": {
-        "en": "3-Star Restaurant / More Pay"
+        "en": "3-Star Restaurant / More Pay",
+        "romaji": "Mitsuboshi Restaurant 1",
+        "ja": "三ツ星レストラン①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9853899,
@@ -1151,10 +1291,12 @@
     },
     "71": {
       "episode": "71",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-06-06",
       "title": {
-        "en": "Three Stars / This Is Three Stars"
+        "en": "Three Stars / This Is Three Stars",
+        "romaji": "Mitsuboshi Restaurant 2",
+        "ja": "三ツ星レストラン②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9853900,
@@ -1166,10 +1308,12 @@
     },
     "72": {
       "episode": "72",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-06-09",
       "title": {
-        "en": "Demanding"
+        "en": "Demanding",
+        "romaji": "Mitsuboshi Restaurant 3",
+        "ja": "三ツ星レストラン③"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9853901,
@@ -1181,10 +1325,12 @@
     },
     "73": {
       "episode": "73",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-06-13",
       "title": {
-        "en": "Run! / Hang Tough!"
+        "en": "Run! / Hang Tough!",
+        "romaji": "Mitsuboshi Restaurant 4",
+        "ja": "三ツ星レストラン④"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9853902,
@@ -1196,10 +1342,12 @@
     },
     "74": {
       "episode": "74",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-06-16",
       "title": {
-        "en": "Hooray! / A Conclusion of Sorts"
+        "en": "Hooray! / A Conclusion of Sorts",
+        "romaji": "Mitsuboshi Restaurant 5",
+        "ja": "三ツ星レストラン⑤"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9853903,
@@ -1211,10 +1359,12 @@
     },
     "75": {
       "episode": "75",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-06-20",
       "title": {
-        "en": "Too Much Omelet to Finish"
+        "en": "Too Much Omelet to Finish",
+        "romaji": "Mitsuboshi Restaurant 6",
+        "ja": "三ツ星レストラン⑥"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9907324,
@@ -1226,10 +1376,12 @@
     },
     "76": {
       "episode": "76",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-06-23",
       "title": {
-        "en": "Fissure"
+        "en": "Fissure",
+        "romaji": "Kiretsu / Guu Choki Paa",
+        "ja": "亀裂 / グーチョキパー"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9907325,
@@ -1241,10 +1393,12 @@
     },
     "77": {
       "episode": "77",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-06-27",
       "title": {
-        "en": "Must Be a Mimic"
+        "en": "Must Be a Mimic",
+        "romaji": "Gitai Gata kaa?",
+        "ja": "擬態型か~?"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9907326,
@@ -1256,10 +1410,12 @@
     },
     "78": {
       "episode": "78",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-06-30",
       "title": {
-        "en": "Bought a Camera"
+        "en": "Bought a Camera",
+        "romaji": "Camera Kacchatta",
+        "ja": "カメラ買っちゃった"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9907327,
@@ -1271,10 +1427,12 @@
     },
     "79": {
       "episode": "79",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-07-04",
       "title": {
-        "en": "Can`t Take a Picture"
+        "en": "Can`t Take a Picture",
+        "romaji": "Tameshi Tori",
+        "ja": "試し撮り"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9907328,
@@ -1286,10 +1444,12 @@
     },
     "80": {
       "episode": "80",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-07-07",
       "title": {
-        "en": "Cameras Are Heavy"
+        "en": "Cameras Are Heavy",
+        "romaji": "Dondon Torou",
+        "ja": "どんどん撮ろう"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9907329,
@@ -1301,10 +1461,12 @@
     },
     "81": {
       "episode": "81",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-07-11",
       "title": {
-        "en": "Nice / A Scratch"
+        "en": "Nice / A Scratch",
+        "romaji": "Bure Chatteru / Kizu",
+        "ja": "ブレちゃってる / 傷"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9907330,
@@ -1316,10 +1478,12 @@
     },
     "82": {
       "episode": "82",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-07-14",
       "title": {
-        "en": "Sky / Night Shift"
+        "en": "Sky / Night Shift",
+        "romaji": "Yozora / Yakin",
+        "ja": "夜空 / 夜勤"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9907331,
@@ -1331,10 +1495,12 @@
     },
     "83": {
       "episode": "83",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-07-18",
       "title": {
-        "en": "Payday"
+        "en": "Payday",
+        "romaji": "Takoyaki Party",
+        "ja": "たこ焼きパーティー"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9907332,
@@ -1346,10 +1512,12 @@
     },
     "84": {
       "episode": "84",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-07-21",
       "title": {
-        "en": "Popsicle Stick / Kendama Guy"
+        "en": "Popsicle Stick / Kendama Guy",
+        "romaji": "Ataridero / Kendama Ojisan",
+        "ja": "あたりでろ / けん玉おじさん"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9970228,
@@ -1361,10 +1529,12 @@
     },
     "85": {
       "episode": "85",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-07-25",
       "title": {
-        "en": "Switch 1"
+        "en": "Switch 1",
+        "romaji": "Switch",
+        "ja": "スイッチ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9970230,
@@ -1376,10 +1546,12 @@
     },
     "86": {
       "episode": "86",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-07-28",
       "title": {
-        "en": "Switch 2"
+        "en": "Switch 2",
+        "romaji": "Atarashii Tomodachi 1",
+        "ja": "新しいともだち①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9970232,
@@ -1391,10 +1563,12 @@
     },
     "87": {
       "episode": "87",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-08-01",
       "title": {
-        "en": "Switch 3"
+        "en": "Switch 3",
+        "romaji": "Atarashii Tomodachi 2",
+        "ja": "新しいともだち②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9970234,
@@ -1406,10 +1580,12 @@
     },
     "88": {
       "episode": "88",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-08-04",
       "title": {
-        "en": "Switch 4"
+        "en": "Switch 4",
+        "romaji": "Atarashii Tomodachi 3",
+        "ja": "新しいともだち③"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9970236,
@@ -1421,10 +1597,12 @@
     },
     "89": {
       "episode": "89",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-08-08",
       "title": {
-        "en": "Switch 5"
+        "en": "Switch 5",
+        "romaji": "Atarashii Tomodachi 4",
+        "ja": "新しいともだち④"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9970238,
@@ -1436,10 +1614,12 @@
     },
     "90": {
       "episode": "90",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-08-11",
       "title": {
-        "en": "Switch 6"
+        "en": "Switch 6",
+        "romaji": "Atarashii Tomodachi 5",
+        "ja": "新しいともだち⑤"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9970240,
@@ -1451,10 +1631,12 @@
     },
     "91": {
       "episode": "91",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-08-15",
       "title": {
-        "en": "Switch 7"
+        "en": "Switch 7",
+        "romaji": "Atarashii Tomodachi 6",
+        "ja": "新しいともだち⑥"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9970242,
@@ -1466,10 +1648,12 @@
     },
     "92": {
       "episode": "92",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-08-18",
       "title": {
-        "en": "Switch 8"
+        "en": "Switch 8",
+        "romaji": "Atarashii Tomodachi 7",
+        "ja": "新しいともだち⑦"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9970244,
@@ -1481,10 +1665,12 @@
     },
     "93": {
       "episode": "93",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-08-22",
       "title": {
-        "en": "Switch 9"
+        "en": "Switch 9",
+        "romaji": "Atarashii Tomodachi 8",
+        "ja": "新しいともだち⑧"
       },
       "tvdbShowId": 415509,
       "tvdbId": 9970246,
@@ -1496,10 +1682,12 @@
     },
     "94": {
       "episode": "94",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-08-25",
       "title": {
-        "en": "Gacha Machine / Feeling Down"
+        "en": "Gacha Machine / Feeling Down",
+        "romaji": "Secret Dero",
+        "ja": "シークレットでろ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10052432,
@@ -1511,10 +1699,12 @@
     },
     "95": {
       "episode": "95",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-08-29",
       "title": {
-        "en": "Feel Better / Memories"
+        "en": "Feel Better / Memories",
+        "romaji": "Genki Deru yo / Omoide",
+        "ja": "元気でるヨ / 思い出"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10052433,
@@ -1526,10 +1716,12 @@
     },
     "96": {
       "episode": "96",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-09-01",
       "title": {
-        "en": "True Horror 1"
+        "en": "True Horror 1",
+        "romaji": "Hon Kowa 1",
+        "ja": "ほんこわ①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10052434,
@@ -1541,10 +1733,12 @@
     },
     "97": {
       "episode": "97",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-09-05",
       "title": {
-        "en": "True Horror 2"
+        "en": "True Horror 2",
+        "romaji": "Hon Kowa 2",
+        "ja": "ほんこわ②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10052435,
@@ -1556,10 +1750,12 @@
     },
     "98": {
       "episode": "98",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-09-08",
       "title": {
-        "en": "True Horror 3"
+        "en": "True Horror 3",
+        "romaji": "Hon Kowa 3",
+        "ja": "ほんこわ③"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10052436,
@@ -1571,10 +1767,12 @@
     },
     "99": {
       "episode": "99",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-09-12",
       "title": {
-        "en": "True Horror 4"
+        "en": "True Horror 4",
+        "romaji": "Hon Kowa 4",
+        "ja": "ほんこわ④"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10052437,
@@ -1586,10 +1784,12 @@
     },
     "100": {
       "episode": "100",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-09-15",
       "title": {
-        "en": "True Horror 5"
+        "en": "True Horror 5",
+        "romaji": "Hon Kowa 5",
+        "ja": "ほんこわ⑤"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10052438,
@@ -1601,10 +1801,12 @@
     },
     "101": {
       "episode": "101",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-09-19",
       "title": {
-        "en": "Drive"
+        "en": "Drive",
+        "romaji": "Drive 1",
+        "ja": "ドライブ①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10052439,
@@ -1616,10 +1818,12 @@
     },
     "102": {
       "episode": "102",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-09-22",
       "title": {
-        "en": "Drive 2"
+        "en": "Drive 2",
+        "romaji": "Drive 2",
+        "ja": "ドライブ②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10052440,
@@ -1631,10 +1835,12 @@
     },
     "103": {
       "episode": "103",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-09-26",
       "title": {
-        "en": "Meat Polishing / Kobe High Ball"
+        "en": "Meat Polishing / Kobe High Ball",
+        "romaji": "Niku Migaki / Sosogi Kata no Mane",
+        "ja": "肉みがき / 注ぎ方のマネ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10052441,
@@ -1646,10 +1852,12 @@
     },
     "104": {
       "episode": "104",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-09-29",
       "title": {
-        "en": "Bread"
+        "en": "Bread",
+        "romaji": "Jam Toast / Mane Suru Nashi",
+        "ja": "ジャムトースト / マネするなッ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10084141,
@@ -1661,10 +1869,12 @@
     },
     "105": {
       "episode": "105",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-10-03",
       "title": {
-        "en": "Fan Letter / Fried Chicken Lemon"
+        "en": "Fan Letter / Fried Chicken Lemon",
+        "romaji": "Fan Letter / Karaage Lemon",
+        "ja": "ファンレター / からあげレモン"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10084142,
@@ -1676,10 +1886,12 @@
     },
     "106": {
       "episode": "106",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-10-06",
       "title": {
-        "en": "Which One? / What Did You Put Inside?"
+        "en": "Which One? / What Did You Put Inside?",
+        "romaji": "Docchi ni Shiyou / Nani Ireteta no?",
+        "ja": "どっちにしよう / 何入れてたの?"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10084143,
@@ -1691,10 +1903,12 @@
     },
     "107": {
       "episode": "107",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-10-10",
       "title": {
-        "en": "Study Session / Re-examination"
+        "en": "Study Session / Re-examination",
+        "romaji": "Benkyoukai / Sai Shiken",
+        "ja": "勉強会 / 再試験"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10084144,
@@ -1706,10 +1920,12 @@
     },
     "108": {
       "episode": "108",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-10-13",
       "title": {
-        "en": "Let`s Go / On Tenterhooks"
+        "en": "Let`s Go / On Tenterhooks",
+        "romaji": "Ikou ne / Dokidoki",
+        "ja": "行こうね / ドキドキ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10127527,
@@ -1721,10 +1937,12 @@
     },
     "109": {
       "episode": "109",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-10-17",
       "title": {
-        "en": "How`d It Go? / However Many Times"
+        "en": "How`d It Go? / However Many Times",
+        "romaji": "Sai Shiken Dou Datta?",
+        "ja": "再試験どうだった?"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10127528,
@@ -1736,10 +1954,12 @@
     },
     "110": {
       "episode": "110",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-10-20",
       "title": {
-        "en": "Give It Your All"
+        "en": "Give It Your All",
+        "romaji": "Sashiire",
+        "ja": "差し入れ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10127529,
@@ -1751,10 +1971,12 @@
     },
     "111": {
       "episode": "111",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-10-24",
       "title": {
-        "en": "Muchauma Pudding Contest"
+        "en": "Muchauma Pudding Contest",
+        "romaji": "Muchauma Pudding / Oubo",
+        "ja": "むちゃうまプリン / 応募"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10127530,
@@ -1766,10 +1988,12 @@
     },
     "112": {
       "episode": "112",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-10-27",
       "title": {
-        "en": "Hooray"
+        "en": "Hooray",
+        "romaji": "Tousen / Sukiyaki no Uta",
+        "ja": "当選 / すきやきの歌"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10127531,
@@ -1781,10 +2005,12 @@
     },
     "113": {
       "episode": "113",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-10-31",
       "title": {
-        "en": "Egg-Beating Time / Yummy Flavor"
+        "en": "Egg-Beating Time / Yummy Flavor",
+        "romaji": "Tamago Toki Time / Oishii Oaji",
+        "ja": "卵溶きタイム / おいしいお味"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10127532,
@@ -1796,10 +2022,12 @@
     },
     "114": {
       "episode": "114",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-11-03",
       "title": {
-        "en": "Too Friendly"
+        "en": "Too Friendly",
+        "romaji": "Nakayoku Shisugi Da",
+        "ja": "仲良くしすぎだ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10127533,
@@ -1811,10 +2039,12 @@
     },
     "115": {
       "episode": "115",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-11-07",
       "title": {
-        "en": "Shoulder Ride / Just the Crust"
+        "en": "Shoulder Ride / Just the Crust",
+        "romaji": "Kataguruma / Kiji dake Da",
+        "ja": "肩車 / 生地だけだ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10146115,
@@ -1826,10 +2056,12 @@
     },
     "116": {
       "episode": "116",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-11-10",
       "title": {
-        "en": "Use It as You Wish / Pizza"
+        "en": "Use It as You Wish / Pizza",
+        "romaji": "Suki ni Tsukai na / Pizza",
+        "ja": "好きに使いな / ピザ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10146116,
@@ -1841,10 +2073,12 @@
     },
     "117": {
       "episode": "117",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-11-14",
       "title": {
-        "en": "The Gathering of the Sweets / Where`s My Car?"
+        "en": "The Gathering of the Sweets / Where`s My Car?",
+        "romaji": "Sweets Dai Shuugou / Kuruma Doko?",
+        "ja": "スイーツ大集合 / 車どこ?"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10146117,
@@ -1856,10 +2090,12 @@
     },
     "118": {
       "episode": "118",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-11-17",
       "title": {
-        "en": "Swaddle / Stinky"
+        "en": "Swaddle / Stinky",
+        "romaji": "Okurumi / Puun",
+        "ja": "おくるみ / プーン"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10167020,
@@ -1871,10 +2107,12 @@
     },
     "119": {
       "episode": "119",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-11-21",
       "title": {
-        "en": "Believe"
+        "en": "Believe",
+        "romaji": "Believe",
+        "ja": "ビリーブ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10167021,
@@ -1886,10 +2124,12 @@
     },
     "120": {
       "episode": "120",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-11-24",
       "title": {
-        "en": "Flower Crown / See You Later"
+        "en": "Flower Crown / See You Later",
+        "romaji": "Hana Kanmuri / Mata ne",
+        "ja": "花かんむり / またね"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10167022,
@@ -1901,10 +2141,12 @@
     },
     "121": {
       "episode": "121",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-11-28",
       "title": {
-        "en": "Episode 121"
+        "en": null,
+        "romaji": "Momijigari 1",
+        "ja": "紅葉狩り①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10167023,
@@ -1916,10 +2158,12 @@
     },
     "122": {
       "episode": "122",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-12-01",
       "title": {
-        "en": "Episode 122"
+        "en": null,
+        "romaji": "Momijigari 2",
+        "ja": "紅葉狩り②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10182493,
@@ -1931,10 +2175,12 @@
     },
     "123": {
       "episode": "123",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-12-05",
       "title": {
-        "en": "Episode 123"
+        "en": null,
+        "romaji": "Super Arbeiter 1",
+        "ja": "スーパーアルバイター①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10182494,
@@ -1946,10 +2192,12 @@
     },
     "124": {
       "episode": "124",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-12-08",
       "title": {
-        "en": "Episode 124"
+        "en": null,
+        "romaji": "Super Arbeiter 2",
+        "ja": "スーパーアルバイター②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10182495,
@@ -1961,10 +2209,12 @@
     },
     "125": {
       "episode": "125",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-12-12",
       "title": {
-        "en": "Episode 125"
+        "en": null,
+        "romaji": "Rou no Keijiban / Imomushi Pan",
+        "ja": "郎の掲示板 / いもむしパン"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10231705,
@@ -1976,10 +2226,12 @@
     },
     "126": {
       "episode": "126",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-12-15",
       "title": {
-        "en": "Episode 126"
+        "en": null,
+        "romaji": "Okashi Kaeta yo",
+        "ja": "おかし買えたよ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10231706,
@@ -1991,10 +2243,12 @@
     },
     "127": {
       "episode": "127",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-12-19",
       "title": {
-        "en": "Episode 127"
+        "en": null,
+        "romaji": "Ninki no Pajama",
+        "ja": "人気のパジャマ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10231707,
@@ -2006,10 +2260,12 @@
     },
     "128": {
       "episode": "128",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-12-22",
       "title": {
-        "en": "Episode 128"
+        "en": null,
+        "romaji": "Osoroi",
+        "ja": "おそろい"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10231708,
@@ -2021,10 +2277,12 @@
     },
     "129": {
       "episode": "129",
-      "length": "2m",
+      "length": 2,
       "airDate": "2023-12-26",
       "title": {
-        "en": "Episode 129"
+        "en": null,
+        "romaji": "Okkii Toubatsu 1",
+        "ja": "おっきい討伐①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10231709,
@@ -2036,10 +2294,12 @@
     },
     "130": {
       "episode": "130",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-01-05",
       "title": {
-        "en": "Episode 130"
+        "en": null,
+        "romaji": "Okkii Toubatsu 2",
+        "ja": "おっきい討伐②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10231710,
@@ -2051,10 +2311,12 @@
     },
     "131": {
       "episode": "131",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-01-09",
       "title": {
-        "en": "Episode 131"
+        "en": null,
+        "romaji": "Okkii Toubatsu 3",
+        "ja": "おっきい討伐③"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10302368,
@@ -2066,10 +2328,12 @@
     },
     "132": {
       "episode": "132",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-01-12",
       "title": {
-        "en": "Episode 132"
+        "en": null,
+        "romaji": "Enbu / Bikkuri Suruka",
+        "ja": "えんぶ / びっくりするか"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10302369,
@@ -2081,10 +2345,12 @@
     },
     "133": {
       "episode": "133",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-01-16",
       "title": {
-        "en": "Episode 133"
+        "en": null,
+        "romaji": "Shijimi / Pajama no Tsudoi",
+        "ja": "しじみ / パジャマのつどい"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10302370,
@@ -2096,10 +2362,12 @@
     },
     "134": {
       "episode": "134",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-01-19",
       "title": {
-        "en": "Episode 134"
+        "en": null,
+        "romaji": "Slice Cheese / Chiitara",
+        "ja": "スライズチーズ / チータラ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10302371,
@@ -2111,10 +2379,12 @@
     },
     "135": {
       "episode": "135",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-01-23",
       "title": {
-        "en": "Episode 135"
+        "en": null,
+        "romaji": "Tako Wiener",
+        "ja": "たこウィンナー"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10302372,
@@ -2126,10 +2396,12 @@
     },
     "136": {
       "episode": "136",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-01-26",
       "title": {
-        "en": "Episode 136"
+        "en": null,
+        "romaji": "Okashi no Machioka",
+        "ja": "おかしのまちおか"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10302373,
@@ -2141,10 +2413,12 @@
     },
     "137": {
       "episode": "137",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-01-30",
       "title": {
-        "en": "Episode 137"
+        "en": null,
+        "romaji": "Muchauman 1",
+        "ja": "むちゃうマン①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10302374,
@@ -2156,10 +2430,12 @@
     },
     "138": {
       "episode": "138",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-02-02",
       "title": {
-        "en": "Episode 138"
+        "en": null,
+        "romaji": "Muchauman 2",
+        "ja": "むちゃうマン②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10302375,
@@ -2171,10 +2447,12 @@
     },
     "139": {
       "episode": "139",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-02-06",
       "title": {
-        "en": "Episode 139"
+        "en": null,
+        "romaji": "Muchauman 3",
+        "ja": "むちゃうマン③"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10302376,
@@ -2186,10 +2464,12 @@
     },
     "140": {
       "episode": "140",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-02-09",
       "title": {
-        "en": "Episode 140"
+        "en": null,
+        "romaji": "Muchauman 4",
+        "ja": "むちゃうマン④"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10302377,
@@ -2201,10 +2481,12 @@
     },
     "141": {
       "episode": "141",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-02-13",
       "title": {
-        "en": "Episode 141"
+        "en": null,
+        "romaji": "Muchauman 5",
+        "ja": "むちゃうマン⑤"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10404574,
@@ -2216,10 +2498,12 @@
     },
     "142": {
       "episode": "142",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-02-16",
       "title": {
-        "en": "Episode 142"
+        "en": null,
+        "romaji": "Raincoat",
+        "ja": "レインコート"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10404575,
@@ -2231,10 +2515,12 @@
     },
     "143": {
       "episode": "143",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-02-20",
       "title": {
-        "en": "Episode 143"
+        "en": null,
+        "romaji": "Tsukuru / Hae Kawari",
+        "ja": "作る / 生え変わり"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10404576,
@@ -2246,10 +2532,12 @@
     },
     "144": {
       "episode": "144",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-02-23",
       "title": {
-        "en": "Episode 144"
+        "en": null,
+        "romaji": "Pajama Parties 1",
+        "ja": "パジャマパーティーズ①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10404577,
@@ -2261,10 +2549,12 @@
     },
     "145": {
       "episode": "145",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-02-27",
       "title": {
-        "en": "Episode 145"
+        "en": null,
+        "romaji": "Pajama Parties 2",
+        "ja": "パジャマパーティーズ②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10404578,
@@ -2276,10 +2566,12 @@
     },
     "146": {
       "episode": "146",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-03-01",
       "title": {
-        "en": "Episode 146"
+        "en": null,
+        "romaji": "Pajama Parties 3",
+        "ja": "パジャマパーティーズ③"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10404579,
@@ -2291,10 +2583,12 @@
     },
     "147": {
       "episode": "147",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-03-05",
       "title": {
-        "en": "Episode 147"
+        "en": null,
+        "romaji": "Pajama Parties 4",
+        "ja": "パジャマパーティーズ④"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10404580,
@@ -2306,10 +2600,12 @@
     },
     "148": {
       "episode": "148",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-03-08",
       "title": {
-        "en": "Episode 148"
+        "en": null,
+        "romaji": "Pajama Parties 5",
+        "ja": "パジャマパーティーズ⑤"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10404581,
@@ -2321,10 +2617,12 @@
     },
     "149": {
       "episode": "149",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-03-12",
       "title": {
-        "en": "Episode 149"
+        "en": null,
+        "romaji": "Pajama Parties 6",
+        "ja": "パジャマパーティーズ⑥"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10404582,
@@ -2336,10 +2634,12 @@
     },
     "150": {
       "episode": "150",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-03-15",
       "title": {
-        "en": "Episode 150"
+        "en": null,
+        "romaji": "Pajama Parties 7",
+        "ja": "パジャマパーティーズ⑦"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10404583,
@@ -2351,10 +2651,12 @@
     },
     "151": {
       "episode": "151",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-03-19",
       "title": {
-        "en": "Episode 151"
+        "en": null,
+        "romaji": "Pajama Parties 8",
+        "ja": "パジャマパーティーズ⑧"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10404584,
@@ -2366,10 +2668,12 @@
     },
     "152": {
       "episode": "152",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-03-22",
       "title": {
-        "en": "Episode 152"
+        "en": null,
+        "romaji": "Pajama Parties 9",
+        "ja": "パジャマパーティーズ⑨"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10404585,
@@ -2381,10 +2685,12 @@
     },
     "153": {
       "episode": "153",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-03-26",
       "title": {
-        "en": "Episode 153"
+        "en": null,
+        "romaji": "Pajama Parties 10",
+        "ja": "パジャマパーティーズ⑩"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10461647,
@@ -2396,10 +2702,12 @@
     },
     "154": {
       "episode": "154",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-03-29",
       "title": {
-        "en": "Episode 154"
+        "en": null,
+        "romaji": "Pajama Parties 11",
+        "ja": "パジャマパーティーズ⑪"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10461648,
@@ -2411,10 +2719,12 @@
     },
     "155": {
       "episode": "155",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-04-02",
       "title": {
-        "en": "Episode 155"
+        "en": null,
+        "romaji": "Pajama Parties 12",
+        "ja": "パジャマパーティーズ⑫"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10461649,
@@ -2426,10 +2736,12 @@
     },
     "156": {
       "episode": "156",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-04-05",
       "title": {
-        "en": "Episode 156"
+        "en": null,
+        "romaji": "Nani Kangaeteru no?",
+        "ja": "何考えてるの?"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10461650,
@@ -2441,10 +2753,12 @@
     },
     "157": {
       "episode": "157",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-04-09",
       "title": {
-        "en": "Episode 157"
+        "en": null,
+        "romaji": "Miro / Chi Chi Chi",
+        "ja": "みろ / チッチッチ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10461651,
@@ -2456,10 +2770,12 @@
     },
     "158": {
       "episode": "158",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-04-12",
       "title": {
-        "en": "Episode 158"
+        "en": null,
+        "romaji": "Arazan / Amayadori",
+        "ja": "アラザン / 雨やどり"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10461652,
@@ -2471,10 +2787,12 @@
     },
     "159": {
       "episode": "159",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-04-16",
       "title": {
-        "en": "Episode 159"
+        "en": null,
+        "romaji": "Sandwich Kinen",
+        "ja": "サンドイッチ記念"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10461653,
@@ -2486,10 +2804,12 @@
     },
     "160": {
       "episode": "160",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-04-19",
       "title": {
-        "en": "Episode 160"
+        "en": null,
+        "romaji": "Homerare Ribbon 1",
+        "ja": "ほめられリボン①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10461654,
@@ -2501,10 +2821,12 @@
     },
     "161": {
       "episode": "161",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-04-23",
       "title": {
-        "en": "Episode 161"
+        "en": null,
+        "romaji": "Homerare Ribbon 2",
+        "ja": "ほめられリボン②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10461655,
@@ -2516,10 +2838,12 @@
     },
     "162": {
       "episode": "162",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-04-26",
       "title": {
-        "en": "Episode 162"
+        "en": null,
+        "romaji": "Homerare Ribbon 3",
+        "ja": "ほめられリボン③"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10517908,
@@ -2531,10 +2855,12 @@
     },
     "163": {
       "episode": "163",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-04-30",
       "title": {
-        "en": "Episode 163"
+        "en": null,
+        "romaji": "Homerare Ribbon 4",
+        "ja": "ほめられリボン④"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10517909,
@@ -2546,10 +2872,12 @@
     },
     "164": {
       "episode": "164",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-05-03",
       "title": {
-        "en": "Episode 164"
+        "en": null,
+        "romaji": "Homerare Ribbon 5",
+        "ja": "ほめられリボン⑤"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10517910,
@@ -2561,10 +2889,12 @@
     },
     "165": {
       "episode": "165",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-05-07",
       "title": {
-        "en": "Episode 165"
+        "en": null,
+        "romaji": "Satapanbin / Sanpincha",
+        "ja": "さたぱんびん / さんぴん茶"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10517911,
@@ -2576,10 +2906,12 @@
     },
     "166": {
       "episode": "166",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-05-10",
       "title": {
-        "en": "Episode 166"
+        "en": null,
+        "romaji": "Joshu Nanda / Oshishou",
+        "ja": "助手なんだ / お師匠"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10517912,
@@ -2591,10 +2923,12 @@
     },
     "167": {
       "episode": "167",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-05-14",
       "title": {
-        "en": "Episode 167"
+        "en": null,
+        "romaji": "Chuushi / Jibun no Koto Mitai",
+        "ja": "中止 / 自分のことみたい"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10517913,
@@ -2606,10 +2940,12 @@
     },
     "168": {
       "episode": "168",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-05-17",
       "title": {
-        "en": "Episode 168"
+        "en": null,
+        "romaji": "Picnic 1",
+        "ja": "ピクニック①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10517914,
@@ -2621,10 +2957,12 @@
     },
     "169": {
       "episode": "169",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-05-21",
       "title": {
-        "en": "Episode 169"
+        "en": null,
+        "romaji": "Picnic 2",
+        "ja": "ピクニック②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10517915,
@@ -2636,10 +2974,12 @@
     },
     "170": {
       "episode": "170",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-05-24",
       "title": {
-        "en": "Episode 170"
+        "en": null,
+        "romaji": "Picnic 3",
+        "ja": "ピクニック③"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10517916,
@@ -2651,10 +2991,12 @@
     },
     "171": {
       "episode": "171",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-05-28",
       "title": {
-        "en": "Episode 171"
+        "en": null,
+        "romaji": "Muniyaamu / Arijogoku",
+        "ja": "ムニヤーム / アリジゴク"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10517917,
@@ -2666,10 +3008,12 @@
     },
     "172": {
       "episode": "172",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-05-31",
       "title": {
-        "en": "Episode 172"
+        "en": null,
+        "romaji": "Chiikawa no Yume 1",
+        "ja": "ちいかわの夢①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10572613,
@@ -2681,10 +3025,12 @@
     },
     "173": {
       "episode": "173",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-06-04",
       "title": {
-        "en": "Episode 173"
+        "en": null,
+        "romaji": "Chiikawa no Yume 2",
+        "ja": "ちいかわの夢②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10572614,
@@ -2696,10 +3042,12 @@
     },
     "174": {
       "episode": "174",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-06-07",
       "title": {
-        "en": "Episode 174"
+        "en": null,
+        "romaji": "Chiikawa no Yume 3",
+        "ja": "ちいかわの夢③"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10572615,
@@ -2711,10 +3059,12 @@
     },
     "175": {
       "episode": "175",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-06-11",
       "title": {
-        "en": "Episode 175"
+        "en": null,
+        "romaji": "Chiikawa no Yume 4",
+        "ja": "ちいかわの夢④"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10572616,
@@ -2726,10 +3076,12 @@
     },
     "176": {
       "episode": "176",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-06-14",
       "title": {
-        "en": "Episode 176"
+        "en": null,
+        "romaji": "Chiikawa no Yume 5",
+        "ja": "ちいかわの夢⑤"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10572617,
@@ -2741,10 +3093,12 @@
     },
     "177": {
       "episode": "177",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-06-18",
       "title": {
-        "en": "Episode 177"
+        "en": null,
+        "romaji": "Chiikawa no Yume 6",
+        "ja": "ちいかわの夢⑥"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10572618,
@@ -2756,10 +3110,12 @@
     },
     "178": {
       "episode": "178",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-06-21",
       "title": {
-        "en": "Episode 178"
+        "en": null,
+        "romaji": "Ano Ko",
+        "ja": "あのこ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10572619,
@@ -2771,10 +3127,12 @@
     },
     "179": {
       "episode": "179",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-06-25",
       "title": {
-        "en": "Episode 179"
+        "en": null,
+        "romaji": "Utagoe / Vienna Coffee",
+        "ja": "歌声 / ウィンナーコーヒー"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10572620,
@@ -2786,10 +3144,12 @@
     },
     "180": {
       "episode": "180",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-06-28",
       "title": {
-        "en": "Episode 180"
+        "en": null,
+        "romaji": "Kaki / Shime no Steak",
+        "ja": "カキ / 締めのステーキ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10572621,
@@ -2801,10 +3161,12 @@
     },
     "181": {
       "episode": "181",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-07-02",
       "title": {
-        "en": "Episode 181"
+        "en": null,
+        "romaji": "Kan Cookie",
+        "ja": "缶クッキー"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10572622,
@@ -2816,10 +3178,12 @@
     },
     "182": {
       "episode": "182",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-07-05",
       "title": {
-        "en": "Episode 182"
+        "en": null,
+        "romaji": "Yoru no Dekigoto 1",
+        "ja": "夜の出来事①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10624435,
@@ -2831,10 +3195,12 @@
     },
     "183": {
       "episode": "183",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-07-09",
       "title": {
-        "en": "Episode 183"
+        "en": null,
+        "romaji": "Yoru no Dekigoto 2",
+        "ja": "夜の出来事②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10624436,
@@ -2846,10 +3212,12 @@
     },
     "184": {
       "episode": "184",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-07-12",
       "title": {
-        "en": "Episode 184"
+        "en": null,
+        "romaji": "Yoru no Dekigoto 3",
+        "ja": "夜の出来事③"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10624437,
@@ -2861,10 +3229,12 @@
     },
     "185": {
       "episode": "185",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-07-16",
       "title": {
-        "en": "Episode 185"
+        "en": null,
+        "romaji": "Yoru no Dekigoto 4",
+        "ja": "夜の出来事④"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10624438,
@@ -2876,10 +3246,12 @@
     },
     "186": {
       "episode": "186",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-07-19",
       "title": {
-        "en": "Episode 186"
+        "en": null,
+        "romaji": "Yoru no Dekigoto 5",
+        "ja": "夜の出来事⑤"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10624439,
@@ -2891,10 +3263,12 @@
     },
     "187": {
       "episode": "187",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-07-23",
       "title": {
-        "en": "Episode 187"
+        "en": null,
+        "romaji": "French Toast / Oshishou!?",
+        "ja": "フレンチトースト / お師匠!?"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10624440,
@@ -2906,10 +3280,12 @@
     },
     "188": {
       "episode": "188",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-07-26",
       "title": {
-        "en": "Episode 188"
+        "en": null,
+        "romaji": "Hikaru Wa / Mushi no Yume",
+        "ja": "光る輪 / 虫の夢"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10624441,
@@ -2921,10 +3297,12 @@
     },
     "189": {
       "episode": "189",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-07-30",
       "title": {
-        "en": "Episode 189"
+        "en": null,
+        "romaji": "Ode to Rougoku 1",
+        "ja": "オデと牢獄①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10624442,
@@ -2936,10 +3314,12 @@
     },
     "190": {
       "episode": "190",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-08-02",
       "title": {
-        "en": "Episode 190"
+        "en": null,
+        "romaji": "Ode to Rougoku 2",
+        "ja": "オデと牢獄②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10624443,
@@ -2951,10 +3331,12 @@
     },
     "191": {
       "episode": "191",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-08-06",
       "title": {
-        "en": "Episode 191"
+        "en": null,
+        "romaji": "Ode to Rougoku 3",
+        "ja": "オデと牢獄③"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10624444,
@@ -2966,10 +3348,12 @@
     },
     "192": {
       "episode": "192",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-08-09",
       "title": {
-        "en": "Episode 192"
+        "en": null,
+        "romaji": "Ode to Rougoku 4",
+        "ja": "オデと牢獄④"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692630,
@@ -2981,10 +3365,12 @@
     },
     "193": {
       "episode": "193",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-08-13",
       "title": {
-        "en": "Episode 193"
+        "en": null,
+        "romaji": "Ode to Rougoku 5",
+        "ja": "オデと牢獄⑤"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692631,
@@ -2996,10 +3382,12 @@
     },
     "194": {
       "episode": "194",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-08-16",
       "title": {
-        "en": "Episode 194"
+        "en": null,
+        "romaji": "Ode to Rougoku 6",
+        "ja": "オデと牢獄⑥"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692632,
@@ -3011,10 +3399,12 @@
     },
     "195": {
       "episode": "195",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-08-20",
       "title": {
-        "en": "Episode 195"
+        "en": null,
+        "romaji": "Ode to Rougoku 7",
+        "ja": "オデと牢獄⑦"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692644,
@@ -3026,10 +3416,12 @@
     },
     "196": {
       "episode": "196",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-08-23",
       "title": {
-        "en": "Episode 196"
+        "en": null,
+        "romaji": "Ode to Rougoku 8",
+        "ja": "オデと牢獄⑧"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692645,
@@ -3041,10 +3433,12 @@
     },
     "197": {
       "episode": "197",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-08-27",
       "title": {
-        "en": "Episode 197"
+        "en": null,
+        "romaji": "Ode to Rougoku 9",
+        "ja": "オデと牢獄⑨"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692646,
@@ -3056,10 +3450,12 @@
     },
     "198": {
       "episode": "198",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-08-30",
       "title": {
-        "en": "Episode 198"
+        "en": null,
+        "romaji": "Ode to Rougoku 10",
+        "ja": "オデと牢獄⑩"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692647,
@@ -3071,10 +3467,12 @@
     },
     "199": {
       "episode": "199",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-09-03",
       "title": {
-        "en": "Episode 199"
+        "en": null,
+        "romaji": "Seiun",
+        "ja": "青雲"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692648,
@@ -3086,10 +3484,12 @@
     },
     "200": {
       "episode": "200",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-09-06",
       "title": {
-        "en": "Episode 200"
+        "en": null,
+        "romaji": "Course Ryouri 1",
+        "ja": "コース料理①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692649,
@@ -3101,10 +3501,12 @@
     },
     "201": {
       "episode": "201",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-09-10",
       "title": {
-        "en": "Episode 201"
+        "en": null,
+        "romaji": "Course Ryouri 2",
+        "ja": "コース料理②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692650,
@@ -3116,10 +3518,12 @@
     },
     "202": {
       "episode": "202",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-09-13",
       "title": {
-        "en": "Episode 202"
+        "en": null,
+        "romaji": "Slot 1",
+        "ja": "スロット①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692641,
@@ -3131,10 +3535,12 @@
     },
     "203": {
       "episode": "203",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-09-17",
       "title": {
-        "en": "Episode 203"
+        "en": null,
+        "romaji": "Slot 2",
+        "ja": "スロット②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692640,
@@ -3146,10 +3552,12 @@
     },
     "204": {
       "episode": "204",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-09-20",
       "title": {
-        "en": "Episode 204"
+        "en": null,
+        "romaji": "Slot 3",
+        "ja": "スロット③"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692642,
@@ -3161,10 +3569,12 @@
     },
     "205": {
       "episode": "205",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-09-24",
       "title": {
-        "en": "Episode 205"
+        "en": null,
+        "romaji": "Slot 4",
+        "ja": "スロット④"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692643,
@@ -3176,10 +3586,12 @@
     },
     "206": {
       "episode": "206",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-09-27",
       "title": {
-        "en": "Episode 206"
+        "en": null,
+        "romaji": "Slot 5",
+        "ja": "スロット⑤"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692633,
@@ -3191,10 +3603,12 @@
     },
     "207": {
       "episode": "207",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-10-01",
       "title": {
-        "en": "Episode 207"
+        "en": null,
+        "romaji": "Slot 6",
+        "ja": "スロット⑥"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692634,
@@ -3206,10 +3620,12 @@
     },
     "208": {
       "episode": "208",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-10-04",
       "title": {
-        "en": "Episode 208"
+        "en": null,
+        "romaji": "Slot 7",
+        "ja": "スロット⑦"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692635,
@@ -3221,10 +3637,12 @@
     },
     "209": {
       "episode": "209",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-10-08",
       "title": {
-        "en": "Episode 209"
+        "en": null,
+        "romaji": "Slot 8",
+        "ja": "スロット⑧"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692636,
@@ -3236,10 +3654,12 @@
     },
     "210": {
       "episode": "210",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-10-11",
       "title": {
-        "en": "Episode 210"
+        "en": null,
+        "romaji": "Slot 9",
+        "ja": "スロット⑨"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692637,
@@ -3251,10 +3671,12 @@
     },
     "211": {
       "episode": "211",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-10-15",
       "title": {
-        "en": "Episode 211"
+        "en": null,
+        "romaji": "Slot 10 / Trump",
+        "ja": "スロット⑩ / トランプ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692638,
@@ -3266,10 +3688,12 @@
     },
     "212": {
       "episode": "212",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-10-18",
       "title": {
-        "en": "Episode 212"
+        "en": null,
+        "romaji": "Janken / Buki no Aji",
+        "ja": "ジャンケン / 武器の味"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692639,
@@ -3281,10 +3705,12 @@
     },
     "213": {
       "episode": "213",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-10-22",
       "title": {
-        "en": "Episode 213"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi no Hanashi / Tachiguisoba",
+        "ja": "黒い流れ星の話 / 立ち食いそば"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10692651,
@@ -3296,10 +3722,12 @@
     },
     "214": {
       "episode": "214",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-10-25",
       "title": {
-        "en": "Episode 214"
+        "en": null,
+        "romaji": "Dinner Roll",
+        "ja": "ディナーロール"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10775539,
@@ -3311,10 +3739,12 @@
     },
     "215": {
       "episode": "215",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-10-29",
       "title": {
-        "en": "Episode 215"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Zenpen 1",
+        "ja": "黒い流れ星・前編①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10775540,
@@ -3326,10 +3756,12 @@
     },
     "216": {
       "episode": "216",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-11-01",
       "title": {
-        "en": "Episode 216"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Zenpen 2",
+        "ja": "黒い流れ星・前編②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10775541,
@@ -3341,10 +3773,12 @@
     },
     "217": {
       "episode": "217",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-11-05",
       "title": {
-        "en": "Episode 217"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Zenpen 3",
+        "ja": "黒い流れ星・前編③"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10817739,
@@ -3356,10 +3790,12 @@
     },
     "218": {
       "episode": "218",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-11-08",
       "title": {
-        "en": "Episode 218"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Zenpen 4",
+        "ja": "黒い流れ星・前編④"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10817740,
@@ -3371,10 +3807,12 @@
     },
     "219": {
       "episode": "219",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-11-12",
       "title": {
-        "en": "Episode 219"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Zenpen 5",
+        "ja": "黒い流れ星・前編⑤"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10817741,
@@ -3386,10 +3824,12 @@
     },
     "220": {
       "episode": "220",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-11-15",
       "title": {
-        "en": "Episode 220"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Zenpen 6",
+        "ja": "黒い流れ星・前編⑥"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10817742,
@@ -3401,10 +3841,12 @@
     },
     "221": {
       "episode": "221",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-11-19",
       "title": {
-        "en": "Episode 221"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Zenpen 7",
+        "ja": "黒い流れ星・前編⑦"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10817743,
@@ -3416,10 +3858,12 @@
     },
     "222": {
       "episode": "222",
-      "length": "2m",
+      "length": 2,
       "airDate": "2022-11-22",
       "title": {
-        "en": "Episode 222"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Kouhen 1",
+        "ja": "黒い流れ星・後編①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10842195,
@@ -3431,10 +3875,12 @@
     },
     "223": {
       "episode": "223",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-11-26",
       "title": {
-        "en": "Episode 223"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Kouhen 2",
+        "ja": "黒い流れ星・後編②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10842196,
@@ -3446,10 +3892,12 @@
     },
     "224": {
       "episode": "224",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-11-29",
       "title": {
-        "en": "Episode 224"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Kouhen 3",
+        "ja": "黒い流れ星・後編③"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10842197,
@@ -3461,10 +3909,12 @@
     },
     "225": {
       "episode": "225",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-12-03",
       "title": {
-        "en": "Episode 225"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Kouhen 4",
+        "ja": "黒い流れ星・後編④"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10842198,
@@ -3476,10 +3926,12 @@
     },
     "226": {
       "episode": "226",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-12-06",
       "title": {
-        "en": "Episode 226"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Kouhen 5",
+        "ja": "黒い流れ星・後編⑤"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10842199,
@@ -3491,10 +3943,12 @@
     },
     "227": {
       "episode": "227",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-12-10",
       "title": {
-        "en": "Episode 227"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Kouhen 6",
+        "ja": "黒い流れ星・後編⑥"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10868367,
@@ -3506,10 +3960,12 @@
     },
     "228": {
       "episode": "228",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-12-13",
       "title": {
-        "en": "Episode 228"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Kouhen 7",
+        "ja": "黒い流れ星・後編⑦"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10868368,
@@ -3521,10 +3977,12 @@
     },
     "229": {
       "episode": "229",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-12-17",
       "title": {
-        "en": "Episode 229"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Kouhen 8",
+        "ja": "黒い流れ星・後編⑧"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10868369,
@@ -3536,10 +3994,12 @@
     },
     "230": {
       "episode": "230",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-12-20",
       "title": {
-        "en": "Episode 230"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Kouhen 9",
+        "ja": "黒い流れ星・後編⑨"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10868370,
@@ -3551,10 +4011,12 @@
     },
     "231": {
       "episode": "231",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-12-24",
       "title": {
-        "en": "Episode 231"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Kouhen 10",
+        "ja": "黒い流れ星・後編⑩"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10868371,
@@ -3566,10 +4028,12 @@
     },
     "232": {
       "episode": "232",
-      "length": "2m",
+      "length": 2,
       "airDate": "2024-12-27",
       "title": {
-        "en": "Episode 232"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Kouhen 11",
+        "ja": "黒い流れ星・後編⑪"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10944092,
@@ -3581,10 +4045,12 @@
     },
     "233": {
       "episode": "233",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-01-07",
       "title": {
-        "en": "Episode 233"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Kouhen 12",
+        "ja": "黒い流れ星・後編⑫"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10944093,
@@ -3596,10 +4062,12 @@
     },
     "234": {
       "episode": "234",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-01-10",
       "title": {
-        "en": "Episode 234"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Kouhen 13",
+        "ja": "黒い流れ星・後編⑬"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10944094,
@@ -3611,10 +4079,12 @@
     },
     "235": {
       "episode": "235",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-01-14",
       "title": {
-        "en": "Episode 235"
+        "en": null,
+        "romaji": "Kuroi Nagareboshi: Kouhen 14",
+        "ja": "黒い流れ星・後編⑭"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10944095,
@@ -3626,10 +4096,12 @@
     },
     "236": {
       "episode": "236",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-01-17",
       "title": {
-        "en": "Episode 236"
+        "en": null,
+        "romaji": "Oshiruko / Yoru no Osoba",
+        "ja": "おしるこ / 夜のおソバ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10944096,
@@ -3641,10 +4113,12 @@
     },
     "237": {
       "episode": "237",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-01-21",
       "title": {
-        "en": "Episode 237"
+        "en": null,
+        "romaji": "Namagawaki / Mouryou",
+        "ja": "なまがわき / 毛量"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10944097,
@@ -3656,10 +4130,12 @@
     },
     "238": {
       "episode": "238",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-01-24",
       "title": {
-        "en": "Episode 238"
+        "en": null,
+        "romaji": "Hachiware no Ichinichi",
+        "ja": "ハチワレの一日"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10944098,
@@ -3671,10 +4147,12 @@
     },
     "239": {
       "episode": "239",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-01-28",
       "title": {
-        "en": "Episode 239"
+        "en": null,
+        "romaji": "Hachiware no Ichinichi 2 / Boushi",
+        "ja": "ハチワレの一日② / 帽子"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10944099,
@@ -3686,10 +4164,12 @@
     },
     "240": {
       "episode": "240",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-01-31",
       "title": {
-        "en": "Episode 240"
+        "en": null,
+        "romaji": "Asaburo",
+        "ja": "朝風呂"
       },
       "tvdbShowId": 415509,
       "tvdbId": 10944100,
@@ -3701,10 +4181,12 @@
     },
     "241": {
       "episode": "241",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-02-04",
       "title": {
-        "en": "Episode 241"
+        "en": null,
+        "romaji": "Kaki no Tane Wasabi",
+        "ja": "柿の種わさび"
       },
       "tvdbShowId": 415509,
       "tvdbId": 11018289,
@@ -3716,10 +4198,12 @@
     },
     "242": {
       "episode": "242",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-02-07",
       "title": {
-        "en": "Episode 242"
+        "en": null,
+        "romaji": "Oden no Odashi",
+        "ja": "おでんのお出汁"
       },
       "tvdbShowId": 415509,
       "tvdbId": 11018290,
@@ -3731,10 +4215,12 @@
     },
     "243": {
       "episode": "243",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-02-11",
       "title": {
-        "en": "Episode 243"
+        "en": null,
+        "romaji": "Hoppy / Osake no Shikaku",
+        "ja": "ホッピー / お酒の資格"
       },
       "tvdbShowId": 415509,
       "tvdbId": 11018291,
@@ -3746,10 +4232,12 @@
     },
     "244": {
       "episode": "244",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-02-14",
       "title": {
-        "en": "Episode 244"
+        "en": null,
+        "romaji": "Shikaku no Omoide / Kamaboko",
+        "ja": "資格のおもいで / かまぼこ"
       },
       "tvdbShowId": 415509,
       "tvdbId": 11018292,
@@ -3761,10 +4249,12 @@
     },
     "245": {
       "episode": "245",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-02-18",
       "title": {
-        "en": "Episode 245"
+        "en": null,
+        "romaji": "Yaritai Koto List 1",
+        "ja": "やりたいことリスト①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 11018293,
@@ -3776,10 +4266,12 @@
     },
     "246": {
       "episode": "246",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-02-21",
       "title": {
-        "en": "Episode 246"
+        "en": null,
+        "romaji": "Yaritai Koto List 2",
+        "ja": "やりたいことリスト②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 11018294,
@@ -3791,10 +4283,12 @@
     },
     "247": {
       "episode": "247",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-02-25",
       "title": {
-        "en": "Episode 247"
+        "en": null,
+        "romaji": "Yaritai Koto List 3",
+        "ja": "やりたいことリスト③"
       },
       "tvdbShowId": 415509,
       "tvdbId": 11018295,
@@ -3806,10 +4300,12 @@
     },
     "248": {
       "episode": "248",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-02-28",
       "title": {
-        "en": "Episode 248"
+        "en": null,
+        "romaji": "Yaritai Koto List 4",
+        "ja": "やりたいことリスト④"
       },
       "tvdbShowId": 415509,
       "tvdbId": 11018296,
@@ -3821,10 +4317,12 @@
     },
     "249": {
       "episode": "249",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-03-04",
       "title": {
-        "en": "Episode 249"
+        "en": null,
+        "romaji": "Yaritai Koto List 5 / Shiisaa no Shikaku 1",
+        "ja": "やりたいことリスト⑤ / シーサーの資格①"
       },
       "tvdbShowId": 415509,
       "tvdbId": 11018297,
@@ -3836,10 +4334,12 @@
     },
     "250": {
       "episode": "250",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-03-07",
       "title": {
-        "en": "Episode 250"
+        "en": null,
+        "romaji": "Shiisaa no Shikaku 2",
+        "ja": "シーサーの資格②"
       },
       "tvdbShowId": 415509,
       "tvdbId": 11018298,
@@ -3851,10 +4351,12 @@
     },
     "251": {
       "episode": "251",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-03-11",
       "title": {
-        "en": "Episode 251"
+        "en": null,
+        "romaji": "Shiisaa no Shikaku 3",
+        "ja": "シーサーの資格③"
       },
       "tvdbShowId": 415509,
       "tvdbId": 11055199,
@@ -3866,10 +4368,12 @@
     },
     "252": {
       "episode": "252",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-03-14",
       "title": {
-        "en": "Episode 252"
+        "en": null,
+        "romaji": "Shiisaa no Shikaku 4",
+        "ja": "シーサーの資格④"
       },
       "tvdbShowId": 415509,
       "tvdbId": 11055200,
@@ -3881,10 +4385,12 @@
     },
     "253": {
       "episode": "253",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-03-18",
       "title": {
-        "en": "Episode 253"
+        "en": null,
+        "romaji": "Shiisaa no Shikaku 5",
+        "ja": "シーサーの資格⑤"
       },
       "tvdbShowId": 415509,
       "tvdbId": 11055201,
@@ -3896,10 +4402,12 @@
     },
     "254": {
       "episode": "254",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-03-21",
       "title": {
-        "en": "Episode 254"
+        "en": null,
+        "romaji": "Shiisaa no Shikaku 6",
+        "ja": "シーサーの資格⑥"
       },
       "tvdbShowId": 415509,
       "tvdbId": 11055202,
@@ -3911,10 +4419,12 @@
     },
     "255": {
       "episode": "255",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-03-25",
       "title": {
-        "en": "Episode 255"
+        "en": null,
+        "romaji": "Shiisaa no Shikaku 7",
+        "ja": "シーサーの資格⑦"
       },
       "tvdbShowId": 415509,
       "tvdbId": 11055203,
@@ -3926,10 +4436,12 @@
     },
     "256": {
       "episode": "256",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-03-28",
       "title": {
-        "en": "Episode 256"
+        "en": null,
+        "romaji": "Shiisaa no Shikaku 8",
+        "ja": "シーサーの資格⑧"
       },
       "tvdbShowId": 415509,
       "tvdbId": 11055204,
@@ -3938,18 +4450,2251 @@
       "absoluteEpisodeNumber": 256,
       "runtime": 3,
       "image": null
+    },
+    "257": {
+      "episode": "257",
+      "length": 2,
+      "airDate": "2025-05-01",
+      "title": {
+        "en": null,
+        "romaji": "Happy Birthday",
+        "ja": "ハッピーバースデー"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11055205,
+      "seasonNumber": 1,
+      "episodeNumber": 257,
+      "absoluteEpisodeNumber": 257,
+      "runtime": 2,
+      "image": null
+    },
+    "258": {
+      "episode": "258",
+      "length": 2,
+      "airDate": "2025-07-15",
+      "title": {
+        "en": null,
+        "romaji": "Kakigoori Syrup",
+        "ja": "かき氷シロップ"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11055206,
+      "seasonNumber": 1,
+      "episodeNumber": 258,
+      "absoluteEpisodeNumber": 258,
+      "runtime": 2,
+      "image": null
+    },
+    "259": {
+      "episode": "259",
+      "length": 2,
+      "airDate": "2025-07-18",
+      "title": {
+        "en": null,
+        "romaji": "Kiji / Gyoniso",
+        "ja": "生地 / ギョニソ"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11055207,
+      "seasonNumber": 1,
+      "episodeNumber": 259,
+      "absoluteEpisodeNumber": 259,
+      "runtime": 2,
+      "image": null
+    },
+    "260": {
+      "episode": "260",
+      "length": 2,
+      "airDate": "2025-07-22",
+      "title": {
+        "en": null,
+        "romaji": "Juntsuyu / Tsuno",
+        "ja": "純露 / ツノ"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11055208,
+      "seasonNumber": 1,
+      "episodeNumber": 260,
+      "absoluteEpisodeNumber": 260,
+      "runtime": 2,
+      "image": null
+    },
+    "261": {
+      "episode": "261",
+      "length": 2,
+      "airDate": "2025-07-25",
+      "title": {
+        "en": null,
+        "romaji": "Agedama / Mikan Soumen",
+        "ja": "あげ玉 / みかんそうめん"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11255638,
+      "seasonNumber": 1,
+      "episodeNumber": 261,
+      "absoluteEpisodeNumber": 261,
+      "runtime": 2,
+      "image": null
+    },
+    "262": {
+      "episode": "262",
+      "length": 2,
+      "airDate": "2025-07-29",
+      "title": {
+        "en": null,
+        "romaji": "Kisei 1",
+        "ja": "寄生①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11265069,
+      "seasonNumber": 1,
+      "episodeNumber": 262,
+      "absoluteEpisodeNumber": 262,
+      "runtime": 2,
+      "image": null
+    },
+    "263": {
+      "episode": "263",
+      "length": 2,
+      "airDate": "2025-08-01",
+      "title": {
+        "en": null,
+        "romaji": "Kisei 2 / Kedama",
+        "ja": "寄生② / 毛玉"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11265070,
+      "seasonNumber": 1,
+      "episodeNumber": 263,
+      "absoluteEpisodeNumber": 263,
+      "runtime": 2,
+      "image": null
+    },
+    "264": {
+      "episode": "264",
+      "length": 2,
+      "airDate": "2025-08-05",
+      "title": {
+        "en": null,
+        "romaji": "Awamori Coffee / Futsukayoi",
+        "ja": "泡盛コーヒー / 二日酔い"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11277719,
+      "seasonNumber": 1,
+      "episodeNumber": 264,
+      "absoluteEpisodeNumber": 264,
+      "runtime": 2,
+      "image": null
+    },
+    "265": {
+      "episode": "265",
+      "length": 2,
+      "airDate": "2025-08-08",
+      "title": {
+        "en": null,
+        "romaji": "Waki Dokoro 1",
+        "ja": "湧きドコロ①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11277720,
+      "seasonNumber": 1,
+      "episodeNumber": 265,
+      "absoluteEpisodeNumber": 265,
+      "runtime": 2,
+      "image": null
+    },
+    "266": {
+      "episode": "266",
+      "length": 2,
+      "airDate": "2025-08-12",
+      "title": {
+        "en": null,
+        "romaji": "Waki Dokoro 2",
+        "ja": "湧きドコロ②"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11285389,
+      "seasonNumber": 1,
+      "episodeNumber": 266,
+      "absoluteEpisodeNumber": 266,
+      "runtime": 2,
+      "image": null
+    },
+    "267": {
+      "episode": "267",
+      "length": 2,
+      "airDate": "2025-08-15",
+      "title": {
+        "en": null,
+        "romaji": "Waki Dokoro 3",
+        "ja": "湧きドコロ③"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11288415,
+      "seasonNumber": 1,
+      "episodeNumber": 267,
+      "absoluteEpisodeNumber": 267,
+      "runtime": 2,
+      "image": null
+    },
+    "268": {
+      "episode": "268",
+      "length": 2,
+      "airDate": "2025-08-19",
+      "title": {
+        "en": null,
+        "romaji": "Waki Dokoro 4 / Kareta 1",
+        "ja": "湧きドコロ④ / 涸れた①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11295737,
+      "seasonNumber": 1,
+      "episodeNumber": 268,
+      "absoluteEpisodeNumber": 268,
+      "runtime": 2,
+      "image": null
+    },
+    "269": {
+      "episode": "269",
+      "length": 2,
+      "airDate": "2025-08-22",
+      "title": {
+        "en": null,
+        "romaji": "Kareta 2",
+        "ja": "涸れた②"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11299249,
+      "seasonNumber": 1,
+      "episodeNumber": 269,
+      "absoluteEpisodeNumber": 269,
+      "runtime": 2,
+      "image": null
+    },
+    "270": {
+      "episode": "270",
+      "length": 2,
+      "airDate": "2025-08-26",
+      "title": {
+        "en": null,
+        "romaji": "Kareta 3",
+        "ja": "涸れた③"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11304318,
+      "seasonNumber": 1,
+      "episodeNumber": 270,
+      "absoluteEpisodeNumber": 270,
+      "runtime": 2,
+      "image": null
+    },
+    "271": {
+      "episode": "271",
+      "length": 2,
+      "airDate": "2025-08-29",
+      "title": {
+        "en": null,
+        "romaji": "Kareta 4",
+        "ja": "涸れた④"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11308493,
+      "seasonNumber": 1,
+      "episodeNumber": 271,
+      "absoluteEpisodeNumber": 271,
+      "runtime": 2,
+      "image": null
+    },
+    "272": {
+      "episode": "272",
+      "length": 2,
+      "airDate": "2025-09-02",
+      "title": {
+        "en": null,
+        "romaji": "Kareta 5",
+        "ja": "涸れた⑤"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11317679,
+      "seasonNumber": 1,
+      "episodeNumber": 272,
+      "absoluteEpisodeNumber": 272,
+      "runtime": 2,
+      "image": null
+    },
+    "273": {
+      "episode": "273",
+      "length": 2,
+      "airDate": "2025-09-05",
+      "title": {
+        "en": null,
+        "romaji": "Kareta 6",
+        "ja": "涸れた⑥"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11322527,
+      "seasonNumber": 1,
+      "episodeNumber": 273,
+      "absoluteEpisodeNumber": 273,
+      "runtime": 2,
+      "image": null
+    },
+    "274": {
+      "episode": "274",
+      "length": 2,
+      "airDate": "2025-09-09",
+      "title": {
+        "en": null,
+        "romaji": "Kareta 7 / Tsuppappa",
+        "ja": "涸れた⑦ / つっぱっぱ"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11329689,
+      "seasonNumber": 1,
+      "episodeNumber": 274,
+      "absoluteEpisodeNumber": 274,
+      "runtime": 2,
+      "image": null
+    },
+    "275": {
+      "episode": "275",
+      "length": 2,
+      "airDate": "2025-09-12",
+      "title": {
+        "en": null,
+        "romaji": "Waita Waita",
+        "ja": "湧いた湧いた"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11333491,
+      "seasonNumber": 1,
+      "episodeNumber": 275,
+      "absoluteEpisodeNumber": 275,
+      "runtime": 2,
+      "image": null
+    },
+    "276": {
+      "episode": "276",
+      "length": 2,
+      "airDate": "2025-09-16",
+      "title": {
+        "en": null,
+        "romaji": "Escalate / Shima Rakkyou",
+        "ja": "エスカレート / 島らっきょう"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11339713,
+      "seasonNumber": 1,
+      "episodeNumber": 276,
+      "absoluteEpisodeNumber": 276,
+      "runtime": 2,
+      "image": null
+    },
+    "277": {
+      "episode": "277",
+      "length": 2,
+      "airDate": "2025-09-19",
+      "title": {
+        "en": null,
+        "romaji": "Sensei / Curry",
+        "ja": "せんせい / カレー"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11345546,
+      "seasonNumber": 1,
+      "episodeNumber": 277,
+      "absoluteEpisodeNumber": 277,
+      "runtime": 2,
+      "image": null
+    },
+    "278": {
+      "episode": "278",
+      "length": 2,
+      "airDate": "2025-09-23",
+      "title": {
+        "en": null,
+        "romaji": "Shippo",
+        "ja": "しっぽ"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11355074,
+      "seasonNumber": 1,
+      "episodeNumber": 278,
+      "absoluteEpisodeNumber": 278,
+      "runtime": 2,
+      "image": null
+    },
+    "279": {
+      "episode": "279",
+      "length": 2,
+      "airDate": "2025-09-26",
+      "title": {
+        "en": null,
+        "romaji": "Dadachamame / Takogi 1",
+        "ja": "だだちゃ豆 / たこぎ①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11361010,
+      "seasonNumber": 1,
+      "episodeNumber": 279,
+      "absoluteEpisodeNumber": 279,
+      "runtime": 2,
+      "image": null
+    },
+    "280": {
+      "episode": "280",
+      "length": 2,
+      "airDate": "2025-09-30",
+      "title": {
+        "en": null,
+        "romaji": "Takogi 2",
+        "ja": "たこぎ②"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11370773,
+      "seasonNumber": 1,
+      "episodeNumber": 280,
+      "absoluteEpisodeNumber": 280,
+      "runtime": 2,
+      "image": null
+    },
+    "281": {
+      "episode": "281",
+      "length": 2,
+      "airDate": "2025-10-03",
+      "title": {
+        "en": null,
+        "romaji": "Kongaragatta / Ashu",
+        "ja": "こんがらがった / 亜種"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11375608,
+      "seasonNumber": 1,
+      "episodeNumber": 281,
+      "absoluteEpisodeNumber": 281,
+      "runtime": 2,
+      "image": null
+    },
+    "282": {
+      "episode": "282",
+      "length": 2,
+      "airDate": "2025-10-07",
+      "title": {
+        "en": null,
+        "romaji": "Soup Tsuki Ohiru / Aka Fuku",
+        "ja": "スープ付きお昼 / 赤福"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11383039,
+      "seasonNumber": 1,
+      "episodeNumber": 282,
+      "absoluteEpisodeNumber": 282,
+      "runtime": 2,
+      "image": null
+    },
+    "283": {
+      "episode": "283",
+      "length": 2,
+      "airDate": "2025-10-10",
+      "title": {
+        "en": null,
+        "romaji": "Nama Cream / Shippo Yatte Miru",
+        "ja": "生クリーム / しっぽやってみる"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11388190,
+      "seasonNumber": 1,
+      "episodeNumber": 283,
+      "absoluteEpisodeNumber": 283,
+      "runtime": 2,
+      "image": null
+    },
+    "284": {
+      "episode": "284",
+      "length": 2,
+      "airDate": "2025-10-14",
+      "title": {
+        "en": null,
+        "romaji": "Ode Kaiko 1",
+        "ja": "オデ解雇①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11395489,
+      "seasonNumber": 1,
+      "episodeNumber": 284,
+      "absoluteEpisodeNumber": 284,
+      "runtime": 2,
+      "image": null
+    },
+    "285": {
+      "episode": "285",
+      "length": 2,
+      "airDate": "2025-10-17",
+      "title": {
+        "en": null,
+        "romaji": "Ode Kaiko 2",
+        "ja": "オデ解雇②"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11402422,
+      "seasonNumber": 1,
+      "episodeNumber": 285,
+      "absoluteEpisodeNumber": 285,
+      "runtime": 2,
+      "image": null
+    },
+    "286": {
+      "episode": "286",
+      "length": 2,
+      "airDate": "2025-10-21",
+      "title": {
+        "en": null,
+        "romaji": "Ode Kaiko 3",
+        "ja": "オデ解雇③"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11412701,
+      "seasonNumber": 1,
+      "episodeNumber": 286,
+      "absoluteEpisodeNumber": 286,
+      "runtime": 2,
+      "image": null
+    },
+    "287": {
+      "episode": "287",
+      "length": 2,
+      "airDate": "2025-10-24",
+      "title": {
+        "en": null,
+        "romaji": "Mizuburo Revenge",
+        "ja": "水風呂リベンジ"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11419006,
+      "seasonNumber": 1,
+      "episodeNumber": 287,
+      "absoluteEpisodeNumber": 287,
+      "runtime": 2,
+      "image": null
+    },
+    "288": {
+      "episode": "288",
+      "length": 2,
+      "airDate": "2025-10-28",
+      "title": {
+        "en": null,
+        "romaji": "Cup Yakisoba / Yakisoba Gohan",
+        "ja": "カップ焼きそば / 焼きそばごはん"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11427895,
+      "seasonNumber": 1,
+      "episodeNumber": 288,
+      "absoluteEpisodeNumber": 288,
+      "runtime": 2,
+      "image": null
+    },
+    "289": {
+      "episode": "289",
+      "length": 2,
+      "airDate": "2025-10-31",
+      "title": {
+        "en": null,
+        "romaji": "Taiyaki / Hamburger",
+        "ja": "たい焼き / ハンバーガー"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11430729,
+      "seasonNumber": 1,
+      "episodeNumber": 289,
+      "absoluteEpisodeNumber": 289,
+      "runtime": 2,
+      "image": null
+    },
+    "290": {
+      "episode": "290",
+      "length": 2,
+      "airDate": "2025-11-04",
+      "title": {
+        "en": null,
+        "romaji": "Kinniku / Kakujitsu",
+        "ja": "筋肉 / 確実"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11437139,
+      "seasonNumber": 1,
+      "episodeNumber": 290,
+      "absoluteEpisodeNumber": 290,
+      "runtime": 2,
+      "image": null
+    },
+    "291": {
+      "episode": "291",
+      "length": 2,
+      "airDate": "2025-11-06",
+      "title": {
+        "en": null,
+        "romaji": "Hiroma 1",
+        "ja": "拾魔①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11453306,
+      "seasonNumber": 1,
+      "episodeNumber": 291,
+      "absoluteEpisodeNumber": 291,
+      "runtime": 2,
+      "image": null
+    },
+    "292": {
+      "episode": "292",
+      "length": 2,
+      "airDate": "2025-11-10",
+      "title": {
+        "en": null,
+        "romaji": "Hiroma 2",
+        "ja": "拾魔②"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11453308,
+      "seasonNumber": 1,
+      "episodeNumber": 292,
+      "absoluteEpisodeNumber": 292,
+      "runtime": 2,
+      "image": null
+    },
+    "293": {
+      "episode": "293",
+      "length": 2,
+      "airDate": "2025-11-13",
+      "title": {
+        "en": null,
+        "romaji": "Hiroma 3",
+        "ja": "拾魔③"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11455843,
+      "seasonNumber": 1,
+      "episodeNumber": 293,
+      "absoluteEpisodeNumber": 293,
+      "runtime": 2,
+      "image": null
+    },
+    "294": {
+      "episode": "294",
+      "length": 2,
+      "airDate": "2025-11-18",
+      "title": {
+        "en": null,
+        "romaji": "Hiroma 4",
+        "ja": "拾魔④"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11463932,
+      "seasonNumber": 1,
+      "episodeNumber": 294,
+      "absoluteEpisodeNumber": 294,
+      "runtime": 2,
+      "image": null
+    },
+    "295": {
+      "episode": "295",
+      "length": 2,
+      "airDate": "2025-11-20",
+      "title": {
+        "en": null,
+        "romaji": "Hiroma 5",
+        "ja": "拾魔⑤"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11476214,
+      "seasonNumber": 1,
+      "episodeNumber": 295,
+      "absoluteEpisodeNumber": 295,
+      "runtime": 2,
+      "image": null
+    },
+    "296": {
+      "episode": "296",
+      "length": 2,
+      "airDate": "2025-11-25",
+      "title": {
+        "en": null,
+        "romaji": "Hiroma 6",
+        "ja": "拾魔⑥"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11476215,
+      "seasonNumber": 1,
+      "episodeNumber": 296,
+      "absoluteEpisodeNumber": 296,
+      "runtime": 2,
+      "image": null
+    },
+    "297": {
+      "episode": "297",
+      "length": 2,
+      "airDate": "2025-11-28",
+      "title": {
+        "en": null,
+        "romaji": "Hiroma 7",
+        "ja": "拾魔⑦"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11492766,
+      "seasonNumber": 1,
+      "episodeNumber": 297,
+      "absoluteEpisodeNumber": 297,
+      "runtime": 2,
+      "image": null
+    },
+    "298": {
+      "episode": "298",
+      "length": 2,
+      "airDate": "2025-12-02",
+      "title": {
+        "en": null,
+        "romaji": "Hiroma 8",
+        "ja": "拾魔⑧"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11492767,
+      "seasonNumber": 1,
+      "episodeNumber": 298,
+      "absoluteEpisodeNumber": 298,
+      "runtime": 2,
+      "image": null
+    },
+    "299": {
+      "episode": "299",
+      "length": 2,
+      "airDate": "2025-12-05",
+      "title": {
+        "en": null,
+        "romaji": "Hiroma 9",
+        "ja": "拾魔⑨"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11496671,
+      "seasonNumber": 1,
+      "episodeNumber": 299,
+      "absoluteEpisodeNumber": 299,
+      "runtime": 2,
+      "image": null
+    },
+    "300": {
+      "episode": "300",
+      "length": 2,
+      "airDate": "2025-12-09",
+      "title": {
+        "en": null,
+        "romaji": "Delaware / Mamoru-kun",
+        "ja": "デラウェア / まもる君"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11501587,
+      "seasonNumber": 1,
+      "episodeNumber": 300,
+      "absoluteEpisodeNumber": 300,
+      "runtime": 2,
+      "image": null
+    },
+    "301": {
+      "episode": "301",
+      "length": 2,
+      "airDate": "2025-12-12",
+      "title": {
+        "en": null,
+        "romaji": "Mirai o Shinjite Iru",
+        "ja": "未来を信じている"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11511649,
+      "seasonNumber": 1,
+      "episodeNumber": 301,
+      "absoluteEpisodeNumber": 301,
+      "runtime": 2,
+      "image": null
+    },
+    "302": {
+      "episode": "302",
+      "length": 2,
+      "airDate": "2025-12-16",
+      "title": {
+        "en": null,
+        "romaji": "Gekokujou to Sensei 1",
+        "ja": "下克上と先生①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11511650,
+      "seasonNumber": 1,
+      "episodeNumber": 302,
+      "absoluteEpisodeNumber": 302,
+      "runtime": 2,
+      "image": null
+    },
+    "303": {
+      "episode": "303",
+      "length": 2,
+      "airDate": "2025-12-18",
+      "title": {
+        "en": null,
+        "romaji": "Gekokujou to Sensei 2",
+        "ja": "下克上と先生②"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11516561,
+      "seasonNumber": 1,
+      "episodeNumber": 303,
+      "absoluteEpisodeNumber": 303,
+      "runtime": 2,
+      "image": null
+    },
+    "304": {
+      "episode": "304",
+      "length": 2,
+      "airDate": "2025-12-22",
+      "title": {
+        "en": null,
+        "romaji": "Ohirune / Amaen Bon",
+        "ja": "お昼寝 / あまえん本"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11523929,
+      "seasonNumber": 1,
+      "episodeNumber": 304,
+      "absoluteEpisodeNumber": 304,
+      "runtime": 2,
+      "image": null
+    },
+    "305": {
+      "episode": "305",
+      "length": 2,
+      "airDate": "2025-12-25",
+      "title": {
+        "en": null,
+        "romaji": "Pudding Revenge / Mata Haekawari",
+        "ja": "プリンリベンジ / また生え変わり"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11523930,
+      "seasonNumber": 1,
+      "episodeNumber": 305,
+      "absoluteEpisodeNumber": 305,
+      "runtime": 2,
+      "image": null
+    },
+    "306": {
+      "episode": "306",
+      "length": 2,
+      "airDate": "2026-01-05",
+      "title": {
+        "en": null,
+        "romaji": "Yamanba 1",
+        "ja": "山姥①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11547188,
+      "seasonNumber": 1,
+      "episodeNumber": 306,
+      "absoluteEpisodeNumber": 306,
+      "runtime": 2,
+      "image": null
+    },
+    "307": {
+      "episode": "307",
+      "length": 2,
+      "airDate": "2026-01-08",
+      "title": {
+        "en": null,
+        "romaji": "Yamanba 2",
+        "ja": "山姥②"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11551157,
+      "seasonNumber": 1,
+      "episodeNumber": 307,
+      "absoluteEpisodeNumber": 307,
+      "runtime": 2,
+      "image": null
+    },
+    "308": {
+      "episode": "308",
+      "length": 2,
+      "airDate": "2026-01-13",
+      "title": {
+        "en": null,
+        "romaji": "Yamanba 3",
+        "ja": "山姥③"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11554785,
+      "seasonNumber": 1,
+      "episodeNumber": 308,
+      "absoluteEpisodeNumber": 308,
+      "runtime": 2,
+      "image": null
+    },
+    "309": {
+      "episode": "309",
+      "length": 2,
+      "airDate": "2026-01-16",
+      "title": {
+        "en": null,
+        "romaji": "Yamanba 4",
+        "ja": "山姥④"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11561184,
+      "seasonNumber": 1,
+      "episodeNumber": 309,
+      "absoluteEpisodeNumber": 309,
+      "runtime": 2,
+      "image": null
+    },
+    "310": {
+      "episode": "310",
+      "length": 2,
+      "airDate": "2026-01-19",
+      "title": {
+        "en": null,
+        "romaji": "Yamanba 5",
+        "ja": "山姥⑤"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11572414,
+      "seasonNumber": 1,
+      "episodeNumber": 310,
+      "absoluteEpisodeNumber": 310,
+      "runtime": 2,
+      "image": null
+    },
+    "311": {
+      "episode": "311",
+      "length": 2,
+      "airDate": "2026-01-23",
+      "title": {
+        "en": null,
+        "romaji": "Yamanba 6 / Yuujou ka na",
+        "ja": "山姥⑥ / 友情かな"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11572415,
+      "seasonNumber": 1,
+      "episodeNumber": 311,
+      "absoluteEpisodeNumber": 311,
+      "runtime": 2,
+      "image": null
+    },
+    "312": {
+      "episode": "312",
+      "length": 2,
+      "airDate": "2026-01-26",
+      "title": {
+        "en": null,
+        "romaji": "Shuuchuu / Omake Keshigomu",
+        "ja": "集中 / おまけケシゴム"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11586242,
+      "seasonNumber": 1,
+      "episodeNumber": 312,
+      "absoluteEpisodeNumber": 312,
+      "runtime": 2,
+      "image": null
+    },
+    "313": {
+      "episode": "313",
+      "length": 2,
+      "airDate": "2026-01-29",
+      "title": {
+        "en": null,
+        "romaji": "Sabocchau / Tougarashi",
+        "ja": "サボっちゃう / 唐辛子"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11586243,
+      "seasonNumber": 1,
+      "episodeNumber": 313,
+      "absoluteEpisodeNumber": 313,
+      "runtime": 2,
+      "image": null
+    },
+    "314": {
+      "episode": "314",
+      "length": 2,
+      "airDate": "2026-02-03",
+      "title": {
+        "en": null,
+        "romaji": "Double de / Soto Curry",
+        "ja": "ダブルで / 外カレー"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11586244,
+      "seasonNumber": 1,
+      "episodeNumber": 314,
+      "absoluteEpisodeNumber": 314,
+      "runtime": 2,
+      "image": null
+    },
+    "315": {
+      "episode": "315",
+      "length": 2,
+      "airDate": "2026-02-06",
+      "title": {
+        "en": null,
+        "romaji": "Oni Curry 1",
+        "ja": "鬼カレー①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11586245,
+      "seasonNumber": 1,
+      "episodeNumber": 315,
+      "absoluteEpisodeNumber": 315,
+      "runtime": 2,
+      "image": null
+    },
+    "316": {
+      "episode": "316",
+      "length": 2,
+      "airDate": "2026-02-10",
+      "title": {
+        "en": null,
+        "romaji": "Oni Curry 2",
+        "ja": "鬼カレー②"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11591821,
+      "seasonNumber": 1,
+      "episodeNumber": 316,
+      "absoluteEpisodeNumber": 316,
+      "runtime": 2,
+      "image": null
+    },
+    "317": {
+      "episode": "317",
+      "length": 2,
+      "airDate": "2026-02-12",
+      "title": {
+        "en": null,
+        "romaji": "Oni Curry 3",
+        "ja": "鬼カレー③"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11591822,
+      "seasonNumber": 1,
+      "episodeNumber": 317,
+      "absoluteEpisodeNumber": 317,
+      "runtime": 2,
+      "image": null
+    },
+    "318": {
+      "episode": "318",
+      "length": 2,
+      "airDate": "2026-02-16",
+      "title": {
+        "en": null,
+        "romaji": "My Tokei / Ofuro ni Ikou",
+        "ja": "マイ時計 / お風呂に行こう"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11599179,
+      "seasonNumber": 1,
+      "episodeNumber": 318,
+      "absoluteEpisodeNumber": 318,
+      "runtime": 2,
+      "image": null
+    },
+    "319": {
+      "episode": "319",
+      "length": 2,
+      "airDate": "2026-02-20",
+      "title": {
+        "en": null,
+        "romaji": "Usagi no Ie 1",
+        "ja": "うさぎの家①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11599180,
+      "seasonNumber": 1,
+      "episodeNumber": 319,
+      "absoluteEpisodeNumber": 319,
+      "runtime": 2,
+      "image": null
+    },
+    "320": {
+      "episode": "320",
+      "length": 2,
+      "airDate": "2026-02-24",
+      "title": {
+        "en": null,
+        "romaji": "Usagi no Ie 2",
+        "ja": "うさぎの家②"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11617360,
+      "seasonNumber": 1,
+      "episodeNumber": 320,
+      "absoluteEpisodeNumber": 320,
+      "runtime": 2,
+      "image": null
+    },
+    "321": {
+      "episode": "321",
+      "length": 2,
+      "airDate": "2026-02-27",
+      "title": {
+        "en": null,
+        "romaji": "Dorayaki Futon / Jikujiru",
+        "ja": "ドラ焼き布団 / 軸汁"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11627421,
+      "seasonNumber": 1,
+      "episodeNumber": 321,
+      "absoluteEpisodeNumber": 321,
+      "runtime": 2,
+      "image": null
+    },
+    "322": {
+      "episode": "322",
+      "length": 2,
+      "airDate": "2026-03-03",
+      "title": {
+        "en": null,
+        "romaji": "Ano Ko o Toubatsu 1",
+        "ja": "あのこを討伐①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11645208,
+      "seasonNumber": 1,
+      "episodeNumber": 322,
+      "absoluteEpisodeNumber": 322,
+      "runtime": 2,
+      "image": null
+    },
+    "323": {
+      "episode": "323",
+      "length": 2,
+      "airDate": "2026-03-06",
+      "title": {
+        "en": null,
+        "romaji": "Ano Ko o Toubatsu 2 / Tsuyoku Naru",
+        "ja": "あのこを討伐② / 強くなる"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11645209,
+      "seasonNumber": 1,
+      "episodeNumber": 323,
+      "absoluteEpisodeNumber": 323,
+      "runtime": 2,
+      "image": null
+    },
+    "324": {
+      "episode": "324",
+      "length": 2,
+      "airDate": "2026-03-10",
+      "title": {
+        "en": null,
+        "romaji": "Gekokujou to Tokkun 1",
+        "ja": "下克上と特訓①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11666329,
+      "seasonNumber": 1,
+      "episodeNumber": 324,
+      "absoluteEpisodeNumber": 324,
+      "runtime": 2,
+      "image": null
+    },
+    "325": {
+      "episode": "325",
+      "length": 2,
+      "airDate": "2026-03-13",
+      "title": {
+        "en": null,
+        "romaji": "Gekokujou to Tokkun 2",
+        "ja": "下克上と特訓②"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11666330,
+      "seasonNumber": 1,
+      "episodeNumber": 325,
+      "absoluteEpisodeNumber": 325,
+      "runtime": 2,
+      "image": null
+    },
+    "326": {
+      "episode": "326",
+      "length": 2,
+      "airDate": "2026-03-17",
+      "title": {
+        "en": null,
+        "romaji": "Gekokujou to Tokkun 3",
+        "ja": "下克上と特訓③"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11668999,
+      "seasonNumber": 1,
+      "episodeNumber": 326,
+      "absoluteEpisodeNumber": 326,
+      "runtime": 2,
+      "image": null
+    },
+    "327": {
+      "episode": "327",
+      "length": 2,
+      "airDate": "2026-03-20",
+      "title": {
+        "en": null,
+        "romaji": "Gekokujou to Tokkun 4",
+        "ja": "下克上と特訓④"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11687226,
+      "seasonNumber": 1,
+      "episodeNumber": 327,
+      "absoluteEpisodeNumber": 327,
+      "runtime": 2,
+      "image": null
+    },
+    "328": {
+      "episode": "328",
+      "length": 2,
+      "airDate": "2026-03-24",
+      "title": {
+        "en": null,
+        "romaji": "Gekokujou to Tokkun 5",
+        "ja": "下克上と特訓⑤"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11693563,
+      "seasonNumber": 1,
+      "episodeNumber": 328,
+      "absoluteEpisodeNumber": 328,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11693563/screencap/69c6463f349ef.jpg"
+    },
+    "329": {
+      "episode": "329",
+      "length": 2,
+      "airDate": "2026-03-27",
+      "title": {
+        "en": null,
+        "romaji": "Gekokujou to Tokkun 6",
+        "ja": "下克上と特訓⑥"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11700037,
+      "seasonNumber": 1,
+      "episodeNumber": 329,
+      "absoluteEpisodeNumber": 329,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11700037/screencap/69c64541662ba.jpg"
+    },
+    "330": {
+      "episode": "330",
+      "length": 2,
+      "airDate": "2026-03-31",
+      "title": {
+        "en": null,
+        "romaji": "Ano Koto de Katsu yo 1",
+        "ja": "あのことでかつよ①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11709436,
+      "seasonNumber": 1,
+      "episodeNumber": 330,
+      "absoluteEpisodeNumber": 330,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11709436/screencap/69cb85be8d316.jpg"
+    },
+    "331": {
+      "episode": "331",
+      "length": 2,
+      "airDate": "2026-04-03",
+      "title": {
+        "en": null,
+        "romaji": "Ano Koto de Katsu yo 2",
+        "ja": "あのことでかつよ②"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11715721,
+      "seasonNumber": 1,
+      "episodeNumber": 331,
+      "absoluteEpisodeNumber": 331,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11715721/screencap/69cf748555260.jpg"
+    },
+    "332": {
+      "episode": "332",
+      "length": 2,
+      "airDate": "2026-04-07",
+      "title": {
+        "en": null,
+        "romaji": "Buki / Cream",
+        "ja": "武器 / クリーム"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11723685,
+      "seasonNumber": 1,
+      "episodeNumber": 332,
+      "absoluteEpisodeNumber": 332,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11723685/screencap/69d4c6efb9dfc.jpg"
+    },
+    "333": {
+      "episode": "333",
+      "length": 2,
+      "airDate": "2026-04-10",
+      "title": {
+        "en": null,
+        "romaji": "Double Cream",
+        "ja": "ダブルクリーム"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11729645,
+      "seasonNumber": 1,
+      "episodeNumber": 333,
+      "absoluteEpisodeNumber": 333,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11729645/screencap/69d8ac8ba6769.jpg"
+    },
+    "334": {
+      "episode": "334",
+      "length": 2,
+      "airDate": "2026-04-14",
+      "title": {
+        "en": null,
+        "romaji": "Ocho Cola / Yaki Kabocha",
+        "ja": "おちょコーラ / 焼きカボチャ"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11742201,
+      "seasonNumber": 1,
+      "episodeNumber": 334,
+      "absoluteEpisodeNumber": 334,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11742201/screencap/69df96ae31c6b.jpg"
+    },
+    "335": {
+      "episode": "335",
+      "length": 2,
+      "airDate": "2026-04-17",
+      "title": {
+        "en": null,
+        "romaji": "Itte Miruka / Kanau kamo",
+        "ja": "行ってみるか / 叶うかも"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11745641,
+      "seasonNumber": 1,
+      "episodeNumber": 335,
+      "absoluteEpisodeNumber": 335,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11745641/screencap/69e2496d4f0b1.jpg"
+    },
+    "336": {
+      "episode": "336",
+      "length": 2,
+      "airDate": "2026-04-21",
+      "title": {
+        "en": null,
+        "romaji": "Sasowaretanda / Mimamoru",
+        "ja": "誘われたんだ / 見守る"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11754036,
+      "seasonNumber": 1,
+      "episodeNumber": 336,
+      "absoluteEpisodeNumber": 336,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11754036/screencap/69e88a497d592.jpg"
+    },
+    "337": {
+      "episode": "337",
+      "length": 2,
+      "airDate": "2026-04-24",
+      "title": {
+        "en": null,
+        "romaji": "Haeta / Chaahan",
+        "ja": "生えた / チャーハン"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11759651,
+      "seasonNumber": 1,
+      "episodeNumber": 337,
+      "absoluteEpisodeNumber": 337,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11759651/screencap/69ecc334e96a5.jpg"
+    },
+    "338": {
+      "episode": "338",
+      "length": 2,
+      "airDate": "2026-04-28",
+      "title": {
+        "en": null,
+        "romaji": "Furuhon`ya / Tama Konnyaku",
+        "ja": "古本屋 / 玉こんにゃく"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11765355,
+      "seasonNumber": 1,
+      "episodeNumber": 338,
+      "absoluteEpisodeNumber": 338,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11765355/screencap/69f06e6a852cd.jpg"
+    },
+    "339": {
+      "episode": "339",
+      "length": 2,
+      "airDate": "2026-05-01",
+      "title": {
+        "en": null,
+        "romaji": "Slump / Kimochi",
+        "ja": "スランプ / 気持ち"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11770020,
+      "seasonNumber": 1,
+      "episodeNumber": 339,
+      "absoluteEpisodeNumber": 339,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11770020/screencap/69f46ca626acd.jpg"
+    },
+    "340": {
+      "episode": "340",
+      "length": 2,
+      "airDate": "2026-05-05",
+      "title": {
+        "en": null,
+        "romaji": "Futatsu / Tomodachi ni Ageru",
+        "ja": "ふたつ / ともだちにあげる"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11778883,
+      "seasonNumber": 1,
+      "episodeNumber": 340,
+      "absoluteEpisodeNumber": 340,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11778883/screencap/69f99e0c8eeb1.jpg"
+    },
+    "341": {
+      "episode": "341",
+      "length": 2,
+      "airDate": "2026-05-08",
+      "title": {
+        "en": null,
+        "romaji": "Kani / Kani Aisatsu",
+        "ja": "カニ / カニあいさつ"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11783109,
+      "seasonNumber": 1,
+      "episodeNumber": 341,
+      "absoluteEpisodeNumber": 341,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11783109/screencap/69fd944fc6921.jpg"
+    },
+    "342": {
+      "episode": "342",
+      "length": 2,
+      "airDate": "2026-05-12",
+      "title": {
+        "en": null,
+        "romaji": "Ramen \"Yama\" / Kinchou",
+        "ja": "ラーメン「山」 / 緊張"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11792273,
+      "seasonNumber": 1,
+      "episodeNumber": 342,
+      "absoluteEpisodeNumber": 342,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11792273/screencap/6a046af9d38da.jpg"
+    },
+    "343": {
+      "episode": "343",
+      "length": 2,
+      "airDate": "2026-05-15",
+      "title": {
+        "en": null,
+        "romaji": "Sensei to Toubatsu 1",
+        "ja": "先生と討伐①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11797772,
+      "seasonNumber": 1,
+      "episodeNumber": 343,
+      "absoluteEpisodeNumber": 343,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11797772/screencap/6a09708a6a39f.jpg"
+    },
+    "344": {
+      "episode": "344",
+      "length": 2,
+      "airDate": "2026-05-19",
+      "title": {
+        "en": null,
+        "romaji": "Sensei to Toubatsu 2 / Corn Beef Donburi",
+        "ja": "先生と討伐② / コンビーフ丼"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11797773,
+      "seasonNumber": 1,
+      "episodeNumber": 344,
+      "absoluteEpisodeNumber": 344,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11797773/screencap/6a0c1d244cb91.jpg"
+    },
+    "345": {
+      "episode": "345",
+      "length": 2,
+      "airDate": "2026-05-22",
+      "title": {
+        "en": null,
+        "romaji": "Shiken no Yume",
+        "ja": "試験の夢"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11801168,
+      "seasonNumber": 1,
+      "episodeNumber": 345,
+      "absoluteEpisodeNumber": 345,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11801168/screencap/6a1445b96a98e.jpg"
+    },
+    "346": {
+      "episode": "346",
+      "length": 2,
+      "airDate": "2026-05-26",
+      "title": {
+        "en": null,
+        "romaji": "Zangiri Atama 1",
+        "ja": "散切り頭①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11801169,
+      "seasonNumber": 1,
+      "episodeNumber": 346,
+      "absoluteEpisodeNumber": 346,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11801169/screencap/6a16f63584c39.jpg"
+    },
+    "347": {
+      "episode": "347",
+      "length": 2,
+      "airDate": "2026-05-29",
+      "title": {
+        "en": null,
+        "romaji": "Zangiri Atama 2",
+        "ja": "散切り頭②"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11801170,
+      "seasonNumber": 1,
+      "episodeNumber": 347,
+      "absoluteEpisodeNumber": 347,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11801170/screencap/6a193fd6dbbbd.jpg"
+    },
+    "348": {
+      "episode": "348",
+      "length": 2,
+      "airDate": "2026-06-02",
+      "title": {
+        "en": null,
+        "romaji": "Yudoufu / Yamanobori",
+        "ja": "湯豆腐 / 山登り"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11801171,
+      "seasonNumber": 1,
+      "episodeNumber": 348,
+      "absoluteEpisodeNumber": 348,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11801171/screencap/6a1e766b5b4e3.jpg"
+    },
+    "349": {
+      "episode": "349",
+      "length": 2,
+      "airDate": "2026-06-05",
+      "title": {
+        "en": null,
+        "romaji": "Akumu 1",
+        "ja": "あくむ①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11828170,
+      "seasonNumber": 1,
+      "episodeNumber": 349,
+      "absoluteEpisodeNumber": 349,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11828170/screencap/6a227e99bc1cb.jpg"
+    },
+    "350": {
+      "episode": "350",
+      "length": 2,
+      "airDate": "2026-06-09",
+      "title": {
+        "en": null,
+        "romaji": "Akumu 2",
+        "ja": "あくむ②"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11836748,
+      "seasonNumber": 1,
+      "episodeNumber": 350,
+      "absoluteEpisodeNumber": 350,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11836748/screencap/6a2832bb364e3.jpg"
+    },
+    "351": {
+      "episode": "351",
+      "length": 2,
+      "airDate": "2026-06-12",
+      "title": {
+        "en": null,
+        "romaji": "Akumu 3",
+        "ja": "あくむ③"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11840952,
+      "seasonNumber": 1,
+      "episodeNumber": 351,
+      "absoluteEpisodeNumber": 351,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11840952/screencap/6a2ba8367326d.jpg"
+    },
+    "352": {
+      "episode": "352",
+      "length": 2,
+      "airDate": "2026-06-16",
+      "title": {
+        "en": null,
+        "romaji": "Akumu 4",
+        "ja": "あくむ④"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11842720,
+      "seasonNumber": 1,
+      "episodeNumber": 352,
+      "absoluteEpisodeNumber": 352,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11842720/screencap/6a311056164f5.jpg"
+    },
+    "353": {
+      "episode": "353",
+      "length": 2,
+      "airDate": "2026-06-19",
+      "title": {
+        "en": null,
+        "romaji": "Akumu 5",
+        "ja": "あくむ⑤"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11851594,
+      "seasonNumber": 1,
+      "episodeNumber": 353,
+      "absoluteEpisodeNumber": 353,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11851594/screencap/6a34938c545b0.jpg"
+    },
+    "354": {
+      "episode": "354",
+      "length": 2,
+      "airDate": "2026-06-23",
+      "title": {
+        "en": null,
+        "romaji": "Akumu 6",
+        "ja": "あくむ⑥"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11857502,
+      "seasonNumber": 1,
+      "episodeNumber": 354,
+      "absoluteEpisodeNumber": 354,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11857502/screencap/6a39feb256ba2.jpg"
+    },
+    "355": {
+      "episode": "355",
+      "length": 2,
+      "airDate": "2026-06-26",
+      "title": {
+        "en": null,
+        "romaji": "Akumu 7",
+        "ja": "あくむ⑦"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11861721,
+      "seasonNumber": 1,
+      "episodeNumber": 355,
+      "absoluteEpisodeNumber": 355,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11861721/screencap/6a3e01640201b.jpg"
+    },
+    "356": {
+      "episode": "356",
+      "length": 2,
+      "airDate": "2026-06-30",
+      "title": {
+        "en": null,
+        "romaji": "Akumu 8",
+        "ja": "あくむ⑧"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11865755,
+      "seasonNumber": 1,
+      "episodeNumber": 356,
+      "absoluteEpisodeNumber": 356,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11865755/screencap/6a434801a13c4.jpg"
+    },
+    "357": {
+      "episode": "357",
+      "length": 2,
+      "airDate": "2026-07-03",
+      "title": {
+        "en": null,
+        "romaji": "Akumu 9",
+        "ja": "あくむ⑨"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11870799,
+      "seasonNumber": 1,
+      "episodeNumber": 357,
+      "absoluteEpisodeNumber": 357,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870799/screencap/6a4763e9ef96c.jpg"
+    },
+    "358": {
+      "episode": "358",
+      "length": 2,
+      "airDate": "2026-07-07",
+      "title": {
+        "en": null,
+        "romaji": "Akumu 10",
+        "ja": "あくむ⑩"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11875392,
+      "seasonNumber": 1,
+      "episodeNumber": 358,
+      "absoluteEpisodeNumber": 358,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11875392/screencap/6a4fbee3594e7.jpg"
+    },
+    "359": {
+      "episode": "359",
+      "length": 2,
+      "airDate": "2026-07-10",
+      "title": {
+        "en": null,
+        "romaji": "Akumu 11",
+        "ja": "あくむ⑪"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11883700,
+      "seasonNumber": 1,
+      "episodeNumber": 359,
+      "absoluteEpisodeNumber": 359,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11883700/screencap/6a55aa13319e8.jpg"
+    },
+    "360": {
+      "episode": "360",
+      "length": 2,
+      "airDate": "2026-07-14",
+      "title": {
+        "en": null,
+        "romaji": "Tanuki Da mon",
+        "ja": "たぬきだもん"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11883701,
+      "seasonNumber": 1,
+      "episodeNumber": 360,
+      "absoluteEpisodeNumber": 360,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11883701/screencap/6a55aa25a163e.jpg"
+    },
+    "361": {
+      "episode": "361",
+      "length": 2,
+      "airDate": "2026-07-17",
+      "title": {
+        "en": null,
+        "romaji": "Inari Mochi / Reitou Udon",
+        "ja": "いなりもち / 冷凍うどん"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11891312,
+      "seasonNumber": 1,
+      "episodeNumber": 361,
+      "absoluteEpisodeNumber": 361,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891312/screencap/6a5e44f920138.jpg"
+    },
+    "362": {
+      "episode": "362",
+      "length": 2,
+      "airDate": "2026-07-21",
+      "title": {
+        "en": null,
+        "romaji": "Nikuzume / Minna no Nichijou",
+        "ja": "肉詰め / みんなの日常"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11892233,
+      "seasonNumber": 1,
+      "episodeNumber": 362,
+      "absoluteEpisodeNumber": 362,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11892233/screencap/6a5f382433de2.jpg"
+    },
+    "363": {
+      "episode": "363",
+      "length": 2,
+      "airDate": "2026-07-24",
+      "title": {
+        "en": null,
+        "romaji": "Uma Curry / Kakushiaji",
+        "ja": "うまカレー / 隠し味"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11895157,
+      "seasonNumber": 1,
+      "episodeNumber": 363,
+      "absoluteEpisodeNumber": 363,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11895157/screencap/6a62cbece6709.jpg"
+    },
+    "364": {
+      "episode": "364",
+      "length": 2,
+      "airDate": "2026-07-28",
+      "title": {
+        "en": null,
+        "romaji": "Ibasho / Iki Up",
+        "ja": "居場所 / いきアップ"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11900884,
+      "seasonNumber": 1,
+      "episodeNumber": 364,
+      "absoluteEpisodeNumber": 364,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11900884/screencap/6a685f303717e.jpg"
+    },
+    "365": {
+      "episode": "365",
+      "length": 2,
+      "airDate": "2026-07-31",
+      "title": {
+        "en": null,
+        "romaji": "Sensha / Pamphlet",
+        "ja": "洗車 / パンフレット"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11905536,
+      "seasonNumber": 1,
+      "episodeNumber": 365,
+      "absoluteEpisodeNumber": 365,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11905536/screencap/6a6c5e8c4c1f4.jpg"
+    },
+    "366": {
+      "episode": "366",
+      "length": 2,
+      "airDate": "2026-08-04",
+      "title": {
+        "en": null,
+        "romaji": "Kuruma Douga / Kyohi Suruka",
+        "ja": "車動画 / 拒否するか"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11914450,
+      "seasonNumber": 1,
+      "episodeNumber": 366,
+      "absoluteEpisodeNumber": 366,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11914450/screencap/6a75d3b799527.jpg"
+    },
+    "367": {
+      "episode": "367",
+      "length": 2,
+      "airDate": "2026-08-07",
+      "title": {
+        "en": null,
+        "romaji": "Hiyashi Udon / Fruits Punch",
+        "ja": "冷やしうどん / フルーツポンチ"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11914451,
+      "seasonNumber": 1,
+      "episodeNumber": 367,
+      "absoluteEpisodeNumber": 367,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11914451/screencap/6a75d4375eafd.jpg"
+    },
+    "368": {
+      "episode": "368",
+      "length": 2,
+      "airDate": "2026-08-11",
+      "title": {
+        "en": null,
+        "romaji": "Atarihazure / Itazura na Kokoro",
+        "ja": "当たりはずれ / いたずらなこころ"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11919173,
+      "seasonNumber": 1,
+      "episodeNumber": 368,
+      "absoluteEpisodeNumber": 368,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11919173/screencap/6a7aa2ed1a642.jpg"
+    },
+    "369": {
+      "episode": "369",
+      "length": 2,
+      "airDate": "2026-08-14",
+      "title": {
+        "en": null,
+        "romaji": "Otsukare Beer / Eiga",
+        "ja": "おつかれビール / 映画"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11920014,
+      "seasonNumber": 1,
+      "episodeNumber": 369,
+      "absoluteEpisodeNumber": 369,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11920014/screencap/6a83fcb991eb7.jpg"
+    },
+    "370": {
+      "episode": "370",
+      "length": 2,
+      "airDate": "2026-08-18",
+      "title": {
+        "en": null,
+        "romaji": "Nagare Suika 1",
+        "ja": "流れ・スイカ①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11920015,
+      "seasonNumber": 1,
+      "episodeNumber": 370,
+      "absoluteEpisodeNumber": 370,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11920015/screencap/6a83fd8f8571a.jpg"
+    },
+    "371": {
+      "episode": "371",
+      "length": 2,
+      "airDate": "2026-08-21",
+      "title": {
+        "en": null,
+        "romaji": "Nagare Suika 2",
+        "ja": "流れ・スイカ②"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11920016,
+      "seasonNumber": 1,
+      "episodeNumber": 371,
+      "absoluteEpisodeNumber": 371,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11920016/screencap/6a87fb5321f0b.jpg"
+    },
+    "372": {
+      "episode": "372",
+      "length": 2,
+      "airDate": "2026-08-25",
+      "title": {
+        "en": null,
+        "romaji": "Melon Tousen 1",
+        "ja": "メロン当選①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11920017,
+      "seasonNumber": 1,
+      "episodeNumber": 372,
+      "absoluteEpisodeNumber": 372,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11920017/screencap/6a8d5014ee565.jpg"
+    },
+    "373": {
+      "episode": "373",
+      "length": 2,
+      "airDate": "2026-08-28",
+      "title": {
+        "en": null,
+        "romaji": "Melon Tousen 2",
+        "ja": "メロン当選②"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11920018,
+      "seasonNumber": 1,
+      "episodeNumber": 373,
+      "absoluteEpisodeNumber": 373,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11920018/screencap/6a914380ddb29.jpg"
+    },
+    "374": {
+      "episode": "374",
+      "length": 2,
+      "airDate": "2026-09-01",
+      "title": {
+        "en": null,
+        "romaji": "Hiyake / Hoshiimo",
+        "ja": "日焼け / 干し芋"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11802578,
+      "seasonNumber": 1,
+      "episodeNumber": 374,
+      "absoluteEpisodeNumber": 374,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11802578/screencap/6a9683a3cc0ad.jpg"
+    },
+    "375": {
+      "episode": "375",
+      "length": 2,
+      "airDate": "2026-09-04",
+      "title": {
+        "en": null,
+        "romaji": "Parallel World 1",
+        "ja": "パラレルワールド①"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11802579,
+      "seasonNumber": 1,
+      "episodeNumber": 375,
+      "absoluteEpisodeNumber": 375,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11802579/screencap/6a9a6b7a54504.jpg"
+    },
+    "376": {
+      "episode": "376",
+      "length": 2,
+      "airDate": "2026-09-08",
+      "title": {
+        "en": null,
+        "romaji": "Parallel World 2",
+        "ja": "パラレルワールド②"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11802580,
+      "seasonNumber": 1,
+      "episodeNumber": 376,
+      "absoluteEpisodeNumber": 376,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11802580/screencap/6a9fdb3c82940.jpg"
+    },
+    "377": {
+      "episode": "377",
+      "length": 2,
+      "airDate": "2026-09-11",
+      "title": {
+        "en": null,
+        "romaji": "Parallel World 3",
+        "ja": "パラレルワールド③"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11802581,
+      "seasonNumber": 1,
+      "episodeNumber": 377,
+      "absoluteEpisodeNumber": 377,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11802581/screencap/6aa3b339933a0.jpg"
+    },
+    "378": {
+      "episode": "378",
+      "length": 2,
+      "airDate": "2026-09-15",
+      "title": {
+        "en": null,
+        "romaji": "Parallel World 4",
+        "ja": "パラレルワールド④"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11802582,
+      "seasonNumber": 1,
+      "episodeNumber": 378,
+      "absoluteEpisodeNumber": 378,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11802582/screencap/6aa8f8516a438.jpg"
+    },
+    "379": {
+      "episode": "379",
+      "length": 2,
+      "airDate": "2026-09-18",
+      "title": {
+        "en": null,
+        "romaji": "Parallel World 5",
+        "ja": "パラレルワールド⑤"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11802583,
+      "seasonNumber": 1,
+      "episodeNumber": 379,
+      "absoluteEpisodeNumber": 379,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11802583/screencap/6aad1ef765dc1.jpg"
+    },
+    "380": {
+      "episode": "380",
+      "length": 2,
+      "airDate": "2026-09-22",
+      "title": {
+        "en": null,
+        "romaji": "Parallel World 6",
+        "ja": "パラレルワールド⑥"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11802584,
+      "seasonNumber": 1,
+      "episodeNumber": 380,
+      "absoluteEpisodeNumber": 380,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11802584/screencap/6ab34cdd661ce.jpg"
+    },
+    "381": {
+      "episode": "381",
+      "length": 2,
+      "airDate": "2026-09-25",
+      "title": {
+        "en": null,
+        "romaji": "Parallel World 7",
+        "ja": "パラレルワールド⑦"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11802585,
+      "seasonNumber": 1,
+      "episodeNumber": 381,
+      "absoluteEpisodeNumber": 381,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11802585/screencap/6ab62a359798d.jpg"
+    },
+    "382": {
+      "episode": "382",
+      "length": 2,
+      "airDate": "2026-09-29",
+      "title": {
+        "en": null,
+        "romaji": "Parallel World 8 / Cracking",
+        "ja": "パラレルワールド⑧ / クラッキング"
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11802586,
+      "seasonNumber": 1,
+      "episodeNumber": 382,
+      "absoluteEpisodeNumber": 382,
+      "runtime": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11802586/screencap/6abfcb87547d4.jpg"
+    },
+    "383": {
+      "episode": "383",
+      "length": 2,
+      "airDate": "2027-01-05",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11802587,
+      "seasonNumber": 1,
+      "episodeNumber": 383,
+      "absoluteEpisodeNumber": 383,
+      "runtime": 2,
+      "image": null
+    },
+    "384": {
+      "episode": "384",
+      "length": 2,
+      "airDate": "2027-01-08",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 415509,
+      "tvdbId": 11802588,
+      "seasonNumber": 1,
+      "episodeNumber": 384,
+      "absoluteEpisodeNumber": 384,
+      "runtime": 2,
+      "image": null
+    },
+    "385": {
+      "episode": "385",
+      "length": 2,
+      "airDate": "",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 385,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "386": {
+      "episode": "386",
+      "length": 2,
+      "airDate": "",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 386,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "387": {
+      "episode": "387",
+      "length": 2,
+      "airDate": "",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 387,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "388": {
+      "episode": "388",
+      "length": 2,
+      "airDate": "",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 388,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T05:56:28.252Z",
+    "lastFetched": "2026-11-22T00:40:13.665Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

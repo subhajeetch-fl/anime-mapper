@@ -23,44 +23,55 @@
     "native": "コウペンちゃん",
     "synonyms": []
   },
-  "type": "TV_SHORT",
-  "source": null,
+  "type": "TV",
+  "source": "Original",
   "status": "Currently Airing",
-  "airing": false,
+  "airing": true,
   "episodeCount": null,
-  "episodeLength": 1,
+  "episodeLength": 2,
   "aired": {
-    "from": "2025-04-06",
+    "from": "2025-04-06T00:00:00+00:00",
     "to": null
   },
   "season": "spring",
   "year": 2025,
-  "broadcast": null,
-  "nextAiringEpisode": {
-    "episode": 75,
-    "airingAt": 1788649200
+  "broadcast": {
+    "day": "Sundays",
+    "time": "08:00",
+    "timezone": "Asia/Tokyo"
   },
-  "rating": "G",
+  "nextAiringEpisode": {
+    "episode": 86,
+    "airingAt": 1795906800
+  },
+  "rating": "G - All Ages",
   "score": {
-    "malScore": null,
-    "anilistScore": 6.9,
+    "malScore": 7.6,
+    "anilistScore": 7,
     "kitsuRating": null
   },
   "genres": [
-    "Slice of Life",
-    "Kids"
+    "Anthropomorphic",
+    "Iyashikei",
+    "Slice of Life"
   ],
   "studios": [
     "Lesprit"
   ],
-  "producers": [],
+  "producers": [
+    "Stay Luck"
+  ],
   "images": {
-    "poster": "https://media.kitsu.app/anime/49842/poster_image/021aaa833252e046aab79b8d4ed9054c.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1533/146981l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185646-69FyAu3rfhEC.jpg",
     "color": "#aed643"
   },
-  "trailer": null,
-  "synopsis": "Follows the everyday adventures of Koupen-chan and their friends as they enjoy the little things in life.\n\n(Source: Crunchyroll)",
+  "trailer": {
+    "youtubeId": "L4wurjkd0JM",
+    "url": "https://www.youtube.com/watch?v=L4wurjkd0JM",
+    "thumbnail": "https://i.ytimg.com/vi/L4wurjkd0JM/hqdefault.jpg"
+  },
+  "synopsis": "A baby emperor penguin, Koupen-chan, always makes sure everyone feels included. As it meets its newest friend, Koupen-chan wishes to spend as much time as possible with them and brighten up their day.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 38658,
@@ -92,10 +103,12 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-04-06",
       "title": {
-        "en": "Episode 1"
+        "en": null,
+        "romaji": "Boku wa Koupen-chan, Yoroshiku ne!",
+        "ja": "ぼくはコウペンちゃん, よろしくね!"
       },
       "tvdbShowId": 457929,
       "tvdbId": 10857020,
@@ -107,10 +120,12 @@
     },
     "2": {
       "episode": "2",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-04-13",
       "title": {
-        "en": "Episode 2"
+        "en": null,
+        "romaji": "Asa no Erai",
+        "ja": "朝のえらい"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11081649,
@@ -122,10 +137,12 @@
     },
     "3": {
       "episode": "3",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-04-20",
       "title": {
-        "en": "Episode 3"
+        "en": null,
+        "romaji": "Kouiu Ohanami mo",
+        "ja": "こういうお花見も"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11081650,
@@ -137,10 +154,12 @@
     },
     "4": {
       "episode": "4",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-04-27",
       "title": {
-        "en": "Episode 4"
+        "en": null,
+        "romaji": "Bakuhatsu",
+        "ja": "爆発"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11095232,
@@ -152,10 +171,12 @@
     },
     "5": {
       "episode": "5",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-05-04",
       "title": {
-        "en": "Episode 5"
+        "en": null,
+        "romaji": "GW",
+        "ja": "GW"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11105649,
@@ -167,10 +188,12 @@
     },
     "6": {
       "episode": "6",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-05-11",
       "title": {
-        "en": "Episode 6"
+        "en": null,
+        "romaji": "Tsuukin",
+        "ja": "通勤"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11122506,
@@ -182,10 +205,12 @@
     },
     "7": {
       "episode": "7",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-05-18",
       "title": {
-        "en": "Episode 7"
+        "en": null,
+        "romaji": "Otona no Penguin-san wa Sora o Tonde Mitai",
+        "ja": "大人のペンギンさんは空を飛んでみたい"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11149250,
@@ -197,10 +222,12 @@
     },
     "8": {
       "episode": "8",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-05-25",
       "title": {
-        "en": "Episode 8"
+        "en": null,
+        "romaji": "Sentaku",
+        "ja": "洗濯"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11160813,
@@ -212,10 +239,12 @@
     },
     "9": {
       "episode": "9",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-06-01",
       "title": {
-        "en": "Episode 9"
+        "en": null,
+        "romaji": "Koupen-chan to Yokoshima Enaga-san no Deai: Zenpen",
+        "ja": "コウペンちゃんと邪エナガさんの出会い -前編-"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11160875,
@@ -227,10 +256,12 @@
     },
     "10": {
       "episode": "10",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-06-08",
       "title": {
-        "en": "Episode 10"
+        "en": null,
+        "romaji": "Koupen-chan to Yokoshima Enaga-san no Deai: Kouhen",
+        "ja": "コウペンちゃんと邪エナガさんの出会い -後編-"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11143628,
@@ -242,10 +273,12 @@
     },
     "11": {
       "episode": "11",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-06-15",
       "title": {
-        "en": "Episode 11"
+        "en": null,
+        "romaji": "Mousugu Geshi",
+        "ja": "もうすぐ夏至"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11143629,
@@ -257,10 +290,12 @@
     },
     "12": {
       "episode": "12",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-06-22",
       "title": {
-        "en": "Episode 12"
+        "en": null,
+        "romaji": "Hamigaki",
+        "ja": "歯磨き"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11143630,
@@ -272,10 +307,12 @@
     },
     "13": {
       "episode": "13",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-06-29",
       "title": {
-        "en": "Episode 13"
+        "en": null,
+        "romaji": "Tsuyu no Melody",
+        "ja": "梅雨のメロディ"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11143631,
@@ -287,10 +324,12 @@
     },
     "14": {
       "episode": "14",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-07-06",
       "title": {
-        "en": "Episode 14"
+        "en": null,
+        "romaji": "Natsu no Nioi",
+        "ja": "夏の匂い"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11143632,
@@ -302,10 +341,12 @@
     },
     "15": {
       "episode": "15",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-07-13",
       "title": {
-        "en": "Episode 15"
+        "en": null,
+        "romaji": "Kossori Outa no Renshuu",
+        "ja": "こっそりお歌の練習"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11143633,
@@ -317,10 +358,12 @@
     },
     "16": {
       "episode": "16",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-07-20",
       "title": {
-        "en": "Episode 16"
+        "en": null,
+        "romaji": "Koupen-chan: On Stage",
+        "ja": "コウペンちゃん オンステージ"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11241752,
@@ -332,10 +375,12 @@
     },
     "17": {
       "episode": "17",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-07-27",
       "title": {
-        "en": "Episode 17"
+        "en": null,
+        "romaji": "Kimi to Koupen-chan no Natsuyasumi: Zenpen",
+        "ja": "君とコウペンちゃんの夏休み -前編-"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11253608,
@@ -347,10 +392,12 @@
     },
     "18": {
       "episode": "18",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-08-03",
       "title": {
-        "en": "Episode 18"
+        "en": null,
+        "romaji": "Kimi to Koupen-chan no Natsuyasumi: Kouhen",
+        "ja": "君とコウペンちゃんの夏休み -後編-"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11253609,
@@ -362,10 +409,12 @@
     },
     "19": {
       "episode": "19",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-08-10",
       "title": {
-        "en": "Episode 19"
+        "en": null,
+        "romaji": "Suzushiku Shite Erai",
+        "ja": "涼しくしてえらい"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11270600,
@@ -377,10 +426,12 @@
     },
     "20": {
       "episode": "20",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-08-17",
       "title": {
-        "en": "Episode 20"
+        "en": null,
+        "romaji": "Kirakira no Umi to: Mizuiro no Otomodachi - Zenpen",
+        "ja": "キラキラのうみと みずいろのおともだち -前編-"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11285594,
@@ -392,10 +443,12 @@
     },
     "21": {
       "episode": "21",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-08-24",
       "title": {
-        "en": "Episode 21"
+        "en": null,
+        "romaji": "Kirakira no Umi to: Mizuiro no Otomodachi - Kouhen",
+        "ja": "キラキラのうみと みずいろのおともだち -後編-"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11285595,
@@ -407,10 +460,12 @@
     },
     "22": {
       "episode": "22",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-08-31",
       "title": {
-        "en": "Episode 22"
+        "en": null,
+        "romaji": "Natsuyasumi no Owari",
+        "ja": "夏休みの終わり"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11302074,
@@ -422,10 +477,12 @@
     },
     "23": {
       "episode": "23",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-09-07",
       "title": {
-        "en": "Episode 23"
+        "en": null,
+        "romaji": "Adelie-san to Yasai Shuukaku",
+        "ja": "アデリーさんと野菜収穫"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11325360,
@@ -437,10 +494,12 @@
     },
     "24": {
       "episode": "24",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-09-14",
       "title": {
-        "en": "Episode 24"
+        "en": null,
+        "romaji": "Ofuro Haitte Erai",
+        "ja": "お風呂入ってえらい"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11325361,
@@ -452,10 +511,12 @@
     },
     "25": {
       "episode": "25",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-09-21",
       "title": {
-        "en": "Episode 25"
+        "en": null,
+        "romaji": "Natsuyasai Curry Kue",
+        "ja": "夏野菜カレー食え"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11335766,
@@ -467,10 +528,12 @@
     },
     "26": {
       "episode": "26",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-09-28",
       "title": {
-        "en": "Episode 26"
+        "en": null,
+        "romaji": "Suibun Totte Erai",
+        "ja": "水分とってえらい"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11353725,
@@ -482,10 +545,12 @@
     },
     "27": {
       "episode": "27",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-10-05",
       "title": {
-        "en": "Episode 27"
+        "en": null,
+        "romaji": "Otona no Penguin-san no Hontou no Namae",
+        "ja": "大人のペンギンさんの本当の名前"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11367078,
@@ -497,10 +562,12 @@
     },
     "28": {
       "episode": "28",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-10-12",
       "title": {
-        "en": "Episode 28"
+        "en": null,
+        "romaji": "Ore to Watashi",
+        "ja": "オレとわたし"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11381461,
@@ -512,10 +579,12 @@
     },
     "29": {
       "episode": "29",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-10-19",
       "title": {
-        "en": "Episode 29"
+        "en": null,
+        "romaji": "Aki no Osanpo",
+        "ja": "秋のお散歩"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11392219,
@@ -527,10 +596,12 @@
     },
     "30": {
       "episode": "30",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-10-26",
       "title": {
-        "en": "Episode 30"
+        "en": null,
+        "romaji": "Halloween",
+        "ja": "ハロウィン"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11392220,
@@ -542,10 +613,12 @@
     },
     "31": {
       "episode": "31",
-      "length": "1m",
+      "length": 1,
       "airDate": "2025-11-02",
       "title": {
-        "en": "Episode 31"
+        "en": null,
+        "romaji": "Shirokuma-san no Himitsu no Pokke",
+        "ja": "シロクマさんのヒミツのポッケ"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11434168,
@@ -557,10 +630,12 @@
     },
     "32": {
       "episode": "32",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-11-09",
       "title": {
-        "en": "Episode 32"
+        "en": null,
+        "romaji": "Higaeri Onsen",
+        "ja": "日帰り温泉"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11434169,
@@ -572,10 +647,12 @@
     },
     "33": {
       "episode": "33",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-11-16",
       "title": {
-        "en": "Episode 33"
+        "en": null,
+        "romaji": "Fuyu no Tabemono, Kimi to Issho ni Tabete Shiawase",
+        "ja": "冬の食べ物, 君と一緒に食べて幸せ"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11468454,
@@ -587,10 +664,12 @@
     },
     "34": {
       "episode": "34",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-11-23",
       "title": {
-        "en": "Episode 34"
+        "en": null,
+        "romaji": "Yokoshima Enaga-san to Koupen-chan",
+        "ja": "邪エナガさんとコウペンちゃん"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11468455,
@@ -602,10 +681,12 @@
     },
     "35": {
       "episode": "35",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-11-30",
       "title": {
-        "en": "Episode 35"
+        "en": null,
+        "romaji": "Okirarete Erai",
+        "ja": "起きられてえらい"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11468456,
@@ -617,10 +698,12 @@
     },
     "36": {
       "episode": "36",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-12-07",
       "title": {
-        "en": "Episode 36"
+        "en": null,
+        "romaji": "Hatsuyuki",
+        "ja": "初雪"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11468457,
@@ -632,10 +715,12 @@
     },
     "37": {
       "episode": "37",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-12-14",
       "title": {
-        "en": "Episode 37"
+        "en": null,
+        "romaji": "Kimi e no Nengajou",
+        "ja": "きみへの年賀状"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11500494,
@@ -647,10 +732,12 @@
     },
     "38": {
       "episode": "38",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-12-21",
       "title": {
-        "en": "Episode 38"
+        "en": null,
+        "romaji": "Christmas",
+        "ja": "クリスマス"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11507566,
@@ -662,10 +749,12 @@
     },
     "39": {
       "episode": "39",
-      "length": "2m",
+      "length": 2,
       "airDate": "2025-12-28",
       "title": {
-        "en": "Episode 39"
+        "en": null,
+        "romaji": "Kimi to Koupen-chan no Nenmatsu Nenshi",
+        "ja": "きみとコウペンちゃんの年末年始"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11507567,
@@ -677,10 +766,12 @@
     },
     "40": {
       "episode": "40",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-01-04",
       "title": {
-        "en": "Episode 40"
+        "en": null,
+        "romaji": "Akemashite Omedetou! Shinshun Engei!",
+        "ja": "あけましておめでとう! 新春演芸!"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11507568,
@@ -692,10 +783,12 @@
     },
     "41": {
       "episode": "41",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-01-11",
       "title": {
-        "en": "Episode 41"
+        "en": null,
+        "romaji": "Kaze Yobou",
+        "ja": "風邪予防"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11553519,
@@ -707,10 +800,12 @@
     },
     "42": {
       "episode": "42",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-01-18",
       "title": {
-        "en": "Episode 42"
+        "en": null,
+        "romaji": "Okeshou",
+        "ja": "お化粧"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11553520,
@@ -722,10 +817,12 @@
     },
     "43": {
       "episode": "43",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-01-25",
       "title": {
-        "en": "Episode 43"
+        "en": null,
+        "romaji": "Kimi to Koupen-chan no Fuyu Ryokou",
+        "ja": "きみとコウペンちゃんの冬旅行"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11580497,
@@ -737,10 +834,12 @@
     },
     "44": {
       "episode": "44",
-      "length": "3m",
+      "length": 3,
       "airDate": "2026-02-01",
       "title": {
-        "en": "Episode 44"
+        "en": null,
+        "romaji": "Futon no Naka kara Detakunai",
+        "ja": "布団の中から出たくない"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11580498,
@@ -752,10 +851,12 @@
     },
     "45": {
       "episode": "45",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-02-08",
       "title": {
-        "en": "Episode 45"
+        "en": null,
+        "romaji": "Hanamaru 100 Ten",
+        "ja": "はなまる100点"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11610363,
@@ -767,10 +868,12 @@
     },
     "46": {
       "episode": "46",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-02-15",
       "title": {
-        "en": "Episode 46"
+        "en": null,
+        "romaji": "Fuyu ga Owattara Sabishiku Naru kara",
+        "ja": "冬が終わったら寂しくなるから"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11634238,
@@ -782,10 +885,12 @@
     },
     "47": {
       "episode": "47",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-02-22",
       "title": {
-        "en": "Episode 47"
+        "en": null,
+        "romaji": "Tsuukin Tsuugaku",
+        "ja": "通勤通学"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11634239,
@@ -797,10 +902,12 @@
     },
     "48": {
       "episode": "48",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-03-01",
       "title": {
-        "en": "Episode 48"
+        "en": null,
+        "romaji": "Nadenade",
+        "ja": "なでなで"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11649939,
@@ -812,10 +919,12 @@
     },
     "49": {
       "episode": "49",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-03-08",
       "title": {
-        "en": "Episode 49"
+        "en": null,
+        "romaji": "Kafun",
+        "ja": "花粉"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11672479,
@@ -827,10 +936,12 @@
     },
     "50": {
       "episode": "50",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-03-15",
       "title": {
-        "en": "Episode 50"
+        "en": null,
+        "romaji": "Moyamoya",
+        "ja": "モヤモヤ"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11685291,
@@ -842,10 +953,12 @@
     },
     "51": {
       "episode": "51",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-03-22",
       "title": {
-        "en": "Episode 51"
+        "en": null,
+        "romaji": "Yokoshima Enaga-san to Tsuri",
+        "ja": "邪エナガさんと釣り"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11685292,
@@ -857,10 +970,12 @@
     },
     "52": {
       "episode": "52",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-03-29",
       "title": {
-        "en": "Episode 52"
+        "en": null,
+        "romaji": "Shin Nendo",
+        "ja": "しんねんど"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11705658,
@@ -872,10 +987,12 @@
     },
     "53": {
       "episode": "53",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-04-05",
       "title": {
-        "en": "Episode 53"
+        "en": null,
+        "romaji": "Hanamaru Youchien",
+        "ja": "はなまる幼稚園"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11719742,
@@ -887,10 +1004,12 @@
     },
     "54": {
       "episode": "54",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-04-12",
       "title": {
-        "en": "Episode 54"
+        "en": null,
+        "romaji": "Aoi Ohana-chan",
+        "ja": "青いお花ちゃん"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11734064,
@@ -902,10 +1021,12 @@
     },
     "55": {
       "episode": "55",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-04-19",
       "title": {
-        "en": "Episode 55"
+        "en": null,
+        "romaji": "Kutsushita Doko?",
+        "ja": "靴下どこ?"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11747858,
@@ -917,10 +1038,12 @@
     },
     "56": {
       "episode": "56",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-04-26",
       "title": {
-        "en": "Episode 56"
+        "en": null,
+        "romaji": "Taue",
+        "ja": "田植え"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11762000,
@@ -932,10 +1055,12 @@
     },
     "57": {
       "episode": "57",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-05-03",
       "title": {
-        "en": "Episode 57"
+        "en": null,
+        "romaji": "Kotatsu",
+        "ja": "こたつ"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11774912,
@@ -947,10 +1072,12 @@
     },
     "58": {
       "episode": "58",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-05-10",
       "title": {
-        "en": "Episode 58"
+        "en": null,
+        "romaji": "Yukkuri Shite mo Iinda you",
+        "ja": "ゆっくりしてもいいんだよー"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11786448,
@@ -962,10 +1089,12 @@
     },
     "59": {
       "episode": "59",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-05-17",
       "title": {
-        "en": "Episode 59"
+        "en": null,
+        "romaji": "Hanamaru Grand Prix!",
+        "ja": "はなまるグランプリ!"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11800893,
@@ -977,10 +1106,12 @@
     },
     "60": {
       "episode": "60",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-05-24",
       "title": {
-        "en": "Episode 60"
+        "en": null,
+        "romaji": "Hiking",
+        "ja": "ハイキング"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11810515,
@@ -992,10 +1123,12 @@
     },
     "61": {
       "episode": "61",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-05-31",
       "title": {
-        "en": "Episode 61"
+        "en": null,
+        "romaji": "Asa no Chou Nankan Quest",
+        "ja": "朝の超難関クエスト"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11834666,
@@ -1007,10 +1140,12 @@
     },
     "62": {
       "episode": "62",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-06-07",
       "title": {
-        "en": "Episode 62"
+        "en": null,
+        "romaji": "Umeboshi",
+        "ja": "梅干し"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11834667,
@@ -1022,10 +1157,12 @@
     },
     "63": {
       "episode": "63",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-06-14",
       "title": {
-        "en": "Episode 63"
+        "en": null,
+        "romaji": "Yuusha Koupen-chan: Tabidachi",
+        "ja": "勇者コウペンちゃん ~旅立ち~"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11848624,
@@ -1037,145 +1174,431 @@
     },
     "64": {
       "episode": "64",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-06-21",
       "title": {
-        "en": "Episode 64"
+        "en": null,
+        "romaji": "Yuusha Koupen-chan: Bouken",
+        "ja": "勇者コウペンちゃん ~冒険~"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11856143,
       "seasonNumber": 1,
       "episodeNumber": 64,
-      "absoluteEpisodeNumber": 0,
+      "absoluteEpisodeNumber": 64,
       "runtime": 2,
       "image": null
     },
     "65": {
       "episode": "65",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-06-28",
       "title": {
-        "en": "Episode 65"
+        "en": null,
+        "romaji": "Yuusha Koupen-chan: Iza, Maou-jou",
+        "ja": "勇者コウペンちゃん ~いざ, 魔王城~"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11856144,
       "seasonNumber": 1,
       "episodeNumber": 65,
-      "absoluteEpisodeNumber": 0,
+      "absoluteEpisodeNumber": 65,
       "runtime": 2,
       "image": null
     },
     "66": {
       "episode": "66",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-07-05",
       "title": {
-        "en": "Episode 66"
+        "en": null,
+        "romaji": "Tanbo o Mi ni Ikou",
+        "ja": "田んぼを見にいこー"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11856145,
       "seasonNumber": 1,
       "episodeNumber": 66,
-      "absoluteEpisodeNumber": 0,
+      "absoluteEpisodeNumber": 66,
       "runtime": 2,
       "image": null
     },
     "67": {
       "episode": "67",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-07-12",
       "title": {
-        "en": "Episode 67"
+        "en": null,
+        "romaji": "Yume no Ano Ko",
+        "ja": "夢のあの子"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11856146,
       "seasonNumber": 1,
       "episodeNumber": 67,
-      "absoluteEpisodeNumber": 0,
-      "runtime": null,
+      "absoluteEpisodeNumber": 67,
+      "runtime": 2,
       "image": null
     },
     "68": {
       "episode": "68",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-07-19",
       "title": {
-        "en": "Episode 68"
+        "en": null,
+        "romaji": "Natsu no Densha ni Notte",
+        "ja": "夏の電車に乗って"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11856147,
       "seasonNumber": 1,
       "episodeNumber": 68,
-      "absoluteEpisodeNumber": 0,
-      "runtime": null,
+      "absoluteEpisodeNumber": 68,
+      "runtime": 2,
       "image": null
     },
     "69": {
       "episode": "69",
-      "length": "2m",
+      "length": 4,
       "airDate": "2026-07-26",
       "title": {
-        "en": "Episode 69"
+        "en": null,
+        "romaji": "Atsui",
+        "ja": "あつい"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11856148,
       "seasonNumber": 1,
       "episodeNumber": 69,
-      "absoluteEpisodeNumber": 0,
-      "runtime": null,
+      "absoluteEpisodeNumber": 69,
+      "runtime": 3,
       "image": null
     },
     "70": {
       "episode": "70",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-08-02",
       "title": {
-        "en": "Episode 70"
+        "en": null,
+        "romaji": "Era Mori!",
+        "ja": "えら盛!"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11856149,
       "seasonNumber": 1,
       "episodeNumber": 70,
-      "absoluteEpisodeNumber": 0,
-      "runtime": null,
+      "absoluteEpisodeNumber": 70,
+      "runtime": 2,
       "image": null
     },
     "71": {
       "episode": "71",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-08-09",
       "title": {
-        "en": "Episode 71"
+        "en": null,
+        "romaji": "Hanamaru Taisou",
+        "ja": "はなまる体操"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11856150,
       "seasonNumber": 1,
       "episodeNumber": 71,
-      "absoluteEpisodeNumber": 0,
-      "runtime": null,
+      "absoluteEpisodeNumber": 71,
+      "runtime": 2,
       "image": null
     },
     "72": {
       "episode": "72",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-08-16",
       "title": {
-        "en": "Episode 72"
+        "en": null,
+        "romaji": "Umeboshi Biyori",
+        "ja": "梅干し日和"
       },
       "tvdbShowId": 457929,
       "tvdbId": 11856151,
       "seasonNumber": 1,
       "episodeNumber": 72,
-      "absoluteEpisodeNumber": 0,
+      "absoluteEpisodeNumber": 72,
+      "runtime": 2,
+      "image": null
+    },
+    "73": {
+      "episode": "73",
+      "length": 2,
+      "airDate": "2026-08-23",
+      "title": {
+        "en": null,
+        "romaji": "Natsu Fes to Mizuiro no Otomodachi",
+        "ja": "夏フェスとみずいろのおともだち"
+      },
+      "tvdbShowId": 457929,
+      "tvdbId": 11856152,
+      "seasonNumber": 1,
+      "episodeNumber": 73,
+      "absoluteEpisodeNumber": 73,
+      "runtime": 2,
+      "image": null
+    },
+    "74": {
+      "episode": "74",
+      "length": 2,
+      "airDate": "2026-08-30",
+      "title": {
+        "en": null,
+        "romaji": "Oisha-san",
+        "ja": "お医者さん"
+      },
+      "tvdbShowId": 457929,
+      "tvdbId": 11856153,
+      "seasonNumber": 1,
+      "episodeNumber": 74,
+      "absoluteEpisodeNumber": 74,
+      "runtime": 2,
+      "image": null
+    },
+    "75": {
+      "episode": "75",
+      "length": 2,
+      "airDate": "2026-09-06",
+      "title": {
+        "en": null,
+        "romaji": "Kyou wa Inekari!",
+        "ja": "今日は稲刈り!"
+      },
+      "tvdbShowId": 457929,
+      "tvdbId": 11856154,
+      "seasonNumber": 1,
+      "episodeNumber": 75,
+      "absoluteEpisodeNumber": 75,
+      "runtime": 2,
+      "image": null
+    },
+    "76": {
+      "episode": "76",
+      "length": 2,
+      "airDate": "2026-09-13",
+      "title": {
+        "en": null,
+        "romaji": "Baku Home",
+        "ja": "爆褒め"
+      },
+      "tvdbShowId": 457929,
+      "tvdbId": 11856155,
+      "seasonNumber": 1,
+      "episodeNumber": 76,
+      "absoluteEpisodeNumber": 76,
+      "runtime": 2,
+      "image": null
+    },
+    "77": {
+      "episode": "77",
+      "length": 2,
+      "airDate": "2026-09-20",
+      "title": {
+        "en": null,
+        "romaji": "Kinmokusei ga Isogashikute",
+        "ja": "金木犀が忙しくて"
+      },
+      "tvdbShowId": 457929,
+      "tvdbId": 11856156,
+      "seasonNumber": 1,
+      "episodeNumber": 77,
+      "absoluteEpisodeNumber": 77,
+      "runtime": 2,
+      "image": null
+    },
+    "78": {
+      "episode": "78",
+      "length": 2,
+      "airDate": "2026-09-27",
+      "title": {
+        "en": null,
+        "romaji": "Hanamaru Shounin Bu",
+        "ja": "はなまる承認部"
+      },
+      "tvdbShowId": 457929,
+      "tvdbId": 11964994,
+      "seasonNumber": 1,
+      "episodeNumber": 78,
+      "absoluteEpisodeNumber": 78,
+      "runtime": 2,
+      "image": null
+    },
+    "79": {
+      "episode": "79",
+      "length": 2,
+      "airDate": "2026-10-04",
+      "title": {
+        "en": null,
+        "romaji": "Fukkura Mochimochi",
+        "ja": "ふっくらもちもち"
+      },
+      "tvdbShowId": 457929,
+      "tvdbId": 11964995,
+      "seasonNumber": 1,
+      "episodeNumber": 79,
+      "absoluteEpisodeNumber": 79,
+      "runtime": 2,
+      "image": null
+    },
+    "80": {
+      "episode": "80",
+      "length": 2,
+      "airDate": "2026-10-11",
+      "title": {
+        "en": null,
+        "romaji": "Hanamaru Morning Radio",
+        "ja": "はなまるモーニングラジオ"
+      },
+      "tvdbShowId": 457929,
+      "tvdbId": 11964996,
+      "seasonNumber": 1,
+      "episodeNumber": 80,
+      "absoluteEpisodeNumber": 80,
+      "runtime": 2,
+      "image": null
+    },
+    "81": {
+      "episode": "81",
+      "length": 2,
+      "airDate": "2026-10-18",
+      "title": {
+        "en": null,
+        "romaji": "UFO Shuurai!",
+        "ja": "UFO襲来!"
+      },
+      "tvdbShowId": 457929,
+      "tvdbId": 11964997,
+      "seasonNumber": 1,
+      "episodeNumber": 81,
+      "absoluteEpisodeNumber": null,
+      "runtime": 2,
+      "image": null
+    },
+    "82": {
+      "episode": "82",
+      "length": 2,
+      "airDate": "2026-10-25",
+      "title": {
+        "en": null,
+        "romaji": "Kabocha no Mamono",
+        "ja": "かぼちゃの魔物"
+      },
+      "tvdbShowId": 457929,
+      "tvdbId": 11964998,
+      "seasonNumber": 1,
+      "episodeNumber": 82,
+      "absoluteEpisodeNumber": null,
+      "runtime": 2,
+      "image": null
+    },
+    "83": {
+      "episode": "83",
+      "length": 2,
+      "airDate": "2026-11-08",
+      "title": {
+        "en": null,
+        "romaji": "Adelie-san to Oishii Sanma",
+        "ja": "アデリーさんと美味しい秋刀魚"
+      },
+      "tvdbShowId": 457929,
+      "tvdbId": 12024112,
+      "seasonNumber": 1,
+      "episodeNumber": 83,
+      "absoluteEpisodeNumber": null,
+      "runtime": 2,
+      "image": null
+    },
+    "84": {
+      "episode": "84",
+      "length": 2,
+      "airDate": "2026-11-15",
+      "title": {
+        "en": null,
+        "romaji": "Take kara Umareta naa",
+        "ja": "竹から生まれたなぁ"
+      },
+      "tvdbShowId": 457929,
+      "tvdbId": 12024113,
+      "seasonNumber": 1,
+      "episodeNumber": 84,
+      "absoluteEpisodeNumber": null,
+      "runtime": 2,
+      "image": null
+    },
+    "85": {
+      "episode": "85",
+      "length": 2,
+      "airDate": "2026-11-22",
+      "title": {
+        "en": null,
+        "romaji": "Ichou no Juutan",
+        "ja": "いちょうの絨毯"
+      },
+      "tvdbShowId": 457929,
+      "tvdbId": 12024114,
+      "seasonNumber": 1,
+      "episodeNumber": 85,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "86": {
+      "episode": "86",
+      "length": 2,
+      "airDate": "2026-11-29",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 457929,
+      "tvdbId": 12024115,
+      "seasonNumber": 1,
+      "episodeNumber": 86,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "87": {
+      "episode": "87",
+      "length": 2,
+      "airDate": "2026-12-06",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 457929,
+      "tvdbId": 12024116,
+      "seasonNumber": 1,
+      "episodeNumber": 87,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "88": {
+      "episode": "88",
+      "length": 2,
+      "airDate": "2026-12-13",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 88,
+      "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null
     },
     "S1": {
       "episode": "S1",
-      "length": "15m",
+      "length": 15,
       "airDate": "2026-01-04",
       "title": {
-        "en": "Episode S1"
+        "en": "Episode S1",
+        "romaji": "Shinshun Sepcial: Kanzenban",
+        "ja": "新春スペシャル 完全版"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1187,25 +1610,29 @@
     },
     "S2": {
       "episode": "S2",
-      "length": "4m",
+      "length": 4,
       "airDate": "2025-07-20",
       "title": {
-        "en": "\"The Song of Always Being With You\" Music Video"
+        "en": "\"The Song of Always Being With You\" Music Video",
+        "romaji": "\"Itsumo Kimi to Issho no Uta\" Music Video",
+        "ja": "「いつも君といっしょのうた」ミュージックビデオ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
+      "tvdbShowId": 457929,
+      "tvdbId": 11691911,
+      "seasonNumber": 0,
+      "episodeNumber": 1,
       "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "runtime": 4,
       "image": null
     },
     "S3": {
       "episode": "S3",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-05-29",
       "title": {
-        "en": "Hanamaru Morning Radio 1: From Tada-san"
+        "en": "Hanamaru Morning Radio 1: From Tada-san",
+        "romaji": "Hanamaru Morning Radio Dai 1 Kai: Tada-san kara",
+        "ja": "はなまるモーニングラジオ 第1回 たださん から"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1217,10 +1644,12 @@
     },
     "S4": {
       "episode": "S4",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-06-01",
       "title": {
-        "en": "Hanamaru Morning Radio 2: From Please Praise Me Every Day-san"
+        "en": "Hanamaru Morning Radio 2: From Please Praise Me Every Day-san",
+        "romaji": "Hanamaru Morning Radio Dai 2 Kai: Mainichi Homete Hoshii-san kara",
+        "ja": "はなまるモーニングラジオ 第2回 毎日褒めてほしいさんから"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1232,10 +1661,12 @@
     },
     "S5": {
       "episode": "S5",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-06-05",
       "title": {
-        "en": "Hanamaru Morning Radio 3: From Hanamaru Illustrator-san"
+        "en": "Hanamaru Morning Radio 3: From Hanamaru Illustrator-san",
+        "romaji": "Hanamaru Morning Radio Dai 3 Kai: Hanamaru Eshi-san kara",
+        "ja": "はなまるモーニングラジオ 第3回 はなまる絵師さんから"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1247,10 +1678,12 @@
     },
     "S6": {
       "episode": "S6",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-06-08",
       "title": {
-        "en": "Hanamaru Morning Radio 4: From Runrun-san"
+        "en": "Hanamaru Morning Radio 4: From Runrun-san",
+        "romaji": "Hanamaru Morning Radio Dai 4 Kai: Runrun-san kara",
+        "ja": "はなまるモーニングラジオ 第4回 るんるんさんから"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1262,10 +1695,12 @@
     },
     "S7": {
       "episode": "S7",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-06-12",
       "title": {
-        "en": "Hanamaru Morning Radio 5: From Sleepy-san"
+        "en": "Hanamaru Morning Radio 5: From Sleepy-san",
+        "romaji": "Hanamaru Morning Radio Dai 5 Kai: Nemui-san kara",
+        "ja": "はなまるモーニングラジオ 第5回 ねむいさんから"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1277,10 +1712,12 @@
     },
     "S8": {
       "episode": "S8",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-06-15",
       "title": {
-        "en": "Hanamaru Morning Radio 6: From Ruki-san"
+        "en": "Hanamaru Morning Radio 6: From Ruki-san",
+        "romaji": "Hanamaru Morning Radio Dai 6 Kai: Ruki-san kara",
+        "ja": "はなまるモーニングラジオ 第6回 ルキさんから"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1292,10 +1729,12 @@
     },
     "S9": {
       "episode": "S9",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-06-19",
       "title": {
-        "en": "Hanamaru Morning Radio 7"
+        "en": "Hanamaru Morning Radio 7",
+        "romaji": "Hanamaru Morning Radio Dai 7 Kai: Usausa-san kara",
+        "ja": "はなまるモーニングラジオ 第7回 うさうささんから"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1307,10 +1746,12 @@
     },
     "S10": {
       "episode": "S10",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-06-22",
       "title": {
-        "en": "Hanamaru Morning Radio 8: From Takemoto-san"
+        "en": "Hanamaru Morning Radio 8: From Takemoto-san",
+        "romaji": "Hanamaru Morning Radio Dai 8 Kai: Takemoto-san kara",
+        "ja": "はなまるモーニングラジオ 第8回 タケモトさんから"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1322,10 +1763,12 @@
     },
     "S11": {
       "episode": "S11",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-06-26",
       "title": {
-        "en": "Hanamaru Morning Radio 9: From Hacchi-san"
+        "en": "Hanamaru Morning Radio 9: From Hacchi-san",
+        "romaji": "Hanamaru Morning Radio Dai 9 Kai: Hacchi-san kara",
+        "ja": "はなまるモーニングラジオ 第9回 はっちさんから"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1337,10 +1780,12 @@
     },
     "S12": {
       "episode": "S12",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-06-29",
       "title": {
-        "en": "Hanamaru Morning Radio 10: From Kirin-chan-san"
+        "en": "Hanamaru Morning Radio 10: From Kirin-chan-san",
+        "romaji": "Hanamaru Morning Radio Dai 10 Kai: Kirin-chan-san kara",
+        "ja": "はなまるモーニングラジオ 第10回 きりんちゃんさんから"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1352,10 +1797,12 @@
     },
     "S13": {
       "episode": "S13",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-07-03",
       "title": {
-        "en": "Hanamaru Morning Radio 11"
+        "en": "Hanamaru Morning Radio 11",
+        "romaji": "Hanamaru Morning Radio Dai 11 Kai: Punii Mattarii-san kara",
+        "ja": "はなまるモーニングラジオ 第11回 ぷにーまったりーさんから"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1367,10 +1814,12 @@
     },
     "S14": {
       "episode": "S14",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-07-06",
       "title": {
-        "en": "Hanamaru Morning Radio 12: From Natsumi KP-san"
+        "en": "Hanamaru Morning Radio 12: From Natsumi KP-san",
+        "romaji": "Hanamaru Morning Radio Dai 12 Kai: Natsumi KP-san kara",
+        "ja": "はなまるモーニングラジオ 第12回 なつみKPさんから"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1382,10 +1831,318 @@
     },
     "S15": {
       "episode": "S15",
-      "length": "2m",
+      "length": 2,
       "airDate": "2026-07-10",
       "title": {
-        "en": "Hanamaru Morning Radio 13: From Hassaku-san"
+        "en": "Hanamaru Morning Radio 13: From Hassaku-san",
+        "romaji": "Hanamaru Morning Radio Dai 13 Kai: Hassaku-san kara",
+        "ja": "はなまるモーニングラジオ 第13回 はっさくさんから"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S16": {
+      "episode": "S16",
+      "length": 2,
+      "airDate": "2026-07-13",
+      "title": {
+        "en": "Hanamaru Morning Radio 14: From Dokko-san",
+        "romaji": "Hanamaru Morning Radio Dai 14 Kai: Dokko-san kara",
+        "ja": "はなまるモーニングラジオ 第14回 どっこさんから"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S17": {
+      "episode": "S17",
+      "length": 2,
+      "airDate": "2026-07-17",
+      "title": {
+        "en": "Hanamaru Morning Radio 15: From Yuuna-san",
+        "romaji": "Hanamaru Morning Radio Dai 15 Kai: Yuuna-san kara",
+        "ja": "はなまるモーニングラジオ 第15回 ゆうなさんから"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S18": {
+      "episode": "S18",
+      "length": 2,
+      "airDate": "2026-07-20",
+      "title": {
+        "en": "Hanamaru Morning Radio 16",
+        "romaji": "Hanamaru Morning Radio Dai 16 Kai: Koupen-chan Itsumo Arigatou-san kara",
+        "ja": "はなまるモーニングラジオ 第16回 コウペンちゃんいつもありがとうさんから"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S19": {
+      "episode": "S19",
+      "length": 2,
+      "airDate": "2026-07-24",
+      "title": {
+        "en": "Hanamaru Morning Radio 17: From Kacchan-san",
+        "romaji": "Hanamaru Morning Radio Dai 17 Kai: Kacchan-san kara",
+        "ja": "はなまるモーニングラジオ 第17回 かっちゃんさんから"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S20": {
+      "episode": "S20",
+      "length": 2,
+      "airDate": "2026-07-27",
+      "title": {
+        "en": "Hanamaru Morning Radio 18: From Haruka-san",
+        "romaji": "Hanamaru Morning Radio Dai 18 Kai: Haruka-san kara",
+        "ja": "はなまるモーニングラジオ 第18回 はるかさんから"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S21": {
+      "episode": "S21",
+      "length": 3,
+      "airDate": "2026-08-07",
+      "title": {
+        "en": "Hanamaru Morning Radio 19: From Monyako-san",
+        "romaji": "Hanamaru Morning Radio Dai 19 Kai: Monyako-san kara",
+        "ja": "はなまるモーニングラジオ 第19回 もにゃこさんから"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S22": {
+      "episode": "S22",
+      "length": 2,
+      "airDate": "2026-08-14",
+      "title": {
+        "en": "Hanamaru Morning Radio 20: From Chanu-san",
+        "romaji": "Hanamaru Morning Radio Dai 20 Kai: Chanu-san kara",
+        "ja": "はなまるモーニングラジオ 第20回 ちゃぬさんから"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S23": {
+      "episode": "S23",
+      "length": 2,
+      "airDate": "2026-08-21",
+      "title": {
+        "en": "Hanamaru Morning Radio 21: From Chibi Pen-chan-san",
+        "romaji": "Hanamaru Morning Radio Dai 21 Kai: Chibi Pen-chan-san kara",
+        "ja": "はなまるモーニングラジオ 第21回 チビペンちゃんさんから"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S24": {
+      "episode": "S24",
+      "length": 2,
+      "airDate": "2026-08-28",
+      "title": {
+        "en": "Hanamaru Morning Radio 22",
+        "romaji": "Hanamaru Morning Radio Dai 22 Kai: Fuwafuwa Tamago-san kara",
+        "ja": "はなまるモーニングラジオ 第22回 ふわふわたまごさんから"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S25": {
+      "episode": "S25",
+      "length": 3,
+      "airDate": "2026-09-04",
+      "title": {
+        "en": "Hanamaru Morning Radio 23: From Benio-san",
+        "romaji": "Hanamaru Morning Radio Dai 23 Kai: Benio-san kara",
+        "ja": "はなまるモーニングラジオ 第23回 べにおさんから"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S26": {
+      "episode": "S26",
+      "length": 3,
+      "airDate": "2026-10-02",
+      "title": {
+        "en": "Hanamaru Morning Radio 24: From Maccha Jirou-san",
+        "romaji": "Hanamaru Morning Radio Dai 24 Kai: Maccha Jirou-san kara",
+        "ja": "はなまるモーニングラジオ 第24回 まっちゃじろうさんから"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S27": {
+      "episode": "S27",
+      "length": 3,
+      "airDate": "2026-10-09",
+      "title": {
+        "en": "Hanamaru Morning Radio 25: From Marutan-san",
+        "romaji": "Hanamaru Morning Radio Dai 25 Kai: Marutan-san kara",
+        "ja": "はなまるモーニングラジオ 第25回 まるたんさんから"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S28": {
+      "episode": "S28",
+      "length": 2,
+      "airDate": "2026-10-16",
+      "title": {
+        "en": "Hanamaru Morning Radio 26: From Pepimo-san",
+        "romaji": "Hanamaru Morning Radio Dai 26 Kai: Pepimo-san kara",
+        "ja": "はなまるモーニングラジオ 第26回 ぺぴもさんから"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S29": {
+      "episode": "S29",
+      "length": 2,
+      "airDate": "2026-10-24",
+      "title": {
+        "en": "Hanamaru Morning Radio 27: From Ecchan-san",
+        "romaji": "Hanamaru Morning Radio Dai 27 Kai: Ecchan-san kara",
+        "ja": "はなまるモーニングラジオ 第27回 えっちゃんさんから"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S30": {
+      "episode": "S30",
+      "length": 2,
+      "airDate": "2026-10-30",
+      "title": {
+        "en": "Hanamaru Morning Radio 28: From Hiyoyo Manju-san",
+        "romaji": "Hanamaru Morning Radio Dai 28 Kai: Hiyoyo Manju-san kara",
+        "ja": "はなまるモーニングラジオ 第28回 ひよよまんじゅさんから"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S31": {
+      "episode": "S31",
+      "length": 3,
+      "airDate": "2026-11-06",
+      "title": {
+        "en": "Hanamaru Morning Radio 29: From Miho-san",
+        "romaji": "Hanamaru Morning Radio Dai 29 Kai: Miho-san kara",
+        "ja": "はなまるモーニングラジオ 第29回 みほさんから"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S32": {
+      "episode": "S32",
+      "length": 2,
+      "airDate": "2026-11-13",
+      "title": {
+        "en": "Hanamaru Morning Radio 30: From Penguin-san",
+        "romaji": "Hanamaru Morning Radio Dai 30 Kai: Penguin-san kara",
+        "ja": "はなまるモーニングラジオ 第30回 ぺんぎんさんから"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S33": {
+      "episode": "S33",
+      "length": 2,
+      "airDate": "2026-11-20",
+      "title": {
+        "en": "Hanamaru Morning Radio 31: From Mamu-chan-san",
+        "romaji": "Hanamaru Morning Radio Dai 31 Kai: Mamu-chan-san kara",
+        "ja": "はなまるモーニングラジオ 第31回 マムちゃんさんから"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -1397,15 +2154,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-02T00:10:52.121Z",
+    "lastFetched": "2026-11-22T00:45:17.747Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

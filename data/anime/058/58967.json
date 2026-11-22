@@ -19,7 +19,7 @@
   },
   "title": {
     "romaji": "Haikyuu!!: VS Chiisana Kyojin",
-    "english": null,
+    "english": "Haikyu!! VS. The Little Giant",
     "native": "ハイキュー!! VS 小さな巨人",
     "synonyms": [
       "Haikyuu!! FINAL 2",
@@ -34,15 +34,11 @@
   "episodeLength": null,
   "aired": {
     "from": "2027-01-01T00:00:00+00:00",
-    "to": "2027-12-31"
+    "to": "2027-01-01T00:00:00+00:00"
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -51,24 +47,32 @@
     "kitsuRating": null
   },
   "genres": [
+    "School",
+    "Shounen",
     "Sports",
+    "Team Sports",
     "Comedy",
     "Drama",
     "Plot Continuity",
     "Friendship",
-    "Shounen",
     "Volleyball"
   ],
   "studios": [
     "Production I.G"
   ],
-  "producers": [],
+  "producers": [
+    "Toho"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1767/148248l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1970/159635l.webp",
     "banner": null,
     "color": "#e4935d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "oI4iygnPFDM",
+    "url": "https://www.youtube.com/watch?v=oI4iygnPFDM",
+    "thumbnail": "https://i.ytimg.com/vi/oI4iygnPFDM/hqdefault.jpg"
+  },
   "synopsis": "The second Haikyuu!! Final movie.",
   "sequence": [
     {
@@ -98,17 +102,36 @@
       "relationType": "SIDE_STORY"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T16:12:54.744Z",
+    "lastFetched": "2026-11-22T00:43:45.805Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

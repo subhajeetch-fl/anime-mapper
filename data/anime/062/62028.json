@@ -26,7 +26,7 @@
       "Sugar² Rune"
     ]
   },
-  "type": null,
+  "type": "unknown",
   "source": "Manga",
   "status": "Not yet aired",
   "airing": false,
@@ -38,11 +38,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -52,7 +48,9 @@
   },
   "genres": [
     "Comedy",
-    "Drama"
+    "Drama",
+    "Mahou Shoujo",
+    "Shoujo"
   ],
   "studios": [],
   "producers": [],
@@ -66,16 +64,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:45:33.036Z",
+    "lastFetched": "2026-11-22T00:49:26.948Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

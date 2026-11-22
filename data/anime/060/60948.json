@@ -5,7 +5,7 @@
     "mal": 60948,
     "anilist": 186541,
     "anidb": 19142,
-    "kitsu": null,
+    "kitsu": 51005,
     "simkl": 2706956,
     "tmdb": 283692,
     "tvdb": 459942,
@@ -20,39 +20,45 @@
   "title": {
     "romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
     "english": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
-    "native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
+    "native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
     "synonyms": [
+      "Mezameza",
       "Saikyosoubi",
       "めざめざ"
     ]
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 13,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
+    "from": "2026-10-04T00:00:00+00:00",
     "to": null
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+    "day": "Sundays",
+    "time": "21:30",
+    "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "nextAiringEpisode": {
+    "episode": 8,
+    "airingAt": 1795350600
+  },
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.82,
+    "anilistScore": 6.9,
     "kitsuRating": null
   },
   "genres": [
     "Action",
+    "Isekai",
     "Sci-Fi",
+    "Space",
     "Comedy",
     "Drama",
     "Mecha",
@@ -62,27 +68,238 @@
     "Studio A-CAT"
   ],
   "producers": [
-    "Hayate"
+    "Aniplex",
+    "KADOKAWA",
+    "TOKYO MX",
+    "Good Smile Company",
+    "Movic",
+    "Yomiuri TV",
+    "Sansei R&D",
+    "Docomo Anime Store",
+    "WOWOW",
+    "HAYATE"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1334/156252l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1889/160053l.jpg",
     "banner": null,
-    "color": "#50a1e4"
+    "color": "#d6bb78"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "Z9ofT53sz2U",
+    "url": "https://www.youtube.com/watch?v=Z9ofT53sz2U",
+    "thumbnail": "https://i.ytimg.com/vi/Z9ofT53sz2U/hqdefault.jpg"
+  },
   "synopsis": "Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!\n\n(Source: Seven Seas Entertainment)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-04",
+      "title": {
+        "en": "First Space Colony Visit",
+        "romaji": "Hajimete no Space Colony",
+        "ja": "はじめてのスペースコロニー"
+      },
+      "tvdbShowId": 459942,
+      "tvdbId": 11694169,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11694169/screencap/6ac24efa4444b.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-11",
+      "title": {
+        "en": "Mimi the Girl",
+        "romaji": "Shoujo Mimi",
+        "ja": "少女・ミミ"
+      },
+      "tvdbShowId": 459942,
+      "tvdbId": 12018298,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018298/screencap/6acae18aa073f.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-18",
+      "title": {
+        "en": "Elma",
+        "romaji": "Elma",
+        "ja": "エルマ"
+      },
+      "tvdbShowId": 459942,
+      "tvdbId": 12018299,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018299/screencap/6ad4be3071135.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-25",
+      "title": {
+        "en": "A New Daily Life",
+        "romaji": "Atarashii Nichijou",
+        "ja": "新しい日常"
+      },
+      "tvdbShowId": 459942,
+      "tvdbId": 12018300,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018300/screencap/6add57ef08766.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-01",
+      "title": {
+        "en": "The Singing Crystal",
+        "romaji": "Utau Suishou",
+        "ja": "歌う水晶"
+      },
+      "tvdbShowId": 459942,
+      "tvdbId": 12018301,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018301/screencap/6ae54745524e2.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-08",
+      "title": {
+        "en": "The Arein System",
+        "romaji": "Arein Seikei nite",
+        "ja": "アレイン星系にて"
+      },
+      "tvdbShowId": 459942,
+      "tvdbId": 12018302,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018302/screencap/6aefd49801bec.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-15",
+      "title": {
+        "en": null,
+        "romaji": "Taichuuzoku Dokuritsu Kantai",
+        "ja": "対宙賊独立艦隊"
+      },
+      "tvdbShowId": 459942,
+      "tvdbId": 12018303,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018303/screencap/6af7a89a2a258.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-22",
+      "title": {
+        "en": null,
+        "romaji": "Nemurihime",
+        "ja": "眠り姫"
+      },
+      "tvdbShowId": 459942,
+      "tvdbId": 12018304,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12018304/screencap/6b00a4e400ee6.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-11-29",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 459942,
+      "tvdbId": 12018305,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-06",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 459942,
+      "tvdbId": 12018306,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-13",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 459942,
+      "tvdbId": 12018307,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-20",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 459942,
+      "tvdbId": 12018308,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-02T07:20:32.323Z",
+    "lastFetched": "2026-11-22T00:45:59.342Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

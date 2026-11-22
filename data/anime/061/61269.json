@@ -29,13 +29,13 @@
   },
   "type": "TV",
   "source": "Other",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 49,
   "episodeLength": 24,
   "aired": {
     "from": "2025-10-05T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-27T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2025,
@@ -44,39 +44,36 @@
     "time": "09:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 42,
-    "airingAt": 1786233600
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.13,
-    "anilistScore": 6.8,
-    "kitsuRating": 7.37
+    "malScore": 7.47,
+    "anilistScore": 7.1,
+    "kitsuRating": null
   },
   "genres": [
     "Action",
     "Fantasy",
     "Sci-Fi",
-    "Adventure",
-    "Comedy",
-    "Kids",
-    "Science Fiction"
+    "Adventure"
   ],
   "studios": [
     "Toei Animation"
   ],
   "producers": [
-    "Yomiko Advertising",
     "Fuji TV",
-    "Tavac"
+    "Yomiuri Advertising"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1776/151242l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
     "color": "#fec928"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "naNctHU5MQE",
+    "url": "https://www.youtube.com/watch?v=naNctHU5MQE",
+    "thumbnail": "https://i.ytimg.com/vi/naNctHU5MQE/hqdefault.jpg"
+  },
   "synopsis": "Tomorou Tenma possesses a uniquely strong e-Pulse—the energy created by human thoughts and emotions that powers egg-shaped AI devices named Sapotama. The world's everyday life relies on the assistance of Sapotamas, but the force of Tomorou's e-Pulse often causes glitches in them. One night, a strange creature calling itself Gekkoumon emerges from his device and insists on eating Tomorou's e-Pulse.\n\nGekkoumon is a Digimon, a creature feeding on e-Pulse that was born from an error in Sapotamas. Some Digimon completely drain humans of their energy, leaving them in a comatose state known as Cold Heart. When Tomorou's older brother, Asuka, becomes a victim of this phenomenon, Tomorou vows to avenge him.\n\nTomorou meets a group of Digimon-wielders called Glowing Dawn, who hunt down rogue Digimon for bounties. Their leader, Kyou Sawashiro, explains that there might still be hope for Asuka's recovery. Although Tomorou struggles to trust these strangers, he decides to join them, as he realizes that saving his brother may not be achievable on his own.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
@@ -109,10 +106,12 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-05",
       "title": {
-        "en": "The Beat of Emotions"
+        "en": "The Beat of Emotions",
+        "romaji": "Kanjou no Kodou",
+        "ja": "感情の鼓動"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11037631,
@@ -124,10 +123,12 @@
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-12",
       "title": {
-        "en": "Glowing Dawn"
+        "en": "Glowing Dawn",
+        "romaji": "Glowing Dawn",
+        "ja": "グローイングドーン"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11376603,
@@ -139,10 +140,12 @@
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-19",
       "title": {
-        "en": "Facing Mirrors"
+        "en": "Facing Mirrors",
+        "romaji": "Awasekagami",
+        "ja": "合わせ鏡"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11376604,
@@ -154,10 +157,12 @@
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-26",
       "title": {
-        "en": "Family"
+        "en": "Family",
+        "romaji": "Family",
+        "ja": "ファミリー"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11376605,
@@ -169,10 +174,12 @@
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-11-02",
       "title": {
-        "en": "Half and Half"
+        "en": "Half and Half",
+        "romaji": "Gobu to Gobu",
+        "ja": "五分と五分"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11407132,
@@ -184,10 +191,12 @@
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-11-09",
       "title": {
-        "en": "The Bond of Parent and Child"
+        "en": "The Bond of Parent and Child",
+        "romaji": "Oyako no Sakazuki",
+        "ja": "親子の盃"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11407133,
@@ -199,10 +208,12 @@
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-11-16",
       "title": {
-        "en": "Nirinso"
+        "en": "Nirinso",
+        "romaji": "Nirinsou",
+        "ja": "ニリンソウ"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11433090,
@@ -214,10 +225,12 @@
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-11-23",
       "title": {
-        "en": "The Vanishing Classroom"
+        "en": "The Vanishing Classroom",
+        "romaji": "Kieru Kyoushitsu",
+        "ja": "消エル教室"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11433091,
@@ -229,10 +242,12 @@
     },
     "9": {
       "episode": "9",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-11-30",
       "title": {
-        "en": "Utopia"
+        "en": "Utopia",
+        "romaji": "Risoukyou",
+        "ja": "理想郷"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11433092,
@@ -244,10 +259,12 @@
     },
     "10": {
       "episode": "10",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-12-07",
       "title": {
-        "en": "A True Friend"
+        "en": "A True Friend",
+        "romaji": "Hontou no Tomodachi",
+        "ja": "本当の友達"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11433093,
@@ -259,10 +276,12 @@
     },
     "11": {
       "episode": "11",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-12-14",
       "title": {
-        "en": "A Black Emotion"
+        "en": "A Black Emotion",
+        "romaji": "Kuroi Kanjou",
+        "ja": "黒い感情"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11433094,
@@ -274,10 +293,12 @@
     },
     "12": {
       "episode": "12",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-12-21",
       "title": {
-        "en": "A New Family"
+        "en": "A New Family",
+        "romaji": "Atarashii Kazoku",
+        "ja": "新しい家族"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11433095,
@@ -289,10 +310,12 @@
     },
     "13": {
       "episode": "13",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-01-04",
       "title": {
-        "en": "Five Star Meeting"
+        "en": "Five Star Meeting",
+        "romaji": "Go Gyousei Kaigi",
+        "ja": "五行星会議"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11517387,
@@ -304,10 +327,12 @@
     },
     "14": {
       "episode": "14",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-01-11",
       "title": {
-        "en": "Tactics"
+        "en": "Tactics",
+        "romaji": "Tactics",
+        "ja": "タクティクス"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11517390,
@@ -319,10 +344,12 @@
     },
     "15": {
       "episode": "15",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-01-18",
       "title": {
-        "en": "Little Courage"
+        "en": "Little Courage",
+        "romaji": "Chiisana Yuuki",
+        "ja": "小さな勇気"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11517391,
@@ -334,10 +361,12 @@
     },
     "16": {
       "episode": "16",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-01-25",
       "title": {
-        "en": "Where I Belong"
+        "en": "Where I Belong",
+        "romaji": "Boku no Ibasho",
+        "ja": "僕の居場所"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11517392,
@@ -349,10 +378,12 @@
     },
     "17": {
       "episode": "17",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-01",
       "title": {
-        "en": "Antipathy"
+        "en": "Antipathy",
+        "romaji": "Antipathy",
+        "ja": "アンチパシー"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11517393,
@@ -364,10 +395,12 @@
     },
     "18": {
       "episode": "18",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-08",
       "title": {
-        "en": "The Price of Freedom"
+        "en": "The Price of Freedom",
+        "romaji": "Jiyuu no Daishou",
+        "ja": "自由の代償"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11517394,
@@ -379,10 +412,12 @@
     },
     "19": {
       "episode": "19",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-15",
       "title": {
-        "en": "Black Market Auction"
+        "en": "Black Market Auction",
+        "romaji": "Yami Auction",
+        "ja": "闇オークション"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11517395,
@@ -394,10 +429,12 @@
     },
     "20": {
       "episode": "20",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-22",
       "title": {
-        "en": "Proof of Genius"
+        "en": "Proof of Genius",
+        "romaji": "Tensai no Shoumei",
+        "ja": "天才の証明"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11517396,
@@ -409,10 +446,12 @@
     },
     "21": {
       "episode": "21",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-01",
       "title": {
-        "en": "The One Beside You"
+        "en": "The One Beside You",
+        "romaji": "Soba ni Iru Mono",
+        "ja": "そばにいるもの"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11517397,
@@ -424,10 +463,12 @@
     },
     "22": {
       "episode": "22",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-15",
       "title": {
-        "en": "Defiance"
+        "en": "Defiance",
+        "romaji": "Hankoushi",
+        "ja": "反抗心"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11517398,
@@ -439,10 +480,12 @@
     },
     "23": {
       "episode": "23",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-22",
       "title": {
-        "en": "The Power to Take"
+        "en": "The Power to Take",
+        "romaji": "Ubau Tame no Chikara",
+        "ja": "奪うための力"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11517399,
@@ -454,10 +497,12 @@
     },
     "24": {
       "episode": "24",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-29",
       "title": {
-        "en": "Overlapping Beats"
+        "en": "Overlapping Beats",
+        "romaji": "Kasanaru Kodou",
+        "ja": "重なる鼓動"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11517400,
@@ -469,10 +514,12 @@
     },
     "25": {
       "episode": "25",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-05",
       "title": {
-        "en": "Half-Baked Hero"
+        "en": "Half-Baked Hero",
+        "romaji": "Hanninmae no Hero",
+        "ja": "半人前のヒーロー"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11701182,
@@ -484,10 +531,12 @@
     },
     "26": {
       "episode": "26",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-12",
       "title": {
-        "en": "The Taste of Guilt"
+        "en": "The Taste of Guilt",
+        "romaji": "Tsumi no Aji",
+        "ja": "罪の味"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11701183,
@@ -499,10 +548,12 @@
     },
     "27": {
       "episode": "27",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-19",
       "title": {
-        "en": "Wandering Love"
+        "en": "Wandering Love",
+        "romaji": "Samayoeru Ai",
+        "ja": "さまよえる愛"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11701184,
@@ -514,10 +565,12 @@
     },
     "28": {
       "episode": "28",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-26",
       "title": {
-        "en": "Gift"
+        "en": "Gift",
+        "romaji": "Gift",
+        "ja": "GIFT"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11701185,
@@ -529,10 +582,12 @@
     },
     "29": {
       "episode": "29",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-03",
       "title": {
-        "en": "Dangerous Fandom"
+        "en": "Dangerous Fandom",
+        "romaji": "Kiken na Oshikatsu",
+        "ja": "危険な推し活"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11701186,
@@ -544,10 +599,12 @@
     },
     "30": {
       "episode": "30",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-10",
       "title": {
-        "en": "Wings to Protect You"
+        "en": "Wings to Protect You",
+        "romaji": "Kimi o Mamoru Tsubasa",
+        "ja": "君を守る翼"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11701187,
@@ -559,10 +616,12 @@
     },
     "31": {
       "episode": "31",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-17",
       "title": {
-        "en": "One Step Forward"
+        "en": "One Step Forward",
+        "romaji": "Fumidasu Ippo",
+        "ja": "踏み出す一歩"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11786066,
@@ -574,10 +633,12 @@
     },
     "32": {
       "episode": "32",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-24",
       "title": {
-        "en": "Cold Rain"
+        "en": "Cold Rain",
+        "romaji": "Tsumetai Ame",
+        "ja": "冷たい雨"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11786067,
@@ -589,10 +650,12 @@
     },
     "33": {
       "episode": "33",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-31",
       "title": {
-        "en": "Midsummer Ghost"
+        "en": "Midsummer Ghost",
+        "romaji": "Manatsu no Bourei",
+        "ja": "真夏の亡霊"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11786068,
@@ -604,10 +667,12 @@
     },
     "34": {
       "episode": "34",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-07",
       "title": {
-        "en": "Behind the Mask"
+        "en": "Behind the Mask",
+        "romaji": "Kamen no Oku",
+        "ja": "仮面の奥"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11786069,
@@ -619,10 +684,12 @@
     },
     "35": {
       "episode": "35",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-14",
       "title": {
-        "en": "Rampaging Instinct"
+        "en": "Rampaging Instinct",
+        "romaji": "Abareru Honnou",
+        "ja": "暴れる本能"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11786070,
@@ -634,10 +701,12 @@
     },
     "36": {
       "episode": "36",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-21",
       "title": {
-        "en": "Twisted Code"
+        "en": "Twisted Code",
+        "romaji": "Yuganda Code",
+        "ja": "歪んだコード"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11845341,
@@ -649,10 +718,12 @@
     },
     "37": {
       "episode": "37",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-05",
       "title": {
-        "en": "Kind Magic"
+        "en": "Kind Magic",
+        "romaji": "Yasashii Mahou",
+        "ja": "優しい魔法"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11845343,
@@ -664,10 +735,12 @@
     },
     "38": {
       "episode": "38",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-12",
       "title": {
-        "en": "Hollow Thirst"
+        "en": "Hollow Thirst",
+        "romaji": "Utsuro na Kawaki",
+        "ja": "虚ろな渇き"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11845344,
@@ -679,100 +752,199 @@
     },
     "39": {
       "episode": "39",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-19",
       "title": {
-        "en": "Lip Service"
+        "en": "Lip Service",
+        "romaji": "Kireigoto",
+        "ja": "きれいごと"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11845345,
       "seasonNumber": 1,
       "episodeNumber": 39,
       "absoluteEpisodeNumber": 39,
-      "runtime": null,
-      "image": null
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11845345/screencap/6a5cb992b6ec9.jpg"
     },
     "40": {
       "episode": "40",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-26",
       "title": {
-        "en": "Episode 40"
+        "en": "Unfading Night",
+        "romaji": "Kesenai Yoru",
+        "ja": "消せない夜"
       },
       "tvdbShowId": 461683,
       "tvdbId": 11845346,
       "seasonNumber": 1,
       "episodeNumber": 40,
       "absoluteEpisodeNumber": 40,
-      "runtime": null,
-      "image": null
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11845346/screencap/6a65f3ef01db1.jpg"
     },
     "41": {
       "episode": "41",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-02",
       "title": {
-        "en": "Episode 41"
+        "en": "A Golden Tomorrow",
+        "romaji": "Ougon no Ashita",
+        "ja": "黄金の明日"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461683,
+      "tvdbId": 11907187,
+      "seasonNumber": 1,
       "episodeNumber": 41,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 41,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11907187/screencap/6a6e44d7d23a9.jpg"
     },
     "42": {
       "episode": "42",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-09",
       "title": {
-        "en": "Episode 42"
+        "en": "Sakura Friendship",
+        "romaji": "Sakura no Yuujou",
+        "ja": "桜の友情"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461683,
+      "tvdbId": 11907188,
+      "seasonNumber": 1,
       "episodeNumber": 42,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 42,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11907188/screencap/6a77689fc40e6.jpg"
     },
     "43": {
       "episode": "43",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-16",
       "title": {
-        "en": "Episode 43"
+        "en": "The White Digimon",
+        "romaji": "Shiroki Digimon",
+        "ja": "白きデジモン"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461683,
+      "tvdbId": 11907189,
+      "seasonNumber": 1,
       "episodeNumber": 43,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 43,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11907189/screencap/6a7f51ff127c6.jpg"
     },
     "44": {
       "episode": "44",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-23",
       "title": {
-        "en": "Episode 44"
+        "en": "The Strongest Man",
+        "romaji": "Saikyou no Otoko",
+        "ja": "最強の男"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 461683,
+      "tvdbId": 11916006,
+      "seasonNumber": 1,
       "episodeNumber": 44,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 44,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11916006/screencap/6a88acb4a887e.jpg"
+    },
+    "45": {
+      "episode": "45",
+      "length": 25,
+      "airDate": "2026-08-30",
+      "title": {
+        "en": "Big Brother, Little Brother",
+        "romaji": "Ani to Otouto",
+        "ja": "兄と弟"
+      },
+      "tvdbShowId": 461683,
+      "tvdbId": 11916007,
+      "seasonNumber": 1,
+      "episodeNumber": 45,
+      "absoluteEpisodeNumber": 45,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11916007/screencap/6a91d5ae80a2b.jpg"
+    },
+    "46": {
+      "episode": "46",
+      "length": 25,
+      "airDate": "2026-09-06",
+      "title": {
+        "en": "Glitch",
+        "romaji": "Bug",
+        "ja": "バグ"
+      },
+      "tvdbShowId": 461683,
+      "tvdbId": 11950980,
+      "seasonNumber": 1,
+      "episodeNumber": 46,
+      "absoluteEpisodeNumber": 46,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11950980/screencap/6a9d4c1d80307.jpg"
+    },
+    "47": {
+      "episode": "47",
+      "length": 25,
+      "airDate": "2026-09-13",
+      "title": {
+        "en": "The Ultimate Power",
+        "romaji": "Kyuukyoku no Chikara",
+        "ja": "究極の力"
+      },
+      "tvdbShowId": 461683,
+      "tvdbId": 11950981,
+      "seasonNumber": 1,
+      "episodeNumber": 47,
+      "absoluteEpisodeNumber": 47,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11950981/screencap/6aa3fec2b35ba.jpg"
+    },
+    "48": {
+      "episode": "48",
+      "length": 25,
+      "airDate": "2026-09-20",
+      "title": {
+        "en": "Two Beats",
+        "romaji": "Futatsu no Kodou",
+        "ja": "二つの鼓動"
+      },
+      "tvdbShowId": 461683,
+      "tvdbId": 11950982,
+      "seasonNumber": 1,
+      "episodeNumber": 48,
+      "absoluteEpisodeNumber": 48,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11950982/screencap/6aad47caf36f0.jpg"
+    },
+    "49": {
+      "episode": "49",
+      "length": 25,
+      "airDate": "2026-09-27",
+      "title": {
+        "en": "A World of Shining Light",
+        "romaji": "Hikari Kagayaku Sekai",
+        "ja": "光輝く世界"
+      },
+      "tvdbShowId": 461683,
+      "tvdbId": 11976658,
+      "seasonNumber": 1,
+      "episodeNumber": 49,
+      "absoluteEpisodeNumber": 49,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11976658/screencap/6ab680beab760.jpg"
     },
     "S1": {
       "episode": "S1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-09-28",
       "title": {
-        "en": "We Are the Digimon Promotion Department"
+        "en": "We Are the Digimon Promotion Department",
+        "romaji": "Oretachi! Digimon Sendenbu",
+        "ja": "俺たち! デジモン宣伝部"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -784,40 +956,12 @@
     },
     "S2": {
       "episode": "S2",
-      "length": "40m",
+      "length": 40,
       "airDate": "2025-09-28",
       "title": {
-        "en": "We Are the Digimon Promotion Department (Web Version)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "OP1": {
-      "episode": "OP1",
-      "length": "2m",
-      "airDate": "2025-10-05",
-      "title": {
-        "en": "Mad Pulse"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "ED1": {
-      "episode": "ED1",
-      "length": "2m",
-      "airDate": "2025-10-05",
-      "title": {
-        "en": "Beat Up"
+        "en": "We Are the Digimon Promotion Department (Web Version)",
+        "romaji": "Oretachi! Digimon Sendenbu",
+        "ja": "俺たち! デジモン宣伝部"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -829,15 +973,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-08-05T12:47:39.897Z",
+    "lastFetched": "2026-11-22T00:46:54.382Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

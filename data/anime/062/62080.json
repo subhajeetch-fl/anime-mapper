@@ -28,13 +28,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
   "episodeLength": 24,
   "aired": {
     "from": "2026-06-30T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-15T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -43,13 +43,10 @@
     "time": "22:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788267600
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.54,
+    "malScore": 6.28,
     "anilistScore": 6.3,
     "kitsuRating": null
   },
@@ -63,186 +60,245 @@
     "Picante Circus"
   ],
   "producers": [
-    "AT-X",
-    "DAX Production",
-    "KlockWorx",
     "Earth Star Entertainment",
+    "HIKE",
+    "BookLive",
+    "AT-X",
     "BS11",
     "MAGNET",
-    "BookLive",
+    "Picante Circus",
     "SUPA LOVE",
-    "Hike"
+    "KLOCKWORX"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1612/158373l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1612/158373l.webp",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196219-2F64WTRfqRU9.jpg",
     "color": "#5daee4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "R82wqxOXPIM",
+    "url": "https://www.youtube.com/watch?v=R82wqxOXPIM",
+    "thumbnail": "https://i.ytimg.com/vi/R82wqxOXPIM/hqdefault.jpg"
+  },
   "synopsis": "Lady Carolina, the overlooked daughter of a powerful duke, has always believed herself to be the black sheep amid her illustrious kin. Her father is the distinguished prime minister; her elder sister, a prodigious mage destined to become their nation's next Saint. In comparison, Carolina resigns herself to a quiet existence in their shadows until a sudden and unexpected royal decree alters her destiny, thrusting her into a political marriage with the formidable \"Bloodthirsty Prince\" of the neighboring Empire of Malcosias. Determined to prove her worth, Carolina takes a bold step into a world fraught with both political and mortal peril. As royal obligations intertwine with hints of true love and the stirrings of her own latent power, Carolina moves ever closer to understanding what it truly means to be exceptional.\n\n(Source: J-Novel Club)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-30",
       "title": {
-        "en": "The Disgrace of the Ducal House of Sanchez"
+        "en": "The Disgrace of the Ducal House of Sanchez",
+        "romaji": "Sanchez Koushaku-ke no Dekisokonai",
+        "ja": "サンチェス公爵家の出来損ない"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465988,
+      "tvdbId": 11250946,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11250946/screencap/6a4252c3cc25f.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-07",
       "title": {
-        "en": "The Bloodthirty Second Prince"
+        "en": "The Bloodthirty Second Prince",
+        "romaji": "Ikusazuki no Dai Ni Ouji",
+        "ja": "戦好きの第二皇子"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465988,
+      "tvdbId": 11866390,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11866390/screencap/6a4bb522d7e40.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-14",
       "title": {
-        "en": "Founder`s Day Fete"
+        "en": "Founder`s Day Fete",
+        "romaji": "Kenkoku Kinen Party",
+        "ja": "建国記念パーティー"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465988,
+      "tvdbId": 11866391,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11866391/screencap/6a55aaabc1973.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-21",
       "title": {
-        "en": "Episode 4"
+        "en": "Red Eyes and Ruby",
+        "romaji": "Akai Hitomi to Ruby",
+        "ja": "赤い瞳とルビー"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465988,
+      "tvdbId": 11866392,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11866392/screencap/6a5ed223a9b61.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-28",
       "title": {
-        "en": "Episode 5"
+        "en": "Hidden Divinity",
+        "romaji": "Himerareta Shinseiryoku",
+        "ja": "秘められた神聖力"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465988,
+      "tvdbId": 11891715,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891715/screencap/6a68aaf964089.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-04",
       "title": {
-        "en": "Episode 6"
+        "en": "First Prince Gilbert",
+        "romaji": "Daiichi Ouji Gilbert",
+        "ja": "第一皇子ギルバート"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465988,
+      "tvdbId": 11891716,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891716/screencap/6a70859f5b6ff.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-11",
       "title": {
-        "en": "Episode 7"
+        "en": "The Waver of the Perfect Young Lady",
+        "romaji": "Kanpeki Reijou no Yuragi",
+        "ja": "完璧令嬢の揺らぎ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465988,
+      "tvdbId": 11891717,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891717/screencap/6a7a707db14f8.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-18",
       "title": {
-        "en": "Episode 8"
+        "en": "Jonathan`s Scheme",
+        "romaji": "Jonathan no Takurami",
+        "ja": "ジョナサンの企み"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465988,
+      "tvdbId": 11891718,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891718/screencap/6a83444705815.jpg"
     },
-    "C1": {
-      "episode": "C1",
-      "length": "2m",
-      "airDate": "2026-06-30",
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-25",
       "title": {
-        "en": "Opening"
+        "en": "The Exposed Sin",
+        "romaji": "Abakareta Tsumi",
+        "ja": "暴かれた罪"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 465988,
+      "tvdbId": 11891719,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891719/screencap/6a8d8dba8cf7a.jpg"
     },
-    "ED1": {
-      "episode": "ED1",
-      "length": "2m",
-      "airDate": "2026-06-30",
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-01",
       "title": {
-        "en": "Unknown Me (1)"
+        "en": "Saintly Trials",
+        "romaji": "Seijou Shiken",
+        "ja": "聖女試験"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 465988,
+      "tvdbId": 11911200,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11911200/screencap/6a9623467b138.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-08",
+      "title": {
+        "en": "The Perfect Young Lady`s Resolve",
+        "romaji": "Kanpeki Reijou no Ketsui",
+        "ja": "完璧令嬢の決意"
+      },
+      "tvdbShowId": 465988,
+      "tvdbId": 11911201,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11911201/screencap/6a9ee49f00fcb.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-15",
+      "title": {
+        "en": "Executing the Revenge",
+        "romaji": "Fukushuu no Suikou",
+        "ja": "復讐の遂行"
+      },
+      "tvdbShowId": 465988,
+      "tvdbId": 11911202,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11911202/screencap/6aa86b197b498.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:23:49.590Z",
+    "lastFetched": "2026-11-22T00:49:44.106Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

@@ -7,7 +7,7 @@
     "anidb": 18237,
     "kitsu": 48036,
     "simkl": 2275520,
-    "tmdb": null,
+    "tmdb": 223911,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
@@ -36,35 +36,32 @@
     "from": "2023-09-25T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2023,
+  "broadcast": null,
   "nextAiringEpisode": {
-    "episode": 157,
-    "airingAt": 1788746400
+    "episode": 168,
+    "airingAt": 1795399200
   },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 8.49,
-    "anilistScore": 8.2,
-    "kitsuRating": 7.92
+    "malScore": 8.47,
+    "anilistScore": 8.3,
+    "kitsuRating": null
   },
   "genres": [
     "Action",
     "Adventure",
     "Fantasy",
-    "Drama",
-    "Historical"
+    "Historical",
+    "Martial Arts",
+    "Drama"
   ],
   "studios": [
     "BUILD DREAM"
   ],
   "producers": [
-    "Tencent Video"
+    "Tencent Penguin Pictures"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1289/149708l.jpg",
@@ -86,2300 +83,2764 @@
       "episodes": 1,
       "seasonYear": null,
       "relationType": "SIDE_STORY"
+    },
+    {
+      "malId": 64445,
+      "title": {
+        "romaji": "Xian Ni Movie: Shi Xian Zhi Zhan",
+        "english": "Renegade Immortal: Slaying the Blood Progenitor",
+        "native": "仙逆剧场版 弑仙之战"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217627-PQDw094s6ZbG.jpg",
+      "format": "ONA",
+      "episodes": 1,
+      "seasonYear": null,
+      "relationType": "SIDE_STORY"
     }
   ],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-09-25",
       "title": {
         "en": "Leaving Home"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 9945064,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9945064/screencap/675a43f22f361.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-09-25",
       "title": {
         "en": "Entry into the Sect"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10051374,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10051374/screencap/675a441e0fa9f.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-09-25",
       "title": {
         "en": "The Competition"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10051375,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10051375/screencap/675a444771922.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-10-02",
       "title": {
         "en": "Disaster Strikes"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10068384,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10068384/screencap/675a446815188.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-10-09",
       "title": {
         "en": "An Old Friend"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10080202,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10080202/screencap/675a448ecba2f.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-10-16",
       "title": {
         "en": "The Teng Clan"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10093952,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10093952/screencap/675a44adc73fa.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-10-23",
       "title": {
         "en": "Seizing Foundation"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10093953,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10093953/screencap/675a44d046917.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-10-30",
       "title": {
         "en": "Deathly Ruins"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10093954,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10093954/screencap/675a44ea03b7a.jpg"
     },
     "9": {
       "episode": "9",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-11-06",
       "title": {
         "en": "Joining the Sect"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10093955,
+      "seasonNumber": 1,
       "episodeNumber": 9,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10093955/screencap/675a450598233.jpg"
     },
     "10": {
       "episode": "10",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-11-13",
       "title": {
         "en": "Mournful Calamity"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10093956,
+      "seasonNumber": 1,
       "episodeNumber": 10,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 10,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10093956/screencap/675a451c2fac8.jpg"
     },
     "11": {
       "episode": "11",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-11-20",
       "title": {
         "en": "Annihilation of the Body"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10153964,
+      "seasonNumber": 1,
       "episodeNumber": 11,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 11,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10153964/screencap/675a454224e8d.jpg"
     },
     "12": {
       "episode": "12",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-11-27",
       "title": {
         "en": "Taking Possession of a Body"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10153965,
+      "seasonNumber": 1,
       "episodeNumber": 12,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 12,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10153965/screencap/675a4561ec78b.jpg"
     },
     "13": {
       "episode": "13",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-12-04",
       "title": {
         "en": "Laws"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10175299,
+      "seasonNumber": 1,
       "episodeNumber": 13,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 13,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10175299/screencap/675a457b0e0a1.jpg"
     },
     "14": {
       "episode": "14",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-12-11",
       "title": {
         "en": "Refinement"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10187171,
+      "seasonNumber": 1,
       "episodeNumber": 14,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 14,
+      "runtime": 21,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10187171/screencap/675a4591e7565.jpg"
     },
     "15": {
       "episode": "15",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-12-18",
       "title": {
         "en": "Fire Beast"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10187173,
+      "seasonNumber": 1,
       "episodeNumber": 15,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 15,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10187173/screencap/675a45ab59c91.jpg"
     },
     "16": {
       "episode": "16",
-      "length": "25m",
+      "length": 25,
       "airDate": "2023-12-25",
       "title": {
         "en": "National Migration"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10187175,
+      "seasonNumber": 1,
       "episodeNumber": 16,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 16,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10187175/screencap/675a45c66e2f9.jpg"
     },
     "17": {
       "episode": "17",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-01-01",
       "title": {
         "en": "National War"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10220007,
+      "seasonNumber": 1,
       "episodeNumber": 17,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 17,
+      "runtime": 21,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10220007/screencap/675a45dd334b8.jpg"
     },
     "18": {
       "episode": "18",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-01-08",
       "title": {
         "en": "Sea of Fog"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10220008,
+      "seasonNumber": 1,
       "episodeNumber": 18,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 18,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10220008/screencap/675a45f31d11c.jpg"
     },
     "19": {
       "episode": "19",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-01-15",
       "title": {
         "en": "Killing a Flood Dragon"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10220009,
+      "seasonNumber": 1,
       "episodeNumber": 19,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 19,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10220009/screencap/675a460a9f074.jpg"
     },
     "20": {
       "episode": "20",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-01-22",
       "title": {
         "en": "Spiritual Furnace"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10220010,
+      "seasonNumber": 1,
       "episodeNumber": 20,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 20,
+      "runtime": 23,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10220010/screencap/675a46235668b.jpg"
     },
     "21": {
       "episode": "21",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-01-29",
       "title": {
         "en": "Core Formation"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10220011,
+      "seasonNumber": 1,
       "episodeNumber": 21,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 21,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10220011/screencap/675a46480ea1f.jpg"
     },
     "22": {
       "episode": "22",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-02-05",
       "title": {
         "en": "Execution"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10270418,
+      "seasonNumber": 1,
       "episodeNumber": 22,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 22,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10270418/screencap/675a46674ddb5.jpg"
     },
     "23": {
       "episode": "23",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-02-12",
       "title": {
         "en": "Fighting Evil"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10270419,
+      "seasonNumber": 1,
       "episodeNumber": 23,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 23,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10270419/screencap/675a46836e40d.jpg"
     },
     "24": {
       "episode": "24",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-02-19",
       "title": {
         "en": "Show of Might"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10270420,
+      "seasonNumber": 1,
       "episodeNumber": 24,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 24,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10270420/screencap/675a46a01873d.jpg"
     },
     "25": {
       "episode": "25",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-02-26",
       "title": {
         "en": "Borrowed Authority"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10337823,
+      "seasonNumber": 1,
       "episodeNumber": 25,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 25,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10337823/screencap/675a46bada94e.jpg"
     },
     "26": {
       "episode": "26",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-03-04",
       "title": {
         "en": "The Devils"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10354796,
+      "seasonNumber": 1,
       "episodeNumber": 26,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 26,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10354796/screencap/675a46e4e7658.jpg"
     },
     "27": {
       "episode": "27",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-03-11",
       "title": {
         "en": "Breaking Through the Challenge"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10354797,
+      "seasonNumber": 1,
       "episodeNumber": 27,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 27,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10354797/screencap/675a46ff1c5f4.jpg"
     },
     "28": {
       "episode": "28",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-03-18",
       "title": {
         "en": "Devilish Chaos"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10389095,
+      "seasonNumber": 1,
       "episodeNumber": 28,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 28,
+      "runtime": 21,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10389095/screencap/675a471cdcdec.jpg"
     },
     "29": {
       "episode": "29",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-03-25",
       "title": {
         "en": "Deity Slayer"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10404507,
+      "seasonNumber": 1,
       "episodeNumber": 29,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 29,
+      "runtime": 21,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10404507/screencap/675a473656ec4.jpg"
     },
     "30": {
       "episode": "30",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-04-01",
       "title": {
         "en": "No Return"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10404508,
+      "seasonNumber": 1,
       "episodeNumber": 30,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 30,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10404508/screencap/675a474fde31f.jpg"
     },
     "31": {
       "episode": "31",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-04-08",
       "title": {
         "en": "Mountain of Restrictions"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10434368,
+      "seasonNumber": 1,
       "episodeNumber": 31,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 31,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10434368/screencap/675a4769bf174.jpg"
     },
     "32": {
       "episode": "32",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-04-15",
       "title": {
         "en": "Destroy the Restriction"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10434369,
+      "seasonNumber": 1,
       "episodeNumber": 32,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 32,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10434369/screencap/675a478cd1ecc.jpg"
     },
     "33": {
       "episode": "33",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-04-22",
       "title": {
         "en": "The Ruler"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10459248,
+      "seasonNumber": 1,
       "episodeNumber": 33,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 33,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10459248/screencap/675a47a603b15.jpg"
     },
     "34": {
       "episode": "34",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-04-29",
       "title": {
         "en": "Fulfilled Loyalty"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10459249,
+      "seasonNumber": 1,
       "episodeNumber": 34,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 34,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10459249/screencap/675a47bda4782.jpg"
     },
     "35": {
       "episode": "35",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-05-06",
       "title": {
         "en": "Demon God"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10483520,
+      "seasonNumber": 1,
       "episodeNumber": 35,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 35,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10483520/screencap/675a47d397b97.jpg"
     },
     "36": {
       "episode": "36",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-05-13",
       "title": {
         "en": "Inheritance"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10483521,
+      "seasonNumber": 1,
       "episodeNumber": 36,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 36,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10483521/screencap/675a47ece750d.jpg"
     },
     "37": {
       "episode": "37",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-05-20",
       "title": {
         "en": "Concubine Yun"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10503496,
+      "seasonNumber": 1,
       "episodeNumber": 37,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 37,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10503496/screencap/675a4804b2072.jpg"
     },
     "38": {
       "episode": "38",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-05-27",
       "title": {
         "en": "Heavenly Tribulation"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10503498,
+      "seasonNumber": 1,
       "episodeNumber": 38,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 38,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10503498/screencap/675a481b5fc73.jpg"
     },
     "39": {
       "episode": "39",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-06-03",
       "title": {
         "en": "Cloud Sky"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526578,
+      "seasonNumber": 1,
       "episodeNumber": 39,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 39,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526578/screencap/675a4832d09be.jpg"
     },
     "40": {
       "episode": "40",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-06-10",
       "title": {
         "en": "Destiny Continues"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526662,
+      "seasonNumber": 1,
       "episodeNumber": 40,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 40,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526662/screencap/675a485301217.jpg"
     },
     "41": {
       "episode": "41",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-06-17",
       "title": {
         "en": "Forced Marriage"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526620,
+      "seasonNumber": 1,
       "episodeNumber": 41,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 41,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526620/screencap/675a487349c84.jpg"
     },
     "42": {
       "episode": "42",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-06-24",
       "title": {
         "en": "Seizing the Talisman"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526664,
+      "seasonNumber": 1,
       "episodeNumber": 42,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 42,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526664/screencap/675a489007771.jpg"
     },
     "43": {
       "episode": "43",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-07-01",
       "title": {
         "en": "Nascent Formation"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526665,
+      "seasonNumber": 1,
       "episodeNumber": 43,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 43,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526665/screencap/675a4a0b95d77.jpg"
     },
     "44": {
       "episode": "44",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-07-08",
       "title": {
         "en": "Subduing the Heavens"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526591,
+      "seasonNumber": 1,
       "episodeNumber": 44,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 44,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526591/screencap/675a4a2759dfb.jpg"
     },
     "45": {
       "episode": "45",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-07-15",
       "title": {
         "en": "Solitary Journey"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526618,
+      "seasonNumber": 1,
       "episodeNumber": 45,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 45,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526618/screencap/675a4aa6455a7.jpg"
     },
     "46": {
       "episode": "46",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-07-22",
       "title": {
         "en": "Spirit Seizing"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526630,
+      "seasonNumber": 1,
       "episodeNumber": 46,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 46,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526630/screencap/675a4abfc97a4.jpg"
     },
     "47": {
       "episode": "47",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-07-29",
       "title": {
         "en": "Old Grudges"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526632,
+      "seasonNumber": 1,
       "episodeNumber": 47,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 47,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526632/screencap/675a4ad8e2fab.jpg"
     },
     "48": {
       "episode": "48",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-08-05",
       "title": {
         "en": "Slaying the Ninth"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526595,
+      "seasonNumber": 1,
       "episodeNumber": 48,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 48,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526595/screencap/675a4af69b7b6.jpg"
     },
     "49": {
       "episode": "49",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-08-12",
       "title": {
         "en": "Grief"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526626,
+      "seasonNumber": 1,
       "episodeNumber": 49,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 49,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526626/screencap/675a4b0eb390a.jpg"
     },
     "50": {
       "episode": "50",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-08-19",
       "title": {
         "en": "Teng the First"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526597,
+      "seasonNumber": 1,
       "episodeNumber": 50,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 50,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526597/screencap/675a4b3ee9db3.jpg"
     },
     "51": {
       "episode": "51",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-08-26",
       "title": {
         "en": "Teng Family Extermination"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526598,
+      "seasonNumber": 1,
       "episodeNumber": 51,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 51,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526598/screencap/675a4b75e580e.jpg"
     },
     "52": {
       "episode": "52",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-09-02",
       "title": {
         "en": "Grudge Buried"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526631,
+      "seasonNumber": 1,
       "episodeNumber": 52,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 52,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526631/screencap/675a4b9713ca6.jpg"
     },
     "53": {
       "episode": "53",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-09-09",
       "title": {
         "en": "Enter the Secular World"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526633,
+      "seasonNumber": 1,
       "episodeNumber": 53,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 53,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526633/screencap/675a4bb0bc1b0.jpg"
     },
     "54": {
       "episode": "54",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-09-16",
       "title": {
         "en": "Mortals"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526601,
+      "seasonNumber": 1,
       "episodeNumber": 54,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 54,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526601/screencap/675a4bcb96be6.jpg"
     },
     "55": {
       "episode": "55",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-09-23",
       "title": {
         "en": "Becoming Mortal"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526637,
+      "seasonNumber": 1,
       "episodeNumber": 55,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 55,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526637/screencap/675b51c162e62.jpg"
     },
     "56": {
       "episode": "56",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-09-30",
       "title": {
         "en": "Yi Realm"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526639,
+      "seasonNumber": 1,
       "episodeNumber": 56,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 56,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526639/screencap/675a4c04666f7.jpg"
     },
     "57": {
       "episode": "57",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-10-07",
       "title": {
         "en": "Rain Cauldron"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526652,
+      "seasonNumber": 1,
       "episodeNumber": 57,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 57,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526652/screencap/675a4c1cad689.jpg"
     },
     "58": {
       "episode": "58",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-10-14",
       "title": {
-        "en": "Episode 58"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526654,
+      "seasonNumber": 1,
       "episodeNumber": 58,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 58,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526654/screencap/675a4c3ad3cff.jpg"
     },
     "59": {
       "episode": "59",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-10-21",
       "title": {
-        "en": "Episode 59"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526656,
+      "seasonNumber": 1,
       "episodeNumber": 59,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 59,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526656/screencap/675a4c6feba66.jpg"
     },
     "60": {
       "episode": "60",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-10-28",
       "title": {
-        "en": "Episode 60"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526657,
+      "seasonNumber": 1,
       "episodeNumber": 60,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 60,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526657/screencap/675a4c8d902c5.jpg"
     },
     "61": {
       "episode": "61",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-11-04",
       "title": {
-        "en": "Episode 61"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526658,
+      "seasonNumber": 1,
       "episodeNumber": 61,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 61,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526658/screencap/675a4cad7cb34.jpg"
     },
     "62": {
       "episode": "62",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-11-11",
       "title": {
-        "en": "Episode 62"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526609,
+      "seasonNumber": 1,
       "episodeNumber": 62,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 62,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526609/screencap/675a4cd3e6bcb.jpg"
     },
     "63": {
       "episode": "63",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-11-18",
       "title": {
-        "en": "Episode 63"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526660,
+      "seasonNumber": 1,
       "episodeNumber": 63,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 63,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526660/screencap/675a4cf30cb8e.jpg"
     },
     "64": {
       "episode": "64",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-11-25",
       "title": {
-        "en": "Episode 64"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10526661,
+      "seasonNumber": 1,
       "episodeNumber": 64,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 64,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10526661/screencap/675a4d0fbd59f.jpg"
     },
     "65": {
       "episode": "65",
-      "length": "25m",
-      "airDate": "2024-12-02",
+      "length": 25,
+      "airDate": "2024-12-01",
       "title": {
-        "en": "Episode 65"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10822560,
+      "seasonNumber": 1,
       "episodeNumber": 65,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 65,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10822560/screencap/675a4d28d46ba.jpg"
     },
     "66": {
       "episode": "66",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-12-08",
       "title": {
-        "en": "Episode 66"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10822561,
+      "seasonNumber": 1,
       "episodeNumber": 66,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 66,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10822561/screencap/675a4d48abc26.jpg"
     },
     "67": {
       "episode": "67",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-12-15",
       "title": {
-        "en": "Episode 67"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10822562,
+      "seasonNumber": 1,
       "episodeNumber": 67,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 67,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10822562/screencap/679a3e3751318.jpg"
     },
     "68": {
       "episode": "68",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-12-22",
       "title": {
-        "en": "Episode 68"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10822563,
+      "seasonNumber": 1,
       "episodeNumber": 68,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 68,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10822563/screencap/679a3e50e358c.jpg"
     },
     "69": {
       "episode": "69",
-      "length": "25m",
+      "length": 25,
       "airDate": "2024-12-29",
       "title": {
-        "en": "Episode 69"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10822564,
+      "seasonNumber": 1,
       "episodeNumber": 69,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 69,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10822564/screencap/679a3e6c9c71c.jpg"
     },
     "70": {
       "episode": "70",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-01-05",
       "title": {
-        "en": "Episode 70"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10822565,
+      "seasonNumber": 1,
       "episodeNumber": 70,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 70,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10822565/screencap/679a3e8953183.jpg"
     },
     "71": {
       "episode": "71",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-01-12",
       "title": {
-        "en": "Episode 71"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10822566,
+      "seasonNumber": 1,
       "episodeNumber": 71,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 71,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10822566/screencap/679a3ea523e03.jpg"
     },
     "72": {
       "episode": "72",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-01-19",
       "title": {
-        "en": "Episode 72"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10822567,
+      "seasonNumber": 1,
       "episodeNumber": 72,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 72,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10822567/screencap/679a3ebf7e8b4.jpg"
     },
     "73": {
       "episode": "73",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-01-26",
       "title": {
-        "en": "Episode 73"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10822568,
+      "seasonNumber": 1,
       "episodeNumber": 73,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 73,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10822568/screencap/679a3ed7796d7.jpg"
     },
     "74": {
       "episode": "74",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-02-02",
       "title": {
-        "en": "Episode 74"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10822569,
+      "seasonNumber": 1,
       "episodeNumber": 74,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 74,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10822569/screencap/67a8e7fb7d92e.jpg"
     },
     "75": {
       "episode": "75",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-02-09",
       "title": {
-        "en": "Episode 75"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10822570,
+      "seasonNumber": 1,
       "episodeNumber": 75,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 75,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10822570/screencap/67b2278cdda1e.jpg"
     },
     "76": {
       "episode": "76",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-02-16",
       "title": {
-        "en": "Episode 76"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10822571,
+      "seasonNumber": 1,
       "episodeNumber": 76,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 76,
+      "runtime": 20,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10822571/screencap/67b227a15b5ca.jpg"
     },
     "77": {
       "episode": "77",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-02-23",
       "title": {
-        "en": "Episode 77"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953341,
+      "seasonNumber": 1,
       "episodeNumber": 77,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 77,
+      "runtime": 20,
       "image": null
     },
     "78": {
       "episode": "78",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-03-02",
       "title": {
-        "en": "Episode 78"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953342,
+      "seasonNumber": 1,
       "episodeNumber": 78,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 78,
+      "runtime": 20,
       "image": null
     },
     "79": {
       "episode": "79",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-03-09",
       "title": {
-        "en": "Episode 79"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953343,
+      "seasonNumber": 1,
       "episodeNumber": 79,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 79,
+      "runtime": 20,
       "image": null
     },
     "80": {
       "episode": "80",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-03-16",
       "title": {
-        "en": "Episode 80"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953344,
+      "seasonNumber": 1,
       "episodeNumber": 80,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 80,
+      "runtime": 20,
       "image": null
     },
     "81": {
       "episode": "81",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-03-23",
       "title": {
-        "en": "Episode 81"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953345,
+      "seasonNumber": 1,
       "episodeNumber": 81,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 81,
+      "runtime": 20,
       "image": null
     },
     "82": {
       "episode": "82",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-03-30",
       "title": {
-        "en": "Episode 82"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953346,
+      "seasonNumber": 1,
       "episodeNumber": 82,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 82,
+      "runtime": 20,
       "image": null
     },
     "83": {
       "episode": "83",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-04-06",
       "title": {
-        "en": "Episode 83"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953347,
+      "seasonNumber": 1,
       "episodeNumber": 83,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 83,
+      "runtime": 20,
       "image": null
     },
     "84": {
       "episode": "84",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-04-13",
       "title": {
-        "en": "Episode 84"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953348,
+      "seasonNumber": 1,
       "episodeNumber": 84,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 84,
+      "runtime": 20,
       "image": null
     },
     "85": {
       "episode": "85",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-04-20",
       "title": {
-        "en": "Episode 85"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953349,
+      "seasonNumber": 1,
       "episodeNumber": 85,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 85,
+      "runtime": 20,
       "image": null
     },
     "86": {
       "episode": "86",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-04-27",
       "title": {
-        "en": "Episode 86"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953350,
+      "seasonNumber": 1,
       "episodeNumber": 86,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 86,
+      "runtime": 20,
       "image": null
     },
     "87": {
       "episode": "87",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-05-04",
       "title": {
-        "en": "Episode 87"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953351,
+      "seasonNumber": 1,
       "episodeNumber": 87,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 87,
+      "runtime": 20,
       "image": null
     },
     "88": {
       "episode": "88",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-05-11",
       "title": {
-        "en": "Episode 88"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953352,
+      "seasonNumber": 1,
       "episodeNumber": 88,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 88,
+      "runtime": 20,
       "image": null
     },
     "89": {
       "episode": "89",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-05-18",
       "title": {
-        "en": "Episode 89"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953353,
+      "seasonNumber": 1,
       "episodeNumber": 89,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 89,
+      "runtime": 20,
       "image": null
     },
     "90": {
       "episode": "90",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-05-25",
       "title": {
-        "en": "Episode 90"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953354,
+      "seasonNumber": 1,
       "episodeNumber": 90,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 90,
+      "runtime": 20,
       "image": null
     },
     "91": {
       "episode": "91",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-06-01",
       "title": {
-        "en": "Episode 91"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953355,
+      "seasonNumber": 1,
       "episodeNumber": 91,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 91,
+      "runtime": 20,
       "image": null
     },
     "92": {
       "episode": "92",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-06-08",
       "title": {
-        "en": "Episode 92"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953356,
+      "seasonNumber": 1,
       "episodeNumber": 92,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 92,
+      "runtime": 20,
       "image": null
     },
     "93": {
       "episode": "93",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-06-15",
       "title": {
-        "en": "Episode 93"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953357,
+      "seasonNumber": 1,
       "episodeNumber": 93,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 93,
+      "runtime": 20,
       "image": null
     },
     "94": {
       "episode": "94",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-06-22",
       "title": {
-        "en": "Episode 94"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953358,
+      "seasonNumber": 1,
       "episodeNumber": 94,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 94,
+      "runtime": 20,
       "image": null
     },
     "95": {
       "episode": "95",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-06-29",
       "title": {
-        "en": "Episode 95"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953359,
+      "seasonNumber": 1,
       "episodeNumber": 95,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 95,
+      "runtime": 20,
       "image": null
     },
     "96": {
       "episode": "96",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-07-06",
       "title": {
-        "en": "Episode 96"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953360,
+      "seasonNumber": 1,
       "episodeNumber": 96,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 96,
+      "runtime": 20,
       "image": null
     },
     "97": {
       "episode": "97",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-07-13",
       "title": {
-        "en": "Episode 97"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953361,
+      "seasonNumber": 1,
       "episodeNumber": 97,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 97,
+      "runtime": 20,
       "image": null
     },
     "98": {
       "episode": "98",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-07-20",
       "title": {
-        "en": "Episode 98"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953362,
+      "seasonNumber": 1,
       "episodeNumber": 98,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 98,
+      "runtime": 20,
       "image": null
     },
     "99": {
       "episode": "99",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-07-27",
       "title": {
-        "en": "Episode 99"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953363,
+      "seasonNumber": 1,
       "episodeNumber": 99,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 99,
+      "runtime": 20,
       "image": null
     },
     "100": {
       "episode": "100",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-08-03",
       "title": {
-        "en": "Episode 100"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953364,
+      "seasonNumber": 1,
       "episodeNumber": 100,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 100,
+      "runtime": 20,
       "image": null
     },
     "101": {
       "episode": "101",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-08-10",
       "title": {
-        "en": "Episode 101"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953365,
+      "seasonNumber": 1,
       "episodeNumber": 101,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 101,
+      "runtime": 20,
       "image": null
     },
     "102": {
       "episode": "102",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-08-17",
       "title": {
-        "en": "Episode 102"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953366,
+      "seasonNumber": 1,
       "episodeNumber": 102,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 102,
+      "runtime": 20,
       "image": null
     },
     "103": {
       "episode": "103",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-08-24",
       "title": {
-        "en": "Episode 103"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953367,
+      "seasonNumber": 1,
       "episodeNumber": 103,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 103,
+      "runtime": 20,
       "image": null
     },
     "104": {
       "episode": "104",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-08-31",
       "title": {
-        "en": "Episode 104"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953368,
+      "seasonNumber": 1,
       "episodeNumber": 104,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 104,
+      "runtime": 20,
       "image": null
     },
     "105": {
       "episode": "105",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-09-07",
       "title": {
-        "en": "Episode 105"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953369,
+      "seasonNumber": 1,
       "episodeNumber": 105,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 105,
+      "runtime": 20,
       "image": null
     },
     "106": {
       "episode": "106",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-09-14",
       "title": {
-        "en": "Episode 106"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953370,
+      "seasonNumber": 1,
       "episodeNumber": 106,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 106,
+      "runtime": 20,
       "image": null
     },
     "107": {
       "episode": "107",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-09-21",
       "title": {
-        "en": "Episode 107"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953371,
+      "seasonNumber": 1,
       "episodeNumber": 107,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 107,
+      "runtime": 20,
       "image": null
     },
     "108": {
       "episode": "108",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-09-28",
       "title": {
-        "en": "Episode 108"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953372,
+      "seasonNumber": 1,
       "episodeNumber": 108,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 108,
+      "runtime": 20,
       "image": null
     },
     "109": {
       "episode": "109",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-05",
       "title": {
-        "en": "Episode 109"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953373,
+      "seasonNumber": 1,
       "episodeNumber": 109,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 109,
+      "runtime": 20,
       "image": null
     },
     "110": {
       "episode": "110",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-12",
       "title": {
-        "en": "Episode 110"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953374,
+      "seasonNumber": 1,
       "episodeNumber": 110,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 110,
+      "runtime": 20,
       "image": null
     },
     "111": {
       "episode": "111",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-19",
       "title": {
-        "en": "Episode 111"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953375,
+      "seasonNumber": 1,
       "episodeNumber": 111,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 111,
+      "runtime": 20,
       "image": null
     },
     "112": {
       "episode": "112",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-10-26",
       "title": {
-        "en": "Episode 112"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953376,
+      "seasonNumber": 1,
       "episodeNumber": 112,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 112,
+      "runtime": 20,
       "image": null
     },
     "113": {
       "episode": "113",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-11-02",
       "title": {
-        "en": "Episode 113"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953377,
+      "seasonNumber": 1,
       "episodeNumber": 113,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 113,
+      "runtime": 20,
       "image": null
     },
     "114": {
       "episode": "114",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-11-09",
       "title": {
-        "en": "Episode 114"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953378,
+      "seasonNumber": 1,
       "episodeNumber": 114,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 114,
+      "runtime": 20,
       "image": null
     },
     "115": {
       "episode": "115",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-11-16",
       "title": {
-        "en": "Episode 115"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953379,
+      "seasonNumber": 1,
       "episodeNumber": 115,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 115,
+      "runtime": 20,
       "image": null
     },
     "116": {
       "episode": "116",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-11-23",
       "title": {
-        "en": "Episode 116"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953380,
+      "seasonNumber": 1,
       "episodeNumber": 116,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 116,
+      "runtime": 20,
       "image": null
     },
     "117": {
       "episode": "117",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-11-30",
       "title": {
-        "en": "Episode 117"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953381,
+      "seasonNumber": 1,
       "episodeNumber": 117,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 117,
+      "runtime": 20,
       "image": null
     },
     "118": {
       "episode": "118",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-12-07",
       "title": {
-        "en": "Episode 118"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953382,
+      "seasonNumber": 1,
       "episodeNumber": 118,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 118,
+      "runtime": 20,
       "image": null
     },
     "119": {
       "episode": "119",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-12-14",
       "title": {
-        "en": "Episode 119"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953383,
+      "seasonNumber": 1,
       "episodeNumber": 119,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 119,
+      "runtime": 20,
       "image": null
     },
     "120": {
       "episode": "120",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-12-21",
       "title": {
-        "en": "Episode 120"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953384,
+      "seasonNumber": 1,
       "episodeNumber": 120,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 120,
+      "runtime": 20,
       "image": null
     },
     "121": {
       "episode": "121",
-      "length": "25m",
+      "length": 25,
       "airDate": "2025-12-28",
       "title": {
-        "en": "Episode 121"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953385,
+      "seasonNumber": 1,
       "episodeNumber": 121,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 121,
+      "runtime": 20,
       "image": null
     },
     "122": {
       "episode": "122",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-01-04",
       "title": {
-        "en": "Episode 122"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953386,
+      "seasonNumber": 1,
       "episodeNumber": 122,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 122,
+      "runtime": 20,
       "image": null
     },
     "123": {
       "episode": "123",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-01-11",
       "title": {
-        "en": "Episode 123"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953387,
+      "seasonNumber": 1,
       "episodeNumber": 123,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 123,
+      "runtime": 20,
       "image": null
     },
     "124": {
       "episode": "124",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-01-18",
       "title": {
-        "en": "Episode 124"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953388,
+      "seasonNumber": 1,
       "episodeNumber": 124,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 124,
+      "runtime": 20,
       "image": null
     },
     "125": {
       "episode": "125",
-      "length": "25m",
+      "length": 30,
       "airDate": "2026-01-25",
       "title": {
-        "en": "Episode 125"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953389,
+      "seasonNumber": 1,
       "episodeNumber": 125,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 125,
+      "runtime": 20,
       "image": null
     },
     "126": {
       "episode": "126",
-      "length": "25m",
+      "length": 30,
       "airDate": "2026-02-01",
       "title": {
-        "en": "Episode 126"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953390,
+      "seasonNumber": 1,
       "episodeNumber": 126,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 126,
+      "runtime": 20,
       "image": null
     },
     "127": {
       "episode": "127",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-08",
       "title": {
-        "en": "Episode 127"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953391,
+      "seasonNumber": 1,
       "episodeNumber": 127,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 127,
+      "runtime": 20,
       "image": null
     },
     "128": {
       "episode": "128",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-15",
       "title": {
-        "en": "Episode 128"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 10953392,
+      "seasonNumber": 1,
       "episodeNumber": 128,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 128,
+      "runtime": 20,
       "image": null
     },
     "129": {
       "episode": "129",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-02-22",
       "title": {
-        "en": "Episode 129"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620389,
+      "seasonNumber": 1,
       "episodeNumber": 129,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "absoluteEpisodeNumber": 129,
+      "runtime": 20,
       "image": null
     },
     "130": {
       "episode": "130",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-01",
       "title": {
-        "en": "Episode 130"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620390,
+      "seasonNumber": 1,
       "episodeNumber": 130,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 130,
       "runtime": null,
       "image": null
     },
     "131": {
       "episode": "131",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-08",
       "title": {
-        "en": "Episode 131"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620391,
+      "seasonNumber": 1,
       "episodeNumber": 131,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 131,
       "runtime": null,
       "image": null
     },
     "132": {
       "episode": "132",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-15",
       "title": {
-        "en": "Episode 132"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620392,
+      "seasonNumber": 1,
       "episodeNumber": 132,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 132,
       "runtime": null,
       "image": null
     },
     "133": {
       "episode": "133",
-      "length": "25m",
+      "length": 30,
       "airDate": "2026-03-22",
       "title": {
-        "en": "Episode 133"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620393,
+      "seasonNumber": 1,
       "episodeNumber": 133,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 133,
       "runtime": null,
       "image": null
     },
     "134": {
       "episode": "134",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-03-29",
       "title": {
-        "en": "Episode 134"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620394,
+      "seasonNumber": 1,
       "episodeNumber": 134,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 134,
       "runtime": null,
       "image": null
     },
     "135": {
       "episode": "135",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-05",
       "title": {
-        "en": "Episode 135"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620395,
+      "seasonNumber": 1,
       "episodeNumber": 135,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 135,
       "runtime": null,
       "image": null
     },
     "136": {
       "episode": "136",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-12",
       "title": {
-        "en": "Episode 136"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620396,
+      "seasonNumber": 1,
       "episodeNumber": 136,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 136,
       "runtime": null,
       "image": null
     },
     "137": {
       "episode": "137",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-19",
       "title": {
-        "en": "Episode 137"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620397,
+      "seasonNumber": 1,
       "episodeNumber": 137,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 137,
       "runtime": null,
       "image": null
     },
     "138": {
       "episode": "138",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-26",
       "title": {
-        "en": "Episode 138"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620398,
+      "seasonNumber": 1,
       "episodeNumber": 138,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 138,
       "runtime": null,
       "image": null
     },
     "139": {
       "episode": "139",
-      "length": "25m",
+      "length": 30,
       "airDate": "2026-05-03",
       "title": {
-        "en": "Episode 139"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620399,
+      "seasonNumber": 1,
       "episodeNumber": 139,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 139,
       "runtime": null,
       "image": null
     },
     "140": {
       "episode": "140",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-10",
       "title": {
-        "en": "Episode 140"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620400,
+      "seasonNumber": 1,
       "episodeNumber": 140,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 140,
       "runtime": null,
       "image": null
     },
     "141": {
       "episode": "141",
-      "length": "25m",
+      "length": 30,
       "airDate": "2026-05-17",
       "title": {
-        "en": "Episode 141"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620479,
+      "seasonNumber": 1,
       "episodeNumber": 141,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 141,
       "runtime": null,
       "image": null
     },
     "142": {
       "episode": "142",
-      "length": "25m",
+      "length": 30,
       "airDate": "2026-05-24",
       "title": {
-        "en": "Episode 142"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620480,
+      "seasonNumber": 1,
       "episodeNumber": 142,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 142,
       "runtime": null,
       "image": null
     },
     "143": {
       "episode": "143",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-31",
       "title": {
-        "en": "Episode 143"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620481,
+      "seasonNumber": 1,
       "episodeNumber": 143,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 143,
       "runtime": null,
       "image": null
     },
     "144": {
       "episode": "144",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-07",
       "title": {
-        "en": "Episode 144"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620482,
+      "seasonNumber": 1,
       "episodeNumber": 144,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 144,
       "runtime": null,
       "image": null
     },
     "145": {
       "episode": "145",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-14",
       "title": {
-        "en": "Episode 145"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620483,
+      "seasonNumber": 1,
       "episodeNumber": 145,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 145,
       "runtime": null,
       "image": null
     },
     "146": {
       "episode": "146",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-21",
       "title": {
-        "en": "Episode 146"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620484,
+      "seasonNumber": 1,
       "episodeNumber": 146,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 146,
       "runtime": null,
       "image": null
     },
     "147": {
       "episode": "147",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-28",
       "title": {
-        "en": "Episode 147"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620485,
+      "seasonNumber": 1,
       "episodeNumber": 147,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 147,
       "runtime": null,
       "image": null
     },
     "148": {
       "episode": "148",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-05",
       "title": {
-        "en": "Episode 148"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620486,
+      "seasonNumber": 1,
       "episodeNumber": 148,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 148,
       "runtime": null,
       "image": null
     },
     "149": {
       "episode": "149",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-12",
       "title": {
-        "en": "Episode 149"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620487,
+      "seasonNumber": 1,
       "episodeNumber": 149,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 149,
       "runtime": null,
       "image": null
     },
     "150": {
       "episode": "150",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-19",
       "title": {
-        "en": "Episode 150"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620488,
+      "seasonNumber": 1,
       "episodeNumber": 150,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 150,
       "runtime": null,
       "image": null
     },
     "151": {
       "episode": "151",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-26",
       "title": {
-        "en": "Episode 151"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 433335,
+      "tvdbId": 11620489,
+      "seasonNumber": 1,
       "episodeNumber": 151,
-      "absoluteEpisodeNumber": null,
+      "absoluteEpisodeNumber": 151,
       "runtime": null,
       "image": null
     },
     "152": {
       "episode": "152",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-02",
       "title": {
-        "en": "Episode 152"
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620490,
+      "seasonNumber": 1,
+      "episodeNumber": 152,
+      "absoluteEpisodeNumber": 152,
+      "runtime": null,
+      "image": null
+    },
+    "153": {
+      "episode": "153",
+      "length": 25,
+      "airDate": "2026-08-09",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620491,
+      "seasonNumber": 1,
+      "episodeNumber": 153,
+      "absoluteEpisodeNumber": 153,
+      "runtime": null,
+      "image": null
+    },
+    "154": {
+      "episode": "154",
+      "length": 25,
+      "airDate": "2026-08-16",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620492,
+      "seasonNumber": 1,
+      "episodeNumber": 154,
+      "absoluteEpisodeNumber": 154,
+      "runtime": null,
+      "image": null
+    },
+    "155": {
+      "episode": "155",
+      "length": 25,
+      "airDate": "2026-08-23",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620493,
+      "seasonNumber": 1,
+      "episodeNumber": 155,
+      "absoluteEpisodeNumber": 155,
+      "runtime": null,
+      "image": null
+    },
+    "156": {
+      "episode": "156",
+      "length": 25,
+      "airDate": "2026-08-30",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620494,
+      "seasonNumber": 1,
+      "episodeNumber": 156,
+      "absoluteEpisodeNumber": 156,
+      "runtime": null,
+      "image": null
+    },
+    "157": {
+      "episode": "157",
+      "length": 25,
+      "airDate": "2026-09-06",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620495,
+      "seasonNumber": 1,
+      "episodeNumber": 157,
+      "absoluteEpisodeNumber": 157,
+      "runtime": null,
+      "image": null
+    },
+    "158": {
+      "episode": "158",
+      "length": 25,
+      "airDate": "2026-09-13",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620496,
+      "seasonNumber": 1,
+      "episodeNumber": 158,
+      "absoluteEpisodeNumber": 158,
+      "runtime": null,
+      "image": null
+    },
+    "159": {
+      "episode": "159",
+      "length": 25,
+      "airDate": "2026-09-20",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620497,
+      "seasonNumber": 1,
+      "episodeNumber": 159,
+      "absoluteEpisodeNumber": 159,
+      "runtime": null,
+      "image": null
+    },
+    "160": {
+      "episode": "160",
+      "length": 25,
+      "airDate": "2026-09-27",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620498,
+      "seasonNumber": 1,
+      "episodeNumber": 160,
+      "absoluteEpisodeNumber": 160,
+      "runtime": null,
+      "image": null
+    },
+    "161": {
+      "episode": "161",
+      "length": 25,
+      "airDate": "2026-10-04",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620506,
+      "seasonNumber": 1,
+      "episodeNumber": 161,
+      "absoluteEpisodeNumber": 161,
+      "runtime": null,
+      "image": null
+    },
+    "162": {
+      "episode": "162",
+      "length": 25,
+      "airDate": "2026-10-11",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620507,
+      "seasonNumber": 1,
+      "episodeNumber": 162,
+      "absoluteEpisodeNumber": 162,
+      "runtime": null,
+      "image": null
+    },
+    "163": {
+      "episode": "163",
+      "length": 25,
+      "airDate": "2026-10-18",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620508,
+      "seasonNumber": 1,
+      "episodeNumber": 163,
+      "absoluteEpisodeNumber": 163,
+      "runtime": null,
+      "image": null
+    },
+    "164": {
+      "episode": "164",
+      "length": 25,
+      "airDate": "2026-10-25",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620509,
+      "seasonNumber": 1,
+      "episodeNumber": 164,
+      "absoluteEpisodeNumber": 164,
+      "runtime": null,
+      "image": null
+    },
+    "165": {
+      "episode": "165",
+      "length": 25,
+      "airDate": "2026-11-01",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620510,
+      "seasonNumber": 1,
+      "episodeNumber": 165,
+      "absoluteEpisodeNumber": 165,
+      "runtime": null,
+      "image": null
+    },
+    "166": {
+      "episode": "166",
+      "length": 25,
+      "airDate": "2026-11-08",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620511,
+      "seasonNumber": 1,
+      "episodeNumber": 166,
+      "absoluteEpisodeNumber": 166,
+      "runtime": null,
+      "image": null
+    },
+    "167": {
+      "episode": "167",
+      "length": 25,
+      "airDate": "2026-11-15",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620512,
+      "seasonNumber": 1,
+      "episodeNumber": 167,
+      "absoluteEpisodeNumber": 167,
+      "runtime": null,
+      "image": null
+    },
+    "168": {
+      "episode": "168",
+      "length": 25,
+      "airDate": "2026-11-22",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620513,
+      "seasonNumber": 1,
+      "episodeNumber": 168,
+      "absoluteEpisodeNumber": 168,
+      "runtime": null,
+      "image": null
+    },
+    "169": {
+      "episode": "169",
+      "length": 25,
+      "airDate": "2026-11-29",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620514,
+      "seasonNumber": 1,
+      "episodeNumber": 169,
+      "absoluteEpisodeNumber": 169,
+      "runtime": null,
+      "image": null
+    },
+    "170": {
+      "episode": "170",
+      "length": 25,
+      "airDate": "2026-12-06",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620515,
+      "seasonNumber": 1,
+      "episodeNumber": 170,
+      "absoluteEpisodeNumber": 170,
+      "runtime": null,
+      "image": null
+    },
+    "171": {
+      "episode": "171",
+      "length": 25,
+      "airDate": "2026-12-13",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620516,
+      "seasonNumber": 1,
+      "episodeNumber": 171,
+      "absoluteEpisodeNumber": 171,
+      "runtime": null,
+      "image": null
+    },
+    "172": {
+      "episode": "172",
+      "length": 25,
+      "airDate": "2026-12-20",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 433335,
+      "tvdbId": 11620517,
+      "seasonNumber": 1,
+      "episodeNumber": 172,
+      "absoluteEpisodeNumber": 172,
+      "runtime": null,
+      "image": null
+    },
+    "S1": {
+      "episode": "S1",
+      "length": 5,
+      "airDate": "2026-08-23",
+      "title": {
+        "en": "Renegade Immortal Mini Stories 1"
       },
       "tvdbShowId": null,
       "tvdbId": null,
       "seasonNumber": null,
-      "episodeNumber": 152,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": 5,
+      "airDate": "2026-08-23",
+      "title": {
+        "en": "Renegade Immortal Mini Stories 2"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S3": {
+      "episode": "S3",
+      "length": 5,
+      "airDate": "2026-08-25",
+      "title": {
+        "en": "Renegade Immortal Mini Stories 3"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S4": {
+      "episode": "S4",
+      "length": 6,
+      "airDate": "2026-09-01",
+      "title": {
+        "en": "Renegade Immortal Mini Stories 4"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S5": {
+      "episode": "S5",
+      "length": 4,
+      "airDate": "2026-09-08",
+      "title": {
+        "en": "Renegade Immortal Mini Stories 5"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S6": {
+      "episode": "S6",
+      "length": 5,
+      "airDate": "2026-09-15",
+      "title": {
+        "en": "Renegade Immortal Mini Stories 6"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S7": {
+      "episode": "S7",
+      "length": 7,
+      "airDate": "2026-09-22",
+      "title": {
+        "en": "Renegade Immortal Mini Stories 7"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S8": {
+      "episode": "S8",
+      "length": 6,
+      "airDate": "2026-09-29",
+      "title": {
+        "en": "Renegade Immortal Mini Stories 8"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S9": {
+      "episode": "S9",
+      "length": 5,
+      "airDate": "2026-10-06",
+      "title": {
+        "en": "Renegade Immortal Mini Stories 9"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S10": {
+      "episode": "S10",
+      "length": 6,
+      "airDate": "2026-10-13",
+      "title": {
+        "en": "Renegade Immortal Mini Stories 10"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T16:07:40.861Z",
+    "lastFetched": "2026-11-22T00:42:12.819Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

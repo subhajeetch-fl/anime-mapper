@@ -25,13 +25,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
   "episodeLength": 24,
   "aired": {
     "from": "2026-07-02T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-17T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -40,15 +40,12 @@
     "time": "00:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 11,
-    "airingAt": 1788361200
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.33,
-    "anilistScore": 6,
-    "kitsuRating": 7.04
+    "malScore": 6.12,
+    "anilistScore": 6.1,
+    "kitsuRating": null
   },
   "genres": [
     "Fantasy",
@@ -60,184 +57,243 @@
     "Brain's Base"
   ],
   "producers": [
-    "MediaNet",
-    "BS Fuji",
     "DMM.com",
-    "Bit grooove promotion",
+    "GREE Entertainment",
+    "MediaNet",
     "Pia",
-    "Imagine",
-    "GREE Entertainment"
+    "BS Fuji",
+    "SYSTEM SERVICE",
+    "Bit grooove promotion"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1366/158400l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1366/158400l.webp",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197715-X8YkpOGY968a.jpg",
     "color": "#5daef1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "YfWJLXcN7hI",
+    "url": "https://www.youtube.com/watch?v=YfWJLXcN7hI",
+    "thumbnail": "https://i.ytimg.com/vi/YfWJLXcN7hI/hqdefault.jpg"
+  },
   "synopsis": "In this world, the concept of levels exist. Other than those who live off defeating monsters, most people are only around level 1 to 5. What's more, not just anyone can go out to hunt monsters; it's heavily influenced by one's role anointed by God. There are eight such eligible roles. Warrior. Fighter. Cleric. Magician. Rogue. Merchant. Hunter. Sorcerer. Those blessed with extraordinary power are divided into three types. Royalty. Heroes. Sages. But for the majority of the population, they have no such powers and live by farming or running shops. Towns are developed by those with the weakest role...villagers.\n\nFor the powerless villagers going out to hunt monsters is equivalent to committing suicide. But one day, a certain two-year-old child given the role of villager notices something.\n\nOnce you defeat a monster... you can earn great wealth.",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-02",
       "title": {
-        "en": "How the World Works"
+        "en": "How the World Works",
+        "romaji": "Sekai no Shikomi",
+        "ja": "世界の仕組み"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467127,
+      "tvdbId": 11297500,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11297500/screencap/6a3e70ab2489c.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
-      "airDate": "2026-07-02",
+      "length": 25,
+      "airDate": "2026-07-09",
       "title": {
-        "en": "The Ultimate Idiot"
+        "en": "The Ultimate Idiot",
+        "romaji": "Saikou ni Baka Dakara",
+        "ja": "最高に馬鹿だから"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467127,
+      "tvdbId": 11867404,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867404/screencap/6a4e5c254366f.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
-      "airDate": "2026-07-09",
+      "length": 25,
+      "airDate": "2026-07-16",
       "title": {
-        "en": "Demon and Human Coexistence"
+        "en": "Demon and Human Coexistence",
+        "romaji": "Mazoku to Ningen no Kyouzon",
+        "ja": "魔族と人間の共存"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467127,
+      "tvdbId": 11867405,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867405/screencap/6a56d680908de.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
-      "airDate": "2026-07-16",
+      "length": 25,
+      "airDate": "2026-07-23",
       "title": {
-        "en": "I Have Questions for You"
+        "en": "I Have Questions for You",
+        "romaji": "Kikitai Koto ga Aru",
+        "ja": "聞きたいことがある"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467127,
+      "tvdbId": 11868173,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868173/screencap/6a5fea73495ce.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
-      "airDate": "2026-07-23",
+      "length": 25,
+      "airDate": "2026-07-30",
       "title": {
-        "en": "Episode 5"
+        "en": "Assigned Roles",
+        "romaji": "Ataerareta Yakuwari",
+        "ja": "与えられた役割"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467127,
+      "tvdbId": 11868178,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868178/screencap/6a60e9412b250.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
-      "airDate": "2026-07-30",
+      "length": 25,
+      "airDate": "2026-08-06",
       "title": {
-        "en": "Episode 6"
+        "en": "Her Highness`s Thinking",
+        "romaji": "Himesama no Okangae",
+        "ja": "姫様のお考え"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467127,
+      "tvdbId": 11868189,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868189/screencap/6a708930c30f9.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
-      "airDate": "2026-08-06",
+      "length": 25,
+      "airDate": "2026-08-13",
       "title": {
-        "en": "Episode 7"
+        "en": "You`re Changed by the People You Meet",
+        "romaji": "Deai wa Hito o Kaeru",
+        "ja": "出会いは人を変える"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467127,
+      "tvdbId": 11868190,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868190/screencap/6a7bd78b8f3c2.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
-      "airDate": "2026-08-13",
+      "length": 25,
+      "airDate": "2026-08-20",
       "title": {
-        "en": "Episode 8"
+        "en": "Incompatible",
+        "romaji": "Ai Irenai",
+        "ja": "相容れない"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467127,
+      "tvdbId": 11868191,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868191/screencap/6a834d3bd171f.jpg"
     },
-    "C1": {
-      "episode": "C1",
-      "length": "2m",
-      "airDate": "2026-07-02",
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-27",
       "title": {
-        "en": "Opening"
+        "en": "Hope Like Never Before",
+        "romaji": "Kore made ni Nai Kibou",
+        "ja": "これまでにない希望"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 467127,
+      "tvdbId": 11868199,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868199/screencap/6a85d35ac25e7.jpg"
     },
-    "C2": {
-      "episode": "C2",
-      "length": "2m",
-      "airDate": "2026-07-02",
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-03",
       "title": {
-        "en": "Ending"
+        "en": "Damned Ideas of Common Sense",
+        "romaji": "Kore Kara Kowasu",
+        "ja": "これから壊す"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 467127,
+      "tvdbId": 11868200,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868200/screencap/6a98436e84876.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-10",
+      "title": {
+        "en": "The King`s Authority Is Absolute",
+        "romaji": "Ou wa Zettai",
+        "ja": "王は絶対"
+      },
+      "tvdbShowId": 467127,
+      "tvdbId": 11868203,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868203/screencap/6aa0afc47e3a7.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-17",
+      "title": {
+        "en": "Damned Ideas of Common Sense",
+        "romaji": "Kuso Mitai na Joushiki",
+        "ja": "クソみたいな常識"
+      },
+      "tvdbShowId": 467127,
+      "tvdbId": 11868204,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868204/screencap/6aaab9a98e837.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:26:30.129Z",
+    "lastFetched": "2026-11-22T00:50:28.184Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

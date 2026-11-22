@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -49,32 +45,30 @@
   },
   "genres": [
     "Action",
-    "Fantasy"
+    "Fantasy",
+    "Historical"
   ],
   "studios": [],
-  "producers": [
-    "iQIYI"
-  ],
+  "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1533/149667l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1533/149667l.webp",
     "banner": null,
     "color": null
   },
   "trailer": null,
-  "synopsis": "Martial artists with strange bones and unique skills are called Qiwu people. Some Qiwu people who pursued prosperity and peace surrendered to the imperial court and formed the \"Duwu Division,\" while other Qiwu people who pursued hegemony in troubled times formed the \"Zhenwu Society.\" \n\nIn the early years of the Tang Dynasty, the Zhenwu Society was in chaos. Yun Xinxiao, a good-for-nothing brother who was invited to the capital of gods, joined the Chang An Duwu Division in the crisis, underwent a strange bone transplant and received unique skills. Yun Xinxiao and his fellow Duwusi companions, including Shi Nan and Themis, go from the streets to the imperial palace and into every corner of Chang An City, gradually uncovering the mysterious cause of death of their brother Yun Xinyao, and finding out the mastermind behind the death, Bu Wenjun, in a bid to crack down on a super terrorist attack against the current Supreme and even the entire prosperous age. The road of revenge and protection is full of unknowns. Yun Xinxiao's choice will determine the fate of Chang An...\n\n(Source: iQIYI, Google translated)",
+  "synopsis": "Martial artists with strange bones and unique skills are called Qiwu people. Some Qiwu people who pursued prosperity and peace surrendered to the imperial court and formed the \"Duwu Division,\" while other Qiwu people who pursued hegemony in troubled times formed the \"Zhenwu Society.\" \n\nIn the early years of the Tang Dynasty, the Zhenwu Society was in chaos. Yun Xinxiao, a good-for-nothing brother who was invited to the capital of gods, joined the Chang An Duwu Division in the crisis, underwent a strange bone transplant and received unique skills. Yun Xinxiao and his fellow Duwusi companions, including Shi Nan and Themis, go from the streets to the imperial palace and into every corner of Chang An City, gradually uncovering the mysterious cause of death of their brother Yun Xinyao, and finding out the mastermind behind the death, Bu Wenjun, in a bid to crack down on a super terrorist attack against the current Supreme and even the entire prosperous age. The road of revenge and protection is full of unknowns. Yun Xinxiao's choice will determine the fate of Chang An...\n\n(Source: iQIYI, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:36:38.881Z",
+    "lastFetched": "2026-11-22T00:48:17.401Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

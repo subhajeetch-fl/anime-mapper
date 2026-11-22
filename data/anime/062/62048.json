@@ -28,13 +28,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 26,
-  "episodeLength": null,
+  "episodeLength": 25,
   "aired": {
     "from": "2026-04-04T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-26T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2026,
@@ -43,19 +43,20 @@
     "time": "23:45",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 23,
-    "airingAt": 1788619560
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": 6.99,
-    "anilistScore": 6.5,
+    "anilistScore": 6.6,
     "kitsuRating": null
   },
   "genres": [
+    "Historical",
     "Mystery",
+    "Mythology",
+    "Shounen",
     "Supernatural",
+    "Time Travel",
     "Drama",
     "Romance"
   ],
@@ -63,273 +64,471 @@
     "Sunrise"
   ],
   "producers": [
-    "Shogakukan-Shueisha Productions",
-    "Rakuonsha",
+    "Bandai Namco Filmworks",
     "Shogakukan",
     "NHK Enterprises",
-    "Bandai Namco Filmworks",
+    "Shogakukan-Shueisha Productions",
     "Bandai Namco Music Live"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1738/156386l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1738/156386l.webp",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
     "color": "#f1935d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "eVfpoS0rjw0",
+    "url": "https://www.youtube.com/watch?v=eVfpoS0rjw0",
+    "thumbnail": "https://i.ytimg.com/vi/eVfpoS0rjw0/hqdefault.jpg"
+  },
   "synopsis": "Nanoka passes through a portal into the Taisho era, where exorcist Mao reluctantly rescues her from the jaws of a grotesque yokai. When Nanoka gets back to the present, she discovers she has some new, incredible abilities. She returns to the past looking for answers, only to get caught up in Mao's investigation of a series of gruesome murders. As her questions about herself multiply, Nanoka learns that Mao is cursed by a cat demon named Byoki—and so is his sword. If anyone but Mao attempts to wield it, they are doomed. But when Mao's life is in jeopardy, Nanoka picks up his blade and swings!\n\n(Source: VIZ Media)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-04",
       "title": {
-        "en": "Nanoka and Mao"
+        "en": "Nanoka and Mao",
+        "romaji": "Nanoka to Mao",
+        "ja": "菜花と摩緒"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465787,
+      "tvdbId": 11243085,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11243085/screencap/69c9d4bd20209.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-11",
       "title": {
-        "en": "Spider Lady"
+        "en": "Spider Lady",
+        "romaji": "Kumo Onna",
+        "ja": "蜘蛛女"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465787,
+      "tvdbId": 11704283,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704283/screencap/69d9b4598f765.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-18",
       "title": {
-        "en": "The Accursed"
+        "en": "The Accursed",
+        "romaji": "Norowareshi Mono",
+        "ja": "呪われし者"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465787,
+      "tvdbId": 11704284,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704284/screencap/69e26c79a0282.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-04-25",
       "title": {
-        "en": "The Shorinkyo Incident"
+        "en": "The Shorinkyo Incident",
+        "romaji": "Shourinkyou Jiken",
+        "ja": "鐘臨教事件"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465787,
+      "tvdbId": 11704285,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704285/screencap/69ebd66452c20.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-02",
       "title": {
-        "en": "The Keystone"
+        "en": "The Keystone",
+        "romaji": "Kanameishi",
+        "ja": "要石"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465787,
+      "tvdbId": 11704286,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704286/screencap/69f4da3cea12e.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-09",
       "title": {
-        "en": "Memories of That Day"
+        "en": "Memories of That Day",
+        "romaji": "Ani Hi no Kioku",
+        "ja": "あの日の記憶"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465787,
+      "tvdbId": 11704287,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704287/screencap/69fdf6c319460.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-16",
       "title": {
-        "en": "The New Vessel"
+        "en": "The New Vessel",
+        "romaji": "Atarashii Utsuwa",
+        "ja": "新しい器"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465787,
+      "tvdbId": 11704288,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704288/screencap/6a07a1cc20b62.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-23",
       "title": {
-        "en": "Hyakka"
+        "en": "Hyakka",
+        "romaji": "Hakka",
+        "ja": "百火"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465787,
+      "tvdbId": 11704289,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704289/screencap/6a105ffc9e594.jpg"
     },
     "9": {
       "episode": "9",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-05-30",
       "title": {
-        "en": "Kamon"
+        "en": "Kamon",
+        "romaji": "Kamon",
+        "ja": "華紋"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465787,
+      "tvdbId": 11704290,
+      "seasonNumber": 1,
       "episodeNumber": 9,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 9,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704290/screencap/6a19c864be71f.jpg"
     },
     "10": {
       "episode": "10",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-06",
       "title": {
-        "en": "Taizanfukun"
+        "en": "Taizanfukun",
+        "romaji": "Taizan Fukun",
+        "ja": "泰山府君"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465787,
+      "tvdbId": 11704291,
+      "seasonNumber": 1,
       "episodeNumber": 10,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 10,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704291/screencap/6a22c32d430e8.jpg"
     },
     "11": {
       "episode": "11",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-13",
       "title": {
-        "en": "Blood Bond"
+        "en": "Blood Bond",
+        "romaji": "Chi no Majiwari",
+        "ja": "血の交わり"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465787,
+      "tvdbId": 11704292,
+      "seasonNumber": 1,
       "episodeNumber": 11,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 11,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704292/screencap/6a2c02094d4c9.jpg"
     },
     "12": {
       "episode": "12",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-20",
       "title": {
-        "en": "Water Sorcerer"
+        "en": "Water Sorcerer",
+        "romaji": "Mizu no Jutsusha",
+        "ja": "水の術者"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465787,
+      "tvdbId": 11704293,
+      "seasonNumber": 1,
       "episodeNumber": 12,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 12,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704293/screencap/6a3610d4e3ac6.jpg"
     },
     "13": {
       "episode": "13",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-06-27",
       "title": {
-        "en": "Byouki"
+        "en": "Byouki",
+        "romaji": "Byouki",
+        "ja": "猫鬼"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465787,
+      "tvdbId": 11704294,
+      "seasonNumber": 1,
       "episodeNumber": 13,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 13,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704294/screencap/6a3efd4368c9b.jpg"
     },
     "14": {
       "episode": "14",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-04",
       "title": {
-        "en": "The Iron Mask"
+        "en": "The Iron Mask",
+        "romaji": "Tetsu Kamen",
+        "ja": "鉄仮面"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465787,
+      "tvdbId": 11704295,
+      "seasonNumber": 1,
       "episodeNumber": 14,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 14,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704295/screencap/6a488cf2d0992.jpg"
     },
     "15": {
       "episode": "15",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-18",
       "title": {
-        "en": "Episode 15"
+        "en": "Shiranui",
+        "romaji": "Shiranui",
+        "ja": "不知火"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465787,
+      "tvdbId": 11704296,
+      "seasonNumber": 1,
       "episodeNumber": 15,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 15,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704296/screencap/6a544e5eea0b2.jpg"
     },
     "16": {
       "episode": "16",
-      "length": "25m",
-      "airDate": "2026-07-19",
+      "length": 25,
+      "airDate": "2026-07-18",
       "title": {
-        "en": "Episode 16"
+        "en": "Hakubi",
+        "romaji": "Hakubi",
+        "ja": "白眉"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 465787,
+      "tvdbId": 11704297,
+      "seasonNumber": 1,
       "episodeNumber": 16,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 16,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704297/screencap/6a544ebe901cf.jpg"
+    },
+    "17": {
+      "episode": "17",
+      "length": 25,
+      "airDate": "2026-07-25",
+      "title": {
+        "en": "Maogui",
+        "romaji": "Maogui",
+        "ja": "マオグイ"
+      },
+      "tvdbShowId": 465787,
+      "tvdbId": 11704298,
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "absoluteEpisodeNumber": 17,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704298/screencap/6a64088357b08.jpg"
+    },
+    "18": {
+      "episode": "18",
+      "length": 25,
+      "airDate": "2026-08-01",
+      "title": {
+        "en": "Natsuno",
+        "romaji": "Natsuno",
+        "ja": "夏野"
+      },
+      "tvdbShowId": 465787,
+      "tvdbId": 11704299,
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "absoluteEpisodeNumber": 18,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704299/screencap/6a6d1fdb3f2d2.jpg"
+    },
+    "19": {
+      "episode": "19",
+      "length": 25,
+      "airDate": "2026-08-08",
+      "title": {
+        "en": "The Undersea Shrine",
+        "romaji": "Kaitei no Yashiro",
+        "ja": "海底の社"
+      },
+      "tvdbShowId": 465787,
+      "tvdbId": 11704300,
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "absoluteEpisodeNumber": 19,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704300/screencap/6a75d3c5dcce5.jpg"
+    },
+    "20": {
+      "episode": "20",
+      "length": 25,
+      "airDate": "2026-08-15",
+      "title": {
+        "en": "Sana`s Heart",
+        "romaji": "Sana no Shinzou",
+        "ja": "紗那の心臓"
+      },
+      "tvdbShowId": 465787,
+      "tvdbId": 11704301,
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "absoluteEpisodeNumber": 20,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704301/screencap/6a7fb54e47ce3.jpg"
+    },
+    "21": {
+      "episode": "21",
+      "length": 25,
+      "airDate": "2026-08-22",
+      "title": {
+        "en": "Soma",
+        "romaji": "Souma",
+        "ja": "双馬"
+      },
+      "tvdbShowId": 465787,
+      "tvdbId": 11704302,
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704302/screencap/6a8884335d675.jpg"
+    },
+    "22": {
+      "episode": "22",
+      "length": 25,
+      "airDate": "2026-08-29",
+      "title": {
+        "en": "Risk My Life"
+      },
+      "tvdbShowId": 465787,
+      "tvdbId": 11704303,
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704303/screencap/6a921b21afb4f.jpg"
+    },
+    "23": {
+      "episode": "23",
+      "length": 25,
+      "airDate": "2026-09-05",
+      "title": {
+        "en": "The Sleepwalking Patient"
+      },
+      "tvdbShowId": 465787,
+      "tvdbId": 11704304,
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704304/screencap/6a9b8339cb688.jpg"
+    },
+    "24": {
+      "episode": "24",
+      "length": 25,
+      "airDate": "2026-09-12",
+      "title": {
+        "en": "Traveling Performers"
+      },
+      "tvdbShowId": 465787,
+      "tvdbId": 11704305,
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704305/screencap/6aa4be0e4157d.jpg"
+    },
+    "25": {
+      "episode": "25",
+      "length": 25,
+      "airDate": "2026-09-19",
+      "title": {
+        "en": "Ghouls and Rakshasas"
+      },
+      "tvdbShowId": 465787,
+      "tvdbId": 11704306,
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704306/screencap/6aad9c49753ee.jpg"
+    },
+    "26": {
+      "episode": "26",
+      "length": 30,
+      "airDate": "2026-09-26",
+      "title": {
+        "en": "Yurako`s World",
+        "romaji": "Yurako no Sekai",
+        "ja": "幽羅子の世界"
+      },
+      "tvdbShowId": 465787,
+      "tvdbId": 11704307,
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704307/screencap/6ab73c7ddd498.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:23:28.388Z",
+    "lastFetched": "2026-11-22T00:49:33.129Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

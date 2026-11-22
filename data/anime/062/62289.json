@@ -28,13 +28,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
   "episodeLength": 24,
   "aired": {
     "from": "2026-07-06T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-21T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -43,14 +43,11 @@
     "time": "22:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788787800
-  },
-  "rating": "PG-13 - Teens 13 or older",
+  "nextAiringEpisode": null,
+  "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": 7.07,
-    "anilistScore": 6.8,
+    "malScore": 6.86,
+    "anilistScore": 6.9,
     "kitsuRating": null
   },
   "genres": [
@@ -62,89 +59,245 @@
   ],
   "producers": [
     "MediaNet",
+    "Hobby Japan",
+    "REMOW",
+    "BS11",
+    "Nippon Columbia",
+    "AT-X",
+    "Studio Comet",
     "Jinnan Studio",
-    "AQUA ARIS"
+    "AQUA ARIS",
+    "KLOCKWORX"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1551/157170l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199408-ouNGkjrw0ohT.jpg",
     "color": "#f1ae35"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "yC4TghEG8q8",
+    "url": "https://www.youtube.com/watch?v=yC4TghEG8q8",
+    "thumbnail": "https://i.ytimg.com/vi/yC4TghEG8q8/hqdefault.jpg"
+  },
   "synopsis": "Elizabeth Leiston, the daughter of Haldoria's powerful prime minister, is the picture of a refined noble lady and the perfect future queen. But when her fiancé publicly humiliates her, calls off their engagement, and starts spreading nasty rumors about her, Elizabeth reaches her breaking point. Why should her only friend be her loyal maid, and why should she continue to serve a country that doesn't respect her? Elizabeth concludes she won't stand it any longer and will bring down the kingdom, even if it's the last thing she does! As such, she uses her quick wit and, more importantly, her seven magic grimoires to embark on a quest for revenge. And let her tell you, there will be hell to pay!\n\n(Source: J-Novel Club)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-06",
       "title": {
-        "en": "Despair and a Promise of Revenge"
+        "en": "Despair and a Promise of Revenge",
+        "romaji": "Zetsubou to Houfuku no Chikai",
+        "ja": "絶望と報復の誓い"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467005,
+      "tvdbId": 11543479,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11543479/screencap/6a4a69623be80.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-13",
       "title": {
-        "en": "Starting Business in Asylum"
+        "en": "Starting Business in Asylum",
+        "romaji": "Boumei to Kigyou",
+        "ja": "亡命と起業"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467005,
+      "tvdbId": 11874717,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874717/screencap/6a544a484f6c8.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-20",
       "title": {
-        "en": "Episode 3"
+        "en": "Met on the Road",
+        "romaji": "Tabiji de no Deai",
+        "ja": "旅路での出会い"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467005,
+      "tvdbId": 11874718,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874718/screencap/6a5e1b83d3a71.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-27",
       "title": {
-        "en": "Episode 4"
+        "en": "New Friends and Social Parties",
+        "romaji": "Arata na Nakama to Shakou Party",
+        "ja": "新たな仲間と社交パーティー"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 467005,
+      "tvdbId": 11882478,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882478/screencap/6a67661a9dd58.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-03",
+      "title": {
+        "en": "Adventurers Assemble",
+        "romaji": "Boukensha Shuuketsu",
+        "ja": "冒険者集結"
+      },
+      "tvdbShowId": 467005,
+      "tvdbId": 11882479,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882479/screencap/6a6ff0704f20c.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-10",
+      "title": {
+        "en": "Taking Back the Fortress",
+        "romaji": "Toride, Dakkan Sakusen",
+        "ja": "砦, 奪還作戦"
+      },
+      "tvdbShowId": 467005,
+      "tvdbId": 11882480,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882480/screencap/6a792b0845174.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-17",
+      "title": {
+        "en": "Revenge in the Dead of Night",
+        "romaji": "Yamiyo no Houfuku",
+        "ja": "闇夜の報復"
+      },
+      "tvdbShowId": 467005,
+      "tvdbId": 11882481,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882481/screencap/6a82e89e6abbf.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-24",
+      "title": {
+        "en": "The Tragedy of the House of Count Arty",
+        "romaji": "Arti Hakushaku-ke no Higeki",
+        "ja": "アーティ伯爵家の悲劇"
+      },
+      "tvdbShowId": 467005,
+      "tvdbId": 11882482,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882482/screencap/6a8b832a1a9dc.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-31",
+      "title": {
+        "en": "The Empire`s Merchants` Guild Council",
+        "romaji": "Teikoku Guild Hyougikai",
+        "ja": "帝国ギルド評議会"
+      },
+      "tvdbShowId": 467005,
+      "tvdbId": 11882483,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882483/screencap/6a94e10f542fa.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-07",
+      "title": {
+        "en": "By the Sea",
+        "romaji": "Umibe nite",
+        "ja": "海辺にて"
+      },
+      "tvdbShowId": 467005,
+      "tvdbId": 11882484,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882484/screencap/6a9e14b1646a2.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-14",
+      "title": {
+        "en": "False Gold",
+        "romaji": "Itsuwari no Kinka",
+        "ja": "偽りの金貨"
+      },
+      "tvdbShowId": 467005,
+      "tvdbId": 11882485,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882485/screencap/6aa73fff09a0f.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-21",
+      "title": {
+        "en": "A Livid Lady`s Revenge Never Ends",
+        "romaji": "Buchigire Reijou no Houfuku wa Owaranai",
+        "ja": "ブチ切れ令嬢の報復は終わらない"
+      },
+      "tvdbShowId": 467005,
+      "tvdbId": 11882486,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882486/screencap/6ab11ec800c04.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:25:49.630Z",
+    "lastFetched": "2026-11-22T00:50:17.208Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

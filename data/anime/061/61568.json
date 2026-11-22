@@ -13,7 +13,7 @@
     "traktType": null,
     "shikimori": 61568,
     "livechart": null,
-    "animeplanet": null,
+    "animeplanet": "chao-neng-fuke-jing",
     "anisearch": null,
     "notify": null
   },
@@ -33,16 +33,12 @@
   "episodeCount": 18,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2026-01-01T00:00:00+00:00",
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -53,6 +49,7 @@
   "genres": [
     "Action",
     "Fantasy",
+    "Urban Fantasy",
     "Adventure"
   ],
   "studios": [
@@ -71,12 +68,12 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T10:58:55.616Z",
+    "lastFetched": "2026-11-22T00:47:47.424Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

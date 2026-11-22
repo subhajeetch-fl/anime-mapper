@@ -27,13 +27,13 @@
   },
   "type": "TV",
   "source": "Original",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 26,
   "aired": {
     "from": "2026-07-05T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-20T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -42,41 +42,42 @@
     "time": "01:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788624000
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.06,
+    "malScore": 6.8,
     "anilistScore": 6.4,
     "kitsuRating": null
   },
   "genres": [
     "Action",
+    "Mahou Shoujo",
     "Comedy",
     "Drama",
-    "Mahou Shoujo",
     "Sci-Fi"
   ],
   "studios": [
     "Seven Arcs"
   ],
   "producers": [
-    "Movic",
-    "Bushiroad",
-    "Glovision",
-    "Good Smile Company",
-    "Hakuhodo DY Music & Pictures",
     "King Records",
-    "Sanyo Bussan"
+    "Bushiroad",
+    "Seven Arcs",
+    "Sanyo Bussan",
+    "Movic",
+    "Hakuhodo DY Music & Pictures",
+    "Good Smile Company"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1685/158611l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185875-kHVsTIJKPVRJ.jpg",
     "color": "#e46b43"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "4IcEbMCW-FU",
+    "url": "https://www.youtube.com/watch?v=4IcEbMCW-FU",
+    "thumbnail": "https://i.ytimg.com/vi/4IcEbMCW-FU/hqdefault.jpg"
+  },
   "synopsis": "Thirty years ago, the sudden appearance of unknown invasive alien lifeforms nearly brought about the end of the world.\n\nSince then, humanity and these creatures, known as Invasion Species, have continued to clash over living territory. Although human safety is barely being maintained, the world remains on the brink of collapse. As the threat of death and destruction lingers, people go about their daily lives by turning away from the constant danger around them. In response, the United Nations establishes EXCEEDS, an organization tasked with investigating and combating threats caused by the Invasion Species.\n\nThe story begins in the Far Eastern island nation of Mizuho, where Shiina Kuze, a young hunter who exterminates invasive species, lives on a remote island. Wanting nothing more than a quiet life with her only family—her younger sister, Setsuna—Shiina's routine is disrupted when an unexpected incident occurs, drawing her into a much larger conflict.\n\n(Source: MAL News)",
   "sequence": [
     {
@@ -96,190 +97,216 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "50m",
+      "length": 50,
       "airDate": "2026-07-05",
       "title": {
-        "en": "Kuze Shiina Origin"
+        "en": "Kuze Shiina Origin",
+        "romaji": "Kuze Shiina Origin",
+        "ja": "久瀬シイナ Origin"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 458309,
+      "tvdbId": 11141823,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 48,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11141823/screencap/6a4890b320b61.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-12",
       "title": {
-        "en": "UN Investigation Agency Exceeds / Diaboli Slayers"
+        "en": "UN Investigation Agency Exceeds / Diaboli Slayers",
+        "romaji": "Kokuren Chousa Kikan Exceeds / Majingari",
+        "ja": "国連調査機関EXCEEDS / 魔人狩り"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 458309,
+      "tvdbId": 11872351,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872351/screencap/6a4f844b721e2.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-19",
       "title": {
-        "en": "Kuze Shiina & Yorumi Towa"
+        "en": "Kuze Shiina & Yorumi Towa",
+        "romaji": "Kuze Shiina to Yorumi Towa",
+        "ja": "久瀬シイナと夜海トワ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 458309,
+      "tvdbId": 11872352,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872352/screencap/6a59958807343.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-26",
       "title": {
-        "en": "Episode 4"
+        "en": "Yorumi Towa Origin",
+        "romaji": "Yorumi Towa Origin",
+        "ja": "夜海トワ Origin"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 458309,
+      "tvdbId": 11872353,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872353/screencap/6a640ad889ff3.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-02",
       "title": {
-        "en": "Episode 5"
+        "en": "Chance Encounter",
+        "romaji": "Souguu",
+        "ja": "遭遇"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 458309,
+      "tvdbId": 11872354,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872354/screencap/6a6bb47a8bf4e.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-09",
       "title": {
-        "en": "Episode 6"
+        "en": "Kuragi Eiji and Shinomiya Mana / Sunlight",
+        "romaji": "Kuragi Eiji to Shinomiya Mana / Youkou",
+        "ja": "蔵木エイジと篠宮マナ / 陽光"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 458309,
+      "tvdbId": 11872355,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872355/screencap/6a75d4cdda14b.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-16",
       "title": {
-        "en": "Episode 7"
+        "en": "Jurisdiction 4`s Subway Running Extermination Battle",
+        "romaji": "Dai Yon Kanku Chikatetsudou Tsuiseki Kujosen",
+        "ja": "第四管区地下鉄道追跡駆除戦"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 458309,
+      "tvdbId": 11872356,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872356/screencap/6a7fce99ef6ad.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-23",
       "title": {
-        "en": "Episode 8"
+        "en": "Yorumi Towa Descent",
+        "romaji": "Yorumi Towa Descent",
+        "ja": "夜海トワ Descent"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 458309,
+      "tvdbId": 11872357,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872357/screencap/6a88869ca585d.jpg"
     },
-    "C1": {
-      "episode": "C1",
-      "length": "2m",
-      "airDate": "2026-07-12",
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-30",
       "title": {
-        "en": "Opening"
+        "en": "Exceeds",
+        "romaji": "\"Exceeds\"",
+        "ja": "『EXCEEDS』"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 458309,
+      "tvdbId": 11872358,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872358/screencap/6a921e2f98b9e.jpg"
     },
-    "C2": {
-      "episode": "C2",
-      "length": "2m",
-      "airDate": "2026-07-12",
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-06",
       "title": {
-        "en": "Ending"
+        "en": "South Pole Underground Research Lab & Search and Destroy Mission",
+        "romaji": "Nankyoku Chika Kenkyuujo Sousaku Senmetsusen",
+        "ja": "南極地下研究所捜索殲滅戦"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 458309,
+      "tvdbId": 11872359,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872359/screencap/6a9b756dbedc7.jpg"
     },
-    "T1": {
-      "episode": "T1",
-      "length": "2m",
-      "airDate": "2026-01-03",
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-13",
       "title": {
-        "en": "News Flash PV (1:10)"
+        "en": "The Diaboli, Shinomiya Mana",
+        "romaji": "Majin: Shinomiya Mana",
+        "ja": "魔人・篠宮マナ"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 458309,
+      "tvdbId": 11872360,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872360/screencap/6aa4b88e5f3e3.jpg"
     },
-    "T2": {
-      "episode": "T2",
-      "length": "2m",
-      "airDate": "2026-03-28",
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-20",
       "title": {
-        "en": "PV 1 (1:46)"
+        "en": "The Flame Connecting Me to You",
+        "romaji": "Kimi to Tsunagu Honoo",
+        "ja": "君と繋ぐ炎"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 458309,
+      "tvdbId": 11872361,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872361/screencap/6aaea71272007.jpg"
     },
-    "T3": {
-      "episode": "T3",
-      "length": "2m",
-      "airDate": "2026-06-21",
+    "S1": {
+      "episode": "S1",
+      "length": 75,
+      "airDate": "2026-09-14",
       "title": {
-        "en": "PV 2 (1:59)"
+        "en": "Final Episode Pre-Broadcast Special",
+        "romaji": "Saishuukai Chokuzen Namahousou Tokuban",
+        "ja": "最終回直前生放送特番"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -291,15 +318,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-02T16:04:38.153Z",
+    "lastFetched": "2026-11-22T00:45:44.167Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

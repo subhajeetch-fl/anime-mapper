@@ -8,18 +8,18 @@
     "kitsu": 49564,
     "simkl": 2716148,
     "tmdb": 284580,
-    "tvdb": null,
-    "trakt": null,
-    "traktType": null,
+    "tvdb": 460309,
+    "trakt": 276919,
+    "traktType": "shows",
     "shikimori": 61014,
     "livechart": 13043,
-    "animeplanet": "toaru-anbu-no-item",
+    "animeplanet": "a-certain-dark-item",
     "anisearch": 20176,
     "notify": "rAjzBO5HR"
   },
   "title": {
     "romaji": "Toaru Anbu no ITEM",
-    "english": null,
+    "english": "A Certain Dark Item",
     "native": "とある暗部の少女共棲",
     "synonyms": [
       "Toaru Anbu no Shoujo Kyousei",
@@ -28,48 +28,52 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 11,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-10T00:00:00+00:00",
-    "to": null
+    "from": "2026-10-09T00:00:00+00:00",
+    "to": "2026-12-18T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
   "broadcast": {
-    "day": "Saturdays",
-    "time": "00:30",
+    "day": "Fridays",
+    "time": "22:30",
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1791559800
+    "episode": 8,
+    "airingAt": 1795786200
   },
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.39,
+    "anilistScore": 6.6,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Fantasy",
-    "Sci-Fi"
+    "Sci-Fi",
+    "Super Power",
+    "Urban Fantasy"
   ],
   "studios": [
     "J.C.Staff"
   ],
-  "producers": [
-    "NBCUniversal Entertainment Japan"
-  ],
+  "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1459/155570l.jpg",
-    "banner": null,
-    "color": "#e49350"
+    "poster": "https://cdn.myanimelist.net/images/anime/1531/159988l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186742-nZP1PcuUpcGg.jpg",
+    "color": "#35f1a1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "NNHxQJgZdbQ",
+    "url": "https://www.youtube.com/watch?v=NNHxQJgZdbQ",
+    "thumbnail": "https://i.ytimg.com/vi/NNHxQJgZdbQ/hqdefault.jpg"
+  },
   "synopsis": "In Academy City, where supernatural abilities are part of everyday science, the city's peace is upheld by an unseen force—the dark side. Among the covert operatives is ITEM, a four-member elite unit. With Rikou Takitsubo's tracking abilities, Frenda Seivelun's explosive expertise, Saiai Kinuhata's impenetrable defense, and Shizuri Mugino's overwhelming power as one of Academy City's seven Level 5 espers, they navigate the city's underbelly, taking on secret missions that never make the headlines.\n\nAs their latest assignment unfolds, the team moves with precision, unaware that their actions are setting the stage for a tragedy that will test their bonds of trust, friendship, and survival in the unforgiving darkness of Academy City.\n\n(Source: MAL News)",
   "sequence": [
     {
@@ -87,32 +91,152 @@
     }
   ],
   "episodes": {
-    "T1": {
-      "episode": "T1",
-      "length": "2m",
-      "airDate": "2026-07-03",
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-09",
       "title": {
-        "en": "Trailer (1:55)"
+        "en": "Item",
+        "romaji": "Item",
+        "ja": "アイテム"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
+      "tvdbShowId": 460309,
+      "tvdbId": 11638818,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11638818/screencap/6ac3852c1398b.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-16",
+      "title": {
+        "en": "Saiai Kinuhata - Newcomer",
+        "romaji": "Shin`iri",
+        "ja": "絹旗最愛[しんいり]"
+      },
+      "tvdbShowId": 460309,
+      "tvdbId": 12025895,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12025895/screencap/6acfd0b89b823.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-23",
+      "title": {
+        "en": "Choubi Hanano: The Fifth",
+        "romaji": "Goninme",
+        "ja": "華野超美[ごにんめ]"
+      },
+      "tvdbShowId": 460309,
+      "tvdbId": 12026049,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12026049/screencap/6adab3d3690f5.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-30",
+      "title": {
+        "en": "Mitori Kouzaku: Liquid Shadow",
+        "romaji": "Liquid Shadow",
+        "ja": "警策看取[リキッドシャドウ]"
+      },
+      "tvdbShowId": 460309,
+      "tvdbId": 12026050,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12026050/screencap/6ae2aa98e258d.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-06",
+      "title": {
+        "en": "Infiltration",
+        "romaji": "Sennyuu",
+        "ja": "潜入"
+      },
+      "tvdbShowId": 460309,
+      "tvdbId": 12026051,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12026051/screencap/6aebf6f3592bd.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-13",
+      "title": {
+        "en": "Colosseum",
+        "romaji": "Colosseum.",
+        "ja": "Colosseum."
+      },
+      "tvdbShowId": 460309,
+      "tvdbId": 12026052,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12026052/screencap/6af5092fbfcaf.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-20",
+      "title": {
+        "en": null,
+        "romaji": "Item vs Item",
+        "ja": "アイテムVSアイテム"
+      },
+      "tvdbShowId": 460309,
+      "tvdbId": 12049109,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12049109/screencap/6afe61a255062.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-27",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 460309,
+      "tvdbId": 12049110,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-07-04T21:40:08.224Z",
+    "lastFetched": "2026-11-22T00:46:10.675Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

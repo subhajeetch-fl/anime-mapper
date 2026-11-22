@@ -4,17 +4,17 @@
   "mappings": {
     "mal": 61546,
     "anilist": 213847,
-    "anidb": null,
-    "kitsu": null,
-    "simkl": null,
-    "tmdb": null,
+    "anidb": 20156,
+    "kitsu": 49866,
+    "simkl": 3173584,
+    "tmdb": 289324,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 61546,
-    "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
+    "livechart": 13146,
+    "animeplanet": "star-wars-visions-the-ninth-jedi",
+    "anisearch": 21717,
     "notify": null
   },
   "title": {
@@ -28,64 +28,49 @@
   },
   "type": "ONA",
   "source": "Other",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 8,
-  "episodeLength": 28,
+  "episodeLength": 26,
   "aired": {
     "from": "2026-08-05T00:00:00+00:00",
-    "to": "2026-08-05"
+    "to": "2026-08-05T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
-  "rating": "PG",
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": 5.9,
+    "malScore": 7.08,
+    "anilistScore": 7,
     "kitsuRating": null
   },
   "genres": [
     "Action",
     "Adventure",
-    "Sci-Fi",
-    "Science Fiction",
-    "Fantasy",
-    "Swordplay",
-    "Space",
     "Military",
-    "Space Opera"
+    "Sci-Fi",
+    "Space"
   ],
   "studios": [
     "Production I.G"
   ],
-  "producers": [],
+  "producers": [
+    "Walt Disney Studios"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1791/158842l.jpg",
-    "banner": "https://media.kitsu.app/anime/49866/cover_image/8b4ec0dbc0d9d4cf09b7f4431f4ee918.jpg",
-    "color": "#5de4ae"
+    "poster": "https://cdn.myanimelist.net/images/anime/1412/159355l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213847-vkOFF1bjZVwN.jpg",
+    "color": "#356be4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "6nUStmkGRec",
+    "url": "https://www.youtube.com/watch?v=6nUStmkGRec",
+    "thumbnail": "https://i.ytimg.com/vi/6nUStmkGRec/hqdefault.jpg"
+  },
   "synopsis": "A spin-off which will expand upon The Ninth Jedi in a longer format.",
   "sequence": [
-    {
-      "malId": 49357,
-      "title": {
-        "romaji": "Star Wars: Visions",
-        "english": "Star Wars: Visions",
-        "native": "スター・ウォーズ：ビジョンズ"
-      },
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138060-8G02wer2Lsxo.jpg",
-      "format": "ONA",
-      "episodes": 9,
-      "seasonYear": 2021,
-      "relationType": "PREQUEL"
-    },
     {
       "malId": 60336,
       "title": {
@@ -100,17 +85,156 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": "28m",
+      "airDate": "2026-08-05",
+      "title": {
+        "en": "A New Threat",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 28,
+      "image": "https://media.kitsu.app/episode/406710/thumbnail/119cc03b2b3c002936b597edf339e5b9.png"
+    },
+    "2": {
+      "episode": "2",
+      "length": "28m",
+      "airDate": "2026-08-05",
+      "title": {
+        "en": "A Hidden Weapon",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 28,
+      "image": "https://media.kitsu.app/episode/406711/thumbnail/ae78fbad08e908e642e44ead8c9a9041.png"
+    },
+    "3": {
+      "episode": "3",
+      "length": "28m",
+      "airDate": "2026-08-05",
+      "title": {
+        "en": "Voice From the Past",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 28,
+      "image": "https://media.kitsu.app/episode/406712/thumbnail/0ed12d449a774ae25525ef81473a7c2f.png"
+    },
+    "4": {
+      "episode": "4",
+      "length": "28m",
+      "airDate": "2026-08-05",
+      "title": {
+        "en": "Nawaam Attacks",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 28,
+      "image": "https://media.kitsu.app/episode/406713/thumbnail/bb83d8498197378ca72acfa52c53b54c.png"
+    },
+    "5": {
+      "episode": "5",
+      "length": "28m",
+      "airDate": "2026-08-05",
+      "title": {
+        "en": "The Storm of Violence",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 28,
+      "image": "https://media.kitsu.app/episode/406714/thumbnail/a4312af566da1389e67a3b72ca670c84.png"
+    },
+    "6": {
+      "episode": "6",
+      "length": "28m",
+      "airDate": "2026-08-05",
+      "title": {
+        "en": "Light of the Force",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 28,
+      "image": "https://media.kitsu.app/episode/406715/thumbnail/fbe887193a2b3dacf4593098bea76fba.png"
+    },
+    "7": {
+      "episode": "7",
+      "length": "28m",
+      "airDate": "2026-08-05",
+      "title": {
+        "en": "The Jedi Strike Back",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 28,
+      "image": "https://media.kitsu.app/episode/406716/thumbnail/2933a34267c7acf4c3d01438c812af5c.png"
+    },
+    "8": {
+      "episode": "8",
+      "length": "28m",
+      "airDate": "2026-08-05",
+      "title": {
+        "en": "The Ninth Jedi",
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 28,
+      "image": "https://media.kitsu.app/episode/406717/thumbnail/d5ae89b9dd334429046d659869e1b233.png"
+    }
+  },
   "meta": {
-    "lastFetched": "2026-08-07T11:47:19.119Z",
+    "lastFetched": "2026-11-22T00:47:38.683Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)",
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

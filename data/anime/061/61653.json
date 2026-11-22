@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -50,35 +46,34 @@
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Historical",
+    "Martial Arts"
   ],
   "studios": [
     "Bu Keneng de Shijie",
     "Tang Cai Zhaopin"
   ],
-  "producers": [
-    "iQIYI"
-  ],
+  "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1243/149698l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1243/149698l.webp",
     "banner": null,
     "color": null
   },
   "trailer": null,
-  "synopsis": "The whale swallowed the present world, and the human race was in trouble. The boy practiced the \"forgetfulness technique\" at the cost of his memory to prevent the catastrophe! Will they live together in the face of adversity, or will they forget each other in the arena?\n\n(Source: iQIYI, Google translated)",
+  "synopsis": "The whale swallowed the present world, and the human race was in trouble. The boy practiced the \"forgetfulness technique\" at the cost of his memory to prevent the catastrophe! Will they live together in the face of adversity, or will they forget each other in the arena?\n\n(Source: iQIYI, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:37:19.814Z",
+    "lastFetched": "2026-11-22T00:48:22.579Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

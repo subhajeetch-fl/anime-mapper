@@ -14,7 +14,7 @@
     "shikimori": 62447,
     "livechart": null,
     "animeplanet": null,
-    "anisearch": null,
+    "anisearch": 20891,
     "notify": null
   },
   "title": {
@@ -25,21 +25,17 @@
   },
   "type": "TV",
   "source": "Original",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 20,
+  "episodeLength": 14,
   "aired": {
     "from": "2025-09-01T00:00:00+00:00",
-    "to": null
+    "to": "2026-01-26T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2025,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG - Children",
   "score": {
@@ -55,7 +51,7 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1788/151966l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1928/159560l.jpg",
     "banner": null,
     "color": null
   },
@@ -64,16 +60,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:55:18.379Z",
+    "lastFetched": "2026-11-22T00:50:47.874Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

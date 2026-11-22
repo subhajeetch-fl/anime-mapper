@@ -7,7 +7,7 @@
     "anidb": 18693,
     "kitsu": 48960,
     "simkl": 2493596,
-    "tmdb": null,
+    "tmdb": 105009,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
@@ -19,19 +19,18 @@
   },
   "title": {
     "romaji": "Tokyo Revengers: Santen Sensou-hen",
-    "english": "Tokyo Revengers: War of the Three Titan Arc",
+    "english": "Tokyo Revengers: War of the Three Titans Arc",
     "native": "東京リベンジャーズ 三天戦争編",
     "synonyms": [
-      "Tokyo Revengers (Sequel)",
-      "Tokyo Revengers: War of the Three Titans Arc"
+      "Tokyo Revengers (Sequel)"
     ]
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 13,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-10-03T00:00:00+00:00",
     "to": null
@@ -40,37 +39,51 @@
   "year": 2026,
   "broadcast": {
     "day": "Saturdays",
-    "time": "01:53",
+    "time": "01:23",
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1790959980
+    "episode": 9,
+    "airingAt": 1795798380
   },
   "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.82,
+    "anilistScore": 7.7,
     "kitsuRating": null
   },
   "genres": [
     "Action",
+    "Delinquents",
     "Drama",
+    "Shounen",
+    "Time Travel",
     "Romance",
-    "Supernatural",
-    "Delinquent",
-    "Time Travel"
+    "Supernatural"
   ],
   "studios": [
     "LIDENFILMS"
   ],
-  "producers": [],
+  "producers": [
+    "Pony Canyon",
+    "Kodansha",
+    "Sammy",
+    "AT-X",
+    "Mainichi Broadcasting System",
+    "Ultra Super Pictures",
+    "Studio Mausu",
+    "HI Production"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1340/148694l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1321/159720l.jpg",
     "banner": null,
     "color": "#c99350"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "Nm21TTXUkf4",
+    "url": "https://www.youtube.com/watch?v=Nm21TTXUkf4",
+    "thumbnail": "https://i.ytimg.com/vi/Nm21TTXUkf4/hqdefault.jpg"
+  },
   "synopsis": "Sequel to Tokyo Revengers: Tenjiku-hen.",
   "sequence": [
     {
@@ -100,17 +113,216 @@
       "relationType": "SPIN_OFF"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-03",
+      "title": {
+        "en": "Break Up",
+        "romaji": "Break Up",
+        "ja": "Break up"
+      },
+      "tvdbShowId": 393478,
+      "tvdbId": 10624334,
+      "seasonNumber": 4,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 51,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10624334/screencap/6abbbbe58f540.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-10",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 393478,
+      "tvdbId": 10651424,
+      "seasonNumber": 4,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 52,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10651424/screencap/6ac8492e2df56.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-17",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 393478,
+      "tvdbId": 12025049,
+      "seasonNumber": 4,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 53,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12025049/screencap/6acf42fe1e96b.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-24",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 393478,
+      "tvdbId": 12025050,
+      "seasonNumber": 4,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 54,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12025050/screencap/6ad756624519c.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-10-31",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 393478,
+      "tvdbId": 12025051,
+      "seasonNumber": 4,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 55,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12025051/screencap/6ae09e5d10f1a.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-07",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 393478,
+      "tvdbId": 12025052,
+      "seasonNumber": 4,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 56,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12025052/screencap/6aea40036471f.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-14",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 393478,
+      "tvdbId": 12025053,
+      "seasonNumber": 4,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 57,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12025053/screencap/6af50bfeab748.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-21",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 393478,
+      "tvdbId": 12025054,
+      "seasonNumber": 4,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 58,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12025054/screencap/6afd2f98cd568.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-11-28",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 393478,
+      "tvdbId": 12025055,
+      "seasonNumber": 4,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 59,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-05",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 393478,
+      "tvdbId": 12025056,
+      "seasonNumber": 4,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 60,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-12",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 393478,
+      "tvdbId": 12025057,
+      "seasonNumber": 4,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 61,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-19",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 393478,
+      "tvdbId": 12025058,
+      "seasonNumber": 4,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 62,
+      "runtime": 24,
+      "image": null
+    },
+    "13": {
+      "episode": "13",
+      "length": 25,
+      "airDate": "2026-12-26",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 393478,
+      "tvdbId": 12025059,
+      "seasonNumber": 4,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 63,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-09-01T16:12:59.178Z",
+    "lastFetched": "2026-11-22T00:43:50.040Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

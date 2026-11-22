@@ -31,13 +31,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 10,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-07T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-08T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -46,42 +46,47 @@
     "time": "23:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788876000
-  },
+  "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": 8.02,
-    "anilistScore": 7.6,
+    "malScore": 7.81,
+    "anilistScore": 7.7,
     "kitsuRating": null
   },
   "genres": [
     "Action",
+    "Adult Cast",
+    "Detective",
     "Mystery",
+    "Psychological",
     "Sci-Fi",
+    "Seinen",
     "Suspense",
-    "Psychological"
+    "Ecchi"
   ],
   "studios": [
     "Science SARU"
   ],
   "producers": [
-    "Production I.G",
-    "Dentsu",
+    "Bandai Namco Filmworks",
     "Kodansha",
+    "Science SARU",
+    "Production I.G",
     "flying DOG",
-    "Tohokushinsha Film Corporation",
-    "Kansai TV",
-    "Bandai Namco Filmworks"
+    "Dentsu",
+    "Kansai TV"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1474/158937l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177699-5kDbvDBhtSE3.jpg",
-    "color": null
+    "color": "#e4ae1a"
   },
-  "trailer": null,
-  "synopsis": "In the year 2029, Niihama City has become a technologically advanced metropolis. Due to great improvements in cybernetics, its citizens are able to replace their limbs with robotic parts. The world is now more interconnected than ever before, and the city's Public Security Section 9 is responsible for combating corruption, terrorism, and other dangerous threats following this shift toward globalization.\n\nThe strong-willed Major Motoko Kusanagi of Section 9 spearheads a case involving a mysterious hacker known only as the \"Puppet Master,\" who leaves a trail of victims stripped of their memories. Like many in this futuristic world, the Puppet Master's body is almost entirely robotic, giving them incredible power.\n\nAs Motoko and her subordinates follow the enigmatic criminal's trail, other parties—including Section 6—start to get involved, forcing her to confront the extremely complicated nature of the case. Pondering about various philosophical questions, such as her own life's meaning, Motoko soon realizes that the one who will provide these answers is none other than the Puppet Master themself.\n\n[Written by MAL Rewrite]",
+  "trailer": {
+    "youtubeId": "b_v0-RWLo18",
+    "url": "https://www.youtube.com/watch?v=b_v0-RWLo18",
+    "thumbnail": "https://i.ytimg.com/vi/b_v0-RWLo18/hqdefault.jpg"
+  },
+  "synopsis": "With the substantial advancement in cybernetic and AI technology in the early 21st century, humans are able to modify their bodies to the limit, making the world nothing like before. In 2029, the Japanese metropolis of Newport City has become a grand stage for criminals who abuse the advanced technology for personal gain and try to attain power over others by any means necessary.\n\nAfter making a name for herself and getting the green light from Public Security, determined Motoko Kusanagi takes charge of a new special forces unit. In these turbulent times, she and her subordinates tackle serious cybercrime cases that ordinary police would have no chance of solving. Although boasting a successful track record so far, Kusanagi and her unit soon learn there may be an elusive mastermind behind the scenes, whose actions further endanger the metropolis' fragile status quo.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 1151,
@@ -134,165 +139,200 @@
       "episodes": 1,
       "seasonYear": 2013,
       "relationType": "ALTERNATIVE"
+    },
+    {
+      "malId": 65252,
+      "title": {
+        "romaji": "Koukaku Kidoutai: THE GHOST IN THE SHELL (Shinsaku Animation)",
+        "english": null,
+        "native": "攻殻機動隊 THE GHOST IN THE SHELL (新作アニメーション)"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218740-C4H2ePGDUlzJ.jpg",
+      "format": null,
+      "episodes": null,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
     }
   ],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-07",
       "title": {
-        "en": "Prologue / Super Spartan I"
+        "en": "Prologue / Super Spartan I",
+        "romaji": "Prologue / Super Spartan I",
+        "ja": "PROLOGUE / SUPER SPARTAN i"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450475,
+      "tvdbId": 10511679,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10511679/screencap/6a503570481e5.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-14",
       "title": {
-        "en": "Super Spartan II / Junk Jungle I"
+        "en": "Super Spartan II / Junk Jungle I",
+        "romaji": "Super Spartan II / Junk Jungle I",
+        "ja": "Super Spartan ii / Junk Jungle i"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450475,
+      "tvdbId": 11874725,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874725/screencap/6a56539676934.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-21",
       "title": {
-        "en": "Junk Jungle II / Megatech Machine I / Megatech Machine II"
+        "en": "Junk Jungle II / Megatech Machine I / Megatech Machine II",
+        "romaji": "Junk Jungle II / Megatech Machine I / Megatech Machine II",
+        "ja": "JUNK JUNKGLE ii / MEGATECH MACHINE i / MEGATECH MACHINE ii"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450475,
+      "tvdbId": 11874726,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874726/screencap/6a5f82c010c01.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-28",
       "title": {
-        "en": "Episode 4"
+        "en": "Robot Rondo",
+        "romaji": "Robot Rondo",
+        "ja": "ROBOT RONDO"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450475,
+      "tvdbId": 11874727,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874727/screencap/6a68bd57e2dee.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-04",
       "title": {
-        "en": "Episode 5"
+        "en": "Phantom Fund",
+        "romaji": "Phantom Fund",
+        "ja": "PHANTOM FUND"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450475,
+      "tvdbId": 11874728,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874728/screencap/6a71f7f6bfba9.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-11",
       "title": {
-        "en": "Episode 6"
+        "en": "Dumb Barter",
+        "romaji": "Dumb Barter",
+        "ja": "DUMB BARTER"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450475,
+      "tvdbId": 11874729,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874729/screencap/6a7b3257d97c1.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-18",
       "title": {
-        "en": "Episode 7"
+        "en": "Bye Bye Clay",
+        "romaji": "Bye Bye Clay",
+        "ja": "BYE BYE CLAY"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450475,
+      "tvdbId": 11874730,
+      "seasonNumber": 1,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874730/screencap/6a846cae6354b.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-25",
       "title": {
-        "en": "Episode 8"
+        "en": "Intermission / Brain Drain I",
+        "romaji": "Intermission / Brain Drain I",
+        "ja": "INTERMISSION / BRAIN DRAIN i"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 450475,
+      "tvdbId": 11874731,
+      "seasonNumber": 1,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874731/screencap/6a8db66c8dac0.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-09-01",
+      "title": {
+        "en": "Brain Drain II",
+        "romaji": "Brain Drain II",
+        "ja": "BRAIN DRAIN ii"
+      },
+      "tvdbShowId": 450475,
+      "tvdbId": 11874732,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874732/screencap/6a96e1bde801d.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-08",
+      "title": {
+        "en": "Brain Drain III / Ghost Coast / Epilogue",
+        "romaji": "Brain Drain III / Ghost Coast / Epilogue",
+        "ja": "BRAIN DRAIN iii / GHOST COAST / EPILOGUE"
+      },
+      "tvdbShowId": 450475,
+      "tvdbId": 11874733,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874733/screencap/6aa02bd93ea2b.jpg"
     },
     "S1": {
       "episode": "S1",
-      "length": "30m",
+      "length": 30,
       "airDate": "2026-07-03",
       "title": {
-        "en": "Pre-Broadcast Special"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "C1": {
-      "episode": "C1",
-      "length": "2m",
-      "airDate": "2026-07-07",
-      "title": {
-        "en": "Opening"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "C2": {
-      "episode": "C2",
-      "length": "2m",
-      "airDate": "2026-07-07",
-      "title": {
-        "en": "Ending"
+        "en": "Pre-Broadcast Special",
+        "romaji": "Housou Chokuzen (Hi) Dennou Tokuban",
+        "ja": "放送直前㊙電脳特番"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -304,15 +344,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T16:12:50.369Z",
+    "lastFetched": "2026-11-22T00:43:40.738Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

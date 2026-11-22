@@ -25,39 +25,37 @@
       "Mahou Shoujo Madoka Magika Movie 4",
       "Magical Girl Madoka Magica Movie 4: Rotation of Walpurgis",
       "Magical Girl Madoka Magica Movie 4",
-      "Puella Magi Madoka Magica Movie 4"
+      "Puella Magi Madoka Magica Movie 4",
+      "Puella Magi Madoka Magica. La Película. La Noche de Walpurgis. El Ascenso",
+      "สาวน้อยเวทมนตร์ มาโดกะ มาจิก้า เดอะ มูฟวี่〈การหวนคืนแห่งวัลเพอร์กิส〉"
     ]
   },
   "type": "Movie",
   "source": "Original",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
   "episodeLength": 120,
   "aired": {
     "from": "2026-08-28T00:00:00+00:00",
-    "to": "2026-08-28"
+    "to": "2026-08-28T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 8.11,
     "anilistScore": 8.2,
     "kitsuRating": null
   },
   "genres": [
     "Drama",
-    "Suspense",
     "Mahou Shoujo",
-    "Magical Girl",
     "Psychological",
+    "Suspense",
+    "Magical Girl",
     "Angst",
     "Horror",
     "Thriller"
@@ -69,11 +67,15 @@
     "Aniplex"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1784/151057l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1064/160017l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/133007-NkSVqsR7CTgT.jpg",
     "color": "#e4935d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "HD6vwmNvcXo",
+    "url": "https://www.youtube.com/watch?v=HD6vwmNvcXo",
+    "thumbnail": "https://i.ytimg.com/vi/HD6vwmNvcXo/hqdefault.jpg"
+  },
   "synopsis": "The 10th anniversary online event for the Mahou Shoujo Madoka☆Magica anime revealed on Sunday that the franchise is getting a new anime film titled Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten. The film will be an official sequel to the Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari film that opened in October 2013. The tagline on the new film's visual reads, \"Now, let's continue the story.\"\n\n(Source: Anime News Network, edited)",
   "sequence": [
     {
@@ -91,149 +93,29 @@
     }
   ],
   "episodes": {
-    "T1": {
-      "episode": "T1",
-      "length": "1m",
-      "airDate": "2021-04-25",
+    "1": {
+      "episode": "1",
+      "length": 120,
+      "airDate": "2026-08-28",
       "title": {
-        "en": "Teaser PV (0:33)"
+        "en": "Complete Movie"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T2": {
-      "episode": "T2",
-      "length": "2m",
-      "airDate": "2023-09-10",
-      "title": {
-        "en": "News Flash 1 (1:30)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T3": {
-      "episode": "T3",
-      "length": "2m",
-      "airDate": "2023-10-29",
-      "title": {
-        "en": "News Flash 1.1 (1:54)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T4": {
-      "episode": "T4",
-      "length": "1m",
-      "airDate": "2024-09-16",
-      "title": {
-        "en": "News Flash 2 (0:35)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T5": {
-      "episode": "T5",
-      "length": "1m",
-      "airDate": "2024-11-01",
-      "title": {
-        "en": "News Flash 2: Homura Side (1:02)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T6": {
-      "episode": "T6",
-      "length": "1m",
-      "airDate": "2025-07-15",
-      "title": {
-        "en": "Trailer (0:30)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T7": {
-      "episode": "T7",
-      "length": "1m",
-      "airDate": "2025-12-21",
-      "title": {
-        "en": "Trailer 2 (0:48)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T8": {
-      "episode": "T8",
-      "length": "1m",
-      "airDate": "2026-04-30",
-      "title": {
-        "en": "Trailer 3 (0:30)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
-    },
-    "T9": {
-      "episode": "T9",
-      "length": "2m",
-      "airDate": "2026-06-28",
-      "title": {
-        "en": "Main Trailer (1:52)"
-      },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
+      "tvdbShowId": 219181,
+      "tvdbId": 8912639,
+      "seasonNumber": 0,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 16,
       "runtime": null,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T05:55:25.398Z",
+    "lastFetched": "2026-11-22T00:39:50.167Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

@@ -7,7 +7,7 @@
     "anidb": 19070,
     "kitsu": 49437,
     "simkl": 2667698,
-    "tmdb": null,
+    "tmdb": 237150,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
@@ -22,18 +22,19 @@
     "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
     "native": "転生貴族、鑑定スキルで成り上がる 第3期",
     "synonyms": [
-      "Reincarnated as an Aristocrat with an Appraisal Skill Season 3"
+      "Reincarnated as an Aristocrat with an Appraisal Skill Season 3",
+      "KanteiSkill 3"
     ]
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
-    "to": null
+    "from": "2026-09-28T00:00:00+00:00",
+    "to": "2026-12-13T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
@@ -42,27 +43,45 @@
     "time": "23:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 9,
+    "airingAt": 1795357800
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.36,
+    "anilistScore": 6.8,
     "kitsuRating": null
   },
   "genres": [
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Isekai",
+    "Reincarnation"
   ],
   "studios": [
-    "studio MOTHER"
+    "GeyeG Pictures"
   ],
-  "producers": [],
+  "producers": [
+    "Bandai Namco Filmworks",
+    "Kodansha",
+    "Crunchyroll",
+    "Bandai Namco Music Live",
+    "Bushiroad Move",
+    "U-NEXT",
+    "CBC TV",
+    "Dentsu"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1487/156631l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1533/159859l.jpg",
     "banner": null,
-    "color": "#f1bb93"
+    "color": "#d6f1c9"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "8_Lxr7vO9l0",
+    "url": "https://www.youtube.com/watch?v=8_Lxr7vO9l0",
+    "thumbnail": "https://i.ytimg.com/vi/8_Lxr7vO9l0/hqdefault.jpg"
+  },
   "synopsis": "Third season of Tensei Kizoku, Kantei Skill de Nariagaru.",
   "sequence": [
     {
@@ -79,17 +98,217 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-09-27",
+      "title": {
+        "en": "Headman",
+        "romaji": "Gunchou",
+        "ja": "郡長"
+      },
+      "tvdbShowId": 434704,
+      "tvdbId": 10864356,
+      "seasonNumber": 3,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10864356/screencap/6ab862546cb25.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-04",
+      "title": {
+        "en": "Canarre in Crisis",
+        "romaji": "Canare no Kiki",
+        "ja": "カナレの危機"
+      },
+      "tvdbShowId": 434704,
+      "tvdbId": 12004783,
+      "seasonNumber": 3,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 26,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12004783/screencap/6ac17fc6b3e47.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-11",
+      "title": {
+        "en": "Zaht and Braham",
+        "romaji": "Zaht to Braham",
+        "ja": "ザットとブラッハム"
+      },
+      "tvdbShowId": 434704,
+      "tvdbId": 12004784,
+      "seasonNumber": 3,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12004784/screencap/6acaeab4ed84d.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-18",
+      "title": {
+        "en": "End of Hostilities",
+        "romaji": "Shuusen",
+        "ja": "終戦"
+      },
+      "tvdbShowId": 434704,
+      "tvdbId": 12004785,
+      "seasonNumber": 3,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12004785/screencap/6ad4cf0b4d920.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-10-25",
+      "title": {
+        "en": "The End of Vasmarque",
+        "romaji": "Vasmarque no Saigo",
+        "ja": "バサマークの最期"
+      },
+      "tvdbShowId": 434704,
+      "tvdbId": 12004786,
+      "seasonNumber": 3,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12004786/screencap/6add5b26342f5.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-01",
+      "title": {
+        "en": "Fujimiya",
+        "romaji": "Fujimiya",
+        "ja": "フジミヤ"
+      },
+      "tvdbShowId": 434704,
+      "tvdbId": 12006498,
+      "seasonNumber": 3,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12006498/screencap/6ae8b6b04ae55.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-08",
+      "title": {
+        "en": "Off to Save Ars",
+        "romaji": "Ars Kyuushutsu e",
+        "ja": "アルス救出へ"
+      },
+      "tvdbShowId": 434704,
+      "tvdbId": 12006499,
+      "seasonNumber": 3,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12006499/screencap/6aefd95b93054.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-15",
+      "title": {
+        "en": "What a King Needs",
+        "romaji": "Ou ni Hitsuyou na Mono",
+        "ja": "王に必要なもの"
+      },
+      "tvdbShowId": 434704,
+      "tvdbId": 12006500,
+      "seasonNumber": 3,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12006500/screencap/6af7a0ff285f6.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-11-22",
+      "title": {
+        "en": null,
+        "romaji": "Sekinen no Omoi",
+        "ja": "積年の想い"
+      },
+      "tvdbShowId": 434704,
+      "tvdbId": 12006501,
+      "seasonNumber": 3,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12006501/screencap/6b0090b2da028.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-11-29",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 434704,
+      "tvdbId": 12006502,
+      "seasonNumber": 3,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-06",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 434704,
+      "tvdbId": 12006503,
+      "seasonNumber": 3,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-13",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 434704,
+      "tvdbId": 12006504,
+      "seasonNumber": 3,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-02T07:11:23.496Z",
+    "lastFetched": "2026-11-22T00:45:39.533Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

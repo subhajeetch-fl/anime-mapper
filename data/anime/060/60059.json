@@ -33,13 +33,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-17T00:00:00+00:00",
-    "to": null
+    "to": "2026-10-02T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -48,34 +48,44 @@
     "time": "23:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 8,
-    "airingAt": 1788532200
-  },
+  "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": null,
+    "malScore": 7.55,
     "anilistScore": 7.6,
     "kitsuRating": null
   },
   "genres": [
     "Adventure",
     "Comedy",
+    "Historical",
+    "Samurai",
+    "Shounen",
     "Action"
   ],
   "studios": [
     "CloverWorks"
   ],
   "producers": [
-    "Aniplex"
+    "Aniplex",
+    "Shueisha",
+    "TOKYO MX",
+    "Fuji TV",
+    "BS11",
+    "CloverWorks",
+    "Dentsu"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1289/156329l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1105/160712l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182616-kmIqMEUsLYrO.jpg",
     "color": "#e45050"
   },
-  "trailer": null,
-  "synopsis": "Second season of Nige Jouzu no Wakagimi.",
+  "trailer": {
+    "youtubeId": "5xV6uMwR-Xo",
+    "url": "https://www.youtube.com/watch?v=5xV6uMwR-Xo",
+    "thumbnail": "https://i.ytimg.com/vi/5xV6uMwR-Xo/hqdefault.jpg"
+  },
+  "synopsis": "After the tragic events in Kamakura, Tokiyuki Houjou has overcome the worst and started restoring his noble family. His next goal is incredibly ambitious—retaking Kamakura, no matter the cost. However, achieving his goal proves difficult as the region goes through turbulent times while its people are exhausted from their uneasy lives.\n\nTo make matters worse, some of the current rule's higher-ups are hot on Tokiyuki's trail and hope to expose him. But alongside his skilled and treasured retainers, Tokiyuki will do anything to rebuild his realm as he utilizes his elusiveness in both combat and speech.\n\n[Written by MAL Rewrite]",
   "sequence": [
     {
       "malId": 54724,
@@ -94,195 +104,220 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-17",
       "title": {
-        "en": "Longing for Sea Bream!"
+        "en": "Longing for Sea Bream!",
+        "romaji": "Mou Ichido, Tabetai!",
+        "ja": "もう一度, 食べタイ!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 432455,
+      "tvdbId": 10733192,
+      "seasonNumber": 2,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10733192/screencap/6a5989d4c1af3.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-24",
       "title": {
-        "en": "Episode 2"
+        "en": "Ayako`s Heart-Pounding Operation!",
+        "romaji": "Ayako no Dokidoki Daisakusen!",
+        "ja": "亜也子のドキドキ❤︎大作戦!"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 432455,
+      "tvdbId": 11881792,
+      "seasonNumber": 2,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881792/screencap/6a62c35189990.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-31",
       "title": {
-        "en": "Episode 3"
+        "en": "Tokiyuki and Three Great Generals",
+        "romaji": "Tokiyuki to San Taishou",
+        "ja": "時行と三大将"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 432455,
+      "tvdbId": 11881793,
+      "seasonNumber": 2,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 15,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881793/screencap/6a6bb117153c2.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-07",
       "title": {
-        "en": "Episode 4"
+        "en": "The Warrior of Love: Shinano Mask!",
+        "romaji": "Ai no Senshi! Shinano Kamen",
+        "ja": "愛の戦士! 信濃仮面"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 432455,
+      "tvdbId": 11881794,
+      "seasonNumber": 2,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881794/screencap/6a75b9f97a755.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
-      "airDate": "",
+      "length": 25,
+      "airDate": "2026-08-14",
       "title": {
-        "en": "Episode 5"
+        "en": "The Unyielding",
+        "romaji": "Makezaru Mono-tachi",
+        "ja": "負けざる者たち"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 432455,
+      "tvdbId": 11881795,
+      "seasonNumber": 2,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881795/screencap/6a7de4cd7333a.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
-      "airDate": "",
+      "length": 25,
+      "airDate": "2026-08-21",
       "title": {
-        "en": "Episode 6"
+        "en": "The Boy Who Became a God",
+        "romaji": "Kami ni Natta Shounen",
+        "ja": "神になった少年"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 432455,
+      "tvdbId": 11881796,
+      "seasonNumber": 2,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881796/screencap/6a877f343856e.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
-      "airDate": "",
+      "length": 25,
+      "airDate": "2026-08-28",
       "title": {
-        "en": "Episode 7"
+        "en": "My Uncle",
+        "romaji": "Boku no Ojisan",
+        "ja": "ぼくのおじさん"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 432455,
+      "tvdbId": 11881797,
+      "seasonNumber": 2,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881797/screencap/6a917ce61f575.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
-      "airDate": "",
+      "length": 25,
+      "airDate": "2026-09-04",
       "title": {
-        "en": "Episode 8"
+        "en": "Irreplaceable",
+        "romaji": "Kakegae ga Nai Mono",
+        "ja": "かけがえがないもの"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 432455,
+      "tvdbId": 11881798,
+      "seasonNumber": 2,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881798/screencap/6a9a1e83d24b6.jpg"
     },
     "9": {
       "episode": "9",
-      "length": "25m",
-      "airDate": "",
+      "length": 25,
+      "airDate": "2026-09-11",
       "title": {
-        "en": "Episode 9"
+        "en": "The Man Called Masashige Kusunoki",
+        "romaji": "Sono Otoko, Kusunoki Masashige",
+        "ja": "その男, 楠木正成"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 432455,
+      "tvdbId": 11881799,
+      "seasonNumber": 2,
       "episodeNumber": 9,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881799/screencap/6aa356fc7ed4e.jpg"
     },
     "10": {
       "episode": "10",
-      "length": "25m",
-      "airDate": "",
+      "length": 25,
+      "airDate": "2026-09-18",
       "title": {
-        "en": "Episode 10"
+        "en": "The Night of the Assassination",
+        "romaji": "Ansatsu no Yoru",
+        "ja": "暗殺の夜"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 432455,
+      "tvdbId": 11881800,
+      "seasonNumber": 2,
       "episodeNumber": 10,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881800/screencap/6aad437259d23.jpg"
     },
     "11": {
       "episode": "11",
-      "length": "25m",
-      "airDate": "",
+      "length": 25,
+      "airDate": "2026-09-25",
       "title": {
-        "en": "Episode 11"
+        "en": "My Buddha, Part Two",
+        "romaji": "Zoku Watashi no Hotokesama",
+        "ja": "続・わたしの仏様"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 432455,
+      "tvdbId": 11881801,
+      "seasonNumber": 2,
       "episodeNumber": 11,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881801/screencap/6ab5c0d746c9b.jpg"
     },
     "12": {
       "episode": "12",
-      "length": "25m",
-      "airDate": "",
+      "length": 25,
+      "airDate": "2026-10-02",
       "title": {
-        "en": "Episode 12"
+        "en": "The Age",
+        "romaji": "Jidai",
+        "ja": "時代"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 432455,
+      "tvdbId": 11881802,
+      "seasonNumber": 2,
       "episodeNumber": 12,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881802/screencap/6abfb7ec4e169.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-02T00:07:16.006Z",
+    "lastFetched": "2026-11-22T00:44:39.787Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

@@ -35,20 +35,17 @@
   },
   "season": "summer",
   "year": 2025,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
-    "malScore": 6.11,
-    "anilistScore": 5.4,
+    "malScore": 6.12,
+    "anilistScore": 5.8,
     "kitsuRating": null
   },
   "genres": [
-    "Hentai"
+    "Hentai",
+    "Workplace"
   ],
   "studios": [
     "Nur",
@@ -65,15 +62,17 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-04T21:42:41.396Z",
+    "lastFetched": "2026-11-22T00:48:36.211Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

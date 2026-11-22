@@ -6,54 +6,50 @@
     "anilist": 190054,
     "anidb": 19280,
     "kitsu": 49838,
-    "simkl": null,
-    "tmdb": null,
+    "simkl": 2751750,
+    "tmdb": 196944,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 61440,
     "livechart": 13135,
-    "animeplanet": "my-happy-marriage-new",
+    "animeplanet": "my-happy-marriage-specials",
     "anisearch": 20463,
     "notify": "9y2JU00Ng"
   },
   "title": {
-    "romaji": "Watashi no Shiawase na Kekkon (Shinsaku Anime)",
-    "english": null,
-    "native": "わたしの幸せな結婚 (新作アニメ)",
+    "romaji": "Watashi no Shiawase na Kekkon Tokubetsu-hen",
+    "english": "My Happy Marriage Special",
+    "native": "わたしの幸せな結婚 特別篇",
     "synonyms": [
-      "My Happy Marriage",
-      "My Blissful Marriage",
-      "My Happy Marriage (New Anime)"
+      "My Blissful Marriage"
     ]
   },
   "type": "TV Special",
   "source": "Novel",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 3,
-  "episodeLength": null,
+  "episodeLength": 26,
   "aired": {
-    "from": "2026-01-01T00:00:00+00:00",
-    "to": null
+    "from": "2026-10-25T00:00:00+00:00",
+    "to": "2026-10-25T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "fall",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 7.58,
+    "anilistScore": 7.6,
     "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
     "Drama",
     "Fantasy",
+    "Historical",
     "Romance",
     "Supernatural"
   ],
@@ -61,16 +57,18 @@
     "Kinema Citrus"
   ],
   "producers": [
-    "Glovision",
-    "Miracle Bus",
-    "Kadokawa"
+    "KADOKAWA"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1460/153740l.jpg",
-    "banner": null,
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190054-C8vrENMGNdnu.jpg",
     "color": "#e44378"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "SZc3Lp1_iS4",
+    "url": "https://www.youtube.com/watch?v=SZc3Lp1_iS4",
+    "thumbnail": "https://i.ytimg.com/vi/SZc3Lp1_iS4/hqdefault.jpg"
+  },
   "synopsis": "New anime project of Watashi no Shiawase na Kekkon.",
   "sequence": [
     {
@@ -84,20 +82,101 @@
       "format": "TV",
       "episodes": 13,
       "seasonYear": 2025,
-      "relationType": "PARENT"
+      "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-25",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 418665,
+      "tvdbId": 11700536,
+      "seasonNumber": 0,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 27,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11700536/screencap/6ade09a337c69.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 30,
+      "airDate": "2026-10-25",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 418665,
+      "tvdbId": 11700538,
+      "seasonNumber": 0,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 28,
+      "runtime": 26,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11700538/screencap/6adfd7e2a8714.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-25",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 418665,
+      "tvdbId": 11700541,
+      "seasonNumber": 0,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11700541/screencap/6adfd7f7e44c6.jpg"
+    },
+    "S1": {
+      "episode": "S1",
+      "length": 20,
+      "airDate": "2026-10-24",
+      "title": {
+        "en": "Episode S1",
+        "romaji": "Tokubetsu Hen Koukai Kinen Tokubetsu Taidan \"Watashitachi no Shiawase na Kiseki\" Zenpen",
+        "ja": "特別篇公開記念特別対談「わたしたちの幸せな軌跡」前編"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
+    "S2": {
+      "episode": "S2",
+      "length": 25,
+      "airDate": "2026-10-25",
+      "title": {
+        "en": "Episode S2",
+        "romaji": "Tokubetsu Hen Koukai Kinen Tokubetsu Taidan \"Watashitachi no Shiawase na Kiseki\" Kouhen",
+        "ja": "特別篇公開記念特別対談「わたしたちの幸せな軌跡」後編"
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-02T07:32:22.897Z",
+    "lastFetched": "2026-11-22T00:47:23.181Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

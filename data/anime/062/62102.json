@@ -33,13 +33,13 @@
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Currently Airing",
-  "airing": true,
-  "episodeCount": null,
+  "status": "Finished Airing",
+  "airing": false,
+  "episodeCount": 12,
   "episodeLength": 24,
   "aired": {
     "from": "2026-07-08T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-26T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -48,135 +48,241 @@
     "time": "23:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 9,
-    "airingAt": 1788359400
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.91,
-    "anilistScore": 6.4,
+    "malScore": 7.2,
+    "anilistScore": 7,
     "kitsuRating": null
   },
   "genres": [
     "Comedy",
-    "Slice of Life",
     "Historical",
-    "Family"
+    "Slice of Life"
   ],
   "studios": [
     "Newon"
   ],
   "producers": [
-    "Mainichi Broadcasting System",
-    "Movic",
     "NBCUniversal Entertainment Japan",
+    "Mainichi Broadcasting System",
     "Ichijinsha",
-    "TV Saitama",
-    "Chiba TV",
-    "Bit grooove promotion",
-    "Imagine",
     "BS Asahi",
     "Bushiroad Move",
-    "flag",
+    "Movic",
+    "Studio Flag",
+    "HIKE",
+    "Chiba TV Housou",
     "TV Kanagawa",
-    "Hike"
+    "TV Saitama"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1912/157082l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196356-OUT2nMhW0IdS.jpg",
     "color": "#93f1c9"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "2UBOHZNG1fM",
+    "url": "https://www.youtube.com/watch?v=2UBOHZNG1fM",
+    "thumbnail": "https://i.ytimg.com/vi/2UBOHZNG1fM/hqdefault.jpg"
+  },
   "synopsis": "Miya is the illegitimate child of a certain prominent family. When her mother dies, she's convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters! Yet when she finally meets the women she expects to treat her like dirt, they actually end up being...sweet?!\n\n(Source: Seven Seas Entertainment)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-08",
       "title": {
-        "en": "My Stepmother and Stepsisters Aren`t Wicked"
+        "en": "My Stepmother and Stepsisters Aren`t Wicked",
+        "romaji": "Ibitte Konai Gibo to Gishi",
+        "ja": "いびってこない義母と義姉"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466092,
+      "tvdbId": 11255434,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11255434/screencap/6a4bd0c4974f8.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-15",
       "title": {
         "en": "The Kounokura Family`s Guard"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466092,
+      "tvdbId": 11876810,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876810/screencap/6a56d4e9bd2c9.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-22",
       "title": {
-        "en": "Episode 3"
+        "en": "Daughters of Distinguished Families"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466092,
+      "tvdbId": 11876811,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876811/screencap/6a5fdbc17e3be.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-29",
       "title": {
-        "en": "Episode 4"
+        "en": "Miya Returning a Favor"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466092,
+      "tvdbId": 11892939,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11892939/screencap/6a696872947de.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
-      "airDate": "",
+      "length": 25,
+      "airDate": "2026-08-05",
       "title": {
-        "en": "Episode 5"
+        "en": "Miya`s First Friend"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 466092,
+      "tvdbId": 11892940,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11892940/screencap/6a7088a20394e.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-12",
+      "title": {
+        "en": "The Inari Family`s Daughter"
+      },
+      "tvdbShowId": 466092,
+      "tvdbId": 11892941,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11892941/screencap/6a7bd676b2b0a.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-19",
+      "title": {
+        "en": "The Kounokura Treasure"
+      },
+      "tvdbShowId": 466092,
+      "tvdbId": 11902255,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11902255/screencap/6a834a6a3feaa.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-26",
+      "title": {
+        "en": "The Dog Lady"
+      },
+      "tvdbShowId": 466092,
+      "tvdbId": 11902256,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11902256/screencap/6a8efa80aac2c.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-09-02",
+      "title": {
+        "en": "A Disciplined and Traditional Student Council"
+      },
+      "tvdbShowId": 466092,
+      "tvdbId": 11902257,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11902257/screencap/6a9783c81b071.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-09",
+      "title": {
+        "en": "Battle of the Maidens"
+      },
+      "tvdbShowId": 466092,
+      "tvdbId": 11902258,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11902258/screencap/6aa0ae159fc94.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-16",
+      "title": {
+        "en": "Memories of Summer"
+      },
+      "tvdbShowId": 466092,
+      "tvdbId": 11902259,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11902259/screencap/6aaaa9544e12e.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-30",
+      "title": {
+        "en": "Dear Mother"
+      },
+      "tvdbShowId": 466092,
+      "tvdbId": 11902260,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11902260/screencap/6ab6e9de968d2.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:24:11.358Z",
+    "lastFetched": "2026-11-22T00:49:50.646Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

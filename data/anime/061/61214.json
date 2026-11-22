@@ -6,7 +6,7 @@
     "anilist": 188036,
     "anidb": 20037,
     "kitsu": null,
-    "simkl": 3100507,
+    "simkl": 3104170,
     "tmdb": 296256,
     "tvdb": 477377,
     "trakt": 292376,
@@ -30,18 +30,14 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": null,
-  "episodeLength": null,
+  "episodeLength": 25,
   "aired": {
     "from": "2025-03-14T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "winter",
+  "year": 2025,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -54,6 +50,9 @@
     "Adventure",
     "Fantasy",
     "Sci-Fi",
+    "Shounen",
+    "Space",
+    "Survival",
     "Suspense"
   ],
   "studios": [],
@@ -82,15 +81,16 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-06T22:11:54.479Z",
+    "lastFetched": "2026-11-22T00:46:47.777Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }
