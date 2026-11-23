@@ -23,7 +23,7 @@
     "native": "【私のおふるで悪いんだけど】とお母様(ヒロイン)に取り巻きを押し付けられ、嫁いだ辺境でも嫁扱いされませんが、おかげで自由に生きれます！",
     "synonyms": []
   },
-  "type": null,
+  "type": "unknown",
   "source": "Novel",
   "status": "Not yet aired",
   "airing": false,
@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -55,7 +51,7 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "poster": null,
     "banner": null,
     "color": null
   },
@@ -64,16 +60,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:57:00.017Z",
+    "lastFetched": "2026-11-23T22:44:11.268Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
+      "anilist (not in ID mappings)"
     ],
     "dataVersion": 1
   }

@@ -27,13 +27,13 @@
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-05T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-27T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -42,139 +42,235 @@
     "time": "16:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788679800
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.2,
-    "anilistScore": 5.6,
+    "malScore": 7.03,
+    "anilistScore": 6.4,
     "kitsuRating": null
   },
   "genres": [
     "Comedy",
     "Supernatural",
-    "Horror",
-    "School Life"
+    "Horror"
   ],
   "studios": [
     "C-Station"
   ],
   "producers": [
     "TBS",
-    "Half H.P Studio"
+    "FuRyu Pictures",
+    "BS11",
+    "Bushiroad Creative",
+    "81 Produce",
+    "Sony Music Entertainment",
+    "KLOCKWORX"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1024/158581l.jpg",
-    "banner": null,
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200230-I6xyGkum2n0E.jpg",
     "color": "#e45d43"
   },
-  "trailer": null,
-  "synopsis": "The story of Let's Go Kaiki-gumi follows a nameless protagonist who is six times more vulnerable to spiritual phenomena than the average human being. One day, the protagonist encounters Mechako, a mysterious girl who runs the Kaiki-gumi, an organization that polices the behavior of the ghosts and monsters that threaten human beings, and he somehow gets roped into helping the Kaiki-gumi re-establish itself, resulting in all sorts of strange events and spooky shenanigans.\n\n(Source: Crunchyroll)",
+  "trailer": {
+    "youtubeId": "3DKfmW2aDhY",
+    "url": "https://www.youtube.com/watch?v=3DKfmW2aDhY",
+    "thumbnail": "https://i.ytimg.com/vi/3DKfmW2aDhY/hqdefault.jpg"
+  },
+  "synopsis": "Many people fear the supernatural, but there is one high school student who has a unique attitude. While he used to be absolutely terrified, and go to extreme lengths to protect himself, he eventually came to the conclusion that ghosts and other supernatural phenomena are not real, since they were not bothering with such an easy target. Nevertheless, he will still take measures to protect himself, lest he be proven wrong.\n\nOne evening, the student encounters a ghoulish girl named Mechako who reveals that all supernatural phenomena are controlled by an organization known as the Kaiki-gumi. After her father passed away, she inherited control over the organization despite having no talent for instilling fear in humans, leading to a decline in otherworldly phenomena. Refusing to be the last generation that fears ghosts, the student partners up with Mechako, hoping to increase her understanding of fear—even if it means experiencing more fear himself.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-05",
       "title": {
-        "en": "Episode 1"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 469143,
+      "tvdbId": 11391545,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11391545/screencap/6a488e87a3a0b.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-12",
       "title": {
-        "en": "Episode 2"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 469143,
+      "tvdbId": 11868678,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868678/screencap/6a52e12e0cd9f.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-19",
       "title": {
-        "en": "Episode 3"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 469143,
+      "tvdbId": 11868679,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868679/screencap/6a5c34cf6006b.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-26",
       "title": {
-        "en": "Episode 4"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 469143,
+      "tvdbId": 11868680,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868680/screencap/6a656163de1a8.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-02",
       "title": {
-        "en": "Episode 5"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 469143,
+      "tvdbId": 11868681,
+      "seasonNumber": 1,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868681/screencap/6a6ea0d8da29a.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-09",
       "title": {
-        "en": "Episode 6"
+        "en": null
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 469143,
+      "tvdbId": 11868682,
+      "seasonNumber": 1,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868682/screencap/6a77f7a81c590.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-16",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 469143,
+      "tvdbId": 11868683,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868683/screencap/6a80f7416eddd.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-23",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 469143,
+      "tvdbId": 11868684,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868684/screencap/6a8a19d3c534c.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-30",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 469143,
+      "tvdbId": 11868685,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868685/screencap/6a93813906fbc.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-06",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 469143,
+      "tvdbId": 11868686,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868686/screencap/6a9c9b7db2efb.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-13",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 469143,
+      "tvdbId": 11868687,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868687/screencap/6aa60155421a5.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-27",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 469143,
+      "tvdbId": 11868688,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868688/screencap/6ab78b9b86ffb.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:32:03.010Z",
+    "lastFetched": "2026-11-23T22:45:12.141Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

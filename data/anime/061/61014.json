@@ -50,7 +50,7 @@
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": 7.39,
-    "anilistScore": 6.6,
+    "anilistScore": 6.7,
     "kitsuRating": null
   },
   "genres": [
@@ -215,7 +215,9 @@
       "length": 25,
       "airDate": "2026-11-27",
       "title": {
-        "en": null
+        "en": null,
+        "romaji": "Sakusen",
+        "ja": "作戦"
       },
       "tvdbShowId": 460309,
       "tvdbId": 12049110,
@@ -224,10 +226,55 @@
       "absoluteEpisodeNumber": 8,
       "runtime": 24,
       "image": null
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-12-04",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 460309,
+      "tvdbId": 12049111,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-11",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 460309,
+      "tvdbId": 12049112,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-18",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 460309,
+      "tvdbId": 12049113,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-11-22T00:46:10.675Z",
+    "lastFetched": "2026-11-23T22:40:58.495Z",
     "sourcesUsed": [
       "mal",
       "anilist",

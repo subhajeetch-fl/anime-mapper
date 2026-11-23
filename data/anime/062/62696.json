@@ -7,10 +7,10 @@
     "anidb": 19649,
     "kitsu": 50261,
     "simkl": 2899118,
-    "tmdb": null,
-    "tvdb": null,
-    "trakt": null,
-    "traktType": null,
+    "tmdb": 327765,
+    "tvdb": 469167,
+    "trakt": 322813,
+    "traktType": "shows",
     "shikimori": 62696,
     "livechart": 13363,
     "animeplanet": "super-psychic-policeman-chojo",
@@ -19,21 +19,19 @@
   },
   "title": {
     "romaji": "Choujun! Choujou Senpai",
-    "english": null,
+    "english": "Super Psychic Policeman Chojo",
     "native": "超巡！超条先輩",
-    "synonyms": [
-      "Super Psychic Policeman Chojo"
-    ]
+    "synonyms": []
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 12,
+  "episodeLength": 24,
   "aired": {
-    "from": "2026-10-01T00:00:00+00:00",
-    "to": null
+    "from": "2026-10-06T00:00:00+00:00",
+    "to": "2026-12-22T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
@@ -43,42 +41,241 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1791295200
+    "episode": 8,
+    "airingAt": 1795528800
   },
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 6.72,
+    "anilistScore": 6.5,
     "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
     "Comedy",
+    "Gag Humor",
+    "Shounen",
+    "Super Power",
     "Slice of Life"
   ],
   "studios": [
     "Arvo Animation"
   ],
-  "producers": [],
+  "producers": [
+    "Good Smile Company",
+    "Dentsu",
+    "Kansai TV",
+    "Victor Entertainment",
+    "GAGA",
+    "Mixi",
+    "Arvo Animation"
+  ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1907/158537l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1874/160335l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200294-PPEwId1xfGNO.jpg",
     "color": null
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "rYpXoCdTNQI",
+    "url": "https://www.youtube.com/watch?v=rYpXoCdTNQI",
+    "thumbnail": "https://i.ytimg.com/vi/rYpXoCdTNQI/hqdefault.jpg"
+  },
   "synopsis": "In Chinjuku, the city that never sleeps, there is a psychic senior police officer who has powers beyond human comprehension! His name is Meguru Choujou! Along with his judo expert partner Nao Ippongi, this hilarious duo will keep the streets clean by any means necessary!\n\n(Source: MANGA Plus)",
   "sequence": [],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": 25,
+      "airDate": "2026-10-06",
+      "title": {
+        "en": "The Psychic Patrolman",
+        "ja": "超能力巡査長"
+      },
+      "tvdbShowId": 469167,
+      "tvdbId": 11392583,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11392583/screencap/6ac401517538b.jpg"
+    },
+    "2": {
+      "episode": "2",
+      "length": 25,
+      "airDate": "2026-10-13",
+      "title": {
+        "en": "The Cat-Finding Senior Officer / Senior Duelist Officer"
+      },
+      "tvdbShowId": 469167,
+      "tvdbId": 12022279,
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022279/screencap/6ace1b6a3737b.jpg"
+    },
+    "3": {
+      "episode": "3",
+      "length": 25,
+      "airDate": "2026-10-20",
+      "title": {
+        "en": "The Gofer Senior Officer/Racing Senior Officer"
+      },
+      "tvdbShowId": 469167,
+      "tvdbId": 12022280,
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022280/screencap/6ad77fc2b51be.jpg"
+    },
+    "4": {
+      "episode": "4",
+      "length": 25,
+      "airDate": "2026-10-27",
+      "title": {
+        "en": "The Leave-on-Read Senior Patrolman / The Quiz Senior Patrolman"
+      },
+      "tvdbShowId": 469167,
+      "tvdbId": 12022281,
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022281/screencap/6adeac8070d7e.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-11-03",
+      "title": {
+        "en": "Convenience Store Patrolman / Pubescent Patrolman"
+      },
+      "tvdbShowId": 469167,
+      "tvdbId": 12022282,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022282/screencap/6ae945b3c3ce8.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-11-10",
+      "title": {
+        "en": "The Festival Senior Patrolman"
+      },
+      "tvdbShowId": 469167,
+      "tvdbId": 12022283,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022283/screencap/6af28baadf5ca.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-11-17",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 469167,
+      "tvdbId": 12022284,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022284/screencap/6afa5daca4e0e.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-11-24",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 469167,
+      "tvdbId": 12022285,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12022285/screencap/6b030ecfa8811.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-12-01",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 469167,
+      "tvdbId": 12022286,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": null
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-12-08",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 469167,
+      "tvdbId": 12022287,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": null
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-12-15",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 469167,
+      "tvdbId": 12022288,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": null
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-12-22",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 469167,
+      "tvdbId": 12022289,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-08-04T22:02:59.468Z",
+    "lastFetched": "2026-11-23T22:45:16.267Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

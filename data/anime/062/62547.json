@@ -12,16 +12,18 @@
     "trakt": null,
     "traktType": null,
     "shikimori": 62547,
-    "livechart": null,
+    "livechart": 13280,
     "animeplanet": null,
     "anisearch": null,
     "notify": null
   },
   "title": {
     "romaji": "Kimetsu no Yaiba: Mugenjou-hen Movie 3",
-    "english": "Demon Slayer: Kimetsu no Yaiba - The Movie 3: Infinity Castle",
+    "english": "Demon Slayer: Kimetsu no Yaiba Infinity Castle III",
     "native": "劇場版「鬼滅の刃」無限城編 第終章",
-    "synonyms": []
+    "synonyms": [
+      "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle - Part 3"
+    ]
   },
   "type": "Movie",
   "source": "Manga",
@@ -35,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
@@ -49,6 +47,8 @@
   },
   "genres": [
     "Action",
+    "Historical",
+    "Shounen",
     "Supernatural",
     "Adventure",
     "Drama"
@@ -56,7 +56,11 @@
   "studios": [
     "ufotable"
   ],
-  "producers": [],
+  "producers": [
+    "Aniplex",
+    "ufotable",
+    "Shueisha"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1987/152185l.jpg",
     "banner": null,
@@ -81,12 +85,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:57:32.998Z",
+    "lastFetched": "2026-11-23T22:44:25.849Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

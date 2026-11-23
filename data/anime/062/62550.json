@@ -18,11 +18,11 @@
     "notify": null
   },
   "title": {
-    "romaji": "GIRLS BAND CRY (Shinsaku Eiga)",
-    "english": null,
-    "native": "ガールズバンドクライ (新作映画)",
+    "romaji": "GIRLS BAND CRY THE MOVIE",
+    "english": "Girls Band Cry New Movie",
+    "native": "ガールズバンドクライ THE MOVIE",
     "synonyms": [
-      "Girls Band Cry New Movie"
+      "GBC THE MOVIE"
     ]
   },
   "type": "Movie",
@@ -32,18 +32,17 @@
   "episodeCount": 1,
   "episodeLength": null,
   "aired": {
-    "from": null,
-    "to": null
+    "from": "2027-05-21T00:00:00+00:00",
+    "to": "2027-05-21T00:00:00+00:00"
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
+  "season": "spring",
+  "year": 2027,
+  "broadcast": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1810825200
   },
-  "nextAiringEpisode": null,
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
     "anilistScore": null,
@@ -52,16 +51,23 @@
   "genres": [
     "Drama",
     "Music",
-    "Slice of Life"
+    "Slice of Life",
+    "Musical Band"
   ],
-  "studios": [],
+  "studios": [
+    "Toei Animation"
+  ],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1799/152191l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1679/160854l.jpg",
     "banner": null,
-    "color": "#e40d0d"
+    "color": "#e493ae"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "cuywy0zVBPo",
+    "url": "https://www.youtube.com/watch?v=cuywy0zVBPo",
+    "thumbnail": "https://i.ytimg.com/vi/cuywy0zVBPo/hqdefault.jpg"
+  },
   "synopsis": "Completely new movie for Girls Band Cry.",
   "sequence": [
     {
@@ -75,20 +81,52 @@
       "format": "TV",
       "episodes": 13,
       "seasonYear": 2024,
-      "relationType": "OTHER"
+      "relationType": "PREQUEL"
+    },
+    {
+      "malId": null,
+      "title": {
+        "romaji": "GIRLS BAND CRY: Naa, Mirai.",
+        "english": null,
+        "native": "ガールズバンドクライ なぁ、未来。"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199154-uqZFZ49UJzuv.jpg",
+      "format": "MOVIE",
+      "episodes": 1,
+      "seasonYear": 2025,
+      "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-07-02T11:05:32.532Z",
+    "lastFetched": "2026-11-23T22:44:30.617Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

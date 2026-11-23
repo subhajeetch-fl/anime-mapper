@@ -28,13 +28,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-12T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-27T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -43,20 +43,19 @@
     "time": "02:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 9,
-    "airingAt": 1788627600
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 7.07,
-    "anilistScore": 6.9,
+    "malScore": 7.39,
+    "anilistScore": 7.3,
     "kitsuRating": null
   },
   "genres": [
     "Comedy",
-    "Fantasy",
+    "Reincarnation",
     "Romance",
+    "School",
+    "Seinen",
     "Supernatural"
   ],
   "studios": [
@@ -64,91 +63,240 @@
   ],
   "producers": [
     "Pony Canyon",
-    "Studio Mausu",
     "Crunchyroll",
+    "Bandai Namco Filmworks",
     "ABC Animation",
-    "BS NTV"
+    "BS Nittele"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1944/156331l.jpg",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199066-nmAYnI6uChse.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1350/159514l.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199066-ctSWwTx397MQ.jpg",
     "color": "#43bbe4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "xueZbCyZcnI",
+    "url": "https://www.youtube.com/watch?v=xueZbCyZcnI",
+    "thumbnail": "https://i.ytimg.com/vi/xueZbCyZcnI/hqdefault.jpg"
+  },
   "synopsis": "Narukami Ryusei is your typical NEET. He spends his days shut in his room playing video games without a care in the world, living a lazy life. But the truth is, Ryusei used to be a powerful demon king in another world! So why not spend this new life doing whatever he wants? Except, he wasn't the only one reincarnated into this world. The hero who struck him down is here too—and she's a really cute high school girl?! Can Ryusei survive reuniting with his foe in a new world, or will he find himself fighting even in this life?\n\n(Source: Seven Seas Entertainment)",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-12",
       "title": {
-        "en": "When Ryusei Met Meteor..."
+        "en": "When Ryusei Met Meteor...",
+        "romaji": "Koibito Tachi no Yokan",
+        "ja": "恋人たちの予感"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 468399,
+      "tvdbId": 11350623,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11350623/screencap/6a4cc70c5f8b4.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-19",
       "title": {
-        "en": "Episode 2"
+        "en": "The Witches of Oz",
+        "romaji": "Ozu no Mahotsukai",
+        "ja": "オズの魔法使い"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 468399,
+      "tvdbId": 11350639,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11350639/screencap/6a5618c58279f.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-26",
       "title": {
-        "en": "Episode 3"
+        "en": "Midnight Run",
+        "romaji": "Midnight Run",
+        "ja": "ミッドナイトラン"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 468399,
+      "tvdbId": 11880587,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880587/screencap/6a5f5bac823e3.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-02",
       "title": {
-        "en": "Episode 4"
+        "en": "Those Who Can`t Be Forgiven",
+        "romaji": "Yurusarezaru Mono",
+        "ja": "許されざる者"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 468399,
+      "tvdbId": 11880588,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880588/screencap/6a68af4f90a8e.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-09",
+      "title": {
+        "en": "Much Ado About Nothing",
+        "romaji": "Karasawagi",
+        "ja": "から騒ぎ"
+      },
+      "tvdbShowId": 468399,
+      "tvdbId": 11880589,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880589/screencap/6a72fe51874ec.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-16",
+      "title": {
+        "en": "Pulp Fiction",
+        "romaji": "Pulp Fiction",
+        "ja": "パルプ・フィクション"
+      },
+      "tvdbShowId": 468399,
+      "tvdbId": 11880590,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880590/screencap/6a7ae8a14520b.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-23",
+      "title": {
+        "en": "Seven",
+        "romaji": "Seven",
+        "ja": "セブン"
+      },
+      "tvdbShowId": 468399,
+      "tvdbId": 11890992,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11890992/screencap/6a8425b1087af.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-30",
+      "title": {
+        "en": "Training Day",
+        "romaji": "Training Day",
+        "ja": "トレーニング デイ"
+      },
+      "tvdbShowId": 468399,
+      "tvdbId": 11890993,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11890993/screencap/6a8d5f3f819c9.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-09-06",
+      "title": {
+        "en": "Scream",
+        "romaji": "Scream",
+        "ja": "スクリーム"
+      },
+      "tvdbShowId": 468399,
+      "tvdbId": 11890994,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11890994/screencap/6a96a1853193a.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-13",
+      "title": {
+        "en": "Triangle of Sadness",
+        "romaji": "Gyakuten no Triangle",
+        "ja": "逆転のトライアングル"
+      },
+      "tvdbShowId": 468399,
+      "tvdbId": 11890995,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11890995/screencap/6a9fd407b775d.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-20",
+      "title": {
+        "en": "Romeo and Juliet",
+        "romaji": "Romeo and Juliet",
+        "ja": "ロミオとジュリエット"
+      },
+      "tvdbShowId": 468399,
+      "tvdbId": 11890996,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11890996/screencap/6aa90f6046481.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-27",
+      "title": {
+        "en": "Love Actually",
+        "romaji": "Love Actually",
+        "ja": "ラブ・アクチュアリー"
+      },
+      "tvdbShowId": 468399,
+      "tvdbId": 11890997,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11890997/screencap/6ab247c33d21b.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:28:50.249Z",
+    "lastFetched": "2026-11-23T22:44:19.086Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

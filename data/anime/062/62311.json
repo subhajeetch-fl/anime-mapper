@@ -30,12 +30,16 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": "2027-01-01T00:00:00+00:00",
+    "from": "2027-01-06T00:00:00+00:00",
     "to": null
   },
   "season": "winter",
   "year": 2027,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -56,14 +60,14 @@
     "KADOKAWA"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1235/160176l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1606/161303l.jpg",
     "banner": null,
-    "color": null
+    "color": "#356be4"
   },
   "trailer": {
-    "youtubeId": "QCC-PqpQCCo",
-    "url": "https://www.youtube.com/watch?v=QCC-PqpQCCo",
-    "thumbnail": "https://i.ytimg.com/vi/QCC-PqpQCCo/hqdefault.jpg"
+    "youtubeId": "X6R__ZiTM2Y",
+    "url": "https://www.youtube.com/watch?v=X6R__ZiTM2Y",
+    "thumbnail": "https://i.ytimg.com/vi/X6R__ZiTM2Y/hqdefault.jpg"
   },
   "synopsis": "Long ago, Japan was protected by five crystal pillars. Though eighteen-year-old Hana Ichise was born to one of the branch families that defend the pillars using supernatural abilities, she has lived in the shadow of her brilliant twin sister, Hazuki, from a young age. When Hana finally awakens to powers of her own one day, however, she opts to hide them out of a desire to complete her high school education in peace. That is until Saku Ichinomiya, the arrogant yet powerful head of her family's primary branch, falls for Hana and forces her into signing a marriage contract with him. But can Hana rise to her true potential under the wing of her husband-to-be?\n\n(Source: Yen Press)",
   "sequence": [],
@@ -631,7 +635,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-11-22T00:50:20.221Z",
+    "lastFetched": "2026-11-23T22:43:35.672Z",
     "sourcesUsed": [
       "mal",
       "anilist",

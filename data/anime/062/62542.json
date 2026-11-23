@@ -27,13 +27,13 @@
   },
   "type": "TV",
   "source": "Manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-07T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-22T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -42,18 +42,18 @@
     "time": "00:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788793200
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 8.41,
+    "malScore": 8.32,
     "anilistScore": 8.2,
     "kitsuRating": null
   },
   "genres": [
+    "Adult Cast",
     "Comedy",
+    "Gag Humor",
+    "Seinen",
     "Slice of Life",
     "Sports"
   ],
@@ -62,20 +62,25 @@
     "Saber Works"
   ],
   "producers": [
-    "Mainichi Broadcasting System",
-    "Kodansha",
     "NBCUniversal Entertainment Japan",
     "Avex Pictures",
-    "JR East Marketing & Communications",
-    "Saber Links",
-    "qooop"
+    "Kodansha",
+    "JR Higashi Nihon Kikaku",
+    "Zero-G",
+    "Mainichi Broadcasting System",
+    "qooop",
+    "Saber Links"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1615/158194l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199111-Z8y9awn2Zb6v.jpg",
     "color": "#5daed6"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "KJw6ZZaMOWA",
+    "url": "https://www.youtube.com/watch?v=KJw6ZZaMOWA",
+    "thumbnail": "https://i.ytimg.com/vi/KJw6ZZaMOWA/hqdefault.jpg"
+  },
   "synopsis": "Third season of Grand Blue.",
   "sequence": [
     {
@@ -90,110 +95,215 @@
       "episodes": 12,
       "seasonYear": 2025,
       "relationType": "PREQUEL"
+    },
+    {
+      "malId": 65037,
+      "title": {
+        "romaji": "Grand Blue Season 4",
+        "english": null,
+        "native": "ぐらんぶる Season 4"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217136-lBViwfZpOCLv.png",
+      "format": "TV",
+      "episodes": null,
+      "seasonYear": null,
+      "relationType": "SEQUEL"
     }
   ],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "24m",
+      "length": 24,
       "airDate": "2026-07-07",
       "title": {
-        "en": "Episode 1"
+        "en": "Unfinished Business",
+        "ja": "やり残し"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 343913,
+      "tvdbId": 11354085,
+      "seasonNumber": 3,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 25,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11354085/screencap/6a3635a776f7b.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-14",
       "title": {
         "en": "Homecoming"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 343913,
+      "tvdbId": 11874767,
+      "seasonNumber": 3,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 26,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874767/screencap/6a4e1b04505ba.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-21",
       "title": {
-        "en": "Episode 3"
+        "en": "Saving Private Passport"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 343913,
+      "tvdbId": 11874768,
+      "seasonNumber": 3,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 27,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874768/screencap/6a575fa499612.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-28",
       "title": {
-        "en": "Episode 4"
+        "en": "The Oceans of Palau"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 343913,
+      "tvdbId": 11874769,
+      "seasonNumber": 3,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 28,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874769/screencap/6a60a6b1ed824.jpg"
     },
-    "C1": {
-      "episode": "C1",
-      "length": "2m",
-      "airDate": "2026-07-07",
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-04",
       "title": {
-        "en": "Opening"
+        "en": "TV Special"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 343913,
+      "tvdbId": 11874770,
+      "seasonNumber": 3,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 29,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874770/screencap/6a6a03a955805.jpg"
     },
-    "C2": {
-      "episode": "C2",
-      "length": "2m",
-      "airDate": "2026-07-07",
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-11",
       "title": {
-        "en": "Ending"
+        "en": "Assist"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 343913,
+      "tvdbId": 11874771,
+      "seasonNumber": 3,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 30,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874771/screencap/6a72ff86c5e54.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-18",
+      "title": {
+        "en": "Mother"
+      },
+      "tvdbShowId": 343913,
+      "tvdbId": 11874772,
+      "seasonNumber": 3,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 31,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874772/screencap/6a7c42e86ddc5.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-25",
+      "title": {
+        "en": "Mixer, Round 2"
+      },
+      "tvdbShowId": 343913,
+      "tvdbId": 11874773,
+      "seasonNumber": 3,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 32,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874773/screencap/6a8578b630b6c.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-09-01",
+      "title": {
+        "en": "Ordeals"
+      },
+      "tvdbShowId": 343913,
+      "tvdbId": 11874774,
+      "seasonNumber": 3,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 33,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874774/screencap/6a8eb071eea46.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-08",
+      "title": {
+        "en": "Lottery"
+      },
+      "tvdbShowId": 343913,
+      "tvdbId": 11874775,
+      "seasonNumber": 3,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 34,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874775/screencap/6a97eb4778fb5.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-15",
+      "title": {
+        "en": "Back in Okinawa (A-Side)"
+      },
+      "tvdbShowId": 343913,
+      "tvdbId": 11874776,
+      "seasonNumber": 3,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 35,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874776/screencap/6aa125d7833a5.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-22",
+      "title": {
+        "en": "Back in Okinawa (B-Side)"
+      },
+      "tvdbShowId": 343913,
+      "tvdbId": 11874777,
+      "seasonNumber": 3,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 36,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874777/screencap/6aaa5e89babe6.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:28:52.357Z",
+    "lastFetched": "2026-11-23T22:44:21.272Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

@@ -29,13 +29,13 @@
   },
   "type": "TV",
   "source": "Web manga",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 13,
   "episodeLength": 24,
   "aired": {
     "from": "2026-07-08T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-30T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -44,39 +44,41 @@
     "time": "21:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 9,
-    "airingAt": 1788350400
-  },
+  "nextAiringEpisode": null,
   "rating": "R - 17+ (violence & profanity)",
   "score": {
-    "malScore": 7.68,
-    "anilistScore": 7.5,
-    "kitsuRating": 7.72
+    "malScore": 7.81,
+    "anilistScore": 7.8,
+    "kitsuRating": null
   },
   "genres": [
     "Action",
     "Fantasy",
+    "School",
     "Drama"
   ],
   "studios": [
     "Lay-duce"
   ],
   "producers": [
-    "AT-X",
+    "KADOKAWA",
     "Sammy",
     "Crunchyroll",
-    "BS NTV",
-    "Kadokawa",
-    "INSPION Edge",
-    "LINE Digital Frontier"
+    "BS Nittele",
+    "Lay-duce",
+    "LINE Digital Frontier",
+    "AT-X"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1741/157105l.jpg",
-    "banner": null,
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198946-mtAaOmyKraEE.jpg",
     "color": "#f1bb5d"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "0N1-8XY_3Rs",
+    "url": "https://www.youtube.com/watch?v=0N1-8XY_3Rs",
+    "thumbnail": "https://i.ytimg.com/vi/0N1-8XY_3Rs/hqdefault.jpg"
+  },
   "synopsis": "Second season of Clevatess.",
   "sequence": [
     {
@@ -96,165 +98,218 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-08",
       "title": {
-        "en": "Solsein, the Divine Academy"
+        "en": "Solsein, the Divine Academy",
+        "ja": "神学校ソルセイン"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 451793,
+      "tvdbId": 11342848,
+      "seasonNumber": 2,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 13,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11342848/screencap/6a4daef3efe37.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-15",
       "title": {
         "en": "Another World"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 451793,
+      "tvdbId": 11876329,
+      "seasonNumber": 2,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 14,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876329/screencap/6a578c2651815.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-22",
       "title": {
-        "en": "Episode 3"
+        "en": "The Hero Legend and the Village of Origin",
+        "ja": "勇者伝承とはじまりの町"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 451793,
+      "tvdbId": 11876330,
+      "seasonNumber": 2,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 15,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876330/screencap/6a8346a083135.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-07-29",
       "title": {
-        "en": "Episode 4"
+        "en": "The Dark Tower",
+        "ja": "黒い塔"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 451793,
+      "tvdbId": 11876331,
+      "seasonNumber": 2,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 16,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876331/screencap/6a69672474b06.jpg"
     },
     "5": {
       "episode": "5",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-05",
       "title": {
-        "en": "Episode 5"
+        "en": "Battle with Oneself"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 451793,
+      "tvdbId": 11876332,
+      "seasonNumber": 2,
       "episodeNumber": 5,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 17,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876332/screencap/6a7c694304757.jpg"
     },
     "6": {
       "episode": "6",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-12",
       "title": {
-        "en": "Episode 6"
+        "en": "Whispering Voice",
+        "ja": "囁く声"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 451793,
+      "tvdbId": 11876333,
+      "seasonNumber": 2,
       "episodeNumber": 6,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 18,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876333/screencap/6a834929ab37d.jpg"
     },
     "7": {
       "episode": "7",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-19",
       "title": {
-        "en": "Episode 7"
+        "en": "The World We See, and the Hidden World",
+        "ja": "表の世界と裏の世界"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 451793,
+      "tvdbId": 11876334,
+      "seasonNumber": 2,
       "episodeNumber": 7,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 19,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876334/screencap/6a83496bbfab8.jpg"
     },
     "8": {
       "episode": "8",
-      "length": "25m",
+      "length": 25,
       "airDate": "2026-08-26",
       "title": {
-        "en": "Episode 8"
+        "en": "Memories of a Friend"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 451793,
+      "tvdbId": 11876335,
+      "seasonNumber": 2,
       "episodeNumber": 8,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 20,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876335/screencap/6a8ecba973f47.jpg"
     },
-    "C1": {
-      "episode": "C1",
-      "length": "2m",
-      "airDate": "2026-07-15",
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-09-02",
       "title": {
-        "en": "Opening"
+        "en": "The Mirror Labyrinth"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 451793,
+      "tvdbId": 11876336,
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 21,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876336/screencap/6a9780ffaadbe.jpg"
     },
-    "C2": {
-      "episode": "C2",
-      "length": "2m",
-      "airDate": "2026-07-15",
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-09",
       "title": {
-        "en": "Ending"
+        "en": "Second Trial"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": null,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "tvdbShowId": 451793,
+      "tvdbId": 11876337,
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 22,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876337/screencap/6aa0a8cf50df7.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-16",
+      "title": {
+        "en": "What`s Reflected in the Mirror"
+      },
+      "tvdbShowId": 451793,
+      "tvdbId": 11876338,
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 23,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876338/screencap/6aa9e3084ed93.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-23",
+      "title": {
+        "en": "The Millennium of a Lord of Dark Beasts"
+      },
+      "tvdbShowId": 451793,
+      "tvdbId": 11876339,
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 24,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876339/screencap/6ab324ad25f7a.jpg"
+    },
+    "13": {
+      "episode": "13",
+      "length": 25,
+      "airDate": "2026-09-30",
+      "title": {
+        "en": "True Hero",
+        "romaji": "Shin no Yuusha",
+        "ja": "真の勇者"
+      },
+      "tvdbShowId": 451793,
+      "tvdbId": 11876340,
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "absoluteEpisodeNumber": 25,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876340/screencap/6abc90b89fa15.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:28:23.155Z",
+    "lastFetched": "2026-11-23T22:44:08.265Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

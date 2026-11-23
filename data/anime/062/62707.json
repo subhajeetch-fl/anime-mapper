@@ -4,9 +4,9 @@
   "mappings": {
     "mal": 62707,
     "anilist": 212969,
-    "anidb": null,
+    "anidb": 20197,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 3189994,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
@@ -25,31 +25,29 @@
   },
   "type": "ONA",
   "source": "Original",
-  "status": "Not yet aired",
-  "airing": false,
-  "episodeCount": null,
-  "episodeLength": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "episodeCount": 26,
+  "episodeLength": 22,
   "aired": {
     "from": "2026-07-16T00:00:00+00:00",
     "to": null
   },
-  "season": null,
-  "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "season": "summer",
+  "year": 2026,
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
+    "malScore": 6.44,
     "anilistScore": null,
     "kitsuRating": null
   },
   "genres": [
     "Action",
-    "Fantasy"
+    "Fantasy",
+    "Super Power",
+    "Urban Fantasy"
   ],
   "studios": [
     "Qingxiang Culture",
@@ -63,20 +61,25 @@
     "banner": null,
     "color": "#1a86e4"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "ckYU2aAtLFk",
+    "url": "https://www.youtube.com/watch?v=ckYU2aAtLFk",
+    "thumbnail": "https://i.ytimg.com/vi/ckYU2aAtLFk/hqdefault.jpg"
+  },
   "synopsis": "Orphan Qin Yu was specially admitted to the top cultivation academy, Dongda Martial Academy. Behind the city's calm, a demonic threat quietly approached. Qin Yu vowed to lead his fellow disciples to resist the invading demons.\n\n(Source: Youku)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-09T22:07:46.770Z",
+    "lastFetched": "2026-11-23T22:45:25.244Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

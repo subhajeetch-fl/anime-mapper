@@ -3,45 +3,41 @@
   "idMal": 62507,
   "mappings": {
     "mal": 62507,
-    "anilist": null,
-    "anidb": null,
+    "anilist": 198663,
+    "anidb": 19582,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 2884096,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 62507,
-    "livechart": null,
-    "animeplanet": null,
-    "anisearch": null,
+    "livechart": 13322,
+    "animeplanet": "kaiju-decode-the-ring-of-aidara",
+    "anisearch": 21740,
     "notify": null
   },
   "title": {
-    "romaji": "Kaijuu Decode: Aidara no Yubiwa",
+    "romaji": "KAIJU DECODE: Aidara no Yubiwa",
     "english": null,
     "native": "怪獣デコード アイダラの指輪",
     "synonyms": [
       "Kaiju Decode: The Ring of Aidara"
     ]
   },
-  "type": null,
+  "type": "unknown",
   "source": "Original",
   "status": "Not yet aired",
   "airing": false,
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": null,
+    "from": "2027-01-01T00:00:00+00:00",
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -49,32 +45,55 @@
     "anilistScore": null,
     "kitsuRating": null
   },
-  "genres": [],
+  "genres": [
+    "Mecha",
+    "Action",
+    "Sci-Fi"
+  ],
   "studios": [
+    "Tsuburaya Productions",
+    "Toei Animation"
+  ],
+  "producers": [
     "Tsuburaya Productions"
   ],
-  "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1907/152748l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1192/160595l.jpg",
     "banner": null,
-    "color": null
+    "color": "#d6861a"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "sZfvi_ITvFs",
+    "url": "https://www.youtube.com/watch?v=sZfvi_ITvFs",
+    "thumbnail": "https://i.ytimg.com/vi/sZfvi_ITvFs/hqdefault.jpg"
+  },
   "synopsis": "Set in Sakai, a youth named Maru lives in the peaceful city, a society freed from the restrictions of the body, mind, space, and time. In contrast, a girl named Coco, a member of the Aidara Tribe, resides in the Zone, a treacherous area also inhabited by incredible beasts. The story revolves around two opposing characters seeking a path into a shared future.\n\n(Source: Sakai Film Office, edited)",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 40717,
+      "title": {
+        "romaji": "KAIJU DECODE",
+        "english": null,
+        "native": "KAIJU DECODE"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113363-LjhLGYgUaoqL.jpg",
+      "format": "ONA",
+      "episodes": 1,
+      "seasonYear": 2021,
+      "relationType": "OTHER"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:56:45.072Z",
+    "lastFetched": "2026-11-23T22:44:06.031Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

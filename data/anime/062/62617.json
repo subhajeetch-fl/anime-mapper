@@ -29,13 +29,13 @@
   },
   "type": "TV",
   "source": "Light novel",
-  "status": "Currently Airing",
-  "airing": true,
+  "status": "Finished Airing",
+  "airing": false,
   "episodeCount": 12,
-  "episodeLength": null,
+  "episodeLength": 24,
   "aired": {
     "from": "2026-07-06T00:00:00+00:00",
-    "to": null
+    "to": "2026-09-21T00:00:00+00:00"
   },
   "season": "summer",
   "year": 2026,
@@ -44,14 +44,11 @@
     "time": "22:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": {
-    "episode": 10,
-    "airingAt": 1788528600
-  },
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": 6.85,
-    "anilistScore": 6.3,
+    "malScore": 6.18,
+    "anilistScore": 6.2,
     "kitsuRating": null
   },
   "genres": [
@@ -63,90 +60,239 @@
     "Gekkou"
   ],
   "producers": [
-    "Ai Addiction",
-    "Kadokawa",
-    "GREE Entertainment"
+    "KADOKAWA",
+    "GREE Entertainment",
+    "SB Creative"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1371/154308l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1302/160289l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199748-H2JAicBqBq3b.jpg",
     "color": "#5dd6f1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "_9FRdFYJOdg",
+    "url": "https://www.youtube.com/watch?v=_9FRdFYJOdg",
+    "thumbnail": "https://i.ytimg.com/vi/_9FRdFYJOdg/hqdefault.jpg"
+  },
   "synopsis": "The sorcerer Luck believes this to be the end. Besieged by powerful demons, he makes the noble sacrifice of holding back their onslaught while his friends escape. Never sleeping or resting, Luck endures the clash of swords, rain of blood, and never-ending stream of enemies. Against all odds, he vanquishes the commander and emerges victorious, only to find that 10 whole years have passed in the meantime. Furthermore, his body has regressed in age to the point where he looks like a mere teenager.\n\nFollowing his triumph, Luck soon reunites with his friends, the hero Eric Imgard Mendirival and warrior Goran Morton. As they believed Luck to be dead, the pair made sure he went down in history as a hero and prepared to quell the rise of the demons themselves, unaware of Luck's feat. With all this in mind, Luck just wants a laid-back life, so he applies as a novice adventurer under the name Lock and sets out on a journey alongside brand new companions.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "25m",
-      "airDate": "2026-07-03",
+      "length": 25,
+      "airDate": "2026-07-06",
       "title": {
-        "en": "When I Returned Home, I`d Become a Hero"
+        "en": "When I Returned Home, I`d Become a Hero",
+        "romaji": "Modottara Eiyuu ni Natteita",
+        "ja": "帰ったら英雄になっていた"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 468809,
+      "tvdbId": 11373212,
+      "seasonNumber": 1,
       "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 1,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11373212/screencap/6a47325e15a30.jpg"
     },
     "2": {
       "episode": "2",
-      "length": "25m",
-      "airDate": "2026-07-10",
+      "length": 25,
+      "airDate": "2026-07-13",
       "title": {
-        "en": "There Was a Formidable Foe Deep Inside the Den"
+        "en": "There Was a Formidable Foe Deep Inside the Den",
+        "romaji": "Suana no Oku ni Tondemonai Teki ga Ita",
+        "ja": "巣穴の奥にとんでもない敵がいた"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 468809,
+      "tvdbId": 11871124,
+      "seasonNumber": 1,
       "episodeNumber": 2,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 2,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871124/screencap/6a5034a36b7dd.jpg"
     },
     "3": {
       "episode": "3",
-      "length": "25m",
-      "airDate": "2026-07-17",
+      "length": 25,
+      "airDate": "2026-07-20",
       "title": {
-        "en": "Episode 3"
+        "en": "She Suspects I`m Her Bastard Brother, and Now We`re Going on Her First Adventure",
+        "romaji": "Kakushigo Giwaku o Mukerareta Ue, Hatsu Bouken ni Tsukiau Koto ni Natta",
+        "ja": "隠し子疑惑を向けられた上, 初冒険に付き合うことになった"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 468809,
+      "tvdbId": 11871125,
+      "seasonNumber": 1,
       "episodeNumber": 3,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 3,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871125/screencap/6a5a06959fb87.jpg"
     },
     "4": {
       "episode": "4",
-      "length": "25m",
-      "airDate": "2026-07-24",
+      "length": 25,
+      "airDate": "2026-07-27",
       "title": {
-        "en": "Episode 4"
+        "en": "After Ten Years, I`m Even in a Picture Book",
+        "romaji": "Juunen Tattara Ehon ni made Natteita",
+        "ja": "10年たったら絵本にまでなっていた"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
+      "tvdbShowId": 468809,
+      "tvdbId": 11871126,
+      "seasonNumber": 1,
       "episodeNumber": 4,
-      "absoluteEpisodeNumber": null,
-      "runtime": null,
-      "image": null
+      "absoluteEpisodeNumber": 4,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871126/screencap/6a6355d0014fd.jpg"
+    },
+    "5": {
+      "episode": "5",
+      "length": 25,
+      "airDate": "2026-08-03",
+      "title": {
+        "en": "After Ten Years, I Was Told to Get Lost",
+        "romaji": "Juunen tatte Saki ni Ike to Iwareta",
+        "ja": "10年たって先に行けと言われた"
+      },
+      "tvdbShowId": 468809,
+      "tvdbId": 11871127,
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "absoluteEpisodeNumber": 5,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871127/screencap/6a6c8cf6b6c9c.jpg"
+    },
+    "6": {
+      "episode": "6",
+      "length": 25,
+      "airDate": "2026-08-10",
+      "title": {
+        "en": "After Ten Years, I Started a Family",
+        "romaji": "Juunen Tattara Kazoku ga Dekita",
+        "ja": "10年たったら家族ができた"
+      },
+      "tvdbShowId": 468809,
+      "tvdbId": 11871128,
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "absoluteEpisodeNumber": 6,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871128/screencap/6a75ccf929d59.jpg"
+    },
+    "7": {
+      "episode": "7",
+      "length": 25,
+      "airDate": "2026-08-17",
+      "title": {
+        "en": "The Trespasser and the Secret Passageway",
+        "romaji": "Shinnyuusha to Himitsu no Tsuuro",
+        "ja": "侵入者と秘密の通路"
+      },
+      "tvdbShowId": 468809,
+      "tvdbId": 11871129,
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "absoluteEpisodeNumber": 7,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871129/screencap/6a7f06f1b9c9c.jpg"
+    },
+    "8": {
+      "episode": "8",
+      "length": 25,
+      "airDate": "2026-08-24",
+      "title": {
+        "en": "The Party Is Complete for the First Time in 10 Years",
+        "romaji": "Juunenburi ni Party ga Sorotta",
+        "ja": "10年ぶりにパーティが揃った"
+      },
+      "tvdbShowId": 468809,
+      "tvdbId": 11871130,
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "absoluteEpisodeNumber": 8,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871130/screencap/6a87906877e6a.jpg"
+    },
+    "9": {
+      "episode": "9",
+      "length": 25,
+      "airDate": "2026-08-31",
+      "title": {
+        "en": "Mythical Beasts That Lurk in the Darkness",
+        "romaji": "Yami ni Hisomu Majuu-tachi",
+        "ja": "闇に潜む魔獣たち"
+      },
+      "tvdbShowId": 468809,
+      "tvdbId": 11871131,
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 9,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871131/screencap/6a916ee39b5d7.jpg"
+    },
+    "10": {
+      "episode": "10",
+      "length": 25,
+      "airDate": "2026-09-07",
+      "title": {
+        "en": "Storming the Enemy Position",
+        "romaji": "Tekijin Totsunyuu",
+        "ja": "敵陣突入"
+      },
+      "tvdbShowId": 468809,
+      "tvdbId": 11871132,
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "absoluteEpisodeNumber": 10,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871132/screencap/6a9a180f18188.jpg"
+    },
+    "11": {
+      "episode": "11",
+      "length": 25,
+      "airDate": "2026-09-14",
+      "title": {
+        "en": "I Fought for Ten Years, so I Can Easily Defeat Demons",
+        "romaji": "Juunen Tatakatta kara Majin wa Yoyuu de Taoseru",
+        "ja": "10年戦ったから魔神は余裕で倒せる"
+      },
+      "tvdbShowId": 468809,
+      "tvdbId": 11871133,
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "absoluteEpisodeNumber": 11,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871133/screencap/6aa34e32d802a.jpg"
+    },
+    "12": {
+      "episode": "12",
+      "length": 25,
+      "airDate": "2026-09-21",
+      "title": {
+        "en": "Leave the Next Ten Years and Beyond to Me Too",
+        "romaji": "Kore kara no Juunen mo Sono Saki mo Ore ni Makasero",
+        "ja": "これからの10年もその先も俺に任せろ"
+      },
+      "tvdbShowId": 468809,
+      "tvdbId": 11871134,
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "absoluteEpisodeNumber": 12,
+      "runtime": 24,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871134/screencap/6aad3a3397600.jpg"
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:31:25.682Z",
+    "lastFetched": "2026-11-23T22:45:00.953Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

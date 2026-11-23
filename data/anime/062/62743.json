@@ -3,7 +3,7 @@
   "idMal": 62743,
   "mappings": {
     "mal": 62743,
-    "anilist": null,
+    "anilist": 217629,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -22,7 +22,8 @@
     "english": "The Azure Mountain",
     "native": "青山",
     "synonyms": [
-      "Qing Shan"
+      "Qing Shan",
+      "The Azure Mountain"
     ]
   },
   "type": "ONA",
@@ -37,11 +38,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -51,35 +48,35 @@
   },
   "genres": [
     "Action",
-    "Fantasy"
+    "Fantasy",
+    "Isekai",
+    "Reincarnation"
   ],
   "studios": [
     "Cloud Art"
   ],
   "producers": [
-    "Tencent Video"
+    "Tencent Penguin Pictures"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1382/158628l.jpg",
-    "banner": null,
-    "color": null
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/217629-4wuqE6qUS8ES.jpg",
+    "color": "#d61a1a"
   },
   "trailer": null,
   "synopsis": "After being confined to Qingshan Mental Hospital, the gifted young man Chen Ji kills the enemy who killed his parents. He then accidentally travels back in time to the ancient world and becomes an apprentice at the Ning Dynasty Medical Clinic. Involved in a case involving the Secret Service, he becomes a non-staff member of the agency, only to discover he's also a spy for the enemy nation. The story revolves around this dual identity. Trapped in the maelstrom of power, Chen Ji secretly fights for survival, using modern knowledge to deconstruct spiritual cultivation systems and maneuvering to overturn the chessboard. Ultimately, he transforms from pawn to master, wielding the Qingshan Mountains as his blade, vowing to shatter the hypocrisy of heaven!\n\n(Source: Tencent, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:02:24.271Z",
+    "lastFetched": "2026-11-23T22:46:07.414Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

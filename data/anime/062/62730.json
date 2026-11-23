@@ -19,7 +19,7 @@
   },
   "title": {
     "romaji": "Douluo Dalu: 9528",
-    "english": null,
+    "english": "Soul Land: 9528",
     "native": "斗罗大陆：9528",
     "synonyms": [
       "Soul Land: 9528"
@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -53,15 +49,16 @@
     "Action",
     "Adventure",
     "Fantasy",
-    "Supernatural",
     "Historical",
-    "Martial Arts"
+    "Martial Arts",
+    "Supernatural"
   ],
   "studios": [
+    "D.ROCK-ART ",
     "D.ROCK-ART"
   ],
   "producers": [
-    "Tencent Video"
+    "Tencent Penguin Pictures"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1712/152584l.jpg",
@@ -81,21 +78,23 @@
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165680-lnOa4xTfVQVC.jpg",
       "format": "ONA",
       "episodes": 3,
-      "seasonYear": null,
+      "seasonYear": 2023,
       "relationType": "PARENT"
     }
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:02:05.786Z",
+    "lastFetched": "2026-11-23T22:45:43.182Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "episodes (no data from Zenshin or Kitsu)"
+    ],
     "dataVersion": 1
   }
 }

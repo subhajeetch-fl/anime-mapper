@@ -38,11 +38,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -59,25 +55,27 @@
   "studios": [
     "ABC Animation Studio"
   ],
-  "producers": [
-    "ABC Animation"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1379/152196l.jpg",
     "banner": null,
     "color": "#6b281a"
   },
-  "trailer": null,
-  "synopsis": null,
+  "trailer": {
+    "youtubeId": "GFLoRTwPtic",
+    "url": "https://www.youtube.com/watch?v=GFLoRTwPtic",
+    "thumbnail": "https://i.ytimg.com/vi/GFLoRTwPtic/hqdefault.jpg"
+  },
+  "synopsis": "Announced at the Kojima Productions 10th anniversary event: an anime film set in the “Death Stranding” video game series.\n\n\n\nNote: Title and Relations are provisional and will be updated when more info is announced.",
   "sequence": [
     {
       "malId": 62931,
       "title": {
-        "romaji": "DEATH STRANDING ISOLATIONS (Working Title)",
-        "english": null,
-        "native": "DEATH STRANDING ISOLATIONS (Working Title)"
+        "romaji": "DEATH STRANDING ISOLATIONS",
+        "english": "DEATH STRANDING ISOLATIONS",
+        "native": "DEATH STRANDING ISOLATIONS"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202253-yXhyhChbYDBG.jpg",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202253-B89cyDsQNeTf.jpg",
       "format": "ONA",
       "episodes": null,
       "seasonYear": null,
@@ -86,12 +84,12 @@
   ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T07:57:37.399Z",
+    "lastFetched": "2026-11-23T22:44:28.228Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
     "missingSources": [],

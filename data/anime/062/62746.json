@@ -3,7 +3,7 @@
   "idMal": 62746,
   "mappings": {
     "mal": 62746,
-    "anilist": null,
+    "anilist": 217630,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -37,11 +37,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -52,35 +48,35 @@
   "genres": [
     "Action",
     "Fantasy",
-    "Suspense"
+    "Suspense",
+    "Urban Fantasy",
+    "Thriller"
   ],
   "studios": [
     "Kung Fu Frog Animation"
   ],
   "producers": [
-    "Tencent Video"
+    "Tencent Penguin Pictures"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1233/158629l.jpg",
-    "banner": null,
-    "color": null
+    "poster": "https://cdn.myanimelist.net/images/anime/1233/158629l.webp",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/217630-qGO5nwWiPwpL.jpg",
+    "color": "#e44343"
   },
   "trailer": null,
   "synopsis": "\"My name is Yang Jian, and by the time you read this, I'll be dead.\" Ordinary student Yang Jian is caught up in a bizarre invasion, acquiring parchment from the future and a mysterious eye, becoming a ghost wielder. Yang Jian and his classmates escape the campus, but the crisis is just beginning. In this sinister world, the human world is a prison. The price of peering into darkness is eternal loss amidst endless wonder.\n\n(Source: Tencent, translated)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:02:42.184Z",
+    "lastFetched": "2026-11-23T22:46:11.391Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

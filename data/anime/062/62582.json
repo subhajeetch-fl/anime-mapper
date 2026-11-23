@@ -7,7 +7,7 @@
     "anidb": 19617,
     "kitsu": 50192,
     "simkl": 2890694,
-    "tmdb": null,
+    "tmdb": 1553200,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
@@ -29,34 +29,28 @@
   },
   "type": "Movie",
   "source": "Light novel",
-  "status": "Not yet aired",
+  "status": "Finished Airing",
   "airing": false,
   "episodeCount": 1,
-  "episodeLength": null,
+  "episodeLength": 118,
   "aired": {
     "from": "2026-10-16T00:00:00+00:00",
-    "to": "2026-12-31"
+    "to": "2026-10-16T00:00:00+00:00"
   },
   "season": "fall",
   "year": 2026,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
-  "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1792076400
-  },
+  "broadcast": null,
+  "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
-    "malScore": null,
-    "anilistScore": null,
+    "malScore": 8.3,
+    "anilistScore": 8.4,
     "kitsuRating": null
   },
   "genres": [
     "Drama",
     "Romance",
+    "School",
     "Supernatural",
     "Psychological"
   ],
@@ -67,11 +61,15 @@
     "Aniplex"
   ],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1073/158510l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1286/159781l.webp",
     "banner": null,
     "color": "#5da1f1"
   },
-  "trailer": null,
+  "trailer": {
+    "youtubeId": "ydmOU6gOi3k",
+    "url": "https://www.youtube.com/watch?v=ydmOU6gOi3k",
+    "thumbnail": "https://i.ytimg.com/vi/ydmOU6gOi3k/hqdefault.jpg"
+  },
   "synopsis": "Sequel to Seishun Buta Yarou wa Santa Claus no Yume wo Minai.",
   "sequence": [
     {
@@ -91,30 +89,31 @@
   "episodes": {
     "1": {
       "episode": "1",
-      "length": "0m",
+      "length": 0,
       "airDate": "2026-10-16",
       "title": {
         "en": "Complete Movie"
       },
-      "tvdbShowId": null,
-      "tvdbId": null,
-      "seasonNumber": null,
-      "episodeNumber": 1,
-      "absoluteEpisodeNumber": null,
+      "tvdbShowId": 345596,
+      "tvdbId": 11363692,
+      "seasonNumber": 0,
+      "episodeNumber": 9,
+      "absoluteEpisodeNumber": 30,
       "runtime": null,
       "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-09-01T00:30:09.102Z",
+    "lastFetched": "2026-11-23T22:44:43.396Z",
     "sourcesUsed": [
-      "jikan",
-      "kitsu",
+      "mal",
       "anilist",
-      "animeapi.my.id",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }
