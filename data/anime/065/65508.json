@@ -3,7 +3,7 @@
   "idMal": 65508,
   "mappings": {
     "mal": 65508,
-    "anilist": null,
+    "anilist": 220127,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -11,7 +11,7 @@
     "tvdb": null,
     "trakt": null,
     "traktType": null,
-    "shikimori": null,
+    "shikimori": 65508,
     "livechart": null,
     "animeplanet": null,
     "anisearch": null,
@@ -20,8 +20,10 @@
   "title": {
     "romaji": "Tamon-kun Ima Docchi!? 2nd Season",
     "english": "Tamon's B-Side Season 2",
-    "native": "多聞くん今どっち!? 第2期",
-    "synonyms": []
+    "native": "多聞くん今どっち！？  第2期",
+    "synonyms": [
+      "Tamon's B-Side Season 2"
+    ]
   },
   "type": "TV",
   "source": "Manga",
@@ -47,30 +49,44 @@
     "Comedy",
     "Idols (Male)",
     "Romance",
-    "Shoujo"
+    "Shoujo",
+    "Music"
   ],
   "studios": [],
   "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1147/161288l.jpg",
     "banner": null,
-    "color": null
+    "color": "#f143bb"
   },
   "trailer": null,
   "synopsis": "Second season of Tamon-kun Ima Docchi!?.",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 59047,
+      "title": {
+        "romaji": "Tamon-kun Ima Docchi!?",
+        "english": "Tamon's B-Side",
+        "native": "多聞くん今どっち！？"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178005-pCEReATswrup.jpg",
+      "format": "ONA",
+      "episodes": 13,
+      "seasonYear": 2026,
+      "relationType": "PREQUEL"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-11-22T12:12:52.639Z",
+    "lastFetched": "2026-11-23T01:24:32.440Z",
     "sourcesUsed": [
       "mal",
       "kitsu",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [
-      "animeApi database (no record)",
-      "anilist (not in ID mappings)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

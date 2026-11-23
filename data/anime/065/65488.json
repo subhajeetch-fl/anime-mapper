@@ -3,7 +3,7 @@
   "idMal": 65488,
   "mappings": {
     "mal": 65488,
-    "anilist": null,
+    "anilist": 220078,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -11,21 +11,22 @@
     "tvdb": null,
     "trakt": null,
     "traktType": null,
-    "shikimori": null,
+    "shikimori": 65488,
     "livechart": null,
     "animeplanet": null,
     "anisearch": null,
     "notify": null
   },
   "title": {
-    "romaji": "Mamahaha dakedo Musume ga Kawaisugiru",
+    "romaji": "Mamahaha Dakedo Musume ga Kawaisugiru",
     "english": null,
     "native": "継母だけど娘が可愛すぎる",
     "synonyms": [
       "Not-Sew-Wicked Stepmom",
       "I'm the Stepmother, but My Daughter Is Too Cute",
       "I'm Only a Stepmother, but My Daughter Is Just so Cute!",
-      "Gyemo-inde Ttar-i Neomu Gwiyeowo"
+      "Gyemo-inde Ttar-i Neomu Gwiyeowo",
+      "계모인데, 딸이 너무 귀여워"
     ]
   },
   "type": "TV",
@@ -56,25 +57,24 @@
   "studios": [],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1162/161246l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1162/161246l.webp",
     "banner": null,
-    "color": null
+    "color": "#28d6e4"
   },
   "trailer": null,
   "synopsis": "Although Lee Lily's childhood dream to become a princess seems unattainable because of her average appearance, she finds her passion in designing children's clothes. Ultimately, her job results in her demise, as she works herself to death at the age of 30.\n\nLily is reincarnated in what appears to be the tale of Snow White as the story's villainess—the cruel and vain queen Abigail Freidkin. Now in Abigail's body, Lily wishes to befriend her stepdaughter Blanche, a sweet girl and her latest muse. However, it is a challenging feat, as Blanche fears her stepmother.\n\nFurthermore, Sabrian—the current king and Abigail's spouse—may be an outstanding regent, but as a father and husband, he is uncaring and neglectful. Although she is not fond of Sabrian, Abigail will go to any length to fix the broken relationship between the Freidkins and give her stepdaughter the happiest of endings.\n\n[Written by MAL Rewrite]",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-11-22T12:12:50.232Z",
+    "lastFetched": "2026-11-23T01:24:25.870Z",
     "sourcesUsed": [
       "mal",
       "kitsu",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [
-      "animeApi database (no record)",
-      "anilist (not in ID mappings)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

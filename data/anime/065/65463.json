@@ -3,7 +3,7 @@
   "idMal": 65463,
   "mappings": {
     "mal": 65463,
-    "anilist": null,
+    "anilist": 219960,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -11,7 +11,7 @@
     "tvdb": null,
     "trakt": null,
     "traktType": null,
-    "shikimori": null,
+    "shikimori": 65463,
     "livechart": null,
     "animeplanet": null,
     "anisearch": null,
@@ -21,7 +21,9 @@
     "romaji": "Diamond no Kouzai",
     "english": "The Days of Diamond",
     "native": "ダイヤモンドの功罪",
-    "synonyms": []
+    "synonyms": [
+      "The Days of Diamond"
+    ]
   },
   "type": "TV",
   "source": "Manga",
@@ -46,7 +48,9 @@
   "genres": [
     "Seinen",
     "Sports",
-    "Team Sports"
+    "Team Sports",
+    "Drama",
+    "Psychological"
   ],
   "studios": [
     "Lapin Track"
@@ -55,23 +59,22 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1544/161199l.jpg",
     "banner": null,
-    "color": null
+    "color": "#2878e4"
   },
   "trailer": null,
   "synopsis": "\"I was meant to play baseball!\" Jirou Ayasegawa has a natural gift for sports, but life can be lonely at the top. He's crushed other players' dreams. Some have even given up their sport altogether because of him. Eventually, he encounters \"The Bambies,\" a low-level, local kids' baseball team that plays purely for fun. Jirou signs up, thinking that he's finally found an easy-going team to enjoy baseball with, until things take a sudden turn...\n\n(Source: MANGA Plus)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-11-22T12:12:48.153Z",
+    "lastFetched": "2026-11-23T01:24:23.702Z",
     "sourcesUsed": [
       "mal",
       "kitsu",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [
-      "animeApi database (no record)",
-      "anilist (not in ID mappings)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }
