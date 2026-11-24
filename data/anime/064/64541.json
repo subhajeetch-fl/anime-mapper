@@ -5,7 +5,7 @@
     "mal": 64541,
     "anilist": 213814,
     "anidb": null,
-    "kitsu": null,
+    "kitsu": 51196,
     "simkl": null,
     "tmdb": null,
     "tvdb": null,
@@ -50,7 +50,8 @@
   },
   "genres": [
     "Idols (Female)",
-    "Music"
+    "Music",
+    "Idol"
   ],
   "studios": [
     "Bandai Namco Pictures"
@@ -82,17 +83,36 @@
       "relationType": "PREQUEL"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-11-22T11:54:38.307Z",
+    "lastFetched": "2026-11-24T10:05:49.288Z",
     "sourcesUsed": [
       "mal",
-      "kitsu",
       "anilist",
       "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

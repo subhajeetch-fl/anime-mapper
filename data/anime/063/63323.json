@@ -41,7 +41,7 @@
   "year": 2026,
   "broadcast": null,
   "nextAiringEpisode": null,
-  "rating": null,
+  "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
     "anilistScore": null,
@@ -52,8 +52,7 @@
     "Mecha",
     "Military",
     "Sci-Fi",
-    "Space",
-    "Science Fiction"
+    "Space"
   ],
   "studios": [
     "Sunrise",
@@ -64,7 +63,7 @@
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1974/160684l.jpg",
-    "banner": "https://media.kitsu.app/anime/50478/cover_image/7b2c61984d829863ef1ca49678791e23.jpeg",
+    "banner": null,
     "color": null
   },
   "trailer": {
@@ -134,15 +133,16 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-11-21T14:18:40.976Z",
+    "lastFetched": "2026-11-24T10:00:24.160Z",
     "sourcesUsed": [
       "mal",
-      "kitsu",
       "anilist",
       "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu (skipped - not needed)"
+    ],
     "dataVersion": 1
   }
 }

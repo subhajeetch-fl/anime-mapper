@@ -6,15 +6,15 @@
     "anilist": 212944,
     "anidb": 20082,
     "kitsu": null,
-    "simkl": null,
+    "simkl": 3141916,
     "tmdb": null,
     "tvdb": null,
     "trakt": null,
     "traktType": null,
     "shikimori": 64348,
     "livechart": 13657,
-    "animeplanet": null,
-    "anisearch": null,
+    "animeplanet": "gifted",
+    "anisearch": 16346,
     "notify": null
   },
   "title": {
@@ -35,11 +35,7 @@
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -48,30 +44,33 @@
     "kitsuRating": null
   },
   "genres": [
-    "Mystery"
+    "Detective",
+    "Mystery",
+    "Shoujo",
+    "Super Power",
+    "Drama"
   ],
   "studios": [],
   "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1475/158353l.jpg",
     "banner": null,
-    "color": null
+    "color": "#e4d60d"
   },
   "trailer": null,
   "synopsis": "Natsuki Amakusa is a talented young detective with the Tokyo Metropolitan Police Department. One day, he meets Yuuya Shiki, a high school student with a mysterious ability to see \"marks\" on murderers.\n\nAfter Yuuya helps solve a complex murder case, Natsuki decides to recruit him. The two team up as partners to investigate various criminal cases while working to uncover the mystery behind Yuuya's hidden power.\n\n(Source: MAL News)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-03T07:11:09.109Z",
+    "lastFetched": "2026-11-24T09:48:38.535Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

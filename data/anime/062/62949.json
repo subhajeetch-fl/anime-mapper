@@ -3,7 +3,7 @@
   "idMal": 62949,
   "mappings": {
     "mal": 62949,
-    "anilist": null,
+    "anilist": 214872,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -21,7 +21,9 @@
     "romaji": "Liangyao",
     "english": "Wonder Drug",
     "native": "良药",
-    "synonyms": []
+    "synonyms": [
+      "Wonder Drug"
+    ]
   },
   "type": "ONA",
   "source": "Original",
@@ -30,16 +32,12 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": "2026-01-01T00:00:00+00:00",
+    "from": "2027-01-01T00:00:00+00:00",
     "to": null
   },
   "season": null,
   "year": null,
-  "broadcast": {
-    "day": null,
-    "time": null,
-    "timezone": null
-  },
+  "broadcast": null,
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -53,30 +51,30 @@
     "Fantasy"
   ],
   "studios": [],
-  "producers": [
-    "bilibili"
-  ],
+  "producers": [],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1652/155269l.jpg",
     "banner": null,
-    "color": null
+    "color": "#28a1e4"
   },
-  "trailer": null,
-  "synopsis": "It tells the story of a group of heroes in a fictional world where all medicines are forbidden. A wandering swordsman named Shao Xia, an amnesiac pharmacist named Wuming, a passionate constable named Susu, and a royal pharmacist named Xu Changqing form an alliance while searching for a mysterious monster. They gradually uncover the dark truth behind the city. The group must choose between trust and betrayal, power and consequences, attempting to save themselves and others in this unbalanced world.\n\n(Source: Bilibili, translated)",
+  "trailer": {
+    "youtubeId": "-MNtlruVt8U",
+    "url": "https://www.youtube.com/watch?v=-MNtlruVt8U",
+    "thumbnail": "https://i.ytimg.com/vi/-MNtlruVt8U/hqdefault.jpg"
+  },
+  "synopsis": "Wonder Drug is set in an imagined world where all medicines are forbidden. A wandering young swordsman from Luocheng, an amnesiac apothecary known as Wuming, the hot-blooded constable Susu, and imperial pharmacist Xu Changqing form an alliance while pursuing a mysterious monster. Together, they gradually uncover the dark truth behind the city.\n\n(Source: Bilibili)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-07-02T08:07:48.497Z",
+    "lastFetched": "2026-11-24T09:43:15.774Z",
     "sourcesUsed": [
-      "jikan",
+      "mal",
       "kitsu",
-      "animeapi.my.id",
+      "anilist",
+      "animeApi database",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)",
-      "episodes (no data from Zenshin or Jikan)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

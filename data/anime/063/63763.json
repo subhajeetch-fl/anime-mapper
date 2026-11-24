@@ -38,7 +38,11 @@
   },
   "season": "winter",
   "year": 2027,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Mondays",
+    "time": null,
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
   "rating": null,
   "score": {
@@ -70,7 +74,7 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-11-21T17:46:27.005Z",
+    "lastFetched": "2026-11-24T10:01:54.384Z",
     "sourcesUsed": [
       "mal",
       "kitsu",
