@@ -28,7 +28,7 @@
   "status": "Currently Airing",
   "airing": true,
   "episodeCount": 20,
-  "episodeLength": null,
+  "episodeLength": 1,
   "aired": {
     "from": "2026-11-14T00:00:00+00:00",
     "to": null
@@ -62,15 +62,15 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-11-22T12:11:24.128Z",
+    "lastFetched": "2026-11-24T21:15:12.125Z",
     "sourcesUsed": [
       "mal",
-      "kitsu",
       "animeApi database",
       "zenshin"
     ],
     "missingSources": [
-      "anilist (not in ID mappings)"
+      "anilist (not in ID mappings)",
+      "kitsu (skipped - not needed)"
     ],
     "dataVersion": 1
   }
