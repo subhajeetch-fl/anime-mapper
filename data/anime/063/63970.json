@@ -43,7 +43,10 @@
     "time": "01:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1799510400
+  },
   "rating": null,
   "score": {
     "malScore": null,
@@ -67,15 +70,15 @@
     "color": "#5dbbf1"
   },
   "trailer": {
-    "youtubeId": "GpsgYnS0p8I",
-    "url": "https://www.youtube.com/watch?v=GpsgYnS0p8I",
-    "thumbnail": "https://i.ytimg.com/vi/GpsgYnS0p8I/hqdefault.jpg"
+    "youtubeId": "pLuS4_5FziQ",
+    "url": "https://www.youtube.com/watch?v=pLuS4_5FziQ",
+    "thumbnail": "https://i.ytimg.com/vi/pLuS4_5FziQ/hqdefault.jpg"
   },
   "synopsis": "Forty-year-old detective Eiji Kirisame has found maybe the strangest witness of his life: a silent high school girl named Tsugumi Kuchinashi who was at the scene of the crime. Her statements mostly consist of shoddy doodles on a drawing pad, but Eiji is no stranger to piecing together the truth from limited evidence. He'll take every page seriously if it might help solve the case. But why does the last page say... \"Will you marry me?!\"\n\n(Source: Yen Press)",
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-11-21T14:21:09.324Z",
+    "lastFetched": "2026-11-25T20:32:00.222Z",
     "sourcesUsed": [
       "mal",
       "kitsu",

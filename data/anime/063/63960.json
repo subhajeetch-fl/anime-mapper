@@ -3,7 +3,7 @@
   "idMal": 63960,
   "mappings": {
     "mal": 63960,
-    "anilist": null,
+    "anilist": 220167,
     "anidb": null,
     "kitsu": null,
     "simkl": null,
@@ -18,10 +18,12 @@
     "notify": null
   },
   "title": {
-    "romaji": "Hidan no Aria: Corto",
+    "romaji": "Hidan no Aria Corto",
     "english": "Aria the Scarlet Ammo: Corto",
-    "native": "緋弾のアリアCorto",
-    "synonyms": []
+    "native": "緋弾のアリア Corto",
+    "synonyms": [
+      "Aria the Scarlet Ammo Corto"
+    ]
   },
   "type": "ONA",
   "source": "Light novel",
@@ -54,27 +56,42 @@
   "studios": [
     "Bellnox Films"
   ],
-  "producers": [],
+  "producers": [
+    "KADOKAWA"
+  ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1558/161310l.jpg",
     "banner": null,
-    "color": null
+    "color": "#5de4d6"
   },
   "trailer": null,
   "synopsis": "A short anime commemorating the anime series' 15th anniversary.",
-  "sequence": [],
+  "sequence": [
+    {
+      "malId": 8630,
+      "title": {
+        "romaji": "Hidan no Aria",
+        "english": "Aria the Scarlet Ammo",
+        "native": "緋弾のアリア"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8630-n8Ipf0NlVXjy.jpg",
+      "format": "TV",
+      "episodes": 12,
+      "seasonYear": 2011,
+      "relationType": "ALTERNATIVE"
+    }
+  ],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-11-22T18:29:22.657Z",
+    "lastFetched": "2026-11-25T20:31:57.821Z",
     "sourcesUsed": [
       "mal",
       "kitsu",
+      "anilist",
       "animeApi database",
       "zenshin"
     ],
-    "missingSources": [
-      "anilist (not in ID mappings)"
-    ],
+    "missingSources": [],
     "dataVersion": 1
   }
 }

@@ -42,7 +42,10 @@
     "time": "23:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1799505000
+  },
   "rating": "PG-13 - Teens 13 or older",
   "score": {
     "malScore": null,
@@ -294,7 +297,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-11-22T18:31:32.560Z",
+    "lastFetched": "2026-11-25T20:33:59.225Z",
     "sourcesUsed": [
       "mal",
       "anilist",
