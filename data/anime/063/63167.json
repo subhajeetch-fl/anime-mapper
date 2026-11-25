@@ -5,7 +5,7 @@
     "mal": 63167,
     "anilist": 204561,
     "anidb": 19786,
-    "kitsu": null,
+    "kitsu": 50997,
     "simkl": 2975262,
     "tmdb": null,
     "tvdb": null,
@@ -35,8 +35,8 @@
   "episodeCount": 1,
   "episodeLength": null,
   "aired": {
-    "from": null,
-    "to": null
+    "from": "2026-11-13",
+    "to": "2026-11-13"
   },
   "season": null,
   "year": null,
@@ -49,7 +49,9 @@
     "kitsuRating": null
   },
   "genres": [
-    "Mahou Shoujo"
+    "Mahou Shoujo",
+    "Magical Girl",
+    "Magic"
   ],
   "studios": [
     "Ashi Productions",
@@ -57,7 +59,7 @@
   ],
   "producers": [],
   "images": {
-    "poster": "https://cdn.myanimelist.net/images/anime/1011/159100l.jpg",
+    "poster": "https://cdn.myanimelist.net/images/anime/1011/159100l.webp",
     "banner": null,
     "color": "#5dc9f1"
   },
@@ -82,17 +84,36 @@
       "relationType": "PARENT"
     }
   ],
-  "episodes": {},
+  "episodes": {
+    "1": {
+      "episode": "1",
+      "length": null,
+      "airDate": null,
+      "title": {
+        "en": null,
+        "romaji": null,
+        "ja": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "absoluteEpisodeNumber": 1,
+      "runtime": null,
+      "image": null
+    }
+  },
   "meta": {
-    "lastFetched": "2026-11-21T14:18:12.502Z",
+    "lastFetched": "2026-11-25T08:41:24.503Z",
     "sourcesUsed": [
       "mal",
-      "kitsu",
       "anilist",
       "animeApi database",
       "zenshin"
     ],
-    "missingSources": [],
+    "missingSources": [
+      "kitsu-episodes (fallback)"
+    ],
     "dataVersion": 1
   }
 }

@@ -39,12 +39,12 @@
   "year": 2025,
   "broadcast": null,
   "nextAiringEpisode": {
-    "episode": 47,
-    "airingAt": 1795561200
+    "episode": 48,
+    "airingAt": 1796166000
   },
   "rating": "G - All Ages",
   "score": {
-    "malScore": 6.82,
+    "malScore": 6.83,
     "anilistScore": 6.5,
     "kitsuRating": null
   },
@@ -857,7 +857,9 @@
       "length": 1,
       "airDate": "2026-11-25",
       "title": {
-        "en": null
+        "en": "Snuggly Scarf",
+        "romaji": "Muffler Nukunuku",
+        "ja": "マフラーぬくぬく"
       },
       "tvdbShowId": null,
       "tvdbId": null,
@@ -885,7 +887,7 @@
     "49": {
       "episode": "49",
       "length": 1,
-      "airDate": null,
+      "airDate": "2026-12-09",
       "title": {
         "en": null
       },
@@ -900,7 +902,7 @@
     "50": {
       "episode": "50",
       "length": 1,
-      "airDate": null,
+      "airDate": "2026-12-16",
       "title": {
         "en": null
       },
@@ -915,7 +917,7 @@
     "51": {
       "episode": "51",
       "length": 1,
-      "airDate": null,
+      "airDate": "2026-12-23",
       "title": {
         "en": null
       },
@@ -926,10 +928,25 @@
       "absoluteEpisodeNumber": null,
       "runtime": null,
       "image": null
+    },
+    "52": {
+      "episode": "52",
+      "length": 1,
+      "airDate": "2026-12-30",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 52,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
     }
   },
   "meta": {
-    "lastFetched": "2026-11-21T14:18:05.502Z",
+    "lastFetched": "2026-11-25T08:41:15.137Z",
     "sourcesUsed": [
       "mal",
       "anilist",
