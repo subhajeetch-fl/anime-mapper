@@ -43,7 +43,10 @@
     "time": "01:23",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1799425380
+  },
   "rating": null,
   "score": {
     "malScore": null,
@@ -70,12 +73,12 @@
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1656/161370l.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205130-BDtd2yGv1a7O.jpg",
-    "color": "#e4ae5d"
+    "color": "#865000"
   },
   "trailer": {
-    "youtubeId": "GM1Y206Unwg",
-    "url": "https://www.youtube.com/watch?v=GM1Y206Unwg",
-    "thumbnail": "https://i.ytimg.com/vi/GM1Y206Unwg/hqdefault.jpg"
+    "youtubeId": "MSYV142dqsg",
+    "url": "https://www.youtube.com/watch?v=MSYV142dqsg",
+    "thumbnail": "https://i.ytimg.com/vi/MSYV142dqsg/hqdefault.jpg"
   },
   "synopsis": "Alexander the Great is a name known around the world as belonging to one of the greatest military commanders in history. But due to the grandeur of his name and enormity of his achievements, his right-hand man Eumenes remains a lesser-known historical figure. Eumenes led a turbulent life, overcoming numerous struggles and traveling great distances to meet and befriend many of the most influential names of his time.\n\nOne does not become the right hand of Alexander the Great by mere birth. Eumenes fought for his position with fierce talent, intellect, and confidence. This is his story.\n\n[Written by MAL Rewrite]",
   "sequence": [],
@@ -507,7 +510,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-11-25T08:41:40.017Z",
+    "lastFetched": "2026-11-26T20:13:56.792Z",
     "sourcesUsed": [
       "mal",
       "anilist",

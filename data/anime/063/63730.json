@@ -43,7 +43,10 @@
     "time": "22:00",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1799240400
+  },
   "rating": null,
   "score": {
     "malScore": null,
@@ -67,9 +70,9 @@
     "color": "#e4ae5d"
   },
   "trailer": {
-    "youtubeId": "G7ddo_2gKXE",
-    "url": "https://www.youtube.com/watch?v=G7ddo_2gKXE",
-    "thumbnail": "https://i.ytimg.com/vi/G7ddo_2gKXE/hqdefault.jpg"
+    "youtubeId": "GdakXIvTowI",
+    "url": "https://www.youtube.com/watch?v=GdakXIvTowI",
+    "thumbnail": "https://i.ytimg.com/vi/GdakXIvTowI/hqdefault.jpg"
   },
   "synopsis": "Bard Cornelius: the son of a nobleman of Mauricia, an empire located in a parallel universe. But Bard is no ordinary boy—he's got three souls packed into one body! Aside from his own consciousness, he's got Oka Sanai, a miserly samurai, and Masaharu Oka, a high school otaku who loves animal ears. With his extra knowledge of military tactics and business acumen, Bard's ready to cheat his way to the top!\n\n(Source: One Peace Books)",
   "sequence": [],
@@ -450,7 +453,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-11-21T17:46:14.161Z",
+    "lastFetched": "2026-11-26T20:15:44.603Z",
     "sourcesUsed": [
       "mal",
       "anilist",
