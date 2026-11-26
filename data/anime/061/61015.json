@@ -43,7 +43,10 @@
     "time": "23:30",
     "timezone": "Asia/Tokyo"
   },
-  "nextAiringEpisode": null,
+  "nextAiringEpisode": {
+    "episode": 1,
+    "airingAt": 1798986600
+  },
   "rating": null,
   "score": {
     "malScore": null,
@@ -69,9 +72,9 @@
     "color": "#f1c9ae"
   },
   "trailer": {
-    "youtubeId": "yavypPvVcnw",
-    "url": "https://www.youtube.com/watch?v=yavypPvVcnw",
-    "thumbnail": "https://i.ytimg.com/vi/yavypPvVcnw/hqdefault.jpg"
+    "youtubeId": "H3o1pIdPU74",
+    "url": "https://www.youtube.com/watch?v=H3o1pIdPU74",
+    "thumbnail": "https://i.ytimg.com/vi/H3o1pIdPU74/hqdefault.jpg"
   },
   "synopsis": "The Dungeon City is a wicked place filled with crime, debauchery, and death. Its one shining light is Arwin, the beautiful Crimson Princess Knight. She and her brave party of adventurers descend into the dungeon at the city's center, seeking a legendary treasure with the power to rebuild the princess's fallen kingdom. Many yearn to be by her side, but that spot is already taken by Matthew, a man despised by all in town as a cowardly weakling. Everyone thinks he is scum who just spends her hard-earned money on booze, women, and gambling. No one in the city—not even the princess knight— knows what Matthew is truly capable of.\n\n(Source: Yen Press)",
   "sequence": [],
@@ -452,7 +455,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-11-25T08:34:31.480Z",
+    "lastFetched": "2026-11-26T03:29:55.184Z",
     "sourcesUsed": [
       "mal",
       "anilist",
