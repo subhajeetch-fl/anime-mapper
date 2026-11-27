@@ -48,11 +48,11 @@
   "source": "Game",
   "status": "Currently Airing",
   "airing": true,
-  "episodeCount": null,
+  "episodeCount": 162,
   "episodeLength": 25,
   "aired": {
     "from": "2023-04-14T00:00:00+00:00",
-    "to": null
+    "to": "2026-12-18T00:00:00+00:00"
   },
   "season": "spring",
   "year": 2023,
@@ -62,8 +62,8 @@
     "timezone": "Asia/Tokyo"
   },
   "nextAiringEpisode": {
-    "episode": 159,
-    "airingAt": 1795773300
+    "episode": 160,
+    "airingAt": 1796378100
   },
   "rating": "PG - Children",
   "score": {
@@ -3190,6 +3190,66 @@
       "runtime": 25,
       "image": "https://artworks.thetvdb.com/banners/v4/episode/12068043/screencap/6b0045c3d5fca.jpg"
     },
+    "160": {
+      "episode": "160",
+      "length": 25,
+      "airDate": "2026-12-04",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 12110841,
+      "seasonNumber": 20,
+      "episodeNumber": 160,
+      "absoluteEpisodeNumber": null,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12110841/screencap/6b099321a6cf6.jpg"
+    },
+    "161": {
+      "episode": "161",
+      "length": 25,
+      "airDate": "2026-12-11",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 12112295,
+      "seasonNumber": 20,
+      "episodeNumber": 161,
+      "absoluteEpisodeNumber": null,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12112295/screencap/6b09937baf189.jpg"
+    },
+    "162": {
+      "episode": "162",
+      "length": 25,
+      "airDate": "2026-12-18",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": 76703,
+      "tvdbId": 12112296,
+      "seasonNumber": 20,
+      "episodeNumber": 162,
+      "absoluteEpisodeNumber": null,
+      "runtime": 25,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/12112296/screencap/6b09938c1c101.jpg"
+    },
+    "163": {
+      "episode": "163",
+      "length": 25,
+      "airDate": "2026-12-25",
+      "title": {
+        "en": null
+      },
+      "tvdbShowId": null,
+      "tvdbId": null,
+      "seasonNumber": null,
+      "episodeNumber": 163,
+      "absoluteEpisodeNumber": null,
+      "runtime": null,
+      "image": null
+    },
     "S1": {
       "episode": "S1",
       "length": 25,
@@ -3392,7 +3452,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-11-24T21:18:46.483Z",
+    "lastFetched": "2026-11-27T20:05:26.120Z",
     "sourcesUsed": [
       "mal",
       "anilist",

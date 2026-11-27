@@ -23,6 +23,7 @@
     "native": "ラーメン赤猫 其の二",
     "synonyms": [
       "Red Cat Ramen",
+      "Ramen Akaneko 2nd Season",
       "Ramen Akaneko Season 2",
       "ラーメン赤猫 第2期",
       "Ramen Aka Neko 2nd Season"
@@ -35,12 +36,16 @@
   "episodeCount": null,
   "episodeLength": null,
   "aired": {
-    "from": "2027-01-01T00:00:00+00:00",
+    "from": "2027-01-10T00:00:00+00:00",
     "to": null
   },
   "season": "winter",
   "year": 2027,
-  "broadcast": null,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo"
+  },
   "nextAiringEpisode": null,
   "rating": "PG-13 - Teens 13 or older",
   "score": {
@@ -61,7 +66,8 @@
   ],
   "producers": [
     "Good Smile Company",
-    "GAGA"
+    "GAGA",
+    "TV Tokyo"
   ],
   "images": {
     "poster": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
@@ -69,9 +75,9 @@
     "color": "#e4865d"
   },
   "trailer": {
-    "youtubeId": "DK7UiS4hMz0",
-    "url": "https://www.youtube.com/watch?v=DK7UiS4hMz0",
-    "thumbnail": "https://i.ytimg.com/vi/DK7UiS4hMz0/hqdefault.jpg"
+    "youtubeId": "AgruQ6MGB4Y",
+    "url": "https://www.youtube.com/watch?v=AgruQ6MGB4Y",
+    "thumbnail": "https://i.ytimg.com/vi/AgruQ6MGB4Y/hqdefault.jpg"
   },
   "synopsis": "Second season of Ramen Akaneko.",
   "sequence": [
@@ -466,7 +472,7 @@
     }
   },
   "meta": {
-    "lastFetched": "2026-11-21T14:11:38.013Z",
+    "lastFetched": "2026-11-27T20:08:50.004Z",
     "sourcesUsed": [
       "mal",
       "anilist",
