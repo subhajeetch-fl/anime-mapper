@@ -27,8 +27,8 @@
   },
   "type": "OVA",
   "source": "Manga",
-  "status": "Not yet aired",
-  "airing": false,
+  "status": "Currently Airing",
+  "airing": true,
   "episodeCount": null,
   "episodeLength": 30,
   "aired": {
@@ -38,10 +38,7 @@
   "season": "fall",
   "year": 2026,
   "broadcast": null,
-  "nextAiringEpisode": {
-    "episode": 1,
-    "airingAt": 1795705200
-  },
+  "nextAiringEpisode": null,
   "rating": "Rx - Hentai",
   "score": {
     "malScore": null,
@@ -67,7 +64,7 @@
   "sequence": [],
   "episodes": {},
   "meta": {
-    "lastFetched": "2026-11-22T12:01:50.897Z",
+    "lastFetched": "2026-11-27T03:26:55.219Z",
     "sourcesUsed": [
       "mal",
       "kitsu",
